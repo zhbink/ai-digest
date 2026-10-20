@@ -64,20 +64,27 @@ function parseArticleHash() {
   return m ? decodeURIComponent(m[1]) : null;
 }
 
+// selected date lives in ?date=YYYY-MM-DD (hash stays free for #/article/<id> deep links)
+function dateFromUrl() {
+  const d = new URLSearchParams(location.search).get("date");
+  return d && /^\d{4}-\d{2}-\d{2}$/.test(d) ? d : null;
+}
+function setDateInUrl(d, latest) {
+  const u = new URL(location.href);
+  if (latest) u.searchParams.delete("date"); else u.searchParams.set("date", d);
+  history.replaceState(null, "", u.pathname + u.search + u.hash);
+}
+let picker = null;
 async function loadDays() {
   const data = await api("data/index.json");
-  const sel = document.getElementById("daySelect");
-  sel.innerHTML = "";
-  (data.dates || []).forEach(d => {
-    const opt = document.createElement("option");
-    opt.value = d; opt.textContent = d;
-    sel.appendChild(opt);
+  const dates = data.dates || [];                 // newest first
+  const want = dateFromUrl();
+  state.date = dates.includes(want) ? want : dates[0] || null;
+  picker = DatePicker(document.getElementById("datePicker"), {
+    dates, value: state.date,
+    onChange: d => { state.date = d; setDateInUrl(d, d === dates[0]); loadDay(); },
   });
-  if (data.dates?.length) {
-    state.date = data.dates[0];
-    sel.value = state.date;
-  }
-  sel.onchange = () => { state.date = sel.value; loadDay(); };
+  if (new URLSearchParams(location.search).get("cal") === "open") setTimeout(() => picker.open(), 0); // debug/screenshot hook
 }
 
 async function loadDay() {

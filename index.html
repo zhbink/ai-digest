@@ -17,10 +17,10 @@
         </div>
       </div>
       <div class="controls">
-        <label class="field">
-          <span>日期</span>
-          <select id="daySelect"></select>
-        </label>
+        <div class="field">
+          <span id="dateLabel">日期</span>
+          <div id="datePicker" aria-labelledby="dateLabel"></div>
+        </div>
         <label class="field grow">
           <span>搜索作者 / 关键词</span>
           <input id="search" type="search" placeholder="如 omarsar0、可灵、evals…" />
@@ -59,6 +59,7 @@
     </div>
   </div>
 
+  <script src="static/calendar.js"></script>
   <script src="static/app.js"></script>
 </body>
 </html>
