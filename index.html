@@ -3,8 +3,10 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <!-- video.twimg.com rejects requests with a foreign Referer (403) — send none so hot-linked mp4s play -->
+  <meta name="referrer" content="no-referrer" />
   <title>AI 日报 · X Digest</title>
-  <link rel="stylesheet" href="static/styles.css?v=a2a55459c8" />
+  <link rel="stylesheet" href="static/styles.css?v=a54f236def" />
 </head>
 <body>
   <div class="app">
@@ -83,9 +85,16 @@
     </div>
   </div>
 
+  <div id="lightbox" class="lightbox" hidden role="dialog" aria-modal="true" aria-label="图片预览">
+    <button type="button" class="lb-close" aria-label="关闭">×</button>
+    <button type="button" class="lb-nav lb-prev" aria-label="上一张">‹</button>
+    <figure class="lb-fig"><img id="lbImg" alt="" /><figcaption id="lbCap"></figcaption></figure>
+    <button type="button" class="lb-nav lb-next" aria-label="下一张">›</button>
+  </div>
+
   <div id="toast" class="toast" role="status" hidden></div>
 
   <script src="static/calendar.js?v=e69bb8fcfc"></script>
-  <script src="static/app.js?v=d74b7597db"></script>
+  <script src="static/app.js?v=828fc5da6e"></script>
 </body>
 </html>

@@ -151,6 +151,12 @@ async function loadDays() {
     const base = Date.now();
     demo.forEach((id, i) => { const p = findPost(id); if (p && !follows.has(id)) follows.add(p, new Date(base - i * 60000).toISOString()); });
   }
+  const sec = qs.get("section");
+  if (["agent", "zh", "video"].includes(sec)) {
+    state.section = sec;
+    [...document.getElementById("tabs").children].forEach(b => b.classList.toggle("active", b.dataset.section === sec));
+  }
+  if (qs.get("q")) { state.q = qs.get("q"); document.getElementById("search").value = state.q; }
   if (qs.get("view") === "follow") state.view = "follow";
   if (qs.get("view") === "config") state.view = "config";
   updateFollowUI();
@@ -318,6 +324,71 @@ async function renderConfig() {
   document.getElementById("cfgBack").onclick = () => setView("day");
 }
 
+// ---- media (photos saved under data/media; videos hot-linked from video.twimg.com, poster local)
+const mediaUrl = rel => `data/${rel}`;
+function fmtDur(ms) { if (!ms) return ""; const s = Math.round(ms / 1000); return `${Math.floor(s / 60)}:${String(s % 60).padStart(2, "0")}`; }
+function mediaGrid(p, opts = {}) {
+  const lazy = opts.eager ? "eager" : "lazy";
+  const ms = (p.media || []).filter(m => m.src || m.poster);
+  if (!ms.length) return "";
+  const shown = ms.slice(0, 4);
+  const quote = ms.every(m => m.from_quote);
+  const cells = shown.map((m, i) => {
+    const ratio = m.w && m.h ? `${m.w} / ${m.h}` : "16 / 9";
+    if (m.type === "photo") {
+      return `<button type="button" class="m-cell m-photo" data-lb="${i}" style="--ar:${ratio}" aria-label="查看大图${m.alt ? "：" + escapeHtml(m.alt) : ""}">
+        <img src="${escapeHtml(mediaUrl(m.src))}" alt="${escapeHtml(m.alt || "")}" loading="${lazy}" decoding="async" width="${m.w || ""}" height="${m.h || ""}" />
+        ${i === 3 && ms.length > 4 ? `<span class="m-more">+${ms.length - 4}</span>` : ""}</button>`;
+    }
+    const gif = m.type === "animated_gif";
+    const src = m.local_mp4 ? mediaUrl(m.local_mp4) : m.mp4;
+    if (!src) return posterLink(p, m, ratio);
+    return `<div class="m-cell m-video${gif ? " m-gif" : ""}" style="--ar:${ratio}">
+      <video ${gif ? "autoplay muted loop" : "controls"} playsinline preload="${gif ? "auto" : "none"}" poster="${escapeHtml(mediaUrl(m.poster))}"
+        src="${escapeHtml(src)}" data-fallback="${escapeHtml(p.post_url || "")}"></video>
+      ${gif ? `<span class="m-badge">GIF</span>` : m.duration_ms ? `<span class="m-badge">${fmtDur(m.duration_ms)}</span>` : ""}</div>`;
+  }).join("");
+  return `${quote ? `<div class="m-quote">引用帖中的媒体</div>` : ""}<div class="media n${shown.length}${opts.reader ? " in-reader" : ""}">${cells}</div>`;
+}
+function posterLink(p, m, ratio) {
+  return `<a class="m-cell m-video m-fallback" style="--ar:${ratio}" href="${escapeHtml(p.post_url || "#")}" target="_blank" rel="noopener" title="在 X 上播放">
+    <img src="${escapeHtml(mediaUrl(m.poster))}" alt="${escapeHtml(m.alt || "")}" loading="lazy" /><span class="m-play">▶</span></a>`;
+}
+function bindMedia(root, p) {
+  root.querySelectorAll("[data-lb]").forEach(b => b.addEventListener("click", () => openLightbox(p, +b.dataset.lb)));
+  root.querySelectorAll("video[data-fallback]").forEach(v => v.addEventListener("error", () => {
+    const cell = v.closest(".m-cell"); const m = { poster: v.getAttribute("poster").replace(/^data\//, "") };
+    if (cell) cell.outerHTML = posterLink(p, m, getComputedStyle(cell).getPropertyValue("--ar"));
+  }, { once: true }));
+}
+const lb = { items: [], i: 0 };
+function openLightbox(p, i) {
+  lb.items = (p.media || []).filter(m => m.type === "photo" && m.src);
+  const want = (p.media || []).filter(m => m.src || m.poster)[i];
+  lb.i = Math.max(0, lb.items.indexOf(want));
+  showLb(); document.getElementById("lightbox").hidden = false;
+  document.querySelector("#lightbox .lb-close").focus();
+}
+function showLb() {
+  const m = lb.items[lb.i]; if (!m) return;
+  document.getElementById("lbImg").src = mediaUrl(m.src);
+  document.getElementById("lbImg").alt = m.alt || "";
+  document.getElementById("lbCap").textContent = (lb.items.length > 1 ? `${lb.i + 1} / ${lb.items.length}` : "") + (m.alt ? `  ${m.alt}` : "");
+  document.querySelectorAll("#lightbox .lb-nav").forEach(b => { b.hidden = lb.items.length < 2; });
+}
+function closeLb() { document.getElementById("lightbox").hidden = true; document.getElementById("lbImg").src = ""; }
+document.getElementById("lightbox").addEventListener("click", (e) => {
+  if (e.target.closest(".lb-prev")) { lb.i = (lb.i - 1 + lb.items.length) % lb.items.length; showLb(); }
+  else if (e.target.closest(".lb-next")) { lb.i = (lb.i + 1) % lb.items.length; showLb(); }
+  else if (!e.target.closest("#lbImg")) closeLb();
+});
+document.addEventListener("keydown", (e) => {
+  if (document.getElementById("lightbox").hidden) return;
+  if (e.key === "Escape") { e.stopPropagation(); closeLb(); }
+  else if (e.key === "ArrowLeft" && lb.items.length > 1) { lb.i = (lb.i - 1 + lb.items.length) % lb.items.length; showLb(); }
+  else if (e.key === "ArrowRight" && lb.items.length > 1) { lb.i = (lb.i + 1) % lb.items.length; showLb(); }
+}, true);
+
 function recChip(p) {
   if (p.rec_score == null) return "";
   return p.recommended
@@ -329,7 +400,7 @@ function renderFeed(posts, opts = {}) {
   const empty = document.getElementById("empty");
   feed.innerHTML = "";
   empty.hidden = posts.length > 0;
-  posts.forEach(p => {
+  posts.forEach((p, idx) => {
     const el = document.createElement("article");
     el.className = "card";
     const av = avatarUrl(p.avatar);
@@ -346,6 +417,7 @@ function renderFeed(posts, opts = {}) {
       ${p._stub ? `<div class="body-text">（该日数据暂不可用，仅显示已保存的信息）</div>` : p.article_summary_zh
         ? `<div class="digest"><div class="digest-label">要点总结</div><div class="digest-text">${escapeHtml(p.article_summary_zh)}</div></div>`
         : `<div class="body-text">${clip(p.text_zh || p.text)}</div>`}
+      ${mediaGrid(p, { eager: idx < 4 })}
       <div class="card-foot">
         ${p._stub ? "" : `<span>♥ ${p.metrics?.likes ?? 0}</span>
         <span>↻ ${p.metrics?.reposts ?? 0}</span>
@@ -362,6 +434,7 @@ function renderFeed(posts, opts = {}) {
       b.dataset.tr = toOrig ? "orig" : "zh";
       b.textContent = toOrig ? "显示译文" : "查看原文";
     });
+    bindMedia(el, p);
     el.querySelector("[data-follow]").addEventListener("click", (ev) => {
       const id = ev.currentTarget.dataset.follow;
       if (follows.has(id)) follows.remove(id); else follows.add(p);
@@ -399,7 +472,12 @@ async function openArticle(id, fallbackUrl) {
       const html = (zh && art.html_zh) || art.html || "";
       const hasH1 = /<h1[\s>]/i.test(html);
       const note = hasZh ? `<p class="tr-note">${zh ? "以下为机器翻译" : "原文"}</p>` : "";
-      body.innerHTML = (hasH1 ? "" : `<h1>${escapeHtml(title)}</h1>`) + note + html;
+      const artHasImg = /<img[\s>]/i.test(html) || (art.images || []).length > 0;
+      const pm = post && !artHasImg ? mediaGrid(post, { reader: true }) : "";
+      body.innerHTML = hasH1 && pm
+        ? note + html.replace(/<\/h1>/i, `</h1>${pm}`)
+        : (hasH1 ? "" : `<h1>${escapeHtml(title)}</h1>`) + note + pm + html;
+      if (pm && post) bindMedia(body, post);
       if (!html && title) body.innerHTML = `<h1>${escapeHtml(title)}</h1><p>（无正文）</p>`;
       tr.textContent = zh ? "查看原文" : "显示译文";
       tr.dataset.tr = zh ? "zh" : "orig";
