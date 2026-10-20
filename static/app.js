@@ -601,23 +601,60 @@ async function enrichFollow(it) {
   if (p.is_article && p.article_id) {
     out.article_title_zh = p.article_title_zh || p.article_title || null;
     out.article_summary_zh = p.article_summary_zh || null;
-    const u = new URL(document.baseURI); u.search = ""; u.hash = "";
-    if (it.date || p._date) u.searchParams.set("date", it.date || p._date);
-    out.article_link = `${u.href}#/article/${encodeURIComponent(p.article_id)}`;
+    out.article_link = articleLink(p, it.date || p._date);
   }
   return out;
 }
+function articleLink(p, date) {
+  if (!(p.is_article && p.article_id)) return null;
+  const u = new URL(document.baseURI); u.search = ""; u.hash = "";
+  if (date) u.searchParams.set("date", date);
+  return `${u.href}#/article/${encodeURIComponent(p.article_id)}`;
+}
+function externalLinks(p) {
+  const urls = [p.external_url, ...((p.entities?.urls) || []).map(u => u.unwound_url || u.expanded_url)].filter(Boolean);
+  return [...new Set(urls)].filter(u => !/^https?:\/\/(www\.)?(x|twitter)\.com\/[^/]+\/status\/\d+\/(photo|video)\//.test(u));
+}
+function downloadJson(payload, filename) {
+  const blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob); a.download = filename;
+  document.body.appendChild(a); a.click(); a.remove();
+  setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+}
+// 导出当日: every post of the selected day (all sections, ignores filters/sort), rec_score desc
+document.getElementById("dayExport").addEventListener("click", async () => {
+  if (!state.date) return;
+  flash("正在导出当日…");
+  const day = await ensureDay(state.date);
+  const posts = [...(day.posts || [])].sort(byRec).map(p => ({
+    id: p.id, section: p.section, section_label: sectionLabel[p.section] || p.section,
+    kinds: deriveKinds(p).map(k => kindLabel[k]),
+    author: { handle: p.handle, display_name: p.display_name },
+    created_at: p.created_at,
+    title: p.summary_zh || "",
+    summary: (p.is_article && p.article_summary_zh) || p.text_zh || p.text_short || p.text || "",
+    text_zh: p.text_zh || null, text: p.text || null,
+    rec_score: p.rec_score ?? null, recommended: !!p.recommended, rec_reason: p.rec_reason || null,
+    post_url: p.post_url || null,
+    article_link: articleLink(p, state.date),
+    article_title_zh: p.is_article ? (p.article_title_zh || p.article_title || null) : null,
+    external_links: externalLinks(p),
+    media: exportMedia(p),
+  }));
+  const bySec = {}; posts.forEach(p => { bySec[p.section] = (bySec[p.section] || 0) + 1; });
+  const counts = { posts: posts.length, by_section: bySec, articles: posts.filter(p => p.article_link).length,
+    recommended: posts.filter(p => p.recommended).length, media: posts.reduce((n, p) => n + p.media.length, 0) };
+  downloadJson({ app: "ai-digest", kind: "day", version: 1, date: state.date, trend_summary: day.trend_summary || "",
+    exported_at: new Date().toISOString(), counts, posts }, `ai-digest-${state.date}.json`);
+  flash(`已导出 ${state.date}：${posts.length} 条（${counts.media} 个图片/视频）`);
+});
 document.getElementById("followExport").addEventListener("click", async () => {
   flash("正在导出（含图片与视频链接）…");
   const items = await Promise.all(follows.all().map(enrichFollow));
   const nMedia = items.reduce((n, it) => n + ((it.media || []).length), 0);
   const payload = { app: "ai-digest", kind: "follows", version: 2, exported_at: new Date().toISOString(), items };
-  const blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });
-  const a = document.createElement("a");
-  a.href = URL.createObjectURL(blob);
-  a.download = `ai-digest-follows-${new Date().toISOString().slice(0, 10)}.json`;
-  document.body.appendChild(a); a.click(); a.remove();
-  setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+  downloadJson(payload, `ai-digest-follows-${new Date().toISOString().slice(0, 10)}.json`);
   flash(`已导出 ${items.length} 条关注（${nMedia} 个图片/视频）`);
 });
 document.getElementById("followImport").addEventListener("click", () => document.getElementById("followFile").click());
