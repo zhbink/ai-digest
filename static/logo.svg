@@ -1,16 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b2a5c"/><stop offset=".55" stop-color="#0f1530"/><stop offset="1" stop-color="#2a1748"/></linearGradient>
-    <linearGradient id="sp" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9cc4ff"/><stop offset=".5" stop-color="#7f8cff"/><stop offset="1" stop-color="#c98cff"/></linearGradient>
-    <radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#7f8cff" stop-opacity=".38"/><stop offset="1" stop-color="#7f8cff" stop-opacity="0"/></radialGradient>
-  </defs>
-  <rect x="1" y="1" width="62" height="62" rx="12" fill="url(#bg)"/><rect x="1.5" y="1.5" width="61" height="61" rx="11.5" fill="none" stroke="#ffffff" stroke-opacity=".12"/>
-  <circle cx="32" cy="32" r="22" fill="url(#glow)"/>
-  <g fill="none" stroke="#5ee1d0" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" opacity=".95">
-      <path d="M39 25 L46 18 L46 13"/><path d="M25 39 L18 46 L13 46"/></g>
-    <circle cx="46" cy="11.5" r="3.6" fill="#0d1128" stroke="#5ee1d0" stroke-width="2.4"/>
-    <circle cx="11.5" cy="46" r="3.6" fill="#0d1128" stroke="#5ee1d0" stroke-width="2.4"/>
-    <circle cx="50.5" cy="50.5" r="2.4" fill="#c084fc" opacity=".9"/>
-  <path d="M32 11 C33.6 26.5 37.5 30.4 53 32 C37.5 33.6 33.6 37.5 32 53 C30.4 37.5 26.5 33.6 11 32 C26.5 30.4 30.4 26.5 32 11Z" fill="url(#sp)"/>
-  <circle cx="32" cy="32" r="2.6" fill="#ffffff"/>
+  <defs><linearGradient id="ink" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#c9ccd3"/></linearGradient></defs>
+  <rect x="1" y="1" width="62" height="62" rx="12" fill="#000"/><rect x="1.5" y="1.5" width="61" height="61" rx="11.5" fill="none" stroke="#fff" stroke-opacity=".16"/>
+  <line x1="14" y1="12" x2="50" y2="52" stroke="url(#ink)" stroke-width="4"/>
+  <polygon points="43,8 53,8 21,56 11,56" fill="url(#ink)"/>
+  <circle cx="32" cy="32" r="8" fill="#000"/>
+  <path d="M32 25 C33 30 34 31 39 32 C34 33 33 34 32 39 C31 34 30 33 25 32 C30 31 31 30 32 25Z" fill="#fff"/>
 </svg>
