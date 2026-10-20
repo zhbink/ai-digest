@@ -77,45 +77,51 @@ const comments = {
   },
 };
 const exportComments = (pid) => comments.get(pid).map(({ id, text, created_at, updated_at }) => ({ id, text, created_at, updated_at }));
-function cmBtnLabel(pid) { const n = comments.count(pid); return `✎ 评论${n ? ` <b class="cm-n">${n}</b>` : ""}`; }
+function cmBtnLabel(pid) { const n = comments.count(pid); return `✎<span class="l"> 评论</span>${n ? ` <b class="cm-n">${n}</b>` : ""}`; }
 function updateCommentUI(pid) {
   document.querySelectorAll(`[data-cm-btn="${CSS.escape(pid)}"]`).forEach(b => { b.innerHTML = cmBtnLabel(pid); b.classList.toggle("has", comments.count(pid) > 0); });
 }
 // renders list + (optional) editor into box; post = post object (for auto-follow)
-function renderComments(box, post, { editor = false } = {}) {
+// box.dataset.keep="1": editor always open (mobile sheet); box.dataset.empty="1": show an empty state (reader side panel)
+function renderComments(box, post, { editor = false, focus = true } = {}) {
   const pid = post.id, list = comments.get(pid);
-  box.hidden = !editor && !list.length;
+  const keep = box.dataset.keep === "1", showEmpty = box.dataset.empty === "1";
+  editor = editor || keep;
+  box.hidden = !editor && !list.length && !showEmpty;
   box.innerHTML = `
     ${list.length ? `<div class="cm-list">${list.map(c => `
       <div class="cm-item" data-cid="${escapeHtml(c.id)}">
         <div class="cm-meta"><span>✎ ${fmtTime(c.created_at)}${c.updated_at && c.updated_at !== c.created_at ? ` · 已编辑 ${fmtTime(c.updated_at)}` : ""}</span>
           <span class="cm-ops"><button type="button" data-cm-edit>编辑</button><button type="button" data-cm-del>删除</button></span></div>
         <div class="cm-text">${escapeHtml(c.text)}</div>
-      </div>`).join("")}</div>` : ""}
+      </div>`).join("")}</div>` : (keep ? `<div class="cm-list cm-none">还没有评论，写下第一条吧。</div>` : "")}
+    ${!list.length && !editor && showEmpty ? `<div class="cm-empty">还没有评论 <button type="button" class="btn ghost sm" data-cm-new>✎ 写评论</button></div>` : ""}
     ${editor ? `<div class="cm-editor">
-      <textarea rows="3" placeholder="写下你的评论 / 批注（仅保存在本浏览器）… Ctrl/⌘+Enter 保存" aria-label="评论"></textarea>
-      <div class="cm-actions"><span class="cm-hint">保存后自动加入我的关注</span><button type="button" class="btn ghost sm" data-cm-cancel>取消</button><button type="button" class="btn primary sm" data-cm-save>保存</button></div>
+      <textarea rows="3" placeholder="写下你的评论 / 批注（仅保存在本浏览器）${keep ? "" : "… Ctrl/⌘+Enter 保存"}" aria-label="评论"></textarea>
+      <div class="cm-actions"><span class="cm-hint">保存后自动加入我的关注</span>${keep ? "" : `<button type="button" class="btn ghost sm" data-cm-cancel>取消</button>`}<button type="button" class="btn primary sm" data-cm-save>保存</button></div>
     </div>` : ""}`;
-  const rerender = (opts) => { renderComments(box, post, opts); updateCommentUI(pid); };
+  const rerender = (opts) => renderComments(box, post, { focus: false, ...opts });
+  box.querySelector("[data-cm-new]")?.addEventListener("click", () => rerender({ editor: true, focus: true }));
   const ta = box.querySelector(".cm-editor textarea");
   if (ta) {
-    ta.focus({ preventScroll: true });
+    if (focus) requestAnimationFrame(() => ta.focus({ preventScroll: true }));
     const save = () => {
       const text = ta.value.trim(); if (!text) { ta.focus({ preventScroll: true }); return; }
       comments.add(pid, text);
       if (!follows.has(pid)) { follows.add(post); flash("已保存评论，并加入我的关注"); } else flash("已保存评论");
       rerender({ editor: false });
+      if (keep) box.querySelector(".cm-list")?.lastElementChild?.scrollIntoView({ block: "nearest" });
     };
     box.querySelector("[data-cm-save]").onclick = save;
-    box.querySelector("[data-cm-cancel]").onclick = () => rerender({ editor: false });
+    const cancel = box.querySelector("[data-cm-cancel]"); if (cancel) cancel.onclick = () => rerender({ editor: false });
     ta.addEventListener("keydown", e => {
       if (e.key === "Enter" && (e.ctrlKey || e.metaKey)) { e.preventDefault(); save(); }
-      else if (e.key === "Escape") { e.preventDefault(); e.stopPropagation(); rerender({ editor: false }); }
+      else if (e.key === "Escape" && !keep) { e.preventDefault(); e.stopPropagation(); rerender({ editor: false }); }
     });
   }
   box.querySelectorAll(".cm-item").forEach(it => {
     const cid = it.dataset.cid;
-    it.querySelector("[data-cm-del]").onclick = () => { if (confirm("删除这条评论？")) { comments.remove(pid, cid); rerender({ editor: !!box.querySelector(".cm-editor") }); flash("已删除评论"); } };
+    it.querySelector("[data-cm-del]").onclick = () => { if (confirm("删除这条评论？")) { comments.remove(pid, cid); rerender({ editor: !!box.querySelector(".cm-editor > textarea[aria-label='评论']") }); flash("已删除评论"); } };
     it.querySelector("[data-cm-edit]").onclick = () => {
       const c = comments.get(pid).find(x => x.id === cid); if (!c) return;
       const t = it.querySelector(".cm-text");
@@ -129,21 +135,165 @@ function renderComments(box, post, { editor = false } = {}) {
         if (e.key === "Enter" && (e.ctrlKey || e.metaKey)) { e.preventDefault(); save(); }
         else if (e.key === "Escape") { e.preventDefault(); e.stopPropagation(); rerender({ editor: false }); }
       });
+      cmChanged(pid);
     };
   });
+  cmChanged(pid);
 }
+
+// ---- comment placement: "side" (margin notes, wide desktop) | "inline" (under the card) | "sheet" (mobile bottom sheet)
+const cmMode = () => innerWidth < 700 ? "sheet" : innerWidth >= 1200 ? "side" : "inline";
+let curCmMode = null;
+const cmEntries = new Map();   // pid -> {box, card, post, note}
+function cmChanged(pid) {
+  updateCommentUI(pid);
+  updateCmPreview(pid);
+  const e = cmEntries.get(pid);
+  if (e) placeCm(e);
+  scheduleRail();
+}
+function updateCmPreview(pid) {
+  const e = cmEntries.get(pid); if (!e) return;
+  const el = e.card.querySelector(".cm-preview"); if (!el) return;
+  const list = comments.get(pid);
+  el.hidden = !list.length;
+  if (list.length) el.innerHTML = `<span class="cm-pv-n">✎ ${list.length} 条评论</span><span class="cm-pv-t">${escapeHtml(list[list.length - 1].text.replace(/\s+/g, " "))}</span>`;
+}
+function placeCm(e) {
+  if (curCmMode === "side") {
+    if (!e.note) {
+      e.note = document.createElement("div");
+      e.note.className = "cm-note"; e.note.dataset.pid = e.post.id;
+      e.note.innerHTML = `<div class="cm-note-who">@${escapeHtml(e.post.handle || "")} · ${escapeHtml((e.post.summary_zh || "").slice(0, 24))}${(e.post.summary_zh || "").length > 24 ? "…" : ""}</div>`;
+      const hl = (on) => { e.card.classList.toggle("cm-hl", on); e.note.classList.toggle("hl", on); };
+      e.note.addEventListener("mouseenter", () => hl(true)); e.note.addEventListener("mouseleave", () => hl(false));
+      e.note.addEventListener("focusin", () => hl(true)); e.note.addEventListener("focusout", () => hl(false));
+      e.card.addEventListener("mouseenter", () => e.note && e.note.classList.add("hl"));
+      e.card.addEventListener("mouseleave", () => e.note && e.note.classList.remove("hl"));
+      // keep rail order == feed order
+      const rail = document.getElementById("cmRail");
+      const after = [...cmEntries.values()].slice([...cmEntries.keys()].indexOf(e.post.id) + 1).find(x => x.note && x.note.parentNode === rail);
+      rail.insertBefore(e.note, after ? after.note : null);
+    }
+    if (e.box.parentNode !== e.note) e.note.appendChild(e.box);
+    e.note.hidden = e.box.hidden;
+  } else {
+    if (e.box.parentNode !== e.card) e.card.appendChild(e.box);
+    if (e.note) { e.note.remove(); e.note = null; }
+  }
+}
+let railRaf = 0;
+function scheduleRail() { if (!railRaf) railRaf = requestAnimationFrame(() => { railRaf = 0; layoutRail(); }); }
+function layoutRail() {
+  const rail = document.getElementById("cmRail"), wrap = document.getElementById("feedWrap");
+  if (curCmMode !== "side") { rail.style.height = ""; wrap.style.minHeight = ""; return; }
+  const top0 = wrap.getBoundingClientRect().top;
+  let bottom = 0;
+  for (const e of cmEntries.values()) {
+    if (!e.note || e.note.hidden) continue;
+    const want = e.card.getBoundingClientRect().top - top0;
+    const top = Math.max(want, bottom ? bottom + 10 : 0);
+    e.note.style.top = `${Math.round(top)}px`;
+    e.note.classList.toggle("pushed", top - want > 4);
+    bottom = top + e.note.offsetHeight;
+  }
+  rail.style.height = `${Math.ceil(bottom)}px`;
+  wrap.style.minHeight = bottom ? `${Math.ceil(bottom)}px` : "";
+}
+function resetCm() {
+  cmEntries.clear();
+  const rail = document.getElementById("cmRail"); if (rail) rail.innerHTML = "";
+  scheduleRail();
+}
+function placeTopControls(mobile) {
+  const dp = document.getElementById("datePicker"), q = document.getElementById("search");
+  const dHome = document.querySelector(".controls .field:first-child"), qHome = document.querySelector(".controls label.field");
+  if (mobile) {
+    document.getElementById("mbarDate").appendChild(dp);
+    document.getElementById("mbarSearch").appendChild(q);
+  } else {
+    dHome.appendChild(dp); qHome.appendChild(q);
+    document.getElementById("mbarSearch").hidden = true; document.getElementById("mbMenu").hidden = true;
+  }
+}
+function applyCmMode(force) {
+  const m = cmMode();
+  if (m === curCmMode && !force) return;
+  if ((m === "sheet") !== (curCmMode === "sheet") || force) placeTopControls(m === "sheet");
+  curCmMode = m;
+  document.body.classList.remove("cmm-side", "cmm-inline", "cmm-sheet");
+  document.body.classList.add(`cmm-${m}`);
+  if (m !== "sheet") closeSheet();
+  for (const e of cmEntries.values()) placeCm(e);
+  if (readerPost) setupReaderComments(readerPost);
+  scheduleRail();
+}
+const railRO = typeof ResizeObserver !== "undefined" ? new ResizeObserver(() => scheduleRail()) : null;
+
+// ---- mobile bottom sheet
+const sheet = { post: null, y: 0 };
+function lockBody() {
+  sheet.y = window.scrollY;
+  Object.assign(document.body.style, { position: "fixed", top: `-${sheet.y}px`, left: "0", right: "0", width: "100%" });
+}
+function unlockBody() {
+  Object.assign(document.body.style, { position: "", top: "", left: "", right: "", width: "" });
+  window.scrollTo(0, sheet.y);
+}
+function openSheet(post, { focus = false } = {}) {
+  const el = document.getElementById("cmSheet"), box = document.getElementById("cmSheetBody");
+  if (!sheet.post) lockBody();
+  sheet.post = post;
+  document.getElementById("cmSheetTitle").textContent = post.summary_zh || `@${post.handle}`;
+  box.dataset.keep = "1";
+  el.hidden = false;
+  requestAnimationFrame(() => el.classList.add("open"));
+  renderComments(box, post, { editor: true, focus });
+  const list = box.querySelector(".cm-list"); if (list) list.scrollTop = list.scrollHeight;
+  fitSheet();
+}
+function closeSheet() {
+  const el = document.getElementById("cmSheet");
+  if (!el || !sheet.post) return;
+  const pid = sheet.post.id;
+  sheet.post = null;
+  el.classList.remove("open");
+  document.activeElement?.blur?.();
+  document.getElementById("cmSheetBody").innerHTML = "";
+  el.hidden = true;
+  const panel = el.querySelector(".cm-sheet-panel"); panel.style.transform = "";
+  unlockBody();
+  cmChanged(pid);
+}
+function fitSheet() {   // keep the editor above the on-screen keyboard
+  const panel = document.querySelector("#cmSheet .cm-sheet-panel"), vv = window.visualViewport;
+  if (!panel || !vv) return;
+  const kb = Math.max(0, innerHeight - vv.height - vv.offsetTop);
+  panel.style.bottom = `${kb}px`;
+  panel.style.maxHeight = `${Math.round(vv.height - 12)}px`;
+}
+window.visualViewport?.addEventListener("resize", fitSheet);
+window.visualViewport?.addEventListener("scroll", fitSheet);
+function openComments(post, box, { fromButton = true } = {}) {
+  if (curCmMode === "sheet") { openSheet(post, { focus: fromButton && !comments.count(post.id) }); return; }
+  const open = !!box.querySelector(".cm-editor > textarea[aria-label='评论']");
+  renderComments(box, post, { editor: !open });
+}
+
 function followBtn(p) {
   const on = follows.has(p.id);
   return `<button type="button" class="btn ghost follow${on ? " on" : ""}" data-follow="${escapeHtml(p.id)}" aria-pressed="${on}"
-    title="${on ? "取消关注" : "加入我的关注"}">${on ? "★ 已关注" : "☆ 关注"}</button>`;
+    title="${on ? "取消关注" : "加入我的关注"}">${on ? `★<span class="l"> 已关注</span>` : `☆<span class="l"> 关注</span>`}</button>`;
 }
 function updateFollowUI() {
   const n = Object.keys(follows.load()).length;
   const c = document.getElementById("followCount"); if (c) c.textContent = n;
+  const mc = document.getElementById("mbFollowCount"); if (mc) mc.textContent = n;
+  document.getElementById("mbFollow")?.classList.toggle("on", state.view === "follow");
   document.querySelectorAll("[data-follow]").forEach(b => {
     const on = follows.has(b.dataset.follow);
     b.classList.toggle("on", on); b.setAttribute("aria-pressed", on);
-    b.textContent = on ? "★ 已关注" : "☆ 关注"; b.title = on ? "取消关注" : "加入我的关注";
+    b.innerHTML = on ? `★<span class="l"> 已关注</span>` : `☆<span class="l"> 关注</span>`; b.title = on ? "取消关注" : "加入我的关注";
   });
 }
 function findPost(id) {
@@ -496,6 +646,7 @@ function recChip(p) {
 }
 function renderFeed(posts, opts = {}) {
   const feed = document.getElementById("feed");
+  resetCm();
   const empty = document.getElementById("empty");
   feed.innerHTML = "";
   empty.hidden = posts.length > 0;
@@ -519,28 +670,29 @@ function renderFeed(posts, opts = {}) {
       ${mediaGrid(p, { eager: idx < 4 })}
       <div class="card-foot">
         ${p._stub ? "" : `<span>♥ ${p.metrics?.likes ?? 0}</span>
-        <span>↻ ${p.metrics?.reposts ?? 0}</span>
+        <span class="st-rp">↻ ${p.metrics?.reposts ?? 0}</span>
         <span>💬 ${p.metrics?.replies ?? 0}</span>`}
         <span class="spacer"></span>
         ${followBtn(p)}
         <button type="button" class="btn ghost cm-btn${comments.count(p.id) ? " has" : ""}" data-cm-btn="${escapeHtml(p.id)}" title="写评论 / 批注（仅保存在本浏览器）">${cmBtnLabel(p.id)}</button>
-        ${p.text_zh && !p.article_summary_zh ? `<button class="btn ghost tr-toggle" data-tr="zh" title="机器翻译">查看原文</button>` : ""}
-        ${p.is_article ? `<button class="btn primary" data-article="${escapeHtml(p.article_id)}">阅读全文</button>` : ""}
-        <a class="btn ghost" href="${escapeHtml(p.post_url)}" target="_blank" rel="noopener">原帖</a>
+        ${p.text_zh && !p.article_summary_zh ? `<button class="btn ghost tr-toggle" data-tr="zh" title="机器翻译 · 点击查看原文"><span class="l">查看原文</span><span class="s">原文</span></button>` : ""}
+        ${p.is_article ? `<button class="btn primary" data-article="${escapeHtml(p.article_id)}"><span class="l">阅读全文</span><span class="s">全文</span></button>` : ""}
+        <a class="btn ghost x-link" href="${escapeHtml(p.post_url)}" target="_blank" rel="noopener" title="在 X 打开原帖"><span class="l">原帖</span><span class="s">原帖 ↗</span></a>
       </div>
-      <div class="cm-box" hidden></div>`;
+      <button type="button" class="cm-preview" hidden></button>`;
     el.querySelector(".tr-toggle")?.addEventListener("click", (ev) => {
       const b = ev.currentTarget, toOrig = b.dataset.tr === "zh";
       el.querySelector(".body-text").innerHTML = clip(toOrig ? p.text : p.text_zh);
       b.dataset.tr = toOrig ? "orig" : "zh";
-      b.textContent = toOrig ? "显示译文" : "查看原文";
+      b.innerHTML = toOrig ? `<span class="l">显示译文</span><span class="s">译文</span>` : `<span class="l">查看原文</span><span class="s">原文</span>`;
     });
     bindMedia(el, p);
-    const cmBox = el.querySelector(".cm-box");
-    renderComments(cmBox, p);
-    el.querySelector("[data-cm-btn]").addEventListener("click", () => {
-      renderComments(cmBox, p, { editor: !cmBox.querySelector(".cm-editor") });
-    });
+    el.querySelector(".digest")?.addEventListener("click", (ev) => { if (!getSelection().toString()) ev.currentTarget.classList.toggle("open"); });
+    const cmBox = document.createElement("div"); cmBox.className = "cm-box"; cmBox.hidden = true;
+    const entry = { box: cmBox, card: el, post: p, note: null };
+    cmEntries.set(p.id, entry);
+    el.querySelector("[data-cm-btn]").addEventListener("click", () => openComments(p, cmBox));
+    el.querySelector(".cm-preview").addEventListener("click", () => openComments(p, cmBox, { fromButton: false }));
     el.querySelector("[data-follow]").addEventListener("click", (ev) => {
       const id = ev.currentTarget.dataset.follow;
       if (follows.has(id)) follows.remove(id); else follows.add(p);
@@ -551,9 +703,20 @@ function renderFeed(posts, opts = {}) {
       location.hash = `#/article/${p.article_id}`;
     });
     feed.appendChild(el);
+    renderComments(cmBox, p, { focus: false });
   });
+  scheduleRail();
 }
 
+let readerPost = null;
+// reader comments: right side panel on wide screens, bottom of the article otherwise (mobile: bottom sheet via the button)
+function setupReaderComments(post) {
+  const rbox = document.getElementById("readerComments");
+  const side = curCmMode === "side";
+  document.querySelector(".reader-panel").classList.toggle("with-cm", side);
+  rbox.dataset.empty = side ? "1" : "";
+  renderComments(rbox, post, { focus: false });
+}
 async function openArticle(id, fallbackUrl) {
   const reader = document.getElementById("reader");
   const body = document.getElementById("readerBody");
@@ -566,15 +729,20 @@ async function openArticle(id, fallbackUrl) {
   const rf = document.getElementById("readerFollow");
   rf.hidden = !post;
   if (post) { rf.dataset.follow = post.id; updateFollowUI(); }
+  readerPost = post || null;
   const rc = document.getElementById("readerCm"), rbox = document.getElementById("readerComments");
   rc.hidden = !post; rbox.hidden = true; rbox.innerHTML = "";
+  document.querySelector(".reader-panel").classList.remove("with-cm");
   if (post) {
     rc.dataset.cmBtn = post.id; rc.innerHTML = cmBtnLabel(post.id); rc.classList.toggle("has", comments.count(post.id) > 0);
-    renderComments(rbox, post);
+    setupReaderComments(post);
     rc.onclick = () => {
+      if (curCmMode === "sheet") { openSheet(post, { focus: !comments.count(post.id) }); return; }
       renderComments(rbox, post, { editor: true });
-      const panel = document.querySelector(".reader-panel");
-      panel.scrollTo({ top: rbox.offsetTop - 80, behavior: "smooth" });
+      if (curCmMode !== "side") {
+        const panel = document.querySelector(".reader-panel");
+        panel.scrollTo({ top: rbox.offsetTop - 80, behavior: "smooth" });
+      }
     };
   }
   tr.hidden = true;
@@ -624,6 +792,8 @@ function restoreScroll() {
   requestAnimationFrame(() => { if (Math.abs(window.scrollY - y) > 1) window.scrollTo(0, y); });
 }
 function hideReader() {
+  closeSheet(); readerPost = null;
+  document.querySelector(".reader-panel").classList.remove("with-cm");
   document.getElementById("reader").hidden = true;
   document.getElementById("readerBody").innerHTML = "";
   document.body.style.overflow = "";
@@ -652,8 +822,24 @@ document.getElementById("reader").addEventListener("click", (e) => {
   if (e.target.id === "reader") requestCloseReader();
 });
 document.addEventListener("keydown", (e) => {
-  if (e.key === "Escape" && !document.getElementById("reader").hidden && document.getElementById("lightbox").hidden) requestCloseReader();
+  if (e.key !== "Escape" || !document.getElementById("lightbox").hidden) return;
+  if (sheet.post) { e.preventDefault(); closeSheet(); return; }
+  if (!document.getElementById("reader").hidden) requestCloseReader();
 });
+// sheet: backdrop / ✕ close, swipe down on the header to close
+(() => {
+  const el = document.getElementById("cmSheet"); if (!el) return;
+  el.addEventListener("click", (e) => { if (e.target.closest("[data-close]")) closeSheet(); });
+  const panel = el.querySelector(".cm-sheet-panel"), head = el.querySelector(".cm-sheet-head");
+  let y0 = null, dy = 0;
+  head.addEventListener("touchstart", (e) => { y0 = e.touches[0].clientY; dy = 0; panel.style.transition = "none"; }, { passive: true });
+  head.addEventListener("touchmove", (e) => { if (y0 == null) return; dy = Math.max(0, e.touches[0].clientY - y0); panel.style.transform = `translateY(${dy}px)`; }, { passive: true });
+  head.addEventListener("touchend", () => {
+    panel.style.transition = ""; y0 = null;
+    if (dy > 80) closeSheet(); else panel.style.transform = "";
+  });
+})();
+window.addEventListener("resize", () => { applyCmMode(); scheduleRail(); });
 
 document.getElementById("tabs").addEventListener("click", (e) => {
   const btn = e.target.closest("button[data-section]");
@@ -684,6 +870,7 @@ document.getElementById("sortSeg").addEventListener("click", (e) => {
 document.getElementById("recOnly").addEventListener("click", () => { state.recOnly = !state.recOnly; syncSortUI(); render(); });
 function setView(v) {
   state.view = v;
+  document.getElementById("mbFollow")?.classList.toggle("on", v === "follow");
   const u = new URL(location.href);
   if (v === "day") u.searchParams.delete("view"); else u.searchParams.set("view", v);
   history.replaceState(null, "", u.pathname + u.search + u.hash);
@@ -796,6 +983,32 @@ function flash(msg) {
 syncSortUI();
 
 window.addEventListener("hashchange", onHashChange);
+applyCmMode(true);
+(() => {   // mobile top bar
+  const sb = document.getElementById("mbarSearch"), menu = document.getElementById("mbMenu");
+  document.getElementById("mbSearch").addEventListener("click", () => {
+    sb.hidden = !sb.hidden; menu.hidden = true;
+    document.getElementById("mbSearch").classList.toggle("on", !sb.hidden);
+    if (!sb.hidden) document.getElementById("search").focus({ preventScroll: true });
+  });
+  document.getElementById("mbFollow").addEventListener("click", () => document.getElementById("followTab").click());
+  document.getElementById("mbMore").addEventListener("click", (e) => { e.stopPropagation(); menu.hidden = !menu.hidden; });
+  document.addEventListener("click", (e) => { if (!menu.hidden && !e.target.closest("#mbMenu")) menu.hidden = true; });
+  menu.addEventListener("click", (e) => {
+    const b = e.target.closest("[data-act]"); if (!b) return;
+    menu.hidden = true;
+    if (b.dataset.act === "config") document.getElementById("configLink").click();
+    if (b.dataset.act === "export") document.getElementById(state.view === "follow" ? "followExport" : "dayExport").click();
+    if (b.dataset.act === "import") document.getElementById("followImport").click();
+  });
+  // 今日趋势: collapsed to 3 lines on mobile with 展开/收起
+  const tb = document.getElementById("trendBox"), more = document.createElement("button");
+  more.type = "button"; more.className = "trend-more"; more.textContent = "展开";
+  more.addEventListener("click", () => { const x = tb.classList.toggle("expanded"); more.textContent = x ? "收起" : "展开"; });
+  document.getElementById("trendText").after(more);
+})();
+if (railRO) { railRO.observe(document.getElementById("feed")); railRO.observe(document.getElementById("cmRail")); }
+document.getElementById("feed").addEventListener("load", scheduleRail, true);   // images/posters change card heights
 
 loadDays()
   .then(loadDay)

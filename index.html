@@ -11,10 +11,25 @@
   <link rel="apple-touch-icon" href="static/apple-touch-icon.png?v=183fa1be62" />
   <link rel="manifest" href="static/site.webmanifest?v=28d3064419" />
   <meta name="theme-color" content="#0b1020" />
-  <link rel="stylesheet" href="static/styles.css?v=34e29c4f41" />
+  <link rel="stylesheet" href="static/styles.css?v=43c943ed1a" />
 </head>
 <body>
   <div class="app">
+    <div class="mbar" id="mbar">
+      <div class="mbar-row">
+        <img class="mbar-logo" src="static/favicon.svg?v=2846af31a3" alt="" width="26" height="26" />
+        <span class="mbar-title">AI 日报</span>
+        <div class="mbar-date" id="mbarDate"></div>
+        <button type="button" class="mbar-btn" id="mbSearch" aria-label="搜索" title="搜索作者 / 关键词"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="6.5"/><path d="M16 16l4.5 4.5"/></svg></button>
+        <button type="button" class="mbar-btn mb-follow" id="mbFollow" aria-label="我的关注" title="我的关注">★<span id="mbFollowCount">0</span></button>
+        <button type="button" class="mbar-btn" id="mbMore" aria-label="更多" title="更多">⋯</button>
+      </div>
+      <div class="mbar-search" id="mbarSearch" hidden></div>
+      <div class="mbar-menu" id="mbMenu" hidden>
+        <button type="button" data-act="export">⤓ 导出 JSON（当日 / 我的关注）</button>
+        <button type="button" data-act="config">⚙ 配置（信息收集策略）</button>
+      </div>
+    </div>
     <header class="top">
       <div class="brand">
         <img class="logo" src="static/logo.svg?v=0227e70ae1" alt="" width="48" height="48" />
@@ -73,7 +88,10 @@
 
     <section id="configView" class="config" hidden aria-live="polite"></section>
 
-    <main id="feed" class="feed"></main>
+    <div class="feed-wrap" id="feedWrap">
+      <main id="feed" class="feed"></main>
+      <aside id="cmRail" class="cm-rail" aria-label="评论"></aside>
+    </div>
     <p id="empty" class="empty" hidden>这一天还没有内容。</p>
   </div>
 
@@ -94,6 +112,18 @@
     </div>
   </div>
 
+  <div id="cmSheet" class="cm-sheet" hidden>
+    <div class="cm-sheet-backdrop" data-close></div>
+    <div class="cm-sheet-panel" role="dialog" aria-modal="true" aria-labelledby="cmSheetTitle">
+      <div class="cm-sheet-head">
+        <span class="cm-grab" aria-hidden="true"></span>
+        <div class="cm-sheet-title-wrap"><span class="cm-sheet-label">✎ 评论</span><div class="cm-sheet-title" id="cmSheetTitle"></div></div>
+        <button type="button" class="cm-sheet-close" data-close aria-label="关闭">✕</button>
+      </div>
+      <div id="cmSheetBody" class="cm-box cm-sheet-box"></div>
+    </div>
+  </div>
+
   <div id="lightbox" class="lightbox" hidden role="dialog" aria-modal="true" aria-label="图片预览">
     <button type="button" class="lb-close" aria-label="关闭">×</button>
     <button type="button" class="lb-nav lb-prev" aria-label="上一张">‹</button>
@@ -104,6 +134,6 @@
   <div id="toast" class="toast" role="status" hidden></div>
 
   <script src="static/calendar.js?v=f216389086"></script>
-  <script src="static/app.js?v=4d2e9aaa61"></script>
+  <script src="static/app.js?v=e39c8af4f2"></script>
 </body>
 </html>
