@@ -123,10 +123,9 @@ function renderFeed(posts) {
       <div class="card-head">
         ${av ? `<img class="avatar" src="${escapeHtml(av)}" alt="" />` : `<div class="avatar"></div>`}
         <div class="meta">
-          <div class="name">${escapeHtml(p.display_name || p.handle)}</div>
+          <div class="name-row"><span class="name">${escapeHtml(p.display_name || p.handle)}</span><span class="tags">${kindTags(p)}<span class="badge ${escapeHtml(p.section)}">${sectionLabel[p.section] || p.section}</span></span></div>
           <div class="handle">@${escapeHtml(p.handle)} · ${fmtTime(p.created_at)}</div>
         </div>
-        <span class="tags">${kindTags(p)}<span class="badge ${escapeHtml(p.section)}">${sectionLabel[p.section] || p.section}</span></span>
       </div>
       <div class="summary">${escapeHtml(p.summary_zh || "")}</div>
       ${p.article_summary_zh

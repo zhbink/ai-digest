@@ -141,7 +141,8 @@ select:focus, input:focus { border-color: var(--accent); }
 .digest-text { color: var(--text); font-size: .93rem; line-height: 1.65; opacity: .92; }
 
 /* content-type tags (distinct from section badges: outlined, squarer) */
-.tags { margin-left: auto; display: inline-flex; gap: 6px; align-items: center; flex-wrap: wrap; justify-content: flex-end; }
+.name-row { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.tags { display: inline-flex; gap: 6px; align-items: center; flex-wrap: wrap; }
 .tags .badge { margin-left: 0; }
 .kind-tag { font-size: 11px; line-height: 1; padding: 4px 7px; border-radius: 4px; border: 1px solid currentColor;
   font-weight: 600; letter-spacing: .5px; white-space: nowrap; background: transparent; }
