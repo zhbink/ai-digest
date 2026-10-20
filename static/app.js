@@ -86,21 +86,15 @@ const comments = {
     this.save(o); return n;
   },
 };
-// ---- 云同步: Cloudflare Worker (worker/) is the source of truth when a key is configured; localStorage = offline cache.
+// ---- 访问密码 + 云同步: the page is gated by a password = the Worker's ACCESS_KEY (verified server-side via /health).
+// After login the Cloudflare Worker (worker/) is the source of truth; localStorage = offline cache.
 // Writes go to a persistent queue (aidigest.syncQueue) and are flushed as /batch ops (last-writer-wins per item on the server).
-const SYNC_ENABLED = true;           // (testing with it off: ?sync=dev or localStorage aidigest.syncDev=1)
-const SYNC_DEFAULT_URL = "https://ai-digest-sync.zhbink.workers.dev";   // not secret; the ACCESS_KEY is entered per browser
-// one-time setup link: …/ai-digest/#sync=<key> → keep the key in memory only, strip it from the URL/history right away
-const SYNC_SETUP_KEY = (() => {
-  const m = /^#sync=([^&]+)/.exec(location.hash);
-  if (!m) return "";
-  history.replaceState(history.state, "", location.pathname + location.search);
-  try { return decodeURIComponent(m[1]).trim(); } catch { return ""; }
-})();
+const SYNC_ENABLED = true;
+const SYNC_DEFAULT_URL = "https://ai-digest-sync.zhbink.workers.dev";   // not secret; the password is entered once per browser
 const LS_SYNC = "aidigest.sync", LS_SYNCQ = "aidigest.syncQueue", LS_SYNCR = "aidigest.syncRecent";
 const syncFeature = SYNC_ENABLED || new URLSearchParams(location.search).get("sync") === "dev" || localStorage.getItem("aidigest.syncDev") === "1";
 const sync = {
-  status: "local", lastError: "", applying: false, flushing: false, retryMs: 0, timer: 0,
+  status: "syncing", lastError: "", started: false, applying: false, flushing: false, retryMs: 0, timer: 0,
   cfg() { try { const c = JSON.parse(localStorage.getItem(LS_SYNC) || "null"); return c && c.key && c.url ? c : null; } catch { return null; } },
   on() { return syncFeature && !!this.cfg(); },
   _get(k) { try { const v = JSON.parse(localStorage.getItem(k) || "[]"); return Array.isArray(v) ? v : []; } catch { return []; } },
@@ -162,9 +156,10 @@ const sync = {
     } catch (e) { this.applying = false; this.fail(e); return false; }
   },
   fail(e) {
-    const auth = e.status === 401 || e.status === 403;
+    if (e.status === 401) { this.logout({ keepCache: true }); showGate("密码已失效，请重新输入"); return; }
+    const auth = e.status === 403;
     const prev = this.status;
-    this.lastError = auth ? "同步密钥无效（401），请在同步设置里检查" : (navigator.onLine === false || !e.status) ? "网络不可用" : `服务器错误：${e.message}`;
+    this.lastError = auth ? "同步被拒绝（403）" : (navigator.onLine === false || !e.status) ? "网络不可用" : `服务器错误：${e.message}`;
     this.setStatus(auth ? "error" : "offline");
     if (prev !== this.status) flash(auth ? this.lastError : `同步失败：${this.lastError}${this.queue().length ? `，已暂存 ${this.queue().length} 项，稍后自动重试` : ""}`);
     if (!auth) {
@@ -173,24 +168,28 @@ const sync = {
     }
   },
   setStatus(st) { this.status = st; updateSyncUI(); },
-  async connect(url, key) {
+  async connect(url, key) {      // throws (e.status === 401) on a wrong password; only stores the key once verified
     const cfg = { url: url.trim().replace(/\/+$/, ""), key: key.trim() };
-    await this.req("GET", "/health", null, cfg);                       // throws on bad key / url
+    await this.req("GET", "/health", null, cfg);
     localStorage.setItem(LS_SYNC, JSON.stringify(cfg));
     // first connect: migrate this browser's follows + comments (server keeps the newer version of each item)
     const ops = [];
     for (const it of Object.values(follows.load())) ops.push({ op: "follow.put", id: String(it.id), item: it, at: it.updated_at || it.saved_at });
     for (const [pid, l] of Object.entries(comments.load())) for (const c of l) ops.push({ op: "comment.put", pid: String(pid), cid: c.id, item: c, at: c.updated_at || c.created_at });
     this.setQueue([...ops, ...this.queue()]);
-    await this.flush();
-    await this.pull();
-    return ops.length;
+    return ops.length;            // caller reveals the app, then init() flushes + pulls
   },
-  disconnect() { localStorage.removeItem(LS_SYNC); localStorage.removeItem(LS_SYNCQ); localStorage.removeItem(LS_SYNCR); this.setStatus("local"); },
+  logout({ keepCache = false } = {}) {
+    clearTimeout(this.timer);
+    localStorage.removeItem(LS_SYNC);
+    if (!keepCache) for (const k of [LS_SYNCQ, LS_SYNCR, LS_FOLLOW, LS_COMMENTS]) localStorage.removeItem(k);   // data lives on the server
+    this.status = "syncing"; this.lastError = "";
+  },
   init() {
-    if (!syncFeature) return;
-    if (!this.on()) { this.setStatus("local"); return; }
+    if (!syncFeature || !this.on()) return;
     this.flush().then(() => this.pull());
+    if (this.started) return;
+    this.started = true;
     addEventListener("online", () => this.flush().then(() => this.pull()));
     document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible" && Date.now() - (this.lastPull || 0) > 20000) this.flush().then(() => this.pull()); });
     setInterval(() => { if (document.visibilityState === "visible" && !this.queue().length) this.pull(); }, 90000);
@@ -219,24 +218,50 @@ function refreshUserData() {   // after a pull: refresh follow buttons, counts, 
   const rb = document.getElementById("readerComments");
   if (readerPost && rb && !rb.querySelector("textarea")) renderComments(rb, readerPost, { focus: false });
 }
-const SYNC_LABEL = { local: "☁ 仅本机", ok: "☁ 已同步", syncing: "☁ 同步中…", offline: "☁ 离线", error: "☁ 同步出错" };
+const SYNC_LABEL = { ok: "☁ 已同步", syncing: "☁ 同步中…", offline: "☁ 离线", error: "☁ 同步出错" };
 function updateSyncUI() {
   if (!syncFeature) return;
   const st = sync.status, n = sync.queue().length;
   const txt = SYNC_LABEL[st] + (st === "offline" && n ? ` (${n})` : "");
-  const title = st === "local" ? "关注和评论仅存本浏览器，点此设置同步（跨设备）" : st === "ok" ? "关注和评论已同步到云端" : st === "error" || st === "offline" ? sync.lastError : "正在同步…";
+  const title = st === "ok" ? "关注和评论已同步到云端" : st === "error" || st === "offline" ? sync.lastError : "正在同步…";
   for (const el of document.querySelectorAll("[data-sync-status]")) { el.hidden = false; el.textContent = txt; el.dataset.st = st; el.title = title; }
   const dot = document.getElementById("mbMore"); if (dot) dot.dataset.sync = st;
-  const hint = document.getElementById("syncHint"); if (hint) hint.hidden = st !== "local";
 }
 function openSyncDialog() {
-  const d = document.getElementById("syncDialog"), c = sync.cfg();
-  d.querySelector("#syncUrl").value = c?.url || SYNC_DEFAULT_URL;
-  d.querySelector("#syncKey").value = c?.key || "";
-  d.querySelector("#syncMsg").textContent = c ? `${SYNC_LABEL[sync.status]}${sync.lastError && sync.status !== "ok" ? ` · ${sync.lastError}` : ""}` : "关注和评论目前只存在本浏览器。填入同步地址和密钥后，会上传到你自己的 Cloudflare Worker，并在所有设备间同步。";
-  d.querySelector("#syncDisconnect").hidden = !c;
-  d.hidden = false; d.querySelector(c ? "#syncKey" : "#syncUrl").focus({ preventScroll: true });
+  const d = document.getElementById("syncDialog"), n = sync.queue().length;
+  d.querySelector("#syncMsg").textContent = `${SYNC_LABEL[sync.status]}${sync.lastError && sync.status !== "ok" && sync.status !== "syncing" ? ` · ${sync.lastError}` : ""}${n ? ` · ${n} 项待上传` : ""}`;
+  d.hidden = false; d.querySelector("[data-sync-close].btn").focus({ preventScroll: true });
 }
+// ---- 访问密码页
+function showGate(msg = "") {
+  for (const id of ["syncDialog", "lightbox", "cmSheet"]) { const el = document.getElementById(id); if (el) el.hidden = true; }
+  document.documentElement.classList.add("locked");
+  const pw = document.getElementById("gatePw");
+  document.getElementById("gateErr").textContent = msg;
+  pw.value = ""; setTimeout(() => pw.focus({ preventScroll: true }), 50);
+}
+function logout() {
+  const n = sync.queue().length;
+  if (!confirm(n ? `还有 ${n} 项修改未上传到云端，退出后会丢失。确定退出登录？` : "退出登录？下次打开需要重新输入访问密码。")) return;
+  sync.logout(); refreshUserData(); showGate();
+}
+document.getElementById("gateForm").addEventListener("submit", async (e) => {
+  e.preventDefault();
+  const pw = document.getElementById("gatePw"), err = document.getElementById("gateErr"), btn = document.getElementById("gateBtn");
+  if (!pw.value.trim()) { err.textContent = "请输入访问密码"; pw.focus(); return; }
+  btn.disabled = true; btn.textContent = "验证中…"; err.textContent = "";
+  try {
+    const n = await sync.connect(SYNC_DEFAULT_URL, pw.value);
+    pw.value = "";
+    document.documentElement.classList.remove("locked");
+    sync.init();
+    if (n) flash(`已登录，正在合并上传本机 ${n} 项`);
+    scheduleRail();
+  } catch (ex) {
+    err.textContent = ex.status === 401 ? "密码不正确" : "无法连接验证服务，请稍后重试";
+    pw.select();
+  } finally { btn.disabled = false; btn.textContent = "进入"; }
+});
 const exportComments = (pid) => comments.get(pid).map(({ id, text, created_at, updated_at }) => ({ id, text, created_at, updated_at }));
 function cmBtnLabel(pid) { const n = comments.count(pid); return `✎<span class="l"> 评论</span>${n ? ` <b class="cm-n">${n}</b>` : ""}`; }
 function updateCommentUI(pid) {
@@ -258,7 +283,7 @@ function renderComments(box, post, { editor = false, focus = true } = {}) {
       </div>`).join("")}</div>` : (keep ? `<div class="cm-list cm-none">还没有评论，写下第一条吧。</div>` : "")}
     ${!list.length && !editor && showEmpty ? `<div class="cm-empty">还没有评论 <button type="button" class="btn ghost sm" data-cm-new>✎ 写评论</button></div>` : ""}
     ${editor ? `<div class="cm-editor">
-      <textarea rows="3" placeholder="写下你的评论 / 批注（仅保存在本浏览器）${keep ? "" : "… Ctrl/⌘+Enter 保存"}" aria-label="评论"></textarea>
+      <textarea rows="3" placeholder="写下你的评论 / 批注（自动同步到云端）${keep ? "" : "… Ctrl/⌘+Enter 保存"}" aria-label="评论"></textarea>
       <div class="cm-actions"><span class="cm-hint">保存后自动加入我的关注</span>${keep ? "" : `<button type="button" class="btn ghost sm" data-cm-cancel>取消</button>`}<button type="button" class="btn primary sm" data-cm-save>保存</button></div>
     </div>` : ""}`;
   const rerender = (opts) => renderComments(box, post, { focus: false, ...opts });
@@ -655,7 +680,7 @@ async function renderFollowView() {
   document.getElementById("followToday").setAttribute("aria-pressed", state.followToday);
   document.getElementById("empty").textContent = total
     ? "没有符合条件的关注内容。"
-    : "还没有关注任何内容。点卡片上的「☆ 关注」即可收藏，收藏保存在本浏览器，可用「导出」带到别的浏览器。";
+    : "还没有关注任何内容。点卡片上的「☆ 关注」即可收藏，收藏会同步到云端，所有登录过的设备都能看到。";
   renderFeed(posts, { follow: true });
 }
 
@@ -835,7 +860,7 @@ function renderFeed(posts, opts = {}) {
         <span>💬 ${p.metrics?.replies ?? 0}</span>`}
         <span class="spacer"></span>
         ${followBtn(p)}
-        <button type="button" class="btn ghost cm-btn${comments.count(p.id) ? " has" : ""}" data-cm-btn="${escapeHtml(p.id)}" title="写评论 / 批注（仅保存在本浏览器）">${cmBtnLabel(p.id)}</button>
+        <button type="button" class="btn ghost cm-btn${comments.count(p.id) ? " has" : ""}" data-cm-btn="${escapeHtml(p.id)}" title="写评论 / 批注（自动同步到云端）">${cmBtnLabel(p.id)}</button>
         ${p.text_zh && !p.article_summary_zh ? `<button class="btn ghost tr-toggle" data-tr="zh" title="机器翻译 · 点击查看原文"><span class="l">查看原文</span><span class="s">原文</span></button>` : ""}
         ${p.is_article ? `<button class="btn primary" data-article="${escapeHtml(p.article_id)}"><span class="l">阅读全文</span><span class="s">全文</span></button>` : ""}
         <a class="btn ghost x-link" href="${escapeHtml(p.post_url)}" target="_blank" rel="noopener" title="在 X 打开原帖"><span class="l">原帖</span><span class="s">原帖 ↗</span></a>
@@ -1164,6 +1189,7 @@ applyCmMode(true);
     if (b.dataset.act === "export") document.getElementById(state.view === "follow" ? "followExport" : "dayExport").click();
     if (b.dataset.act === "import") document.getElementById("followImport").click();
     if (b.dataset.act === "sync") openSyncDialog();
+    if (b.dataset.act === "logout") logout();
   });
   // 今日趋势: collapsed to 3 lines on mobile with 展开/收起
   const tb = document.getElementById("trendBox"), more = document.createElement("button");
@@ -1176,39 +1202,16 @@ document.getElementById("feed").addEventListener("load", scheduleRail, true);   
 
 // sync UI wiring
 if (syncFeature) {
-  document.querySelectorAll(".mb-sync").forEach(b => { b.hidden = false; });
   document.getElementById("syncChip").addEventListener("click", openSyncDialog);
-  document.addEventListener("click", (e) => { if (e.target.closest("[data-open-sync]")) openSyncDialog(); });
   const d = document.getElementById("syncDialog");
   d.addEventListener("click", (e) => { if (e.target === d || e.target.closest("[data-sync-close]")) d.hidden = true; });
   d.addEventListener("keydown", (e) => { if (e.key === "Escape") { e.stopPropagation(); d.hidden = true; } });
-  document.getElementById("syncDisconnect").addEventListener("click", () => {
-    if (!confirm("断开同步？云端数据会保留；本机保留当前的缓存。")) return;
-    sync.disconnect(); d.hidden = true; flash("已断开同步（本机继续保存）");
+  document.getElementById("syncLogout").addEventListener("click", () => { d.hidden = true; logout(); });
+  document.getElementById("syncNow").addEventListener("click", async () => {
+    await sync.flush(); await sync.pull(); if (!d.hidden) openSyncDialog();
   });
-  document.getElementById("syncForm").addEventListener("submit", async (e) => {
-    e.preventDefault();
-    const btn = document.getElementById("syncConnect"), msg = document.getElementById("syncMsg");
-    btn.disabled = true; msg.textContent = "正在连接…";
-    try {
-      const n = await sync.connect(document.getElementById("syncUrl").value, document.getElementById("syncKey").value);
-      d.hidden = true;
-      flash(`已连接同步${n ? `，已合并上传本机 ${n} 项` : ""}`);
-    } catch (err) {
-      msg.textContent = err.status === 401 ? "密钥不正确（401）" : `连接失败：${err.message}`;
-    } finally { btn.disabled = false; }
-  });
-  if (SYNC_SETUP_KEY) {
-    const url = sync.cfg()?.url || SYNC_DEFAULT_URL;
-    sync.connect(url, SYNC_SETUP_KEY)
-      .then(n => flash(`已通过设置链接连接同步${n ? `，已合并上传本机 ${n} 项` : ""}`))
-      .catch(err => {
-        openSyncDialog();
-        document.getElementById("syncKey").value = SYNC_SETUP_KEY;
-        document.getElementById("syncMsg").textContent = err.status === 401 ? "设置链接中的密钥不正确（401）" : `连接失败：${err.message}`;
-      })
-      .finally(() => sync.init());
-  } else sync.init();
+  if (sync.on()) { sync.setStatus("syncing"); sync.init(); }     // stored key: enter right away (works offline); a 401 brings the gate back
+  else showGate();
 }
 
 loadDays()
