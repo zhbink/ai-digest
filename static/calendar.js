@@ -77,12 +77,12 @@
     function open() {
       focus = value; view = parse(value || today); view.setDate(1);
       render(); pop.hidden = false; trig.setAttribute("aria-expanded", "true"); root.classList.add("open");
-      requestAnimationFrame(() => grid.querySelector('[tabindex="0"]')?.focus());
+      requestAnimationFrame(() => grid.querySelector('[tabindex="0"]')?.focus({ preventScroll: true }));
     }
     function close(refocus) {
       if (pop.hidden) return;
       pop.hidden = true; trig.setAttribute("aria-expanded", "false"); root.classList.remove("open");
-      if (refocus) trig.focus();
+      if (refocus) trig.focus({ preventScroll: true });
     }
     function pick(s, silent) {
       if (!has.has(s)) return;

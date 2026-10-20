@@ -367,7 +367,7 @@ function openLightbox(p, i) {
   const want = (p.media || []).filter(m => m.src || m.poster)[i];
   lb.i = Math.max(0, lb.items.indexOf(want));
   showLb(); document.getElementById("lightbox").hidden = false;
-  document.querySelector("#lightbox .lb-close").focus();
+  document.querySelector("#lightbox .lb-close").focus({ preventScroll: true });
 }
 function showLb() {
   const m = lb.items[lb.i]; if (!m) return;
@@ -441,6 +441,7 @@ function renderFeed(posts, opts = {}) {
       if (opts.follow) render();
     });
     el.querySelector("[data-article]")?.addEventListener("click", () => {
+      readerState.pushed = true; saveScroll();
       location.hash = `#/article/${p.article_id}`;
     });
     feed.appendChild(el);
@@ -461,6 +462,7 @@ async function openArticle(id, fallbackUrl) {
   if (post) { rf.dataset.follow = post.id; updateFollowUI(); }
   tr.hidden = true;
   body.innerHTML = `<p class="muted">加载中…</p>`;
+  saveScroll();
   reader.hidden = false;
   document.body.style.overflow = "hidden";
   try {
@@ -493,39 +495,47 @@ async function openArticle(id, fallbackUrl) {
   }
 }
 
-function closeReader() {
-  const reader = document.getElementById("reader");
-  reader.hidden = true;
+// Keep the feed exactly where it was while the reader is open/closed.
+// (Bug was: closing set location.hash = "", and navigating to the empty fragment scrolls the page to the top.)
+if ("scrollRestoration" in history) history.scrollRestoration = "manual";
+const readerState = { y: null, pushed: false };
+function saveScroll() { if (readerState.y == null) readerState.y = window.scrollY; }
+function restoreScroll() {
+  const y = readerState.y; readerState.y = null;
+  if (y == null) return;
+  window.scrollTo(0, y);
+  requestAnimationFrame(() => { if (Math.abs(window.scrollY - y) > 1) window.scrollTo(0, y); });
+}
+function hideReader() {
+  document.getElementById("reader").hidden = true;
   document.getElementById("readerBody").innerHTML = "";
   document.body.style.overflow = "";
-  if (parseArticleHash()) {
-    history.replaceState(null, "", location.pathname + location.search);
-  }
+  restoreScroll();
+}
+function closeReader() {
+  hideReader();
+  if (parseArticleHash()) history.replaceState(null, "", location.pathname + location.search);
+}
+// close via button / Esc / backdrop: pop the history entry we pushed (same as browser back);
+// deep-linked articles (no entry pushed by us) just drop the hash without navigating.
+function requestCloseReader() {
+  if (document.getElementById("reader").hidden) return;
+  if (parseArticleHash() && readerState.pushed) { readerState.pushed = false; history.back(); }
+  else { readerState.pushed = false; closeReader(); }
 }
 
 function onHashChange() {
   const id = parseArticleHash();
   if (id) openArticle(id);
-  else closeReaderKeepHash();
+  else { readerState.pushed = false; if (!document.getElementById("reader").hidden) hideReader(); }
 }
 
-function closeReaderKeepHash() {
-  // close without rewriting hash (hash already empty)
-  const reader = document.getElementById("reader");
-  reader.hidden = true;
-  document.getElementById("readerBody").innerHTML = "";
-  document.body.style.overflow = "";
-}
-
-document.getElementById("closeReader").onclick = () => {
-  if (parseArticleHash()) location.hash = "";
-  else closeReader();
-};
+document.getElementById("closeReader").onclick = requestCloseReader;
 document.getElementById("reader").addEventListener("click", (e) => {
-  if (e.target.id === "reader") {
-    if (parseArticleHash()) location.hash = "";
-    else closeReader();
-  }
+  if (e.target.id === "reader") requestCloseReader();
+});
+document.addEventListener("keydown", (e) => {
+  if (e.key === "Escape" && !document.getElementById("reader").hidden && document.getElementById("lightbox").hidden) requestCloseReader();
 });
 
 document.getElementById("tabs").addEventListener("click", (e) => {
