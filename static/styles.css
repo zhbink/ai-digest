@@ -126,3 +126,8 @@ select:focus, input:focus { border-color: var(--accent); }
 /* UA [hidden]{display:none} is overridden by .reader{display:grid} — force hide */
 [hidden] { display: none !important; }
 .reader:not([hidden]) { display: grid; }
+
+/* translation toggle */
+.reader-actions { display: flex; gap: 16px; align-items: center; }
+.tr-note { color: var(--muted); font-size: .8rem; margin: 6px 0 14px; }
+.tr-toggle { font-size: .8rem; padding: 5px 10px; }

@@ -49,7 +49,10 @@
     <div class="reader-panel">
       <header class="reader-top">
         <button id="closeReader" type="button">← 返回</button>
-        <a id="readerSource" href="#" target="_blank" rel="noopener">打开原文 ↗</a>
+        <span class="reader-actions">
+          <button id="readerTr" type="button" hidden>查看原文</button>
+          <a id="readerSource" href="#" target="_blank" rel="noopener">打开原文 ↗</a>
+        </span>
       </header>
       <article id="readerBody" class="reader-body prose"></article>
     </div>

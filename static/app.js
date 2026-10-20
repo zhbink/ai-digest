@@ -21,6 +21,11 @@ function escapeHtml(s) {
   return (s || "").replace(/[&<>"']/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;" }[c]));
 }
 
+function clip(t) {
+  t = t || "";
+  return escapeHtml(t.slice(0, 420)) + (t.length > 420 ? "…" : "");
+}
+
 function avatarUrl(url) {
   if (!url) return "";
   return url.replace("_normal.", "_bigger.");
@@ -55,7 +60,7 @@ async function loadDay() {
   if (state.section) posts = posts.filter(p => p.section === state.section);
   if (state.q) {
     const q = state.q.toLowerCase();
-    posts = posts.filter(p => [p.handle, p.display_name, p.summary_zh, p.text]
+    posts = posts.filter(p => [p.handle, p.display_name, p.summary_zh, p.text, p.text_zh, p.article_title, p.article_title_zh]
       .some(v => (v || "").toLowerCase().includes(q)));
   }
   const trendBox = document.getElementById("trendBox");
@@ -95,15 +100,22 @@ function renderFeed(posts) {
         <span class="badge ${escapeHtml(p.section)}">${sectionLabel[p.section] || p.section}</span>
       </div>
       <div class="summary">${escapeHtml(p.summary_zh || "")}</div>
-      <div class="body-text">${escapeHtml((p.text || "").slice(0, 420))}${(p.text||"").length>420?"…":""}</div>
+      <div class="body-text">${clip(p.text_zh || p.text)}</div>
       <div class="card-foot">
         <span>♥ ${p.metrics?.likes ?? 0}</span>
         <span>↻ ${p.metrics?.reposts ?? 0}</span>
         <span>💬 ${p.metrics?.replies ?? 0}</span>
         <span class="spacer"></span>
+        ${p.text_zh ? `<button class="btn ghost tr-toggle" data-tr="zh" title="机器翻译">查看原文</button>` : ""}
         ${p.is_article ? `<button class="btn primary" data-article="${escapeHtml(p.article_id)}">阅读全文</button>` : ""}
         <a class="btn ghost" href="${escapeHtml(p.post_url)}" target="_blank" rel="noopener">原帖</a>
       </div>`;
+    el.querySelector(".tr-toggle")?.addEventListener("click", (ev) => {
+      const b = ev.currentTarget, toOrig = b.dataset.tr === "zh";
+      el.querySelector(".body-text").innerHTML = clip(toOrig ? p.text : p.text_zh);
+      b.dataset.tr = toOrig ? "orig" : "zh";
+      b.textContent = toOrig ? "显示译文" : "查看原文";
+    });
     el.querySelector("[data-article]")?.addEventListener("click", () => {
       location.hash = `#/article/${p.article_id}`;
     });
@@ -115,19 +127,28 @@ async function openArticle(id, fallbackUrl) {
   const reader = document.getElementById("reader");
   const body = document.getElementById("readerBody");
   const src = document.getElementById("readerSource");
+  const tr = document.getElementById("readerTr");
+  tr.hidden = true;
   body.innerHTML = `<p class="muted">加载中…</p>`;
   reader.hidden = false;
   document.body.style.overflow = "hidden";
   try {
     const art = await api(`data/articles/${encodeURIComponent(id)}.json`);
-    const title = art.title || "";
-    // article.html often already starts with <h1>; avoid duplicate
-    let html = art.html || "";
-    const hasH1 = /<h1[\s>]/i.test(html);
-    body.innerHTML = (hasH1 ? "" : `<h1>${escapeHtml(title)}</h1>`) + html;
-    if (!html && title) {
-      body.innerHTML = `<h1>${escapeHtml(title)}</h1><p>（无正文）</p>`;
-    }
+    const hasZh = !!(art.html_zh || art.title_zh);
+    const render = (zh) => {
+      const title = (zh && art.title_zh) || art.title || "";
+      // article.html often already starts with <h1>; avoid duplicate
+      const html = (zh && art.html_zh) || art.html || "";
+      const hasH1 = /<h1[\s>]/i.test(html);
+      const note = hasZh ? `<p class="tr-note">${zh ? "以下为机器翻译" : "原文"}</p>` : "";
+      body.innerHTML = (hasH1 ? "" : `<h1>${escapeHtml(title)}</h1>`) + note + html;
+      if (!html && title) body.innerHTML = `<h1>${escapeHtml(title)}</h1><p>（无正文）</p>`;
+      tr.textContent = zh ? "查看原文" : "显示译文";
+      tr.dataset.tr = zh ? "zh" : "orig";
+    };
+    tr.hidden = !hasZh;
+    tr.onclick = () => { render(tr.dataset.tr !== "zh"); document.querySelector(".reader-panel").scrollTop = 0; };
+    render(true);
     src.href = art.source || fallbackUrl || "#";
     src.hidden = false;
   } catch (err) {
