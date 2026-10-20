@@ -29,7 +29,7 @@ const follows = {
       if (!it || !it.id) continue;
       const cur = o[it.id];
       // v1 and v2 exports both work; v2's export-only enrichment (media, texts, article link) is not stored
-      const { media, text, text_zh, summary_zh, article_title_zh, article_summary_zh, article_link, ...base } = it;
+      const { media, text, text_zh, summary_zh, followed, followed_at, article_title_zh, article_summary_zh, article_link, ...base } = it;
       if (!base.title && summary_zh) base.title = summary_zh;
       if (!cur || String(it.saved_at || "") > String(cur.saved_at || "")) { o[it.id] = { ...cur, ...base, id: String(it.id) }; n++; }
     }
@@ -595,7 +595,7 @@ async function enrichFollow(it) {
   let p = findPost(it.id);
   if (!p && it.date) { try { await ensureDay(it.date); p = findPost(it.id); } catch { /* day missing: keep stored fields */ } }
   if (!p) return it;
-  const out = { ...it,
+  const out = { ...it, followed: true, followed_at: it.saved_at || null,
     summary_zh: p.summary_zh || it.title || "", text_zh: p.text_zh || null, text: p.text || null,
     media: exportMedia(p) };
   if (p.is_article && p.article_id) {
@@ -627,6 +627,7 @@ document.getElementById("dayExport").addEventListener("click", async () => {
   if (!state.date) return;
   flash("正在导出当日…");
   const day = await ensureDay(state.date);
+  const fl = follows.load();   // this browser's 我的关注
   const posts = [...(day.posts || [])].sort(byRec).map(p => ({
     id: p.id, section: p.section, section_label: sectionLabel[p.section] || p.section,
     kinds: deriveKinds(p).map(k => kindLabel[k]),
@@ -641,10 +642,12 @@ document.getElementById("dayExport").addEventListener("click", async () => {
     article_title_zh: p.is_article ? (p.article_title_zh || p.article_title || null) : null,
     external_links: externalLinks(p),
     media: exportMedia(p),
+    followed: !!fl[p.id],
+    ...(fl[p.id] ? { followed_at: fl[p.id].saved_at || null } : {}),
   }));
   const bySec = {}; posts.forEach(p => { bySec[p.section] = (bySec[p.section] || 0) + 1; });
   const counts = { posts: posts.length, by_section: bySec, articles: posts.filter(p => p.article_link).length,
-    recommended: posts.filter(p => p.recommended).length, media: posts.reduce((n, p) => n + p.media.length, 0) };
+    recommended: posts.filter(p => p.recommended).length, followed: posts.filter(p => p.followed).length, media: posts.reduce((n, p) => n + p.media.length, 0) };
   downloadJson({ app: "ai-digest", kind: "day", version: 1, date: state.date, trend_summary: day.trend_summary || "",
     exported_at: new Date().toISOString(), counts, posts }, `ai-digest-${state.date}.json`);
   flash(`已导出 ${state.date}：${posts.length} 条（${counts.media} 个图片/视频）`);
