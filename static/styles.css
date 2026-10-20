@@ -131,3 +131,11 @@ select:focus, input:focus { border-color: var(--accent); }
 .reader-actions { display: flex; gap: 16px; align-items: center; }
 .tr-note { color: var(--muted); font-size: .8rem; margin: 6px 0 14px; }
 .tr-toggle { font-size: .8rem; padding: 5px 10px; }
+
+/* article digest (要点总结) replaces the text excerpt on article cards */
+.digest {
+  margin-top: 4px; padding: 10px 12px; border-radius: 12px;
+  background: rgba(110,168,255,.07); border: 1px solid rgba(110,168,255,.18);
+}
+.digest-label { font-size: .75rem; color: var(--accent); font-weight: 650; margin-bottom: 4px; letter-spacing: .04em; }
+.digest-text { color: var(--text); font-size: .93rem; line-height: 1.65; opacity: .92; }

@@ -60,7 +60,7 @@ async function loadDay() {
   if (state.section) posts = posts.filter(p => p.section === state.section);
   if (state.q) {
     const q = state.q.toLowerCase();
-    posts = posts.filter(p => [p.handle, p.display_name, p.summary_zh, p.text, p.text_zh, p.article_title, p.article_title_zh]
+    posts = posts.filter(p => [p.handle, p.display_name, p.summary_zh, p.text, p.text_zh, p.article_title, p.article_title_zh, p.article_summary_zh]
       .some(v => (v || "").toLowerCase().includes(q)));
   }
   const trendBox = document.getElementById("trendBox");
@@ -100,13 +100,15 @@ function renderFeed(posts) {
         <span class="badge ${escapeHtml(p.section)}">${sectionLabel[p.section] || p.section}</span>
       </div>
       <div class="summary">${escapeHtml(p.summary_zh || "")}</div>
-      <div class="body-text">${clip(p.text_zh || p.text)}</div>
+      ${p.article_summary_zh
+        ? `<div class="digest"><div class="digest-label">要点总结</div><div class="digest-text">${escapeHtml(p.article_summary_zh)}</div></div>`
+        : `<div class="body-text">${clip(p.text_zh || p.text)}</div>`}
       <div class="card-foot">
         <span>♥ ${p.metrics?.likes ?? 0}</span>
         <span>↻ ${p.metrics?.reposts ?? 0}</span>
         <span>💬 ${p.metrics?.replies ?? 0}</span>
         <span class="spacer"></span>
-        ${p.text_zh ? `<button class="btn ghost tr-toggle" data-tr="zh" title="机器翻译">查看原文</button>` : ""}
+        ${p.text_zh && !p.article_summary_zh ? `<button class="btn ghost tr-toggle" data-tr="zh" title="机器翻译">查看原文</button>` : ""}
         ${p.is_article ? `<button class="btn primary" data-article="${escapeHtml(p.article_id)}">阅读全文</button>` : ""}
         <a class="btn ghost" href="${escapeHtml(p.post_url)}" target="_blank" rel="noopener">原帖</a>
       </div>`;
