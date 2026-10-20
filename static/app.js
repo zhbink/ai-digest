@@ -51,7 +51,7 @@ async function loadDay() {
   if (!state.date) return;
   if (!dayCache[state.date]) dayCache[state.date] = await api(`data/days/${encodeURIComponent(state.date)}.json`);
   const day = dayCache[state.date];
-  let posts = day.posts || [];
+  let posts = (day.posts || []).slice().sort((a, b) => (Date.parse(b.created_at) || 0) - (Date.parse(a.created_at) || 0));
   if (state.section) posts = posts.filter(p => p.section === state.section);
   if (state.q) {
     const q = state.q.toLowerCase();
