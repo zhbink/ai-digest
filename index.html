@@ -6,7 +6,7 @@
   <!-- video.twimg.com rejects requests with a foreign Referer (403) — send none so hot-linked mp4s play -->
   <meta name="referrer" content="no-referrer" />
   <title>AI 日报 · X Digest</title>
-  <link rel="stylesheet" href="static/styles.css?v=a54f236def" />
+  <link rel="stylesheet" href="static/styles.css?v=59ea8d282c" />
 </head>
 <body>
   <div class="app">
@@ -79,11 +79,13 @@
         <span id="readerKind" class="reader-kind" hidden></span>
         <span class="reader-actions">
           <button id="readerFollow" class="reader-follow" type="button" data-follow="" hidden>☆ 关注</button>
+          <button id="readerCm" class="reader-cm" type="button" hidden>✎ 评论</button>
           <button id="readerTr" type="button" hidden>查看原文</button>
           <a id="readerSource" href="#" target="_blank" rel="noopener">打开原文 ↗</a>
         </span>
       </header>
       <article id="readerBody" class="reader-body prose"></article>
+      <section id="readerComments" class="cm-box reader-cm-box" hidden></section>
     </div>
   </div>
 
@@ -97,6 +99,6 @@
   <div id="toast" class="toast" role="status" hidden></div>
 
   <script src="static/calendar.js?v=f216389086"></script>
-  <script src="static/app.js?v=fcc3ee0947"></script>
+  <script src="static/app.js?v=4d2e9aaa61"></script>
 </body>
 </html>

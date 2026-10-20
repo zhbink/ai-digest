@@ -24,18 +24,114 @@ const follows = {
   },
   remove(id) { const o = this.load(); delete o[id]; this.save(o); },
   merge(items) {
-    const o = this.load(); let n = 0;
+    const o = this.load(); let n = 0, nc = 0;
     for (const it of items) {
       if (!it || !it.id) continue;
       const cur = o[it.id];
-      // v1 and v2 exports both work; v2's export-only enrichment (media, texts, article link) is not stored
-      const { media, text, text_zh, summary_zh, followed, followed_at, article_title_zh, article_summary_zh, article_link, ...base } = it;
+      // v1/v2/v3 exports all work; comments (v3) merge into the comments store; export-only enrichment (media, texts, article link) is not stored
+      if (Array.isArray(it.comments)) nc += comments.merge(String(it.id), it.comments);
+      const { media, comments: _c, text, text_zh, summary_zh, followed, followed_at, article_title_zh, article_summary_zh, article_link, ...base } = it;
       if (!base.title && summary_zh) base.title = summary_zh;
       if (!cur || String(it.saved_at || "") > String(cur.saved_at || "")) { o[it.id] = { ...cur, ...base, id: String(it.id) }; n++; }
     }
+    this.save(o); this.lastComments = nc; return n;
+  },
+};
+// ---- 评论 (personal notes) in localStorage: {<post id>: [{id,text,created_at,updated_at}]}
+const LS_COMMENTS = "aidigest.comments";
+const comments = {
+  load() {
+    try { const o = JSON.parse(localStorage.getItem(LS_COMMENTS) || "{}"); return o && typeof o === "object" && !Array.isArray(o) ? o : {}; }
+    catch { return {}; }
+  },
+  save(o) { localStorage.setItem(LS_COMMENTS, JSON.stringify(o)); },
+  get(pid) { return [...(this.load()[pid] || [])].sort((a, b) => String(a.created_at).localeCompare(String(b.created_at))); },
+  count(pid) { return (this.load()[pid] || []).length; },
+  add(pid, text) {
+    const o = this.load(), now = new Date().toISOString();
+    const c = { id: `c${Date.now().toString(36)}${Math.random().toString(36).slice(2, 6)}`, text, created_at: now, updated_at: now };
+    (o[pid] = o[pid] || []).push(c); this.save(o); return c;
+  },
+  update(pid, cid, text) {
+    const o = this.load(); const c = (o[pid] || []).find(x => x.id === cid);
+    if (c) { c.text = text; c.updated_at = new Date().toISOString(); this.save(o); }
+  },
+  remove(pid, cid) {
+    const o = this.load(); o[pid] = (o[pid] || []).filter(x => x.id !== cid);
+    if (!o[pid].length) delete o[pid];
+    this.save(o);
+  },
+  merge(pid, list) {   // import: union by comment id, newer updated_at wins
+    if (!Array.isArray(list) || !list.length) return 0;
+    const o = this.load(), cur = o[pid] || []; let n = 0;
+    for (const c of list) {
+      if (!c || typeof c.text !== "string") continue;
+      const id = c.id || `c${Date.parse(c.created_at || "") || Date.now()}`;
+      const i = cur.findIndex(x => x.id === id);
+      const item = { id, text: c.text, created_at: c.created_at || new Date().toISOString(), updated_at: c.updated_at || c.created_at || new Date().toISOString() };
+      if (i < 0) { cur.push(item); n++; }
+      else if (String(item.updated_at) > String(cur[i].updated_at || "")) { cur[i] = item; n++; }
+    }
+    if (cur.length) o[pid] = cur;
     this.save(o); return n;
   },
 };
+const exportComments = (pid) => comments.get(pid).map(({ id, text, created_at, updated_at }) => ({ id, text, created_at, updated_at }));
+function cmBtnLabel(pid) { const n = comments.count(pid); return `✎ 评论${n ? ` <b class="cm-n">${n}</b>` : ""}`; }
+function updateCommentUI(pid) {
+  document.querySelectorAll(`[data-cm-btn="${CSS.escape(pid)}"]`).forEach(b => { b.innerHTML = cmBtnLabel(pid); b.classList.toggle("has", comments.count(pid) > 0); });
+}
+// renders list + (optional) editor into box; post = post object (for auto-follow)
+function renderComments(box, post, { editor = false } = {}) {
+  const pid = post.id, list = comments.get(pid);
+  box.hidden = !editor && !list.length;
+  box.innerHTML = `
+    ${list.length ? `<div class="cm-list">${list.map(c => `
+      <div class="cm-item" data-cid="${escapeHtml(c.id)}">
+        <div class="cm-meta"><span>✎ ${fmtTime(c.created_at)}${c.updated_at && c.updated_at !== c.created_at ? ` · 已编辑 ${fmtTime(c.updated_at)}` : ""}</span>
+          <span class="cm-ops"><button type="button" data-cm-edit>编辑</button><button type="button" data-cm-del>删除</button></span></div>
+        <div class="cm-text">${escapeHtml(c.text)}</div>
+      </div>`).join("")}</div>` : ""}
+    ${editor ? `<div class="cm-editor">
+      <textarea rows="3" placeholder="写下你的评论 / 批注（仅保存在本浏览器）… Ctrl/⌘+Enter 保存" aria-label="评论"></textarea>
+      <div class="cm-actions"><span class="cm-hint">保存后自动加入我的关注</span><button type="button" class="btn ghost sm" data-cm-cancel>取消</button><button type="button" class="btn primary sm" data-cm-save>保存</button></div>
+    </div>` : ""}`;
+  const rerender = (opts) => { renderComments(box, post, opts); updateCommentUI(pid); };
+  const ta = box.querySelector(".cm-editor textarea");
+  if (ta) {
+    ta.focus({ preventScroll: true });
+    const save = () => {
+      const text = ta.value.trim(); if (!text) { ta.focus({ preventScroll: true }); return; }
+      comments.add(pid, text);
+      if (!follows.has(pid)) { follows.add(post); flash("已保存评论，并加入我的关注"); } else flash("已保存评论");
+      rerender({ editor: false });
+    };
+    box.querySelector("[data-cm-save]").onclick = save;
+    box.querySelector("[data-cm-cancel]").onclick = () => rerender({ editor: false });
+    ta.addEventListener("keydown", e => {
+      if (e.key === "Enter" && (e.ctrlKey || e.metaKey)) { e.preventDefault(); save(); }
+      else if (e.key === "Escape") { e.preventDefault(); e.stopPropagation(); rerender({ editor: false }); }
+    });
+  }
+  box.querySelectorAll(".cm-item").forEach(it => {
+    const cid = it.dataset.cid;
+    it.querySelector("[data-cm-del]").onclick = () => { if (confirm("删除这条评论？")) { comments.remove(pid, cid); rerender({ editor: !!box.querySelector(".cm-editor") }); flash("已删除评论"); } };
+    it.querySelector("[data-cm-edit]").onclick = () => {
+      const c = comments.get(pid).find(x => x.id === cid); if (!c) return;
+      const t = it.querySelector(".cm-text");
+      t.outerHTML = `<div class="cm-editor"><textarea rows="3" aria-label="编辑评论">${escapeHtml(c.text)}</textarea>
+        <div class="cm-actions"><span class="spacer"></span><button type="button" class="btn ghost sm" data-cm-cancel>取消</button><button type="button" class="btn primary sm" data-cm-save>保存</button></div></div>`;
+      const ta2 = it.querySelector("textarea"); ta2.focus({ preventScroll: true });
+      const save = () => { const v = ta2.value.trim(); if (!v) return; comments.update(pid, cid, v); rerender({ editor: false }); flash("已更新评论"); };
+      it.querySelector("[data-cm-save]").onclick = save;
+      it.querySelector("[data-cm-cancel]").onclick = () => rerender({ editor: false });
+      ta2.addEventListener("keydown", e => {
+        if (e.key === "Enter" && (e.ctrlKey || e.metaKey)) { e.preventDefault(); save(); }
+        else if (e.key === "Escape") { e.preventDefault(); e.stopPropagation(); rerender({ editor: false }); }
+      });
+    };
+  });
+}
 function followBtn(p) {
   const on = follows.has(p.id);
   return `<button type="button" class="btn ghost follow${on ? " on" : ""}" data-follow="${escapeHtml(p.id)}" aria-pressed="${on}"
@@ -427,10 +523,12 @@ function renderFeed(posts, opts = {}) {
         <span>💬 ${p.metrics?.replies ?? 0}</span>`}
         <span class="spacer"></span>
         ${followBtn(p)}
+        <button type="button" class="btn ghost cm-btn${comments.count(p.id) ? " has" : ""}" data-cm-btn="${escapeHtml(p.id)}" title="写评论 / 批注（仅保存在本浏览器）">${cmBtnLabel(p.id)}</button>
         ${p.text_zh && !p.article_summary_zh ? `<button class="btn ghost tr-toggle" data-tr="zh" title="机器翻译">查看原文</button>` : ""}
         ${p.is_article ? `<button class="btn primary" data-article="${escapeHtml(p.article_id)}">阅读全文</button>` : ""}
         <a class="btn ghost" href="${escapeHtml(p.post_url)}" target="_blank" rel="noopener">原帖</a>
-      </div>`;
+      </div>
+      <div class="cm-box" hidden></div>`;
     el.querySelector(".tr-toggle")?.addEventListener("click", (ev) => {
       const b = ev.currentTarget, toOrig = b.dataset.tr === "zh";
       el.querySelector(".body-text").innerHTML = clip(toOrig ? p.text : p.text_zh);
@@ -438,6 +536,11 @@ function renderFeed(posts, opts = {}) {
       b.textContent = toOrig ? "显示译文" : "查看原文";
     });
     bindMedia(el, p);
+    const cmBox = el.querySelector(".cm-box");
+    renderComments(cmBox, p);
+    el.querySelector("[data-cm-btn]").addEventListener("click", () => {
+      renderComments(cmBox, p, { editor: !cmBox.querySelector(".cm-editor") });
+    });
     el.querySelector("[data-follow]").addEventListener("click", (ev) => {
       const id = ev.currentTarget.dataset.follow;
       if (follows.has(id)) follows.remove(id); else follows.add(p);
@@ -463,6 +566,17 @@ async function openArticle(id, fallbackUrl) {
   const rf = document.getElementById("readerFollow");
   rf.hidden = !post;
   if (post) { rf.dataset.follow = post.id; updateFollowUI(); }
+  const rc = document.getElementById("readerCm"), rbox = document.getElementById("readerComments");
+  rc.hidden = !post; rbox.hidden = true; rbox.innerHTML = "";
+  if (post) {
+    rc.dataset.cmBtn = post.id; rc.innerHTML = cmBtnLabel(post.id); rc.classList.toggle("has", comments.count(post.id) > 0);
+    renderComments(rbox, post);
+    rc.onclick = () => {
+      renderComments(rbox, post, { editor: true });
+      const panel = document.querySelector(".reader-panel");
+      panel.scrollTo({ top: rbox.offsetTop - 80, behavior: "smooth" });
+    };
+  }
   tr.hidden = true;
   body.innerHTML = `<p class="muted">加载中…</p>`;
   saveScroll();
@@ -594,10 +708,10 @@ function exportMedia(p) {
 async function enrichFollow(it) {
   let p = findPost(it.id);
   if (!p && it.date) { try { await ensureDay(it.date); p = findPost(it.id); } catch { /* day missing: keep stored fields */ } }
-  if (!p) return it;
+  if (!p) return { ...it, followed: true, followed_at: it.saved_at || null, comments: exportComments(it.id) };
   const out = { ...it, followed: true, followed_at: it.saved_at || null,
     summary_zh: p.summary_zh || it.title || "", text_zh: p.text_zh || null, text: p.text || null,
-    media: exportMedia(p) };
+    media: exportMedia(p), comments: exportComments(p.id) };
   if (p.is_article && p.article_id) {
     out.article_title_zh = p.article_title_zh || p.article_title || null;
     out.article_summary_zh = p.article_summary_zh || null;
@@ -643,11 +757,12 @@ document.getElementById("dayExport").addEventListener("click", async () => {
     external_links: externalLinks(p),
     media: exportMedia(p),
     followed: !!fl[p.id],
+    comments: exportComments(p.id),
     ...(fl[p.id] ? { followed_at: fl[p.id].saved_at || null } : {}),
   }));
   const bySec = {}; posts.forEach(p => { bySec[p.section] = (bySec[p.section] || 0) + 1; });
   const counts = { posts: posts.length, by_section: bySec, articles: posts.filter(p => p.article_link).length,
-    recommended: posts.filter(p => p.recommended).length, followed: posts.filter(p => p.followed).length, media: posts.reduce((n, p) => n + p.media.length, 0) };
+    recommended: posts.filter(p => p.recommended).length, followed: posts.filter(p => p.followed).length, commented: posts.filter(p => p.comments.length).length, media: posts.reduce((n, p) => n + p.media.length, 0) };
   downloadJson({ app: "ai-digest", kind: "day", version: 1, date: state.date, trend_summary: day.trend_summary || "",
     exported_at: new Date().toISOString(), counts, posts }, `ai-digest-${state.date}.json`);
   flash(`已导出 ${state.date}：${posts.length} 条（${counts.media} 个图片/视频）`);
@@ -656,7 +771,7 @@ document.getElementById("followExport").addEventListener("click", async () => {
   flash("正在导出（含图片与视频链接）…");
   const items = await Promise.all(follows.all().map(enrichFollow));
   const nMedia = items.reduce((n, it) => n + ((it.media || []).length), 0);
-  const payload = { app: "ai-digest", kind: "follows", version: 2, exported_at: new Date().toISOString(), items };
+  const payload = { app: "ai-digest", kind: "follows", version: 3, exported_at: new Date().toISOString(), items };
   downloadJson(payload, `ai-digest-follows-${new Date().toISOString().slice(0, 10)}.json`);
   flash(`已导出 ${items.length} 条关注（${nMedia} 个图片/视频）`);
 });
@@ -668,12 +783,12 @@ document.getElementById("followFile").addEventListener("change", async (e) => {
     const data = JSON.parse(await f.text());
     const items = Array.isArray(data) ? data : Array.isArray(data.items) ? data.items : Object.values(data || {});
     const n = follows.merge(items.filter(it => it && typeof it === "object" && it.id));
-    flash(`已导入 ${n} 条关注`);
+    flash(`已导入 ${n} 条关注${follows.lastComments ? `、${follows.lastComments} 条评论` : ""}`);
     render();
   } catch (err) { flash("导入失败：文件不是有效的关注导出 JSON"); }
 });
 document.getElementById("readerFollow").addEventListener("click", (e) => toggleFollow(e.currentTarget.dataset.follow));
-window.addEventListener("storage", (e) => { if (e.key === LS_FOLLOW) { updateFollowUI(); if (state.view === "follow") render(); } });
+window.addEventListener("storage", (e) => { if (e.key === LS_COMMENTS && state.view !== "config") render(); if (e.key === LS_FOLLOW) { updateFollowUI(); if (state.view === "follow") render(); } });
 function flash(msg) {
   const el = document.getElementById("toast"); el.textContent = msg; el.hidden = false;
   clearTimeout(flash.t); flash.t = setTimeout(() => { el.hidden = true; }, 2600);

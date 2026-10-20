@@ -434,3 +434,27 @@ body.view-config .trend, body.view-config #feed, body.view-config #empty { displ
 .lb-prev { left: 16px; } .lb-next { right: 16px; }
 .lb-close:hover, .lb-nav:hover { background: rgba(255,255,255,.14); }
 @media (max-width: 560px) { .media.n3 { height: 240px; } .media.n1 .m-cell, .media.n1 .m-cell.m-video { max-height: 300px; } .lb-nav { width: 36px; height: 52px; } }
+
+/* ---- 评论 (personal notes) — teal, distinct from the X reply stat 💬 ---- */
+.btn.cm-btn { color: var(--muted); }
+.btn.cm-btn:hover { color: #7fe0cf; border-color: rgba(94,214,190,.4); }
+.btn.cm-btn.has { color: #7fe0cf; border-color: rgba(94,214,190,.35); }
+.cm-n { display: inline-block; min-width: 16px; padding: 0 4px; margin-left: 2px; border-radius: 4px; font-size: .74rem; font-weight: 600;
+  background: rgba(94,214,190,.18); color: #9ff0e1; text-align: center; }
+.cm-box { margin-top: 10px; padding: 10px 12px; border: 1px solid rgba(94,214,190,.22); border-radius: 6px; background: rgba(94,214,190,.04); }
+.cm-list { display: flex; flex-direction: column; gap: 8px; }
+.cm-item { border-left: 2px solid rgba(94,214,190,.5); padding: 2px 0 2px 10px; }
+.cm-meta { display: flex; justify-content: space-between; gap: 8px; font-size: .74rem; color: #8fbfb6; }
+.cm-ops button { background: none; border: none; color: var(--muted); cursor: pointer; font-size: .74rem; padding: 0 0 0 10px; }
+.cm-ops button:hover { color: #fff; }
+.cm-text { white-space: pre-wrap; font-size: .9rem; line-height: 1.55; color: #dbe6f5; margin-top: 2px; word-break: break-word; }
+.cm-editor { margin-top: 8px; }
+.cm-list + .cm-editor { margin-top: 10px; }
+.cm-editor textarea { width: 100%; box-sizing: border-box; resize: vertical; min-height: 64px; padding: 8px 10px; border-radius: 6px;
+  border: 1px solid var(--border); background: #0c1426; color: #e8eefc; font: inherit; font-size: .9rem; line-height: 1.5; }
+.cm-editor textarea:focus { outline: none; border-color: rgba(94,214,190,.6); }
+.cm-actions { display: flex; align-items: center; gap: 8px; margin-top: 6px; }
+.cm-hint { flex: 1; font-size: .74rem; color: var(--muted); }
+.cm-actions .spacer { flex: 1; }
+.reader-cm-box { margin: 0 24px 32px; }
+.reader-top .reader-cm { color: #7fe0cf; }
