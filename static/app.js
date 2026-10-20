@@ -1,4 +1,61 @@
-const state = { date: null, section: "", q: "" };
+const LS_SORT = "aidigest.sort", LS_FOLLOW = "aidigest.follows";
+const state = {
+  date: null, section: "", q: "",
+  sort: localStorage.getItem(LS_SORT) === "new" ? "new" : "rec",   // 推荐 (rec_score desc) | 最新
+  recOnly: false, view: "day", followToday: false,                  // view: day | follow
+};
+let allDates = [];
+
+// ---- 关注 (bookmarks) in localStorage: {<post id>: {id,date,title,handle,display_name,url,article_id,saved_at}}
+const follows = {
+  load() {
+    try { const o = JSON.parse(localStorage.getItem(LS_FOLLOW) || "{}"); return o && typeof o === "object" && !Array.isArray(o) ? o : {}; }
+    catch { return {}; }
+  },
+  save(o) { localStorage.setItem(LS_FOLLOW, JSON.stringify(o)); updateFollowUI(); },
+  all() { return Object.values(this.load()).sort((a, b) => String(b.saved_at || "").localeCompare(String(a.saved_at || ""))); },
+  has(id) { return !!this.load()[id]; },
+  add(p, savedAt) {
+    const o = this.load();
+    o[p.id] = { id: p.id, date: p._date || state.date, title: p.summary_zh || "", handle: p.handle || "",
+      display_name: p.display_name || "", url: p.post_url || "", article_id: p.is_article ? p.article_id : null,
+      saved_at: savedAt || new Date().toISOString() };
+    this.save(o);
+  },
+  remove(id) { const o = this.load(); delete o[id]; this.save(o); },
+  merge(items) {
+    const o = this.load(); let n = 0;
+    for (const it of items) {
+      if (!it || !it.id) continue;
+      const cur = o[it.id];
+      if (!cur || String(it.saved_at || "") > String(cur.saved_at || "")) { o[it.id] = { ...cur, ...it, id: String(it.id) }; n++; }
+    }
+    this.save(o); return n;
+  },
+};
+function followBtn(p) {
+  const on = follows.has(p.id);
+  return `<button type="button" class="btn ghost follow${on ? " on" : ""}" data-follow="${escapeHtml(p.id)}" aria-pressed="${on}"
+    title="${on ? "取消关注" : "加入我的关注"}">${on ? "★ 已关注" : "☆ 关注"}</button>`;
+}
+function updateFollowUI() {
+  const n = Object.keys(follows.load()).length;
+  const c = document.getElementById("followCount"); if (c) c.textContent = n;
+  document.querySelectorAll("[data-follow]").forEach(b => {
+    const on = follows.has(b.dataset.follow);
+    b.classList.toggle("on", on); b.setAttribute("aria-pressed", on);
+    b.textContent = on ? "★ 已关注" : "☆ 关注"; b.title = on ? "取消关注" : "加入我的关注";
+  });
+}
+function findPost(id) {
+  for (const d of Object.values(dayCache)) { const p = (d.posts || []).find(x => x.id === id); if (p) return p; }
+  return null;
+}
+function toggleFollow(id) {
+  if (follows.has(id)) follows.remove(id);
+  else { const p = findPost(id); if (p) follows.add(p); }
+  if (state.view === "follow") render();
+}
 const sectionLabel = { agent: "AI Agent", zh: "中文圈", video: "AI 视频" };
 const kindLabel = { post: "帖子", longpost: "长帖", article: "文章", paper: "论文", tutorial: "教程", video: "视频", repo: "仓库" };
 
@@ -78,27 +135,57 @@ let picker = null;
 async function loadDays() {
   const data = await api("data/index.json");
   const dates = data.dates || [];                 // newest first
+  allDates = dates;
   const want = dateFromUrl();
   state.date = dates.includes(want) ? want : dates[0] || null;
   picker = DatePicker(document.getElementById("datePicker"), {
     dates, value: state.date,
     onChange: d => { state.date = d; setDateInUrl(d, d === dates[0]); loadDay(); },
   });
-  if (new URLSearchParams(location.search).get("cal") === "open") setTimeout(() => picker.open(), 0); // debug/screenshot hook
+  const qs = new URLSearchParams(location.search);
+  if (qs.get("cal") === "open") setTimeout(() => picker.open(), 0); // debug/screenshot hook
+  // demo/screenshot hook: ?demo_follow=id1,id2 adds those posts to 我的关注 (only if not already saved); ?view=follow opens it
+  const demo = (qs.get("demo_follow") || "").split(",").map(s => s.trim()).filter(Boolean);
+  if (demo.length) {
+    await Promise.all(dates.map(d => ensureDay(d).catch(() => null)));
+    const base = Date.now();
+    demo.forEach((id, i) => { const p = findPost(id); if (p && !follows.has(id)) follows.add(p, new Date(base - i * 60000).toISOString()); });
+  }
+  if (qs.get("view") === "follow") state.view = "follow";
+  updateFollowUI();
 }
 
-async function loadDay() {
-  if (!state.date) return;
-  if (!dayCache[state.date]) dayCache[state.date] = await api(`data/days/${encodeURIComponent(state.date)}.json`);
-  const day = dayCache[state.date];
-  let posts = (day.posts || []).slice().sort((a, b) => (Date.parse(b.created_at) || 0) - (Date.parse(a.created_at) || 0));
+async function ensureDay(date) {
+  if (!dayCache[date]) {
+    const d = await api(`data/days/${encodeURIComponent(date)}.json`);
+    (d.posts || []).forEach(p => { p._date = d.date || date; });
+    dayCache[date] = d;
+  }
+  return dayCache[date];
+}
+const byNewest = (a, b) => (Date.parse(b.created_at) || 0) - (Date.parse(a.created_at) || 0);
+const byRec = (a, b) => ((b.rec_score ?? -1) - (a.rec_score ?? -1)) || byNewest(a, b);
+function applyFilters(posts) {
   if (state.section) posts = posts.filter(p => p.section === state.section);
   if (state.q) {
     const q = state.q.toLowerCase();
-    posts = posts.filter(p => [p.handle, p.display_name, p.summary_zh, p.text, p.text_zh, p.article_title, p.article_title_zh, p.article_summary_zh,
-        ...deriveKinds(p).map(k => kindLabel[k])]
+    posts = posts.filter(p => [p.handle, p.display_name, p.summary_zh, p.text, p.text_zh, p.article_title, p.article_title_zh,
+        p.article_summary_zh, p.rec_reason, ...deriveKinds(p).map(k => kindLabel[k])]
       .some(v => (v || "").toLowerCase().includes(q)));
   }
+  return posts;
+}
+const loadDay = () => render();
+async function render() {
+  document.getElementById("followTab").classList.toggle("active", state.view === "follow");
+  document.getElementById("dayTools").hidden = state.view !== "day";
+  document.getElementById("followBar").hidden = state.view !== "follow";
+  if (state.view === "follow") return renderFollowView();
+  if (!state.date) return;
+  const day = await ensureDay(state.date);
+  let posts = applyFilters((day.posts || []).slice());
+  if (state.recOnly) posts = posts.filter(p => p.recommended);
+  posts.sort(state.sort === "new" ? byNewest : byRec);
   const trendBox = document.getElementById("trendBox");
   const trendText = document.getElementById("trendText");
   const stats = document.getElementById("stats");
@@ -108,16 +195,50 @@ async function loadDay() {
   } else trendBox.hidden = true;
   const s = day.stats || {};
   const by = s.by_section || {};
+  const nRec = (day.posts || []).filter(p => p.recommended).length;
   stats.innerHTML = `
     <span class="pill">帖子 ${s.posts ?? (day.posts || []).length}</span>
     <span class="pill">全文 ${s.articles ?? 0}</span>
+    <span class="pill rec">推荐 ${nRec}</span>
     <span class="pill">Agent ${by.agent ?? 0}</span>
     <span class="pill">中文 ${by.zh ?? 0}</span>
     <span class="pill">视频 ${by.video ?? 0}</span>`;
+  document.getElementById("empty").textContent = state.recOnly ? "这一天没有符合条件的推荐内容。" : "这一天还没有内容。";
   renderFeed(posts);
 }
 
-function renderFeed(posts) {
+async function renderFollowView() {
+  document.getElementById("trendBox").hidden = true;
+  let items = follows.all();
+  const total = items.length;
+  if (state.followToday) items = items.filter(it => it.date === state.date);
+  await Promise.all([...new Set(items.map(it => it.date).filter(d => allDates.includes(d)))].map(d => ensureDay(d).catch(() => null)));
+  let posts = items.map(it => {
+    const p = (dayCache[it.date]?.posts || []).find(x => x.id === it.id);
+    return p ? { ...p, _saved_at: it.saved_at }
+      : { id: it.id, _date: it.date, _stub: true, _saved_at: it.saved_at, handle: it.handle, display_name: it.display_name,
+          summary_zh: it.title, post_url: it.url, created_at: null, kinds: [] };
+  });
+  posts = applyFilters(posts);
+  const dLabel = state.date ? `${+state.date.slice(5, 7)}月${+state.date.slice(8)}日` : "";
+  document.getElementById("followTitle").innerHTML =
+    `我的关注 <b>${total}</b> 条${state.followToday || state.section || state.q ? `<span class="muted"> · 当前显示 ${posts.length} 条</span>` : ""}`;
+  document.getElementById("followToday").textContent = `只看 ${dLabel}`;
+  document.getElementById("followToday").classList.toggle("on", state.followToday);
+  document.getElementById("followToday").setAttribute("aria-pressed", state.followToday);
+  document.getElementById("empty").textContent = total
+    ? "没有符合条件的关注内容。"
+    : "还没有关注任何内容。点卡片上的「☆ 关注」即可收藏，收藏保存在本浏览器，可用「导出」带到别的浏览器。";
+  renderFeed(posts, { follow: true });
+}
+
+function recChip(p) {
+  if (p.rec_score == null) return "";
+  return p.recommended
+    ? `<span class="rec-chip hot" title="推荐分（创业者视角）">推荐 ${p.rec_score}</span>`
+    : `<span class="rec-chip" title="推荐分（创业者视角）">${p.rec_score}</span>`;
+}
+function renderFeed(posts, opts = {}) {
   const feed = document.getElementById("feed");
   const empty = document.getElementById("empty");
   feed.innerHTML = "";
@@ -130,19 +251,21 @@ function renderFeed(posts) {
       <div class="card-head">
         ${av ? `<img class="avatar" src="${escapeHtml(av)}" alt="" />` : `<div class="avatar"></div>`}
         <div class="meta">
-          <div class="name-row"><span class="name">${escapeHtml(p.display_name || p.handle)}</span><span class="tags">${kindTags(p)}<span class="badge ${escapeHtml(p.section)}">${sectionLabel[p.section] || p.section}</span></span></div>
-          <div class="handle">@${escapeHtml(p.handle)} · ${fmtTime(p.created_at)}</div>
+          <div class="name-row"><span class="name">${escapeHtml(p.display_name || p.handle)}</span><span class="tags">${p._stub ? "" : kindTags(p)}${p.section ? `<span class="badge ${escapeHtml(p.section)}">${sectionLabel[p.section] || p.section}</span>` : ""}${recChip(p)}</span></div>
+          <div class="handle">@${escapeHtml(p.handle)} · ${p.created_at ? fmtTime(p.created_at) : escapeHtml(p._date || "")}${opts.follow ? `<span class="saved-at"> · ${escapeHtml((p._date || "").slice(5))} 期${p._saved_at ? ` · 关注于 ${fmtTime(p._saved_at)}` : ""}</span>` : ""}</div>
         </div>
       </div>
       <div class="summary">${escapeHtml(p.summary_zh || "")}</div>
-      ${p.article_summary_zh
+      ${p.rec_reason ? `<div class="rec-reason${p.recommended ? " hot" : ""}"><span class="rec-reason-label">推荐理由</span>${escapeHtml(p.rec_reason)}</div>` : ""}
+      ${p._stub ? `<div class="body-text">（该日数据暂不可用，仅显示已保存的信息）</div>` : p.article_summary_zh
         ? `<div class="digest"><div class="digest-label">要点总结</div><div class="digest-text">${escapeHtml(p.article_summary_zh)}</div></div>`
         : `<div class="body-text">${clip(p.text_zh || p.text)}</div>`}
       <div class="card-foot">
-        <span>♥ ${p.metrics?.likes ?? 0}</span>
+        ${p._stub ? "" : `<span>♥ ${p.metrics?.likes ?? 0}</span>
         <span>↻ ${p.metrics?.reposts ?? 0}</span>
-        <span>💬 ${p.metrics?.replies ?? 0}</span>
+        <span>💬 ${p.metrics?.replies ?? 0}</span>`}
         <span class="spacer"></span>
+        ${followBtn(p)}
         ${p.text_zh && !p.article_summary_zh ? `<button class="btn ghost tr-toggle" data-tr="zh" title="机器翻译">查看原文</button>` : ""}
         ${p.is_article ? `<button class="btn primary" data-article="${escapeHtml(p.article_id)}">阅读全文</button>` : ""}
         <a class="btn ghost" href="${escapeHtml(p.post_url)}" target="_blank" rel="noopener">原帖</a>
@@ -152,6 +275,11 @@ function renderFeed(posts) {
       el.querySelector(".body-text").innerHTML = clip(toOrig ? p.text : p.text_zh);
       b.dataset.tr = toOrig ? "orig" : "zh";
       b.textContent = toOrig ? "显示译文" : "查看原文";
+    });
+    el.querySelector("[data-follow]").addEventListener("click", (ev) => {
+      const id = ev.currentTarget.dataset.follow;
+      if (follows.has(id)) follows.remove(id); else follows.add(p);
+      if (opts.follow) render();
     });
     el.querySelector("[data-article]")?.addEventListener("click", () => {
       location.hash = `#/article/${p.article_id}`;
@@ -167,8 +295,11 @@ async function openArticle(id, fallbackUrl) {
   const tr = document.getElementById("readerTr");
   const kindBox = document.getElementById("readerKind");
   const post = Object.values(dayCache).flatMap(d => d.posts || []).find(p => p.article_id === id);
-  kindBox.innerHTML = post ? kindTags(post) : "";
+  kindBox.innerHTML = post ? kindTags(post) + recChip(post) : "";
   kindBox.hidden = !post;
+  const rf = document.getElementById("readerFollow");
+  rf.hidden = !post;
+  if (post) { rf.dataset.follow = post.id; updateFollowUI(); }
   tr.hidden = true;
   body.innerHTML = `<p class="muted">加载中…</p>`;
   reader.hidden = false;
@@ -234,7 +365,7 @@ document.getElementById("reader").addEventListener("click", (e) => {
 });
 
 document.getElementById("tabs").addEventListener("click", (e) => {
-  const btn = e.target.closest("button");
+  const btn = e.target.closest("button[data-section]");
   if (!btn) return;
   [...document.getElementById("tabs").children].forEach(b => b.classList.remove("active"));
   btn.classList.add("active");
@@ -247,6 +378,51 @@ document.getElementById("search").addEventListener("input", (e) => {
   clearTimeout(t);
   t = setTimeout(() => { state.q = e.target.value.trim(); loadDay(); }, 200);
 });
+
+// sort / filter / follow-view controls
+function syncSortUI() {
+  document.querySelectorAll("#sortSeg button").forEach(b => {
+    const on = b.dataset.sort === state.sort; b.classList.toggle("active", on); b.setAttribute("aria-pressed", on);
+  });
+  const r = document.getElementById("recOnly"); r.classList.toggle("on", state.recOnly); r.setAttribute("aria-pressed", state.recOnly);
+}
+document.getElementById("sortSeg").addEventListener("click", (e) => {
+  const b = e.target.closest("button[data-sort]"); if (!b) return;
+  state.sort = b.dataset.sort; localStorage.setItem(LS_SORT, state.sort); syncSortUI(); render();
+});
+document.getElementById("recOnly").addEventListener("click", () => { state.recOnly = !state.recOnly; syncSortUI(); render(); });
+document.getElementById("followTab").addEventListener("click", () => {
+  state.view = state.view === "follow" ? "day" : "follow"; render(); window.scrollTo({ top: 0 });
+});
+document.getElementById("followToday").addEventListener("click", () => { state.followToday = !state.followToday; render(); });
+document.getElementById("followExport").addEventListener("click", () => {
+  const payload = { app: "ai-digest", kind: "follows", version: 1, exported_at: new Date().toISOString(), items: follows.all() };
+  const blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = `ai-digest-follows-${new Date().toISOString().slice(0, 10)}.json`;
+  document.body.appendChild(a); a.click(); a.remove();
+  setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+});
+document.getElementById("followImport").addEventListener("click", () => document.getElementById("followFile").click());
+document.getElementById("followFile").addEventListener("change", async (e) => {
+  const f = e.target.files?.[0]; e.target.value = "";
+  if (!f) return;
+  try {
+    const data = JSON.parse(await f.text());
+    const items = Array.isArray(data) ? data : Array.isArray(data.items) ? data.items : Object.values(data || {});
+    const n = follows.merge(items.filter(it => it && typeof it === "object" && it.id));
+    flash(`已导入 ${n} 条关注`);
+    render();
+  } catch (err) { flash("导入失败：文件不是有效的关注导出 JSON"); }
+});
+document.getElementById("readerFollow").addEventListener("click", (e) => toggleFollow(e.currentTarget.dataset.follow));
+window.addEventListener("storage", (e) => { if (e.key === LS_FOLLOW) { updateFollowUI(); if (state.view === "follow") render(); } });
+function flash(msg) {
+  const el = document.getElementById("toast"); el.textContent = msg; el.hidden = false;
+  clearTimeout(flash.t); flash.t = setTimeout(() => { el.hidden = true; }, 2600);
+}
+syncSortUI();
 
 window.addEventListener("hashchange", onHashChange);
 

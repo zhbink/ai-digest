@@ -228,3 +228,75 @@ select:focus, input:focus { border-color: var(--accent); }
 }
 .tabs { scrollbar-width: none; } .tabs::-webkit-scrollbar { display: none; }
 @media (min-width: 760px) { .sub { white-space: nowrap; } }
+
+/* ---------- 推荐分 / sort toolbar ---------- */
+.tabbar { display: flex; gap: 10px; align-items: flex-start; }
+.tabbar .tabs { flex: 1; min-width: 0; margin-bottom: 8px; }
+.follow-tab {
+  flex-shrink: 0; display: inline-flex; align-items: center; gap: 6px; white-space: nowrap; cursor: pointer;
+  border: 1px solid rgba(255,209,102,.28); background: rgba(255,209,102,.06); color: #ffd98a;
+  border-radius: 5px; padding: 8px 12px; font-size: .9rem;
+}
+.follow-tab:hover { background: rgba(255,209,102,.12); }
+.follow-tab.active { background: rgba(255,209,102,.18); border-color: rgba(255,209,102,.6); color: #ffe7a8; }
+.follow-tab .count { font-size: .75rem; min-width: 18px; padding: 1px 5px; border-radius: 4px; background: rgba(255,209,102,.2); text-align: center; }
+.toolbar { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin: 0 0 12px; }
+.toolbar .spacer { flex: 1; }
+.toolbar-hint { color: var(--muted); font-size: .76rem; opacity: .8; }
+.seg { display: inline-flex; border: 1px solid var(--border); border-radius: 5px; overflow: hidden; background: var(--panel); }
+.seg button {
+  border: none; background: transparent; color: var(--muted); padding: 6px 12px; font-size: .84rem; cursor: pointer;
+}
+.seg button + button { border-left: 1px solid var(--border); }
+.seg button.active { background: #24345c; color: #fff; }
+.chip-toggle {
+  border: 1px solid var(--border); background: var(--panel); color: var(--muted); cursor: pointer;
+  border-radius: 5px; padding: 6px 11px; font-size: .84rem;
+}
+.chip-toggle::before { content: ""; display: inline-block; width: 8px; height: 8px; margin-right: 6px; border-radius: 2px;
+  border: 1px solid currentColor; vertical-align: 0; }
+.chip-toggle.on { color: #ffd98a; border-color: rgba(255,209,102,.5); background: rgba(255,209,102,.1); }
+.chip-toggle.on::before { background: #ffd166; border-color: #ffd166; }
+.seg button:focus-visible, .chip-toggle:focus-visible, .follow-tab:focus-visible, .btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.pill.rec { color: #ffd98a; border-color: rgba(255,209,102,.3); }
+
+.rec-chip {
+  font-size: .72rem; line-height: 1; padding: 4px 6px; border-radius: 4px; white-space: nowrap;
+  color: var(--muted); background: rgba(255,255,255,.05); border: 1px solid var(--border); font-variant-numeric: tabular-nums;
+}
+.rec-chip.hot { color: #1a1300; background: linear-gradient(135deg, #ffd166, #ffb347); border-color: transparent; font-weight: 700; }
+.rec-reason {
+  margin: -2px 0 8px; font-size: .84rem; line-height: 1.5; color: var(--muted);
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.rec-reason-label { color: #b9a26a; margin-right: 6px; font-size: .76rem; }
+.rec-reason.hot .rec-reason-label { color: #ffd166; }
+@media (max-width: 560px) { .rec-reason { white-space: normal; } }
+
+/* ---------- 关注 ---------- */
+.btn.follow { color: var(--muted); }
+.btn.follow:hover { color: #ffd98a; border-color: rgba(255,209,102,.4); }
+.btn.follow.on { color: #ffd166; border-color: rgba(255,209,102,.45); background: rgba(255,209,102,.08); }
+.btn.sm { padding: 6px 11px; font-size: .82rem; }
+.follow-bar { padding: 10px 12px; border: 1px solid rgba(255,209,102,.2); border-radius: var(--radius);
+  background: linear-gradient(180deg, rgba(255,209,102,.06), rgba(255,209,102,.02)); }
+.follow-title { font-weight: 650; }
+.follow-title b { color: #ffd166; }
+.follow-title .muted { color: var(--muted); font-weight: 400; font-size: .85rem; }
+.saved-at { color: #b9a26a; }
+.reader-top .reader-follow { color: #ffd98a; }
+.reader-top .reader-follow.on { color: #ffd166; }
+.toast {
+  position: fixed; left: 50%; bottom: 24px; transform: translateX(-50%); z-index: 60;
+  background: #1d2a4a; color: var(--text); border: 1px solid var(--border); border-radius: 6px;
+  padding: 10px 16px; box-shadow: var(--shadow); font-size: .9rem;
+}
+@media (max-width: 560px) {
+  .tabbar { flex-direction: column-reverse; gap: 8px; align-items: stretch; }
+  .tabbar .tabs { width: 100%; }
+  .follow-bar .follow-title { flex-basis: 100%; }
+  .follow-bar .spacer { display: none; }
+  .follow-tab { align-self: flex-start; }
+  .toolbar-hint { display: none; }
+}
+html, body { overflow-x: hidden; }

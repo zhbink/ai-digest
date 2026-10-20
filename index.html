@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>AI 日报 · X Digest</title>
-  <link rel="stylesheet" href="static/styles.css?v=13fbd120f6" />
+  <link rel="stylesheet" href="static/styles.css?v=90005ce4a5" />
 </head>
 <body>
   <div class="app">
@@ -34,12 +34,33 @@
       <div class="stats" id="stats"></div>
     </section>
 
-    <nav class="tabs" id="tabs">
-      <button data-section="" class="active">全部</button>
-      <button data-section="agent">AI Agent 动态</button>
-      <button data-section="zh">中文圈精选</button>
-      <button data-section="video">AI 视频创作</button>
-    </nav>
+    <div class="tabbar">
+      <nav class="tabs" id="tabs">
+        <button data-section="" class="active">全部</button>
+        <button data-section="agent">AI Agent 动态</button>
+        <button data-section="zh">中文圈精选</button>
+        <button data-section="video">AI 视频创作</button>
+      </nav>
+      <button id="followTab" class="follow-tab" type="button" title="我的关注（保存在本浏览器）">★ 我的关注 <span class="count" id="followCount">0</span></button>
+    </div>
+
+    <div class="toolbar" id="dayTools">
+      <div class="seg" id="sortSeg" role="group" aria-label="排序">
+        <button type="button" data-sort="rec" title="按推荐分从高到低">推荐</button>
+        <button type="button" data-sort="new" title="按发布时间从新到旧">最新</button>
+      </div>
+      <button type="button" class="chip-toggle" id="recOnly" aria-pressed="false" title="只显示推荐（推荐分高、创业者值得关注）">只看推荐</button>
+      <span class="toolbar-hint">推荐分：从创业者视角评估的重要程度</span>
+    </div>
+
+    <div class="toolbar follow-bar" id="followBar" hidden>
+      <div class="follow-title" id="followTitle">我的关注</div>
+      <span class="spacer"></span>
+      <button type="button" class="chip-toggle" id="followToday" aria-pressed="false">只看当天</button>
+      <button type="button" class="btn ghost sm" id="followExport" title="下载为 JSON 文件">导出</button>
+      <button type="button" class="btn ghost sm" id="followImport" title="从导出的 JSON 文件导入（与现有关注合并）">导入</button>
+      <input type="file" id="followFile" accept="application/json,.json" hidden />
+    </div>
 
     <main id="feed" class="feed"></main>
     <p id="empty" class="empty" hidden>这一天还没有内容。</p>
@@ -51,6 +72,7 @@
         <button id="closeReader" type="button">← 返回</button>
         <span id="readerKind" class="reader-kind" hidden></span>
         <span class="reader-actions">
+          <button id="readerFollow" class="reader-follow" type="button" data-follow="" hidden>☆ 关注</button>
           <button id="readerTr" type="button" hidden>查看原文</button>
           <a id="readerSource" href="#" target="_blank" rel="noopener">打开原文 ↗</a>
         </span>
@@ -59,7 +81,9 @@
     </div>
   </div>
 
+  <div id="toast" class="toast" role="status" hidden></div>
+
   <script src="static/calendar.js?v=e69bb8fcfc"></script>
-  <script src="static/app.js?v=67b0779e71"></script>
+  <script src="static/app.js?v=fc59751cd4"></script>
 </body>
 </html>
