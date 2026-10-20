@@ -140,7 +140,7 @@ async function loadDays() {
   state.date = dates.includes(want) ? want : dates[0] || null;
   picker = DatePicker(document.getElementById("datePicker"), {
     dates, value: state.date,
-    onChange: d => { state.date = d; setDateInUrl(d, d === dates[0]); loadDay(); },
+    onChange: d => { state.date = d; setDateInUrl(d, d === dates[0]); if (state.view === "config") setView("day"); else loadDay(); },
   });
   const qs = new URLSearchParams(location.search);
   if (qs.get("cal") === "open") setTimeout(() => picker.open(), 0); // debug/screenshot hook
@@ -152,6 +152,7 @@ async function loadDays() {
     demo.forEach((id, i) => { const p = findPost(id); if (p && !follows.has(id)) follows.add(p, new Date(base - i * 60000).toISOString()); });
   }
   if (qs.get("view") === "follow") state.view = "follow";
+  if (qs.get("view") === "config") state.view = "config";
   updateFollowUI();
 }
 
@@ -177,6 +178,16 @@ function applyFilters(posts) {
 }
 const loadDay = () => render();
 async function render() {
+  const isCfg = state.view === "config";
+  document.body.classList.toggle("view-config", isCfg);
+  document.getElementById("configLink").classList.toggle("active", isCfg);
+  document.getElementById("configView").hidden = !isCfg;
+  if (isCfg) {
+    document.getElementById("feed").innerHTML = "";
+    document.getElementById("empty").hidden = true;
+    document.getElementById("trendBox").hidden = true;
+    return renderConfig();
+  }
   document.getElementById("followTab").classList.toggle("active", state.view === "follow");
   document.getElementById("dayTools").hidden = state.view !== "day";
   document.getElementById("followBar").hidden = state.view !== "follow";
@@ -230,6 +241,81 @@ async function renderFollowView() {
     ? "没有符合条件的关注内容。"
     : "还没有关注任何内容。点卡片上的「☆ 关注」即可收藏，收藏保存在本浏览器，可用「导出」带到别的浏览器。";
   renderFeed(posts, { follow: true });
+}
+
+// ---- 配置页 (read-only strategy, data/strategy.json exported from config/strategy.json)
+let strategyCache = null;
+const fmtNum = n => n == null ? "" : n >= 10000 ? `${(n / 10000).toFixed(n >= 100000 ? 0 : 1)} 万` : String(n);
+async function renderConfig() {
+  const box = document.getElementById("configView");
+  if (!strategyCache) {
+    box.innerHTML = `<p class="muted">加载中…</p>`;
+    try { strategyCache = await api("data/strategy.json"); }
+    catch (e) { box.innerHTML = `<p class="muted">配置加载失败：${escapeHtml(e.message)}</p>`; return; }
+  }
+  const s = strategyCache, by = s.collected?.by_handle || {};
+  const nAcc = s.groups.reduce((n, g) => n + g.accounts.length, 0);
+  const tracked = new Set(s.groups.flatMap(g => g.accounts.map(a => a.handle.toLowerCase())));
+  const fromTracked = Object.entries(by).filter(([h]) => tracked.has(h)).reduce((n, [, c]) => n + c, 0);
+  const total = s.collected?.posts ?? 0;
+  const li = arr => `<ul class="cfg-list">${arr.map(x => `<li>${escapeHtml(x)}</li>`).join("")}</ul>`;
+  const acct = a => {
+    const c = by[a.handle.toLowerCase()] || 0;
+    return `<a class="acct${a.special ? " special" : ""}" href="${escapeHtml(a.url)}" target="_blank" rel="noopener" title="在 X 上打开 @${escapeHtml(a.handle)}">
+      ${a.avatar ? `<img class="acct-av" src="${escapeHtml(a.avatar)}" alt="" loading="lazy" />` : `<span class="acct-av"></span>`}
+      <span class="acct-main">
+        <span class="acct-top"><b class="acct-name">${escapeHtml(a.name || a.handle)}</b>${a.special ? `<span class="acct-flag">特别关注</span>` : ""}</span>
+        <span class="acct-handle">@${escapeHtml(a.handle)}${a.followers != null ? ` · ${fmtNum(a.followers)} 粉丝` : ""}</span>
+        ${a.desc ? `<span class="acct-desc">${escapeHtml(a.desc)}</span>` : ""}
+      </span>
+      <span class="acct-count${c ? "" : " zero"}" title="已收录帖子数（全部日期）">${c}<small>条</small></span>
+    </a>`;
+  };
+  const upd = s.updated_at ? new Date(s.updated_at).toLocaleString("zh-CN", { timeZone: "Asia/Shanghai", hour12: false }) : "";
+  box.innerHTML = `
+    <div class="cfg-head">
+      <div>
+        <h2>⚙ 信息收集策略</h2>
+        <p class="muted">只读 · 当前每日抓取、筛选、处理与推荐评分规则</p>
+      </div>
+      <button type="button" class="btn ghost sm" id="cfgBack">← 返回日报</button>
+    </div>
+    <div class="cfg-stats">
+      <div class="stat"><b>${nAcc}</b><span>关注账号</span></div>
+      <div class="stat"><b>${s.groups.length}</b><span>账号分组</span></div>
+      <div class="stat"><b>${s.keywords.length}</b><span>关键词搜索</span></div>
+      <div class="stat"><b>${total}</b><span>已收录帖子 · ${s.collected?.days ?? 0} 期</span></div>
+    </div>
+    <section class="cfg-sec"><h3>更新时间</h3><p>${escapeHtml(s.schedule)}</p></section>
+    <section class="cfg-sec">
+      <h3>关注账号 <span class="muted">${nAcc} 个 · 右侧数字为已收录帖子数（关注账号 ${fromTracked} 条，其余 ${total - fromTracked} 条来自关键词搜索）</span></h3>
+      <p class="cfg-note"><span class="acct-flag">特别关注</span> ${escapeHtml(s.special_note)}
+        ${s.special_accounts.map(h => `<a href="https://x.com/${escapeHtml(h)}" target="_blank" rel="noopener">@${escapeHtml(h)}</a>`).join("、")}</p>
+      ${s.groups.map((g, i) => `
+        <div class="cfg-group">
+          <h4><span class="gnum">${i + 1}</span>${escapeHtml(g.name)}<span class="muted"> · ${g.accounts.length} 个</span></h4>
+          <div class="acct-grid">${g.accounts.map(acct).join("")}</div>
+        </div>`).join("")}
+    </section>
+    <section class="cfg-sec"><h3>关注主题</h3>
+      <div class="topic-row">${s.topics.map(t => `<div class="topic"><b>${escapeHtml(t.name)}</b><span>${escapeHtml(t.detail)}</span></div>`).join("")}</div>
+    </section>
+    <section class="cfg-sec"><h3>关键词搜索 <span class="muted">（X 搜索语法）</span></h3>
+      ${s.keywords.map(k => `<div class="kw"><span class="kw-name">${escapeHtml(k.name)}</span><code>${escapeHtml(k.query)}</code></div>`).join("")}
+    </section>
+    <div class="cfg-two">
+      <section class="cfg-sec"><h3>筛选规则</h3>${li(s.filter_rules)}</section>
+      <section class="cfg-sec"><h3>内容处理</h3>${li(s.processing)}</section>
+    </div>
+    <section class="cfg-sec"><h3>推荐评分 <span class="muted">标准：「${escapeHtml(s.scoring.standard)}」</span></h3>
+      <div class="bands">${s.scoring.bands.map((b, i) => `<div class="band b${i}"><span class="band-range">${escapeHtml(b.range)}</span><span>${escapeHtml(b.desc)}</span></div>`).join("")}</div>
+      <div class="rule-chips">${s.scoring.rules.map(r => `<span class="rule-chip">${escapeHtml(r)}</span>`).join("")}</div>
+    </section>
+    <footer class="cfg-foot">
+      <p>${escapeHtml(s.footer_note)}</p>
+      <p class="muted">最后更新：${escapeHtml(upd)}（北京时间）</p>
+    </footer>`;
+  document.getElementById("cfgBack").onclick = () => setView("day");
 }
 
 function recChip(p) {
@@ -391,9 +477,15 @@ document.getElementById("sortSeg").addEventListener("click", (e) => {
   state.sort = b.dataset.sort; localStorage.setItem(LS_SORT, state.sort); syncSortUI(); render();
 });
 document.getElementById("recOnly").addEventListener("click", () => { state.recOnly = !state.recOnly; syncSortUI(); render(); });
-document.getElementById("followTab").addEventListener("click", () => {
-  state.view = state.view === "follow" ? "day" : "follow"; render(); window.scrollTo({ top: 0 });
-});
+function setView(v) {
+  state.view = v;
+  const u = new URL(location.href);
+  if (v === "day") u.searchParams.delete("view"); else u.searchParams.set("view", v);
+  history.replaceState(null, "", u.pathname + u.search + u.hash);
+  render(); window.scrollTo({ top: 0 });
+}
+document.getElementById("followTab").addEventListener("click", () => setView(state.view === "follow" ? "day" : "follow"));
+document.getElementById("configLink").addEventListener("click", (e) => { e.preventDefault(); setView(state.view === "config" ? "day" : "config"); });
 document.getElementById("followToday").addEventListener("click", () => { state.followToday = !state.followToday; render(); });
 document.getElementById("followExport").addEventListener("click", () => {
   const payload = { app: "ai-digest", kind: "follows", version: 1, exported_at: new Date().toISOString(), items: follows.all() };
