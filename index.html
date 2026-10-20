@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>AI 日报 · X Digest</title>
+  <link rel="stylesheet" href="static/styles.css" />
+</head>
+<body>
+  <div class="app">
+    <header class="top">
+      <div class="brand">
+        <div class="logo">✦</div>
+        <div>
+          <h1>AI 日报</h1>
+          <p class="sub">X 平台 Agent / 中文圈 / AI 视频 · 站内可读全文</p>
+        </div>
+      </div>
+      <div class="controls">
+        <label class="field">
+          <span>日期</span>
+          <select id="daySelect"></select>
+        </label>
+        <label class="field grow">
+          <span>搜索作者 / 关键词</span>
+          <input id="search" type="search" placeholder="如 omarsar0、可灵、evals…" />
+        </label>
+      </div>
+    </header>
+
+    <section class="trend" id="trendBox" hidden>
+      <h2>今日趋势</h2>
+      <p id="trendText"></p>
+      <div class="stats" id="stats"></div>
+    </section>
+
+    <nav class="tabs" id="tabs">
+      <button data-section="" class="active">全部</button>
+      <button data-section="agent">AI Agent 动态</button>
+      <button data-section="zh">中文圈精选</button>
+      <button data-section="video">AI 视频创作</button>
+    </nav>
+
+    <main id="feed" class="feed"></main>
+    <p id="empty" class="empty" hidden>这一天还没有内容。</p>
+  </div>
+
+  <div id="reader" class="reader" hidden>
+    <div class="reader-panel">
+      <header class="reader-top">
+        <button id="closeReader" type="button">← 返回</button>
+        <a id="readerSource" href="#" target="_blank" rel="noopener">打开原文 ↗</a>
+      </header>
+      <article id="readerBody" class="reader-body prose"></article>
+    </div>
+  </div>
+
+  <script src="static/app.js"></script>
+</body>
+</html>
