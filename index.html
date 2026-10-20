@@ -11,7 +11,7 @@
   <link rel="apple-touch-icon" href="static/apple-touch-icon.png?v=b15ddbfa83" />
   <link rel="manifest" href="static/site.webmanifest?v=e69f6bf364" />
   <meta name="theme-color" content="#090d24" />
-  <link rel="stylesheet" href="static/styles.css?v=43c943ed1a" />
+  <link rel="stylesheet" href="static/styles.css?v=b4d95b6f76" />
 </head>
 <body>
   <div class="app">
@@ -28,6 +28,7 @@
       <div class="mbar-menu" id="mbMenu" hidden>
         <button type="button" data-act="export">⤓ 导出 JSON（当日 / 我的关注）</button>
         <button type="button" data-act="config">⚙ 配置（信息收集策略）</button>
+        <button type="button" data-act="sync" class="mb-sync" hidden>同步设置 · <span data-sync-status hidden></span></button>
       </div>
     </div>
     <header class="top">
@@ -63,6 +64,7 @@
         <button data-section="zh">中文圈精选</button>
         <button data-section="video">AI 视频创作</button>
       </nav>
+      <button type="button" class="sync-chip" data-sync-status id="syncChip" hidden>☁</button>
       <button id="followTab" class="follow-tab" type="button" title="我的关注（保存在本浏览器）">★ 我的关注 <span class="count" id="followCount">0</span></button>
     </div>
 
@@ -79,6 +81,7 @@
 
     <div class="toolbar follow-bar" id="followBar" hidden>
       <div class="follow-title" id="followTitle">我的关注</div>
+      <span class="sync-hint" id="syncHint" hidden>关注仅存本浏览器，<button type="button" class="link-btn" data-open-sync>设置同步</button>后可跨设备</span>
       <span class="spacer"></span>
       <button type="button" class="chip-toggle" id="followToday" aria-pressed="false">只看当天</button>
       <button type="button" class="btn ghost sm" id="followExport" title="下载为 JSON 文件">导出</button>
@@ -124,6 +127,18 @@
     </div>
   </div>
 
+  <div id="syncDialog" class="sync-dialog" hidden role="dialog" aria-modal="true" aria-labelledby="syncTitle">
+    <form class="sync-panel" id="syncForm" autocomplete="off">
+      <div class="sync-head"><h3 id="syncTitle">☁ 同步设置</h3><button type="button" class="sync-x" data-sync-close aria-label="关闭">✕</button></div>
+      <p class="sync-msg" id="syncMsg"></p>
+      <label class="sync-field"><span>同步地址（Worker URL）</span><input id="syncUrl" type="url" placeholder="https://ai-digest-sync.xxx.workers.dev" required /></label>
+      <label class="sync-field"><span>同步密钥</span><input id="syncKey" type="password" placeholder="ACCESS_KEY" required autocomplete="off" /></label>
+      <p class="sync-note">密钥只保存在本浏览器（localStorage）。连接时会把本机已有的关注和评论合并上传（同一条以较新的为准）。</p>
+      <div class="sync-actions"><button type="button" class="btn ghost sm" id="syncDisconnect">断开同步</button><span class="spacer"></span>
+        <button type="button" class="btn ghost sm" data-sync-close>取消</button><button type="submit" class="btn primary sm" id="syncConnect">连接并同步</button></div>
+    </form>
+  </div>
+
   <div id="lightbox" class="lightbox" hidden role="dialog" aria-modal="true" aria-label="图片预览">
     <button type="button" class="lb-close" aria-label="关闭">×</button>
     <button type="button" class="lb-nav lb-prev" aria-label="上一张">‹</button>
@@ -134,6 +149,6 @@
   <div id="toast" class="toast" role="status" hidden></div>
 
   <script src="static/calendar.js?v=f216389086"></script>
-  <script src="static/app.js?v=e39c8af4f2"></script>
+  <script src="static/app.js?v=b7d47195e1"></script>
 </body>
 </html>

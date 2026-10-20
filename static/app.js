@@ -20,9 +20,11 @@ const follows = {
     o[p.id] = { id: p.id, date: p._date || state.date, title: p.summary_zh || "", handle: p.handle || "",
       display_name: p.display_name || "", url: p.post_url || "", article_id: p.is_article ? p.article_id : null,
       saved_at: savedAt || new Date().toISOString() };
+    o[p.id].updated_at = new Date().toISOString();
     this.save(o);
+    sync.enqueue({ op: "follow.put", id: String(p.id), item: o[p.id], at: o[p.id].updated_at });
   },
-  remove(id) { const o = this.load(); delete o[id]; this.save(o); },
+  remove(id) { const o = this.load(); delete o[id]; this.save(o); sync.enqueue({ op: "follow.del", id: String(id) }); },
   merge(items) {
     const o = this.load(); let n = 0, nc = 0;
     for (const it of items) {
@@ -32,7 +34,10 @@ const follows = {
       if (Array.isArray(it.comments)) nc += comments.merge(String(it.id), it.comments);
       const { media, comments: _c, text, text_zh, summary_zh, followed, followed_at, article_title_zh, article_summary_zh, article_link, ...base } = it;
       if (!base.title && summary_zh) base.title = summary_zh;
-      if (!cur || String(it.saved_at || "") > String(cur.saved_at || "")) { o[it.id] = { ...cur, ...base, id: String(it.id) }; n++; }
+      if (!cur || String(it.saved_at || "") > String(cur.saved_at || "")) {
+        o[it.id] = { ...cur, ...base, id: String(it.id) }; n++;
+        sync.enqueue({ op: "follow.put", id: String(it.id), item: o[it.id], at: o[it.id].updated_at || o[it.id].saved_at });
+      }
     }
     this.save(o); this.lastComments = nc; return n;
   },
@@ -50,16 +55,19 @@ const comments = {
   add(pid, text) {
     const o = this.load(), now = new Date().toISOString();
     const c = { id: `c${Date.now().toString(36)}${Math.random().toString(36).slice(2, 6)}`, text, created_at: now, updated_at: now };
-    (o[pid] = o[pid] || []).push(c); this.save(o); return c;
+    (o[pid] = o[pid] || []).push(c); this.save(o);
+    sync.enqueue({ op: "comment.put", pid: String(pid), cid: c.id, item: c, at: c.updated_at });
+    return c;
   },
   update(pid, cid, text) {
     const o = this.load(); const c = (o[pid] || []).find(x => x.id === cid);
-    if (c) { c.text = text; c.updated_at = new Date().toISOString(); this.save(o); }
+    if (c) { c.text = text; c.updated_at = new Date().toISOString(); this.save(o); sync.enqueue({ op: "comment.put", pid: String(pid), cid, item: c, at: c.updated_at }); }
   },
   remove(pid, cid) {
     const o = this.load(); o[pid] = (o[pid] || []).filter(x => x.id !== cid);
     if (!o[pid].length) delete o[pid];
     this.save(o);
+    sync.enqueue({ op: "comment.del", pid: String(pid), cid });
   },
   merge(pid, list) {   // import: union by comment id, newer updated_at wins
     if (!Array.isArray(list) || !list.length) return 0;
@@ -71,11 +79,164 @@ const comments = {
       const item = { id, text: c.text, created_at: c.created_at || new Date().toISOString(), updated_at: c.updated_at || c.created_at || new Date().toISOString() };
       if (i < 0) { cur.push(item); n++; }
       else if (String(item.updated_at) > String(cur[i].updated_at || "")) { cur[i] = item; n++; }
+      else continue;
+      sync.enqueue({ op: "comment.put", pid: String(pid), cid: id, item, at: item.updated_at });
     }
     if (cur.length) o[pid] = cur;
     this.save(o); return n;
   },
 };
+// ---- 云同步: Cloudflare Worker (worker/) is the source of truth when a key is configured; localStorage = offline cache.
+// Writes go to a persistent queue (aidigest.syncQueue) and are flushed as /batch ops (last-writer-wins per item on the server).
+const SYNC_ENABLED = true;           // (testing with it off: ?sync=dev or localStorage aidigest.syncDev=1)
+const SYNC_DEFAULT_URL = "https://ai-digest-sync.zhbink.workers.dev";   // not secret; the ACCESS_KEY is entered per browser
+// one-time setup link: …/ai-digest/#sync=<key> → keep the key in memory only, strip it from the URL/history right away
+const SYNC_SETUP_KEY = (() => {
+  const m = /^#sync=([^&]+)/.exec(location.hash);
+  if (!m) return "";
+  history.replaceState(history.state, "", location.pathname + location.search);
+  try { return decodeURIComponent(m[1]).trim(); } catch { return ""; }
+})();
+const LS_SYNC = "aidigest.sync", LS_SYNCQ = "aidigest.syncQueue", LS_SYNCR = "aidigest.syncRecent";
+const syncFeature = SYNC_ENABLED || new URLSearchParams(location.search).get("sync") === "dev" || localStorage.getItem("aidigest.syncDev") === "1";
+const sync = {
+  status: "local", lastError: "", applying: false, flushing: false, retryMs: 0, timer: 0,
+  cfg() { try { const c = JSON.parse(localStorage.getItem(LS_SYNC) || "null"); return c && c.key && c.url ? c : null; } catch { return null; } },
+  on() { return syncFeature && !!this.cfg(); },
+  _get(k) { try { const v = JSON.parse(localStorage.getItem(k) || "[]"); return Array.isArray(v) ? v : []; } catch { return []; } },
+  queue() { return this._get(LS_SYNCQ); },
+  setQueue(q) { localStorage.setItem(LS_SYNCQ, JSON.stringify(q)); },
+  enqueue(op) {
+    if (!this.on() || this.applying) return;
+    op.at = op.at || new Date().toISOString();
+    const q = this.queue(); q.push(op); this.setQueue(q);
+    this.setStatus("syncing");
+    clearTimeout(this.timer); this.timer = setTimeout(() => this.flush(), 300);
+  },
+  async req(method, path, body, cfg = this.cfg()) {
+    const r = await fetch(cfg.url.replace(/\/+$/, "") + path, { method, cache: "no-store",
+      headers: { Authorization: `Bearer ${cfg.key}`, ...(body ? { "Content-Type": "application/json" } : {}) },
+      body: body ? JSON.stringify(body) : undefined });
+    const data = await r.json().catch(() => null);
+    if (!r.ok) { const e = new Error(data?.error || `HTTP ${r.status}`); e.status = r.status; throw e; }
+    return data;
+  },
+  async flush() {
+    if (!this.on() || this.flushing) return;
+    let q = this.queue();
+    if (!q.length) { if (this.status !== "error") this.setStatus("ok"); return; }
+    this.flushing = true; this.setStatus("syncing");
+    try {
+      while ((q = this.queue()).length) {
+        const batch = q.slice(0, 200);
+        const r = await this.req("POST", "/batch", { ops: batch });
+        const bad = (r.results || []).filter(x => !x.ok);
+        if (bad.length) console.warn("sync: rejected ops", bad);
+        const sent = Date.now();
+        this.setRecent([...this.recent(), ...batch.map(op => ({ op, sent }))]);
+        this.setQueue(this.queue().slice(batch.length));
+      }
+      this.retryMs = 0; this.setStatus("ok");
+    } catch (e) { this.fail(e); }
+    finally { this.flushing = false; }
+  },
+  // ops sent in the last 2 min are re-applied after a pull, so KV's eventual consistency can't make fresh edits flicker away
+  recent() { const t = Date.now() - 120000; return this._get(LS_SYNCR).filter(x => x.sent > t); },
+  setRecent(l) { localStorage.setItem(LS_SYNCR, JSON.stringify(l.slice(-500))); },
+  async pull() {
+    if (!this.on()) return false;
+    this.setStatus("syncing");
+    try {
+      const s = await this.req("GET", "/state");
+      this.applying = true;
+      const f = {}; for (const [id, it] of Object.entries(s.follows || {})) f[id] = it;
+      const c = {}; for (const [pid, l] of Object.entries(s.comments || {})) c[pid] = l.map(({ id, text, created_at, updated_at }) => ({ id, text, created_at, updated_at }));
+      localStorage.setItem(LS_FOLLOW, JSON.stringify(f)); localStorage.setItem(LS_COMMENTS, JSON.stringify(c));
+      for (const x of this.recent()) applyLocalOp(x.op);
+      for (const op of this.queue()) applyLocalOp(op);
+      this.applying = false;
+      this.lastPull = Date.now();
+      if (!this.queue().length) this.setStatus("ok");
+      refreshUserData();
+      return true;
+    } catch (e) { this.applying = false; this.fail(e); return false; }
+  },
+  fail(e) {
+    const auth = e.status === 401 || e.status === 403;
+    const prev = this.status;
+    this.lastError = auth ? "同步密钥无效（401），请在同步设置里检查" : (navigator.onLine === false || !e.status) ? "网络不可用" : `服务器错误：${e.message}`;
+    this.setStatus(auth ? "error" : "offline");
+    if (prev !== this.status) flash(auth ? this.lastError : `同步失败：${this.lastError}${this.queue().length ? `，已暂存 ${this.queue().length} 项，稍后自动重试` : ""}`);
+    if (!auth) {
+      this.retryMs = Math.min(60000, (this.retryMs || 2500) * 2);
+      clearTimeout(this.timer); this.timer = setTimeout(() => this.flush().then(() => this.queue().length || this.pull()), this.retryMs);
+    }
+  },
+  setStatus(st) { this.status = st; updateSyncUI(); },
+  async connect(url, key) {
+    const cfg = { url: url.trim().replace(/\/+$/, ""), key: key.trim() };
+    await this.req("GET", "/health", null, cfg);                       // throws on bad key / url
+    localStorage.setItem(LS_SYNC, JSON.stringify(cfg));
+    // first connect: migrate this browser's follows + comments (server keeps the newer version of each item)
+    const ops = [];
+    for (const it of Object.values(follows.load())) ops.push({ op: "follow.put", id: String(it.id), item: it, at: it.updated_at || it.saved_at });
+    for (const [pid, l] of Object.entries(comments.load())) for (const c of l) ops.push({ op: "comment.put", pid: String(pid), cid: c.id, item: c, at: c.updated_at || c.created_at });
+    this.setQueue([...ops, ...this.queue()]);
+    await this.flush();
+    await this.pull();
+    return ops.length;
+  },
+  disconnect() { localStorage.removeItem(LS_SYNC); localStorage.removeItem(LS_SYNCQ); localStorage.removeItem(LS_SYNCR); this.setStatus("local"); },
+  init() {
+    if (!syncFeature) return;
+    if (!this.on()) { this.setStatus("local"); return; }
+    this.flush().then(() => this.pull());
+    addEventListener("online", () => this.flush().then(() => this.pull()));
+    document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible" && Date.now() - (this.lastPull || 0) > 20000) this.flush().then(() => this.pull()); });
+    setInterval(() => { if (document.visibilityState === "visible" && !this.queue().length) this.pull(); }, 90000);
+  },
+};
+function applyLocalOp(op) {   // mirror of the server's LWW rules, applied to the cache
+  const at = op.at || "";
+  if (op.op === "follow.put" || op.op === "follow.del") {
+    const o = follows.load(), cur = o[op.id];
+    if (cur && String(cur.updated_at || cur.saved_at || "") > at) return;
+    if (op.op === "follow.put") o[op.id] = { ...op.item, id: op.id, updated_at: at }; else delete o[op.id];
+    localStorage.setItem(LS_FOLLOW, JSON.stringify(o));
+  } else if (op.op === "comment.put" || op.op === "comment.del") {
+    const o = comments.load(), l = o[op.pid] || [], i = l.findIndex(x => x.id === op.cid);
+    if (i >= 0 && String(l[i].updated_at || "") > at) return;
+    if (op.op === "comment.put") { const { id, text, created_at, updated_at } = { ...op.item, id: op.cid }; const it = { id, text, created_at, updated_at: updated_at || at }; if (i >= 0) l[i] = it; else l.push(it); }
+    else if (i >= 0) l.splice(i, 1);
+    if (l.length) o[op.pid] = l; else delete o[op.pid];
+    localStorage.setItem(LS_COMMENTS, JSON.stringify(o));
+  }
+}
+function refreshUserData() {   // after a pull: refresh follow buttons, counts, comment boxes without disturbing open editors
+  updateFollowUI();
+  if (state.view === "follow") { render(); return; }
+  for (const [pid, e] of cmEntries) if (!e.box.querySelector("textarea")) renderComments(e.box, e.post, { focus: false }); else cmChanged(pid);
+  const rb = document.getElementById("readerComments");
+  if (readerPost && rb && !rb.querySelector("textarea")) renderComments(rb, readerPost, { focus: false });
+}
+const SYNC_LABEL = { local: "☁ 仅本机", ok: "☁ 已同步", syncing: "☁ 同步中…", offline: "☁ 离线", error: "☁ 同步出错" };
+function updateSyncUI() {
+  if (!syncFeature) return;
+  const st = sync.status, n = sync.queue().length;
+  const txt = SYNC_LABEL[st] + (st === "offline" && n ? ` (${n})` : "");
+  const title = st === "local" ? "关注和评论仅存本浏览器，点此设置同步（跨设备）" : st === "ok" ? "关注和评论已同步到云端" : st === "error" || st === "offline" ? sync.lastError : "正在同步…";
+  for (const el of document.querySelectorAll("[data-sync-status]")) { el.hidden = false; el.textContent = txt; el.dataset.st = st; el.title = title; }
+  const dot = document.getElementById("mbMore"); if (dot) dot.dataset.sync = st;
+  const hint = document.getElementById("syncHint"); if (hint) hint.hidden = st !== "local";
+}
+function openSyncDialog() {
+  const d = document.getElementById("syncDialog"), c = sync.cfg();
+  d.querySelector("#syncUrl").value = c?.url || SYNC_DEFAULT_URL;
+  d.querySelector("#syncKey").value = c?.key || "";
+  d.querySelector("#syncMsg").textContent = c ? `${SYNC_LABEL[sync.status]}${sync.lastError && sync.status !== "ok" ? ` · ${sync.lastError}` : ""}` : "关注和评论目前只存在本浏览器。填入同步地址和密钥后，会上传到你自己的 Cloudflare Worker，并在所有设备间同步。";
+  d.querySelector("#syncDisconnect").hidden = !c;
+  d.hidden = false; d.querySelector(c ? "#syncKey" : "#syncUrl").focus({ preventScroll: true });
+}
 const exportComments = (pid) => comments.get(pid).map(({ id, text, created_at, updated_at }) => ({ id, text, created_at, updated_at }));
 function cmBtnLabel(pid) { const n = comments.count(pid); return `✎<span class="l"> 评论</span>${n ? ` <b class="cm-n">${n}</b>` : ""}`; }
 function updateCommentUI(pid) {
@@ -927,6 +1088,7 @@ function downloadJson(payload, filename) {
 document.getElementById("dayExport").addEventListener("click", async () => {
   if (!state.date) return;
   flash("正在导出当日…");
+  if (sync.on()) await sync.pull();
   const day = await ensureDay(state.date);
   const fl = follows.load();   // this browser's 我的关注
   const posts = [...(day.posts || [])].sort(byRec).map(p => ({
@@ -956,6 +1118,7 @@ document.getElementById("dayExport").addEventListener("click", async () => {
 });
 document.getElementById("followExport").addEventListener("click", async () => {
   flash("正在导出（含图片与视频链接）…");
+  if (sync.on()) await sync.pull();
   const items = await Promise.all(follows.all().map(enrichFollow));
   const nMedia = items.reduce((n, it) => n + ((it.media || []).length), 0);
   const payload = { app: "ai-digest", kind: "follows", version: 3, exported_at: new Date().toISOString(), items };
@@ -1000,6 +1163,7 @@ applyCmMode(true);
     if (b.dataset.act === "config") document.getElementById("configLink").click();
     if (b.dataset.act === "export") document.getElementById(state.view === "follow" ? "followExport" : "dayExport").click();
     if (b.dataset.act === "import") document.getElementById("followImport").click();
+    if (b.dataset.act === "sync") openSyncDialog();
   });
   // 今日趋势: collapsed to 3 lines on mobile with 展开/收起
   const tb = document.getElementById("trendBox"), more = document.createElement("button");
@@ -1009,6 +1173,43 @@ applyCmMode(true);
 })();
 if (railRO) { railRO.observe(document.getElementById("feed")); railRO.observe(document.getElementById("cmRail")); }
 document.getElementById("feed").addEventListener("load", scheduleRail, true);   // images/posters change card heights
+
+// sync UI wiring
+if (syncFeature) {
+  document.querySelectorAll(".mb-sync").forEach(b => { b.hidden = false; });
+  document.getElementById("syncChip").addEventListener("click", openSyncDialog);
+  document.addEventListener("click", (e) => { if (e.target.closest("[data-open-sync]")) openSyncDialog(); });
+  const d = document.getElementById("syncDialog");
+  d.addEventListener("click", (e) => { if (e.target === d || e.target.closest("[data-sync-close]")) d.hidden = true; });
+  d.addEventListener("keydown", (e) => { if (e.key === "Escape") { e.stopPropagation(); d.hidden = true; } });
+  document.getElementById("syncDisconnect").addEventListener("click", () => {
+    if (!confirm("断开同步？云端数据会保留；本机保留当前的缓存。")) return;
+    sync.disconnect(); d.hidden = true; flash("已断开同步（本机继续保存）");
+  });
+  document.getElementById("syncForm").addEventListener("submit", async (e) => {
+    e.preventDefault();
+    const btn = document.getElementById("syncConnect"), msg = document.getElementById("syncMsg");
+    btn.disabled = true; msg.textContent = "正在连接…";
+    try {
+      const n = await sync.connect(document.getElementById("syncUrl").value, document.getElementById("syncKey").value);
+      d.hidden = true;
+      flash(`已连接同步${n ? `，已合并上传本机 ${n} 项` : ""}`);
+    } catch (err) {
+      msg.textContent = err.status === 401 ? "密钥不正确（401）" : `连接失败：${err.message}`;
+    } finally { btn.disabled = false; }
+  });
+  if (SYNC_SETUP_KEY) {
+    const url = sync.cfg()?.url || SYNC_DEFAULT_URL;
+    sync.connect(url, SYNC_SETUP_KEY)
+      .then(n => flash(`已通过设置链接连接同步${n ? `，已合并上传本机 ${n} 项` : ""}`))
+      .catch(err => {
+        openSyncDialog();
+        document.getElementById("syncKey").value = SYNC_SETUP_KEY;
+        document.getElementById("syncMsg").textContent = err.status === 401 ? "设置链接中的密钥不正确（401）" : `连接失败：${err.message}`;
+      })
+      .finally(() => sync.init());
+  } else sync.init();
+}
 
 loadDays()
   .then(loadDay)
