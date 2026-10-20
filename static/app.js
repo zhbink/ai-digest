@@ -1,5 +1,33 @@
 const state = { date: null, section: "", q: "" };
 const sectionLabel = { agent: "AI Agent", zh: "中文圈", video: "AI 视频" };
+const kindLabel = { post: "帖子", longpost: "长帖", article: "文章", paper: "论文", tutorial: "教程", video: "视频", repo: "仓库" };
+
+// Content-type tags. Ingest stores p.kinds (see kinds.py); this mirrors the rules for older data.
+const PAPER_RE = /^https?:\/\/(www\.)?(arxiv\.org\/(abs|pdf|html)\/|huggingface\.co\/papers\/|openreview\.net\/|aclanthology\.org\/|(bio|med)rxiv\.org\/|papers\.nips\.cc\/|proceedings\.(mlr\.press|neurips\.cc)\/|dl\.acm\.org\/doi\/|ieeexplore\.ieee\.org\/|alphaxiv\.org\/abs\/)/i;
+const REPO_RE = /^https?:\/\/(www\.)?((github\.com|gitlab\.com|codeberg\.org)\/[\w.-]+\/[\w.-]+\/?($|[?#]|tree\/|blob\/)|huggingface\.co\/(?!papers\/|blog\/|docs\/|learn\/)((spaces|datasets)\/)?[\w.-]+\/[\w.-]+\/?$)/i;
+const TUTORIAL_RE = /(长文|视频|图文|入门|实操|完整|免费|保姆级)教程|教程[：:「“]|手把手|保姆级|分步(教程|指南)|step[- ]by[- ]step|\bhow[- ]to\b|\btutorial\b/i;
+function xLen(t) { let n = 0; for (const c of (t || "").replace(/https?:\/\/\S+/g, "")) n += c.codePointAt(0) > 0x10FF ? 2 : 1; return n; }
+function deriveKinds(p) {
+  if (Array.isArray(p.kinds) && p.kinds.length) return p.kinds;
+  const urls = [p.external_url, ...((p.entities?.urls) || []).map(u => u.unwound_url || u.expanded_url)].filter(Boolean);
+  const text = p.note_tweet?.text || p.text || "";
+  const video = (p.media_types || []).some(m => m === "video" || m === "animated_gif");
+  const full = p.is_article && !p.article_thin;
+  const xArticle = urls.some(u => /\/i\/article\//.test(u));
+  const paper = urls.some(u => PAPER_RE.test(u));
+  const main = p.external_url || urls.find(u => !/^https?:\/\/(www\.)?(x|twitter)\.com\//.test(u));
+  const long = p.x_long != null ? !!p.x_long : xLen(text) > 280;
+  const tut = TUTORIAL_RE.test([p.summary_zh, p.article_title_zh, p.article_title, p.article_summary_zh].filter(Boolean).join(" "));
+  let k = paper ? "paper" : (main && REPO_RE.test(main)) ? "repo"
+    : (full && p.external_url && !/^https?:\/\/(www\.)?(x|twitter)\.com\/(?!i\/article\/)/.test(p.external_url)) || xArticle ? "article"
+    : (video && xLen(text) <= 560) ? "video" : long ? "longpost" : "post";
+  const sec = tut ? "tutorial" : (k === "paper" && full) ? "article" : (video && k !== "video") ? "video" : null;
+  return sec ? [k, sec] : [k];
+}
+function kindTags(p, cls = "") {
+  return deriveKinds(p).map((k, i) =>
+    `<span class="kind-tag k-${escapeHtml(k)}${i ? " sub" : ""} ${cls}">${kindLabel[k] || escapeHtml(k)}</span>`).join("");
+}
 
 // Static data (relative paths; works under any subpath, e.g. /ai-digest/)
 const dayCache = {};
@@ -60,7 +88,8 @@ async function loadDay() {
   if (state.section) posts = posts.filter(p => p.section === state.section);
   if (state.q) {
     const q = state.q.toLowerCase();
-    posts = posts.filter(p => [p.handle, p.display_name, p.summary_zh, p.text, p.text_zh, p.article_title, p.article_title_zh, p.article_summary_zh]
+    posts = posts.filter(p => [p.handle, p.display_name, p.summary_zh, p.text, p.text_zh, p.article_title, p.article_title_zh, p.article_summary_zh,
+        ...deriveKinds(p).map(k => kindLabel[k])]
       .some(v => (v || "").toLowerCase().includes(q)));
   }
   const trendBox = document.getElementById("trendBox");
@@ -97,7 +126,7 @@ function renderFeed(posts) {
           <div class="name">${escapeHtml(p.display_name || p.handle)}</div>
           <div class="handle">@${escapeHtml(p.handle)} · ${fmtTime(p.created_at)}</div>
         </div>
-        <span class="badge ${escapeHtml(p.section)}">${sectionLabel[p.section] || p.section}</span>
+        <span class="tags">${kindTags(p)}<span class="badge ${escapeHtml(p.section)}">${sectionLabel[p.section] || p.section}</span></span>
       </div>
       <div class="summary">${escapeHtml(p.summary_zh || "")}</div>
       ${p.article_summary_zh
@@ -130,6 +159,10 @@ async function openArticle(id, fallbackUrl) {
   const body = document.getElementById("readerBody");
   const src = document.getElementById("readerSource");
   const tr = document.getElementById("readerTr");
+  const kindBox = document.getElementById("readerKind");
+  const post = Object.values(dayCache).flatMap(d => d.posts || []).find(p => p.article_id === id);
+  kindBox.innerHTML = post ? kindTags(post) : "";
+  kindBox.hidden = !post;
   tr.hidden = true;
   body.innerHTML = `<p class="muted">加载中…</p>`;
   reader.hidden = false;

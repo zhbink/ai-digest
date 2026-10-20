@@ -139,3 +139,13 @@ select:focus, input:focus { border-color: var(--accent); }
 }
 .digest-label { font-size: .75rem; color: var(--accent); font-weight: 650; margin-bottom: 4px; letter-spacing: .04em; }
 .digest-text { color: var(--text); font-size: .93rem; line-height: 1.65; opacity: .92; }
+
+/* content-type tags (distinct from section badges: outlined, squarer) */
+.tags { margin-left: auto; display: inline-flex; gap: 6px; align-items: center; flex-wrap: wrap; justify-content: flex-end; }
+.tags .badge { margin-left: 0; }
+.kind-tag { font-size: 11px; line-height: 1; padding: 4px 7px; border-radius: 4px; border: 1px solid currentColor;
+  font-weight: 600; letter-spacing: .5px; white-space: nowrap; background: transparent; }
+.kind-tag.sub { opacity: .75; font-weight: 500; border-style: dashed; }
+.k-post { color: #9aa4b2; } .k-longpost { color: #c7b8ff; } .k-article { color: #ffd166; }
+.k-paper { color: #f472b6; } .k-tutorial { color: #34d3ee; } .k-video { color: #fb7185; } .k-repo { color: #a3e635; }
+.reader-kind { display: inline-flex; gap: 6px; align-items: center; margin-left: 10px; margin-right: auto; }
