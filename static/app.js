@@ -28,7 +28,10 @@ const follows = {
     for (const it of items) {
       if (!it || !it.id) continue;
       const cur = o[it.id];
-      if (!cur || String(it.saved_at || "") > String(cur.saved_at || "")) { o[it.id] = { ...cur, ...it, id: String(it.id) }; n++; }
+      // v1 and v2 exports both work; v2's export-only enrichment (media, texts, article link) is not stored
+      const { media, text, text_zh, summary_zh, article_title_zh, article_summary_zh, article_link, ...base } = it;
+      if (!base.title && summary_zh) base.title = summary_zh;
+      if (!cur || String(it.saved_at || "") > String(cur.saved_at || "")) { o[it.id] = { ...cur, ...base, id: String(it.id) }; n++; }
     }
     this.save(o); return n;
   },
@@ -575,14 +578,47 @@ function setView(v) {
 document.getElementById("followTab").addEventListener("click", () => setView(state.view === "follow" ? "day" : "follow"));
 document.getElementById("configLink").addEventListener("click", (e) => { e.preventDefault(); setView(state.view === "config" ? "day" : "config"); });
 document.getElementById("followToday").addEventListener("click", () => { state.followToday = !state.followToday; render(); });
-document.getElementById("followExport").addEventListener("click", () => {
-  const payload = { app: "ai-digest", kind: "follows", version: 1, exported_at: new Date().toISOString(), items: follows.all() };
+// export-time enrichment (source of truth = the day JSON): media with absolute URLs, texts, article link
+const absUrl = (rel) => new URL(rel, document.baseURI).href;
+function exportMedia(p) {
+  return (p.media || []).filter(m => m.src || m.poster).map(m => {
+    const o = m.type === "photo"
+      ? { type: "photo", url: absUrl(mediaUrl(m.src)), original_url: m.orig || null, width: m.w ?? null, height: m.h ?? null, alt: m.alt || null }
+      : { type: m.type, video_url: m.local_mp4 ? absUrl(mediaUrl(m.local_mp4)) : (m.mp4 || null),
+          ...(m.local_mp4 && m.mp4 ? { original_video_url: m.mp4 } : {}),
+          poster: absUrl(mediaUrl(m.poster)), width: m.w ?? null, height: m.h ?? null, duration_ms: m.duration_ms ?? null };
+    if (m.from_quote) o.quoted = true;
+    return o;
+  });
+}
+async function enrichFollow(it) {
+  let p = findPost(it.id);
+  if (!p && it.date) { try { await ensureDay(it.date); p = findPost(it.id); } catch { /* day missing: keep stored fields */ } }
+  if (!p) return it;
+  const out = { ...it,
+    summary_zh: p.summary_zh || it.title || "", text_zh: p.text_zh || null, text: p.text || null,
+    media: exportMedia(p) };
+  if (p.is_article && p.article_id) {
+    out.article_title_zh = p.article_title_zh || p.article_title || null;
+    out.article_summary_zh = p.article_summary_zh || null;
+    const u = new URL(document.baseURI); u.search = ""; u.hash = "";
+    if (it.date || p._date) u.searchParams.set("date", it.date || p._date);
+    out.article_link = `${u.href}#/article/${encodeURIComponent(p.article_id)}`;
+  }
+  return out;
+}
+document.getElementById("followExport").addEventListener("click", async () => {
+  flash("正在导出（含图片与视频链接）…");
+  const items = await Promise.all(follows.all().map(enrichFollow));
+  const nMedia = items.reduce((n, it) => n + ((it.media || []).length), 0);
+  const payload = { app: "ai-digest", kind: "follows", version: 2, exported_at: new Date().toISOString(), items };
   const blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });
   const a = document.createElement("a");
   a.href = URL.createObjectURL(blob);
   a.download = `ai-digest-follows-${new Date().toISOString().slice(0, 10)}.json`;
   document.body.appendChild(a); a.click(); a.remove();
   setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+  flash(`已导出 ${items.length} 条关注（${nMedia} 个图片/视频）`);
 });
 document.getElementById("followImport").addEventListener("click", () => document.getElementById("followFile").click());
 document.getElementById("followFile").addEventListener("change", async (e) => {
