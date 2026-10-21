@@ -6,12 +6,13 @@
   <!-- video.twimg.com rejects requests with a foreign Referer (403) — send none so hot-linked mp4s play -->
   <meta name="referrer" content="no-referrer" />
   <title>AI 日报 · X Digest</title>
-  <link rel="icon" href="static/favicon.svg?v=0dc9f1eabd" type="image/svg+xml" />
-  <link rel="icon" href="static/favicon.ico?v=6baae90f3c" sizes="16x16 32x32 48x48" />
-  <link rel="apple-touch-icon" href="static/apple-touch-icon.png?v=b15ddbfa83" />
-  <link rel="manifest" href="static/site.webmanifest?v=e69f6bf364" />
+  <link rel="icon" href="static/favicon-32.png?v=7d22a05608" type="image/png" sizes="32x32" />
+  <link rel="icon" href="static/icon-192.png?v=34100f2c77" type="image/png" sizes="192x192" />
+  <link rel="icon" href="static/favicon.ico?v=f851dcf12b" sizes="16x16 32x32 48x48" />
+  <link rel="apple-touch-icon" href="static/apple-touch-icon.png?v=009a80ffdd" />
+  <link rel="manifest" href="static/site.webmanifest?v=c5f6bd04c2" />
   <meta name="theme-color" content="#090d24" />
-  <link rel="stylesheet" href="static/styles.css?v=7549714ab5" />
+  <link rel="stylesheet" href="static/styles.css?v=9e085f4b5f" />
   <!-- 访问密码：没有已验证的密码时，先锁住页面（在任何内容渲染前） -->
   <script>(function(){var d=document.documentElement,c=null;try{c=JSON.parse(localStorage.getItem("aidigest.sync")||"null")}catch(e){}if(!(c&&c.key&&c.url))d.className+=" locked"})()</script>
   <style>html.locked body>:not(#gate){display:none!important}#gate{display:none}html.locked #gate{display:flex}</style>
@@ -19,7 +20,7 @@
 <body>
   <div id="gate" class="gate" role="dialog" aria-modal="true" aria-labelledby="gateTitle">
     <form class="gate-panel" id="gateForm" method="post" action="#" novalidate>
-      <img class="gate-logo" src="static/logo.png?v=df8ae6f140" alt="" width="72" height="72" />
+      <img class="gate-logo" src="static/logo.png?v=34100f2c77" alt="" width="72" height="72" />
       <h1 class="gate-title" id="gateTitle">AI Digest</h1>
       <p class="gate-sub">请输入访问密码</p>
       <input type="text" name="username" value="ai-digest" autocomplete="username" hidden aria-hidden="true" tabindex="-1" />
@@ -31,7 +32,7 @@
   <div class="app">
     <div class="mbar" id="mbar">
       <div class="mbar-row">
-        <img class="mbar-logo" src="static/logo.png?v=df8ae6f140" alt="" width="26" height="26" />
+        <img class="mbar-logo" src="static/logo.png?v=34100f2c77" alt="" width="26" height="26" />
         <span class="mbar-title">AI 日报</span>
         <div class="mbar-date" id="mbarDate"></div>
         <button type="button" class="mbar-btn" id="mbSearch" aria-label="搜索" title="搜索作者 / 关键词"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="6.5"/><path d="M16 16l4.5 4.5"/></svg></button>
@@ -48,7 +49,7 @@
     </div>
     <header class="top">
       <div class="brand">
-        <img class="logo" src="static/logo.png?v=df8ae6f140" alt="" width="48" height="48" />
+        <img class="logo" src="static/logo.png?v=34100f2c77" alt="" width="48" height="48" />
         <div>
           <div class="title-row"><h1>AI 日报</h1><a id="configLink" class="config-link" href="?view=config" title="查看当前的信息收集策略">⚙ 配置</a></div>
           <p class="sub">X 平台 Agent / 中文圈 / AI 视频 · 站内可读全文</p>
