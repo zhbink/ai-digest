@@ -30,7 +30,7 @@ const follows = {
     for (const it of items) {
       if (!it || !it.id) continue;
       const cur = o[it.id];
-      // v1/v2/v3 exports all work; comments (v3) merge into the comments store; export-only enrichment (media, texts, article link) is not stored
+      // v1–v4 exports all work; comments (v3) merge into the comments store; export-only enrichment (media, texts, article link) is not stored
       if (Array.isArray(it.comments)) nc += comments.merge(String(it.id), it.comments);
       const { media, comments: _c, text, text_zh, summary_zh, followed, followed_at, article_title_zh, article_summary_zh, article_link, ...base } = it;
       if (!base.title && summary_zh) base.title = summary_zh;
@@ -612,7 +612,7 @@ function applyFilters(posts) {
   if (state.q) {
     const q = state.q.toLowerCase();
     posts = posts.filter(p => [p.handle, p.display_name, p.summary_zh, p.text, p.text_zh, p.article_title, p.article_title_zh,
-        p.article_summary_zh, p.rec_reason, ...deriveKinds(p).map(k => kindLabel[k])]
+        p.article_summary_zh, p.rec_reason, p.discussion_summary, ...deriveKinds(p).map(k => kindLabel[k])]
       .some(v => (v || "").toLowerCase().includes(q)));
   }
   return posts;
@@ -824,6 +824,44 @@ document.addEventListener("keydown", (e) => {
   else if (e.key === "ArrowRight" && lb.items.length > 1) { lb.i = (lb.i + 1) % lb.items.length; showLb(); }
 }, true);
 
+// 热评 + 讨论观点 (top_replies / discussion_summary, written by scripts/replies.py)
+function hasReplies(p) { return !!((p.top_replies && p.top_replies.length) || (p.discussion_summary && !/^暂无回复/.test(p.discussion_summary))); }
+function repliesHtml(p, { open = false } = {}) {
+  if (!hasReplies(p)) return "";
+  const list = p.top_replies || [];
+  const items = list.map(r => `<li class="hr-item">
+      <div class="hr-meta"><a class="hr-who" href="${escapeHtml(r.url)}" target="_blank" rel="noopener" title="在 X 打开这条回复"><b>${escapeHtml(r.name || r.handle)}</b> <span>@${escapeHtml(r.handle)}</span></a><span class="hr-likes" title="点赞数">♥ ${fmtNum(r.like_count ?? 0)}</span></div>
+      <div class="hr-text" data-zh="${r.text_zh ? 1 : 0}">${escapeHtml(r.text_zh || r.text)}</div>
+    </li>`).join("");
+  const anyZh = list.some(r => r.text_zh);
+  return `<section class="hr-box${open ? " open" : ""}" data-hr="${escapeHtml(p.id)}">
+    <button type="button" class="hr-head" ${list.length ? "" : "disabled"} aria-expanded="${open}">
+      <span class="hr-label">热评 · 讨论观点</span>
+      ${list.length ? `<span class="hr-count">${list.length} 条热评<span class="hr-caret">▸</span></span>` : ""}
+    </button>
+    ${p.discussion_summary ? `<div class="hr-sum">${escapeHtml(p.discussion_summary)}</div>` : ""}
+    ${list.length ? `<div class="hr-body"><ol class="hr-list">${items}</ol>
+      <div class="hr-foot">${anyZh ? `<button type="button" class="hr-tr" data-tr="zh">查看原文</button>` : ""}<span>按点赞排序 · 已过滤作者自回复与广告</span></div></div>` : ""}
+  </section>`;
+}
+function bindReplies(root, p) {
+  const box = root.querySelector(`.hr-box[data-hr="${CSS.escape(p.id)}"]`);
+  if (!box) return;
+  box.querySelector(".hr-head")?.addEventListener("click", () => {
+    const o = box.classList.toggle("open");
+    box.querySelector(".hr-head").setAttribute("aria-expanded", o);
+    scheduleRail();
+  });
+  box.querySelector(".hr-tr")?.addEventListener("click", (ev) => {
+    const b = ev.currentTarget, toOrig = b.dataset.tr === "zh";
+    box.querySelectorAll(".hr-text").forEach((t, i) => { const r = p.top_replies[i]; t.textContent = toOrig ? r.text : (r.text_zh || r.text); });
+    b.dataset.tr = toOrig ? "orig" : "zh"; b.textContent = toOrig ? "显示译文" : "查看原文";
+  });
+}
+function exportReplies(p) {
+  return (p.top_replies || []).map(r => ({ author: { handle: r.handle, display_name: r.name || r.handle }, text: r.text,
+    text_zh: r.text_zh || null, like_count: r.like_count ?? 0, reply_count: r.reply_count ?? 0, url: r.url, created_at: r.created_at || null }));
+}
 function recChip(p) {
   if (p.rec_score == null) return "";
   return p.recommended
@@ -854,6 +892,7 @@ function renderFeed(posts, opts = {}) {
         ? `<div class="digest"><div class="digest-label">要点总结</div><div class="digest-text">${escapeHtml(p.article_summary_zh)}</div></div>`
         : `<div class="body-text">${clip(p.text_zh || p.text)}</div>`}
       ${mediaGrid(p, { eager: idx < 4 })}
+      ${p._stub ? "" : repliesHtml(p)}
       <div class="card-foot">
         ${p._stub ? "" : `<span>♥ ${p.metrics?.likes ?? 0}</span>
         <span class="st-rp">↻ ${p.metrics?.reposts ?? 0}</span>
@@ -873,6 +912,7 @@ function renderFeed(posts, opts = {}) {
       b.innerHTML = toOrig ? `<span class="l">显示译文</span><span class="s">译文</span>` : `<span class="l">查看原文</span><span class="s">原文</span>`;
     });
     bindMedia(el, p);
+    bindReplies(el, p);
     el.querySelector(".digest")?.addEventListener("click", (ev) => { if (!getSelection().toString()) ev.currentTarget.classList.toggle("open"); });
     const cmBox = document.createElement("div"); cmBox.className = "cm-box"; cmBox.hidden = true;
     const entry = { box: cmBox, card: el, post: p, note: null };
@@ -931,6 +971,9 @@ async function openArticle(id, fallbackUrl) {
       }
     };
   }
+  const rr = document.getElementById("readerReplies");
+  rr.innerHTML = post ? repliesHtml(post, { open: true }) : ""; rr.hidden = !(post && hasReplies(post));
+  if (post) bindReplies(rr, post);
   tr.hidden = true;
   body.innerHTML = `<p class="muted">加载中…</p>`;
   saveScroll();
@@ -982,6 +1025,7 @@ function hideReader() {
   document.querySelector(".reader-panel").classList.remove("with-cm");
   document.getElementById("reader").hidden = true;
   document.getElementById("readerBody").innerHTML = "";
+  const rr = document.getElementById("readerReplies"); rr.innerHTML = ""; rr.hidden = true;
   document.body.style.overflow = "";
   restoreScroll();
 }
@@ -1084,7 +1128,8 @@ async function enrichFollow(it) {
   if (!p) return { ...it, followed: true, followed_at: it.saved_at || null, comments: exportComments(it.id) };
   const out = { ...it, followed: true, followed_at: it.saved_at || null,
     summary_zh: p.summary_zh || it.title || "", text_zh: p.text_zh || null, text: p.text || null,
-    media: exportMedia(p), comments: exportComments(p.id) };
+    media: exportMedia(p), comments: exportComments(p.id),
+    discussion_summary: p.discussion_summary || null, top_replies: exportReplies(p), replies_fetched_at: p.replies_fetched_at || null };
   if (p.is_article && p.article_id) {
     out.article_title_zh = p.article_title_zh || p.article_title || null;
     out.article_summary_zh = p.article_summary_zh || null;
@@ -1130,14 +1175,18 @@ document.getElementById("dayExport").addEventListener("click", async () => {
     article_title_zh: p.is_article ? (p.article_title_zh || p.article_title || null) : null,
     external_links: externalLinks(p),
     media: exportMedia(p),
+    discussion_summary: p.discussion_summary || null,
+    top_replies: exportReplies(p),
+    replies_fetched_at: p.replies_fetched_at || null,
     followed: !!fl[p.id],
     comments: exportComments(p.id),
     ...(fl[p.id] ? { followed_at: fl[p.id].saved_at || null } : {}),
   }));
   const bySec = {}; posts.forEach(p => { bySec[p.section] = (bySec[p.section] || 0) + 1; });
   const counts = { posts: posts.length, by_section: bySec, articles: posts.filter(p => p.article_link).length,
-    recommended: posts.filter(p => p.recommended).length, followed: posts.filter(p => p.followed).length, commented: posts.filter(p => p.comments.length).length, media: posts.reduce((n, p) => n + p.media.length, 0) };
-  downloadJson({ app: "ai-digest", kind: "day", version: 1, date: state.date, trend_summary: day.trend_summary || "",
+    recommended: posts.filter(p => p.recommended).length, followed: posts.filter(p => p.followed).length, commented: posts.filter(p => p.comments.length).length,
+    with_replies: posts.filter(p => p.top_replies.length).length, top_replies: posts.reduce((n, p) => n + p.top_replies.length, 0), media: posts.reduce((n, p) => n + p.media.length, 0) };
+  downloadJson({ app: "ai-digest", kind: "day", version: 2, date: state.date, trend_summary: day.trend_summary || "",
     exported_at: new Date().toISOString(), counts, posts }, `ai-digest-${state.date}.json`);
   flash(`已导出 ${state.date}：${posts.length} 条（${counts.media} 个图片/视频）`);
 });
@@ -1146,7 +1195,7 @@ document.getElementById("followExport").addEventListener("click", async () => {
   if (sync.on()) await sync.pull();
   const items = await Promise.all(follows.all().map(enrichFollow));
   const nMedia = items.reduce((n, it) => n + ((it.media || []).length), 0);
-  const payload = { app: "ai-digest", kind: "follows", version: 3, exported_at: new Date().toISOString(), items };
+  const payload = { app: "ai-digest", kind: "follows", version: 4, exported_at: new Date().toISOString(), items };
   downloadJson(payload, `ai-digest-follows-${new Date().toISOString().slice(0, 10)}.json`);
   flash(`已导出 ${items.length} 条关注（${nMedia} 个图片/视频）`);
 });
