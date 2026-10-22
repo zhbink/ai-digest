@@ -12,7 +12,7 @@
   <link rel="apple-touch-icon" href="static/apple-touch-icon.png?v=009a80ffdd" />
   <link rel="manifest" href="static/site.webmanifest?v=c5f6bd04c2" />
   <meta name="theme-color" content="#090d24" />
-  <link rel="stylesheet" href="static/styles.css?v=9e085f4b5f" />
+  <link rel="stylesheet" href="static/styles.css?v=769b648c0f" />
   <!-- 访问密码：没有已验证的密码时，先锁住页面（在任何内容渲染前） -->
   <script>(function(){var d=document.documentElement,c=null;try{c=JSON.parse(localStorage.getItem("aidigest.sync")||"null")}catch(e){}if(!(c&&c.key&&c.url))d.className+=" locked"})()</script>
   <style>html.locked body>:not(#gate){display:none!important}#gate{display:none}html.locked #gate{display:flex}</style>
@@ -127,6 +127,7 @@
       </header>
       <article id="readerBody" class="reader-body prose"></article>
       <section id="readerReplies" class="reader-replies" hidden></section>
+      <section id="readerAttached" class="reader-attached" hidden></section>
       <section id="readerComments" class="cm-box reader-cm-box" hidden></section>
     </div>
   </div>
@@ -163,6 +164,6 @@
   <div id="toast" class="toast" role="status" hidden></div>
 
   <script src="static/calendar.js?v=f216389086"></script>
-  <script src="static/app.js?v=4646280f20"></script>
+  <script src="static/app.js?v=7cf2845f3c"></script>
 </body>
 </html>

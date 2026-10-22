@@ -612,7 +612,8 @@ function applyFilters(posts) {
   if (state.q) {
     const q = state.q.toLowerCase();
     posts = posts.filter(p => [p.handle, p.display_name, p.summary_zh, p.text, p.text_zh, p.article_title, p.article_title_zh,
-        p.article_summary_zh, p.rec_reason, p.discussion_summary, ...deriveKinds(p).map(k => kindLabel[k])]
+        p.article_summary_zh, p.rec_reason, p.discussion_summary,
+        ...(p.attached_posts || []).flatMap(a => [a.summary_zh, a.relation_zh, a.handle]), ...deriveKinds(p).map(k => kindLabel[k])]
       .some(v => (v || "").toLowerCase().includes(q)));
   }
   return posts;
@@ -790,8 +791,11 @@ function posterLink(p, m, ratio) {
     <img src="${escapeHtml(mediaUrl(m.poster))}" alt="${escapeHtml(m.alt || "")}" loading="lazy" /><span class="m-play">▶</span></a>`;
 }
 function bindMedia(root, p) {
-  root.querySelectorAll("[data-lb]").forEach(b => b.addEventListener("click", () => openLightbox(p, +b.dataset.lb)));
-  root.querySelectorAll("video[data-fallback]").forEach(v => v.addEventListener("error", () => {
+  // attached mini-cards (.ap-item) have their own media → only bind elements whose nearest .ap-item is this root's
+  const scope = root.classList?.contains("ap-item") ? root : null;
+  const mine = el => el.closest(".ap-item") === scope;
+  root.querySelectorAll("[data-lb]").forEach(b => mine(b) && b.addEventListener("click", () => openLightbox(p, +b.dataset.lb)));
+  root.querySelectorAll("video[data-fallback]").forEach(v => mine(v) && v.addEventListener("error", () => {
     const cell = v.closest(".m-cell"); const m = { poster: v.getAttribute("poster").replace(/^data\//, "") };
     if (cell) cell.outerHTML = posterLink(p, m, getComputedStyle(cell).getPropertyValue("--ar"));
   }, { once: true }));
@@ -862,6 +866,81 @@ function exportReplies(p) {
   return (p.top_replies || []).map(r => ({ author: { handle: r.handle, display_name: r.name || r.handle }, text: r.text,
     text_zh: r.text_zh || null, like_count: r.like_count ?? 0, reply_count: r.reply_count ?? 0, url: r.url, created_at: r.created_at || null }));
 }
+// 附属贴文 (attached_posts: related X posts found for followed posts, written by scripts/attached.py)
+const apIsVideo = a => (a.media_types || []).some(t => t === "video" || t === "animated_gif");
+const apIsPhoto = a => (a.media_types || []).includes("photo");
+function attachedHtml(p, { open = true } = {}) {
+  const list = p.attached_posts || [];
+  if (!list.length) return "";
+  const nv = list.filter(apIsVideo).length, ni = list.filter(a => !apIsVideo(a) && apIsPhoto(a)).length;
+  const parts = [nv ? `${nv} 视频` : "", ni ? `${ni} 图片` : ""].filter(Boolean).join(" · ");
+  const items = list.map((a, i) => {
+    const av = avatarUrl(a.avatar);
+    const zh = !!a.text_zh;
+    return `<li class="ap-item" data-ap-i="${i}">
+      <div class="ap-meta">
+        ${av ? `<img class="ap-av" src="${escapeHtml(av)}" alt="" loading="lazy" />` : `<span class="ap-av"></span>`}
+        <a class="ap-who" href="${escapeHtml(a.url)}" target="_blank" rel="noopener" title="在 X 打开这条贴文"><b>${escapeHtml(a.display_name || a.handle)}</b> <span>@${escapeHtml(a.handle)}${a.created_at ? ` · ${fmtTime(a.created_at)}` : ""}</span></a>
+        <span class="ap-type">${apIsVideo(a) ? "▶ 视频" : apIsPhoto(a) ? "▣ 图片" : "文字"}</span>
+      </div>
+      ${a.summary_zh ? `<div class="ap-sum">${escapeHtml(a.summary_zh)}</div>` : ""}
+      ${a.relation_zh ? `<div class="ap-rel"><span>补充</span>${escapeHtml(a.relation_zh)}</div>` : ""}
+      ${mediaGrid({ media: a.media, post_url: a.url })}
+      <div class="ap-text" hidden>${escapeHtml(a.text_zh || a.text || "")}</div>
+      <div class="ap-foot">
+        <span class="ap-stats">♥ ${fmtNum(a.metrics?.likes ?? 0)} · ↻ ${fmtNum(a.metrics?.retweets ?? 0)} · 💬 ${fmtNum(a.metrics?.replies ?? 0)}</span>
+        <span class="spacer"></span>
+        <button type="button" class="ap-btn ap-more" aria-expanded="false">${zh ? "译文" : "正文"} ▾</button>
+        ${zh ? `<button type="button" class="ap-btn ap-tr" data-tr="zh" hidden>查看原文</button>` : ""}
+        <a class="ap-btn" href="${escapeHtml(a.url)}" target="_blank" rel="noopener">X ↗</a>
+      </div>
+    </li>`;
+  }).join("");
+  return `<section class="ap-box${open ? " open" : ""}" data-ap="${escapeHtml(p.id)}">
+    <button type="button" class="ap-head" aria-expanded="${open}">
+      <span class="ap-label">附属贴文</span>
+      <span class="ap-count">${list.length} 条${parts ? ` · ${parts}` : ""}<span class="ap-caret">▸</span></span>
+    </button>
+    <ol class="ap-list">${items}</ol>
+  </section>`;
+}
+function bindAttached(root, p) {
+  const box = root.querySelector(`.ap-box[data-ap="${CSS.escape(p.id)}"]`);
+  if (!box) return;
+  box.querySelector(".ap-head").addEventListener("click", () => {
+    const o = box.classList.toggle("open");
+    box.querySelector(".ap-head").setAttribute("aria-expanded", o);
+    scheduleRail();
+  });
+  box.querySelectorAll(".ap-item").forEach(li => {
+    const a = p.attached_posts[+li.dataset.apI];
+    bindMedia(li, { media: a.media, post_url: a.url });
+    const txt = li.querySelector(".ap-text"), more = li.querySelector(".ap-more"), tr = li.querySelector(".ap-tr");
+    more.addEventListener("click", () => {
+      const show = txt.hidden; txt.hidden = !show; if (tr) tr.hidden = !show;
+      more.setAttribute("aria-expanded", show);
+      more.textContent = `${a.text_zh ? "译文" : "正文"} ${show ? "▴" : "▾"}`;
+      scheduleRail();
+    });
+    tr?.addEventListener("click", () => {
+      const toOrig = tr.dataset.tr === "zh";
+      txt.textContent = toOrig ? a.text : (a.text_zh || a.text);
+      tr.dataset.tr = toOrig ? "orig" : "zh"; tr.textContent = toOrig ? "显示译文" : "查看原文";
+    });
+  });
+}
+function exportAttached(p) {
+  return (p.attached_posts || []).map(a => ({
+    id: a.id, url: a.url,
+    author: { handle: a.handle, display_name: a.display_name || a.handle, avatar: a.avatar || null, verified: !!a.verified, followers: a.followers ?? null },
+    created_at: a.created_at || null, lang: a.lang || null,
+    title: a.summary_zh || "", summary_zh: a.summary_zh || null, relation_zh: a.relation_zh || null,
+    text: a.text || null, text_zh: a.text_zh || null,
+    metrics: a.metrics || {}, media_types: a.media_types || [], media: exportMedia(a),
+    links: a.links || [], hashtags: a.hashtags || [], mentions: a.mentions || [],
+    quoted_post_url: a.quoted_post_url || null, article_title: a.article_title || null, attached_at: a.attached_at || null,
+  }));
+}
 function recChip(p) {
   if (p.rec_score == null) return "";
   return p.recommended
@@ -893,6 +972,7 @@ function renderFeed(posts, opts = {}) {
         : `<div class="body-text">${clip(p.text_zh || p.text)}</div>`}
       ${mediaGrid(p, { eager: idx < 4 })}
       ${p._stub ? "" : repliesHtml(p)}
+      ${p._stub ? "" : attachedHtml(p)}
       <div class="card-foot">
         ${p._stub ? "" : `<span>♥ ${p.metrics?.likes ?? 0}</span>
         <span class="st-rp">↻ ${p.metrics?.reposts ?? 0}</span>
@@ -913,6 +993,7 @@ function renderFeed(posts, opts = {}) {
     });
     bindMedia(el, p);
     bindReplies(el, p);
+    bindAttached(el, p);
     el.querySelector(".digest")?.addEventListener("click", (ev) => { if (!getSelection().toString()) ev.currentTarget.classList.toggle("open"); });
     const cmBox = document.createElement("div"); cmBox.className = "cm-box"; cmBox.hidden = true;
     const entry = { box: cmBox, card: el, post: p, note: null };
@@ -974,6 +1055,9 @@ async function openArticle(id, fallbackUrl) {
   const rr = document.getElementById("readerReplies");
   rr.innerHTML = post ? repliesHtml(post, { open: true }) : ""; rr.hidden = !(post && hasReplies(post));
   if (post) bindReplies(rr, post);
+  const ra = document.getElementById("readerAttached");
+  ra.innerHTML = post ? attachedHtml(post, { open: true }) : ""; ra.hidden = !(post && (post.attached_posts || []).length);
+  if (post) bindAttached(ra, post);
   tr.hidden = true;
   body.innerHTML = `<p class="muted">加载中…</p>`;
   saveScroll();
@@ -1129,7 +1213,8 @@ async function enrichFollow(it) {
   const out = { ...it, followed: true, followed_at: it.saved_at || null,
     summary_zh: p.summary_zh || it.title || "", text_zh: p.text_zh || null, text: p.text || null,
     media: exportMedia(p), comments: exportComments(p.id),
-    discussion_summary: p.discussion_summary || null, top_replies: exportReplies(p), replies_fetched_at: p.replies_fetched_at || null };
+    discussion_summary: p.discussion_summary || null, top_replies: exportReplies(p), replies_fetched_at: p.replies_fetched_at || null,
+    attached_posts: exportAttached(p), attached_fetched_at: p.attached_fetched_at || null };
   if (p.is_article && p.article_id) {
     out.article_title_zh = p.article_title_zh || p.article_title || null;
     out.article_summary_zh = p.article_summary_zh || null;
@@ -1178,6 +1263,8 @@ document.getElementById("dayExport").addEventListener("click", async () => {
     discussion_summary: p.discussion_summary || null,
     top_replies: exportReplies(p),
     replies_fetched_at: p.replies_fetched_at || null,
+    attached_posts: exportAttached(p),
+    attached_fetched_at: p.attached_fetched_at || null,
     followed: !!fl[p.id],
     comments: exportComments(p.id),
     ...(fl[p.id] ? { followed_at: fl[p.id].saved_at || null } : {}),
@@ -1185,8 +1272,9 @@ document.getElementById("dayExport").addEventListener("click", async () => {
   const bySec = {}; posts.forEach(p => { bySec[p.section] = (bySec[p.section] || 0) + 1; });
   const counts = { posts: posts.length, by_section: bySec, articles: posts.filter(p => p.article_link).length,
     recommended: posts.filter(p => p.recommended).length, followed: posts.filter(p => p.followed).length, commented: posts.filter(p => p.comments.length).length,
-    with_replies: posts.filter(p => p.top_replies.length).length, top_replies: posts.reduce((n, p) => n + p.top_replies.length, 0), media: posts.reduce((n, p) => n + p.media.length, 0) };
-  downloadJson({ app: "ai-digest", kind: "day", version: 2, date: state.date, trend_summary: day.trend_summary || "",
+    with_replies: posts.filter(p => p.top_replies.length).length, top_replies: posts.reduce((n, p) => n + p.top_replies.length, 0), media: posts.reduce((n, p) => n + p.media.length, 0),
+    with_attached: posts.filter(p => p.attached_posts.length).length, attached_posts: posts.reduce((n, p) => n + p.attached_posts.length, 0) };
+  downloadJson({ app: "ai-digest", kind: "day", version: 3, date: state.date, trend_summary: day.trend_summary || "",
     exported_at: new Date().toISOString(), counts, posts }, `ai-digest-${state.date}.json`);
   flash(`已导出 ${state.date}：${posts.length} 条（${counts.media} 个图片/视频）`);
 });
@@ -1195,9 +1283,10 @@ document.getElementById("followExport").addEventListener("click", async () => {
   if (sync.on()) await sync.pull();
   const items = await Promise.all(follows.all().map(enrichFollow));
   const nMedia = items.reduce((n, it) => n + ((it.media || []).length), 0);
-  const payload = { app: "ai-digest", kind: "follows", version: 4, exported_at: new Date().toISOString(), items };
+  const nAtt = items.reduce((n, it) => n + ((it.attached_posts || []).length), 0);
+  const payload = { app: "ai-digest", kind: "follows", version: 5, exported_at: new Date().toISOString(), items };
   downloadJson(payload, `ai-digest-follows-${new Date().toISOString().slice(0, 10)}.json`);
-  flash(`已导出 ${items.length} 条关注（${nMedia} 个图片/视频）`);
+  flash(`已导出 ${items.length} 条关注（${nMedia} 个图片/视频${nAtt ? `，${nAtt} 条附属贴文` : ""}）`);
 });
 document.getElementById("followImport").addEventListener("click", () => document.getElementById("followFile").click());
 document.getElementById("followFile").addEventListener("change", async (e) => {
