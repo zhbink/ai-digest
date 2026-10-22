@@ -1276,7 +1276,7 @@ document.getElementById("dayExport").addEventListener("click", async () => {
     with_attached: posts.filter(p => p.attached_posts.length).length, attached_posts: posts.reduce((n, p) => n + p.attached_posts.length, 0) };
   downloadJson({ app: "ai-digest", kind: "day", version: 3, date: state.date, trend_summary: day.trend_summary || "",
     exported_at: new Date().toISOString(), counts, posts }, `ai-digest-${state.date}.json`);
-  flash(`已导出 ${state.date}：${posts.length} 条（${counts.media} 个图片/视频）`);
+  flash(`已导出 ${state.date}：${posts.length} 条（${counts.media} 个图片/视频${counts.attached_posts ? `，${counts.attached_posts} 条附属贴文` : ""}）`);
 });
 document.getElementById("followExport").addEventListener("click", async () => {
   flash("正在导出（含图片与视频链接）…");
