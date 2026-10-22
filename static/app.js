@@ -561,10 +561,28 @@ function dateFromUrl() {
   const d = new URLSearchParams(location.search).get("date");
   return d && /^\d{4}-\d{2}-\d{2}$/.test(d) ? d : null;
 }
-function setDateInUrl(d, latest) {
-  const u = new URL(location.href);
-  if (latest) u.searchParams.delete("date"); else u.searchParams.set("date", d);
-  history.replaceState(null, "", u.pathname + u.search + u.hash);
+// "今天" for routes = today's date in Asia/Shanghai if that day has a digest, else the latest digest
+function shanghaiToday() {
+  try { return new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Shanghai", year: "numeric", month: "2-digit", day: "2-digit" }).format(new Date()); }
+  catch { return new Date(Date.now() + 8 * 3600e3).toISOString().slice(0, 10); }
+}
+function todayDigestDate() { const t = shanghaiToday(); return allDates.includes(t) ? t : allDates[0] || null; }
+// single writer for the query string (hash untouched):
+//   day view: ?date=YYYY-MM-DD (omitted for latest) · ?view=config
+//   follow view: ?view=follow (+ &date=…) · with 「只看」 on: ?view=follow&day=today|YYYY-MM-DD (alias ?view=today kept as-is)
+function writeUrl() {
+  const u = new URL(location.href), sp = u.searchParams, wasAlias = sp.get("view") === "today";
+  sp.delete("day");
+  const dayFilter = state.view === "follow" && state.followToday;
+  if (state.view === "day") sp.delete("view");
+  else if (state.view === "config") sp.set("view", "config");
+  else if (dayFilter) {
+    const tok = state.date === todayDigestDate() ? "today" : state.date;
+    if (wasAlias && tok === "today") sp.set("view", "today");
+    else { sp.set("view", "follow"); sp.set("day", tok); }
+  } else sp.set("view", "follow");
+  if (dayFilter || !state.date || state.date === allDates[0]) sp.delete("date"); else sp.set("date", state.date);
+  history.replaceState(history.state, "", u.pathname + u.search + u.hash);
 }
 let picker = null;
 async function loadDays() {
@@ -575,7 +593,7 @@ async function loadDays() {
   state.date = dates.includes(want) ? want : dates[0] || null;
   picker = DatePicker(document.getElementById("datePicker"), {
     dates, value: state.date,
-    onChange: d => { state.date = d; setDateInUrl(d, d === dates[0]); if (state.view === "config") setView("day"); else loadDay(); },
+    onChange: d => { state.date = d; writeUrl(); if (state.view === "config") setView("day"); else loadDay(); },
   });
   const qs = new URLSearchParams(location.search);
   if (qs.get("cal") === "open") setTimeout(() => picker.open(), 0); // debug/screenshot hook
@@ -592,8 +610,16 @@ async function loadDays() {
     [...document.getElementById("tabs").children].forEach(b => b.classList.toggle("active", b.dataset.section === sec));
   }
   if (qs.get("q")) { state.q = qs.get("q"); document.getElementById("search").value = state.q; }
-  if (qs.get("view") === "follow") state.view = "follow";
-  if (qs.get("view") === "config") state.view = "config";
+  const view = qs.get("view");
+  if (view === "follow" || view === "today") state.view = "follow";
+  if (view === "config") state.view = "config";
+  // ?view=today ≡ ?view=follow&day=today ; ?view=follow&day=YYYY-MM-DD → 「只看 该日」
+  const dayTok = view === "today" ? "today" : view === "follow" ? qs.get("day") : null;
+  if (dayTok) {
+    const d = dayTok === "today" ? todayDigestDate() : dayTok;
+    if (d && dates.includes(d)) { state.date = d; state.followToday = true; picker.set?.(d); }
+  }
+  if (qs.has("day") || view === "today" || dayTok) writeUrl();   // normalise (drop bad day=, redundant date=)
   updateFollowUI();
 }
 
@@ -1185,14 +1211,12 @@ document.getElementById("recOnly").addEventListener("click", () => { state.recOn
 function setView(v) {
   state.view = v;
   document.getElementById("mbFollow")?.classList.toggle("on", v === "follow");
-  const u = new URL(location.href);
-  if (v === "day") u.searchParams.delete("view"); else u.searchParams.set("view", v);
-  history.replaceState(null, "", u.pathname + u.search + u.hash);
+  writeUrl();
   render(); window.scrollTo({ top: 0 });
 }
 document.getElementById("followTab").addEventListener("click", () => setView(state.view === "follow" ? "day" : "follow"));
 document.getElementById("configLink").addEventListener("click", (e) => { e.preventDefault(); setView(state.view === "config" ? "day" : "config"); });
-document.getElementById("followToday").addEventListener("click", () => { state.followToday = !state.followToday; render(); });
+document.getElementById("followToday").addEventListener("click", () => { state.followToday = !state.followToday; writeUrl(); render(); });
 // export-time enrichment (source of truth = the day JSON): media with absolute URLs, texts, article link
 const absUrl = (rel) => new URL(rel, document.baseURI).href;
 function exportMedia(p) {
