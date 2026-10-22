@@ -686,8 +686,8 @@ async function render() {
   renderFeed(posts);
 }
 
-async function renderFollowView() {
-  document.getElementById("trendBox").hidden = true;
+// what the follow view currently shows (「只看」 day + section/search filters) — shared by render and 导出
+async function followViewPosts() {
   let items = follows.all();
   const total = items.length;
   if (state.followToday) items = items.filter(it => it.date === state.date);
@@ -699,6 +699,12 @@ async function renderFollowView() {
           summary_zh: it.title, post_url: it.url, created_at: null, kinds: [] };
   });
   posts = applyFilters(posts);
+  return { total, posts };
+}
+const dayLabel = d => d ? `${+d.slice(5, 7)}月${+d.slice(8)}日` : "";
+async function renderFollowView() {
+  document.getElementById("trendBox").hidden = true;
+  const { total, posts } = await followViewPosts();
   const dLabel = state.date ? `${+state.date.slice(5, 7)}月${+state.date.slice(8)}日` : "";
   document.getElementById("followTitle").innerHTML =
     `我的关注 <b>${total}</b> 条${state.followToday || state.section || state.q ? `<span class="muted"> · 当前显示 ${posts.length} 条</span>` : ""}`;
@@ -1305,12 +1311,20 @@ document.getElementById("dayExport").addEventListener("click", async () => {
 document.getElementById("followExport").addEventListener("click", async () => {
   flash("正在导出（含图片与视频链接）…");
   if (sync.on()) await sync.pull();
-  const items = await Promise.all(follows.all().map(enrichFollow));
+  // export exactly what the view shows: 「只看 <date>」 + section/search filters narrow the list
+  const { posts } = await followViewPosts();
+  const show = new Set(posts.map(p => p.id));
+  const sel = follows.all().filter(it => show.has(it.id));
+  const items = await Promise.all(sel.map(enrichFollow));
   const nMedia = items.reduce((n, it) => n + ((it.media || []).length), 0);
   const nAtt = items.reduce((n, it) => n + ((it.attached_posts || []).length), 0);
-  const payload = { app: "ai-digest", kind: "follows", version: 5, exported_at: new Date().toISOString(), items };
-  downloadJson(payload, `ai-digest-follows-${new Date().toISOString().slice(0, 10)}.json`);
-  flash(`已导出 ${items.length} 条关注（${nMedia} 个图片/视频${nAtt ? `，${nAtt} 条附属贴文` : ""}）`);
+  const day = state.followToday ? state.date : null;
+  const filter = day || state.section || state.q
+    ? { day, ...(state.section ? { section: state.section } : {}), ...(state.q ? { q: state.q } : {}) } : null;
+  const payload = { app: "ai-digest", kind: "follows", version: 6, exported_at: new Date().toISOString(), filter, total_follows: follows.all().length, items };
+  const today = shanghaiToday();
+  downloadJson(payload, day ? `ai-digest-follows-${day}.json` : filter ? `ai-digest-follows-filtered-${today}.json` : `ai-digest-follows-all-${today}.json`);
+  flash(`已导出${day ? ` ${dayLabel(day)}` : filter ? "筛选后的" : "全部"} ${items.length} 条关注（${nMedia} 个图片/视频${nAtt ? `，${nAtt} 条附属贴文` : ""}）`);
 });
 document.getElementById("followImport").addEventListener("click", () => document.getElementById("followFile").click());
 document.getElementById("followFile").addEventListener("change", async (e) => {
