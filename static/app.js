@@ -1,3 +1,6 @@
+// shared, DOM-free export + classification logic (static/export-core.js, also bundled into the sync Worker)
+const DX = globalThis.DigestExport;
+const { sectionLabel, kindLabel, deriveKinds, mediaUrl, externalLinks, shanghaiToday } = DX;
 const LS_SORT = "aidigest.sort", LS_FOLLOW = "aidigest.follows";
 const state = {
   date: null, section: "", q: "",
@@ -262,7 +265,7 @@ document.getElementById("gateForm").addEventListener("submit", async (e) => {
     pw.select();
   } finally { btn.disabled = false; btn.textContent = "进入"; }
 });
-const exportComments = (pid) => comments.get(pid).map(({ id, text, created_at, updated_at }) => ({ id, text, created_at, updated_at }));
+const exportComments = (pid) => DX.exportComments(comments.get(pid));
 function cmBtnLabel(pid) { const n = comments.count(pid); return `✎<span class="l"> 评论</span>${n ? ` <b class="cm-n">${n}</b>` : ""}`; }
 function updateCommentUI(pid) {
   document.querySelectorAll(`[data-cm-btn="${CSS.escape(pid)}"]`).forEach(b => { b.innerHTML = cmBtnLabel(pid); b.classList.toggle("has", comments.count(pid) > 0); });
@@ -491,31 +494,8 @@ function toggleFollow(id) {
   else { const p = findPost(id); if (p) follows.add(p); }
   if (state.view === "follow") render();
 }
-const sectionLabel = { agent: "AI Agent", zh: "中文圈", video: "AI 视频" };
-const kindLabel = { post: "帖子", longpost: "长帖", article: "文章", paper: "论文", tutorial: "教程", video: "视频", repo: "仓库" };
 
 // Content-type tags. Ingest stores p.kinds (see kinds.py); this mirrors the rules for older data.
-const PAPER_RE = /^https?:\/\/(www\.)?(arxiv\.org\/(abs|pdf|html)\/|huggingface\.co\/papers\/|openreview\.net\/|aclanthology\.org\/|(bio|med)rxiv\.org\/|papers\.nips\.cc\/|proceedings\.(mlr\.press|neurips\.cc)\/|dl\.acm\.org\/doi\/|ieeexplore\.ieee\.org\/|alphaxiv\.org\/abs\/)/i;
-const REPO_RE = /^https?:\/\/(www\.)?((github\.com|gitlab\.com|codeberg\.org)\/[\w.-]+\/[\w.-]+\/?($|[?#]|tree\/|blob\/)|huggingface\.co\/(?!papers\/|blog\/|docs\/|learn\/)((spaces|datasets)\/)?[\w.-]+\/[\w.-]+\/?$)/i;
-const TUTORIAL_RE = /(长文|视频|图文|入门|实操|完整|免费|保姆级)教程|教程[：:「“]|手把手|保姆级|分步(教程|指南)|step[- ]by[- ]step|\bhow[- ]to\b|\btutorial\b/i;
-function xLen(t) { let n = 0; for (const c of (t || "").replace(/https?:\/\/\S+/g, "")) n += c.codePointAt(0) > 0x10FF ? 2 : 1; return n; }
-function deriveKinds(p) {
-  if (Array.isArray(p.kinds) && p.kinds.length) return p.kinds;
-  const urls = [p.external_url, ...((p.entities?.urls) || []).map(u => u.unwound_url || u.expanded_url)].filter(Boolean);
-  const text = p.note_tweet?.text || p.text || "";
-  const video = (p.media_types || []).some(m => m === "video" || m === "animated_gif");
-  const full = p.is_article && !p.article_thin;
-  const xArticle = urls.some(u => /\/i\/article\//.test(u));
-  const paper = urls.some(u => PAPER_RE.test(u));
-  const main = p.external_url || urls.find(u => !/^https?:\/\/(www\.)?(x|twitter)\.com\//.test(u));
-  const long = p.x_long != null ? !!p.x_long : xLen(text) > 280;
-  const tut = TUTORIAL_RE.test([p.summary_zh, p.article_title_zh, p.article_title, p.article_summary_zh].filter(Boolean).join(" "));
-  let k = paper ? "paper" : (main && REPO_RE.test(main)) ? "repo"
-    : (full && p.external_url && !/^https?:\/\/(www\.)?(x|twitter)\.com\/(?!i\/article\/)/.test(p.external_url)) || xArticle ? "article"
-    : (video && xLen(text) <= 560) ? "video" : long ? "longpost" : "post";
-  const sec = tut ? "tutorial" : (k === "paper" && full) ? "article" : (video && k !== "video") ? "video" : null;
-  return sec ? [k, sec] : [k];
-}
 function kindTags(p, cls = "") {
   return deriveKinds(p).map((k, i) =>
     `<span class="kind-tag k-${escapeHtml(k)}${i ? " sub" : ""} ${cls}">${kindLabel[k] || escapeHtml(k)}</span>`).join("");
@@ -562,11 +542,7 @@ function dateFromUrl() {
   return d && /^\d{4}-\d{2}-\d{2}$/.test(d) ? d : null;
 }
 // "今天" for routes = today's date in Asia/Shanghai if that day has a digest, else the latest digest
-function shanghaiToday() {
-  try { return new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Shanghai", year: "numeric", month: "2-digit", day: "2-digit" }).format(new Date()); }
-  catch { return new Date(Date.now() + 8 * 3600e3).toISOString().slice(0, 10); }
-}
-function todayDigestDate() { const t = shanghaiToday(); return allDates.includes(t) ? t : allDates[0] || null; }
+const todayDigestDate = () => DX.todayDigestDate(allDates);
 // single writer for the query string (hash untouched):
 //   day view: ?date=YYYY-MM-DD (omitted for latest) · ?view=config
 //   follow view: ?view=follow (+ &date=…) · with 「只看」 on: ?view=follow&day=today|YYYY-MM-DD (alias ?view=today kept as-is)
@@ -793,7 +769,6 @@ async function renderConfig() {
 }
 
 // ---- media (photos saved under data/media; videos hot-linked from video.twimg.com, poster local)
-const mediaUrl = rel => `data/${rel}`;
 function fmtDur(ms) { if (!ms) return ""; const s = Math.round(ms / 1000); return `${Math.floor(s / 60)}:${String(s % 60).padStart(2, "0")}`; }
 function mediaGrid(p, opts = {}) {
   const lazy = opts.eager ? "eager" : "lazy";
@@ -894,10 +869,7 @@ function bindReplies(root, p) {
     b.dataset.tr = toOrig ? "orig" : "zh"; b.textContent = toOrig ? "显示译文" : "查看原文";
   });
 }
-function exportReplies(p) {
-  return (p.top_replies || []).map(r => ({ author: { handle: r.handle, display_name: r.name || r.handle }, text: r.text,
-    text_zh: r.text_zh || null, like_count: r.like_count ?? 0, reply_count: r.reply_count ?? 0, url: r.url, created_at: r.created_at || null }));
-}
+const exportReplies = DX.exportReplies;
 // 附属贴文 (attached_posts: related X posts found for followed posts, written by scripts/attached.py)
 const apIsVideo = a => (a.media_types || []).some(t => t === "video" || t === "animated_gif");
 const apIsPhoto = a => (a.media_types || []).includes("photo");
@@ -961,18 +933,7 @@ function bindAttached(root, p) {
     });
   });
 }
-function exportAttached(p) {
-  return (p.attached_posts || []).map(a => ({
-    id: a.id, url: a.url,
-    author: { handle: a.handle, display_name: a.display_name || a.handle, avatar: a.avatar || null, verified: !!a.verified, followers: a.followers ?? null },
-    created_at: a.created_at || null, lang: a.lang || null,
-    title: a.summary_zh || "", summary_zh: a.summary_zh || null, relation_zh: a.relation_zh || null,
-    text: a.text || null, text_zh: a.text_zh || null,
-    metrics: a.metrics || {}, media_types: a.media_types || [], media: exportMedia(a),
-    links: a.links || [], hashtags: a.hashtags || [], mentions: a.mentions || [],
-    quoted_post_url: a.quoted_post_url || null, article_title: a.article_title || null, attached_at: a.attached_at || null,
-  }));
-}
+const exportAttached = p => DX.exportAttached(p, document.baseURI);
 function recChip(p) {
   if (p.rec_score == null) return "";
   return p.recommended
@@ -1223,44 +1184,13 @@ function setView(v) {
 document.getElementById("followTab").addEventListener("click", () => setView(state.view === "follow" ? "day" : "follow"));
 document.getElementById("configLink").addEventListener("click", (e) => { e.preventDefault(); setView(state.view === "config" ? "day" : "config"); });
 document.getElementById("followToday").addEventListener("click", () => { state.followToday = !state.followToday; writeUrl(); render(); });
-// export-time enrichment (source of truth = the day JSON): media with absolute URLs, texts, article link
-const absUrl = (rel) => new URL(rel, document.baseURI).href;
-function exportMedia(p) {
-  return (p.media || []).filter(m => m.src || m.poster).map(m => {
-    const o = m.type === "photo"
-      ? { type: "photo", url: absUrl(mediaUrl(m.src)), original_url: m.orig || null, width: m.w ?? null, height: m.h ?? null, alt: m.alt || null }
-      : { type: m.type, video_url: m.local_mp4 ? absUrl(mediaUrl(m.local_mp4)) : (m.mp4 || null),
-          ...(m.local_mp4 && m.mp4 ? { original_video_url: m.mp4 } : {}),
-          poster: absUrl(mediaUrl(m.poster)), width: m.w ?? null, height: m.h ?? null, duration_ms: m.duration_ms ?? null };
-    if (m.from_quote) o.quoted = true;
-    return o;
-  });
-}
+// export-time enrichment (source of truth = the day JSON) — logic shared with the Worker in static/export-core.js
+const exportMedia = p => DX.exportMedia(p, document.baseURI);
+const articleLink = (p, date) => DX.articleLink(p, date, document.baseURI);
 async function enrichFollow(it) {
   let p = findPost(it.id);
   if (!p && it.date) { try { await ensureDay(it.date); p = findPost(it.id); } catch { /* day missing: keep stored fields */ } }
-  if (!p) return { ...it, followed: true, followed_at: it.saved_at || null, comments: exportComments(it.id) };
-  const out = { ...it, followed: true, followed_at: it.saved_at || null,
-    summary_zh: p.summary_zh || it.title || "", text_zh: p.text_zh || null, text: p.text || null,
-    media: exportMedia(p), comments: exportComments(p.id),
-    discussion_summary: p.discussion_summary || null, top_replies: exportReplies(p), replies_fetched_at: p.replies_fetched_at || null,
-    attached_posts: exportAttached(p), attached_fetched_at: p.attached_fetched_at || null };
-  if (p.is_article && p.article_id) {
-    out.article_title_zh = p.article_title_zh || p.article_title || null;
-    out.article_summary_zh = p.article_summary_zh || null;
-    out.article_link = articleLink(p, it.date || p._date);
-  }
-  return out;
-}
-function articleLink(p, date) {
-  if (!(p.is_article && p.article_id)) return null;
-  const u = new URL(document.baseURI); u.search = ""; u.hash = "";
-  if (date) u.searchParams.set("date", date);
-  return `${u.href}#/article/${encodeURIComponent(p.article_id)}`;
-}
-function externalLinks(p) {
-  const urls = [p.external_url, ...((p.entities?.urls) || []).map(u => u.unwound_url || u.expanded_url)].filter(Boolean);
-  return [...new Set(urls)].filter(u => !/^https?:\/\/(www\.)?(x|twitter)\.com\/[^/]+\/status\/\d+\/(photo|video)\//.test(u));
+  return DX.enrichFollow(it, p, comments.get(it.id), document.baseURI);
 }
 function downloadJson(payload, filename) {
   const blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });
@@ -1321,7 +1251,7 @@ document.getElementById("followExport").addEventListener("click", async () => {
   const day = state.followToday ? state.date : null;
   const filter = day || state.section || state.q
     ? { day, ...(state.section ? { section: state.section } : {}), ...(state.q ? { q: state.q } : {}) } : null;
-  const payload = { app: "ai-digest", kind: "follows", version: 6, exported_at: new Date().toISOString(), filter, total_follows: follows.all().length, items };
+  const payload = DX.followsPayload(items, { filter, total: follows.all().length });
   const today = shanghaiToday();
   downloadJson(payload, day ? `ai-digest-follows-${day}.json` : filter ? `ai-digest-follows-filtered-${today}.json` : `ai-digest-follows-all-${today}.json`);
   flash(`已导出${day ? ` ${dayLabel(day)}` : filter ? "筛选后的" : "全部"} ${items.length} 条关注（${nMedia} 个图片/视频${nAtt ? `，${nAtt} 条附属贴文` : ""}）`);
