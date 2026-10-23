@@ -10,6 +10,10 @@
   --zh: #5ee1a8;
   --video: #ff9b6a;
   --gossip: #f472b6;
+  --models: #a78bfa;
+  --coding: #22d3ee;
+  --creative: #facc15;
+  --industry: #a3e635;
   --shadow: 0 12px 40px rgba(0,0,0,.35);
   --radius: 8px;
   font-family: "Segoe UI", "PingFang SC", "Noto Sans SC", system-ui, sans-serif;
@@ -77,6 +81,10 @@ select:focus, input:focus { border-color: var(--accent); }
 .badge.zh { color: var(--zh); background: rgba(94,225,168,.12); }
 .badge.video { color: var(--video); background: rgba(255,155,106,.12); }
 .badge.gossip { color: var(--gossip); background: rgba(244,114,182,.12); }
+.badge.models { color: var(--models); background: rgba(167,139,250,.12); }
+.badge.coding { color: var(--coding); background: rgba(34,211,238,.12); }
+.badge.creative { color: var(--creative); background: rgba(250,204,21,.12); }
+.badge.industry { color: var(--industry); background: rgba(163,230,53,.12); }
 .summary { margin: 10px 0 8px; font-size: 1.02rem; line-height: 1.55; }
 .body-text {
   color: var(--muted); font-size: .92rem; line-height: 1.55;
@@ -227,6 +235,8 @@ select:focus, input:focus { border-color: var(--accent); }
   .dp-pop { left: 0; right: 0; width: auto; }
 }
 .tabs { scrollbar-width: none; } .tabs::-webkit-scrollbar { display: none; }
+/* 9 section tabs: wrap on desktop/tablet (hidden scrollbar would hide the last tabs); phones keep one swipeable row */
+@media (min-width: 700px) { .tabbar .tabs { flex-wrap: wrap; overflow-x: visible; } }
 @media (min-width: 760px) { .sub { white-space: nowrap; } }
 
 /* ---------- 推荐分 / sort toolbar ---------- */

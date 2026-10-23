@@ -1,6 +1,7 @@
 // shared, DOM-free export + classification logic (static/export-core.js, also bundled into the sync Worker)
 const DX = globalThis.DigestExport;
-const { sectionLabel, kindLabel, deriveKinds, mediaUrl, externalLinks, shanghaiToday } = DX;
+const { sectionLabel, SECTIONS, kindLabel, deriveKinds, mediaUrl, externalLinks, shanghaiToday } = DX;
+const pillLabel = { models: "模型", coding: "编程", creative: "创意", industry: "算力融资" };
 const LS_SORT = "aidigest.sort", LS_FOLLOW = "aidigest.follows";
 const state = {
   date: null, section: "", q: "",
@@ -581,7 +582,7 @@ async function loadDays() {
     demo.forEach((id, i) => { const p = findPost(id); if (p && !follows.has(id)) follows.add(p, new Date(base - i * 60000).toISOString()); });
   }
   const sec = qs.get("section");
-  if (["agent", "zh", "video", "gossip"].includes(sec)) {
+  if (SECTIONS.includes(sec)) {
     state.section = sec;
     [...document.getElementById("tabs").children].forEach(b => b.classList.toggle("active", b.dataset.section === sec));
   }
@@ -655,7 +656,8 @@ async function render() {
     <span class="pill">帖子 ${s.posts ?? (day.posts || []).length}</span>
     <span class="pill">全文 ${s.articles ?? 0}</span>
     <span class="pill rec">推荐 ${nRec}</span>
-    <span class="pill">Agent ${by.agent ?? 0}</span>
+    <span class="pill">Agent ${by.agent ?? 0}</span>${["models", "coding", "creative", "industry"].map(k => by[k] ? `
+    <span class="pill">${pillLabel[k]} ${by[k]}</span>` : "").join("")}
     <span class="pill">中文 ${by.zh ?? 0}</span>
     <span class="pill">视频 ${by.video ?? 0}</span>${by.gossip ? `
     <span class="pill">八卦 ${by.gossip}</span>` : ""}`;
