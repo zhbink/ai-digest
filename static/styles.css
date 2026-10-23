@@ -9,6 +9,7 @@
   --agent: #6ea8ff;
   --zh: #5ee1a8;
   --video: #ff9b6a;
+  --gossip: #f472b6;
   --shadow: 0 12px 40px rgba(0,0,0,.35);
   --radius: 8px;
   font-family: "Segoe UI", "PingFang SC", "Noto Sans SC", system-ui, sans-serif;
@@ -75,6 +76,7 @@ select:focus, input:focus { border-color: var(--accent); }
 .badge.agent { color: var(--agent); background: rgba(110,168,255,.12); }
 .badge.zh { color: var(--zh); background: rgba(94,225,168,.12); }
 .badge.video { color: var(--video); background: rgba(255,155,106,.12); }
+.badge.gossip { color: var(--gossip); background: rgba(244,114,182,.12); }
 .summary { margin: 10px 0 8px; font-size: 1.02rem; line-height: 1.55; }
 .body-text {
   color: var(--muted); font-size: .92rem; line-height: 1.55;
