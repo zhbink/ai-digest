@@ -1184,7 +1184,14 @@ function setView(v) {
   writeUrl();
   render(); window.scrollTo({ top: 0 });
 }
-document.getElementById("followTab").addEventListener("click", () => setView(state.view === "follow" ? "day" : "follow"));
+// entering 我的关注 defaults to 「只看 今日」 (≡ ?view=follow&day=today); the 只看 chip still clears it to show all
+function openFollowToday() {
+  const d = todayDigestDate();
+  if (d && allDates.includes(d)) { state.date = d; picker?.set?.(d); }
+  state.followToday = true;
+  setView("follow");
+}
+document.getElementById("followTab").addEventListener("click", () => state.view === "follow" ? setView("day") : openFollowToday());
 document.getElementById("configLink").addEventListener("click", (e) => { e.preventDefault(); setView(state.view === "config" ? "day" : "config"); });
 document.getElementById("followToday").addEventListener("click", () => { state.followToday = !state.followToday; writeUrl(); render(); });
 // export-time enrichment (source of truth = the day JSON) — logic shared with the Worker in static/export-core.js
