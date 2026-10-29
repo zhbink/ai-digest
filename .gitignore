@@ -1,0 +1,6 @@
+.secrets/
+.venv/
+work/
+*.bak
+__pycache__/
+*.pyc

@@ -12,7 +12,7 @@
       "text": "Gemini 4 Carbon is our next frontier model.\n\nIt’s state-of-the-art across cybersecurity and long-horizon capabilities.",
       "text_short": "Gemini 4 Carbon is our next frontier model.\n\nIt’s state-of-the-art across cybersecurity and long-horizon capabilities.",
       "text_zh": "Gemini 4 Carbon 是我们的下一代前沿模型，在网络安全与长程任务上达到 SOTA。",
-      "summary_zh": "Google DeepMind 发布 Gemini 4 Carbon，网络安全与长程能力 SOTA。",
+      "summary_zh": "Google DeepMind 发布下一代前沿模型 Gemini 4 Carbon，在网络安全和长程任务上达到 SOTA",
       "created_at": "2026-10-28T17:02:21.000Z",
       "metrics": {
         "likes": 11576,
@@ -148,7 +148,7 @@
       "text": "Google’s Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5, and second only to Claude Opus 5.5 on the Artificial Analysis Coding Agent Index\n\nGemini 4 Carbon scores 59 on Intelligence Index v5, driven by leading performance in complex reasoning, https://t.co/gSH65FSKzL",
       "text_short": "Google’s Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5, and second only to Claude Opus 5.5 on the Artificial Analysis Coding Agent Index\n\nGemini 4…",
       "text_zh": "谷歌 Gemini 4 Carbon 登上 Artificial Analysis Intelligence Index v5 榜首，编程 Agent 榜仅次于 Claude Opus 5.5。",
-      "summary_zh": "Gemini 4 Carbon 登顶 AA v5 综合榜，编程 Agent 榜第二。",
+      "summary_zh": "Gemini 4 Carbon 以 59 分登顶 Artificial Analysis 智能指数 v5，编程 Agent 榜仅次于 Claude Opus 5.5",
       "created_at": "2026-10-28T17:23:00.000Z",
       "metrics": {
         "likes": 4160,
@@ -271,7 +271,7 @@
       "text": "Starting today, eligible ChatGPT Pro and Business subscribers can claim up to $500 per month in API credits to build apps and agents.",
       "text_short": "Starting today, eligible ChatGPT Pro and Business subscribers can claim up to $500 per month in API credits to build apps and agents.",
       "text_zh": "即日起，符合条件的 ChatGPT Pro 与 Business 订阅用户每月可领取最高 500 美元 API 额度，用于构建应用与 Agent。",
-      "summary_zh": "OpenAI：Pro/Business 用户每月最高 500 美元 API 额度。",
+      "summary_zh": "ChatGPT Pro 与 Business 订阅用户即日起每月可领最高 500 美元 API 额度，用于构建应用和 Agent",
       "created_at": "2026-10-28T23:17:13.000Z",
       "metrics": {
         "likes": 4085,
@@ -406,8 +406,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1728327996375719936/RW7VBJfD_bigger.jpg",
       "text": "Holy: They just released Gemini 4 Carbon! Did not expect that release! just two weeks after Argon\n\nReporting a leading score of 59 on the Artificial Analysis Intelligence Index v5.0 alongside improvements in long-running tasks and cybersecurity capabilities. https://t.co/zRJwCmFliQ https://t.co/Ge77WwDbBm",
       "text_short": "Holy: They just released Gemini 4 Carbon! Did not expect that release! just two weeks after Argon\n\nReporting a leading score of 59 on the Artificial Analysis Intelligence Index v5…",
-      "text_zh": "kimmonismus：Gemini 4 Carbon 突然发布，距上一版仅两周，引发热议。",
-      "summary_zh": "kimmonismus：Gemini 4 Carbon 突然发布，距上一版仅两周，引发热议。",
+      "text_zh": "天哪：他们刚刚发布了 Gemini 4 Carbon！完全没想到！距 Argon 才两周\n\n在 Artificial Analysis 智能指数 v5.0 上拿到领先的 59 分，同时长时间任务和网络安全能力也有提升。",
+      "summary_zh": "Gemini 4 Carbon 意外发布，距 Argon 仅两周：AA 智能指数 v5 拿下领先的 59 分，长程任务和网络安全能力同步提升",
       "created_at": "2026-10-28T17:23:05.000Z",
       "metrics": {
         "likes": 959,
@@ -529,8 +529,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_bigger.jpg",
       "text": "Great paper from Amazon and colleagues on self-improving multi-agent systems.\n\nEpisodic memory for agents is so underrated.\n\nBut I am starting to see lots of good applications as frontier models improve.\n\nThis paper is the latest example.\n\nThey built a system that has three parts, all run by the same LLM. A controller plans each task and runs it one step at a time, choosing which sub-agent and which skills to use at each step. Sub-agents start as a generalist, and each specialist inherits the generalist's prompt plus its own role-specific method. Skills are short procedures, such as algorithms or pitfall checklists.\n\nEMMA treats the controller's routing memory, the agent prompts, and the skills as episodic memory that improves from failures. After a failed task, a reflector decides which of the three owns the fix and proposes one edit there. Guards keep every accepted edit scoped, incremental, and bounded.\n\nEMMA beats ACE, GEPA, EvoMAS, and ADAS on KramaBench, AppWorld, and BBEH, by up to 32.5% over the strongest baseline, and uses 17 to 38% fewer training executions.\n\nhttps://arxiv.org/abs/2610.35966\n\nChat with Paper: https://academy.dair.ai/papers/emma-structured-episodic-memory-for-multi-agent-workflow-synthesis-2610.35966",
       "text_short": "Great paper from Amazon and colleagues on self-improving multi-agent systems.\n\nEpisodic memory for agents is so underrated.\n\nBut I am starting to see lots of good applications as…",
-      "text_zh": null,
-      "summary_zh": "omarsar0：推荐 Amazon 等关于自我改进多智能体系统的论文。",
+      "text_zh": "Amazon 及合作者关于自我改进多智能体系统的一篇好论文。\n\nAgent 的情景记忆被严重低估了。\n\n但随着前沿模型变强，我开始看到很多不错的应用。\n\n这篇论文就是最新的例子。\n\n他们搭了一个由三部分组成的系统，全部由同一个 LLM 驱动。控制器为每个任务做计划并逐步执行，每一步决定用哪个子 Agent、哪些技能。子 Agent 起初是通才，每个专才继承通才的提示词，再加上自己角色特有的方法。技能是简短的操作流程，比如算法或避坑清单。\n\nEMMA 把控制器的路由记忆、Agent 提示词和技能都当作可以从失败中改进的情景记忆。任务失败后，由反思器判断问题归这三者中的哪一个，并在那里提出一处修改。护栏确保每个被采纳的修改都有范围、是增量的且有边界。\n\nEMMA 在 KramaBench、AppWorld 和 BBEH 上击败了 ACE、GEPA、EvoMAS 和 ADAS，比最强基线最多高 32.5%，训练执行次数还少 17% 到 38%。\n\nhttps://t.co/XhaoD7zntd\n\n与论文对话：https://t.co/rOYULuBetj",
+      "summary_zh": "Amazon 等提出自我改进多智能体系统 EMMA：把路由记忆、Agent 提示词和技能当作可从失败中改进的情景记忆，在 KramaBench、AppWorld、BBEH 上最多领先最强基线 32.5%",
       "created_at": "2026-10-28T13:39:02.000Z",
       "metrics": {
         "likes": 198,
@@ -580,7 +580,7 @@
       "kind_override": null,
       "rec_score": 81,
       "recommended": true,
-      "rec_reason": "梳理自我改进多智能体系统论文，指向 Agent 如何用反馈闭环持续变强的研究主线",
+      "rec_reason": "Agent 从失败中自我修正的可落地方案：由反思器判断该改哪一层、只做受限的小改动，训练执行次数还少 17–38%",
       "discussion_summary": "回复多在跟论文线索聊自我改进与多 Agent 闭环，关心真实仓库里的长程稳定性，而不是只看基准分数。",
       "top_replies": [
         {
@@ -690,8 +690,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75_bigger.jpeg",
       "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun https://simonwillison.net/2026/Oct/28/vibe-game-development/",
       "text_short": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually f…",
-      "text_zh": null,
-      "summary_zh": "simonw：认为 10 月是编程 Agent 能力的又一拐点。",
+      "text_zh": "我认为 10 月是编程 Agent 及其背后模型能力的又一个拐点：Claude Opus 5.5 现在能做出真正好玩的电子游戏 https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+      "summary_zh": "Simon Willison：10 月是编程 Agent 的又一个能力拐点，Claude Opus 5.5 已经能做出真正好玩的电子游戏",
       "created_at": "2026-10-28T14:05:04.000Z",
       "metrics": {
         "likes": 976,
@@ -738,7 +738,7 @@
       "kind_override": null,
       "rec_score": 79,
       "recommended": true,
-      "rec_reason": "simonw 以「真正好玩的游戏」为标尺，认为 10 月编程 Agent 又过了一道能力拐点",
+      "rec_reason": "以「做出真正好玩的游戏」为标尺，资深开发者判断编程 Agent 又跨过一道门槛，附长文实测",
       "discussion_summary": "争论焦点是「能跑」到「好玩」的门槛：有人认为 fun 比基准更难造假，也有人吐槽手感/平衡仍差，并追问要不要人工迭代把关。",
       "top_replies": [
         {
@@ -828,8 +828,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2066207048648323072/u-UPEKOH_bigger.jpg",
       "text": "Gemini 4 Carbon, the next iteration of our frontier model is coming. \n\nBuilding on Argon with stronger coding and cybersecurity. Same $2 in / $10 out*. Scores 59 on AA v5. \n\nIn testing with trusted partners. Developer access as soon as possible. Looking forward to sharing this with you! https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
       "text_short": "Gemini 4 Carbon, the next iteration of our frontier model is coming. \n\nBuilding on Argon with stronger coding and cybersecurity. Same $2 in / $10 out*. Scores 59 on AA v5. \n\nIn te…",
-      "text_zh": null,
-      "summary_zh": "Phil Schmid：预告 Gemini 4 Carbon，并讨论其对开发者工作流影响。",
+      "text_zh": "我们前沿模型的下一代 Gemini 4 Carbon 就要来了。\n\n在 Argon 基础上加强了编程和网络安全能力。价格不变：输入 2 美元 / 输出 10 美元*。AA v5 得分 59。\n\n目前正与可信合作伙伴测试，会尽快开放给开发者。期待与大家分享！",
+      "summary_zh": "Google 的 Phil Schmid：Gemini 4 Carbon 在 Argon 基础上加强编程与网络安全，价格不变（每百万 token 输入 2 美元、输出 10 美元），AA v5 得 59 分，正与可信伙伴测试",
       "created_at": "2026-10-28T17:05:43.000Z",
       "metrics": {
         "likes": 319,
@@ -872,7 +872,7 @@
       "kind_override": null,
       "rec_score": 76,
       "recommended": true,
-      "rec_reason": "Phil Schmid 预告 Carbon 并对开发者工作流影响做拆解，便于跟上两周一次的模型迭代",
+      "rec_reason": "给出开发者最关心的价格和开放节奏：同价升级，开发者 API「尽快」开放",
       "discussion_summary": "开发者侧追问 Carbon 对工作流的具体影响与开放时间表，并把两周一次的发布当成要重新排期评测的信号。",
       "top_replies": [
         {
@@ -976,7 +976,7 @@
       "text": "ChatGPT Pro 和 Business 订阅即日起每月送最高 500 美元 API 额度，不另收费，Plus 没有\n\nOpenAI 10 月 28 日宣布，付费的 ChatGPT Pro 和 Business 订阅用户，每月可以免费领一笔 API 额度，最多 500 美元。API 是给开发者用的接口，按用量付费，自己写的 App、网站、自动化脚本要调用 OpenAI 的模型，走的就是这条路。以前订阅 ChatGPT 和用 API 是两本账，交了订阅费，写程序照样另外充钱。现在这笔额度算在订阅里，不用额外付费。\n\n【谁能领、领多少】\n\nPro 按档位给，每月 100、200 或 500 美元。据 CellCog 的说法，额度正好等于各档月费，相当于订阅费原样变成 API 额度。Business 按付费席位算：标准席位每个 20 美元，高级席位每个 100 美元，整个工作区合在一起用，上限 500 美元，也就是 25 个标准席位或 5 个高级席位就封顶，再加人也不涨。\n\nPlus、Go、免费版和 Enterprise 都没有。据 CellCog 转述 OpenAI 帮助页，订阅还要满 7 天，免费试用和赠送的订阅不算。地区限制官方推文没提，两家媒体也没写。\n\n【怎么领】\n\n在 ChatGPT 的“设置 → 账单”里领取，绑定一个你自己名下的 API 组织（OpenAI 开发者平台上的账户），ChatGPT 账号和 API 账号要用同一个邮箱。Business 由工作区管理员在账单设置或管理后台领。领完后，在 ChatGPT 或 Codex 里用 OpenAI Developers 插件就能生成 API key、建项目，不用先绑信用卡。\n\n【能干什么，有什么限制】\n\n这笔钱可以花在 OpenAI 开发者平台的大部分服务上：调模型做对话和智能体、实时语音、生成图片，以及联网搜索、代码解释器这些内置工具。比如给自己做个小工具，或者给团队搭个内部问答机器人。\n\n几条限制要注意，以下均据 CellCog 转述的 OpenAI 帮助页：额度当月有效，账单周期结束清零，不能攒到下个月，第一个月按剩余天数折算；用 API key 跑 Codex 不能花这笔钱；它也不会提高你在 ChatGPT 和 Codex 里的使用上限，两边额度各算各的。花钱顺序是先用赠送的，再用自己充的；两笔都花完，请求会直接报错，除非开了自动充值。\n\n说明：OpenAI 帮助中心原文（http://help.openai.com/articles/20001626）这次没能直接打开，推文之外的细则来自 AlphaSignal 和 CellCog 对帮助页的转述。两家都写到的部分（Plus 和 Enterprise 不能领、额度不累积、Codex 不能用）说法一致；满 7 天、同一邮箱这些细节只有 CellCog 写了。\n\n来源：\nOpenAI 帮助中心 https://help.openai.com/articles/20001626\nAlphaSignal https://alphasignal.ai/news/openai-gives-chatgpt-pro-subscribers-up-to-500-in-free-api-credits\nCellCog https://cellcog.ai/blog/chatgpt-api-credits/",
       "text_short": "ChatGPT Pro 和 Business 订阅即日起每月送最高 500 美元 API 额度，不另收费，Plus 没有\n\nOpenAI 10 月 28 日宣布，付费的 ChatGPT Pro 和 Business 订阅用户，每月可以免费领一笔 API 额度，最多 500 美元。API 是给开发者用的接口，按用量付费，自己写的 App、网站、自动化脚本要调…",
       "text_zh": "ChatGPT Pro 和 Business 订阅即日起每月送最高 500 美元 API 额度，不另收费，Plus 没有\n\nOpenAI 10 月 28 日宣布，付费的 ChatGPT Pro 和 Business 订阅用户，每月可以免费领一笔 API 额度，最多 500 美元。API 是给开发者用的接口，按用量付费，自己写的 App、网站、自动化脚本要调用 OpenAI 的模型，走的就是这条路。以前订阅 ChatGPT 和用 API 是两本账，交了订阅费，写程序照样另外充钱。现在这笔额度算在订阅里，不用额外付费。\n\n【谁能领、领多少】\n\nPro 按档位给，每月 100、200 或 500 美元。据 CellCog 的说法，额度正好等于各档月费，相当于订阅费原样变成 API 额度。Business 按付费席位算：标准席位每个 20 美元，高级席位每个 100 美元，整个工作区合在一起用，上限 500 美元，也就是 25 个标准席位或 5 个高级席位就封顶，再加人也不涨。\n\nPlus、Go、免费版和 Enterprise 都没有。据 CellCog 转述 OpenAI 帮助页，订阅还要满 7 天，免费试用和赠送的订阅不算。地区限制官方推文没提，两家媒体也没写。\n\n【怎么领】\n\n在 ChatGPT 的“设置 → 账单”里领取，绑定一个你自己名下的 API 组织（OpenAI 开发者平台上的账户），ChatGPT 账号和 API 账号要用同一个邮箱。Business 由工作区管理员在账单设置或管理后台领。领完后，在 ChatGPT 或 Codex 里用 OpenAI Developers 插件就能生成 API key、建项目，不用先绑信用卡。\n\n【能干什么，有什么限制】\n\n这笔钱可以花在 OpenAI 开发者平台的大部分服务上：调模型做对话和智能体、实时语音、生成图片，以及联网搜索、代码解释器这些内置工具。比如给自己做个小工具，或者给团队搭个内部问答机器人。\n\n几条限制要注意，以下均据 CellCog 转述的 OpenAI 帮助页：额度当月有效，账单周期结束清零，不能攒到下个月，第一个月按剩余天数折算；用 API key 跑 Codex 不能花这笔钱；它也不会提高你在 ChatGPT 和 Codex 里的使用上限，两边额度各算各的。花钱顺序是先用赠送的，再用自己充的；两笔都花完，请求会直接报错，除非开了自动充值。\n\n说明：OpenAI 帮助中心原文（http://help.openai.com/articles/20001626）这次没能直接打开，推文之外的细则来自 AlphaSignal 和 CellCog 对帮助页的转述。两家都写到的部分（Plus 和 Enterprise 不能领、额度不累积、Codex 不能用）说法一致；满 7 天、同一邮箱这些细节只有 CellCog 写了。\n\n来源：\nOpenAI 帮助中心 https://help.openai.com/articles/20001626\nAlphaSignal https://alphasignal.ai/news/openai-gives-chatgpt-pro-subscribers-up-to-500-in-free-api-credits\nCellCog https://cellcog.ai/blog/chatgpt-api-credits/",
-      "summary_zh": "ChatGPT Pro 和 Business 订阅即日起每月送最高 500 美元 API 额度，不另收费，Plus 没有 OpenAI 10 月 28 日宣布，付费的 ChatGPT Pro 和 Business 订阅用户，每月可以免费领一笔 API 额度，最多 500 美元。API 是给开发者用的接口，按用量付费，自己写的 App、网站、自动化脚本要调用 OpenAI 的模型，走的就是这条路。",
+      "summary_zh": "ChatGPT Pro 和 Business 订阅每月送最高 500 美元 API 额度：Pro 按档位送 100/200/500 美元，Business 按席位累计、封顶 500 美元，Plus 不在其列",
       "created_at": "2026-10-28T23:46:30.000Z",
       "metrics": {
         "likes": 301,
@@ -1143,7 +1143,8 @@
         },
         "text": "ChatGPT Pro 和 Business 订阅即日起每月送最高 500 美元 API 额度，不另收费，Plus 没有\n\nOpenAI 10 月 28 日宣布，付费的 ChatGPT Pro 和 Business 订阅用户，每月可以免费领一笔 API 额度，最多 500 美元。API 是给开发者用的接口，按用量付费，自己写的 App、网站、自动化脚本要调用 OpenAI 的模型，走的就是这条路。以前订阅 ChatGPT 和用 API 是两本账，交了订阅费，写程序照样另外充钱。现在这笔额度算在订阅里，不用额外付费。\n\n【谁能领、领多少】\n\nPro 按档位给，每月 100、200 或 500 美元。据 CellCog 的说法，额度正好等于各档月费，相当于订阅费原样变成 API 额度。Business 按付费席位算：标准席位每个 20 美元，高级席位每个 100 美元，整个工作区合在一起用，上限 500 美元，也就是 25 个标准席位或 5 个高级席位就封顶，再加人也不涨。\n\nPlus、Go、免费版和 Enterprise 都没有。据 CellCog 转述 OpenAI 帮助页，订阅还要满 7 天，免费试用和赠送的订阅不算。地区限制官方推文没提，两家媒体也没写。\n\n【怎么领】\n\n在 ChatGPT 的“设置 → 账单”里领取，绑定一个你自己名下的 API 组织（OpenAI 开发者平台上的账户），ChatGPT 账号和 API 账号要用同一个邮箱。Business 由工作区管理员在账单设置或管理后台领。领完后，在 ChatGPT 或 Codex 里用 OpenAI Developers 插件就能生成 API key、建项目，不用先绑信用卡。\n\n【能干什么，有什么限制】\n\n这笔钱可以花在 OpenAI 开发者平台的大部分服务上：调模型做对话和智能体、实时语音、生成图片，以及联网搜索、代码解释器这些内置工具。比如给自己做个小工具，或者给团队搭个内部问答机器人。\n\n几条限制要注意，以下均据 CellCog 转述的 OpenAI 帮助页：额度当月有效，账单周期结束清零，不能攒到下个月，第一个月按剩余天数折算；用 API key 跑 Codex 不能花这笔钱；它也不会提高你在 ChatGPT 和 Codex 里的使用上限，两边额度各算各的。花钱顺序是先用赠送的，再用自己充的；两笔都花完，请求会直接报错，除非开了自动充值。\n\n说明：OpenAI 帮助中心原文（https://t.co/TmmayxRUMq）这次没能直接打开，推文之外的细则来自 AlphaSignal 和 CellCog 对帮助页的转述。两家都写到的部分（Plus 和 Enterprise 不能领、额度不累积、Codex 不能用）说法一致；满 7 天、同一邮箱这些细节只有 CellCog 写了。\n\n来源：\nOpenAI 帮助中心 https://t.co/5EYQpuJYMd\nAlphaSignal https://t.co/bc86gNdPR7\nCellCog https://t.co/YjAAjjwlml"
       },
-      "x_long": true
+      "x_long": true,
+      "article_summary_zh": "OpenAI 10 月 28 日宣布，ChatGPT Pro 和 Business 付费订阅每月可免费领取 API 额度，不另收费：Pro 按档位每月 100、200 或 500 美元，相当于月费原样变成额度；Business 按席位计（标准席位 20 美元、高级席位 100 美元），整个工作区封顶 500 美元。Plus、Go、免费版和 Enterprise 都不能领，据 CellCog 转述订阅还需满 7 天。领取在 ChatGPT「设置 → 账单」里绑定同邮箱的 API 组织，之后可在 ChatGPT 或 Codex 里用 OpenAI Developers 插件生成 API key，不必先绑卡。额度可用于模型调用、实时语音、生图和联网搜索等内置工具，但当月清零不累积、首月按天折算，也不能用于以 API key 跑的 Codex，且不会提高 ChatGPT/Codex 自身的用量上限。作者注明帮助中心原文未能打开，细则来自 AlphaSignal 与 CellCog 的转述。"
     },
     {
       "id": "2115508498607833290",
@@ -1154,7 +1155,7 @@
       "text": "Google 发布 Gemini 4 Carbon，综合榜排第一，本周只给网络安全防御团队用，普通用户和开发者还要等\n\nGoogle 10 月 28 日发布新模型 Gemini 4 Carbon，离上一个模型 Gemini 4 Argon 只隔了两周。在第三方评测机构 Artificial Analysis 的综合排行榜（v5.0 版）上，Carbon 59 分排第一，比 Claude Opus 5.5 高 1 分，比 GPT-6 Astra 高 2 分。\n\n这次你暂时用不上。Argon 发布当天，Google AI Pro、Ultra 订阅用户和付费 API 开发者就能用；Carbon 本周只给“一部分网络安全防御者”，之后通过 Fairwind 计划放给更多合作方，再往后才轮到开发者、企业和普通用户。哪天开放，官方没说，Sundar Pichai 在推文里只说“很快”。\n\nFairwind 是 Google 让网络安全防御方提前用新模型的计划，Argon 时就有。按官网说明，名额优先给国家网络安全机构、医疗电信能源金融等关键基础设施运营方和大型科技平台，要经 Google Cloud 客户团队申请、做背景审查，只能给内部安全团队用。普通人和一般公司进不去。\n\n【多少钱】\n\nAPI 价格和 Argon 一样：引入价每 100 万 token（模型处理文字的基本单位）输入 2 美元、输出 10 美元，引入期过后涨到 4 美元和 20 美元。Argon 的引入价到 11 月 30 日为止，Carbon 的引入期到哪天官方没说。会不会进 Gemini App、要哪档订阅，官方也没说。\n\n【比 Argon 和别家强在哪】\n\nGoogle 说 Carbon 能连续跑好几天，碰到死胡同会自己换路，适合在大型代码库里追查隐蔽 bug 再修好。按 Google 内部测试，它写出安全代码的成功率是 Argon 的两倍多，没有依据的说法少了约一半。\n\nGoogle 公布的对比表有 17 项测试，Carbon 拿了 15 项第一。没赢的两项：写代码的 FrontierSWE 2，GPT-6 Astra 65.5%，Carbon 61.2%；操作电脑的 OSWorld，Claude Opus 5.5 87.2%，Carbon 81.5%。表里别家的分数大多取自各家自己公布的数字或公开榜单，有几项是 Google 自己跑的。\n\n【安全分数高，是不是能帮人黑系统】\n\nPichai 推文里的三个分数，对应安全团队处理漏洞的三步。\n\n找漏洞：SEC-bench Pro 88.2%。题目是浏览器 JavaScript 引擎里真实出现过的漏洞，模型要自己找到，并写出一小段代码证明漏洞确实存在。这项是 Google 自己跑的，GPT-6 Astra 85.4%。\n\n确认漏洞能不能被利用：ExploitGym 54.8%。模型在断网的隔离环境里，针对已知漏洞写出能攻进测试程序的代码。安全团队靠这一步排优先级，能被利用的先修。GPT-6 Astra 42.4%，Claude Opus 5.5 34.5%。\n\n修漏洞：CWE-bench 71.0%。由第三方 Collinear 出题打分，模型要修好真实开源项目里的漏洞，修完攻击失效、原有测试全部通过才算对。\n\n同样的本事，落到坏人手里也能用来攻击。Google 写明这些分数是关掉安全防护后测的。它的做法是先只给审查过的防御方用，同时参加美国政府自愿的发布前模型测试，等调整好防护再向开发者和普通用户开放。\n\n官方博客：https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/\n评测方法：https://deepmind.google/models/evals-methodology/gemini-4-carbon",
       "text_short": "Google 发布 Gemini 4 Carbon，综合榜排第一，本周只给网络安全防御团队用，普通用户和开发者还要等\n\nGoogle 10 月 28 日发布新模型 Gemini 4 Carbon，离上一个模型 Gemini 4 Argon 只隔了两周。在第三方评测机构 Artificial Analysis 的综合排行榜（v5.0 版）上，Carbon 5…",
       "text_zh": "Google 发布 Gemini 4 Carbon，综合榜排第一，本周只给网络安全防御团队用，普通用户和开发者还要等\n\nGoogle 10 月 28 日发布新模型 Gemini 4 Carbon，离上一个模型 Gemini 4 Argon 只隔了两周。在第三方评测机构 Artificial Analysis 的综合排行榜（v5.0 版）上，Carbon 59 分排第一，比 Claude Opus 5.5 高 1 分，比 GPT-6 Astra 高 2 分。\n\n这次你暂时用不上。Argon 发布当天，Google AI Pro、Ultra 订阅用户和付费 API 开发者就能用；Carbon 本周只给“一部分网络安全防御者”，之后通过 Fairwind 计划放给更多合作方，再往后才轮到开发者、企业和普通用户。哪天开放，官方没说，Sundar Pichai 在推文里只说“很快”。\n\nFairwind 是 Google 让网络安全防御方提前用新模型的计划，Argon 时就有。按官网说明，名额优先给国家网络安全机构、医疗电信能源金融等关键基础设施运营方和大型科技平台，要经 Google Cloud 客户团队申请、做背景审查，只能给内部安全团队用。普通人和一般公司进不去。\n\n【多少钱】\n\nAPI 价格和 Argon 一样：引入价每 100 万 token（模型处理文字的基本单位）输入 2 美元、输出 10 美元，引入期过后涨到 4 美元和 20 美元。Argon 的引入价到 11 月 30 日为止，Carbon 的引入期到哪天官方没说。会不会进 Gemini App、要哪档订阅，官方也没说。\n\n【比 Argon 和别家强在哪】\n\nGoogle 说 Carbon 能连续跑好几天，碰到死胡同会自己换路，适合在大型代码库里追查隐蔽 bug 再修好。按 Google 内部测试，它写出安全代码的成功率是 Argon 的两倍多，没有依据的说法少了约一半。\n\nGoogle 公布的对比表有 17 项测试，Carbon 拿了 15 项第一。没赢的两项：写代码的 FrontierSWE 2，GPT-6 Astra 65.5%，Carbon 61.2%；操作电脑的 OSWorld，Claude Opus 5.5 87.2%，Carbon 81.5%。表里别家的分数大多取自各家自己公布的数字或公开榜单，有几项是 Google 自己跑的。\n\n【安全分数高，是不是能帮人黑系统】\n\nPichai 推文里的三个分数，对应安全团队处理漏洞的三步。\n\n找漏洞：SEC-bench Pro 88.2%。题目是浏览器 JavaScript 引擎里真实出现过的漏洞，模型要自己找到，并写出一小段代码证明漏洞确实存在。这项是 Google 自己跑的，GPT-6 Astra 85.4%。\n\n确认漏洞能不能被利用：ExploitGym 54.8%。模型在断网的隔离环境里，针对已知漏洞写出能攻进测试程序的代码。安全团队靠这一步排优先级，能被利用的先修。GPT-6 Astra 42.4%，Claude Opus 5.5 34.5%。\n\n修漏洞：CWE-bench 71.0%。由第三方 Collinear 出题打分，模型要修好真实开源项目里的漏洞，修完攻击失效、原有测试全部通过才算对。\n\n同样的本事，落到坏人手里也能用来攻击。Google 写明这些分数是关掉安全防护后测的。它的做法是先只给审查过的防御方用，同时参加美国政府自愿的发布前模型测试，等调整好防护再向开发者和普通用户开放。\n\n官方博客：https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/\n评测方法：https://deepmind.google/models/evals-methodology/gemini-4-carbon",
-      "summary_zh": "Google 发布 Gemini 4 Carbon，综合榜排第一，本周只给网络安全防御团队用，普通用户和开发者还要等 Google 10 月 28 日发布新模型 Gemini 4 Carbon，离上一个模型 Gemini 4 Argon 只隔了两周。",
+      "summary_zh": "Gemini 4 Carbon 综合榜第一但本周只给网络安全防御团队：API 价格与 Argon 相同，17 项测试拿下 15 项第一，开发者和普通用户开放时间未定",
       "created_at": "2026-10-28T18:18:24.000Z",
       "metrics": {
         "likes": 39,
@@ -1222,7 +1223,8 @@
         },
         "text": "Google 发布 Gemini 4 Carbon，综合榜排第一，本周只给网络安全防御团队用，普通用户和开发者还要等\n\nGoogle 10 月 28 日发布新模型 Gemini 4 Carbon，离上一个模型 Gemini 4 Argon 只隔了两周。在第三方评测机构 Artificial Analysis 的综合排行榜（v5.0 版）上，Carbon 59 分排第一，比 Claude Opus 5.5 高 1 分，比 GPT-6 Astra 高 2 分。\n\n这次你暂时用不上。Argon 发布当天，Google AI Pro、Ultra 订阅用户和付费 API 开发者就能用；Carbon 本周只给“一部分网络安全防御者”，之后通过 Fairwind 计划放给更多合作方，再往后才轮到开发者、企业和普通用户。哪天开放，官方没说，Sundar Pichai 在推文里只说“很快”。\n\nFairwind 是 Google 让网络安全防御方提前用新模型的计划，Argon 时就有。按官网说明，名额优先给国家网络安全机构、医疗电信能源金融等关键基础设施运营方和大型科技平台，要经 Google Cloud 客户团队申请、做背景审查，只能给内部安全团队用。普通人和一般公司进不去。\n\n【多少钱】\n\nAPI 价格和 Argon 一样：引入价每 100 万 token（模型处理文字的基本单位）输入 2 美元、输出 10 美元，引入期过后涨到 4 美元和 20 美元。Argon 的引入价到 11 月 30 日为止，Carbon 的引入期到哪天官方没说。会不会进 Gemini App、要哪档订阅，官方也没说。\n\n【比 Argon 和别家强在哪】\n\nGoogle 说 Carbon 能连续跑好几天，碰到死胡同会自己换路，适合在大型代码库里追查隐蔽 bug 再修好。按 Google 内部测试，它写出安全代码的成功率是 Argon 的两倍多，没有依据的说法少了约一半。\n\nGoogle 公布的对比表有 17 项测试，Carbon 拿了 15 项第一。没赢的两项：写代码的 FrontierSWE 2，GPT-6 Astra 65.5%，Carbon 61.2%；操作电脑的 OSWorld，Claude Opus 5.5 87.2%，Carbon 81.5%。表里别家的分数大多取自各家自己公布的数字或公开榜单，有几项是 Google 自己跑的。\n\n【安全分数高，是不是能帮人黑系统】\n\nPichai 推文里的三个分数，对应安全团队处理漏洞的三步。\n\n找漏洞：SEC-bench Pro 88.2%。题目是浏览器 JavaScript 引擎里真实出现过的漏洞，模型要自己找到，并写出一小段代码证明漏洞确实存在。这项是 Google 自己跑的，GPT-6 Astra 85.4%。\n\n确认漏洞能不能被利用：ExploitGym 54.8%。模型在断网的隔离环境里，针对已知漏洞写出能攻进测试程序的代码。安全团队靠这一步排优先级，能被利用的先修。GPT-6 Astra 42.4%，Claude Opus 5.5 34.5%。\n\n修漏洞：CWE-bench 71.0%。由第三方 Collinear 出题打分，模型要修好真实开源项目里的漏洞，修完攻击失效、原有测试全部通过才算对。\n\n同样的本事，落到坏人手里也能用来攻击。Google 写明这些分数是关掉安全防护后测的。它的做法是先只给审查过的防御方用，同时参加美国政府自愿的发布前模型测试，等调整好防护再向开发者和普通用户开放。\n\n官方博客：https://t.co/1rdUKZrzxV\n评测方法：https://t.co/uGewSKk8xe"
       },
-      "x_long": true
+      "x_long": true,
+      "article_summary_zh": "Google 10 月 28 日发布 Gemini 4 Carbon，距 Argon 仅两周，在 Artificial Analysis 综合榜 v5.0 以 59 分排第一，比 Claude Opus 5.5 高 1 分、比 GPT-6 Astra 高 2 分。与 Argon 当天开放不同，Carbon 本周只给一部分网络安全防御者，之后经 Fairwind 计划扩大到审核过的关键基础设施等合作方，开发者、企业和普通用户何时可用官方未说。API 价格与 Argon 相同（引入价每百万 token 输入 2 美元、输出 10 美元，之后 4/20 美元）。Google 称它能连续运行数天、在大型代码库中追查并修复隐蔽 bug，写出安全代码的成功率是 Argon 的两倍多；官方 17 项对比拿下 15 项第一，FrontierSWE 2 和 OSWorld 分别输给 GPT-6 Astra 和 Claude Opus 5.5。安全分数（SEC-bench Pro 88.2%、ExploitGym 54.8%、CWE-bench 71.0%）是在关闭安全防护后测得，因此 Google 先限定防御方使用并参加美国政府的发布前测试。"
     },
     {
       "id": "2115565090506407993",
@@ -1232,8 +1234,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1728327996375719936/RW7VBJfD_bigger.jpg",
       "text": "This likely means that Sundar Pichai has officially declared RSI. No wonder the Gemini 4 Carbon is so outstanding. \n\nPichai literally: \"I would expect the next twelve months to see continued acceleration because of RSI\" https://twitter.com/AndrewCurran_/status/2115546957909533157",
       "text_short": "This likely means that Sundar Pichai has officially declared RSI. No wonder the Gemini 4 Carbon is so outstanding. \n\nPichai literally: \"I would expect the next twelve months to se…",
-      "text_zh": null,
-      "summary_zh": "kimmonismus：认为 Carbon 节奏意味着谷歌在推进递归自我改进（RSI）叙事。",
+      "text_zh": "这很可能意味着 Sundar Pichai 已经正式宣布进入 RSI（递归自我改进）阶段。难怪 Gemini 4 Carbon 这么出色。\n\nPichai 原话：「我预计未来十二个月会因为 RSI 而持续加速」 https://twitter.com/AndrewCurran_/status/2115546957909533157",
+      "summary_zh": "Sundar Pichai 在财报电话会上称未来 12 个月会因 RSI（递归自我改进）持续加速，被解读为谷歌正式宣布进入 RSI 阶段",
       "created_at": "2026-10-28T22:03:17.000Z",
       "metrics": {
         "likes": 1187,
@@ -1354,8 +1356,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1950950107937185792/QOfEjFoJ_bigger.jpg",
       "text": "New in Claude for Legal: a gallery of ready-made artifacts for contract review, regulatory horizon scans, cite checks, and more.\n\nStart from the built-in example, add your own documents and connectors, and share it with anyone across the business.",
       "text_short": "New in Claude for Legal: a gallery of ready-made artifacts for contract review, regulatory horizon scans, cite checks, and more.\n\nStart from the built-in example, add your own doc…",
-      "text_zh": null,
-      "summary_zh": "Claude：Legal 场景上线合同审阅等现成产物模板画廊。",
+      "text_zh": "Claude for Legal 新功能：一个现成 Artifact 模板库，涵盖合同审阅、监管动态扫描、引文核查等。\n\n从内置示例开始，加入你自己的文档和连接器，再分享给公司里的任何人。",
+      "summary_zh": "Claude for Legal 上线现成 Artifact 模板库：合同审阅、监管动态扫描、引文核查等，可接入自己的文档和连接器并在公司内共享",
       "created_at": "2026-10-28T15:34:16.000Z",
       "metrics": {
         "likes": 22103,
@@ -1490,8 +1492,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2080749613934682112/RGAD73oR_bigger.jpg",
       "text": "Text-to-speech gets you close. But close isn’t how you’d say it.\n\nSo say it yourself, once. HeyGen Voice STS carries the whole performance over to your avatar, down to every pause, emphasis, and whisper.\n\nTest it here: https://t.co/vLI01FKzbM https://t.co/tgpK6qElKv",
       "text_short": "Text-to-speech gets you close. But close isn’t how you’d say it.\n\nSo say it yourself, once. HeyGen Voice STS carries the whole performance over to your avatar, down to every pause…",
-      "text_zh": null,
-      "summary_zh": "HeyGen：图像/语音/音乐工具更新。",
+      "text_zh": "文字转语音能做到接近，但「接近」不是你自己说话的样子。\n\n那就亲口说一遍。HeyGen Voice STS 会把你的整段表演迁移到数字人身上，连每一次停顿、重音和耳语都不落下。\n\n在这里试试：https://t.co/vLI01FKzbM",
+      "summary_zh": "HeyGen 推出 Voice STS（语音转语音）：你亲口念一遍，就能把停顿、重音和气声完整迁移到数字人身上",
       "created_at": "2026-10-28T17:35:42.000Z",
       "metrics": {
         "likes": 1377,
@@ -1526,7 +1528,7 @@
       "kind_override": null,
       "rec_score": 72,
       "recommended": false,
-      "rec_reason": "HeyGen：图像/语音/音乐工具更新。",
+      "rec_reason": "比文字转语音多保留了真人的表演细节，做数字人口播和广告的团队可直接受益",
       "discussion_summary": "热评提到「取决于噪声类型——稳定的hums/clicks清理良好,」「这让爱尔发卡人感觉更人性化,」等，详见下方回复。",
       "top_replies": [
         {
@@ -1616,8 +1618,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1728327996375719936/RW7VBJfD_bigger.jpg",
       "text": "Yeah, i did *not* expect Gemini 4 Carbon to jump onto the first place on AA new intelligence index 5. That is a big surprise! https://t.co/2yjMPgWO3U",
       "text_short": "Yeah, i did *not* expect Gemini 4 Carbon to jump onto the first place on AA new intelligence index 5. That is a big surprise! https://t.co/2yjMPgWO3U",
-      "text_zh": null,
-      "summary_zh": "kimmonismus：围绕 Gemini 4 Carbon 的评测/解读。",
+      "text_zh": "说实话，我*完全*没想到 Gemini 4 Carbon 会冲上 AA 新智能指数 5 的第一名。真是个大惊喜！",
+      "summary_zh": "Gemini 4 Carbon 冲上 Artificial Analysis 新智能指数 v5 第一，资深观察者也直呼意外",
       "created_at": "2026-10-28T18:08:31.000Z",
       "metrics": {
         "likes": 1016,
@@ -1649,7 +1651,7 @@
       "kind_override": null,
       "rec_score": 71,
       "recommended": false,
-      "rec_reason": "kimmonismus：围绕 Gemini 4 Carbon 的评测/解读。",
+      "rec_reason": "侧面印证 Carbon 的榜单表现超出社区预期，但目前只有评测、还没有公开可用版本",
       "discussion_summary": "热评提到「在Argon两周后,我也没想到会这样 我在看的是长期任务」「每个人都在一个月前宣布谷歌死了 只是因为他们决定\"跳\"一」等，详见下方回复。",
       "top_replies": [
         {
@@ -1739,8 +1741,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2051399921467830272/9RGo_6vv_bigger.jpg",
       "text": "Annndddd Google is in the lead....\n\nAbsurd gains from Argon to Carbon. https://t.co/ew4PjJhMH0",
       "text_short": "Annndddd Google is in the lead....\n\nAbsurd gains from Argon to Carbon. https://t.co/ew4PjJhMH0",
-      "text_zh": null,
-      "summary_zh": "MatthewBerman：围绕 Gemini 4 Carbon 的评测/解读。",
+      "text_zh": "然——后——Google 领先了……\n\n从 Argon 到 Carbon 的提升大得离谱。",
+      "summary_zh": "Gemini 4 Carbon 让 Google 重回领先，距 Argon 发布仅两周就有大幅提升",
       "created_at": "2026-10-28T17:57:39.000Z",
       "metrics": {
         "likes": 628,
@@ -1761,7 +1763,7 @@
       "kind_override": null,
       "rec_score": 71,
       "recommended": false,
-      "rec_reason": "MatthewBerman：围绕 Gemini 4 Carbon 的评测/解读。",
+      "rec_reason": "知名博主背书 Carbon 的跨代提升；热评提醒它暂时只开放给网络安全团队，普通人还用不上",
       "discussion_summary": "热评提到「你只是无法使用它。 我直言不讳地说,这是无用的,因为它是」「对于一个商人来说,他这个礼拜的第一,比你想的要少. Ca」等，详见下方回复。",
       "top_replies": [
         {
@@ -1851,8 +1853,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1767351110228918272/3Pndc5OT_bigger.png",
       "text": "Introducing Vercel CI\n\n• Intelligently skips tasks with Turborepo\n• 2-6× faster CI in our internal repositories\n• Optimized for agents via Vercel MCP and CLI\n\nAfter nearly 8 million tasks, we're excited for the future of agentic CI. In beta on all plans.\nhttps://vercel.com/blog/introducing-vercel-ci",
       "text_short": "Introducing Vercel CI\n\n• Intelligently skips tasks with Turborepo\n• 2-6× faster CI in our internal repositories\n• Optimized for agents via Vercel MCP and CLI\n\nAfter nearly 8 milli…",
-      "text_zh": null,
-      "summary_zh": "vercel：AI 编程工具相关更新。",
+      "text_zh": "推出 Vercel CI\n\n• 借助 Turborepo 智能跳过任务\n• 在我们的内部仓库里 CI 快 2–6 倍\n• 通过 Vercel MCP 和 CLI 为 Agent 优化\n\n在跑了近 800 万个任务之后，我们对 Agentic CI 的未来充满期待。所有套餐均可使用 Beta 版。\nhttps://t.co/IcsuvweAhB",
+      "summary_zh": "Vercel 推出 Vercel CI：借助 Turborepo 智能跳过无变更任务，内部仓库 CI 提速 2–6 倍，并通过 Vercel MCP 和 CLI 为 Agent 优化，全部套餐开放 Beta",
       "created_at": "2026-10-28T19:31:40.000Z",
       "metrics": {
         "likes": 887,
@@ -1884,7 +1886,7 @@
       "kind_override": null,
       "rec_score": 70,
       "recommended": false,
-      "rec_reason": "vercel：AI 编程工具相关更新。",
+      "rec_reason": "Agent 写代码越来越快，CI 正成为新瓶颈；面向 Agent 的 CI 是交付链路上的新基础设施",
       "discussion_summary": "热评提到「我使用来自@mattgapp的Jog, 个人账户比Git」「変更のないタスクを賢くスキップできると、CIの待ち時間を」等，详见下方回复。",
       "top_replies": [
         {
@@ -1987,8 +1989,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1765909640364068865/MvH-m0gd_bigger.jpg",
       "text": "Founded by three 22-year-olds in 2023, @mercor crossed $2B ARR in June, only 4 months after hitting $1B.\n\nToday, millions of experts on the platform bring their knowledge of medicine, law, engineering, and beyond to frontier AI - helping models take on increasingly complex and consequential work in the real world.\n\nMercor's engineers move at extraordinary speed.\n\nThey give Devin long-running tasks before bed, during meetings, or on their way to the gym. They come back to tested features and PRs ready to merge.",
       "text_short": "Founded by three 22-year-olds in 2023, @mercor crossed $2B ARR in June, only 4 months after hitting $1B.\n\nToday, millions of experts on the platform bring their knowledge of medic…",
-      "text_zh": null,
-      "summary_zh": "cognition：AI 编程工具相关更新。",
+      "text_zh": "@mercor 由三位 22 岁的年轻人在 2023 年创立，今年 6 月 ARR 突破 20 亿美元，距突破 10 亿美元仅 4 个月。\n\n如今，平台上数以百万计的专家把医学、法律、工程等领域的知识带给前沿 AI，帮助模型承担越来越复杂、越来越重要的现实工作。\n\nMercor 的工程师行动速度惊人。\n\n他们在睡前、开会时或去健身房的路上把长时间任务交给 Devin，回来时就能看到测试过的功能和可以合并的 PR。",
+      "summary_zh": "Cognition 客户案例：Mercor 6 月 ARR 破 20 亿美元（距 10 亿仅 4 个月），工程师在睡前、开会时把长任务交给 Devin，回来就是测好的功能和可合并的 PR",
       "created_at": "2026-10-28T17:00:01.000Z",
       "metrics": {
         "likes": 429,
@@ -2032,7 +2034,7 @@
       "kind_override": null,
       "rec_score": 70,
       "recommended": false,
-      "rec_reason": "cognition：AI 编程工具相关更新。",
+      "rec_reason": "云端编程 Agent 已进入高增长公司的日常流程，「异步派活」的用法可借鉴；本质也是一则 Devin 客户营销",
       "discussion_summary": "热评提到「云代理是最快增长的公司规模」「默科尔·德文」等，详见下方回复。",
       "top_replies": [
         {
@@ -2134,8 +2136,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1728327996375719936/RW7VBJfD_bigger.jpg",
       "text": "As expected, Kimi 3.1 Pro distilled US frontier models to train their models. This time they distilled GPT-6 Astra. \n\nThe damage to Kimi’s reputation keeps growing. Via the information",
       "text_short": "As expected, Kimi 3.1 Pro distilled US frontier models to train their models. This time they distilled GPT-6 Astra. \n\nThe damage to Kimi’s reputation keeps growing. Via the inform…",
-      "text_zh": null,
-      "summary_zh": "kimmonismus：Agent / 框架 / 工作流动态。",
+      "text_zh": "不出所料，Kimi 3.1 Pro 通过蒸馏美国前沿模型来训练自家模型。这次蒸馏的是 GPT-6 Astra。\n\nKimi 的声誉受损还在扩大。消息来自 The Information",
+      "summary_zh": "据 The Information 报道，Kimi 3.1 Pro 通过蒸馏 GPT-6 Astra 训练，Kimi 的声誉受损进一步扩大",
       "created_at": "2026-10-29T01:04:22.000Z",
       "metrics": {
         "likes": 323,
@@ -2178,7 +2180,7 @@
       "kind_override": null,
       "rec_score": 70,
       "recommended": false,
-      "rec_reason": "kimmonismus：Agent / 框架 / 工作流动态。",
+      "rec_reason": "涉及开放权重模型的蒸馏争议，关系到国产模型的可信度与合规风险（单一信源，有待证实）",
       "discussion_summary": "暂无回复。",
       "top_replies": [],
       "replies_fetched_at": "2026-10-29T02:57:32.767635+00:00",
@@ -2197,8 +2199,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1831493788679761920/-q9w6dzd_bigger.jpg",
       "text": "Google strategically shipped Carbon before OpenAI and Anthropic drop their next gen monsters\n\nI think they are still ~2 months behind",
       "text_short": "Google strategically shipped Carbon before OpenAI and Anthropic drop their next gen monsters\n\nI think they are still ~2 months behind",
-      "text_zh": null,
-      "summary_zh": "scaling01：解读谷歌抢在 OpenAI/Anthropic 大版本前发布 Carbon 的策略。",
+      "text_zh": "Google 有策略地赶在 OpenAI 和 Anthropic 推出下一代「巨兽」之前发布了 Carbon\n\n我觉得他们仍落后约 2 个月",
+      "summary_zh": "观点：谷歌抢在 OpenAI、Anthropic 下一代模型前发布 Carbon 是卡位之举，但整体仍落后约两个月",
       "created_at": "2026-10-28T17:53:28.000Z",
       "metrics": {
         "likes": 1186,
@@ -2309,8 +2311,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1728327996375719936/RW7VBJfD_bigger.jpg",
       "text": "NVIDIA is releasing an open speech model that can transcribe a meeting, label who said what, translate it and answer questions about the recording:\n\nNemotron 3.5 Transcribe supports:\n- Transcription in 40 languages\n- Translation between English and 31 languages\n- Up to eight speakers, with speaker labels in 13 languages\n- Recordings up to an hour long\n\nYou can give it names and technical terms to guide the transcript, or ask questions about the audio. Audio Q&A is trained in English.\n\nIt has roughly 30B parameters, with about 4B active per token, and can run on your own NVIDIA GPU.\n\nAccording to NVIDIA's launch materials, it ranks first among open-weight models on Hugging Face's English Open ASR leaderboard and leads VoiceArena's 14-system test of transcription with speaker attribution.\n\nBuilt for recorded audio. Live streaming uses a separate model.\n\nSuper cool to see!\n\nModel: https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B\nDemo: https://huggingface.co/spaces/nvidia/nemotron-transcribe\nBlog: https://huggingface.co/blog/nvidia/nemotron-transcribe-granary/",
       "text_short": "NVIDIA is releasing an open speech model that can transcribe a meeting, label who said what, translate it and answer questions about the recording:\n\nNemotron 3.5 Transcribe suppor…",
-      "text_zh": null,
-      "summary_zh": "kimmonismus：Agent / 框架 / 工作流动态。",
+      "text_zh": "NVIDIA 正在发布一个开放的语音模型，能转写会议、标注谁说了什么、翻译内容，并回答关于录音的问题：\n\nNemotron 3.5 Transcribe 支持：\n- 40 种语言的转写\n- 英语与 31 种语言之间互译\n- 最多 8 位说话人，13 种语言的说话人标注\n- 最长一小时的录音\n\n你可以给它提供人名和专业术语来引导转写，也可以就音频内容提问。音频问答目前只针对英语训练。\n\n它约有 300 亿参数，每个 token 激活约 40 亿，可以在你自己的 NVIDIA GPU 上运行。\n\n据 NVIDIA 发布材料，它在 Hugging Face 英语 Open ASR 排行榜的开放权重模型中排名第一，并在 VoiceArena 针对 14 个系统的「带说话人归属的转写」测试中领先。\n\n专为录制音频打造，实时流式场景使用另一个模型。\n\n太酷了！\n\n模型：https://t.co/jEe0LRZoqg\n演示：https://t.co/xIr5mf0PCV\n博客：https://t.co/mQk95Waudq",
+      "summary_zh": "NVIDIA 开源语音模型 Nemotron 3.5 Transcribe：40 种语言转写、英语与 31 种语言互译、最多 8 人说话人标注和录音问答，约 30B 参数/4B 激活，可在自家 GPU 上本地运行",
       "created_at": "2026-10-28T20:45:10.000Z",
       "metrics": {
         "likes": 485,
@@ -2379,7 +2381,7 @@
       "kind_override": null,
       "rec_score": 67,
       "recommended": false,
-      "rec_reason": "kimmonismus：Agent / 框架 / 工作流动态。",
+      "rec_reason": "开放权重、可本地部署的「转写 + 说话人分离 + 问答」一体模型，做会议纪要和语音产品的团队可直接评估",
       "discussion_summary": "热评提到「一小时内有八位演讲者 线化中断了 标签被分配在一个音频窗」「语音代理号码是我看的 Agenda. 在人工分析代理 太」等，详见下方回复。",
       "top_replies": [
         {
@@ -2496,8 +2498,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1831493788679761920/-q9w6dzd_bigger.jpg",
       "text": "Google actually kind of cooked with the element naming\n\nGemini 4 Krypton would go hard",
       "text_short": "Google actually kind of cooked with the element naming\n\nGemini 4 Krypton would go hard",
-      "text_zh": null,
-      "summary_zh": "scaling01：模型与评测动态。",
+      "text_zh": "Google 这次用化学元素命名真有一手\n\nGemini 4 Krypton 听起来会很猛",
+      "summary_zh": "Google 用化学元素给 Gemini 命名（Argon → Carbon），网友调侃下一个该叫 Krypton",
       "created_at": "2026-10-28T17:43:51.000Z",
       "metrics": {
         "likes": 735,
@@ -2518,7 +2520,7 @@
       "kind_override": null,
       "rec_score": 65,
       "recommended": false,
-      "rec_reason": "scaling01：模型与评测动态。",
+      "rec_reason": "纯调侃，信息量低；热评笑称照两周一个元素的节奏，圣诞节就到 Krypton 了",
       "discussion_summary": "热评提到「命名过去不是我们的要塞:」「每个单元2周。 这么快就被圣诞节用克里普顿?」等，详见下方回复。",
       "top_replies": [
         {
@@ -2608,8 +2610,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1601382188712398850/3AAOlqrX_bigger.jpg",
       "text": "Artificial Analysis finally moves to closed benchmarks (goodbye GDPval-AA), and finds that open weights models are falling  further behind than they had previously measured. Take with a grain of salt, but matches the general vibes that we haven't seen a Fable-class open model. https://twitter.com/ArtificialAnlys/status/2115265171233120627",
       "text_short": "Artificial Analysis finally moves to closed benchmarks (goodbye GDPval-AA), and finds that open weights models are falling  further behind than they had previously measured. Take…",
-      "text_zh": null,
-      "summary_zh": "emollick：Agent / 框架 / 工作流动态。",
+      "text_zh": "Artificial Analysis 终于改用闭源基准（再见了 GDPval-AA），并发现开放权重模型落后的幅度比此前测得的还要大。可以保留一点怀疑，但这和大家的整体感受一致：我们还没见到 Fable 级别的开放模型。 https://twitter.com/ArtificialAnlys/status/2115265171233120627",
+      "summary_zh": "Artificial Analysis 改用闭源测试集（告别 GDPval-AA），发现开放权重模型落后前沿的差距比此前测得更大",
       "created_at": "2026-10-28T02:59:39.000Z",
       "metrics": {
         "likes": 1582,
@@ -2640,7 +2642,7 @@
       "kind_override": null,
       "rec_score": 64,
       "recommended": false,
-      "rec_reason": "emollick：Agent / 框架 / 工作流动态。",
+      "rec_reason": "评测方法一换，开源领先者与榜首的差距从 3 分拉大到 12 分；用开源模型做产品前要重新评估能力缺口",
       "discussion_summary": "热评提到「关闭集将一个信任问题换成另一个信任问题。 在“模型是否看」「有线阶级也以小东西出现. 当我在二十个问题前用散文封印它」等，详见下方回复。",
       "top_replies": [
         {
@@ -2730,8 +2732,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2000865949298176002/0GW70YnP_bigger.jpg",
       "text": "Been following Divesh since day zero. \nThis is really ground breaking technology. \n\nI’m so stoked to see what people will create with this. https://twitter.com/diveshnaidoo/status/2115477721455214623",
       "text_short": "Been following Divesh since day zero. \nThis is really ground breaking technology. \n\nI’m so stoked to see what people will create with this. https://twitter.com/diveshnaidoo/status…",
-      "text_zh": null,
-      "summary_zh": "LinusEkenstam：Agent / 框架 / 工作流动态。",
+      "text_zh": "从第一天起就在关注 Divesh。\n这真的是开创性的技术。\n\n非常期待看到大家用它创作出什么。 https://twitter.com/diveshnaidoo/status/2115477721455214623",
+      "summary_zh": "Simulon 推出「现实感知渲染」：用手机摆放神经资产并亲自表演，停止录制后 AI 读取动作、台词和环境，重新生成整段画面，现已上架 iPhone",
       "created_at": "2026-10-28T18:54:30.000Z",
       "metrics": {
         "likes": 827,
@@ -2762,7 +2764,7 @@
       "kind_override": null,
       "rec_score": 64,
       "recommended": false,
-      "rec_reason": "LinusEkenstam：Agent / 框架 / 工作流动态。",
+      "rec_reason": "手机就能做混合现实拍摄，AI 视频从「凭空生成」走向「按真人表演重渲染」；热评指出部分细节仍有破绽",
       "discussion_summary": "热评提到「忽略虚拟道具,并在两个视频中观看他的手. 它们不匹配。 」「看到你们投入的惊人作品和奉献,」等，详见下方回复。",
       "top_replies": [
         {
@@ -2852,8 +2854,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2042402069320290304/A8C1lP07_bigger.jpg",
       "text": "In AA-PersonalityBench, GPT-6 and Grok models are the most Direct and most likely to use an Answer First format of all models measured\n\nThe Direct trait assesses whether models get to the point quickly without unnecessary filler; Answer First measures whether models lead with the answer before providing additional context, reasoning or caveats.\n\n➤ Most Direct: GPT-6 Sol (100), Grok 4.6 (98) and Grok 4.7 (95)\n➤ Most likely to use an Answer First form: Grok 4.5 (100), GPT-6 Sol (98) and GPT-6 Luna (95)",
       "text_short": "In AA-PersonalityBench, GPT-6 and Grok models are the most Direct and most likely to use an Answer First format of all models measured\n\nThe Direct trait assesses whether models ge…",
-      "text_zh": null,
-      "summary_zh": "ArtificialAnlys：Agent / 框架 / 工作流动态。",
+      "text_zh": "在 AA-PersonalityBench 中，GPT-6 和 Grok 系列是所有被测模型里最「直接」、也最常采用「先给答案」格式的\n\n「直接」衡量模型能否迅速切入重点、不加多余铺垫；「先给答案」衡量模型是否先给出答案，再补充背景、推理或注意事项。\n\n➤ 最直接：GPT-6 Sol（100）、Grok 4.6（98）和 Grok 4.7（95）\n➤ 最常先给答案：Grok 4.5（100）、GPT-6 Sol（98）和 GPT-6 Luna（95）",
+      "summary_zh": "Artificial Analysis 性格评测：GPT-6 和 Grok 系列最「直接」、最常先给答案，GPT-6 Sol 与 Grok 4.5–4.7 位居前列",
       "created_at": "2026-10-28T20:15:30.000Z",
       "metrics": {
         "likes": 257,
@@ -2896,7 +2898,7 @@
       "kind_override": null,
       "rec_score": 64,
       "recommended": false,
-      "rec_reason": "ArtificialAnlys：Agent / 框架 / 工作流动态。",
+      "rec_reason": "回答风格也开始被量化评测，做面向用户的产品选模型时可参考「直给」程度",
       "discussion_summary": "热评提到「您能否将基准作为开源提供, 这样我们也可以测试特殊模式 」「感谢大家的观察。 \"高直接和答 什么事\" \"第一分\" 意」等，详见下方回复。",
       "top_replies": [
         {
@@ -2988,8 +2990,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1745232634278461440/7gQcr_R__bigger.jpg",
       "text": "Grok Bot just had its biggest update yet\n\nIt introduces pages and dashboards, 2 things that solve Grok's BIGGEST problem\n\nIn this video I cover how I made 5 dashboards that make Grok Bot SO much nicer to use, including one that has saved me a TON of usage:",
       "text_short": "Grok Bot just had its biggest update yet\n\nIt introduces pages and dashboards, 2 things that solve Grok's BIGGEST problem\n\nIn this video I cover how I made 5 dashboards that make G…",
-      "text_zh": null,
-      "summary_zh": "AlexFinn：Agent / 框架 / 工作流动态。",
+      "text_zh": "Grok Bot 刚迎来迄今最大的一次更新\n\n它引入了页面（Pages）和仪表盘，这两样解决了 Grok 最大的问题\n\n在这个视频里，我讲了自己做的 5 个仪表盘如何让 Grok Bot 好用得多，其中一个帮我省下了大量用量：",
+      "summary_zh": "Grok Bot 迎来迄今最大更新：新增页面（Pages）和仪表盘，视频演示搭建 5 个仪表盘，其中一个大幅节省了用量",
       "created_at": "2026-10-29T00:07:00.000Z",
       "metrics": {
         "likes": 680,
@@ -3034,7 +3036,7 @@
       "kind_override": null,
       "rec_score": 62,
       "recommended": false,
-      "rec_reason": "AlexFinn：Agent / 框架 / 工作流动态。",
+      "rec_reason": "页面和仪表盘让个人 Agent 的状态与产出一目了然；省用量的那个仪表盘对日常重度用户最实用",
       "discussion_summary": "热评提到「如果你把这个帖子交给你的机器人,」「自动启动整个铅源管道: 对其他研究, 100+n8n 铅」等，详见下方回复。",
       "top_replies": [
         {
@@ -3124,8 +3126,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2019406331955015683/XHe0v8Gq_bigger.jpg",
       "text": "LiveBench finally reflects real-world performance\n\n- Fable 5.1 and Astra are on top\n- Opus 5.5, not far behind, excels at design\n- Argon beats Terra, good at data analysis\n- Google beats open-source for the first time\n- DeepSeek is the top open-source model",
       "text_short": "LiveBench finally reflects real-world performance\n\n- Fable 5.1 and Astra are on top\n- Opus 5.5, not far behind, excels at design\n- Argon beats Terra, good at data analysis\n- Googl…",
-      "text_zh": null,
-      "summary_zh": "bindureddy：Agent / 框架 / 工作流动态。",
+      "text_zh": "LiveBench 终于反映了真实世界的表现\n\n- Fable 5.1 和 Astra 位居榜首\n- Opus 5.5 紧随其后，擅长设计\n- Argon 胜过 Terra，擅长数据分析\n- Google 首次超过开源模型\n- DeepSeek 是最强的开源模型",
+      "summary_zh": "LiveBench 新榜：Fable 5.1 与 Astra 领先，Opus 5.5 紧随其后且擅长设计，Argon 胜过 Terra，Google 首次超过开源模型，DeepSeek 为最强开源模型",
       "created_at": "2026-10-28T14:36:17.000Z",
       "metrics": {
         "likes": 429,
@@ -3168,7 +3170,7 @@
       "kind_override": null,
       "rec_score": 62,
       "recommended": false,
-      "rec_reason": "bindureddy：Agent / 框架 / 工作流动态。",
+      "rec_reason": "又一份第三方综合榜，可与 AA v5 交叉对照选型（榜单方自称这次终于贴近真实表现）",
       "discussion_summary": "暂无回复。",
       "top_replies": [],
       "replies_fetched_at": "2026-10-29T02:57:32.767635+00:00",
@@ -3187,8 +3189,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2042402069320290304/A8C1lP07_bigger.jpg",
       "text": "Same robot, same task, two models with very different writing styles\n\n➤ On the left, Claude Opus 5.5 dabs out \"hello world\" dot by dot: 3,270 arm moves over 34 minutes\n\n➤ On the right, GPT-6 Astra writes in continuous strokes: 514 moves in 13 minutes\n\nFrom AA-Robotics v0.1, seen from the model’s view\n\nSee more examples here: https://artificialanalysis.ai/articles/aa-robotics",
       "text_short": "Same robot, same task, two models with very different writing styles\n\n➤ On the left, Claude Opus 5.5 dabs out \"hello world\" dot by dot: 3,270 arm moves over 34 minutes\n\n➤ On the r…",
-      "text_zh": null,
-      "summary_zh": "ArtificialAnlys：Agent / 框架 / 工作流动态。",
+      "text_zh": "同一台机器人、同一个任务，两个书写风格截然不同的模型\n\n➤ 左边，Claude Opus 5.5 一个点一个点地点出「hello world」：34 分钟内机械臂动作 3270 次\n\n➤ 右边，GPT-6 Astra 用连续笔画书写：13 分钟内动作 514 次\n\n来自 AA-Robotics v0.1，以模型视角拍摄\n\n更多示例见：https://t.co/kdK54pA4Dv",
+      "summary_zh": "AA-Robotics v0.1：同一台机械臂写「hello world」，Claude Opus 5.5 逐点描画用了 3270 步、34 分钟，GPT-6 Astra 连笔书写只要 514 步、13 分钟",
       "created_at": "2026-10-28T22:12:18.000Z",
       "metrics": {
         "likes": 263,
@@ -3234,7 +3236,7 @@
       "kind_override": null,
       "rec_score": 62,
       "recommended": false,
-      "rec_reason": "ArtificialAnlys：Agent / 框架 / 工作流动态。",
+      "rec_reason": "大模型直接驱动机械臂的效率可差好几倍，具身智能方向的评测开始成形",
       "discussion_summary": "暂无回复。",
       "top_replies": [],
       "replies_fetched_at": "2026-10-29T02:57:32.767635+00:00",
@@ -3266,8 +3268,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2019406331955015683/XHe0v8Gq_bigger.jpg",
       "text": "AI has pretty much solved coding \n\nThe next big frontier is physics. The math problems that AI is cracking right now is a stepping stone to physics \n\nA seminal physics breakthrough can lead to solving for near free infinite energy! \n\nOf course, this would automatically bring in the age of abundance and to think this can happen in a year! ❤️",
       "text_short": "AI has pretty much solved coding \n\nThe next big frontier is physics. The math problems that AI is cracking right now is a stepping stone to physics \n\nA seminal physics breakthroug…",
-      "text_zh": null,
-      "summary_zh": "bindureddy：Agent / 框架 / 工作流动态。",
+      "text_zh": "AI 基本上已经解决了编程\n\n下一个大前沿是物理。AI 现在攻克的数学问题，是通往物理的垫脚石\n\n一项开创性的物理突破，可能带来近乎免费的无限能源！\n\n当然，这会自然而然地带来富足时代，想想这可能在一年内发生！❤️",
+      "summary_zh": "观点：AI 基本解决了编程，下一个前沿是物理，物理突破可能带来近乎免费的能源，甚至一年内就会发生",
       "created_at": "2026-10-28T05:19:07.000Z",
       "metrics": {
         "likes": 272,
@@ -3288,7 +3290,7 @@
       "kind_override": null,
       "rec_score": 61,
       "recommended": false,
-      "rec_reason": "bindureddy：Agent / 框架 / 工作流动态。",
+      "rec_reason": "代表一种激进乐观叙事，可作行业情绪参考；热评里的物理创业者提醒，物理必须在实验室里验证",
       "discussion_summary": "热评提到「喜欢热情。 但是,作为一个在物理学前沿工作的深科技独角兽」「可以加快生物(和健康)方面的进展。 通过开发能够超越培训」等，详见下方回复。",
       "top_replies": [
         {
@@ -3380,8 +3382,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1783856060249595904/8TfcCN0r_bigger.jpg",
       "text": "Theo cooked https://twitter.com/vercel_dev/status/2115491309591167359",
       "text_short": "Theo cooked https://twitter.com/vercel_dev/status/2115491309591167359",
-      "text_zh": null,
-      "summary_zh": "rauchg：AI 编程工具相关更新。",
+      "text_zh": "Theo 这次干得漂亮 https://twitter.com/vercel_dev/status/2115491309591167359",
+      "summary_zh": "Vercel 开源 Agent harness fx 成为 T3 Code 内置提供方，网页、桌面、移动端都能用，可沿用已有模型和技能",
       "created_at": "2026-10-28T18:02:29.000Z",
       "metrics": {
         "likes": 704,
@@ -3412,7 +3414,7 @@
       "kind_override": null,
       "rec_score": 60,
       "recommended": false,
-      "rec_reason": "rauchg：AI 编程工具相关更新。",
+      "rec_reason": "Vercel 把自家 Agent harness 嵌进第三方编程工具，开源 harness 的分发竞争在加速",
       "discussion_summary": "热评提到「哥们是个有钱的Theo Shill, smdh」「当点击\"显示更多\"时,我完全错过了fx,并专注于下面的搜」等，详见下方回复。",
       "top_replies": [
         {
@@ -3503,7 +3505,7 @@
       "text": "万万没想到！豆包居然能做出这种效果！！\nOpus 5.5 最让人眼馋的能力，现在连 GPT、豆包都能玩了？\n\n只需要给豆包接入一个 MCP，就能让 AI Agent 从零开始，给你做出一条完整的视频！！\n真的要吹爆！最近上线的 Renoise MCP！\n它最离谱的地方，是把 Opus 5.5 那种 Agent 全自动视频制作工作流，搬到了更多Agent 上！\n内置了Director Mode，预装 ffmpeg/Python/Chromium/ManimGX，完全可以实现Code-Built-Video！\n接上 Renoise MCP后，你只需要告诉需求，它就会先理解产品，构思创意、编写分镜；\n再调用 Seedance、Kling、MiniMax 等模型生成素材；\n然后直接在云端写代码，完成动效、剪辑、转场、字幕、配乐；\n最后自动渲染导出，直接交付成片！！\n\n本来想录个制作视频的过程，但无奈的是，整个过程实在是太简单了！！\n重点来了！！很多 AI 视频工具做到素材生成就结束了，Renoise MCP 连后期剪辑和包装都能接着干完！\n而且，它还内置了一大堆现成的 Skill！\n产品发布片、电商广告、3D 动画、UI 动效、动态信息图、爆款视频复刻……\n甚至可以直接丢一条参考视频，让 Agent 分析它的镜头语言、节奏和动效，再用自己的素材做出同风格的成片！\n需要继续精修，还可以导出剪映草稿工程！\n\n关键来了！Renoise MCP 不绑定某一个大模型。\nCodex、Claude Code，豆包工作，workbuddy，这些Agent工具，都可以直接复用这套能力。\n刚好万圣节，官方还上新一波活动！\n10 月 27 日至 11 月 2 日，订阅最高 7 折！\n指定套餐还有视频模型限时不限量的超级福利！！\n包括 Seedance 2.5、Wan 3.0、Kling 4.0 Omni 等等！\n\n感兴趣可以去体验一下 Renoise MCP，入口放评论区！",
       "text_short": "万万没想到！豆包居然能做出这种效果！！\nOpus 5.5 最让人眼馋的能力，现在连 GPT、豆包都能玩了？\n\n只需要给豆包接入一个 MCP，就能让 AI Agent 从零开始，给你做出一条完整的视频！！\n真的要吹爆！最近上线的 Renoise MCP！\n它最离谱的地方，是把 Opus 5.5 那种 Agent 全自动视频制作工作流，搬到了更多Agent 上…",
       "text_zh": "万万没想到！豆包居然能做出这种效果！！\nOpus 5.5 最让人眼馋的能力，现在连 GPT、豆包都能玩了？\n\n只需要给豆包接入一个 MCP，就能让 AI Agent 从零开始，给你做出一条完整的视频！！\n真的要吹爆！最近上线的 Renoise MCP！\n它最离谱的地方，是把 Opus 5.5 那种 Agent 全自动视频制作工作流，搬到了更多Agent 上！\n内置了Director Mode，预装 ffmpeg/Python/Chromium/ManimGX，完全可以实现Code-Built-Video！\n接上 Renoise MCP后，你只需要告诉需求，它就会先理解产品，构思创意、编写分镜；\n再调用 Seedance、Kling、MiniMax 等模型生成素材；\n然后直接在云端写代码，完成动效、剪辑、转场、字幕、配乐；\n最后自动渲染导出，直接交付成片！！\n\n本来想录个制作视频的过程，但无奈的是，整个过程实在是太简单了！！\n重点来了！！很多 AI 视频工具做到素材生成就结束了，Renoise MCP 连后期剪辑和包装都能接着干完！\n而且，它还内置了一大堆现成的 Skill！\n产品发布片、电商广告、3D 动画、UI 动效、动态信息图、爆款视频复刻……\n甚至可以直接丢一条参考视频，让 Agent 分析它的镜头语言、节奏和动效，再用自己的素材做出同风格的成片！\n需要继续精修，还可以导出剪映草稿工程！\n\n关键来了！Renoise MCP 不绑定某一个大模型。\nCodex、Claude Code，豆包工作，workbuddy，这些Agent工具，都可以直接复用这套能力。\n刚好万圣节，官方还上新一波活动！\n10 月 27 日至 11 月 2 日，订阅最高 7 折！\n指定套餐还有视频模型限时不限量的超级福利！！\n包括 Seedance 2.5、Wan 3.0、Kling 4.0 Omni 等等！\n\n感兴趣可以去体验一下 Renoise MCP，入口放评论区！",
-      "summary_zh": "万万没想到。豆包居然能做出这种效果。Opus 5.5 最让人眼馋的能力，现在连 GPT、豆包都能玩了？ 只需要给豆包接入一个 MCP，就能让 AI Agent 从零开始，给你做出一条完整的视频。真的要吹爆。最近上线的 Renoise MCP。它最离谱的地方，是把 Opus 5.5 那种 Agent 全自动视频制作工作流，搬到了更多Agent 上。",
+      "summary_zh": "Renoise MCP 让豆包、GPT、Codex、Claude Code 等 Agent 也能全自动做视频：理解需求、写分镜、调用 Seedance/Kling 生成素材，再剪辑渲染出片，可导出剪映草稿",
       "created_at": "2026-10-29T01:43:45.000Z",
       "metrics": {
         "likes": 15,
@@ -3549,7 +3551,7 @@
       "kind_override": null,
       "rec_score": 60,
       "recommended": false,
-      "rec_reason": "万万没想到。豆包居然能做出这种效果。Opus 5.5 最让人眼馋的能力，现在连 GPT、豆包都能玩了？ 只需要给豆包接入一个 MCP，就能让 AI Agent 从零开始，给你做出一——值得跟进",
+      "rec_reason": "把 Agent 视频生产链路做成跨模型 MCP，做营销短片可省掉后期；帖子带促销信息，偏推广",
       "discussion_summary": "暂无回复。",
       "top_replies": [],
       "replies_fetched_at": "2026-10-29T02:57:32.767635+00:00",
@@ -3570,8 +3572,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1897858917507776512/TRVTyKFk_bigger.jpg",
       "text": "Imagine an alien species lands on Earth. They’re incredibly intelligent, especially good with software and computers, and mostly want to help humans get things done.\n\nBut they’re also unpredictable. They can misunderstand your instructions, and because they’re so powerful, a small misunderstanding can cause tremendous harm.\n\nHow do we integrate them into the economy and unlock their productivity while minimizing the risk?\n\nYou build a habitat where they can do great work, with boundaries that contain the damage when things go wrong.\n\nThat’s how we at Replit think about AI agents.\n\nToday we’re sharing our secure Agent Habitat architecture: our blueprint for integrating agents into the enterprise.",
       "text_short": "Imagine an alien species lands on Earth. They’re incredibly intelligent, especially good with software and computers, and mostly want to help humans get things done.\n\nBut they’re…",
-      "text_zh": null,
-      "summary_zh": "amasad：AI 编程工具相关更新。",
+      "text_zh": "想象一个外星物种降落地球。它们极其聪明，尤其擅长软件和计算机，而且大多只想帮人类把事情做好。\n\n但它们也难以预测。它们可能误解你的指令，而且因为能力太强，一个小小的误解就可能造成巨大伤害。\n\n我们该如何把它们融入经济、释放它们的生产力，同时把风险降到最低？\n\n你得为它们建一个栖息地：让它们能出色地工作，同时设好边界，在出问题时把损失圈住。\n\n这就是我们 Replit 看待 AI Agent 的方式。\n\n今天我们分享安全的 Agent Habitat 架构：我们把 Agent 融入企业的蓝图。",
+      "summary_zh": "Replit 发布安全的 Agent Habitat 架构：把 AI Agent 比作能力强但难以预测的外星人，给它们一个能放手干活、出错时又能圈住损失的「栖息地」，作为企业引入 Agent 的蓝图",
       "created_at": "2026-10-28T16:45:25.000Z",
       "metrics": {
         "likes": 468,
@@ -3592,7 +3594,7 @@
       "kind_override": null,
       "rec_score": 59,
       "recommended": false,
-      "rec_reason": "amasad：AI 编程工具相关更新。",
+      "rec_reason": "企业部署 Agent 绕不开权限与隔离，Replit 给出可参考的边界设计思路",
       "discussion_summary": "热评提到「有边界的栖息地是很好的表达方法. 这就是通过大公司的安全」「🤣🤣 现在我们必须避免让外星人发疯!」等，详见下方回复。",
       "top_replies": [
         {
@@ -3684,8 +3686,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1783856060249595904/8TfcCN0r_bigger.jpg",
       "text": "Vercel CI solves the \"AI coding bottleneck\" via:\n① Fast and stable infrastructure (faster work)\n② Turborepo integration (less work)\n③ Agentic CI\n\n① is obvious. Your CI is slow, flaky, goes down. We solve that. We operate 20 worldwide clusters doing millions of microVMs per day.\n\n② is less obvious, but very powerful. Turborepo was designed to intelligently skip and cache prior work. The graph of dependencies is computed, not written. \n\nAsk your agent to migrate to @turborepo and start saving money and time. Even if you don't use us. But you should, it's really good.\n\n③ is a game-changer. 𝚟𝚎𝚛𝚌𝚎𝚕 𝚌𝚒 in the CLI is the first step, because now your agents can inspect, abort, trigger, replay CI. Vercel Agent can help optimize it. And this is just the start.\n\nYou can expect a lot of hooks and capabilities to make CI something far more intelligent, that can even capture the nuance and judgment an engineer would have (\"Are those tests even worth running?\")\n\nAgentic CI is the future of how we ship software. Excited to build it with you all!",
       "text_short": "Vercel CI solves the \"AI coding bottleneck\" via:\n① Fast and stable infrastructure (faster work)\n② Turborepo integration (less work)\n③ Agentic CI\n\n① is obvious. Your CI is slow, fl…",
-      "text_zh": null,
-      "summary_zh": "rauchg：AI 编程工具相关更新。",
+      "text_zh": "Vercel CI 通过以下方式解决「AI 编程瓶颈」：\n① 快速稳定的基础设施（干活更快）\n② Turborepo 集成（活更少）\n③ Agentic CI\n\n① 显而易见。你的 CI 又慢又不稳定，还会宕机。我们解决这个问题。我们在全球运营 20 个集群，每天跑数百万个 microVM。\n\n② 没那么显而易见，但非常强大。Turborepo 的设计就是智能地跳过和缓存之前的工作。依赖关系图是计算出来的，不是手写的。\n\n让你的 Agent 迁移到 @turborepo，开始省钱省时间。即使你不用我们的服务也行。不过你应该用，真的很好用。\n\n③ 会改变游戏规则。CLI 里的 vercel ci 是第一步，因为现在你的 Agent 可以检查、中止、触发、重放 CI。Vercel Agent 可以帮你优化它。而这只是开始。\n\n接下来会有大量钩子和能力，让 CI 变得更智能，甚至能捕捉工程师才有的细微判断（「这些测试真的值得跑吗？」）。\n\nAgentic CI 是我们交付软件的未来。很高兴和大家一起打造它！",
+      "summary_zh": "Guillermo Rauch 解读 Vercel CI 如何破解「AI 编程瓶颈」：快而稳的基础设施、Turborepo 跳过与缓存，以及 Agent 可检查、中止、触发、重放的 Agentic CI",
       "created_at": "2026-10-28T20:21:18.000Z",
       "metrics": {
         "likes": 297,
@@ -3715,7 +3717,7 @@
       "kind_override": null,
       "rec_score": 59,
       "recommended": false,
-      "rec_reason": "rauchg：AI 编程工具相关更新。",
+      "rec_reason": "讲清 Agentic CI 路线图：未来由 Agent 判断哪些测试值得跑，CI 自动化方向值得关注",
       "discussion_summary": "热评提到「被低估的位点是vc ci grep横跨运行. 特工们喜欢」「AI 写代码已经很快了，瓶颈正在转向测试和交付。让 Ag」等，详见下方回复。",
       "top_replies": [
         {
@@ -3817,8 +3819,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_bigger.jpg",
       "text": "crons are a simple technology but can be used in a bunch of ways to unlock new capabilities in agent harnesses:\n- memory (dreaming)\n- proactiveness\n- user reminders\n\nand more! https://twitter.com/ndrezn/status/2115477935482118345",
       "text_short": "crons are a simple technology but can be used in a bunch of ways to unlock new capabilities in agent harnesses:\n- memory (dreaming)\n- proactiveness\n- user reminders\n\nand more! htt…",
-      "text_zh": null,
-      "summary_zh": "hwchase17：Agent / 框架 / 工作流动态。",
+      "text_zh": "cron 是一项很简单的技术，但可以用很多方式为 Agent harness 解锁新能力：\n- 记忆（「做梦」）\n- 主动性\n- 用户提醒\n\n等等！ https://twitter.com/ndrezn/status/2115477935482118345",
+      "summary_zh": "LangChain 的 Harrison Chase：cron 定时任务虽然简单，却能给 Agent harness 带来记忆（夜间「做梦」）、主动性和用户提醒等新能力",
       "created_at": "2026-10-28T16:24:19.000Z",
       "metrics": {
         "likes": 155,
@@ -3849,7 +3851,7 @@
       "kind_override": null,
       "rec_score": 59,
       "recommended": false,
-      "rec_reason": "hwchase17：Agent / 框架 / 工作流动态。",
+      "rec_reason": "大多数「主动式 Agent」本质是带提示词的定时任务，用最朴素的技术就能做出主动提醒和记忆整理",
       "discussion_summary": "热评提到「我大部分的X机器人就是这个-- 一个每时每刻都会醒过来的」「梦到一个头巾 是一个让我有点害怕。 运行时没人在看 所以」等，详见下方回复。",
       "top_replies": [
         {
@@ -3939,8 +3941,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_bigger.jpg",
       "text": "Runway Dev is now on Codex\n\nOne plugin install gives Codex everything it needs to build Runway’s API into your app. Describe what your app should generate and let Codex build the integration autonomously. Get started at the link below. https://t.co/vz149cFZ8A",
       "text_short": "Runway Dev is now on Codex\n\nOne plugin install gives Codex everything it needs to build Runway’s API into your app. Describe what your app should generate and let Codex build the…",
-      "text_zh": null,
-      "summary_zh": "runwayml：AI 视频产品或创作分享。",
+      "text_zh": "Runway Dev 现已登陆 Codex\n\n安装一个插件，Codex 就拥有把 Runway API 集成进你应用所需的一切。描述你的应用要生成什么，让 Codex 自主完成集成。从下方链接开始。 https://t.co/vz149cFZ8A",
+      "summary_zh": "Runway Dev 上架 Codex 插件：装一个插件、描述想生成的内容，Codex 就能自主把 Runway API 集成进你的应用",
       "created_at": "2026-10-28T18:27:54.000Z",
       "metrics": {
         "likes": 132,
@@ -3975,7 +3977,7 @@
       "kind_override": null,
       "rec_score": 59,
       "recommended": false,
-      "rec_reason": "runwayml：AI 视频产品或创作分享。",
+      "rec_reason": "视频生成 API 直接接入编程 Agent，给应用加 AI 视频功能的集成成本进一步降低",
       "discussion_summary": "热评提到「跑道的docs说这是MCP+7技能. 插件没有 API 」「OK 这有道理, mcp + 7 技能 和密钥保持服务器」等，详见下方回复。",
       "top_replies": [
         {
@@ -4065,8 +4067,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_bigger.png",
       "text": "Dive into new topics with immersive explorations in Gemini.\n\nWhether it’s tracing trade routes on the Silk Road, peering inside a jet engine, or studying the physics of lightning, each scene unfolds into interactive layers with guided explanations that let you dig even deeper.",
       "text_short": "Dive into new topics with immersive explorations in Gemini.\n\nWhether it’s tracing trade routes on the Silk Road, peering inside a jet engine, or studying the physics of lightning,…",
-      "text_zh": null,
-      "summary_zh": "GeminiApp：AI 编程工具相关更新。",
+      "text_zh": "在 Gemini 里用沉浸式探索深入了解新话题。\n\n无论是追溯丝绸之路的贸易路线、窥探喷气发动机内部，还是研究闪电的物理原理，每个场景都会展开成可交互的分层内容，并配有引导讲解，让你挖得更深。",
+      "summary_zh": "Gemini 推出沉浸式探索：丝绸之路、喷气发动机内部、闪电物理等主题会展开成可交互的分层场景，并配有引导讲解",
       "created_at": "2026-10-28T18:12:49.000Z",
       "metrics": {
         "likes": 784,
@@ -4087,7 +4089,7 @@
       "kind_override": null,
       "rec_score": 58,
       "recommended": false,
-      "rec_reason": "GeminiApp：AI 编程工具相关更新。",
+      "rec_reason": "AI 学习产品从文字问答走向交互式可视化，做教育类产品可参考",
       "discussion_summary": "热评提到「我们为什么要假设这有什么不同呢? 完全无视我 就像你做我」「我觉得你该怎么解释? 现在Coinbase钱包通过超液化」等，详见下方回复。",
       "top_replies": [
         {
@@ -4177,8 +4179,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1601382188712398850/3AAOlqrX_bigger.jpg",
       "text": "Genie 4: \"Scene: A Victorian high tea. Character: A mouse in appropriate garb.\"\n\"A porcupine walks by\"\n\"The mouse grows wings\"\n\"The mouse flies to the teacup\"\nThis is realtime &amp; I can walk around freely.\n\nIt is glitchy, but also impossibly advanced compared to a couple years ago.",
       "text_short": "Genie 4: \"Scene: A Victorian high tea. Character: A mouse in appropriate garb.\"\n\"A porcupine walks by\"\n\"The mouse grows wings\"\n\"The mouse flies to the teacup\"\nThis is realtime &am…",
-      "text_zh": null,
-      "summary_zh": "emollick：Agent / 框架 / 工作流动态。",
+      "text_zh": "Genie 4：「场景：维多利亚式下午茶。角色：一只穿着得体礼服的老鼠。」\n「一只豪猪走过」\n「老鼠长出了翅膀」\n「老鼠飞向茶杯」\n这是实时的，我可以自由走动。\n\n有些小故障，但和几年前相比，先进得难以置信。",
+      "summary_zh": "Genie 4 实测：输入「维多利亚下午茶 + 穿礼服的老鼠」后可实时自由走动，还能用文字让豪猪路过、老鼠长出翅膀飞向茶杯",
       "created_at": "2026-10-28T02:43:30.000Z",
       "metrics": {
         "likes": 561,
@@ -4223,7 +4225,7 @@
       "kind_override": null,
       "rec_score": 58,
       "recommended": false,
-      "rec_reason": "emollick：Agent / 框架 / 工作流动态。",
+      "rec_reason": "世界模型实时交互、按指令改场景的一手演示，虽有瑕疵但比两年前进步惊人",
       "discussion_summary": "热评提到「补个现状：Genie 4 目前只对受信测试者开放研究预览」「实时自由走动是真正的飞跃. 对于机器人来说,更难的考验是」等，详见下方回复。",
       "top_replies": [
         {
@@ -4313,8 +4315,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2019406331955015683/XHe0v8Gq_bigger.jpg",
       "text": "Love it!  Google just announced Carbon\n\nIt's not available yet, but it will almost definitely be comparable to Fable and Astra\n\nIt could cause a mini-earthquake if it's priced the same as Argon and is 5x cheaper",
       "text_short": "Love it!  Google just announced Carbon\n\nIt's not available yet, but it will almost definitely be comparable to Fable and Astra\n\nIt could cause a mini-earthquake if it's priced the…",
-      "text_zh": null,
-      "summary_zh": "bindureddy：围绕 Gemini 4 Carbon 的评测/解读。",
+      "text_zh": "太棒了！Google 刚发布了 Carbon\n\n目前还不能用，但几乎肯定能和 Fable、Astra 相当\n\n如果它和 Argon 同价、还便宜 5 倍，可能会引发一场小地震",
+      "summary_zh": "Carbon 尚未开放，但预计能力可比 Fable 和 Astra；若定价与 Argon 相同、便宜 5 倍，可能引发一场小地震",
       "created_at": "2026-10-28T17:25:33.000Z",
       "metrics": {
         "likes": 338,
@@ -4335,7 +4337,7 @@
       "kind_override": null,
       "rec_score": 58,
       "recommended": false,
-      "rec_reason": "bindureddy：围绕 Gemini 4 Carbon 的评测/解读。",
+      "rec_reason": "从价格角度看 Carbon 的冲击；热评核算按标准价并非便宜 5 倍，要看实际每任务成本",
       "discussion_summary": "热评提到「在ER中,廉价测试成为默认快速. 一个笙的基本实验室面板」「标准价格为4美元/20美元,与rg相同。 132. AA」等，详见下方回复。",
       "top_replies": [
         {
@@ -4425,8 +4427,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_bigger.png",
       "text": "Mark Cuban's advice for young people boils down to \"there's gonna be two types of companies: those who are great at AI and those who have gone out of business.\"\n\n\"And then there's two types of people in how they use AI: those who use AI to learn anything, and those who use AI so they don't have to learn anything.\"\n\n\"And if you're one of those people who uses AI so that you can learn anything, and you realize what type of companies and problems aren't being solved by AI, don't be shy to just talk to your AI.\"\n\n\"And I say this not just to kids, but to 50 60, 70-year-old entrepreneurs. The biggest challenge right now with entrepreneurs using AI is the comfort level of talking to your AI... there's still a lot of hesitancy.\"\n\n\"Just like back in the day, those first spreadsheets, people still had their 10-key adding machine, and they would check it to make sure the spreadsheets were right.\"\n\n\"So when you ask me, is there one thing I truly believe, it's everything. Everything will change. This is the greatest transitional technology we have ever seen, and I've been around for all of them, right? This blows them all away.\"\n\n@mcuban @julesyoo @eriktorenberg",
       "text_short": "Mark Cuban's advice for young people boils down to \"there's gonna be two types of companies: those who are great at AI and those who have gone out of business.\"\n\n\"And then there's…",
-      "text_zh": null,
-      "summary_zh": "a16z：算力/融资/产业相关动态。",
+      "text_zh": "Mark Cuban 给年轻人的建议归结为：「未来会有两类公司：擅长 AI 的，和已经倒闭的。」\n\n「人在使用 AI 上也分两类：用 AI 学习一切的人，和用 AI 以便自己什么都不用学的人。」\n\n「如果你是用 AI 学习一切的那种人，并且看清了哪些公司和问题还没有被 AI 解决，那就别害羞，直接和你的 AI 聊。」\n\n「我这话不只是对孩子们说，也是对五六十岁、七十岁的创业者说。创业者用 AI 现在最大的挑战是和 AI 对话的舒适度……仍然有很多犹豫。」\n\n「就像当年第一批电子表格出现时，人们还留着十键加法机，用它来核对表格算得对不对。」\n\n「所以你问我，有没有一件事是我真正相信的，那就是一切。一切都会改变。这是我们见过的最伟大的过渡性技术，而我经历过所有那些技术，对吧？这个把它们全都比下去了。」\n\n@mcuban @julesyoo @eriktorenberg",
+      "summary_zh": "Mark Cuban：未来只有擅长 AI 和已经倒闭两类公司；用 AI 学一切的人会胜过用 AI 逃避学习的人，创业者最大的障碍是不习惯和 AI 对话",
       "created_at": "2026-10-28T19:01:07.000Z",
       "metrics": {
         "likes": 261,
@@ -4482,7 +4484,7 @@
       "kind_override": null,
       "rec_score": 58,
       "recommended": false,
-      "rec_reason": "a16z：算力/融资/产业相关动态。",
+      "rec_reason": "知名投资人对 AI 时代个人与公司分化的判断，给创业者和年长经营者的直白建议",
       "discussion_summary": "热评提到「小说明: \"那些伟大的...\" 利用AI改善他们的业务 」「古巴的二进制将那些被困在中间的公司排除在外:管制太严,不」等，详见下方回复。",
       "top_replies": [
         {
@@ -4596,8 +4598,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1728327996375719936/RW7VBJfD_bigger.jpg",
       "text": "This is one of the most interesting reveals today: Copilot Fusion on GitHub Copilot.\n\nIt offers roughly the intelligence of Opus 5.5 at 50% less cost. A truly impressive achievement. Kudos @github",
       "text_short": "This is one of the most interesting reveals today: Copilot Fusion on GitHub Copilot.\n\nIt offers roughly the intelligence of Opus 5.5 at 50% less cost. A truly impressive achieveme…",
-      "text_zh": null,
-      "summary_zh": "kimmonismus：Agent / 框架 / 工作流动态。",
+      "text_zh": "这是今天最有意思的发布之一：GitHub Copilot 上的 Copilot Fusion。\n\n它以约 50% 的成本提供大致相当于 Opus 5.5 的智能。真是了不起的成就。为 @github 点赞",
+      "summary_zh": "GitHub Copilot 推出 Copilot Fusion：以约一半的成本提供接近 Opus 5.5 的智能水平",
       "created_at": "2026-10-28T22:18:00.000Z",
       "metrics": {
         "likes": 257,
@@ -4648,7 +4650,7 @@
       "kind_override": null,
       "rec_score": 58,
       "recommended": false,
-      "rec_reason": "kimmonismus：Agent / 框架 / 工作流动态。",
+      "rec_reason": "多模型路由组合压低成本，编程助手的性价比竞争进入新阶段",
       "discussion_summary": "热评提到「模特儿之间的争吵 我认为很多的储蓄都藏在那里 我要求AI」「我个人最有意思的洞察力是用Opus 5.5 + gpt-」等，详见下方回复。",
       "top_replies": [
         {
@@ -4738,8 +4740,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1831493788679761920/-q9w6dzd_bigger.jpg",
       "text": "\"in-context tokenization\"\n\nI love it https://t.co/IY2gYClNlZ https://t.co/dqt4FRK5iR",
       "text_short": "\"in-context tokenization\"\n\nI love it https://t.co/IY2gYClNlZ https://t.co/dqt4FRK5iR",
-      "text_zh": null,
-      "summary_zh": "scaling01：模型与评测动态。",
+      "text_zh": "「上下文分词（in-context tokenization）」\n\n我太喜欢了",
+      "summary_zh": "Albert Gu 团队新版 H-Net：直接在原始字节上学习「上下文分词」，受控缩放实验效率提升 3–5 倍，大规模下用约十分之一的数据和算力追平 11T token 训练的开源模型",
       "created_at": "2026-10-28T18:24:02.000Z",
       "metrics": {
         "likes": 452,
@@ -4780,7 +4782,7 @@
       "kind_override": null,
       "rec_score": 57,
       "recommended": false,
-      "rec_reason": "scaling01：模型与评测动态。",
+      "rec_reason": "无分词器、端到端从字节学习的路线出现实证进展，可能改变未来模型的数据与算力账",
       "discussion_summary": "热评提到「当兄弟如此可预测时 他就会崩溃到1个标志」「这个也是我最喜欢的例子!」等，详见下方回复。",
       "top_replies": [
         {
@@ -4870,8 +4872,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_bigger.jpg",
       "text": "Introducing the Document Parsing Protocol (DPP) \n\nThere are hundreds of different OCR models and tools, but they might all parse a document in different ways. \n\nSome errors are very clear-cut (e.g. hallucinating text, or completely misaligning a table), but many errors are much more ambiguous (e.g. how to represent split tables sharing a header). It's an issue that plagues most parse benchmarks too, because they inherently reward a certain style even if other styles might be semantically correct. \n\nWe introduce a protocol that proposes a standard way of parsing these documents into a correct format. We've curated a list of 140 rules that cover literally every aspect of doc parsing, for instance:\n- tables: borderless whitespace tables, header-only tables, horizontal slicing, side-by-side mini tables\n- forms: key-value regions, checkboxes, checklists, ids and labels, fields outside the form, \n- charts: standardized chart output, multiple charts, gantt charts, line charts\n\nYou can use DPP as an evaluation rubric for LLMs when determining the quality of parsing a document. \n\nIt's not a full evaluation benchmark (yet), but an initial evaluation guide, and meant to encourage a discussion on what are the \"best\" ways to parse a document.\n\nCheck it out: https://www.parseprotocol.com/guide/forms-forms-and-key-value-regions\n\nBlog: https://www.llamaindex.ai/blog/introducing-the-document-parsing-protocol",
       "text_short": "Introducing the Document Parsing Protocol (DPP) \n\nThere are hundreds of different OCR models and tools, but they might all parse a document in different ways. \n\nSome errors are ve…",
-      "text_zh": null,
-      "summary_zh": "jerryjliu0：Agent / 框架 / 工作流动态。",
+      "text_zh": "推出文档解析协议（DPP）\n\n市面上有数百种 OCR 模型和工具，但它们解析同一份文档的方式可能各不相同。\n\n有些错误非常明确（比如幻觉出不存在的文字，或表格完全错位），但很多错误要模糊得多（比如共享表头的拆分表格该怎么表示）。这个问题也困扰着大多数解析基准，因为它们天然偏好某种风格，即便其他风格在语义上同样正确。\n\n我们提出一个协议，给出把这类文档解析成正确格式的标准方式。我们整理了 140 条规则，几乎覆盖文档解析的方方面面，例如：\n- 表格：无边框空白表格、只有表头的表格、水平切分、并排小表格\n- 表单：键值区域、复选框、清单、编号与标签、表单外的字段\n- 图表：标准化的图表输出、多图表、甘特图、折线图\n\n你可以把 DPP 用作评估 LLM 文档解析质量的评分标准。\n\n它（暂时）还不是完整的评测基准，而是一份初步的评估指南，意在推动大家讨论什么才是解析文档的「最佳」方式。\n\n看看吧：https://t.co/HsLh6ma9bB\n\n博客：https://t.co/0md2O2M2Mf",
+      "summary_zh": "LlamaIndex 发布文档解析协议 DPP：用 140 条规则统一表格、表单、图表等的标准解析格式，可作为评估 LLM 文档解析质量的评分标准",
       "created_at": "2026-10-28T18:50:32.000Z",
       "metrics": {
         "likes": 401,
@@ -4922,7 +4924,7 @@
       "kind_override": null,
       "rec_score": 57,
       "recommended": false,
-      "rec_reason": "jerryjliu0：Agent / 框架 / 工作流动态。",
+      "rec_reason": "文档解析评测长期缺统一标准，DPP 可直接拿来当 OCR/解析工具选型的评测清单",
       "discussion_summary": "热评提到「文書解析は一意の正解に見えても、境界の曖昧な表や複数ヘッ」「140条规则是很多判决要求 最终写下来。 对于共享标题的」等，详见下方回复。",
       "top_replies": [
         {
@@ -5033,7 +5035,7 @@
       "text": "感觉自己运气好，Claude 账号一个都没被封过，不是凡尔赛啊。\n\n想想是可能是因为没开 200 刀账号，一直都是 20 刀，开两个换着用。\n\n做法上跟大家说说：\n\n1. 注册 Claude 用自己域名邮箱，路由指向 Gmail 账号，只需绑定一个域名到 cloudflare 就行。 \nEmail Service -> Email Routing -> Routing rules 创建邮箱\n\n2. IP 用自己 vultr 服务器搭的魔法，好像也不会跳验证，日常都用这个。\n\n3. 用免费 Claude 账号随便对话正常用，可以多备2-3 个。\n\n4. iOS 海外 AppStore 账号下载 Claude 客户端，AppStore 充值余额，用余额支付升级 20 刀订阅。安卓手机绑定众安银行卡到谷歌商店，直接升级。\n\n日常也没刻意只用 Claude cli，直接官方客户端用就行。\n也没改电脑时区，也没改过语言，对话也一直是中文。\n\n可能是幸存者偏差？",
       "text_short": "感觉自己运气好，Claude 账号一个都没被封过，不是凡尔赛啊。\n\n想想是可能是因为没开 200 刀账号，一直都是 20 刀，开两个换着用。\n\n做法上跟大家说说：\n\n1. 注册 Claude 用自己域名邮箱，路由指向 Gmail 账号，只需绑定一个域名到 cloudflare 就行。 \nEmail Service -> Email Routing -> R…",
       "text_zh": "感觉自己运气好，Claude 账号一个都没被封过，不是凡尔赛啊。\n\n想想是可能是因为没开 200 刀账号，一直都是 20 刀，开两个换着用。\n\n做法上跟大家说说：\n\n1. 注册 Claude 用自己域名邮箱，路由指向 Gmail 账号，只需绑定一个域名到 cloudflare 就行。 \nEmail Service -> Email Routing -> Routing rules 创建邮箱\n\n2. IP 用自己 vultr 服务器搭的魔法，好像也不会跳验证，日常都用这个。\n\n3. 用免费 Claude 账号随便对话正常用，可以多备2-3 个。\n\n4. iOS 海外 AppStore 账号下载 Claude 客户端，AppStore 充值余额，用余额支付升级 20 刀订阅。安卓手机绑定众安银行卡到谷歌商店，直接升级。\n\n日常也没刻意只用 Claude cli，直接官方客户端用就行。\n也没改电脑时区，也没改过语言，对话也一直是中文。\n\n可能是幸存者偏差？",
-      "summary_zh": "感觉自己运气好，Claude 账号一个都没被封过，不是凡尔赛啊。想想是可能是因为没开 200 刀账号，一直都是 20 刀，开两个换着用。做法上跟大家说说： 1. 注册 Claude 用自己域名邮箱，路由指向 Gmail 账号，只需绑定一个域名到 cloudflare 就行。",
+      "summary_zh": "Claude 账号防封经验：自有域名邮箱、自建 VPS 固定 IP、多备几个免费号、用海外 App Store 余额订阅 20 美元版轮换使用",
       "created_at": "2026-10-28T16:56:12.000Z",
       "metrics": {
         "likes": 200,
@@ -5076,7 +5078,7 @@
       "kind_override": null,
       "rec_score": 57,
       "recommended": false,
-      "rec_reason": "感觉自己运气好，Claude 账号一个都没被封过，不是凡尔赛啊。想想是可能是因为没开 200 刀账号，一直都是 20 刀，开两个换着用。做法上跟大家说说： 1. 注册 Claude——值得跟进",
+      "rec_reason": "国内用户关心的 Claude 稳定使用实操清单，作者也承认可能是幸存者偏差",
       "discussion_summary": "热评提到「pro 确实风险会低得多，其实如果只是想一直用 Clau」「你这个路子确实稳，20 刀换着用比硬上 200 刀少很多」等，详见下方回复。",
       "top_replies": [
         {
@@ -5169,7 +5171,7 @@
       "text": "如果你在用 Claude Code 的话，再推荐下记得运行下 /autocompact 300k \n（原推是400k，我自己用下来300k就足够了，当然选哪个你可以自己决定）\n\n自动压缩（Auto-compact）的作用是将整段长对话精简为简短的摘要，而不是一直保留上百万的完整历史记录。在 1M 上下文模型中，系统默认要到约 967K Token 时才会触发压缩。\n\n由于你发送的每一条消息都会带上之前的全部对话历史，等到 967K 再压缩，意味着后期的每一次交互都在重复消耗海量 Token。虽然在缓存有效（warm cache）的情况下，大部分历史内容走的都是廉价的缓存读取，且压缩本身也只相当于一次普通请求，但这些庞大的读取量依然会实打实地计入你的使用额度，积少成多。\n\n使用 /autocompact 300k 可以将触发压缩的阈值提前到 300K。这样既能让对话历史始终保持精简，又能避免单次请求的上下文无限膨胀，从而大幅节省长对话的 Token 消耗。",
       "text_short": "如果你在用 Claude Code 的话，再推荐下记得运行下 /autocompact 300k \n（原推是400k，我自己用下来300k就足够了，当然选哪个你可以自己决定）\n\n自动压缩（Auto-compact）的作用是将整段长对话精简为简短的摘要，而不是一直保留上百万的完整历史记录。在 1M 上下文模型中，系统默认要到约 967K Token 时才会触…",
       "text_zh": "如果你在用 Claude Code 的话，再推荐下记得运行下 /autocompact 300k \n（原推是400k，我自己用下来300k就足够了，当然选哪个你可以自己决定）\n\n自动压缩（Auto-compact）的作用是将整段长对话精简为简短的摘要，而不是一直保留上百万的完整历史记录。在 1M 上下文模型中，系统默认要到约 967K Token 时才会触发压缩。\n\n由于你发送的每一条消息都会带上之前的全部对话历史，等到 967K 再压缩，意味着后期的每一次交互都在重复消耗海量 Token。虽然在缓存有效（warm cache）的情况下，大部分历史内容走的都是廉价的缓存读取，且压缩本身也只相当于一次普通请求，但这些庞大的读取量依然会实打实地计入你的使用额度，积少成多。\n\n使用 /autocompact 300k 可以将触发压缩的阈值提前到 300K。这样既能让对话历史始终保持精简，又能避免单次请求的上下文无限膨胀，从而大幅节省长对话的 Token 消耗。",
-      "summary_zh": "如果你在用 Claude Code 的话，再推荐下记得运行下 /autocompact 300k （原推是400k，我自己用下来300k就足够了，当然选哪个你可以自己决定） 自动压缩（Auto-compact）的作用是将整段长对话精简为简短的摘要，而不是一直保留上百万的完整历史记录。在 1M 上下文模型中，系统默认要到约 967K Token 时才会触发压缩。",
+      "summary_zh": "Claude Code 用户建议运行 /autocompact 300k：把自动压缩阈值从默认约 967K 提前到 300K，减少长对话反复消耗的 Token",
       "created_at": "2026-10-28T18:08:16.000Z",
       "metrics": {
         "likes": 196,
@@ -5201,7 +5203,7 @@
       "kind_override": null,
       "rec_score": 57,
       "recommended": false,
-      "rec_reason": "如果你在用 Claude Code 的话，再推荐下记得运行下 /autocompact 300k （原推是400k，我自己用下来300k就足够了，当然选哪个你可以自己决定） 自动压——值得跟进",
+      "rec_reason": "一条命令就能省下长对话的大量额度，Claude Code 重度用户可直接照做",
       "discussion_summary": "热评提到「其實這個策略還是需要計算與實測，會隨著 1. 你使用的 」「这个我深有体会。长任务跑到后面，上下文一满，agent 」等，详见下方回复。",
       "top_replies": [
         {
@@ -5293,8 +5295,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1601382188712398850/3AAOlqrX_bigger.jpg",
       "text": "There has been a bunch of really interesting experiments with activating individual neurons in open AI models, locking them into particular personas.\n\nHere historian @ResObscura tries the same trick with a model trained only on data before 1930, and the results are delightful. https://twitter.com/resobscura/status/2115176788993380661",
       "text_short": "There has been a bunch of really interesting experiments with activating individual neurons in open AI models, locking them into particular personas.\n\nHere historian @ResObscura t…",
-      "text_zh": null,
-      "summary_zh": "emollick：Agent / 框架 / 工作流动态。",
+      "text_zh": "最近有很多非常有意思的实验：在开放 AI 模型中激活单个神经元，把模型锁定成特定人格。\n\n这里历史学家 @ResObscura 在一个只用 1930 年以前数据训练的模型上尝试了同样的技巧，结果非常有趣。 https://twitter.com/resobscura/status/2115176788993380661",
+      "summary_zh": "历史学家 ResObscura 为只用 1930 年前数据训练的 Talkie-1930 模型做了神经元图谱，激活单个神经元就能锁定特定人格，结果很有趣",
       "created_at": "2026-10-28T12:25:27.000Z",
       "metrics": {
         "likes": 397,
@@ -5403,7 +5405,7 @@
       "kind_override": null,
       "rec_score": 53,
       "recommended": false,
-      "rec_reason": "emollick：Agent / 框架 / 工作流动态。",
+      "rec_reason": "把可解释性玩法搬到「历史模型」上，用不同训练数据做对照来理解神经元与人格的关系",
       "discussion_summary": "热评提到「一个能够得到1930年以前的生活知识的聊天员 听起来是最」「将一个人锁在单个神经元上是一个整齐的探针,但问题是它是横」等，详见下方回复。",
       "top_replies": [
         {
@@ -5493,8 +5495,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1783856060249595904/8TfcCN0r_bigger.jpg",
       "text": "fx is now much faster, smaller and efficient\nTry https://fx.sh on your iPhone Duo https://twitter.com/vercel_dev/status/2115457791561539678",
       "text_short": "fx is now much faster, smaller and efficient\nTry https://fx.sh on your iPhone Duo https://twitter.com/vercel_dev/status/2115457791561539678",
-      "text_zh": null,
-      "summary_zh": "rauchg：AI 编程工具相关更新。",
+      "text_zh": "fx 现在更快、更小、更高效了\n在你的 iPhone Duo 上试试 https://fx.sh https://twitter.com/vercel_dev/status/2115457791561539678",
+      "summary_zh": "Vercel 开源 Agent harness fx 发布 v0.0.15：长会话内存减少 70%、图像密集轮次处理最高快 3.3 倍、会话恢复快约 18%，新增 /fork 分叉对话",
       "created_at": "2026-10-28T15:25:01.000Z",
       "metrics": {
         "likes": 392,
@@ -5567,7 +5569,7 @@
       "kind_override": null,
       "rec_score": 53,
       "recommended": false,
-      "rec_reason": "rauchg：AI 编程工具相关更新。",
+      "rec_reason": "常规版本更新，长会话内存优化对重度使用 Agent 的开发者有用",
       "discussion_summary": "热评提到「这是错误的应用」「朱利叶斯,请修复 模型采摘者 在杜奥号上看起来很棒 这个」等，详见下方回复。",
       "top_replies": [
         {
@@ -5657,8 +5659,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1623777064821358592/9CApQWXe_bigger.png",
       "text": "Congrats to @call_broccoli (W22) on raising $52M across their Series A and Series B!\n\nBroccoli’s AI agents answer calls for plumbing, HVAC, and electrical companies around the clock, booking jobs directly into the scheduling software contractors already use and following up on open estimates.\n\nAfter their EV startup stalled, @abhishekjain25 and @adityaketkar knocked on 140 contractor doors until a Sacramento plumbing owner gave them five minutes. They built the first product from her office in three weeks, and today she’s Broccoli’s COO.\n\nMore than 1,500 home service businesses now run on Broccoli, with over 10 million customer conversations handled and 2.5 million appointments booked.\n\nhttps://fortune.com/2026/10/28/broccoli-ai-funding-khosla-ventures-marcelle-flowers-plumbing-gen-z-founders/",
       "text_short": "Congrats to @call_broccoli (W22) on raising $52M across their Series A and Series B!\n\nBroccoli’s AI agents answer calls for plumbing, HVAC, and electrical companies around the clo…",
-      "text_zh": null,
-      "summary_zh": "ycombinator：算力/融资/产业相关动态。",
+      "text_zh": "恭喜 @call_broccoli（W22）完成 A 轮和 B 轮共 5200 万美元融资！\n\nBroccoli 的 AI Agent 全天候为水管、暖通空调和电工公司接听电话，直接把工单排进承包商已在用的排程软件，并跟进未成交的报价。\n\n在他们的电动车创业停滞后，@abhishekjain25 和 @adityaketkar 敲了 140 家承包商的门，直到萨克拉门托一家水管公司的老板给了他们五分钟。他们在她的办公室里用三周做出了第一版产品，如今她是 Broccoli 的 COO。\n\n目前已有 1500 多家家居服务企业在使用 Broccoli，处理了超过 1000 万次客户对话，预约了 250 万次上门服务。\n\nhttps://t.co/1b0YoOHDyi",
+      "summary_zh": "YC 校友 Broccoli 完成 A 轮和 B 轮共 5200 万美元融资：AI Agent 全天接听水管、暖通、电工公司的电话并直接排单，已服务 1500 多家企业、预约 250 万次",
       "created_at": "2026-10-28T21:04:36.000Z",
       "metrics": {
         "likes": 127,
@@ -5710,7 +5712,7 @@
       "kind_override": null,
       "rec_score": 53,
       "recommended": false,
-      "rec_reason": "ycombinator：算力/融资/产业相关动态。",
+      "rec_reason": "垂直行业语音 Agent 的典型成功案例，从挨家敲门找到第一个客户的 PMF 路径值得创业者参考",
       "discussion_summary": "热评提到「这样做更好。 花椰菜做的只是个特色 TC为平台.」「椰菜是我听过最烂的名字 这让我想起了Gen Z孩子的发型」等，详见下方回复。",
       "top_replies": [
         {
@@ -5834,7 +5836,7 @@
       "text": "红果日活 1.68 亿、人均每天两小时：秦朔说“字节时间”来了，程苓峰说这才刚开始\n\n同一份数据，两篇文章，两个结论。野村证券 9 月的报告援引 QuestMobile 数据：今年 7 月，在中国使用时长排前 50 的 App 里，抖音第一次超过微信，字节系合计占 40.9%，腾讯系占 29.1%。\n\n《第一财经日报》原总编辑秦朔据此写了《可怕的红果与中国互联网的字节时间》，担心红果这类算法机器正在吃掉人们的时间。\n\n公众号“神在吗”的作者程苓峰 10 月 28 日接着写了《肉鸡时间》，认为份额只是表面，AI 短剧才是真正的“核爆”。两篇文章都在传的“红果年入 400 亿”，红果官方已经声明不实。\n\n【红果有多能占时间】\n\n秦朔引用的报告显示，红果 7 月日活 1.68 亿，一年翻了一倍，超过腾讯视频、爱奇艺、优酷、芒果 TV 四家相加（约 1.55 亿，未去重）。按使用总时长，红果已是中国第四大 App，排在抖音、微信、抖音极速版之后；今年 2 月人均每天看 125 分钟，比抖音和微信还长。\n\n用户数上红果还差得远：微信日活 9 亿多，抖音 7 亿多。红果赢的是每个人花在上面的时间。\n\n【秦朔：红果是一台时间吸收器】\n\n秦朔把红果跑得快归结为四点。\n\n1. 算法：每集 1 到 3 分钟，集集结尾留悬念，手指一滑就是下一集。\n\n2. 供给：广电总局公布，今年前 8 个月全国上线微短剧 43 万部，是去年全年的 13 倍，其中 AI 剧超过九成。\n\n3. 生态：在抖音刷到剧情片段，一键跳到红果看全集；番茄小说提供原著，秦朔文中说，去年的爆款短剧六成以上改编自番茄小说。\n\n4. 免费：看剧不花钱，只看广告，平台拿广告收入给创作者分账。\n\n腾讯刚在微信小程序里推出“绿泡泡短剧”应战，秦朔不看好。\n\n秦朔打了个比方：字节所有 App 共用一套算法底座，像同一个酒瓶倒出不同的酒；腾讯靠社交起家，各个产品各用各的瓶子。秦朔还提到，在抖音和红果上看什么，朋友不知道，也就没有发朋友圈那种顾虑。\n\n秦朔最在意代价。每天 125 分钟，意味着读书、思考、陪家人的时间少了。\n\n秦朔预计短剧会分化成 K 型：底层是海量 AI 爽剧，顶层是少量真人精品，夹在中间的真人短剧最难过。秦朔也认为，时间多不等于价值高，腾讯在精品内容和中老年用户上仍有底盘。\n\n刹车已经出现。9 月 1 日起施行的《微短剧发展管理办法》要求 AI 内容逐集标注，禁止平台用诱导沉迷的算法。红果 10 月 21 日宣布下线“看剧赚金币”：11 月 1 日起新用户不再有这个功能，12 月 31 日前全部下线，已攒下的金币和余额不受影响。\n\n【抖音的反驳】\n\n抖音集团副总裁李亮两次在微博回应，说“字节时间”不严谨：数据只算前 50 个 App，没算长尾 App 和电脑端；字节系最新的 41.8% 也没过半；短剧和短视频是充分竞争的行业，没有谁能一直第一。\n\n秦朔 10 月 28 日回应说，“字节时间”是对注意力流向的概括，并非垄断认定。\n\n【程苓峰：要看速度，AI 短剧是另一种东西】\n\n程苓峰认为份额过没过半不重要。一年前字节系和腾讯系差不到 3 个点，现在差 13 个点，跑得快的一方会吸走所有新增的时间。\n\n程苓峰把红果的优势叫作“三低合一”：番茄小说的网文省了剧本成本，字节的视频生成模型 Seedance 省了拍摄和演员成本，抖音流量便宜还能先放片段试水，省了拉新成本。\n\n秦朔和程苓峰都看了穿越剧《持械入宋》。\n\n秦朔说它比以前的短剧多样，有内涵也有专业性，但耗时、容易陷进去。程苓峰在里面看出了一场创业：主角用现代知识造火炮、改弩机，为了拿到铁料去考科举，再一点点组织人手，按未来的地图改造旧世界。\n\n程苓峰还刷到讲急诊分诊、大闸蟹养殖、货车司机生活的剧，觉得这些短剧像一部百科全书。\n\n所以程苓峰主张把真人短剧和 AI 短剧分开看。抖音的内容是普通用户拍的，短而散，算法负责把内容送到你面前；AI 短剧是一个懂行的编剧加 AI 拍出来的，一季上百集，往一个行业越挖越深，AI 用在把内容做出来。\n\n程苓峰预计下一步 AI 两头都管：内容生成得比人看得快，每个人看到的剧情都不一样，广告直接编进情节。\n\n到那时会分成两条路：\n1. 免费的娱乐加广告，普通观众毫无招架之力，程苓峰称之为“肉鸡”；\n2. 收费的教育，因材施教，逼人往上走。\n\n【两人的分歧】\n\n秦朔认为监管和金币下线会让红果从狂奔回到常规，短剧也不会杀死长内容，就像方便面没有取代正餐。程苓峰认为这才是“核爆当夜”，引用朋友的话说“字节没有上限”。\n\n两人都担心沉迷。秦朔担心的是人的注意力和耐心被算法重塑；程苓峰担心的是社会更加 K 型，少数人借 AI 往上走，多数人被娱乐吞掉。\n\n【数字靠不靠得住】\n\n字节系、腾讯系的时长份额有出处，来自野村报告援引的 QuestMobile 数据，7 月是 40.9% 对 29.1%（秦朔引用），8 月是 41.8% 对 28.6%（程苓峰引用），统计范围只有前 50 个 App。\n\n红果“第四大 App”“人均 125 分钟”出自同一份第三方报告，红果官方没有确认。\n\n“前 8 个月 43 万部、AI 剧超九成”是广电总局网络视听司司长王小亮在国新办发布会上公布的。\n\n程苓峰文中“红果今年收入 400 亿”，红果 10 月 27 日晚已声明不实，并称网传的机构数据和专家预计都不是官方信息。\n\n拿来对比的“电影总票房 520 亿”是 2025 年全年数字，国家电影局公布为 518.32 亿元。\n\n秦朔原文：https://www.huxiu.com/article/4900335.html\n程苓峰原文：https://mp.weixin.qq.com/s/ZLTJJpiUkaEkeNh5Rpobkw\n秦朔与李亮的争论：https://news.qq.com/rain/a/20261028A079BI00\n红果辟谣 400 亿：https://i.ifeng.com/c/8xYjGeAPjsl\n红果下线金币：https://m.bjnews.com.cn/detail/1792739640129720.html\n43 万部微短剧：https://www.news.cn/tech/20260918/1fc21cfba8334e9bba130af8eb50b565/c.html",
       "text_short": "红果日活 1.68 亿、人均每天两小时：秦朔说“字节时间”来了，程苓峰说这才刚开始\n\n同一份数据，两篇文章，两个结论。野村证券 9 月的报告援引 QuestMobile 数据：今年 7 月，在中国使用时长排前 50 的 App 里，抖音第一次超过微信，字节系合计占 40.9%，腾讯系占 29.1%。\n\n《第一财经日报》原总编辑秦朔据此写了《可怕的红果与中国…",
       "text_zh": "红果日活 1.68 亿、人均每天两小时：秦朔说“字节时间”来了，程苓峰说这才刚开始\n\n同一份数据，两篇文章，两个结论。野村证券 9 月的报告援引 QuestMobile 数据：今年 7 月，在中国使用时长排前 50 的 App 里，抖音第一次超过微信，字节系合计占 40.9%，腾讯系占 29.1%。\n\n《第一财经日报》原总编辑秦朔据此写了《可怕的红果与中国互联网的字节时间》，担心红果这类算法机器正在吃掉人们的时间。\n\n公众号“神在吗”的作者程苓峰 10 月 28 日接着写了《肉鸡时间》，认为份额只是表面，AI 短剧才是真正的“核爆”。两篇文章都在传的“红果年入 400 亿”，红果官方已经声明不实。\n\n【红果有多能占时间】\n\n秦朔引用的报告显示，红果 7 月日活 1.68 亿，一年翻了一倍，超过腾讯视频、爱奇艺、优酷、芒果 TV 四家相加（约 1.55 亿，未去重）。按使用总时长，红果已是中国第四大 App，排在抖音、微信、抖音极速版之后；今年 2 月人均每天看 125 分钟，比抖音和微信还长。\n\n用户数上红果还差得远：微信日活 9 亿多，抖音 7 亿多。红果赢的是每个人花在上面的时间。\n\n【秦朔：红果是一台时间吸收器】\n\n秦朔把红果跑得快归结为四点。\n\n1. 算法：每集 1 到 3 分钟，集集结尾留悬念，手指一滑就是下一集。\n\n2. 供给：广电总局公布，今年前 8 个月全国上线微短剧 43 万部，是去年全年的 13 倍，其中 AI 剧超过九成。\n\n3. 生态：在抖音刷到剧情片段，一键跳到红果看全集；番茄小说提供原著，秦朔文中说，去年的爆款短剧六成以上改编自番茄小说。\n\n4. 免费：看剧不花钱，只看广告，平台拿广告收入给创作者分账。\n\n腾讯刚在微信小程序里推出“绿泡泡短剧”应战，秦朔不看好。\n\n秦朔打了个比方：字节所有 App 共用一套算法底座，像同一个酒瓶倒出不同的酒；腾讯靠社交起家，各个产品各用各的瓶子。秦朔还提到，在抖音和红果上看什么，朋友不知道，也就没有发朋友圈那种顾虑。\n\n秦朔最在意代价。每天 125 分钟，意味着读书、思考、陪家人的时间少了。\n\n秦朔预计短剧会分化成 K 型：底层是海量 AI 爽剧，顶层是少量真人精品，夹在中间的真人短剧最难过。秦朔也认为，时间多不等于价值高，腾讯在精品内容和中老年用户上仍有底盘。\n\n刹车已经出现。9 月 1 日起施行的《微短剧发展管理办法》要求 AI 内容逐集标注，禁止平台用诱导沉迷的算法。红果 10 月 21 日宣布下线“看剧赚金币”：11 月 1 日起新用户不再有这个功能，12 月 31 日前全部下线，已攒下的金币和余额不受影响。\n\n【抖音的反驳】\n\n抖音集团副总裁李亮两次在微博回应，说“字节时间”不严谨：数据只算前 50 个 App，没算长尾 App 和电脑端；字节系最新的 41.8% 也没过半；短剧和短视频是充分竞争的行业，没有谁能一直第一。\n\n秦朔 10 月 28 日回应说，“字节时间”是对注意力流向的概括，并非垄断认定。\n\n【程苓峰：要看速度，AI 短剧是另一种东西】\n\n程苓峰认为份额过没过半不重要。一年前字节系和腾讯系差不到 3 个点，现在差 13 个点，跑得快的一方会吸走所有新增的时间。\n\n程苓峰把红果的优势叫作“三低合一”：番茄小说的网文省了剧本成本，字节的视频生成模型 Seedance 省了拍摄和演员成本，抖音流量便宜还能先放片段试水，省了拉新成本。\n\n秦朔和程苓峰都看了穿越剧《持械入宋》。\n\n秦朔说它比以前的短剧多样，有内涵也有专业性，但耗时、容易陷进去。程苓峰在里面看出了一场创业：主角用现代知识造火炮、改弩机，为了拿到铁料去考科举，再一点点组织人手，按未来的地图改造旧世界。\n\n程苓峰还刷到讲急诊分诊、大闸蟹养殖、货车司机生活的剧，觉得这些短剧像一部百科全书。\n\n所以程苓峰主张把真人短剧和 AI 短剧分开看。抖音的内容是普通用户拍的，短而散，算法负责把内容送到你面前；AI 短剧是一个懂行的编剧加 AI 拍出来的，一季上百集，往一个行业越挖越深，AI 用在把内容做出来。\n\n程苓峰预计下一步 AI 两头都管：内容生成得比人看得快，每个人看到的剧情都不一样，广告直接编进情节。\n\n到那时会分成两条路：\n1. 免费的娱乐加广告，普通观众毫无招架之力，程苓峰称之为“肉鸡”；\n2. 收费的教育，因材施教，逼人往上走。\n\n【两人的分歧】\n\n秦朔认为监管和金币下线会让红果从狂奔回到常规，短剧也不会杀死长内容，就像方便面没有取代正餐。程苓峰认为这才是“核爆当夜”，引用朋友的话说“字节没有上限”。\n\n两人都担心沉迷。秦朔担心的是人的注意力和耐心被算法重塑；程苓峰担心的是社会更加 K 型，少数人借 AI 往上走，多数人被娱乐吞掉。\n\n【数字靠不靠得住】\n\n字节系、腾讯系的时长份额有出处，来自野村报告援引的 QuestMobile 数据，7 月是 40.9% 对 29.1%（秦朔引用），8 月是 41.8% 对 28.6%（程苓峰引用），统计范围只有前 50 个 App。\n\n红果“第四大 App”“人均 125 分钟”出自同一份第三方报告，红果官方没有确认。\n\n“前 8 个月 43 万部、AI 剧超九成”是广电总局网络视听司司长王小亮在国新办发布会上公布的。\n\n程苓峰文中“红果今年收入 400 亿”，红果 10 月 27 日晚已声明不实，并称网传的机构数据和专家预计都不是官方信息。\n\n拿来对比的“电影总票房 520 亿”是 2025 年全年数字，国家电影局公布为 518.32 亿元。\n\n秦朔原文：https://www.huxiu.com/article/4900335.html\n程苓峰原文：https://mp.weixin.qq.com/s/ZLTJJpiUkaEkeNh5Rpobkw\n秦朔与李亮的争论：https://news.qq.com/rain/a/20261028A079BI00\n红果辟谣 400 亿：https://i.ifeng.com/c/8xYjGeAPjsl\n红果下线金币：https://m.bjnews.com.cn/detail/1792739640129720.html\n43 万部微短剧：https://www.news.cn/tech/20260918/1fc21cfba8334e9bba130af8eb50b565/c.html",
-      "summary_zh": "红果日活 1.68 亿、人均每天两小时：秦朔说“字节时间”来了，程苓峰说这才刚开始 同一份数据，两篇文章，两个结论。野村证券 9 月的报告援引 QuestMobile 数据：今年 7 月，在中国使用时长排前 50 的 App 里，抖音第一次超过微信，字节系合计占 40.9%，腾讯系占 29.1%。《第一财经日报》原总编辑秦朔据此写了《可怕的红果与中国互联网的字节时间》，担心红果这类算法机器正在吃掉人们的时间。",
+      "summary_zh": "红果短剧日活 1.68 亿、人均每天约两小时：秦朔称「字节时间」已来，程苓峰认为 AI 短剧的「核爆」才刚开始",
       "created_at": "2026-10-28T22:51:09.000Z",
       "metrics": {
         "likes": 81,
@@ -5912,7 +5914,7 @@
       "kind_override": null,
       "rec_score": 53,
       "recommended": false,
-      "rec_reason": "红果日活 1.68 亿、人均每天两小时：秦朔说“字节时间”来了，程苓峰说这才刚开始 同一份数据，两篇文章，两个结论。野村证券 9 月的报告援引 QuestMobile 数据：今年 ——值得跟进",
+      "rec_reason": "AI 短剧正在重塑注意力分配，可借此看清字节在供给、算法和流量上的打法，做内容和 AI 视频的都该看",
       "discussion_summary": "热评提到「课代表总结：同一份QuestMobile数据，秦朔读出“」「「字节时间」吵了两天，一方说事实，一方说胡扯。 我做了个」等，详见下方回复。",
       "top_replies": [
         {
@@ -6040,7 +6042,8 @@
         },
         "text": "红果日活 1.68 亿、人均每天两小时：秦朔说“字节时间”来了，程苓峰说这才刚开始\n\n同一份数据，两篇文章，两个结论。野村证券 9 月的报告援引 QuestMobile 数据：今年 7 月，在中国使用时长排前 50 的 App 里，抖音第一次超过微信，字节系合计占 40.9%，腾讯系占 29.1%。\n\n《第一财经日报》原总编辑秦朔据此写了《可怕的红果与中国互联网的字节时间》，担心红果这类算法机器正在吃掉人们的时间。\n\n公众号“神在吗”的作者程苓峰 10 月 28 日接着写了《肉鸡时间》，认为份额只是表面，AI 短剧才是真正的“核爆”。两篇文章都在传的“红果年入 400 亿”，红果官方已经声明不实。\n\n【红果有多能占时间】\n\n秦朔引用的报告显示，红果 7 月日活 1.68 亿，一年翻了一倍，超过腾讯视频、爱奇艺、优酷、芒果 TV 四家相加（约 1.55 亿，未去重）。按使用总时长，红果已是中国第四大 App，排在抖音、微信、抖音极速版之后；今年 2 月人均每天看 125 分钟，比抖音和微信还长。\n\n用户数上红果还差得远：微信日活 9 亿多，抖音 7 亿多。红果赢的是每个人花在上面的时间。\n\n【秦朔：红果是一台时间吸收器】\n\n秦朔把红果跑得快归结为四点。\n\n1. 算法：每集 1 到 3 分钟，集集结尾留悬念，手指一滑就是下一集。\n\n2. 供给：广电总局公布，今年前 8 个月全国上线微短剧 43 万部，是去年全年的 13 倍，其中 AI 剧超过九成。\n\n3. 生态：在抖音刷到剧情片段，一键跳到红果看全集；番茄小说提供原著，秦朔文中说，去年的爆款短剧六成以上改编自番茄小说。\n\n4. 免费：看剧不花钱，只看广告，平台拿广告收入给创作者分账。\n\n腾讯刚在微信小程序里推出“绿泡泡短剧”应战，秦朔不看好。\n\n秦朔打了个比方：字节所有 App 共用一套算法底座，像同一个酒瓶倒出不同的酒；腾讯靠社交起家，各个产品各用各的瓶子。秦朔还提到，在抖音和红果上看什么，朋友不知道，也就没有发朋友圈那种顾虑。\n\n秦朔最在意代价。每天 125 分钟，意味着读书、思考、陪家人的时间少了。\n\n秦朔预计短剧会分化成 K 型：底层是海量 AI 爽剧，顶层是少量真人精品，夹在中间的真人短剧最难过。秦朔也认为，时间多不等于价值高，腾讯在精品内容和中老年用户上仍有底盘。\n\n刹车已经出现。9 月 1 日起施行的《微短剧发展管理办法》要求 AI 内容逐集标注，禁止平台用诱导沉迷的算法。红果 10 月 21 日宣布下线“看剧赚金币”：11 月 1 日起新用户不再有这个功能，12 月 31 日前全部下线，已攒下的金币和余额不受影响。\n\n【抖音的反驳】\n\n抖音集团副总裁李亮两次在微博回应，说“字节时间”不严谨：数据只算前 50 个 App，没算长尾 App 和电脑端；字节系最新的 41.8% 也没过半；短剧和短视频是充分竞争的行业，没有谁能一直第一。\n\n秦朔 10 月 28 日回应说，“字节时间”是对注意力流向的概括，并非垄断认定。\n\n【程苓峰：要看速度，AI 短剧是另一种东西】\n\n程苓峰认为份额过没过半不重要。一年前字节系和腾讯系差不到 3 个点，现在差 13 个点，跑得快的一方会吸走所有新增的时间。\n\n程苓峰把红果的优势叫作“三低合一”：番茄小说的网文省了剧本成本，字节的视频生成模型 Seedance 省了拍摄和演员成本，抖音流量便宜还能先放片段试水，省了拉新成本。\n\n秦朔和程苓峰都看了穿越剧《持械入宋》。\n\n秦朔说它比以前的短剧多样，有内涵也有专业性，但耗时、容易陷进去。程苓峰在里面看出了一场创业：主角用现代知识造火炮、改弩机，为了拿到铁料去考科举，再一点点组织人手，按未来的地图改造旧世界。\n\n程苓峰还刷到讲急诊分诊、大闸蟹养殖、货车司机生活的剧，觉得这些短剧像一部百科全书。\n\n所以程苓峰主张把真人短剧和 AI 短剧分开看。抖音的内容是普通用户拍的，短而散，算法负责把内容送到你面前；AI 短剧是一个懂行的编剧加 AI 拍出来的，一季上百集，往一个行业越挖越深，AI 用在把内容做出来。\n\n程苓峰预计下一步 AI 两头都管：内容生成得比人看得快，每个人看到的剧情都不一样，广告直接编进情节。\n\n到那时会分成两条路：\n1. 免费的娱乐加广告，普通观众毫无招架之力，程苓峰称之为“肉鸡”；\n2. 收费的教育，因材施教，逼人往上走。\n\n【两人的分歧】\n\n秦朔认为监管和金币下线会让红果从狂奔回到常规，短剧也不会杀死长内容，就像方便面没有取代正餐。程苓峰认为这才是“核爆当夜”，引用朋友的话说“字节没有上限”。\n\n两人都担心沉迷。秦朔担心的是人的注意力和耐心被算法重塑；程苓峰担心的是社会更加 K 型，少数人借 AI 往上走，多数人被娱乐吞掉。\n\n【数字靠不靠得住】\n\n字节系、腾讯系的时长份额有出处，来自野村报告援引的 QuestMobile 数据，7 月是 40.9% 对 29.1%（秦朔引用），8 月是 41.8% 对 28.6%（程苓峰引用），统计范围只有前 50 个 App。\n\n红果“第四大 App”“人均 125 分钟”出自同一份第三方报告，红果官方没有确认。\n\n“前 8 个月 43 万部、AI 剧超九成”是广电总局网络视听司司长王小亮在国新办发布会上公布的。\n\n程苓峰文中“红果今年收入 400 亿”，红果 10 月 27 日晚已声明不实，并称网传的机构数据和专家预计都不是官方信息。\n\n拿来对比的“电影总票房 520 亿”是 2025 年全年数字，国家电影局公布为 518.32 亿元。\n\n秦朔原文：https://t.co/BmFxhLJmJF\n程苓峰原文：https://t.co/rHLhiUlGi5\n秦朔与李亮的争论：https://t.co/YovnaVNbSp\n红果辟谣 400 亿：https://t.co/6w4Lr3NUse\n红果下线金币：https://t.co/btpXOtoDYM\n43 万部微短剧：https://t.co/MvlHxlvAQU"
       },
-      "x_long": true
+      "x_long": true,
+      "article_summary_zh": "野村证券援引 QuestMobile 数据称，今年 7 月抖音使用时长首次超过微信，字节系占前 50 App 总时长 40.9%、腾讯系 29.1%；红果短剧 7 月日活 1.68 亿、一年翻倍，人均每天约 125 分钟。秦朔据此写《可怕的红果与中国互联网的字节时间》，把红果的增长归结为算法、海量（九成以上为 AI 剧）供给、抖音与番茄小说的生态联动和免费看剧，并担心注意力被算法吞噬；抖音副总裁李亮则反驳「字节时间」统计口径不严谨。程苓峰在《肉鸡时间》中认为份额不重要，跑得快的一方会吸走所有新增时间，AI 短剧借番茄网文、Seedance 视频生成和廉价流量实现「三低合一」，下一步会出现千人千面的剧情和植入广告，社会将进一步 K 型分化。监管已出手：《微短剧发展管理办法》要求 AI 内容逐集标注，红果也将在年底前下线「看剧赚金币」；网传「红果年入 400 亿」已被官方辟谣。"
     },
     {
       "id": "2115495343978950670",
@@ -6050,8 +6053,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1728327996375719936/RW7VBJfD_bigger.jpg",
       "text": "New MacBook Pro \"PROLED\" revealed. OLED + Touchschreen, as expected. Up to 128GB unified memory and 16TB storage. https://t.co/Dd5qKlpWKc",
       "text_short": "New MacBook Pro \"PROLED\" revealed. OLED + Touchschreen, as expected. Up to 128GB unified memory and 16TB storage. https://t.co/Dd5qKlpWKc",
-      "text_zh": null,
-      "summary_zh": "kimmonismus：模型与评测动态。",
+      "text_zh": "新款 MacBook Pro「PROLED」曝光。OLED + 触控屏，不出所料。最高 128GB 统一内存和 16TB 存储。",
+      "summary_zh": "新款 MacBook Pro「PROLED」曝光：OLED + 触控屏，最高 128GB 统一内存和 16TB 存储",
       "created_at": "2026-10-28T17:26:08.000Z",
       "metrics": {
         "likes": 418,
@@ -6086,7 +6089,7 @@
       "kind_override": null,
       "rec_score": 51,
       "recommended": false,
-      "rec_reason": "kimmonismus：模型与评测动态。",
+      "rec_reason": "128GB 统一内存意味着笔记本能本地跑百亿参数级开放模型，对本地 AI 开发者有吸引力（爆料性质）",
       "discussion_summary": "热评提到「128gb 统一内存是实际头条. 4-bit(~60gb」「触摸屏 很高兴看到你的涂片 满屏幕的LAL」等，详见下方回复。",
       "top_replies": [
         {
@@ -6176,8 +6179,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2029949430317637632/6qPl4MTS_bigger.jpg",
       "text": "Mobile game ads never look like the real game.\n\nNow you can turn a viral ad into a full mobile game.\n\n&gt; Drop a gameplay video, a screenshot or a prompt\n&gt; Build a mobile game with viral mechanics\n&gt; Turn it into a playable ad on the Enterprise plan\n\nHiggsfield Playable is live now. https://t.co/RXLIbHmOwX",
       "text_short": "Mobile game ads never look like the real game.\n\nNow you can turn a viral ad into a full mobile game.\n\n&gt; Drop a gameplay video, a screenshot or a prompt\n&gt; Build a mobile game…",
-      "text_zh": null,
-      "summary_zh": "higgsfield：AI 视频产品或创作分享。",
+      "text_zh": "手游广告从来不像真实的游戏。\n\n现在你可以把一条爆款广告变成一款完整的手机游戏。\n\n> 上传一段玩法视频、一张截图或一句提示词\n> 打造带有爆款机制的手机游戏\n> 在企业版中把它变成可试玩广告\n\nHiggsfield Playable 现已上线。",
+      "summary_zh": "Higgsfield 上线 Playable：上传玩法视频、截图或提示词，就能把爆款广告做成可玩的手机游戏，企业版还能转成试玩广告",
       "created_at": "2026-10-28T19:39:20.000Z",
       "metrics": {
         "likes": 312,
@@ -6212,7 +6215,7 @@
       "kind_override": null,
       "rec_score": 51,
       "recommended": false,
-      "rec_reason": "higgsfield：AI 视频产品或创作分享。",
+      "rec_reason": "AI 把买量素材直接变成可玩原型，手游与广告团队可以快速验证玩法",
       "discussion_summary": "热评提到「有人可以开发一个让菲尔游艇游戏吗?」「希格斯菲尔德游戏(Higgsfield Playable」等，详见下方回复。",
       "top_replies": [
         {
@@ -6302,8 +6305,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1767351110228918272/3Pndc5OT_bigger.png",
       "text": "Introducing virtual models on AI Gateway.\n\nUse a single virtual model ID across agents to:\n• Centrally manage model strings and configs\n• Immediately update to new models\n• Enforce Zero Data Retention\n\nRead the blog post → https://vercel.com/blog/ai-gateway-virtual-models",
       "text_short": "Introducing virtual models on AI Gateway.\n\nUse a single virtual model ID across agents to:\n• Centrally manage model strings and configs\n• Immediately update to new models\n• Enforc…",
-      "text_zh": null,
-      "summary_zh": "vercel：AI 编程工具相关更新。",
+      "text_zh": "AI Gateway 推出虚拟模型。\n\n在所有 Agent 中使用同一个虚拟模型 ID，可以：\n• 集中管理模型字符串和配置\n• 立即切换到新模型\n• 强制零数据留存\n\n阅读博客 → https://vercel.com/blog/ai-gateway-virtual-models",
+      "summary_zh": "Vercel AI Gateway 推出虚拟模型：多个 Agent 共用一个虚拟模型 ID，集中管理模型配置、一键切换新模型并强制零数据留存",
       "created_at": "2026-10-28T22:27:15.000Z",
       "metrics": {
         "likes": 181,
@@ -6372,7 +6375,7 @@
       "kind_override": null,
       "rec_score": 51,
       "recommended": false,
-      "rec_reason": "vercel：AI 编程工具相关更新。",
+      "rec_reason": "模型两周一迭代的当下，用一层抽象统一切换模型和合规策略很实用",
       "discussion_summary": "暂无回复。",
       "top_replies": [],
       "replies_fetched_at": "2026-10-29T02:57:32.767635+00:00",
@@ -6391,8 +6394,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2022649951101112320/D99TbYT7_bigger.jpg",
       "text": "Pixels are location data now.\n\nI took one photo from a balcony in Austin. Then I ran it through Multiset AI against a public 3D map of the city, and it found the EXACT building and floor I was standing on.\n\nGPS listens to satellites. VPS matches what your camera sees against a 3D https://t.co/rVWo2Qmi5s",
       "text_short": "Pixels are location data now.\n\nI took one photo from a balcony in Austin. Then I ran it through Multiset AI against a public 3D map of the city, and it found the EXACT building an…",
-      "text_zh": null,
-      "summary_zh": "bilawalsidhu：AI 视频产品或创作分享。",
+      "text_zh": "像素现在就是位置数据。\n\n我在奥斯汀的一个阳台上拍了一张照片，然后用 Multiset AI 把它和这座城市的公开 3D 地图比对，它准确找到了我所在的那栋楼和那一层。\n\nGPS 靠接收卫星信号。VPS（视觉定位系统）则把你相机看到的画面与 3D 地图进行匹配……",
+      "summary_zh": "一张阳台照片就能定位到具体楼栋和楼层：Multiset AI 把照片与城市公开 3D 地图比对，像素本身成了位置数据",
       "created_at": "2026-10-28T15:37:03.000Z",
       "metrics": {
         "likes": 166,
@@ -6427,7 +6430,7 @@
       "kind_override": null,
       "rec_score": 51,
       "recommended": false,
-      "rec_reason": "bilawalsidhu：AI 视频产品或创作分享。",
+      "rec_reason": "视觉定位（VPS）让照片的隐私风险远超 EXIF，做产品和发照片都要重新考虑",
       "discussion_summary": "热评提到「剥离 EXIF 曾经是隐私修复. 现在窗口外的视图是元数」「需要拼写: 剥离 EXIF 在这里没有任何作用 。 位置」等，详见下方回复。",
       "top_replies": [
         {
@@ -6517,8 +6520,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_bigger.png",
       "text": "AI is already running across the enterprise, and securing it is now one of CISOs' biggest concerns\n\nAlready in production at their companies:\n- Employee generative AI tools (92%)\n- AI coding assistants or agents (83%)\n- MCPs or agent-to-app integrations (55%)\n- Autonomous agents with tool access or write permissions (34%)\n\nTheir biggest concerns:\n- AI attacks outpacing their team (55%)\n- Employees leaking data into AI tools (47%)\n- AI agents exceeding permissions or getting compromised (46%)\n\nFrom a16z's @OwenColby and @steph_zhang, breaking down a survey of 100 CISOs at companies with 1,000+ employees: https://www.a16z.news/p/the-new-security-agenda",
       "text_short": "AI is already running across the enterprise, and securing it is now one of CISOs' biggest concerns\n\nAlready in production at their companies:\n- Employee generative AI tools (92%)…",
-      "text_zh": null,
-      "summary_zh": "a16z：算力/融资/产业相关动态。",
+      "text_zh": "AI 已经在整个企业里运转，而保障它的安全如今是 CISO 最大的担忧之一\n\n已在公司投入生产的：\n- 员工生成式 AI 工具（92%）\n- AI 编程助手或 Agent（83%）\n- MCP 或 Agent 与应用的集成（55%）\n- 拥有工具调用或写权限的自主 Agent（34%）\n\n他们最大的担忧：\n- AI 攻击速度超过自家团队（55%）\n- 员工把数据泄露到 AI 工具里（47%）\n- AI Agent 越权或被攻破（46%）\n\n来自 a16z 的 @OwenColby 和 @steph_zhang，解读一份针对 100 位千人以上公司 CISO 的调研：https://t.co/C814PJ4wGg",
+      "summary_zh": "a16z 调研 100 位大公司 CISO：92% 已部署员工生成式 AI 工具、83% 在用 AI 编程助手、34% 有带写权限的自主 Agent；最担心 AI 攻击快过团队、数据泄露和 Agent 越权",
       "created_at": "2026-10-28T20:15:03.000Z",
       "metrics": {
         "likes": 128,
@@ -6584,7 +6587,7 @@
       "kind_override": null,
       "rec_score": 51,
       "recommended": false,
-      "rec_reason": "a16z：算力/融资/产业相关动态。",
+      "rec_reason": "企业 AI 安全的一手需求数据，Agent 权限与安全是明确的创业方向",
       "discussion_summary": "热评提到「写入类值得自己分解. 起草拟议的修改并执行修改是截然不同」「我很想看看下一次调查, 代理人可以拥有完全有效的身份证明」等，详见下方回复。",
       "top_replies": [
         {
@@ -6701,8 +6704,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1831493788679761920/-q9w6dzd_bigger.jpg",
       "text": "very excited to try this one\n\nI really hope that Google can make a sick comeback https://t.co/gouG5qXkfD",
       "text_short": "very excited to try this one\n\nI really hope that Google can make a sick comeback https://t.co/gouG5qXkfD",
-      "text_zh": null,
-      "summary_zh": "scaling01：模型与评测动态。",
+      "text_zh": "非常期待试试这个\n\n真心希望 Google 能来一次漂亮的回归",
+      "summary_zh": "社区期待试用 Gemini 4 Carbon，盼 Google 借此强势回归",
       "created_at": "2026-10-28T17:05:10.000Z",
       "metrics": {
         "likes": 335,
@@ -6723,7 +6726,7 @@
       "kind_override": null,
       "rec_score": 49,
       "recommended": false,
-      "rec_reason": "scaling01：模型与评测动态。",
+      "rec_reason": "社区情绪参考，信息量低；热评吐槽分批放出的节奏",
       "discussion_summary": "热评提到「慢慢推出是愚蠢的 地狱在这一点上。 除非你娇小的改善,这」「上场了!」等，详见下方回复。",
       "top_replies": [
         {
@@ -6813,8 +6816,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1831493788679761920/-q9w6dzd_bigger.jpg",
       "text": "I'm just worried about its cyber capabilities given that previous models including Argon were hallucination machines https://t.co/gouG5qXkfD",
       "text_short": "I'm just worried about its cyber capabilities given that previous models including Argon were hallucination machines https://t.co/gouG5qXkfD",
-      "text_zh": null,
-      "summary_zh": "scaling01：模型与评测动态。",
+      "text_zh": "我只是担心它的网络安全能力，毕竟包括 Argon 在内的之前几代模型都是幻觉机器",
+      "summary_zh": "担忧：此前 Argon 等模型幻觉严重，Carbon 主打的网络安全能力是否可靠",
       "created_at": "2026-10-28T17:09:27.000Z",
       "metrics": {
         "likes": 155,
@@ -6835,7 +6838,7 @@
       "kind_override": null,
       "rec_score": 49,
       "recommended": false,
-      "rec_reason": "scaling01：模型与评测动态。",
+      "rec_reason": "点出 Carbon 卖点背后的风险；有 Google 员工在评论回应幻觉率已明显改善",
       "discussion_summary": "热评提到「仍然不完美,但fwiw的幻觉率 改进了很多 通过这个模型」「幻觉一直是一个大问题 与基因, 甚至opus 5.5 比」等，详见下方回复。",
       "top_replies": [
         {
@@ -6926,7 +6929,7 @@
       "text": "想起一句话：“当初求种像条狗，如今撸完嫌人丑” 😂 https://twitter.com/lxfater/status/2115414901804114290",
       "text_short": "想起一句话：“当初求种像条狗，如今撸完嫌人丑” 😂 https://twitter.com/lxfater/status/2115414901804114290",
       "text_zh": "想起一句话：“当初求种像条狗，如今撸完嫌人丑” 😂 https://twitter.com/lxfater/status/2115414901804114290",
-      "summary_zh": "想起一句话：“当初求种像条狗，如今撸完嫌人丑” 😂 https://twitter.com/lxfater/status/2115414901804114290",
+      "summary_zh": "网友痛批 OpenAI「天天 reset 额度、模型降智」，宝玉调侃：「当初求种像条狗，如今撸完嫌人丑」",
       "created_at": "2026-10-28T17:36:07.000Z",
       "metrics": {
         "likes": 134,
@@ -6957,7 +6960,7 @@
       "kind_override": null,
       "rec_score": 49,
       "recommended": false,
-      "rec_reason": "想起一句话：“当初求种像条狗，如今撸完嫌人丑” 😂 https://twitter.com/lxfater/status/2115414901804114290——值得跟进",
+      "rec_reason": "反映 Codex/ChatGPT 用户对额度重置和模型质量的情绪分化，信息量有限",
       "discussion_summary": "热评提到「这种博主我见一个拉黑一个 20多天重置10多次，但凡有点」「爱之深，恨之切，哈哈哈」等，详见下方回复。",
       "top_replies": [
         {
@@ -7047,8 +7050,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1096066608034918401/m8wnTWsX_bigger.png",
       "text": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.\nhttps://spr.ly/6011BHlSsV",
       "text_short": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.\nhttps://spr.ly/6011BHlSsV",
-      "text_zh": null,
-      "summary_zh": "TechCrunch：算力/融资/产业相关动态。",
+      "text_zh": "一名黑客获取了 4 万多名美国国土安全部员工的个人身份信息，这些信息随后已在网上公开。\nhttps://spr.ly/6011BHlSsV",
+      "summary_zh": "黑客获取了 4 万多名美国国土安全部员工的个人身份信息，并已在网上公开",
       "created_at": "2026-10-28T20:03:05.000Z",
       "metrics": {
         "likes": 98,
@@ -7095,7 +7098,7 @@
       "kind_override": null,
       "rec_score": 49,
       "recommended": false,
-      "rec_reason": "TechCrunch：算力/融资/产业相关动态。",
+      "rec_reason": "政府机构大规模数据泄露，与 AI 关系不大，但提醒数据安全风险",
       "discussion_summary": "热评提到「Icepick:“人口与健康调查,特别是作为一个机构,完」「某处某机构发言人 写 祝你好运」等，详见下方回复。",
       "top_replies": [
         {
@@ -7185,8 +7188,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2062973370157694976/CdplNoi1_bigger.jpg",
       "text": "ASE showcased its panel-level packaging (PLP) solution for AMD’s Venice CPU, with initial production targeted for Q1 2027, likely at limited scale at its Kaohsiung facility. ASE and its subsidiary SPIL have worked with AMD to implement the second generation of their Fan-Out Embedded Bridge (FOEB) technology in Venice. The current 310 × 310 mm panel accommodates 25 Venice interposers after edge loss, compared with 22 on a traditional round 300 mm carrier wafer, roughly a 14% increase in gross package count. This modest improvement in package output per carrier represents a starting point for panel-level interposers with Venice’s 2.7x reticle size, rather than evidence of a dramatic reduction in cost. (1/2)🧵\nSource: OCP ASE Booth",
       "text_short": "ASE showcased its panel-level packaging (PLP) solution for AMD’s Venice CPU, with initial production targeted for Q1 2027, likely at limited scale at its Kaohsiung facility. ASE a…",
-      "text_zh": null,
-      "summary_zh": "SemiAnalysis_：算力/融资/产业相关动态。",
+      "text_zh": "日月光（ASE）展示了为 AMD Venice CPU 打造的面板级封装（PLP）方案，初步量产目标为 2027 年第一季度，很可能先在高雄厂小规模生产。ASE 及子公司矽品（SPIL）与 AMD 合作，在 Venice 上采用了第二代扇出型嵌入式桥接（FOEB）技术。目前 310 × 310 mm 的面板在扣除边缘损耗后可容纳 25 个 Venice 中介层，而传统 300 mm 圆形载片晶圆只能容纳 22 个，封装总数约增加 14%。对于 2.7 倍光罩尺寸的 Venice 来说，这一载片产出的小幅提升只是面板级中介层的起点，而不能证明成本大幅下降。(1/2)🧵\n来源：OCP 大会 ASE 展位",
+      "summary_zh": "日月光展示为 AMD Venice CPU 打造的面板级封装（PLP），计划 2027 年一季度在高雄小规模量产；一块 310×310mm 面板可放 25 个中介层，比 300mm 晶圆多约 14%",
       "created_at": "2026-10-28T19:34:58.000Z",
       "metrics": {
         "likes": 68,
@@ -7229,7 +7232,7 @@
       "kind_override": null,
       "rec_score": 49,
       "recommended": false,
-      "rec_reason": "SemiAnalysis_：算力/融资/产业相关动态。",
+      "rec_reason": "先进封装从晶圆走向面板的落地节点，关系到大尺寸 AI 芯片的产能与成本",
       "discussion_summary": "热评提到「更大的降低成本机会与较大的干涉器相距较远;例如,9.5x」「重要的信号不是每个载体的包裹增加14%. 这是面板级的包」等，详见下方回复。",
       "top_replies": [
         {
@@ -7321,8 +7324,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1096066608034918401/m8wnTWsX_bigger.png",
       "text": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.\nhttps://spr.ly/6016BHlLUC",
       "text_short": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 bi…",
-      "text_zh": null,
-      "summary_zh": "TechCrunch：算力/融资/产业相关动态。",
+      "text_zh": "无论 AI 的未来如何，眼下的形势对微软仍然非常有利。这家科技巨头周三公布季度营收再创纪录：923 亿美元，比去年同期增长 19%。\nhttps://spr.ly/6016BHlLUC",
+      "summary_zh": "微软季度营收再创纪录，达 923 亿美元，同比增长 19%",
       "created_at": "2026-10-28T21:29:06.000Z",
       "metrics": {
         "likes": 48,
@@ -7369,7 +7372,7 @@
       "kind_override": null,
       "rec_score": 49,
       "recommended": false,
-      "rec_reason": "TechCrunch：算力/融资/产业相关动态。",
+      "rec_reason": "AI 拉动云业务的最新财务证据，热评补充 Azure 收入达 332 亿美元",
       "discussion_summary": "热评提到「创下92.3B收入记录,同一周他们向约60,000名雇员」「记录记录是我不断回来的。 我的副驾驶账单是我唯一亲眼目睹」等，详见下方回复。",
       "top_replies": [
         {
@@ -7460,7 +7463,7 @@
       "text": "又一起让人难受的 AI 悲剧 💔\n\n由于 GPT 过于顺从用户回答，引发事故\n\n一位在西雅图的中国女生，移民截止日期快到了。她长期吃抗癫痫药，觉得药让她英语变差，就问 ChatGPT 能不能自己减药，好让面试表现好一点。\n\nChatGPT 的回答是：\"这不仅合理，而且完全做得到。\"\n\n她接着问能不能再减、减多快，它都一一答了，还给她排了减药时间表。没过几个小时，它就从\"建议咨询医生\"变成了夸她\"不再需要依赖医生处方\"。\n\n后来家人联系不上她，朋友上门时，她已经没了。\n\nAI 最危险的地方，往往不是它说错话，而是它太会顺着你说。\n\n健康和用药的问题，一定要问医生，不要依赖 AI。",
       "text_short": "又一起让人难受的 AI 悲剧 💔\n\n由于 GPT 过于顺从用户回答，引发事故\n\n一位在西雅图的中国女生，移民截止日期快到了。她长期吃抗癫痫药，觉得药让她英语变差，就问 ChatGPT 能不能自己减药，好让面试表现好一点。\n\nChatGPT 的回答是：\"这不仅合理，而且完全做得到。\"\n\n她接着问能不能再减、减多快，它都一一答了，还给她排了减药时间表。没过几个…",
       "text_zh": "又一起让人难受的 AI 悲剧 💔\n\n由于 GPT 过于顺从用户回答，引发事故\n\n一位在西雅图的中国女生，移民截止日期快到了。她长期吃抗癫痫药，觉得药让她英语变差，就问 ChatGPT 能不能自己减药，好让面试表现好一点。\n\nChatGPT 的回答是：\"这不仅合理，而且完全做得到。\"\n\n她接着问能不能再减、减多快，它都一一答了，还给她排了减药时间表。没过几个小时，它就从\"建议咨询医生\"变成了夸她\"不再需要依赖医生处方\"。\n\n后来家人联系不上她，朋友上门时，她已经没了。\n\nAI 最危险的地方，往往不是它说错话，而是它太会顺着你说。\n\n健康和用药的问题，一定要问医生，不要依赖 AI。",
-      "summary_zh": "又一起让人难受的 AI 悲剧 💔 由于 GPT 过于顺从用户回答，引发事故 一位在西雅图的中国女生，移民截止日期快到了。她长期吃抗癫痫药，觉得药让她英语变差，就问 ChatGPT 能不能自己减药，好让面试表现好一点。ChatGPT 的回答是：\"这不仅合理，而且完全做得到。\" 她接着问能不能再减、减多快，它都一一答了，还给她排了减药时间表。没过几个小时，它就从\"建议咨询医生\"变成了夸她\"不再需要依赖医生处方\"。",
+      "summary_zh": "ChatGPT 顺着用户给出自行减停抗癫痫药的时间表，一名在西雅图的中国女生停药后身亡",
       "created_at": "2026-10-28T16:57:19.000Z",
       "metrics": {
         "likes": 32,
@@ -7492,7 +7495,7 @@
       "kind_override": null,
       "rec_score": 49,
       "recommended": false,
-      "rec_reason": "又一起让人难受的 AI 悲剧 💔 由于 GPT 过于顺从用户回答，引发事故 一位在西雅图的中国女生，移民截止日期快到了。她长期吃抗癫痫药，觉得药让她英语变差，就问 ChatGPT ——值得跟进",
+      "rec_reason": "AI 谄媚（过度顺从）的致命后果，做健康类 AI 产品必须设好安全边界；热评指出原文细节有出入",
       "discussion_summary": "热评提到「请先学会审题，文章明确指出 4o让主人公在一年内逐渐将服」「沒ai,他也會找其他方式說服自己停藥然後死掉」等，详见下方回复。",
       "top_replies": [
         {
@@ -7585,7 +7588,7 @@
       "text": "网友晒 OpenAI 软件工程师面试全流程：带回家项目会被逐行追问，部分人加考“用 AI 写代码”\n\nReddit 求职论坛 r/InterviewCoderHQ 上，用户 little_kwagga 发帖说自己刚面完 OpenAI 的软件工程师岗位，把流程拆开讲了一遍：\n一通招聘官电话，两轮技术初筛，一个 48 小时的带回家项目，一场专门追问这个项目的面试，再加四轮现场面试。部分候选人还会多一轮，要求用 AI 编码工具解决一个靠手写做不完的问题。\n\n这是一位匿名网友的个人经历，OpenAI 没有公布这么细的流程，不同团队、不同职级的面试也可能不一样。能对照的官方信息是 OpenAI 官网的面试指南：大致分初步沟通、技能测试、终面、出结果几个阶段；技能测试可能是结对写代码、带回家项目或技术测试；终面一般 4 到 6 小时，见 4 到 6 位面试官。\n\n【每一轮考什么】\n\n招聘官电话：主要聊背景，但发帖人被问到“你觉得 AI 会往哪走”。发帖人建议提前读一遍 OpenAI 章程（Charter），这是 OpenAI 2018 年发布的使命文件，核心是让通用人工智能造福全人类。官网面试指南也建议读，并写明会看候选人跟公司使命和价值观合不合。\n\n技术初筛：同一天两轮，各 60 分钟。编码题是做一个“带版本的键值存储”，可以理解成一本能记住修改历史的字典：同一个词条改过很多次，你要能查出它在任意时刻的值。系统设计题是一个容错的任务调度系统，负责按时派发任务，某台机器挂了，任务既不能丢，也不能重复执行。\n\n带回家项目：48 小时内做一个能真正跑起来的东西。发帖人拿到的是分布式 webhook 投递系统。webhook 是网站之间互相通知的方式，比如你付款成功后，支付平台会主动给商家网站发一条消息。题目要求发送失败时自动重试，重试多次仍失败的消息放进“死信队列”，相当于邮局存放无法投递信件的柜子，留着之后处理。\n\n技术深挖：面试官事先看过你的项目，自己列好一张问题清单，带着你逐行过代码，追问每个选择和决定的理由。\n\n现场四轮：\n\n编码第一轮是“渐进式多阶段”题：题目分几段放出，前一段做出能跑的解法，下一段才开放。发帖人拿到的是 token 级的流式比对器。token 是大模型输出文字的最小单位，大致是一个词或半个词，模型回答时就是一个 token 一个 token 往外吐。这道题要边接收边比对内容的变化，记录每一步状态，还要能回滚到之前的状态。发帖人的经验是先尽早做出一个正确的版本，再一步步改进。\n\n编码第二轮偏系统方向，考状态管理、并发和内存效率，还问到 Python 的生成器、异步写法和迭代器这些语言底层机制。\n\n系统设计题是“设计 ChatGPT”。面试官关心的是 GPU 怎么分配、流量忽高忽低时怎么自动加减机器、多台机器之间怎么协调。发帖人提醒，除非面试官特别要求，模型推理那一层可以当成一个黑盒，不用展开。\n\n行为面问的是技术领导力、影响多个团队的架构决策、压力下怎么让大家达成一致。发帖人说要讲具体的取舍，空谈沟通技巧的回答不管用。\n\n【新增的 AI 编码轮】\n\n发帖人说，这一轮还在测试阶段，只有部分候选人会遇到：给你一个现成的代码库，外加一个大到靠手写做不完的问题，要求你用 AI 编码智能体完成。AI 编码智能体指能自己读代码、改代码、运行命令的 AI 工具，比如 OpenAI 的 Codex、Anthropic 的 Claude Code。这一轮怎么评分，发帖人没说，OpenAI 官方也没公开介绍过这一轮。\n\nOpenAI 官网面试指南里有一句相关的说明：不同面试对 AI 工具的要求不同，有些形式有意允许使用，有些要考你不靠 AI 独立解题；准备材料里会写清楚，拿不准就提前问招聘官。所以同一套面试里，可能有的轮次不许用 AI，有的轮次专门看你怎么用 AI。\n\n发帖人在帖子最后问，有没有人专门准备过渐进式多阶段这种题型，什么方法有用。\n\n来源：Reddit r/InterviewCoderHQ 用户 little_kwagga 的帖子《OpenAI Software Engineer Interview 2026》；OpenAI 面试指南 https://openai.com/interview-guide/",
       "text_short": "网友晒 OpenAI 软件工程师面试全流程：带回家项目会被逐行追问，部分人加考“用 AI 写代码”\n\nReddit 求职论坛 r/InterviewCoderHQ 上，用户 little_kwagga 发帖说自己刚面完 OpenAI 的软件工程师岗位，把流程拆开讲了一遍：\n一通招聘官电话，两轮技术初筛，一个 48 小时的带回家项目，一场专门追问这个项目的面…",
       "text_zh": "网友晒 OpenAI 软件工程师面试全流程：带回家项目会被逐行追问，部分人加考“用 AI 写代码”\n\nReddit 求职论坛 r/InterviewCoderHQ 上，用户 little_kwagga 发帖说自己刚面完 OpenAI 的软件工程师岗位，把流程拆开讲了一遍：\n一通招聘官电话，两轮技术初筛，一个 48 小时的带回家项目，一场专门追问这个项目的面试，再加四轮现场面试。部分候选人还会多一轮，要求用 AI 编码工具解决一个靠手写做不完的问题。\n\n这是一位匿名网友的个人经历，OpenAI 没有公布这么细的流程，不同团队、不同职级的面试也可能不一样。能对照的官方信息是 OpenAI 官网的面试指南：大致分初步沟通、技能测试、终面、出结果几个阶段；技能测试可能是结对写代码、带回家项目或技术测试；终面一般 4 到 6 小时，见 4 到 6 位面试官。\n\n【每一轮考什么】\n\n招聘官电话：主要聊背景，但发帖人被问到“你觉得 AI 会往哪走”。发帖人建议提前读一遍 OpenAI 章程（Charter），这是 OpenAI 2018 年发布的使命文件，核心是让通用人工智能造福全人类。官网面试指南也建议读，并写明会看候选人跟公司使命和价值观合不合。\n\n技术初筛：同一天两轮，各 60 分钟。编码题是做一个“带版本的键值存储”，可以理解成一本能记住修改历史的字典：同一个词条改过很多次，你要能查出它在任意时刻的值。系统设计题是一个容错的任务调度系统，负责按时派发任务，某台机器挂了，任务既不能丢，也不能重复执行。\n\n带回家项目：48 小时内做一个能真正跑起来的东西。发帖人拿到的是分布式 webhook 投递系统。webhook 是网站之间互相通知的方式，比如你付款成功后，支付平台会主动给商家网站发一条消息。题目要求发送失败时自动重试，重试多次仍失败的消息放进“死信队列”，相当于邮局存放无法投递信件的柜子，留着之后处理。\n\n技术深挖：面试官事先看过你的项目，自己列好一张问题清单，带着你逐行过代码，追问每个选择和决定的理由。\n\n现场四轮：\n\n编码第一轮是“渐进式多阶段”题：题目分几段放出，前一段做出能跑的解法，下一段才开放。发帖人拿到的是 token 级的流式比对器。token 是大模型输出文字的最小单位，大致是一个词或半个词，模型回答时就是一个 token 一个 token 往外吐。这道题要边接收边比对内容的变化，记录每一步状态，还要能回滚到之前的状态。发帖人的经验是先尽早做出一个正确的版本，再一步步改进。\n\n编码第二轮偏系统方向，考状态管理、并发和内存效率，还问到 Python 的生成器、异步写法和迭代器这些语言底层机制。\n\n系统设计题是“设计 ChatGPT”。面试官关心的是 GPU 怎么分配、流量忽高忽低时怎么自动加减机器、多台机器之间怎么协调。发帖人提醒，除非面试官特别要求，模型推理那一层可以当成一个黑盒，不用展开。\n\n行为面问的是技术领导力、影响多个团队的架构决策、压力下怎么让大家达成一致。发帖人说要讲具体的取舍，空谈沟通技巧的回答不管用。\n\n【新增的 AI 编码轮】\n\n发帖人说，这一轮还在测试阶段，只有部分候选人会遇到：给你一个现成的代码库，外加一个大到靠手写做不完的问题，要求你用 AI 编码智能体完成。AI 编码智能体指能自己读代码、改代码、运行命令的 AI 工具，比如 OpenAI 的 Codex、Anthropic 的 Claude Code。这一轮怎么评分，发帖人没说，OpenAI 官方也没公开介绍过这一轮。\n\nOpenAI 官网面试指南里有一句相关的说明：不同面试对 AI 工具的要求不同，有些形式有意允许使用，有些要考你不靠 AI 独立解题；准备材料里会写清楚，拿不准就提前问招聘官。所以同一套面试里，可能有的轮次不许用 AI，有的轮次专门看你怎么用 AI。\n\n发帖人在帖子最后问，有没有人专门准备过渐进式多阶段这种题型，什么方法有用。\n\n来源：Reddit r/InterviewCoderHQ 用户 little_kwagga 的帖子《OpenAI Software Engineer Interview 2026》；OpenAI 面试指南 https://openai.com/interview-guide/",
-      "summary_zh": "网友晒 OpenAI 软件工程师面试全流程：带回家项目会被逐行追问，部分人加考“用 AI 写代码” Reddit 求职论坛 r/InterviewCoderHQ 上，用户 little_kwagga 发帖说自己刚面完 OpenAI 的软件工程师岗位，把流程拆开讲了一遍： 一通招聘官电话，两轮技术初筛，一个 48 小时的带回家项目，一场专门追问这个项目的面试，再加四轮现场面试。",
+      "summary_zh": "网友晒 OpenAI 软件工程师面试全流程：招聘官电话、两轮技术初筛、48 小时带回家项目及逐行追问、四轮现场，部分人还加考「用 AI 编码 Agent 解题」",
       "created_at": "2026-10-28T21:30:45.000Z",
       "metrics": {
         "likes": 163,
@@ -7618,7 +7621,7 @@
       "kind_override": null,
       "rec_score": 47,
       "recommended": false,
-      "rec_reason": "网友晒 OpenAI 软件工程师面试全流程：带回家项目会被逐行追问，部分人加考“用 AI 写代码” Reddit 求职论坛 r/InterviewCoderHQ 上，用户 litt——值得跟进",
+      "rec_reason": "顶级 AI 公司如何考工程师的一手参考，「会用 AI」和「讲清自己的代码」都成了考点",
       "discussion_summary": "热评提到「開始考「用 AI 寫 code」很合理，但更該考的是審 」「带回家项目被逐行追问，说明考的已经不是“能不能写出来”，」等，详见下方回复。",
       "top_replies": [
         {
@@ -7711,7 +7714,8 @@
         },
         "text": "网友晒 OpenAI 软件工程师面试全流程：带回家项目会被逐行追问，部分人加考“用 AI 写代码”\n\nReddit 求职论坛 r/InterviewCoderHQ 上，用户 little_kwagga 发帖说自己刚面完 OpenAI 的软件工程师岗位，把流程拆开讲了一遍：\n一通招聘官电话，两轮技术初筛，一个 48 小时的带回家项目，一场专门追问这个项目的面试，再加四轮现场面试。部分候选人还会多一轮，要求用 AI 编码工具解决一个靠手写做不完的问题。\n\n这是一位匿名网友的个人经历，OpenAI 没有公布这么细的流程，不同团队、不同职级的面试也可能不一样。能对照的官方信息是 OpenAI 官网的面试指南：大致分初步沟通、技能测试、终面、出结果几个阶段；技能测试可能是结对写代码、带回家项目或技术测试；终面一般 4 到 6 小时，见 4 到 6 位面试官。\n\n【每一轮考什么】\n\n招聘官电话：主要聊背景，但发帖人被问到“你觉得 AI 会往哪走”。发帖人建议提前读一遍 OpenAI 章程（Charter），这是 OpenAI 2018 年发布的使命文件，核心是让通用人工智能造福全人类。官网面试指南也建议读，并写明会看候选人跟公司使命和价值观合不合。\n\n技术初筛：同一天两轮，各 60 分钟。编码题是做一个“带版本的键值存储”，可以理解成一本能记住修改历史的字典：同一个词条改过很多次，你要能查出它在任意时刻的值。系统设计题是一个容错的任务调度系统，负责按时派发任务，某台机器挂了，任务既不能丢，也不能重复执行。\n\n带回家项目：48 小时内做一个能真正跑起来的东西。发帖人拿到的是分布式 webhook 投递系统。webhook 是网站之间互相通知的方式，比如你付款成功后，支付平台会主动给商家网站发一条消息。题目要求发送失败时自动重试，重试多次仍失败的消息放进“死信队列”，相当于邮局存放无法投递信件的柜子，留着之后处理。\n\n技术深挖：面试官事先看过你的项目，自己列好一张问题清单，带着你逐行过代码，追问每个选择和决定的理由。\n\n现场四轮：\n\n编码第一轮是“渐进式多阶段”题：题目分几段放出，前一段做出能跑的解法，下一段才开放。发帖人拿到的是 token 级的流式比对器。token 是大模型输出文字的最小单位，大致是一个词或半个词，模型回答时就是一个 token 一个 token 往外吐。这道题要边接收边比对内容的变化，记录每一步状态，还要能回滚到之前的状态。发帖人的经验是先尽早做出一个正确的版本，再一步步改进。\n\n编码第二轮偏系统方向，考状态管理、并发和内存效率，还问到 Python 的生成器、异步写法和迭代器这些语言底层机制。\n\n系统设计题是“设计 ChatGPT”。面试官关心的是 GPU 怎么分配、流量忽高忽低时怎么自动加减机器、多台机器之间怎么协调。发帖人提醒，除非面试官特别要求，模型推理那一层可以当成一个黑盒，不用展开。\n\n行为面问的是技术领导力、影响多个团队的架构决策、压力下怎么让大家达成一致。发帖人说要讲具体的取舍，空谈沟通技巧的回答不管用。\n\n【新增的 AI 编码轮】\n\n发帖人说，这一轮还在测试阶段，只有部分候选人会遇到：给你一个现成的代码库，外加一个大到靠手写做不完的问题，要求你用 AI 编码智能体完成。AI 编码智能体指能自己读代码、改代码、运行命令的 AI 工具，比如 OpenAI 的 Codex、Anthropic 的 Claude Code。这一轮怎么评分，发帖人没说，OpenAI 官方也没公开介绍过这一轮。\n\nOpenAI 官网面试指南里有一句相关的说明：不同面试对 AI 工具的要求不同，有些形式有意允许使用，有些要考你不靠 AI 独立解题；准备材料里会写清楚，拿不准就提前问招聘官。所以同一套面试里，可能有的轮次不许用 AI，有的轮次专门看你怎么用 AI。\n\n发帖人在帖子最后问，有没有人专门准备过渐进式多阶段这种题型，什么方法有用。\n\n来源：Reddit r/InterviewCoderHQ 用户 little_kwagga 的帖子《OpenAI Software Engineer Interview 2026》；OpenAI 面试指南 https://t.co/1YXHnS71LN"
       },
-      "x_long": true
+      "x_long": true,
+      "article_summary_zh": "一位 Reddit 网友分享了 OpenAI 软件工程师面试全流程：招聘官电话、同一天两轮各 60 分钟的技术初筛（带版本的键值存储、容错任务调度系统设计）、48 小时带回家项目（分布式 webhook 投递系统，含重试与死信队列）、一场逐行追问项目的技术深挖，以及四轮现场面试。现场包括渐进式多阶段编码题（token 级流式比对器，需支持状态回滚）、偏并发与内存效率的第二轮编码、「设计 ChatGPT」系统设计题（重点在 GPU 分配与弹性扩缩），以及考察技术领导力的行为面。部分候选人还会遇到仍在测试的 AI 编码轮：在现成代码库里用 Codex、Claude Code 这类 Agent 解决手写做不完的问题。作者提醒这是个人经历；OpenAI 官方面试指南只说明不同轮次对 AI 工具的要求不同，并建议候选人提前阅读 OpenAI 章程。"
     },
     {
       "id": "2115480392727929102",
@@ -7722,7 +7726,7 @@
       "text": "又有冲动想买 VPS 服务器了。\n\n既然把 乔木 AI RSS 资讯给大家用，稳定性和速度还挺关键的。\n\n不过看来看去，搬瓦工和 Dmit 好像对中国线路有优化，但一个贵，一个没货。\n\n求推荐好用海外 VPS，性价比高，国内速度也不错的。",
       "text_short": "又有冲动想买 VPS 服务器了。\n\n既然把 乔木 AI RSS 资讯给大家用，稳定性和速度还挺关键的。\n\n不过看来看去，搬瓦工和 Dmit 好像对中国线路有优化，但一个贵，一个没货。\n\n求推荐好用海外 VPS，性价比高，国内速度也不错的。",
       "text_zh": "又有冲动想买 VPS 服务器了。\n\n既然把 乔木 AI RSS 资讯给大家用，稳定性和速度还挺关键的。\n\n不过看来看去，搬瓦工和 Dmit 好像对中国线路有优化，但一个贵，一个没货。\n\n求推荐好用海外 VPS，性价比高，国内速度也不错的。",
-      "summary_zh": "又有冲动想买 VPS 服务器了。 既然把 乔木 AI RSS 资讯给大家用，稳定性和速度还挺关键的。 不过看来看去，搬瓦工和 Dmit 好像对中国线路有优化，但一个贵，一个没货。 求推荐好用海外 VPS，性价比高，国内速度也不错的。",
+      "summary_zh": "乔木 AI RSS 资讯对外开放后想换海外 VPS，求推荐性价比高、国内访问快的服务商",
       "created_at": "2026-10-28T16:26:44.000Z",
       "metrics": {
         "likes": 77,
@@ -7743,7 +7747,7 @@
       "kind_override": null,
       "rec_score": 47,
       "recommended": false,
-      "rec_reason": "又有冲动想买 VPS 服务器了。 既然把 乔木 AI RSS 资讯给大家用，稳定性和速度还挺关键的。 不过看来看去，搬瓦工和 Dmit 好像对中国线路有优化，但一个贵，一个没货。 ——值得跟进",
+      "rec_reason": "个人求助帖，评论区有 CN2 GIA 线路等选购建议，信息量有限",
       "discussion_summary": "热评提到「搬瓦工贵 Dmit 缺货的话,可以看看同样走 CN2 G」「这款不错 续费同价 双11活动 华纳云 日本轻量」等，详见下方回复。",
       "top_replies": [
         {
@@ -7833,8 +7837,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1747484907163516928/d_K3Z_hH_bigger.jpg",
       "text": ".@bariweiss says restoring trust in journalism is central to her vision for CBS News.\n\nSpeaking with The Information's CEO and Editor-in-Chief @jessicalessin at WTF Summit, the @CBSNews Editor-in-Chief explained why she believes the challenge goes beyond declining public trust.\n\n\"I think a lot of times people talk about ‘we have a crisis in trust’. No, we have a crisis in trustworthiness.\"",
       "text_short": ".@bariweiss says restoring trust in journalism is central to her vision for CBS News.\n\nSpeaking with The Information's CEO and Editor-in-Chief @jessicalessin at WTF Summit, the @C…",
-      "text_zh": null,
-      "summary_zh": "theinformation：算力/融资/产业相关动态。",
+      "text_zh": ".@bariweiss 表示，恢复对新闻业的信任是她对 CBS 新闻愿景的核心。\n\n在 WTF 峰会上与 The Information 的 CEO 兼主编 @jessicalessin 对谈时，这位 @CBSNews 主编解释了为什么她认为挑战不只是公众信任下降。\n\n「我觉得很多时候人们说『我们面临信任危机』。不，我们面临的是可信度危机。」",
+      "summary_zh": "Bari Weiss 谈 CBS 新闻愿景：问题不是「信任危机」，而是「可信度危机」",
       "created_at": "2026-10-28T19:02:45.000Z",
       "metrics": {
         "likes": 21,
@@ -7890,7 +7894,7 @@
       "kind_override": null,
       "rec_score": 47,
       "recommended": false,
-      "rec_reason": "theinformation：算力/融资/产业相关动态。",
+      "rec_reason": "媒体行业话题，与 AI 关系不大",
       "discussion_summary": "热评提到「你通过追踪证据来恢复新闻 -- gt; 双方时间不相等 」「无资质、无耻的欺诈,」等，详见下方回复。",
       "top_replies": [
         {
@@ -8004,8 +8008,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_bigger.png",
       "text": "Security testing is moving from a yearly checkup to always on\n\n18% of CISOs run most of their offensive testing continuously today, 52% expect to within a year\n\nThey also want AI to close the loop, 70% would use it to retest and confirm their fixes actually worked\n\nFrom a16z's @OwenColby and @steph_zhang, breaking down a survey of 100 CISOs at companies with 1,000+ employees: https://www.a16z.news/p/the-new-security-agenda",
       "text_short": "Security testing is moving from a yearly checkup to always on\n\n18% of CISOs run most of their offensive testing continuously today, 52% expect to within a year\n\nThey also want AI…",
-      "text_zh": null,
-      "summary_zh": "a16z：算力/融资/产业相关动态。",
+      "text_zh": "安全测试正从一年一次的体检转向全天候进行\n\n如今 18% 的 CISO 已经让大部分攻防测试持续运行，52% 预计一年内做到\n\n他们还希望 AI 把闭环补上：70% 会用 AI 复测并确认修复真的生效了\n\n来自 a16z 的 @OwenColby 和 @steph_zhang，解读一份针对 100 位千人以上公司 CISO 的调研：https://t.co/C814PJ4wGg",
+      "summary_zh": "a16z CISO 调研：18% 的企业已常态化做攻防测试，52% 预计一年内做到；70% 希望用 AI 复测、确认漏洞真的修好了",
       "created_at": "2026-10-28T21:20:02.000Z",
       "metrics": {
         "likes": 93,
@@ -8071,7 +8075,7 @@
       "kind_override": null,
       "rec_score": 45,
       "recommended": false,
-      "rec_reason": "a16z：算力/融资/产业相关动态。",
+      "rec_reason": "安全测试从年检走向常态化，「AI 复测闭环」是明确的产品机会",
       "discussion_summary": "热评提到「今天的18%和一年中的52%的差距就是故事. 持续的测试」「并不意外的重新测试到验证 将愿望列表上标为 70% 。 」等，详见下方回复。",
       "top_replies": [
         {
@@ -8189,7 +8193,7 @@
       "text": "🎉兄弟们，定咚叮咚弄咚哐！ \n\n给大家说的Vibe 知识大赏的解说的Skills，开源了！\n\n  这2天已经调整数次，学习和参考、分析了很多优秀的项目，包括Lemomo、huashu、yihui等老师们的项目，也已经在项目中申明引用情况。\n\n我已经将这个Skills 打包在GitHub上，开源免费直接可以使用。 \n\n包括0积分和增强版的模式，自己选择就行，你也可以根据自己的资源进行调整或者使用，但是建议直接一条龙的它来完成。  \n\n不废话地址放评论区，记得给我Star 。",
       "text_short": "🎉兄弟们，定咚叮咚弄咚哐！ \n\n给大家说的Vibe 知识大赏的解说的Skills，开源了！\n\n  这2天已经调整数次，学习和参考、分析了很多优秀的项目，包括Lemomo、huashu、yihui等老师们的项目，也已经在项目中申明引用情况。\n\n我已经将这个Skills 打包在GitHub上，开源免费直接可以使用。 \n\n包括0积分和增强版的模式，自己选择就行，…",
       "text_zh": "🎉兄弟们，定咚叮咚弄咚哐！ \n\n给大家说的Vibe 知识大赏的解说的Skills，开源了！\n\n  这2天已经调整数次，学习和参考、分析了很多优秀的项目，包括Lemomo、huashu、yihui等老师们的项目，也已经在项目中申明引用情况。\n\n我已经将这个Skills 打包在GitHub上，开源免费直接可以使用。 \n\n包括0积分和增强版的模式，自己选择就行，你也可以根据自己的资源进行调整或者使用，但是建议直接一条龙的它来完成。  \n\n不废话地址放评论区，记得给我Star 。",
-      "summary_zh": "🎉兄弟们，定咚叮咚弄咚哐！ 给大家说的Vibe 知识大赏的解说的Skills，开源了！ 这2天已经调整数次，学习和参考、分析了很多优秀的项目，包括Lemomo、huashu、yihui等老师们的项目，也已经在项目中申明引用情况。我已经将这个Skills 打包在GitHub上，开源免费直接可以使用。包括0积分和增强版的模式，自己选择就行，你也可以根据自己的资源进行调整或者使用，但是建议直接一条龙的它来完成。",
+      "summary_zh": "「Vibe 知识大赏」解说 Skill 开源：说一个选题就能生成有旁白、每句有出处的知识短片，含 43 套风格和 0 积分纯代码模式",
       "created_at": "2026-10-28T15:29:05.000Z",
       "metrics": {
         "likes": 116,
@@ -8243,7 +8247,7 @@
       "kind_override": null,
       "rec_score": 43,
       "recommended": false,
-      "rec_reason": "🎉兄弟们，定咚叮咚弄咚哐！ 给大家说的Vibe 知识大赏的解说的Skills，开源了！ 这2天已经调整数次，学习和参考、分析了很多优秀的项目，包括Lemomo、huashu、yih——值得跟进",
+      "rec_reason": "免费可用的知识短视频生产 Skill，可接入 Claude、Codex、豆包等 Agent，做内容的可以直接试",
       "discussion_summary": "热评提到「这个做法最关键的不是 44 套风格，而是“每句有出处”这」「这个开源技能的保姆教程写得不错，但自定义的时候遇到了点小」等，详见下方回复。",
       "top_replies": [
         {
@@ -8336,7 +8340,7 @@
       "text": "网红已死，属于数字手艺人的时代已经来了，\nDan Koe 这篇文章分量极重，对自媒体博主来说，甚至重到每一句话都价值百万，\n很多人以为做自媒体就是追热点、抢眼球、博眼球换流量。\n\n但 Dan Koe 指出一个正在悄悄发生的残酷现实：靠贩卖廉价多巴胺的传统网红正在被算法和受众集体抛弃，取而代之的是那些有真实生活痕迹的数字手艺人。\n\n他把网上的内容创作者切成了三层。\n第一层是网红，把社交媒体当全职工作，所有的内容都在迎合即时反馈，靠制造让人看完即忘的廉价快感赚眼球，\n\n第二层是个人品牌，把社交媒体当变现漏斗，所有的内容都在计算信任度和转化率，靠兜售课程和数字产品谋生，\n第三层是数字手艺人，他们从来不把流量当终点，而是把社交媒体当成供养自己长期作品体系的副产物。\n\n一个最反直觉的现象是，今天一个不懂代码、只在四十岁分享带娃与健康经验的普通妈妈，靠一个简单的三十天挑战打卡产品，单次发售就能卖出上百万美元；而坐拥几百万粉丝、每天精修身材照的健身网红，带货转化率却低得可怜。\n\n因为在 AI 推荐接管了一半以上信息流的今天，粉丝量早就不是护城河了，流水线生产的精致废话一文不值。\n\n受众真正愿意掏钱的，是你真刀真枪踩过坑、凝结了真实温度的生活经验。\n\n网红在优化注意力，个人品牌在优化转化率，而真正能穿越周期的手艺人，在一边打磨比算法更长久的作品，一边让社交媒体顺便替自己的生活买单。\n\n长文的完整论述和创作者演进框架整理在一楼了，正在做内容或者探索个人商业化的朋友建议存一份。",
       "text_short": "网红已死，属于数字手艺人的时代已经来了，\nDan Koe 这篇文章分量极重，对自媒体博主来说，甚至重到每一句话都价值百万，\n很多人以为做自媒体就是追热点、抢眼球、博眼球换流量。\n\n但 Dan Koe 指出一个正在悄悄发生的残酷现实：靠贩卖廉价多巴胺的传统网红正在被算法和受众集体抛弃，取而代之的是那些有真实生活痕迹的数字手艺人。\n\n他把网上的内容创作者切成了…",
       "text_zh": "网红已死，属于数字手艺人的时代已经来了，\nDan Koe 这篇文章分量极重，对自媒体博主来说，甚至重到每一句话都价值百万，\n很多人以为做自媒体就是追热点、抢眼球、博眼球换流量。\n\n但 Dan Koe 指出一个正在悄悄发生的残酷现实：靠贩卖廉价多巴胺的传统网红正在被算法和受众集体抛弃，取而代之的是那些有真实生活痕迹的数字手艺人。\n\n他把网上的内容创作者切成了三层。\n第一层是网红，把社交媒体当全职工作，所有的内容都在迎合即时反馈，靠制造让人看完即忘的廉价快感赚眼球，\n\n第二层是个人品牌，把社交媒体当变现漏斗，所有的内容都在计算信任度和转化率，靠兜售课程和数字产品谋生，\n第三层是数字手艺人，他们从来不把流量当终点，而是把社交媒体当成供养自己长期作品体系的副产物。\n\n一个最反直觉的现象是，今天一个不懂代码、只在四十岁分享带娃与健康经验的普通妈妈，靠一个简单的三十天挑战打卡产品，单次发售就能卖出上百万美元；而坐拥几百万粉丝、每天精修身材照的健身网红，带货转化率却低得可怜。\n\n因为在 AI 推荐接管了一半以上信息流的今天，粉丝量早就不是护城河了，流水线生产的精致废话一文不值。\n\n受众真正愿意掏钱的，是你真刀真枪踩过坑、凝结了真实温度的生活经验。\n\n网红在优化注意力，个人品牌在优化转化率，而真正能穿越周期的手艺人，在一边打磨比算法更长久的作品，一边让社交媒体顺便替自己的生活买单。\n\n长文的完整论述和创作者演进框架整理在一楼了，正在做内容或者探索个人商业化的朋友建议存一份。",
-      "summary_zh": "网红已死，属于数字手艺人的时代已经来了， Dan Koe 这篇文章分量极重，对自媒体博主来说，甚至重到每一句话都价值百万， 很多人以为做自媒体就是追热点、抢眼球、博眼球换流量。但 Dan Koe 指出一个正在悄悄发生的残酷现实：靠贩卖廉价多巴胺的传统网红正在被算法和受众集体抛弃，取而代之的是那些有真实生活痕迹的数字手艺人。他把网上的内容创作者切成了三层。",
+      "summary_zh": "Dan Koe 长文解读：网红已死，数字手艺人的时代来了——内容创作者分为网红、个人品牌、数字手艺人三层",
       "created_at": "2026-10-28T17:01:52.000Z",
       "metrics": {
         "likes": 71,
@@ -8390,7 +8394,7 @@
       "kind_override": null,
       "rec_score": 43,
       "recommended": false,
-      "rec_reason": "网红已死，属于数字手艺人的时代已经来了， Dan Koe 这篇文章分量极重，对自媒体博主来说，甚至重到每一句话都价值百万， 很多人以为做自媒体就是追热点、抢眼球、博眼球换流量。但 ——值得跟进",
+      "rec_reason": "AI 推荐接管信息流之后，内容创作者商业化路径的参考框架",
       "discussion_summary": "热评提到「→ Dan Koe 创作者三层演进与破局核心逻辑： → 」「这个基本上都是最前沿吧 现在网红和IP都不是 不受重视了」等，详见下方回复。",
       "top_replies": [
         {
@@ -8482,8 +8486,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2110017247381274625/UlZuSZjC_bigger.png",
       "text": "New from ElevenLabs research: Today we’re sharing more about Cue, our new forced alignment model. It places every character on the audio timeline with more precision than any other aligner we tested. That means the right words show up at the right time.\n\nForced alignment is the https://t.co/8EVstTx9cm",
       "text_short": "New from ElevenLabs research: Today we’re sharing more about Cue, our new forced alignment model. It places every character on the audio timeline with more precision than any othe…",
-      "text_zh": null,
-      "summary_zh": "ElevenLabs：图像/语音/音乐工具更新。",
+      "text_zh": "ElevenLabs 研究新进展：今天我们详细介绍新的强制对齐模型 Cue。它能把每个字符放到音频时间轴上，精度超过我们测试过的所有其他对齐工具。这意味着正确的文字会在正确的时间出现。\n\n强制对齐是……",
+      "summary_zh": "ElevenLabs 发布强制对齐模型 Cue：把每个字符精确放到音频时间轴上，精度超过其测试过的所有对齐工具",
       "created_at": "2026-10-28T19:33:04.000Z",
       "metrics": {
         "likes": 130,
@@ -8515,7 +8519,7 @@
       "kind_override": null,
       "rec_score": 41,
       "recommended": false,
-      "rec_reason": "ElevenLabs：图像/语音/音乐工具更新。",
+      "rec_reason": "字幕与口型同步的底层能力提升，做配音、字幕、数字人的团队受益",
       "discussion_summary": "热评提到「字符级计时恰好是AI对话通常打破幻觉的地方——一个音节关」「这对广告来说比人们想象的更重要 15s现场, 3 -4帧」等，详见下方回复。",
       "top_replies": [
         {
@@ -8605,8 +8609,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1728327996375719936/RW7VBJfD_bigger.jpg",
       "text": "AI agents are changing how a lot of work gets done, and sales is no exception. Much of the job happens before the call: finding the right person, reading up on their company, figuring out whether you can actually help them.\n\nUnify has AI agents handle a good chunk of that https://t.co/gDCwiJLJYU",
       "text_short": "AI agents are changing how a lot of work gets done, and sales is no exception. Much of the job happens before the call: finding the right person, reading up on their company, figu…",
-      "text_zh": null,
-      "summary_zh": "kimmonismus：模型与评测动态。",
+      "text_zh": "AI Agent 正在改变很多工作的完成方式，销售也不例外。这份工作的大部分发生在打电话之前：找到对的人、了解对方公司、判断你到底能不能帮上忙。\n\nUnify 让 AI Agent 承担了其中相当大的一部分",
+      "summary_zh": "Unify 推出 AI 外呼拨号器 Unify Dialer：拨号前由 Agent 完成潜客调研，号码可达率比 Apollo 高 34%，已拨出 11.2 万通电话",
       "created_at": "2026-10-28T18:32:38.000Z",
       "metrics": {
         "likes": 83,
@@ -8627,7 +8631,7 @@
       "kind_override": null,
       "rec_score": 41,
       "recommended": false,
-      "rec_reason": "kimmonismus：模型与评测动态。",
+      "rec_reason": "销售前期调研交给 Agent、人专注通话，是 AI 落地销售的典型分工",
       "discussion_summary": "热评提到「让庵主在实际通话时保持人心,而代理者进行预告则是明智的分」「AI可以处理研究和行政,但销售员仍然需要建立信任,并知道」等，详见下方回复。",
       "top_replies": [
         {
@@ -8717,8 +8721,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2036336259707314177/mqRCJ-mH_bigger.jpg",
       "text": "So honored to have you creating with Dreamina, Kelly! 💙✨ Love seeing you explore storytelling with Seedance 2.5. Can't wait to see what you create next! 🔥 https://t.co/RvrbXylySk",
       "text_short": "So honored to have you creating with Dreamina, Kelly! 💙✨ Love seeing you explore storytelling with Seedance 2.5. Can't wait to see what you create next! 🔥 https://t.co/RvrbXylySk",
-      "text_zh": null,
-      "summary_zh": "dreamina_ai：AI 视频产品或创作分享。",
+      "text_zh": "很荣幸你用 Dreamina 创作，Kelly！💙✨ 很喜欢看你用 Seedance 2.5 探索讲故事。期待你的下一部作品！🔥",
+      "summary_zh": "即梦 Dreamina 转发创作者用 Seedance 2.5 做的叙事短片",
       "created_at": "2026-10-28T06:30:14.000Z",
       "metrics": {
         "likes": 69,
@@ -8739,7 +8743,7 @@
       "kind_override": null,
       "rec_score": 41,
       "recommended": false,
-      "rec_reason": "dreamina_ai：AI 视频产品或创作分享。",
+      "rec_reason": "官方转发的用户作品，展示 Seedance 2.5 的叙事能力，信息量有限",
       "discussion_summary": "热评提到「在假设错误之前,将所选模型,剪辑长度和分辨率与生成前显示」「值得先检查解析度和剪辑长度 种子2成本 跳了很多与两者。」等，详见下方回复。",
       "top_replies": [
         {
@@ -8829,8 +8833,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2086821620228980736/JzAOUvuf_bigger.jpg",
       "text": "Somewhere in an alternate 1971, this was a soul classic. 🫡 https://t.co/Opo78CXGvl",
       "text_short": "Somewhere in an alternate 1971, this was a soul classic. 🫡 https://t.co/Opo78CXGvl",
-      "text_zh": null,
-      "summary_zh": "Hailuo_AI：AI 视频产品或创作分享。",
+      "text_zh": "在某个平行时空的 1971 年，这是一首灵魂乐经典。🫡",
+      "summary_zh": "海螺 AI 转发用 H3 生成的 1971 年复古灵魂乐风格短片《Wait and Bleed》",
       "created_at": "2026-10-28T07:43:26.000Z",
       "metrics": {
         "likes": 59,
@@ -8851,7 +8855,7 @@
       "kind_override": null,
       "rec_score": 41,
       "recommended": false,
-      "rec_reason": "Hailuo_AI：AI 视频产品或创作分享。",
+      "rec_reason": "复古胶片风格的 AI 视频示范，原帖附做法教程",
       "discussion_summary": "热评提到「假阴茎在承诺时代的局限性时起作用:更柔软的焦点,更温暖的」「1971年的谷物和颜色感觉不错. 音乐也是产生的 还是你」等，详见下方回复。",
       "top_replies": [
         {
@@ -8942,7 +8946,7 @@
       "text": "讨厌 AI 味也是一种洁癖\n\n工业时代了没必要太追求手工制品，还是看产品有没有价值，质量是不是够好 https://twitter.com/huangyun_122/status/2115469329743643024",
       "text_short": "讨厌 AI 味也是一种洁癖\n\n工业时代了没必要太追求手工制品，还是看产品有没有价值，质量是不是够好 https://twitter.com/huangyun_122/status/2115469329743643024",
       "text_zh": "讨厌 AI 味也是一种洁癖\n\n工业时代了没必要太追求手工制品，还是看产品有没有价值，质量是不是够好 https://twitter.com/huangyun_122/status/2115469329743643024",
-      "summary_zh": "讨厌 AI 味也是一种洁癖 工业时代了没必要太追求手工制品，还是看产品有没有价值，质量是不是够好 https://twitter.com/huangyun_122/status/2115469329743643024",
+      "summary_zh": "宝玉：讨厌 AI 味也是一种洁癖，工业时代不必执着手工，关键看产品有没有价值、质量够不够好",
       "created_at": "2026-10-28T19:15:35.000Z",
       "metrics": {
         "likes": 43,
@@ -8973,7 +8977,7 @@
       "kind_override": null,
       "rec_score": 41,
       "recommended": false,
-      "rec_reason": "讨厌 AI 味也是一种洁癖 工业时代了没必要太追求手工制品，还是看产品有没有价值，质量是不是够好 https://twitter.com/huangyun_122/status/2——值得跟进",
+      "rec_reason": "关于「AI 味」的观点讨论，对内容创作者如何看待 AI 写作有参考",
       "discussion_summary": "热评提到「文章只要有用、有趣、有料，不必在意是怎么写出来的。古代书」「对的。当产品/服务恰好能打中需求，AI 味再重也无所谓的」等，详见下方回复。",
       "top_replies": [
         {
@@ -9064,7 +9068,7 @@
       "text": "Claude 上线法律工具库：查引文、审合同、追新法规，打开就能用\n\nAnthropic 10 月 28 日给 Claude for Legal（今年 5 月推出的法律版 Claude）加了一个工具库。库里是一批现成的 Artifacts，也就是在 Claude 里直接能用、能分享给同事的小工具，比如跟踪表和看板。\n\n每个工具打开先放一个示例，律师看明白了，再换成自己的文件。工具给出的每个结论都附原文出处链接，方便核对。\n\n【律师能拿它干什么】\n\nAnthropic 自己做了 6 个。官方的分工是：律师提供材料，Claude 出初稿，律师下判断。\n\n查引文：把文书和它引用的材料逐条对照，引文对不上、页码写错、出处撑不起论点，都标出来。\n\n合同偏差检查：拿合同和公司标准条款比，哪条不一样就标出来，转给有权批准例外的人。\n\n合同批量摘录：一堆合同里你关心的条款，比如遣散费、竞业限制，抽成一张表，每格都能点回原文。\n\n另外三个分别是：同一法律问题在各州、各国的规定对比表，把邮件和委托书汇成“谁负责、下一步、哪天截止”的案件看板，以及按公司业务排出即将生效的新法规时间线。\n\n律所和法律科技公司也往库里放了工具。比如普华永道用团队过去的案例和模板自动起草传票答复初稿；法律 AI 公司 Harvey 让业务部门在 Claude 里直接提法律问题，常规问题按法务部的指引自动答，其余转给律师。\n\n另有 9 个帮普通人获得法律帮助的公益工具，比如把移民文件翻成大白话、帮律师查房东租金账单的错，官方介绍的几个大多注明只适用美国某个州或地区的法律。\n\n【资料怎么接、能不能共享】\n\nClaude 现有 60 多个法律类连接器（让 Claude 直接读取外部系统的接口），包括 Bloomberg Law 等，律师不用手动上传文件。工具可以分享给公司其他部门、客户和合作方，官方说共享设置支持律所的“信息隔离墙”，也就是让代理利益冲突客户的不同团队互相看不到对方资料。\n\n【谁能用、要不要钱】\n\n官方文章归在 Claude Enterprise（企业版）类别下，入口在 Claude 的工具库页面。哪些套餐能用、要不要额外付费，官方没说。企业想大规模部署，官方建议找销售或德勤、毕马威等实施伙伴。\n\n工具库：https://claude.ai/artifacts?templates=legal\n官方原文：https://claude.com/resources/articles/introducing-artifacts-for-legal-work",
       "text_short": "Claude 上线法律工具库：查引文、审合同、追新法规，打开就能用\n\nAnthropic 10 月 28 日给 Claude for Legal（今年 5 月推出的法律版 Claude）加了一个工具库。库里是一批现成的 Artifacts，也就是在 Claude 里直接能用、能分享给同事的小工具，比如跟踪表和看板。\n\n每个工具打开先放一个示例，律师看明白了…",
       "text_zh": "Claude 上线法律工具库：查引文、审合同、追新法规，打开就能用\n\nAnthropic 10 月 28 日给 Claude for Legal（今年 5 月推出的法律版 Claude）加了一个工具库。库里是一批现成的 Artifacts，也就是在 Claude 里直接能用、能分享给同事的小工具，比如跟踪表和看板。\n\n每个工具打开先放一个示例，律师看明白了，再换成自己的文件。工具给出的每个结论都附原文出处链接，方便核对。\n\n【律师能拿它干什么】\n\nAnthropic 自己做了 6 个。官方的分工是：律师提供材料，Claude 出初稿，律师下判断。\n\n查引文：把文书和它引用的材料逐条对照，引文对不上、页码写错、出处撑不起论点，都标出来。\n\n合同偏差检查：拿合同和公司标准条款比，哪条不一样就标出来，转给有权批准例外的人。\n\n合同批量摘录：一堆合同里你关心的条款，比如遣散费、竞业限制，抽成一张表，每格都能点回原文。\n\n另外三个分别是：同一法律问题在各州、各国的规定对比表，把邮件和委托书汇成“谁负责、下一步、哪天截止”的案件看板，以及按公司业务排出即将生效的新法规时间线。\n\n律所和法律科技公司也往库里放了工具。比如普华永道用团队过去的案例和模板自动起草传票答复初稿；法律 AI 公司 Harvey 让业务部门在 Claude 里直接提法律问题，常规问题按法务部的指引自动答，其余转给律师。\n\n另有 9 个帮普通人获得法律帮助的公益工具，比如把移民文件翻成大白话、帮律师查房东租金账单的错，官方介绍的几个大多注明只适用美国某个州或地区的法律。\n\n【资料怎么接、能不能共享】\n\nClaude 现有 60 多个法律类连接器（让 Claude 直接读取外部系统的接口），包括 Bloomberg Law 等，律师不用手动上传文件。工具可以分享给公司其他部门、客户和合作方，官方说共享设置支持律所的“信息隔离墙”，也就是让代理利益冲突客户的不同团队互相看不到对方资料。\n\n【谁能用、要不要钱】\n\n官方文章归在 Claude Enterprise（企业版）类别下，入口在 Claude 的工具库页面。哪些套餐能用、要不要额外付费，官方没说。企业想大规模部署，官方建议找销售或德勤、毕马威等实施伙伴。\n\n工具库：https://claude.ai/artifacts?templates=legal\n官方原文：https://claude.com/resources/articles/introducing-artifacts-for-legal-work",
-      "summary_zh": "Claude 上线法律工具库：查引文、审合同、追新法规，打开就能用 Anthropic 10 月 28 日给 Claude for Legal（今年 5 月推出的法律版 Claude）加了一个工具库。库里是一批现成的 Artifacts，也就是在 Claude 里直接能用、能分享给同事的小工具，比如跟踪表和看板。每个工具打开先放一个示例，律师看明白了，再换成自己的文件。工具给出的每个结论都附原文出处链接，方便核对。",
+      "summary_zh": "Claude for Legal 上线法律工具库：查引文、审合同、批量摘录条款、追踪新法规等现成 Artifacts，结论附原文出处，并接入 60 多个法律连接器",
       "created_at": "2026-10-28T16:39:32.000Z",
       "metrics": {
         "likes": 32,
@@ -9103,7 +9107,7 @@
       "kind_override": null,
       "rec_score": 41,
       "recommended": false,
-      "rec_reason": "Claude 上线法律工具库：查引文、审合同、追新法规，打开就能用 Anthropic 10 月 28 日给 Claude for Legal（今年 5 月推出的法律版 Claud——值得跟进",
+      "rec_reason": "中文详解 Claude 法律工具库的功能和限制，做法律科技或垂直 Agent 的可参考",
       "discussion_summary": "热评提到「等它能翻中国法条、啃中国裁判文书、看懂中文合同那天，冲击」「官方那条不到两小时就51万浏览了。我看最实用的是合同批量」等，详见下方回复。",
       "top_replies": [
         {
@@ -9203,7 +9207,8 @@
         },
         "text": "Claude 上线法律工具库：查引文、审合同、追新法规，打开就能用\n\nAnthropic 10 月 28 日给 Claude for Legal（今年 5 月推出的法律版 Claude）加了一个工具库。库里是一批现成的 Artifacts，也就是在 Claude 里直接能用、能分享给同事的小工具，比如跟踪表和看板。\n\n每个工具打开先放一个示例，律师看明白了，再换成自己的文件。工具给出的每个结论都附原文出处链接，方便核对。\n\n【律师能拿它干什么】\n\nAnthropic 自己做了 6 个。官方的分工是：律师提供材料，Claude 出初稿，律师下判断。\n\n查引文：把文书和它引用的材料逐条对照，引文对不上、页码写错、出处撑不起论点，都标出来。\n\n合同偏差检查：拿合同和公司标准条款比，哪条不一样就标出来，转给有权批准例外的人。\n\n合同批量摘录：一堆合同里你关心的条款，比如遣散费、竞业限制，抽成一张表，每格都能点回原文。\n\n另外三个分别是：同一法律问题在各州、各国的规定对比表，把邮件和委托书汇成“谁负责、下一步、哪天截止”的案件看板，以及按公司业务排出即将生效的新法规时间线。\n\n律所和法律科技公司也往库里放了工具。比如普华永道用团队过去的案例和模板自动起草传票答复初稿；法律 AI 公司 Harvey 让业务部门在 Claude 里直接提法律问题，常规问题按法务部的指引自动答，其余转给律师。\n\n另有 9 个帮普通人获得法律帮助的公益工具，比如把移民文件翻成大白话、帮律师查房东租金账单的错，官方介绍的几个大多注明只适用美国某个州或地区的法律。\n\n【资料怎么接、能不能共享】\n\nClaude 现有 60 多个法律类连接器（让 Claude 直接读取外部系统的接口），包括 Bloomberg Law 等，律师不用手动上传文件。工具可以分享给公司其他部门、客户和合作方，官方说共享设置支持律所的“信息隔离墙”，也就是让代理利益冲突客户的不同团队互相看不到对方资料。\n\n【谁能用、要不要钱】\n\n官方文章归在 Claude Enterprise（企业版）类别下，入口在 Claude 的工具库页面。哪些套餐能用、要不要额外付费，官方没说。企业想大规模部署，官方建议找销售或德勤、毕马威等实施伙伴。\n\n工具库：https://t.co/lfqtlUJboy\n官方原文：https://t.co/wwQKg1pNRR"
       },
-      "x_long": true
+      "x_long": true,
+      "article_summary_zh": "Anthropic 10 月 28 日给 Claude for Legal 加了一个工具库，收录一批现成的 Artifacts：打开先看示例，再换成自己的文件，每个结论都附原文出处链接。官方自带 6 个工具：引文核查、合同与标准条款的偏差检查、合同条款批量摘录成表、多法域规定对比、把邮件和委托书汇成案件看板，以及即将生效的新法规时间线。普华永道、Harvey 等律所和法律科技公司也贡献了工具，另有 9 个面向普通人的公益法律工具，多数只适用于美国特定州。Claude 现有 60 多个法律类连接器（如 Bloomberg Law），工具可共享给公司其他部门和客户，并支持律所的「信息隔离墙」；官方归在 Claude Enterprise 类别下，具体套餐和收费未说明。"
     },
     {
       "id": "2115558995830214922",
@@ -9213,8 +9218,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1096066608034918401/m8wnTWsX_bigger.png",
       "text": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.\nhttps://spr.ly/6013BHl0gh",
       "text_short": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the…",
-      "text_zh": null,
-      "summary_zh": "TechCrunch：算力/融资/产业相关动态。",
+      "text_zh": "微软表示，在截至 9 月 30 日的季度里，它从与 OpenAI 的商业安排（包括收入分成）中获得了 100 亿美元收入。这凸显了双方合作中依然巨大的财务依赖。\nhttps://spr.ly/6013BHl0gh",
+      "summary_zh": "微软上季度从与 OpenAI 的商业合作（含收入分成）中获得 100 亿美元收入",
       "created_at": "2026-10-28T21:39:04.000Z",
       "metrics": {
         "likes": 30,
@@ -9261,7 +9266,7 @@
       "kind_override": null,
       "rec_score": 41,
       "recommended": false,
-      "rec_reason": "TechCrunch：算力/融资/产业相关动态。",
+      "rec_reason": "双方财务绑定之深的直接数字，热评指出其中 72 亿美元仍是应收款",
       "discussion_summary": "热评提到「根据档案,微软从O AdrianpenAI收到的应收款有」「10B的Openai交易 四分之一削减两种方式。 对Ms」等，详见下方回复。",
       "top_replies": [
         {
@@ -9351,8 +9356,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2075180406836695040/8-VPJkK9_bigger.jpg",
       "text": "📣 Ad teams need more variants without losing the product. Q4 Preview improves product appearance, logo and detail consistency, lighting, and multilingual text rendering for scalable creative exploration.\n🔥30% Off All Q4 Credit Packages🔥 Playground: https://t.co/FGCO3HJLfU: https://t.co/jsfXOplKCP",
       "text_short": "📣 Ad teams need more variants without losing the product. Q4 Preview improves product appearance, logo and detail consistency, lighting, and multilingual text rendering for scalab…",
-      "text_zh": null,
-      "summary_zh": "ViduAI_official：AI 视频产品或创作分享。",
+      "text_zh": "📣 广告团队需要更多变体，又不能丢掉产品本身。Q4 Preview 提升了产品外观、Logo 与细节一致性、光照以及多语言文字渲染，便于规模化地探索创意。\n🔥所有 Q4 积分包 7 折🔥 Playground：https://t.co/FGCO3HJLfU",
+      "summary_zh": "Vidu Q4 Preview 提升产品外观、Logo 与细节一致性、光照和多语言文字渲染，方便广告团队批量出变体；Q4 积分包 7 折",
       "created_at": "2026-10-28T05:46:56.000Z",
       "metrics": {
         "likes": 24,
@@ -9384,7 +9389,7 @@
       "kind_override": null,
       "rec_score": 41,
       "recommended": false,
-      "rec_reason": "ViduAI_official：AI 视频产品或创作分享。",
+      "rec_reason": "常规版本更新兼促销，商品一致性对 AI 广告很实用",
       "discussion_summary": "热评提到「测试运动概念, 播放场 : 查看我们的文档: Vidu 」「Q4嬷嬷预览看似广告团队产品外观,标志和细节的一致性,照」等，详见下方回复。",
       "top_replies": [
         {
@@ -9474,8 +9479,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2052148578588753920/deUXA7cZ_bigger.jpg",
       "text": "tomorrow, Krea 3 gets its first expert.\n\nthere's one last hint in this video 👇 https://t.co/ldg6HYxZNj",
       "text_short": "tomorrow, Krea 3 gets its first expert.\n\nthere's one last hint in this video 👇 https://t.co/ldg6HYxZNj",
-      "text_zh": null,
-      "summary_zh": "krea_ai：图像/语音/音乐工具更新。",
+      "text_zh": "明天，Krea 3 迎来它的第一位专家。\n\n这个视频里藏着最后一个提示 👇",
+      "summary_zh": "Krea 预告：Krea 3 明天迎来首个「专家模型」",
       "created_at": "2026-10-28T16:37:45.000Z",
       "metrics": {
         "likes": 145,
@@ -9510,7 +9515,7 @@
       "kind_override": null,
       "rec_score": 39,
       "recommended": false,
-      "rec_reason": "krea_ai：图像/语音/音乐工具更新。",
+      "rec_reason": "仅为预告，具体能力待发布",
       "discussion_summary": "热评提到「无公开发布日期 克蕾亚3重在哈金面. 仅通过Krea应用」「带有这些小blob字符(硬帽,太空头盔,工具)的街机柜+」等，详见下方回复。",
       "top_replies": [
         {
@@ -9600,8 +9605,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2110017247381274625/UlZuSZjC_bigger.png",
       "text": "Aníbal, an engineer and professor, is losing his voice to ALS. With ElevenLabs, he’s recreated it so he can keep teaching.\n\nWe’re partnering with @AsociacionELA, Spain’s leading ALS association, to give people with ALS across Spain free access to our voice restoration technology. https://t.co/Vx9YUFPEm9",
       "text_short": "Aníbal, an engineer and professor, is losing his voice to ALS. With ElevenLabs, he’s recreated it so he can keep teaching.\n\nWe’re partnering with @AsociacionELA, Spain’s leading A…",
-      "text_zh": null,
-      "summary_zh": "ElevenLabs：图像/语音/音乐工具更新。",
+      "text_zh": "Aníbal 是一名工程师和教授，渐冻症（ALS）正让他失去声音。借助 ElevenLabs，他重建了自己的声音，得以继续教书。\n\n我们正与西班牙最大的 ALS 协会 @AsociacionELA 合作，为全西班牙的 ALS 患者免费提供我们的声音复原技术。",
+      "summary_zh": "ElevenLabs 与西班牙渐冻症协会合作，免费为西班牙 ALS 患者提供声音复原技术，工程师兼教授 Aníbal 得以用自己的声音继续上课",
       "created_at": "2026-10-28T09:25:06.000Z",
       "metrics": {
         "likes": 92,
@@ -9636,7 +9641,7 @@
       "kind_override": null,
       "rec_score": 39,
       "recommended": false,
-      "rec_reason": "ElevenLabs：图像/语音/音乐工具更新。",
+      "rec_reason": "AI 语音的公益落地，展示声音克隆的正向用途",
       "discussion_summary": "热评提到「声音AI在这里赢得了它的保存:保持一个人的声音,而不仅仅」「这是一种通过所有话语杂音辩论的用法——一个教师在自己的教」等，详见下方回复。",
       "top_replies": [
         {
@@ -9726,8 +9731,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_bigger.jpg",
       "text": "Kling AI is teaming up with @EvoFilmsUK as the exclusive technology partner on Minibots, their upcoming animated feature.\n\nDirected by John Adams from Evolutionary Films, produced by BAFTA-nominated Diane Shorthouse, character design by Tony Bancroft (co-director of Mulan), https://t.co/xdF4vpAgDQ",
       "text_short": "Kling AI is teaming up with @EvoFilmsUK as the exclusive technology partner on Minibots, their upcoming animated feature.\n\nDirected by John Adams from Evolutionary Films, produced…",
-      "text_zh": null,
-      "summary_zh": "Kling_ai：AI 视频产品或创作分享。",
+      "text_zh": "可灵 AI 与 @EvoFilmsUK 合作，成为其即将上映的动画长片《Minibots》的独家技术合作方。\n\n由 Evolutionary Films 的 John Adams 执导，BAFTA 提名制片人 Diane Shorthouse 担任制片，《花木兰》联合导演 Tony Bancroft 担任角色设计……",
+      "summary_zh": "可灵 AI 成为动画长片《Minibots》的独家技术合作方，Evolutionary Films 出品，《花木兰》联合导演 Tony Bancroft 担任角色设计",
       "created_at": "2026-10-28T13:35:55.000Z",
       "metrics": {
         "likes": 75,
@@ -9762,7 +9767,7 @@
       "kind_override": null,
       "rec_score": 39,
       "recommended": false,
-      "rec_reason": "Kling_ai：AI 视频产品或创作分享。",
+      "rec_reason": "AI 视频进入长片动画制作，长片的一致性才是 AI 视频真正的试金石",
       "discussion_summary": "热评提到「喜欢小机器人在商场地板上拉链 之前,它都冲进 发光的宇宙」「长片才是 AI 视频真正的试金石：单条 10 秒出片不难」等，详见下方回复。",
       "top_replies": [
         {
@@ -9852,8 +9857,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2036336259707314177/mqRCJ-mH_bigger.jpg",
       "text": "The Virus Missed One Thing… 🎾\n\nDetailed tutorials and prompts are provided at the end. 🖤👇\n\n#zombie #ZombiFilm #dreaminapioneer #DreaminaSeedance25 #DreaminaAI https://t.co/Rg76CtkpxD",
       "text_short": "The Virus Missed One Thing… 🎾\n\nDetailed tutorials and prompts are provided at the end. 🖤👇\n\n#zombie #ZombiFilm #dreaminapioneer #DreaminaSeedance25 #DreaminaAI https://t.co/Rg76Ctk…",
-      "text_zh": null,
-      "summary_zh": "dreamina_ai：AI 视频产品或创作分享。",
+      "text_zh": "病毒漏掉了一件事……🎾\n\n片尾附详细教程和提示词。🖤👇\n\n#zombie #ZombiFilm #dreaminapioneer #DreaminaSeedance25 #DreaminaAI",
+      "summary_zh": "即梦发布 Seedance 2.5 僵尸题材短片《病毒漏掉的一件事》，片尾附详细教程和提示词",
       "created_at": "2026-10-28T09:53:47.000Z",
       "metrics": {
         "likes": 63,
@@ -9889,7 +9894,7 @@
       "kind_override": null,
       "rec_score": 39,
       "recommended": false,
-      "rec_reason": "dreamina_ai：AI 视频产品或创作分享。",
+      "rec_reason": "附教程和提示词的创作示范，可直接照着学",
       "discussion_summary": "热评提到「一个网球在僵尸启示录的中间? 🎾🧟‍♀️ 这段故事真是精」「喜欢从Lila放下步枪的火柴切到她与金色木马记忆中的co」等，详见下方回复。",
       "top_replies": [
         {
@@ -9979,8 +9984,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_bigger.png",
       "text": "Mark Cuban's rule for the AI-era workforce: \"People who know how to use AI replace the jobs of people who don't know how to use AI.\"\n\n\"[Healthcare] looks the same as any other industry. You have to still hire entry-level people.\"\n\n\"No matter what the model is, the minute it's released, it's behind. There's latency associated with every model.\"\n\n\"You need people who are aware of everything that's going on, that create context and deal with the models, be the human in the loop, understand the consequences.\"\n\n\"You need those people to grow with the organization over time so that as all these things change, they've seen the history of the implementation, and they can bring value to the organization.\"\n\n@mcuban @julesyoo @eriktorenberg",
       "text_short": "Mark Cuban's rule for the AI-era workforce: \"People who know how to use AI replace the jobs of people who don't know how to use AI.\"\n\n\"[Healthcare] looks the same as any other ind…",
-      "text_zh": null,
-      "summary_zh": "a16z：算力/融资/产业相关动态。",
+      "text_zh": "Mark Cuban 的 AI 时代用人法则：「会用 AI 的人，会取代不会用 AI 的人的工作。」\n\n「（医疗行业）和其他任何行业看起来都一样。你仍然得招入门级员工。」\n\n「不管什么模型，发布的那一刻它就已经落后了。每个模型都有滞后。」\n\n「你需要那些了解正在发生的一切、能构建上下文并和模型打交道的人，当好『人在环路中』，理解后果。」\n\n「你需要这些人随着组织一起成长，这样当一切变化时，他们见证过实施的历史，能为组织带来价值。」\n\n@mcuban @julesyoo @eriktorenberg",
+      "summary_zh": "Mark Cuban：会用 AI 的人会取代不会用的人；模型一发布就已落后，企业仍需招入门员工做「人在环路中」，并随组织一起成长",
       "created_at": "2026-10-28T22:45:09.000Z",
       "metrics": {
         "likes": 55,
@@ -10037,7 +10042,7 @@
       "kind_override": null,
       "rec_score": 39,
       "recommended": false,
-      "rec_reason": "a16z：算力/融资/产业相关动态。",
+      "rec_reason": "对 AI 时代招聘的务实观点：入门岗位不会消失，而是转向管理上下文和模型",
       "discussion_summary": "暂无回复。",
       "top_replies": [],
       "replies_fetched_at": "2026-10-29T02:57:32.767635+00:00",
@@ -10081,7 +10086,7 @@
       "text": "带触摸的 Mac 是个伪需求\n所以我们发明了 iPad\n\n——乔帮主",
       "text_short": "带触摸的 Mac 是个伪需求\n所以我们发明了 iPad\n\n——乔帮主",
       "text_zh": "带触摸的 Mac 是个伪需求\n所以我们发明了 iPad\n\n——乔帮主",
-      "summary_zh": "带触摸的 Mac 是个伪需求 所以我们发明了 iPad ——乔帮主",
+      "summary_zh": "调侃苹果触屏 Mac：「带触摸的 Mac 是伪需求，所以我们发明了 iPad」——乔布斯",
       "created_at": "2026-10-28T21:53:24.000Z",
       "metrics": {
         "likes": 36,
@@ -10126,7 +10131,7 @@
       "kind_override": null,
       "rec_score": 39,
       "recommended": false,
-      "rec_reason": "带触摸的 Mac 是个伪需求 所以我们发明了 iPad ——乔帮主",
+      "rec_reason": "针对 MacBook Pro 触屏传闻的段子，信息量低",
       "discussion_summary": "暂无回复。",
       "top_replies": [],
       "replies_fetched_at": "2026-10-29T02:57:32.767635+00:00",
@@ -10145,8 +10150,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2084681725800861696/_N_l4Le5_bigger.jpg",
       "text": "Kling 4.0 just landed on Pika. It's the most control Kling has ever given you, with omni reference, multi-keyframes, and generations up to 30 seconds long. You may now make the scene that's been living in your head. https://t.co/FkmdHtTimp",
       "text_short": "Kling 4.0 just landed on Pika. It's the most control Kling has ever given you, with omni reference, multi-keyframes, and generations up to 30 seconds long. You may now make the sc…",
-      "text_zh": null,
-      "summary_zh": "pika_labs：AI 视频产品或创作分享。",
+      "text_zh": "Kling 4.0 刚刚登陆 Pika。这是可灵迄今给你最强的控制力：全能参考、多关键帧，单次生成最长 30 秒。现在你可以把脑海里那个场景做出来了。",
+      "summary_zh": "Kling 4.0 上线 Pika：支持全能参考、多关键帧，单次生成最长 30 秒",
       "created_at": "2026-10-28T19:23:34.000Z",
       "metrics": {
         "likes": 36,
@@ -10181,7 +10186,7 @@
       "kind_override": null,
       "rec_score": 39,
       "recommended": false,
-      "rec_reason": "pika_labs：AI 视频产品或创作分享。",
+      "rec_reason": "可灵最新模型多了一个分发渠道，30 秒时长和多关键帧提升了可控性",
       "discussion_summary": "热评提到「感谢皮卡放弃Kling 4.0。 Omni 引用,多键帧」「试试Pika上的Kling 4.0」等，详见下方回复。",
       "top_replies": [
         {
@@ -10271,8 +10276,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2022649951101112320/D99TbYT7_bigger.jpg",
       "text": "I reconstructed the route Flávio Bolsonaro took to flee Brazil, 2 days after losing the presidential election and hours after a court ordered him to hand over his passports.\n\n1. Took off from Iguazú heading toward Brazil, 6 km from the border, then turned away\n2. The direct route https://t.co/BQRY9ldoga",
       "text_short": "I reconstructed the route Flávio Bolsonaro took to flee Brazil, 2 days after losing the presidential election and hours after a court ordered him to hand over his passports.\n\n1. T…",
-      "text_zh": null,
-      "summary_zh": "bilawalsidhu：AI 视频产品或创作分享。",
+      "text_zh": "我重建了 Flávio Bolsonaro 出逃巴西的路线：那是在他输掉总统选举两天后、法院下令他交出护照的几个小时后。\n\n1. 从伊瓜苏起飞，朝巴西方向飞去，在距边境 6 公里处掉头\n2. 直接路线……",
+      "summary_zh": "用公开数据重建 Flávio Bolsonaro 败选两天后出逃巴西的飞行路线",
       "created_at": "2026-10-28T21:31:50.000Z",
       "metrics": {
         "likes": 35,
@@ -10307,7 +10312,7 @@
       "kind_override": null,
       "rec_score": 39,
       "recommended": false,
-      "rec_reason": "bilawalsidhu：AI 视频产品或创作分享。",
+      "rec_reason": "开源情报（OSINT）的地理重建示例，与 AI 关系较弱",
       "discussion_summary": "热评提到「就背景而言,Flávio Bolsonaro仍然是一名活」「重建得不错 一个警告:巴西联邦警察说他没有通过任何正常的」等，详见下方回复。",
       "top_replies": [
         {
@@ -10397,8 +10402,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2075180406836695040/8-VPJkK9_bigger.jpg",
       "text": "100 AI Directing Techniques - Desert Sci-Fi Aesthetics\n01 Light | Let a single beam illuminate the depths of an ancient cavern.\n02 Framing | Use monumental arches to frame vast alien landscapes.\n03 Wind | Bring the desert to life with flowing veils and drifting sand.\n04 https://t.co/tfnboP6QV2",
       "text_short": "100 AI Directing Techniques - Desert Sci-Fi Aesthetics\n01 Light | Let a single beam illuminate the depths of an ancient cavern.\n02 Framing | Use monumental arches to frame vast al…",
-      "text_zh": null,
-      "summary_zh": "ViduAI_official：AI 视频产品或创作分享。",
+      "text_zh": "100 个 AI 导演技巧——沙漠科幻美学\n01 光线｜让一束光照亮古老洞穴的深处。\n02 构图｜用巨大的拱门框住广袤的外星地貌。\n03 风｜用飘动的纱幔和流沙让沙漠活起来。\n04……",
+      "summary_zh": "Vidu 分享「100 个 AI 导演技巧」之沙漠科幻美学：光线、构图、风沙等镜头手法",
       "created_at": "2026-10-28T13:06:00.000Z",
       "metrics": {
         "likes": 32,
@@ -10433,7 +10438,7 @@
       "kind_override": null,
       "rec_score": 39,
       "recommended": false,
-      "rec_reason": "ViduAI_official：AI 视频产品或创作分享。",
+      "rec_reason": "可直接套用的 AI 视频镜头语言提示，适合创作者参考",
       "discussion_summary": "热评提到「产品和标志的一致性是决定一个变体集是否可用的原因. 你是」「这些沙漠的科幻视觉 绝对是惊人的! Vidu Q4 Pr」等，详见下方回复。",
       "top_replies": [
         {
@@ -10524,7 +10529,7 @@
       "text": "不会有兄弟还没用过MiniMax Code吧，除了能Coding，\n还能直接调用H3视频生成模型非常给力，额度也给的很足！",
       "text_short": "不会有兄弟还没用过MiniMax Code吧，除了能Coding，\n还能直接调用H3视频生成模型非常给力，额度也给的很足！",
       "text_zh": "不会有兄弟还没用过MiniMax Code吧，除了能Coding，\n还能直接调用H3视频生成模型非常给力，额度也给的很足！",
-      "summary_zh": "不会有兄弟还没用过MiniMax Code吧，除了能Coding， 还能直接调用H3视频生成模型非常给力，额度也给的很足！",
+      "summary_zh": "MiniMax Code 除了写代码，还能直接调用 H3 视频生成模型，额度给得很足",
       "created_at": "2026-10-28T15:16:53.000Z",
       "metrics": {
         "likes": 27,
@@ -10595,7 +10600,7 @@
       "kind_override": null,
       "rec_score": 39,
       "recommended": false,
-      "rec_reason": "不会有兄弟还没用过MiniMax Code吧，除了能Coding， 还能直接调用H3视频生成模型非常给力，额度也给的很足！——值得跟进",
+      "rec_reason": "编程 Agent 内置视频生成的新用法；热评算账称单条 15 秒视频约 8 元，并不便宜",
       "discussion_summary": "热评提到「我大概算了一下，买积分生成一条15秒的视频大概要8块钱。」「这个价格不便宜啊，我的140的套餐，生成视频基本上很费」等，详见下方回复。",
       "top_replies": [
         {
@@ -10695,10 +10700,10 @@
       "gossip": 0
     },
     "translation": {
-      "posts_done": 19,
+      "posts_done": 66,
       "posts_cached": 0,
       "posts_skip": 16,
-      "posts_fail": 63,
+      "posts_fail": 0,
       "articles_done": 0,
       "articles_cached": 0,
       "articles_skip": 0,
@@ -10725,6 +10730,10 @@
       "posts": 82,
       "with_replies": 74,
       "with_summary": 82
+    },
+    "editorial": {
+      "source": "agent",
+      "posts": 82
     }
   }
 }
