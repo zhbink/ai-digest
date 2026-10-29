@@ -1,0 +1,51 @@
+{
+  "date_timezone": "Asia/Shanghai",
+  "window_hours": 24,
+  "heat": {
+    "models": {"min_likes": 140, "min_impressions": 9000, "any": true},
+    "coding": {"min_likes": 120, "min_impressions": 20000, "any": true},
+    "creative": {"min_likes": 140, "min_impressions": 8000, "any": true},
+    "industry": {"min_likes": 150, "min_impressions": 11000, "any": true},
+    "agent": null,
+    "zh": null,
+    "video": null
+  },
+  "heat_exempt_handles": ["OpenAI", "AnthropicAI", "GoogleDeepMind", "OpenAIDevs", "xai", "MetaAI"],
+  "caps": {"agent": 20, "models": 12, "coding": 10, "creative": 8, "industry": 10, "zh": 15, "video": 12},
+  "sections": {
+    "agent": {
+      "label": "AI Agent",
+      "handles": ["karpathy","AndrewYNg","swyx","hwchase17","LangChain","jerryjliu0","llama_index","simonw","omarsar0","_akhaliq","yoheinakajima","emollick","alexalbert__","AnthropicAI","OpenAI","OpenAIDevs","GoogleDeepMind","rowancheung","mattshumer_","bindureddy","MaryamMiradi","systemdesignone","Dipanshu_AI","AlexFinn","0xjmori","Argona0x","testingcatalog","btibor91","kimmonismus","legit_api","TheRundownAI","rohanpaul_ai","minchoi","ArtificialAnlys","scaling01","AiBreakfast","WesRoth","MatthewBerman","ai_for_success","LinusEkenstam"]
+    },
+    "zh": {
+      "label": "中文圈",
+      "handles": ["dotey","op7418","vista8","oran_ge","xiaohu","berryxia","lxfater","Gorden_Sun","GeekCatX","RealYDT","AYi_AInotes","bozhou_ai","UPing123zzz","shao__meng"]
+    },
+    "video": {
+      "label": "AI 视频",
+      "handles": ["runwayml","Kling_ai","pika_labs","Hailuo_AI","LumaLabsAI","dreamina_ai","ViduAI_official","higgsfield","bilawalsidhu"]
+    },
+    "models": {
+      "label": "模型与大佬",
+      "handles": ["OpenAI","AnthropicAI","GoogleDeepMind","OpenAIDevs","gdb","sama","demishassabis","MiniMax_AI","Kimi_Moonshot","nvidia","NVIDIAAI","ClementDelangue","bindureddy","scaling01","ArtificialAnlys","kimmonismus","MatthewBerman"]
+    },
+    "coding": {
+      "label": "AI 编程",
+      "handles": ["cursor_ai","cognition","amasad","rauchg","vercel","Replit","claudeai","_philschmid","GeminiApp","antigravity"]
+    },
+    "creative": {
+      "label": "图像·语音·音乐",
+      "handles": ["krea_ai","bfl_ai","Midjourney","suno_ai_","elevenlabs","HeyGen","GeminiApp","Hailuo_AI"]
+    },
+    "industry": {
+      "label": "算力与融资",
+      "handles": ["a16z","ycombinator","SemiAnalysis_","garrytan","JensenHuang","TechCrunch","theinformation"]
+    }
+  },
+  "keywords": [
+    {"section": "zh", "name": "中文 Agent", "query": "(智能体 OR \"AI Agent\") (教程 OR 评测 OR 工具 OR Claude OR MCP OR 工作流) lang:zh -is:retweet -is:reply -币 -代币 -发射"},
+    {"section": "video", "name": "中文 AI 视频", "query": "(\"AI视频\" OR 可灵 OR 海螺 OR Seedance OR 即梦 OR Sora OR \"AI 视频\") -is:retweet -is:reply lang:zh"},
+    {"section": "video", "name": "英文 AI 视频", "query": "(\"AI video\" OR Runway OR Kling OR Sora OR Veo OR Pika OR Hailuo OR Seedance) (tutorial OR workflow OR how-to OR prompt) -is:retweet -is:reply"},
+    {"section": "agent", "name": "英文 Agent", "query": "(\"AI agent\" OR agentic OR MCP OR \"multi-agent\") (release OR launch OR tutorial OR framework OR paper) -is:retweet -is:reply"}
+  ]
+}

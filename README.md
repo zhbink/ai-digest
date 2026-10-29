@@ -57,3 +57,21 @@
 ## 热度门槛
 
 `models` / `coding` / `creative` / `industry`：约 likes≥120–150 或对应阅读量；`agent` / `zh` / `video` 不限。官方旗舰号有豁免。详见 `config/sections.json`。
+
+## Pipeline scripts
+
+密钥只放在仓库外的 `.secrets/` 和 `/workspace/.secrets/`，从不提交。
+
+- `ingest.py` — 从 `work/seed/<date>/` 生成当日 JSON：翻译、打标、摘要、推荐分，并更新 `data/index.json`。
+- `publish.sh` — 跑 editorial 检查后提交并推送 Pages（`data/`、`index.html`、`static/`）。
+- `scripts/common.py` — 路径、热度门槛、媒体选取、分类与启发式打分等共用函数。
+- `scripts/merge_x_page.py` — 把一页 X 搜索/时间线 JSON 合并进 `work/seed/<date>/`。
+- `scripts/backfill_media.py` — 按当日帖子下载图片/短视频到 `data/media/<id>/`。
+- `scripts/editorial.py` — 生成编辑计划、写回中文标题/推荐理由/译文，并在发布前检查占位文案。
+- `scripts/replies.py` — 列出待拉评论的帖子，并把 `work/raw` 里的评论页写回当日 JSON。
+- `scripts/attached.py` — 为已关注条目规划并写回附属帖（`attached_posts`）。
+- `scripts/backup_follows.py` — 用 Cloudflare Worker 的访问密钥把关注/评论备份到 `work/follows/`。
+- `scripts/notify_xiaojia.py` — 向小家桥发送当日中文简报（不打印 `notify_url`）。
+- `scripts/xiaojia_send.py` — 按 `(kind, date)` 去重的小家一次性发送，账本在 `/workspace/.secrets/`。
+- `scripts/tools/ingest_replies.py` — 把 Agent 工具输出里的评论页合并进 `work/raw`（从 `work/` 挪出的一次性工具）。
+- `scripts/tools/merge_reply_page.py` — 把单个评论 JSON 页合并进 `work/raw/<date>/replies-<id>.json`。
