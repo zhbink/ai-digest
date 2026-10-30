@@ -30,7 +30,7 @@
    .venv/bin/python scripts/editorial.py apply --date DATE
    .venv/bin/python scripts/editorial.py check --date DATE   # 必须 bad=0；publish.sh 会自动检查并拒绝发布
    ```
-4. **回复（MVP）**：Agent 按 `scripts/replies.py plan` 拉评论页到 `work/raw/<date>/replies-<id>.json`，再 `apply`
+4. **回复（硬门禁）**：Agent 按 `scripts/replies.py plan --date <DATE>` 把每条帖的会话评论抓到 `work/raw/<date>/replies-<id>.json`，写 `data/replies/<date>.summaries.json`（主题式中文讨论观点），再 `apply --date <DATE>`，最后 `check --date <DATE>`。**禁止**「评论区较活跃，详情见原帖。」等占位；`publish.sh` 会跑 `replies.py check`，缺 raw 或占位摘要时拒绝发布（exit 5）
 5. **发布**：
    ```bash
    ./publish.sh
