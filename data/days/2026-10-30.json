@@ -261,7 +261,104 @@
       "external_url": "https://twitter.com/zacharynado/status/2115501213873516911",
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "好了,现在事情变得疯狂了: 他们有另一个没有释放的双子座模型 比碳更好。而碳在今天的AA情报指数中已经达到了第一名."
+      "article_summary_zh": "好了,现在事情变得疯狂了: 他们有另一个没有释放的双子座模型 比碳更好。而碳在今天的AA情报指数中已经达到了第一名.",
+      "attached_posts": [
+        {
+          "id": "2115501213873516911",
+          "url": "https://x.com/zacharynado/status/2115501213873516911",
+          "handle": "zacharynado",
+          "display_name": "Zachary Nado",
+          "avatar": "https://pbs.twimg.com/profile_images/989023651813978112/sCQt5VYm_normal.jpg",
+          "verified": false,
+          "followers": 16746,
+          "created_at": "2026-10-28T17:49:28.000Z",
+          "lang": "en",
+          "text": "Gemini [redacted] isn't yet here though https://t.co/ZGWG4OcagM",
+          "text_zh": null,
+          "summary_zh": "Zach：称还有未发布的 Gemini 比 Carbon 更强",
+          "relation_zh": "Chubby 所引原始说法来源。",
+          "metrics": {
+            "likes": 1111,
+            "retweets": 38,
+            "replies": 64,
+            "quotes": 38,
+            "bookmarks": 80,
+            "views": 225540
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/teortaxesTex/status/2115500324454822276",
+          "article_title": null,
+          "attached_at": "2026-10-30T02:25:07+00:00"
+        },
+        {
+          "id": "2115500324454822276",
+          "url": "https://x.com/teortaxesTex/status/2115500324454822276",
+          "handle": "teortaxesTex",
+          "display_name": "Teortaxes▶️ (DeepSeek 推特🐋铁粉 2023 – ∞)",
+          "avatar": "https://pbs.twimg.com/profile_images/1652169745037242368/KRPTShbG_normal.jpg",
+          "verified": false,
+          "followers": 78999,
+          "created_at": "2026-10-28T17:45:56.000Z",
+          "lang": "en",
+          "text": "@zacharynado Fable 5.5 isn't yet here though",
+          "text_zh": null,
+          "summary_zh": "Teortaxes：被引用的上游讨论帖，围绕更强未发布 Gemini",
+          "relation_zh": "Zach 所引用的上游语境帖。",
+          "metrics": {
+            "likes": 99,
+            "retweets": 2,
+            "replies": 3,
+            "quotes": 2,
+            "bookmarks": 3,
+            "views": 34386
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [
+            "zacharynado"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-10-30T02:25:07+00:00"
+        },
+        {
+          "id": "2115952218037948589",
+          "url": "https://x.com/DeryaTR_/status/2115952218037948589",
+          "handle": "DeryaTR_",
+          "display_name": "Derya Unutmaz, MD",
+          "avatar": "https://pbs.twimg.com/profile_images/2040869160432107520/t6sD3Nbl_normal.jpg",
+          "verified": false,
+          "followers": 343887,
+          "created_at": "2026-10-29T23:41:35.000Z",
+          "lang": "en",
+          "text": "This is just incredible! Google Gemini Carbon AI model is now No. 1 in v5.0 of the Artificial Analysis Intelligence Index! This new version eliminates most benchmaxxing concerns, so this is the real thing! \n\nAs I said, “never bet against Google!” https://t.co/X4EfJG0C4K",
+          "text_zh": null,
+          "summary_zh": "Derya：祝贺 Gemini Carbon 登顶 AA Intelligence Index v5，并称减少刷榜疑虑",
+          "relation_zh": "榜单登顶的独立佐证与社区反应。",
+          "metrics": {
+            "likes": 57,
+            "retweets": 2,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 6,
+            "views": 3258
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2115933173175689570",
+          "article_title": null,
+          "attached_at": "2026-10-30T02:25:07+00:00"
+        }
+      ]
     },
     {
       "id": "2115825653539025142",
@@ -510,7 +607,113 @@
         "text": "We’ve trained Claude to flag potential misuse in conversations, a technique we call self-assessment. Right after it responds, Claude gives a preliminary safety assessment of the conversation. \n\nSince we began using self-assessment in June, it has surfaced misuse that our other safeguards weren’t designed to catch. \n\nBecause Claude has already read the conversation, self-assessment is very efficient. And unlike classifiers, which target a discrete set of harms, it draws on Claude’s own judgment, so it gets more accurate as our models improve.\n\nRead more on our new Safeguards blog:\nhttps://t.co/18j6zdHub4"
       },
       "x_long": true,
-      "article_summary_zh": "我们训练克劳德在对话中标出可能的误用, Claude在回复后 对谈话进行了初步安全评估自从6月我们开始使用自评,\n\n由于克劳德已经读过谈话,自评非常有效. 与针对离散的伤害的分类者不同,荧光利用克劳德自己的判断,因此随着我们模型的改进,它变得更加准确。"
+      "article_summary_zh": "我们训练克劳德在对话中标出可能的误用, Claude在回复后 对谈话进行了初步安全评估自从6月我们开始使用自评,\n\n由于克劳德已经读过谈话,自评非常有效. 与针对离散的伤害的分类者不同,荧光利用克劳德自己的判断,因此随着我们模型的改进,它变得更加准确。",
+      "attached_posts": [
+        {
+          "id": "2115876392990896186",
+          "url": "https://x.com/TekonBurns/status/2115876392990896186",
+          "handle": "TekonBurns",
+          "display_name": "Tekon Burns",
+          "avatar": "https://pbs.twimg.com/profile_images/2115219941905625088/mfgFCATS_normal.jpg",
+          "verified": false,
+          "followers": 2509,
+          "created_at": "2026-10-29T18:40:17.000Z",
+          "lang": "en",
+          "text": "Anthropic is replacing rigid external guardrail classifiers with model self-assessment.\n\nAfter every reply, Claude appends a short reflection turn to evaluate conversation safety.\n\nIt flags 78% of misuse and 94% of critical harms at a 1% false-positive rate. https://t.co/thKoJbK7LM",
+          "text_zh": null,
+          "summary_zh": "Tekon：自评估替代刚性分类器——号称 78% 滥用 / 94% 严重危害检出、1% 误报",
+          "relation_zh": "抽出博客关键数字，便于量化理解。",
+          "metrics": {
+            "likes": 15,
+            "retweets": 1,
+            "replies": 6,
+            "quotes": 0,
+            "bookmarks": 7,
+            "views": 3494
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2115871889549865429",
+          "article_title": null,
+          "attached_at": "2026-10-30T02:25:07+00:00"
+        },
+        {
+          "id": "2115875648270967041",
+          "url": "https://x.com/TFTC21/status/2115875648270967041",
+          "handle": "TFTC21",
+          "display_name": "TFTC",
+          "avatar": "https://pbs.twimg.com/profile_images/2035064020634357761/hQhe0BLq_normal.jpg",
+          "verified": true,
+          "followers": 116863,
+          "created_at": "2026-10-29T18:37:20.000Z",
+          "lang": "en",
+          "text": "Anthropic just published how Claude now monitors its own conversations for misuse in real time.\n\n\"After each of Claude's responses, self-assessment appends a short instruction... to which Claude responds with a compact safety assessment.\"\n\nThe system \"flags 78% of potentially harmful conversations, and 94% of high-priority ones\" across global traffic. It runs on every Claude model since Fable 5.\n\nAnthropic says the technique has \"revealed large-scale misuse not identified by other methods.\"\n\nhttps://t.co/xySyETTqv7",
+          "text_zh": null,
+          "summary_zh": "TFTC：配图摘录 Anthropic 博客——回复后再追加短指令做安全评估",
+          "relation_zh": "高粉丝账号图文转述官方机制。",
+          "metrics": {
+            "likes": 9,
+            "retweets": 3,
+            "replies": 4,
+            "quotes": 0,
+            "bookmarks": 2,
+            "views": 1990
+          },
+          "media": [
+            {
+              "key": "3_2115873814504521728",
+              "type": "photo",
+              "w": 1198,
+              "h": 909,
+              "url": "https://pbs.twimg.com/media/HV0YBh8XwAA2Wuc.jpg",
+              "orig": "https://pbs.twimg.com/media/HV0YBh8XwAA2Wuc.jpg"
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-10-30T02:25:07+00:00"
+        },
+        {
+          "id": "2115935986941341698",
+          "url": "https://x.com/orangercat/status/2115935986941341698",
+          "handle": "orangercat",
+          "display_name": "Ora",
+          "avatar": "https://pbs.twimg.com/profile_images/971362429/____2_normal.jpg",
+          "verified": false,
+          "followers": 1805,
+          "created_at": "2026-10-29T22:37:06.000Z",
+          "lang": "en",
+          "text": "Claude grading its own chats is a smart, cheap safeguard, but it needs an appeal path or paying users will hate it. Anthropic says self-assessment, running since June, caught misuse its other safeguards missed. Since the model already read the chat, it adds almost no cost. The post gives no false positive rate, and that number decides whether people trust it.",
+          "text_zh": null,
+          "summary_zh": "Ora：认可自评估廉价有效，但提醒需申诉通道否则付费用户会反感",
+          "relation_zh": "批评/产品向延伸讨论。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 16
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2115871889549865429",
+          "article_title": null,
+          "attached_at": "2026-10-30T02:25:07+00:00"
+        }
+      ]
     },
     {
       "id": "2115667965328977920",
@@ -1154,7 +1357,155 @@
       "external_url": "https://twitter.com/legit_api/status/2115771403232260335",
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "显然,不仅有 新的寓言5.5检查站浮出水面, 而且我们将* * 在IPO之前看到新的Opus 5.5。\n\n这些SVG是我迄今所看到的最好的. https://twitter.com/legit api/status/2115714032260335 (英语)."
+      "article_summary_zh": "显然,不仅有 新的寓言5.5检查站浮出水面, 而且我们将* * 在IPO之前看到新的Opus 5.5。\n\n这些SVG是我迄今所看到的最好的. https://twitter.com/legit api/status/2115714032260335 (英语).",
+      "attached_posts": [
+        {
+          "id": "2115771403232260335",
+          "url": "https://x.com/legit_api/status/2115771403232260335",
+          "handle": "legit_api",
+          "display_name": "Legit",
+          "avatar": "https://pbs.twimg.com/profile_images/2081365200477835264/wAYqxNtj_normal.jpg",
+          "verified": false,
+          "followers": 15546,
+          "created_at": "2026-10-29T11:43:06.000Z",
+          "lang": "en",
+          "text": "Some new Claude models have recently entered early testing.\n\nA newer Fable checkpoint + new Opus\n\nh/t to kostikz on discord for these Fable outputs: https://t.co/U8iibA85JZ",
+          "text_zh": null,
+          "summary_zh": "legit_api：曝光新 Claude 早期测试——更新 Fable checkpoint + 新 Opus，附图 SVG",
+          "relation_zh": "Chubby 所引原始爆料帖，含 SVG 样张。",
+          "metrics": {
+            "likes": 715,
+            "retweets": 23,
+            "replies": 66,
+            "quotes": 40,
+            "bookmarks": 103,
+            "views": 134634
+          },
+          "media": [
+            {
+              "key": "3_2115771382134927360",
+              "type": "photo",
+              "w": 1200,
+              "h": 1000,
+              "url": "https://pbs.twimg.com/media/HVy63LoW8AAxMmE.jpg",
+              "orig": "https://pbs.twimg.com/media/HVy63LoW8AAxMmE.jpg"
+            },
+            {
+              "key": "3_2115771387604353024",
+              "type": "photo",
+              "w": 4096,
+              "h": 3072,
+              "url": "https://pbs.twimg.com/media/HVy63gAXwAAAF2E.jpg",
+              "orig": "https://pbs.twimg.com/media/HVy63gAXwAAAF2E.jpg"
+            },
+            {
+              "key": "3_2115771394982068224",
+              "type": "photo",
+              "w": 3200,
+              "h": 2400,
+              "url": "https://pbs.twimg.com/media/HVy637fWwAADEjA.jpg",
+              "orig": "https://pbs.twimg.com/media/HVy637fWwAADEjA.jpg"
+            }
+          ],
+          "media_types": [
+            "photo",
+            "photo",
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-10-30T02:25:07+00:00"
+        },
+        {
+          "id": "2115849659797373038",
+          "url": "https://x.com/AI_Screening/status/2115849659797373038",
+          "handle": "AI_Screening",
+          "display_name": "Pranav Reddy",
+          "avatar": "https://pbs.twimg.com/profile_images/2099720207262683137/Rjw3i6jY_normal.jpg",
+          "verified": false,
+          "followers": 1227,
+          "created_at": "2026-10-29T16:54:04.000Z",
+          "lang": "en",
+          "text": "Claude Fable 5.5 (routed) vs. Opus 5.5 vs. Gemini 4 Argon\n\n&gt;Fable 5.5 clears Opus 5.5 on the Three.js test.\n&gt;Anthropic, please drop this beast as soon as possible! https://t.co/LH75dQrBW3",
+          "text_zh": null,
+          "summary_zh": "Pranav：视频对比 Fable 5.5（routed）vs Opus 5.5 vs Gemini Argon 的 Three.js",
+          "relation_zh": "带视频的实测对比，支撑「SVG/前端输出刷新」传闻。",
+          "metrics": {
+            "likes": 193,
+            "retweets": 7,
+            "replies": 16,
+            "quotes": 0,
+            "bookmarks": 23,
+            "views": 18226
+          },
+          "media": [
+            {
+              "key": "13_2115849523096637441",
+              "type": "video",
+              "w": 2160,
+              "h": 3626,
+              "orig": "https://pbs.twimg.com/amplify_video_thumb/2115849523096637441/img/TCMeP5TM0cgp0hhY.jpg",
+              "preview": "https://pbs.twimg.com/amplify_video_thumb/2115849523096637441/img/TCMeP5TM0cgp0hhY.jpg",
+              "mp4": "https://video.twimg.com/amplify_video/2115849523096637441/vid/avc1/2160x3626/2590BvrfRj_CAQYQ.mp4",
+              "duration_ms": 15066
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-10-30T02:25:07+00:00"
+        },
+        {
+          "id": "2115491881346072763",
+          "url": "https://x.com/NovaXCode/status/2115491881346072763",
+          "handle": "NovaXCode",
+          "display_name": "Nova",
+          "avatar": "https://pbs.twimg.com/profile_images/2058396366855118848/VjSHDBa__normal.jpg",
+          "verified": false,
+          "followers": 3524,
+          "created_at": "2026-10-28T17:12:23.000Z",
+          "lang": "en",
+          "text": "Why Anthropic Might Be Holding Back Fable 5.5 👀\n\nClaude Opus 5.5 is already at the top. Dropping Fable 5.5 right now might not give Anthropic much to gain.\n\nSo what if they’re waiting for competitors to catch up?\n\nImagine GPT-6.1 Astra or Gemini 4 Carbon challenging Opus 5.5 first.\n\nAnthropic could then drop Fable 5.5, outperform the competition, and reclaim the #1 spot.\n\nJust a theory, but imagine the timing.",
+          "text_zh": null,
+          "summary_zh": "Nova：猜测 Anthropic 或故意按住 Fable 5.5，等对手追上再放",
+          "relation_zh": "策略向解读图文，补充传闻语境。",
+          "metrics": {
+            "likes": 130,
+            "retweets": 3,
+            "replies": 37,
+            "quotes": 3,
+            "bookmarks": 5,
+            "views": 16113
+          },
+          "media": [
+            {
+              "key": "3_2115491869933404160",
+              "type": "photo",
+              "w": 4096,
+              "h": 1776,
+              "url": "https://pbs.twimg.com/media/HVu8pbibgAAzk8c.jpg",
+              "orig": "https://pbs.twimg.com/media/HVu8pbibgAAzk8c.jpg"
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-10-30T02:25:07+00:00"
+        }
+      ]
     },
     {
       "id": "2115956274974302644",
@@ -1276,7 +1627,124 @@
       "is_article": false,
       "external_url": "https://twitter.com/taker_of_whizz/status/2115915980945936620",
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2115915980945936620",
+          "url": "https://x.com/taker_of_whizz/status/2115915980945936620",
+          "handle": "taker_of_whizz",
+          "display_name": "whizz taker",
+          "avatar": "https://pbs.twimg.com/profile_images/1747328855755354112/jrTlSCRd_normal.jpg",
+          "verified": false,
+          "followers": 1360,
+          "created_at": "2026-10-29T21:17:36.000Z",
+          "lang": "en",
+          "text": "Our internal tracker picked this one up yesterday! https://t.co/yPYkhmWMeV https://t.co/HUaE0b3vvf",
+          "text_zh": null,
+          "summary_zh": "taker_of_whizz：内部追踪器截图——称前一天扫到相关模型 ID",
+          "relation_zh": "Chubby 所引原始爆料来源帖。",
+          "metrics": {
+            "likes": 931,
+            "retweets": 21,
+            "replies": 25,
+            "quotes": 28,
+            "bookmarks": 138,
+            "views": 72720
+          },
+          "media": [
+            {
+              "key": "3_2115915889044574208",
+              "type": "photo",
+              "w": 362,
+              "h": 207,
+              "url": "https://pbs.twimg.com/media/HV0-Sl0bUAAU0jr.png",
+              "orig": "https://pbs.twimg.com/media/HV0-Sl0bUAAU0jr.png"
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/Josh67Joshua/status/2115914314632790019",
+          "article_title": null,
+          "attached_at": "2026-10-30T02:25:07+00:00"
+        },
+        {
+          "id": "2115914314632790019",
+          "url": "https://x.com/Josh67Joshua/status/2115914314632790019",
+          "handle": "Josh67Joshua",
+          "display_name": "Nathan Daniels",
+          "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+          "verified": false,
+          "followers": 437,
+          "created_at": "2026-10-29T21:10:59.000Z",
+          "lang": "en",
+          "text": "Bel, now understood to be short for GPT-6.2 Betelgeuse, is based on the Dougtrio pre-train series.",
+          "text_zh": null,
+          "summary_zh": "Josh67Joshua：声称 Bel=GPT-6.2 Betelgeuse，基于 Dougtrio 预训练",
+          "relation_zh": "命名与预训练系列的关键传闻源头之一。",
+          "metrics": {
+            "likes": 502,
+            "retweets": 20,
+            "replies": 20,
+            "quotes": 6,
+            "bookmarks": 83,
+            "views": 64945
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-10-30T02:25:07+00:00"
+        },
+        {
+          "id": "2115947598528102817",
+          "url": "https://x.com/DevAdventur3s/status/2115947598528102817",
+          "handle": "DevAdventur3s",
+          "display_name": "Developing Adventures",
+          "avatar": "https://pbs.twimg.com/profile_images/2114041408264781825/8sytjSDC_normal.jpg",
+          "verified": false,
+          "followers": 1484,
+          "created_at": "2026-10-29T23:23:14.000Z",
+          "lang": "en",
+          "text": "Rumor: \"Bel\" may be short for GPT-6.2 Betelgeuse 👀\n The claim is that it runs on a new pretrain series, \"Dougtrio\".\n One source so far, nothing from OpenAI. I'll tell you if more shows up.😳 https://t.co/UzGjLTtkky https://t.co/LNg0cKq4Ry",
+          "text_zh": null,
+          "summary_zh": "DevAdventures：汇总 Bel=Betelgeuse 传闻并提醒仅单源、官方未确认",
+          "relation_zh": "谨慎跟进帖，附截图便于交叉核对。",
+          "metrics": {
+            "likes": 42,
+            "retweets": 3,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 4,
+            "views": 2786
+          },
+          "media": [
+            {
+              "key": "3_2115947593394221056",
+              "type": "photo",
+              "w": 2048,
+              "h": 1152,
+              "url": "https://pbs.twimg.com/media/HV1bIBua8AAf3Mw.jpg",
+              "orig": "https://pbs.twimg.com/media/HV1bIBua8AAf3Mw.jpg"
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/Josh67Joshua/status/2115914314632790019",
+          "article_title": null,
+          "attached_at": "2026-10-30T02:25:07+00:00"
+        }
+      ]
     },
     {
       "id": "2115785693599523089",
@@ -1833,7 +2301,115 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2115865541789515791",
+          "url": "https://x.com/CrownsGod99/status/2115865541789515791",
+          "handle": "CrownsGod99",
+          "display_name": "Crowns",
+          "avatar": "https://pbs.twimg.com/profile_images/2108674816752697344/lONKDwOq_normal.jpg",
+          "verified": false,
+          "followers": 4185,
+          "created_at": "2026-10-29T17:57:10.000Z",
+          "lang": "zh",
+          "text": "Claude 给手机和平板 App 做了几处实用更新：\n\n支持iPad / iPhone 双栏模式。\n\n以前 Claude 生成的图表、文档会直接盖在聊天界面上，现在会并排打开，一边聊一边看结果。\n\n手机可以同时登录多个账号，不用反复退出\n\nAndroid 在 Chromebook、折叠屏上更像桌面版，支持侧边栏、触控板和快捷键\n\n语言多了 24 种，现在一共 33 种\n\n语音听得更准、回复更快，嘈杂环境或轻声说话也能用，非英语也自然一些\n\niPhone 语音支持 CarPlay，开车时直接问\n\n即将上线下拉搜索，快速找历史对话、项目或设置\nhttps://t.co/p8NtUfPspQ\n#Claude #ClaudeAI #AI工具 #手机应用更新 #iPad #生产力工具 #语音助手 #CarPlay",
+          "text_zh": null,
+          "summary_zh": "Crowns：中文梳理 Claude 手机/平板更新——双栏预览、多账号、Chromebook 桌面态",
+          "relation_zh": "中文要点汇总，覆盖旁开预览与多端能力。",
+          "metrics": {
+            "likes": 6,
+            "retweets": 0,
+            "replies": 6,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 348
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2115859377488072879",
+          "article_title": null,
+          "attached_at": "2026-10-30T02:25:07+00:00"
+        },
+        {
+          "id": "2115881100786487794",
+          "url": "https://x.com/GKev1n/status/2115881100786487794",
+          "handle": "GKev1n",
+          "display_name": "gKev1n",
+          "avatar": "https://pbs.twimg.com/profile_images/2100717851745394688/wg1dGu-F_normal.jpg",
+          "verified": false,
+          "followers": 3226,
+          "created_at": "2026-10-29T18:59:00.000Z",
+          "lang": "zh",
+          "text": "Claude 手机端又更新了更新了更新了\n\n说之前想问下：Claude 确实更新了，那 iPhone Duo 在哪领？？？？\n\n现在，在iPad / iPhone Duo 上，Claude 做出来的东西现在开在聊天旁边，不再盖住你；想看大就全屏。多账号可以同时登录来回切，不用退出。Android 在 Chromebook、折叠屏上能当笔记本用了，侧边栏可调、触控板、右键、桌面同款快捷键都有。语言一口气加了 24 种，一共 33 种。语音模式反应更快、吵环境听得更清，非英语也更自然，还接上了 CarPlay。\n\n另外还预告了 iPhone / iPad 下拉搜索，历史对话、项目、设置一拉就到。\n\n讲道理，Codex 那边刚把 Pro 额度翻倍，Claude 这边手机体验又补一刀。两边都在抢你打开 App 的那几秒，兄弟们选哪个？",
+          "text_zh": null,
+          "summary_zh": "gKev1n：吐槽「更新了但 iPhone Duo 在哪领」并概括并排预览与安卓桌面态",
+          "relation_zh": "高互动中文反应帖，点出 Duo 硬件梗与功能点。",
+          "metrics": {
+            "likes": 5,
+            "retweets": 0,
+            "replies": 2,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 1006
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2115859377488072879",
+          "article_title": null,
+          "attached_at": "2026-10-30T02:25:07+00:00"
+        },
+        {
+          "id": "2115874089495650570",
+          "url": "https://x.com/EugenioFierro3/status/2115874089495650570",
+          "handle": "EugenioFierro3",
+          "display_name": "Eugenio Fierro",
+          "avatar": "https://pbs.twimg.com/profile_images/2109236635057430528/o8bwEi6V_normal.jpg",
+          "verified": false,
+          "followers": 715,
+          "created_at": "2026-10-29T18:31:08.000Z",
+          "lang": "en",
+          "text": "Claude just made big screens a lot more useful\n\nAnthropic rolled out a small but genuinely useful update to the Claude mobile apps this week, and it's the kind of detail that quietly improves how you actually work.\n\n📱 Until now, when Claude generated an artifact, meaning code, a document or a diagram, it would pop up and cover the entire chat. Starting this week, on iPad and on iPhone in Duo mode, that's no longer the case.\n\n💡 According to Claude's own announcement on X, what Claude makes now opens beside the chat instead of over it, and can expand to full screen whenever you want a closer look. That means you can read what Claude is saying and see what it just built at the same time, without constantly flipping back and forth between two full screens.\n\n🔧 This change is part of a broader round of client updates Anthropic pushed out this week across iOS, Android, CarPlay, iPadOS, Chromebooks and foldables. The same release reportedly brings faster, more natural voice mode across more languages, support for multiple active accounts, and Claude integration with Apple CarPlay for hands-free conversations while driving.\n\n🎯 Why it matters: for anyone using Claude on a tablet or a foldable phone, especially developers, creators and anyone prototyping with code or documents on the go, having chat and output visible side by side removes a real source of friction. It brings the mobile experience closer to the split-view workflow people already rely on on desktop, where context and output never get lost.\n\nWhat strikes me here isn't the feature itself, which is a fairly small UI tweak on paper, but what it signals about priorities. Anthropic seems to be treating the mobile app less like a simple chat window and more like an actual workspace, and that only really matters if you care about people using these tools for real, sustained work rather than quick one-off questions. It's the unglamorous kind of update that rarely makes headlines but ends up mattering every single day you use the app.\n\n📱 Want AI updates on WhatsApp? DM me \"AI\" and I'll send you access.\n🔔 Follow me for the last AI updates!\n\n#AInews #Claude #Anthropic #AIupdates #ProductivityAI",
+          "text_zh": null,
+          "summary_zh": "Eugenio：视频讲解 Claude 移动端产物不再盖住对话、大屏更好用",
+          "relation_zh": "带视频的英文解读，直观展示旁开预览价值。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 87
+          },
+          "media": [
+            {
+              "key": "7_2115874076858126336",
+              "type": "video",
+              "w": 1280,
+              "h": 720,
+              "orig": "https://pbs.twimg.com/ext_tw_video_thumb/2115874076858126336/pu/img/xQ_iaG202E7xIiiP.jpg",
+              "preview": "https://pbs.twimg.com/ext_tw_video_thumb/2115874076858126336/pu/img/xQ_iaG202E7xIiiP.jpg",
+              "mp4": "https://video.twimg.com/ext_tw_video/2115874076858126336/pu/vid/avc1/1280x720/S3UB7y1vmkjxaz8b.mp4?tag=12",
+              "duration_ms": 8133
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-10-30T02:25:07+00:00"
+        }
+      ]
     },
     {
       "id": "2115852199502684342",
@@ -2098,7 +2674,145 @@
       "note_tweet": {
         "text": "Meet Pika H3 Flex, debuting today as the #1 open weight model on DesignArena’s t2v board.\n\nIt’s built for professional iteration, with exportable audio stems, resolutions up to 4k, and faster-than-realtime generation. It can produce a 15-second clip with soundtrack in as little as 7 seconds.\n\nSo, yeah. It’s kind of a flex 💅"
       },
-      "x_long": true
+      "x_long": true,
+      "attached_posts": [
+        {
+          "id": "2115866693037863376",
+          "url": "https://x.com/DesignArena/status/2115866693037863376",
+          "handle": "DesignArena",
+          "display_name": "DesignArena",
+          "avatar": "https://pbs.twimg.com/profile_images/1988401101797027844/yZ6rC4I7_normal.jpg",
+          "verified": true,
+          "followers": 25334,
+          "created_at": "2026-10-29T18:01:45.000Z",
+          "lang": "en",
+          "text": "BREAKING: Pika H3 Flex by @pika_labs lands at #7 on DesignArena's Video leaderboard!\n\nPika H3 Flex scored a 1293 Elo rating, just ahead of FLUX 3 Video, Minimax H3 Max, and Minimax H3. It is also the highest ranking open-weights video model on the board. Pika H3 Flex also exhibited strengths for complicated camera motion, background details, product-centered videos, and portraits.\n\nCongrats to the @pika_labs team on the launch!",
+          "text_zh": null,
+          "summary_zh": "DesignArena：Pika H3 Flex 登视频榜第 7（1293 Elo），开源权重第一",
+          "relation_zh": "榜单官方视频通报，验证「开源权重榜第一」说法。",
+          "metrics": {
+            "likes": 33,
+            "retweets": 4,
+            "replies": 6,
+            "quotes": 2,
+            "bookmarks": 7,
+            "views": 1870
+          },
+          "media": [
+            {
+              "key": "13_2115866584313102336",
+              "type": "video",
+              "w": 1920,
+              "h": 1196,
+              "orig": "https://pbs.twimg.com/amplify_video_thumb/2115866584313102336/img/y-hmu1IsHEit6T6B.jpg",
+              "preview": "https://pbs.twimg.com/amplify_video_thumb/2115866584313102336/img/y-hmu1IsHEit6T6B.jpg",
+              "mp4": "https://video.twimg.com/amplify_video/2115866584313102336/vid/avc1/1920x1196/6jI7aPPzc6Vrf_aq.mp4",
+              "duration_ms": 8783
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [
+            "pika_labs"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-10-30T02:25:07+00:00"
+        },
+        {
+          "id": "2115869765176815909",
+          "url": "https://x.com/YaseenK7212/status/2115869765176815909",
+          "handle": "YaseenK7212",
+          "display_name": "Yaseen Khan Gul",
+          "avatar": "https://pbs.twimg.com/profile_images/1953135102281572352/ouTHPjys_normal.jpg",
+          "verified": false,
+          "followers": 42356,
+          "created_at": "2026-10-29T18:13:57.000Z",
+          "lang": "en",
+          "text": "Pika H3 Flex Last minute. Last kick. ⚽🌧️\n\nMade this 30s penalty scene with Pika H3 Flex: 2 shots of 15s each, built from reference images of the striker, the keeper and the stadium, then cut together as one take.\n\nTry it here:\nhttps://t.co/9UQNhutY4g https://t.co/YPS1uY1c8t https://t.co/qmqt5kXvzN",
+          "text_zh": null,
+          "summary_zh": "Yaseen：用 H3 Flex 两段 15 秒参考图拼出 30 秒点球雨夜场景",
+          "relation_zh": "高质量创作演示视频，展示参考图与成片能力。",
+          "metrics": {
+            "likes": 326,
+            "retweets": 76,
+            "replies": 6,
+            "quotes": 0,
+            "bookmarks": 258,
+            "views": 6475
+          },
+          "media": [
+            {
+              "key": "13_2115869410086830081",
+              "type": "video",
+              "w": 2560,
+              "h": 1440,
+              "orig": "https://pbs.twimg.com/amplify_video_thumb/2115869410086830081/img/6K_OqBv6mV-zVpLk.jpg",
+              "preview": "https://pbs.twimg.com/amplify_video_thumb/2115869410086830081/img/6K_OqBv6mV-zVpLk.jpg",
+              "mp4": "https://video.twimg.com/amplify_video/2115869410086830081/vid/avc1/2560x1440/KwoNHCBeN4qhKqV5.mp4",
+              "duration_ms": 29916
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://dev.pika.art/models/pika/pika-h3-flex?utm_source=x&utm_medium=caption&utm_campaign=261029-pika-h3-flex-creator&utm_content=yaseenk7212&utm_term=post&utm_id=052d97c8-17a4-4f3b-85aa-068c3aca0a4e"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/pika_labs/status/2115860471215788262",
+          "article_title": null,
+          "attached_at": "2026-10-30T02:25:07+00:00"
+        },
+        {
+          "id": "2115869775867920601",
+          "url": "https://x.com/I_amShiti/status/2115869775867920601",
+          "handle": "I_amShiti",
+          "display_name": "Kuria | AI",
+          "avatar": "https://pbs.twimg.com/profile_images/2036423514660708352/PtFecw86_normal.jpg",
+          "verified": false,
+          "followers": 101914,
+          "created_at": "2026-10-29T18:14:00.000Z",
+          "lang": "en",
+          "text": "AI video is getting seriously good.\n\nI tested Pika H3 Flex with a cinematic automotive concept, and the camera movement, reflections, and overall visual quality make it exciting to experiment with.\n\n15-second videos in as little as 7 seconds, 5 separate audio stems, up to 12 references, and finishing options up to 4K.\n\nThe best part? More room to create, refine, and experiment without slowing down.\n\nPika H3 Flex is worth watching.\n\nhttps://t.co/q62OZZRfKO",
+          "text_zh": null,
+          "summary_zh": "Kuria：汽车概念片试玩 H3 Flex——镜头、反射与分轨音频表现",
+          "relation_zh": "另一条高曝光创作 demo，补充专业向用例。",
+          "metrics": {
+            "likes": 65,
+            "retweets": 55,
+            "replies": 13,
+            "quotes": 0,
+            "bookmarks": 56,
+            "views": 21870
+          },
+          "media": [
+            {
+              "key": "13_2115868643011559424",
+              "type": "video",
+              "w": 1920,
+              "h": 1088,
+              "orig": "https://pbs.twimg.com/amplify_video_thumb/2115868643011559424/img/dNarf0Y1TkDFtGIe.jpg",
+              "preview": "https://pbs.twimg.com/amplify_video_thumb/2115868643011559424/img/dNarf0Y1TkDFtGIe.jpg",
+              "mp4": "https://video.twimg.com/amplify_video/2115868643011559424/vid/avc1/1920x1088/iOrbDt4W0CEKwIxc.mp4",
+              "duration_ms": 13675
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/pika_labs/status/2115860471215788262",
+          "article_title": null,
+          "attached_at": "2026-10-30T02:25:07+00:00"
+        }
+      ]
     },
     {
       "id": "2115881363413008611",
@@ -2812,7 +3526,142 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2115875968661528938",
+          "url": "https://x.com/akira_papa_IT/status/2115875968661528938",
+          "handle": "akira_papa_IT",
+          "display_name": "あきらパパ【生成AI活用エンジニア&３児のパパ】",
+          "avatar": "https://pbs.twimg.com/profile_images/1838757795736489986/eAYsRVtI_normal.jpg",
+          "verified": false,
+          "followers": 16442,
+          "created_at": "2026-10-29T18:38:36.000Z",
+          "lang": "ja",
+          "text": "【SFX v3、1つの指示で複数の音を組み立てやすく】\n\n🔊 ElevenLabsが効果音生成モデル「SFX v3」を公開しました。1つのプロンプトで複数の音を指示したときに、指示どおりに生成されやすくなっています。\n\n■ 1. 複数の音をまとめて指示\n  ▸ 1つのプロンプトに複数の音を並べても、その流れに沿って生成しやすくなったと説明されています\n  ▸ 公式記事の例は「サッカーの歓声→ボールが落ちる→数秒後にブーイング」という流れです\n  ▸ 開発者向けの元投稿では、音のディテール、文脈、キャラクターをv2より制御しやすいと述べられています\n\n■ 2. 音楽・声・音質も改善\n  ▸ 効果音だけでなく、音楽やボーカルの生成も改善されたそうです\n  ▸ v2と比べた公式ベンチマークでは、より自然でクリーンな音になったと説明されています。ただ、記事本文には数値や評価条件は載っていません\n  ▸ ゴング、チャイム、笛などでは、不要なアーティファクトが減ったとされています\n\n■ 3. 制作画面とAPIで使える\n  ▸ ElevenCreativeのFlows、Sound Effects、Studio、Music Editor、モバイルアプリで使えます\n  ▸ 開発者向けにはElevenAPIでも提供されています\n  ▸ 公式がすすめる試し方は、まず主役の音を決めて、次に周囲の音を足し、聴きながら説明を調整していくやり方です\n\nElevenLabs｜SFX v3\nhttps://t.co/oaT0JHwJyD\n元投稿：https://t.co/9ecRRK43ZR",
+          "text_zh": null,
+          "summary_zh": "あきらパパ：图文拆解 SFX v3——一条提示可组合多段音效，并引用官方 Dev 帖",
+          "relation_zh": "日文图文讲解官方能力点，便于理解「多音指令」。",
+          "metrics": {
+            "likes": 1,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 271
+          },
+          "media": [
+            {
+              "key": "3_2115875944611430401",
+              "type": "photo",
+              "w": 1448,
+              "h": 1086,
+              "url": "https://pbs.twimg.com/media/HV0Z9hNbwAEs3m-.jpg",
+              "orig": "https://pbs.twimg.com/media/HV0Z9hNbwAEs3m-.jpg"
+            },
+            {
+              "key": "3_2115875944619819008",
+              "type": "photo",
+              "w": 1448,
+              "h": 1086,
+              "url": "https://pbs.twimg.com/media/HV0Z9hPbwAAMZYr.jpg",
+              "orig": "https://pbs.twimg.com/media/HV0Z9hPbwAAMZYr.jpg"
+            },
+            {
+              "key": "3_2115875944502366208",
+              "type": "photo",
+              "w": 1448,
+              "h": 1086,
+              "url": "https://pbs.twimg.com/media/HV0Z9gzbkAAL-1r.jpg",
+              "orig": "https://pbs.twimg.com/media/HV0Z9gzbkAAL-1r.jpg"
+            },
+            {
+              "key": "3_2115875944615571456",
+              "type": "photo",
+              "w": 1448,
+              "h": 1086,
+              "url": "https://pbs.twimg.com/media/HV0Z9hOa8AAuZlY.jpg",
+              "orig": "https://pbs.twimg.com/media/HV0Z9hOa8AAuZlY.jpg"
+            }
+          ],
+          "media_types": [
+            "photo",
+            "photo",
+            "photo",
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2115868081947893993",
+          "article_title": null,
+          "attached_at": "2026-10-30T02:25:07+00:00"
+        },
+        {
+          "id": "2115876132247699728",
+          "url": "https://x.com/SimplyAnnisa/status/2115876132247699728",
+          "handle": "SimplyAnnisa",
+          "display_name": "Anissa",
+          "avatar": "https://pbs.twimg.com/profile_images/1958119025436966912/XamzfdS7_normal.jpg",
+          "verified": false,
+          "followers": 16651,
+          "created_at": "2026-10-29T18:39:15.000Z",
+          "lang": "en",
+          "text": "Typed a little morning scene into the new SFX model.\nAlarm clock, someone groaning, curtains pulled open, birds outside. Got all four, in order. https://t.co/0qseU5k9ZS",
+          "text_zh": null,
+          "summary_zh": "Annisa：用 SFX v3 生成晨起场景音——闹钟、呻吟、拉开窗帘、鸟鸣",
+          "relation_zh": "用户实测演示贴，优先视频向体验。",
+          "metrics": {
+            "likes": 13,
+            "retweets": 10,
+            "replies": 6,
+            "quotes": 0,
+            "bookmarks": 4,
+            "views": 747
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2115867078964187368",
+          "article_title": null,
+          "attached_at": "2026-10-30T02:25:07+00:00"
+        },
+        {
+          "id": "2115869478710039026",
+          "url": "https://x.com/umesh_ai/status/2115869478710039026",
+          "handle": "umesh_ai",
+          "display_name": "Umesh",
+          "avatar": "https://pbs.twimg.com/profile_images/1661812165949489186/vhwQU-Fk_normal.jpg",
+          "verified": false,
+          "followers": 48192,
+          "created_at": "2026-10-29T18:12:49.000Z",
+          "lang": "en",
+          "text": "Shot our short without a sound recordist, so the ambience is gone. \n\nRebuilding the beds with @ElevenLabs SFX v3, a parking garage with distant car alarms, and it's holding up in the rough cut. https://t.co/tNDR5j0PyY",
+          "text_zh": null,
+          "summary_zh": "Umesh：短片没收音，用 ElevenLabs SFX v3 重铺停车场等环境底噪",
+          "relation_zh": "创作者实战补音案例，说明 API/创作场景用途。",
+          "metrics": {
+            "likes": 4,
+            "retweets": 1,
+            "replies": 2,
+            "quotes": 0,
+            "bookmarks": 2,
+            "views": 788
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [
+            "ElevenLabs"
+          ],
+          "quoted_post_url": "https://x.com/i/status/2115867078964187368",
+          "article_title": null,
+          "attached_at": "2026-10-30T02:25:07+00:00"
+        }
+      ]
     },
     {
       "id": "2115854891650523391",
@@ -3376,7 +4225,102 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2115623382721126826",
+          "url": "https://x.com/jsnnsa/status/2115623382721126826",
+          "handle": "jsnnsa",
+          "display_name": "jacob",
+          "avatar": "https://pbs.twimg.com/profile_images/2066597515634601984/EeiYsw7S_normal.jpg",
+          "verified": false,
+          "followers": 22316,
+          "created_at": "2026-10-29T01:54:55.000Z",
+          "lang": "zxx",
+          "text": "https://t.co/qPBEMKweh6",
+          "text_zh": null,
+          "summary_zh": "Jacob Sansbury（Spawn）：十人团队月烧 310 万美元 token，Agent 舰队 30 天交付 7.7 万次改动",
+          "relation_zh": "Simon 所引用的原长文案例，Fable 时代代理工程极限实践。",
+          "metrics": {
+            "likes": 2444,
+            "retweets": 204,
+            "replies": 202,
+            "quotes": 302,
+            "bookmarks": 6606,
+            "views": 608078
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": "How I Built the Most AI-Pilled Company in the World",
+          "attached_at": "2026-10-30T02:25:07+00:00"
+        },
+        {
+          "id": "2115848035699970285",
+          "url": "https://x.com/walkojas/status/2115848035699970285",
+          "handle": "walkojas",
+          "display_name": "Jason Walko",
+          "avatar": "https://pbs.twimg.com/profile_images/2021637383406678017/uRkYCxXK_normal.jpg",
+          "verified": false,
+          "followers": 3388,
+          "created_at": "2026-10-29T16:47:36.000Z",
+          "lang": "en",
+          "text": "The detail that stuck with me: anything that can't be undone, like sending a payment, still goes through a few dumb, hard-coded gates.\n\nLet agents move fast on what you can roll back. Put hard rules on what you can't.\n\nThat line is the whole design. https://t.co/YsKKq5vvZm",
+          "text_zh": null,
+          "summary_zh": "Jason：不可回滚动作仍走硬编码闸门——让 Agent 在可回滚处狂奔",
+          "relation_zh": "提炼 Spawn 文中关键设计原则，便于快速抓住要点。",
+          "metrics": {
+            "likes": 1,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 51
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2115821668350435645",
+          "article_title": null,
+          "attached_at": "2026-10-30T02:25:07+00:00"
+        },
+        {
+          "id": "2115843304541835687",
+          "url": "https://x.com/eugeniu_ghelbur/status/2115843304541835687",
+          "handle": "eugeniu_ghelbur",
+          "display_name": "Eugeniu Ghelbur",
+          "avatar": "https://pbs.twimg.com/profile_images/1722263037418385408/EsUb1BGl_normal.jpg",
+          "verified": false,
+          "followers": 385,
+          "created_at": "2026-10-29T16:28:48.000Z",
+          "lang": "en",
+          "text": "Spawn kept two years of calls and chats as text next to their code, so AI judges settled 7,296 decisions in eight days while the CEO weighed in 27 times. \n\nIf your decisions aren't written down, your agents will keep asking you. https://t.co/uY3OBu92qK",
+          "text_zh": null,
+          "summary_zh": "Eugeniu：两年决策落盘成 AI 法官，8 天裁决 7296 次、CEO 只插手 27 次",
+          "relation_zh": "抓住「品味可扩展」这一 Simon 挑眉点的核心数字。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 17
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2115821668350435645",
+          "article_title": null,
+          "attached_at": "2026-10-30T02:25:07+00:00"
+        }
+      ]
     },
     {
       "id": "2115624109841539465",
@@ -5842,7 +6786,141 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2115623715765690409",
+          "url": "https://x.com/Dhruvkumar16797/status/2115623715765690409",
+          "handle": "Dhruvkumar16797",
+          "display_name": "Dhruv kumar",
+          "avatar": "https://pbs.twimg.com/profile_images/2035601746878406656/bSUc2FIG_normal.jpg",
+          "verified": false,
+          "followers": 19852,
+          "created_at": "2026-10-29T01:56:14.000Z",
+          "lang": "en",
+          "text": "Anthropic engineer: \"at Anthropic, we don't write prompts anymore. we build loops\"\n\nin 42 minutes, she shows how the Claude team creates loops that prompt themselves\n\nif this cost $400, people would call it the best agents course of the year\n\nit's free\n\nwatch it, https://t.co/H0pm72gauc",
+          "text_zh": null,
+          "summary_zh": "Dhruv：Anthropic 工程师 42 分钟免费课——「我们不再写提示词，而是搭循环」",
+          "relation_zh": "同主题 Anthropic 官方工程师免费课视频，互补提示词/Agent 循环。",
+          "metrics": {
+            "likes": 225,
+            "retweets": 92,
+            "replies": 28,
+            "quotes": 2,
+            "bookmarks": 218,
+            "views": 12357
+          },
+          "media": [
+            {
+              "key": "13_2115623471489429504",
+              "type": "video",
+              "w": 640,
+              "h": 360,
+              "orig": "https://pbs.twimg.com/amplify_video_thumb/2115623471489429504/img/PZyQ26eDX1S9Qkaj.jpg",
+              "preview": "https://pbs.twimg.com/amplify_video_thumb/2115623471489429504/img/PZyQ26eDX1S9Qkaj.jpg",
+              "mp4": "https://video.twimg.com/amplify_video/2115623471489429504/vid/avc1/640x360/deIIagDNJeBr8q5N.mp4",
+              "duration_ms": 1887387
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-10-30T02:25:07+00:00"
+        },
+        {
+          "id": "2115087105387008258",
+          "url": "https://x.com/mr_kozh/status/2115087105387008258",
+          "handle": "mr_kozh",
+          "display_name": "kozh ./",
+          "avatar": "https://pbs.twimg.com/profile_images/2086847000239353856/1ON_o-Fq_normal.jpg",
+          "verified": false,
+          "followers": 2757,
+          "created_at": "2026-10-27T14:23:56.000Z",
+          "lang": "en",
+          "text": "Anthropic engineer:\n\n“Stop writing longer prompts. Give your agent skills it can reuse.”\n\nElie Schoppik and Andrew Ng just released a free 2-hour course on the architecture behind serious AI agents.\n\nnot another prompting tutorial.\n\na practical system for turning instructions into capabilities Claude can load whenever the same job appears again.\n\nPrompt → Skills → Tools → MCP → Sub-Agents → Long-Running Agents\n\n00:00 - teach Claude its first custom skill\n\n22:32 - plug in the skills Claude already ships with\n\n41:07 - decide when to use a skill, tool, MCP or sub-agent\n\n01:06:06 - keep agents working for hours without losing the goal\n\nthe distinction most people miss:\n\na prompt tells the agent what to do once\n\na skill preserves how the work should be done\n\na tool performs one concrete action\n\nMCP connects the agent to external systems\n\na sub-agent isolates one responsibility\n\na loop keeps the workflow moving after the first response\n\ninstead of pasting the same giant prompt into every session, you package the useful process once:\n\nwhen the skill should activate\nwhich files it should inspect\nwhich tools it may use\nwhat sequence it should follow\nhow it verifies the result\nwhen it must stop and ask for approval\n\nthe agent loads that knowledge only when the task requires it.\n\nless context noise.\n\nfewer repeated instructions.\n\nthe same proven workflow available across every future run.\n\nthis is the jump from using Claude as a chatbot to engineering Claude as a worker.\n\nwhile you scroll, someone else is turning their expertise into skills an agent can execute repeatedly.\n\nthis free course teaches more practical agent architecture than most $1,500 bootcamps.\n\nbookmark it and watch it tonight.\n\nthen read the full Harness, Loops and Graphs guide below ↓",
+          "text_zh": null,
+          "summary_zh": "kozh：Anthropic 工程师强调给 Agent 可复用 skills，并推荐 Ng 免费 Agent 架构课",
+          "relation_zh": "同属 Anthropic/Agent 免费课程生态，强调 skills 而非长提示。",
+          "metrics": {
+            "likes": 18,
+            "retweets": 0,
+            "replies": 4,
+            "quotes": 0,
+            "bookmarks": 10,
+            "views": 763
+          },
+          "media": [
+            {
+              "key": "13_2115082947347038208",
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "orig": "https://pbs.twimg.com/amplify_video_thumb/2115082947347038208/img/nW6mw6Lt9_9fq6Po.jpg",
+              "preview": "https://pbs.twimg.com/amplify_video_thumb/2115082947347038208/img/nW6mw6Lt9_9fq6Po.jpg",
+              "mp4": "https://video.twimg.com/amplify_video/2115082947347038208/vid/avc1/1920x1080/uYBTv1NbXgCZpZMc.mp4",
+              "duration_ms": 6433937
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/mr_kozh/status/2109231794457608494",
+          "article_title": null,
+          "attached_at": "2026-10-30T02:25:07+00:00"
+        },
+        {
+          "id": "2115646555122446649",
+          "url": "https://x.com/_HimanshuBuilds/status/2115646555122446649",
+          "handle": "_HimanshuBuilds",
+          "display_name": "Official Himanshu",
+          "avatar": "https://pbs.twimg.com/profile_images/2007777561506627584/AuFXkSNi_normal.jpg",
+          "verified": false,
+          "followers": 5670,
+          "created_at": "2026-10-29T03:27:00.000Z",
+          "lang": "en",
+          "text": "Anthropic Engineering: \"At Anthropic, we don't write prompts anymore. we build loops\"\n\nin 42 minutes, she shows how the Claude team creates loops that prompt themselves\n\nif this cost $400, people would call it the best agents course of the year\n\nit's free\n\nwatch it, and Bookmark. https://t.co/VEgL9L1VZT",
+          "text_zh": null,
+          "summary_zh": "Himanshu：转发同款 Anthropic「build loops」42 分钟免费课并催收藏",
+          "relation_zh": "同一门 Anthropic 内部用法课的传播帖，强化收藏动机。",
+          "metrics": {
+            "likes": 75,
+            "retweets": 17,
+            "replies": 7,
+            "quotes": 0,
+            "bookmarks": 83,
+            "views": 6135
+          },
+          "media": [
+            {
+              "key": "13_2115620257926938625",
+              "type": "video",
+              "w": 1280,
+              "h": 720,
+              "orig": "https://pbs.twimg.com/amplify_video_thumb/2115620257926938625/img/HP9ZwjFjYQ1SzFzV.jpg",
+              "preview": "https://pbs.twimg.com/amplify_video_thumb/2115620257926938625/img/HP9ZwjFjYQ1SzFzV.jpg",
+              "mp4": "https://video.twimg.com/amplify_video/2115620257926938625/vid/avc1/1280x720/d_ytcfsaJ_tAJpCj.mp4",
+              "duration_ms": 1887341
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-10-30T02:25:07+00:00"
+        }
+      ]
     },
     {
       "id": "2115856411439575386",
@@ -7351,7 +8429,130 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2115930277507653735",
+          "url": "https://x.com/TechieBySA/status/2115930277507653735",
+          "handle": "TechieBySA",
+          "display_name": "TechieSA",
+          "avatar": "https://pbs.twimg.com/profile_images/1933182609758052352/k_CZpuNi_normal.jpg",
+          "verified": false,
+          "followers": 36491,
+          "created_at": "2026-10-29T22:14:24.000Z",
+          "lang": "en",
+          "text": "Donald Trump Vs Nicki Minaj💅🇺🇸\n\nHiggsfield Unlimited GPT Image 2.5 &amp; Seedance 2.5\n\nPrompt👇🏻 https://t.co/A5Rpeca8AH https://t.co/osSSu4gSv1",
+          "text_zh": null,
+          "summary_zh": "TechieSA：用 Higgsfield 无限 Seedance 2.5 / GPT Image 2.5 做特朗普 vs Nicki 视频",
+          "relation_zh": "活动期间的创作 demo 视频，直观展示无限额度。",
+          "metrics": {
+            "likes": 101,
+            "retweets": 9,
+            "replies": 2,
+            "quotes": 0,
+            "bookmarks": 59,
+            "views": 15466
+          },
+          "media": [
+            {
+              "key": "13_2115930193785217024",
+              "type": "video",
+              "w": 1080,
+              "h": 1080,
+              "orig": "https://pbs.twimg.com/media/HV1LTPKXIAA9QJG.jpg",
+              "preview": "https://pbs.twimg.com/media/HV1LTPKXIAA9QJG.jpg",
+              "mp4": "https://video.twimg.com/amplify_video/2115930193785217024/vid/avc1/1080x1080/PNq1F6K3XDtXRA8k.mp4",
+              "duration_ms": 19666
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2115929160447393797",
+          "article_title": null,
+          "attached_at": "2026-10-30T02:25:07+00:00"
+        },
+        {
+          "id": "2115930067973070883",
+          "url": "https://x.com/erikmachorse/status/2115930067973070883",
+          "handle": "erikmachorse",
+          "display_name": "Erik Martin",
+          "avatar": "https://pbs.twimg.com/profile_images/2064724768918511616/-_laEbyK_normal.jpg",
+          "verified": false,
+          "followers": 180,
+          "created_at": "2026-10-29T22:13:34.000Z",
+          "lang": "en",
+          "text": "@higgsfield You deleted the previous post i commented on. So i'm gonna say it again.\n\nThe Seedance 2.5 on Higgsfield for 7 days but only if you pay for the whole year.",
+          "text_zh": null,
+          "summary_zh": "Erik：质疑活动条件——称需年付才有 7 天 Seedance 2.5 无限",
+          "relation_zh": "高赞质疑帖，提醒优惠条款可能有坑。",
+          "metrics": {
+            "likes": 90,
+            "retweets": 3,
+            "replies": 5,
+            "quotes": 0,
+            "bookmarks": 1,
+            "views": 2235
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [
+            "higgsfield"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-10-30T02:25:07+00:00"
+        },
+        {
+          "id": "2115977153426694409",
+          "url": "https://x.com/MaAyyoub/status/2115977153426694409",
+          "handle": "MaAyyoub",
+          "display_name": "Ayyoub Ai",
+          "avatar": "https://pbs.twimg.com/profile_images/2112256686459146240/pqoHA72p_normal.jpg",
+          "verified": false,
+          "followers": 1686,
+          "created_at": "2026-10-30T01:20:40.000Z",
+          "lang": "en",
+          "text": "Zero credits, all week! 🔥\n\nYes, this is REAL! Unlimited Seedance 2.5 on Higgsfield for 7 days, plus access to 3 powerful image models:\n\nGPT Image 2.5 Nano Banana Pro Seedream 5.0 Pro\nAvailable for new users. \nTime to create something amazing! https://t.co/MLx7oJQN8s https://t.co/SK3UQHrT3j",
+          "text_zh": null,
+          "summary_zh": "Ayyoub：转发宣传零积分一周无限 Seedance 2.5 并附演示视频",
+          "relation_zh": "跟进宣传+视频，补充活动传播面。",
+          "metrics": {
+            "likes": 2,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 65
+          },
+          "media": [
+            {
+              "key": "13_2115976833648742400",
+              "type": "video",
+              "w": 1664,
+              "h": 1248,
+              "orig": "https://pbs.twimg.com/amplify_video_thumb/2115976833648742400/img/dB1WGMJ_vci_HsqM.jpg",
+              "preview": "https://pbs.twimg.com/amplify_video_thumb/2115976833648742400/img/dB1WGMJ_vci_HsqM.jpg",
+              "mp4": "https://video.twimg.com/amplify_video/2115976833648742400/vid/avc1/1664x1248/U16Ugrr_7J3VFBWP.mp4",
+              "duration_ms": 30100
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2115929160447393797",
+          "article_title": null,
+          "attached_at": "2026-10-30T02:25:07+00:00"
+        }
+      ]
     },
     {
       "id": "2115884139346067827",
