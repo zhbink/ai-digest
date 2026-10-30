@@ -12,6 +12,10 @@ for D in $CHK_DATES; do
     echo "ERROR: $D has stub headlines/rec_reason/missing translations. Run: $PY scripts/editorial.py plan --date $D, write work/edits/$D-editorial.json, then apply." >&2
     [[ "${ALLOW_STUBS:-}" == 1 ]] || exit 4
   fi
+  if ! "$PY" scripts/replies.py check --date "$D"; then
+    echo "ERROR: $D has banned/placeholder discussion_summary or missing reply fetches. Fetch work/raw/$D/replies-<id>.json, write data/replies/$D.summaries.json, then: $PY scripts/replies.py apply --date $D && $PY scripts/replies.py check --date $D. Never ship 「评论区较活跃，详情见原帖。」" >&2
+    [[ "${ALLOW_STUBS:-}" == 1 ]] || exit 5
+  fi
 done
 
 git add data/ index.html static/ .nojekyll README.md config/ scripts/ ingest.py publish.sh .gitignore 2>/dev/null || true
