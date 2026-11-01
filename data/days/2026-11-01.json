@@ -227,7 +227,142 @@
       "external_url": null,
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "多方称 Qwen 4 下周落地：Qwen Code 已接入 Max/Plus，并支持 low/medium/xhigh 推理档位；Aspara 会议员工亦提到时间点。"
+      "article_summary_zh": "多方称 Qwen 4 下周落地：Qwen Code 已接入 Max/Plus，并支持 low/medium/xhigh 推理档位；Aspara 会议员工亦提到时间点。",
+      "attached_posts": [
+        {
+          "id": "2116580650174345279",
+          "url": "https://x.com/marcthecreatorr/status/2116580650174345279",
+          "handle": "marcthecreatorr",
+          "display_name": "Marcel",
+          "avatar": "https://pbs.twimg.com/profile_images/2102714637690994688/F7HAsxRl_normal.jpg",
+          "verified": true,
+          "followers": 2787,
+          "created_at": "2026-10-31T17:18:45.000Z",
+          "lang": "en",
+          "text": "Qwen 4 (kerria) &gt; GPT 6.1 Terra (max)\n\nsame prompt: create a 2D RPG village in a single HTML file \n\n- kerria tested on arena, ~10 min\n- terra ran on max in codex, ~3 min\n\nword is Qwen 4 is very likely to drop next week :) \n\ncan't wait to finally test it when it launches https://t.co/NUoWCTMKDa",
+          "text_zh": null,
+          "summary_zh": "marcthecreatorr 视频：Arena 实测 Qwen 4 (kerria) 单文件做 2D RPG 村",
+          "relation_zh": "同话题带视频实测",
+          "metrics": {
+            "likes": 68,
+            "retweets": 1,
+            "replies": 8,
+            "quotes": 0,
+            "bookmarks": 16,
+            "views": 3455
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2116580469235978241/vid/avc1/1920x1080/9IA_yV0pn231trwg.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2116580469235978241/img/CV6GRy03VsWP0tDc.jpg",
+              "duration_ms": 34642
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/marcthecreatorr/status/2116580650174345279/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-01T03:25:28.212731+00:00"
+        },
+        {
+          "id": "2116024462793638117",
+          "url": "https://x.com/AJButton2/status/2116024462793638117",
+          "handle": "AJButton2",
+          "display_name": "A.J. Button",
+          "avatar": "https://pbs.twimg.com/profile_images/1404360462041595908/4U0QboHD_normal.jpg",
+          "verified": true,
+          "followers": 9001,
+          "created_at": "2026-10-30T04:28:40.000Z",
+          "lang": "en",
+          "text": "Alibaba is releasing its new Qwen 4 series next week.\n\nThe company is expected to announce some of its most powerful AI models ever.\n\nHere's what we know:\n\n1. Alibaba will release at least FOUR models, ranging from small to large.\n2. The \"Next-Flash\" model will have 125B https://t.co/IzKujuI3jp",
+          "text_zh": null,
+          "summary_zh": "AJButton2：阿里下周发 Qwen 4 系列，号称最强一批模型",
+          "relation_zh": "同话题带图预告",
+          "metrics": {
+            "likes": 34,
+            "retweets": 2,
+            "replies": 3,
+            "quotes": 0,
+            "bookmarks": 5,
+            "views": 2076
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1024,
+              "h": 916,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HV2g6y2bsAAxvix.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/AJButton2/status/2116024462793638117/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-01T03:25:28.212770+00:00"
+        },
+        {
+          "id": "2116439735702782016",
+          "url": "https://x.com/leo114119/status/2116439735702782016",
+          "handle": "leo114119",
+          "display_name": "Leo · Building w/ AI",
+          "avatar": "https://pbs.twimg.com/profile_images/2097524411033100288/TICgviAl_normal.jpg",
+          "verified": true,
+          "followers": 8345,
+          "created_at": "2026-10-31T07:58:49.000Z",
+          "lang": "zh",
+          "text": "Qwen 4 全系默认 1M 上下文，在 QwenCode 的更新周报里已经有相关的 changelog 了\n\n「一百万 token 上下文的模型认得出来了。 qwen4 这一代和邀请制的 qwen-latest-series 这些名字现在按一百万的窗口算，不再落回较小的默认窗口。详见 PR #15758、#15762\n\n下周发布越来越近了。。。 https://t.co/zcNFXddQYe",
+          "text_zh": null,
+          "summary_zh": "leo114119：Qwen 4 全系默认 1M 上下文，已在 QwenCode changelog 现身",
+          "relation_zh": "同话题带图技术细节",
+          "metrics": {
+            "likes": 30,
+            "retweets": 0,
+            "replies": 10,
+            "quotes": 0,
+            "bookmarks": 4,
+            "views": 3802
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 883,
+              "h": 455,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HV8aX0WXMAAsi2U.png",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/leo114119/status/2116439735702782016/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-01T03:25:28.212790+00:00"
+        }
+      ]
     },
     {
       "id": "2116611322377036192",
@@ -351,7 +486,132 @@
       "external_url": null,
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "帖文配图指向 Google 拟建超大规模园区，并以 Claude 地名梗暗讽 Anthropic 算力扩张与头部云厂商争夺。"
+      "article_summary_zh": "帖文配图指向 Google 拟建超大规模园区，并以 Claude 地名梗暗讽 Anthropic 算力扩张与头部云厂商争夺。",
+      "attached_posts": [
+        {
+          "id": "2116628710518616255",
+          "url": "https://x.com/scaling01/status/2116628710518616255",
+          "handle": "scaling01",
+          "display_name": "Lisan al Gaib",
+          "avatar": "https://pbs.twimg.com/profile_images/1831493788679761920/-q9w6dzd_normal.jpg",
+          "verified": true,
+          "followers": 63049,
+          "created_at": "2026-10-31T20:29:44.000Z",
+          "lang": "en",
+          "text": "two of the ten largest AI data centers are in Malaysia \n\nboth are operated by DayOne, whose largest customer is ByteDance https://t.co/HaYMOQPQpG https://t.co/OoeklLoKBM",
+          "text_zh": null,
+          "summary_zh": "scaling01 跟进：全球十大 AI 数据中心有两座在马来西亚、服务字节",
+          "relation_zh": "作者同线程带图续帖",
+          "metrics": {
+            "likes": 328,
+            "retweets": 0,
+            "replies": 18,
+            "quotes": 3,
+            "bookmarks": 53,
+            "views": 16362
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1078,
+              "h": 672,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HV_FnzdXUAAfjx7.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/scaling01/status/2116628710518616255/photo/1",
+            "https://twitter.com/scaling01/status/2116611322377036192"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2116611322377036192",
+          "article_title": null,
+          "attached_at": "2026-11-01T03:25:28.186524+00:00"
+        },
+        {
+          "id": "2116714349834518877",
+          "url": "https://x.com/jdchawla29/status/2116714349834518877",
+          "handle": "jdchawla29",
+          "display_name": "jd",
+          "avatar": "https://pbs.twimg.com/profile_images/1874416506525675520/I4ITtTpB_normal.jpg",
+          "verified": true,
+          "followers": 1210,
+          "created_at": "2026-11-01T02:10:02.000Z",
+          "lang": "en",
+          "text": "i knew claude, texas sounded familiar https://t.co/wS52t6ThA3 https://t.co/gfSBJ3aQH8",
+          "text_zh": null,
+          "summary_zh": "jdchawla29：带图调侃 Claude, Texas 地名似曾相识",
+          "relation_zh": "母帖带图引用转评",
+          "metrics": {
+            "likes": 1,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 103
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1125,
+              "h": 475,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWAUMRuagAAEpYE.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/jdchawla29/status/2116714349834518877/photo/1",
+            "https://twitter.com/scaling01/status/2116611322377036192"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2116611322377036192",
+          "article_title": null,
+          "attached_at": "2026-11-01T03:25:28.186565+00:00"
+        },
+        {
+          "id": "2116617148755857461",
+          "url": "https://x.com/mgostIH/status/2116617148755857461",
+          "handle": "mgostIH",
+          "display_name": "mgostIH",
+          "avatar": "https://pbs.twimg.com/profile_images/1734180690944565248/_cCIFVjB_normal.jpg",
+          "verified": true,
+          "followers": 4361,
+          "created_at": "2026-10-31T19:43:47.000Z",
+          "lang": "en",
+          "text": "&gt;datacenter built in a town called Claude\n&gt;Goodnight\nIt's the end isn't it https://t.co/ZbzTYwTIkI",
+          "text_zh": null,
+          "summary_zh": "mgostIH：数据中心建在 Claude 镇还叫 Goodnight——末日感拉满",
+          "relation_zh": "母帖金句式转评",
+          "metrics": {
+            "likes": 11,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 398
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/scaling01/status/2116611322377036192"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2116611322377036192",
+          "article_title": null,
+          "attached_at": "2026-11-01T03:25:28.186585+00:00"
+        }
+      ]
     },
     {
       "id": "2116590276076580979",
@@ -484,7 +744,169 @@
       "external_url": null,
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "TestingCatalog 转发官方 TestFlight/安装链接，确认 Hermes 手机端双端 beta 已放量。"
+      "article_summary_zh": "TestingCatalog 转发官方 TestFlight/安装链接，确认 Hermes 手机端双端 beta 已放量。",
+      "attached_posts": [
+        {
+          "id": "2116549056818184477",
+          "url": "https://x.com/Trorram/status/2116549056818184477",
+          "handle": "Trorram",
+          "display_name": "Trorram",
+          "avatar": "https://pbs.twimg.com/profile_images/2088639638898462720/O-my50VH_normal.jpg",
+          "verified": true,
+          "followers": 276,
+          "created_at": "2026-10-31T15:13:13.000Z",
+          "lang": "pt",
+          "text": "O Hermes Agent acaba de chegar ao iPhone: o app mobile oficial da Nous Research entrou em beta fechado e teve suas primeiras telas e funcionamento revelados por @tonysimons durante a Nous Con. Um agente autônomo com acesso a sensores, voz em tempo real e automações direto no https://t.co/f9an4mBTaO https://t.co/9VNpIG0AZL",
+          "text_zh": null,
+          "summary_zh": "Trorram 视频介绍 Hermes Agent 正式登陆 iPhone 公测",
+          "relation_zh": "同话题带视频预热/跟进",
+          "metrics": {
+            "likes": 2,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 1,
+            "views": 206
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1320,
+              "h": 2868,
+              "alt": null,
+              "mp4": "https://video.twimg.com/ext_tw_video/2116548974765121536/pu/vid/avc1/720x1564/XwdWWel540ZhT2lL.mp4?tag=12",
+              "poster": "https://pbs.twimg.com/ext_tw_video_thumb/2116548974765121536/pu/img/mtjAF9Ex8LOEtUix.jpg",
+              "duration_ms": 95085
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/Trorram/status/2116549056818184477/video/1",
+            "https://x.com/tonysimons/status/2116410184029643079"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "tonysimons"
+          ],
+          "quoted_post_url": "https://x.com/i/status/2116410184029643079",
+          "article_title": null,
+          "attached_at": "2026-11-01T03:25:28.160377+00:00"
+        },
+        {
+          "id": "2116629035161661629",
+          "url": "https://x.com/Cyndra_ai/status/2116629035161661629",
+          "handle": "Cyndra_ai",
+          "display_name": "Cyndra AI",
+          "avatar": "https://pbs.twimg.com/profile_images/2040480194432282624/BAFBqh0__normal.jpg",
+          "verified": true,
+          "followers": 536,
+          "created_at": "2026-10-31T20:31:01.000Z",
+          "lang": "en",
+          "text": "Nous Research opened the Hermes Mobile beta today. \n\niOS on TestFlight, Android by invite.\n\nFrom the TestFlight listing: \n\nChat with your agent\napprove its tool calls\nmanage bots and routines\n\nEarly users also report a voice mode where a pause sends your message, plus spend https://t.co/YRaqTmqqkB",
+          "text_zh": null,
+          "summary_zh": "Cyndra_ai：Nous 开放 Hermes Mobile beta，附 TestFlight 截图",
+          "relation_zh": "同日带多图功能说明",
+          "metrics": {
+            "likes": 6,
+            "retweets": 2,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 316
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 971,
+              "h": 2000,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HV_GTGmWQAAFk4Y.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 1090,
+              "h": 2000,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HV_GMZFWMAAe0qQ.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 863,
+              "h": 1870,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HV_GRXaXEAA-HUe.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo",
+            "photo",
+            "photo"
+          ],
+          "links": [
+            "https://x.com/Cyndra_ai/status/2116629035161661629/photo/1",
+            "https://x.com/Cyndra_ai/status/2116629035161661629/photo/1",
+            "https://x.com/Cyndra_ai/status/2116629035161661629/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-01T03:25:28.160420+00:00"
+        },
+        {
+          "id": "2116608834177519623",
+          "url": "https://x.com/timsonner/status/2116608834177519623",
+          "handle": "timsonner",
+          "display_name": "Tim Sonner",
+          "avatar": "https://pbs.twimg.com/profile_images/2093115082603737088/JDzISSWm_normal.jpg",
+          "verified": true,
+          "followers": 128,
+          "created_at": "2026-10-31T19:10:45.000Z",
+          "lang": "en",
+          "text": "Official Hermes Mobile beta is live - need TestFlight for iOS. Android may be full.\n\nReserve a spot here: https://t.co/cdxaITOwF4\n\n@NousResearch @letsbuildanyway https://t.co/ogQHXoDBeA",
+          "text_zh": null,
+          "summary_zh": "timsonner：Hermes Mobile beta 上线，iOS 需 TestFlight、安卓或已满",
+          "relation_zh": "同话题带图入口提醒",
+          "metrics": {
+            "likes": 2,
+            "retweets": 0,
+            "replies": 2,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 130
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1173,
+              "h": 2048,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HV-0hFVbkAAMpq_.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://hermes-agent.nousresearch.com/mobile",
+            "https://x.com/timsonner/status/2116608834177519623/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "NousResearch",
+            "letsbuildanyway"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-01T03:25:28.160440+00:00"
+        }
+      ]
     },
     {
       "id": "2116621333992005911",
@@ -1683,7 +2105,152 @@
         "text": "Meta reportedly built a humanoid robot prototype called Max with Chinese robotics company Fourier in just three months and is already developing a second version. \n\nThe project will probably to a consumer robot for people’s homes. Meta is aiming for all directions: AI agents, AR/VR and robotics \n\nVia the information"
       },
       "x_long": true,
-      "article_summary_zh": "报道勾勒 Meta 消费机器人路线：短周期原型 + 迭代，与 Agent/XR 战略并行。"
+      "article_summary_zh": "报道勾勒 Meta 消费机器人路线：短周期原型 + 迭代，与 Agent/XR 战略并行。",
+      "attached_posts": [
+        {
+          "id": "2116603453862809714",
+          "url": "https://x.com/Web3__Youth/status/2116603453862809714",
+          "handle": "Web3__Youth",
+          "display_name": "WW3 SOON",
+          "avatar": "https://pbs.twimg.com/profile_images/2098963568045764608/Md-U3Ven_normal.jpg",
+          "verified": true,
+          "followers": 13262,
+          "created_at": "2026-10-31T18:49:22.000Z",
+          "lang": "en",
+          "text": "Meta built humanoid robot prototype with China's Fourier in 3 months\n\nMeta built a roughly 106-pound humanoid prototype, known internally as Max, with Chinese robotics company Fourier.\n\nMeta is already working on a second version. https://t.co/slTu6ORtST",
+          "text_zh": null,
+          "summary_zh": "Web3__Youth 视频速览：Meta 与 Fourier 三个月做出人形原型 Max",
+          "relation_zh": "同话题带视频传播",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 93
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1080,
+              "h": 1920,
+              "alt": null,
+              "mp4": "https://video.twimg.com/ext_tw_video/2116603404965539840/pu/vid/avc1/720x1280/RfegD7xsIXloAJPj.mp4?tag=12",
+              "poster": "https://pbs.twimg.com/ext_tw_video_thumb/2116603404965539840/pu/img/RbuCsiRizW8E5WsE.jpg",
+              "duration_ms": 21248
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/Web3__Youth/status/2116603453862809714/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-01T03:25:28.107294+00:00"
+        },
+        {
+          "id": "2116573111059665165",
+          "url": "https://x.com/wallstengine/status/2116573111059665165",
+          "handle": "wallstengine",
+          "display_name": "Wall St Engine",
+          "avatar": "https://pbs.twimg.com/profile_images/1691846947857178624/oZp5wB4r_normal.jpg",
+          "verified": true,
+          "followers": 209848,
+          "created_at": "2026-10-31T16:48:48.000Z",
+          "lang": "en",
+          "text": "$META has built a humanoid robot prototype with Chinese robotics company Fourier &amp; is already developing a 2nd version.\n\nThe robot, internally called Max, stands nearly 5 feet tall, weighs about 106 pounds, &amp; was developed in just 3 months.\n\nIt runs on NVIDIA’s Jetson Thor chip, https://t.co/BnVst9UNOM",
+          "text_zh": null,
+          "summary_zh": "wallstengine：META 已与 Fourier 做出人形原型并启动第二代",
+          "relation_zh": "同话题高热带图快讯",
+          "metrics": {
+            "likes": 546,
+            "retweets": 41,
+            "replies": 42,
+            "quotes": 20,
+            "bookmarks": 67,
+            "views": 57357
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 942,
+              "h": 941,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HV-UBVobUAAYp0A.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 798,
+              "h": 800,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HV-UBVlbkAA2Vq8.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo",
+            "photo"
+          ],
+          "links": [
+            "https://x.com/wallstengine/status/2116573111059665165/photo/1",
+            "https://x.com/wallstengine/status/2116573111059665165/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-01T03:25:28.107338+00:00"
+        },
+        {
+          "id": "2116587604233597329",
+          "url": "https://x.com/StockMKTNewz/status/2116587604233597329",
+          "handle": "StockMKTNewz",
+          "display_name": "Evan",
+          "avatar": "https://pbs.twimg.com/profile_images/1366208150211350534/GfAPwpyD_normal.jpg",
+          "verified": true,
+          "followers": 1160336,
+          "created_at": "2026-10-31T17:46:23.000Z",
+          "lang": "en",
+          "text": "META $META BUILT A HUMANOID ROBOT PROTOTYPE WITH CHINESE ROBOTICS COMPANY FOURIER\n\nThe roughly 106-pound robot, called \"Max\" internally, was built in just 3 months, per The Information. Meta is already working on a second version.\n\nThe goal is to help Meta build a more polished https://t.co/S17yoIYImE",
+          "text_zh": null,
+          "summary_zh": "StockMKTNewz：Max 约 106 磅，三个月做出，瞄向家庭机器人",
+          "relation_zh": "同话题带图市场向跟进",
+          "metrics": {
+            "likes": 347,
+            "retweets": 16,
+            "replies": 42,
+            "quotes": 5,
+            "bookmarks": 40,
+            "views": 44469
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1600,
+              "h": 900,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HV-fyO_WEAAxVQ6.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/StockMKTNewz/status/2116587604233597329/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-01T03:25:28.107357+00:00"
+        }
+      ]
     },
     {
       "id": "2116600929382527221",
@@ -2312,7 +2879,154 @@
       "external_url": null,
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "与「rack spread」同一组图表叙事：价格战刺激用量，云与模型账单结构在重塑。"
+      "article_summary_zh": "与「rack spread」同一组图表叙事：价格战刺激用量，云与模型账单结构在重塑。",
+      "attached_posts": [
+        {
+          "id": "2116329446823112998",
+          "url": "https://x.com/PodcastAlphaX/status/2116329446823112998",
+          "handle": "PodcastAlphaX",
+          "display_name": "Podcast Alpha",
+          "avatar": "https://pbs.twimg.com/profile_images/2047614603895468032/cDN3pNFV_normal.jpg",
+          "verified": true,
+          "followers": 16743,
+          "created_at": "2026-10-31T00:40:34.000Z",
+          "lang": null,
+          "text": "David Sacks @DavidSacks named the mechanism that breaks every \"token prices are falling, so the market shrinks\" argument.\n\nCheaper tokens don't shrink the bill. They change what gets built on top of it.\n\nJason Calacanis @Jason had set it up by noting enterprises stick with the https://t.co/pBhbqgeE6l https://t.co/VwAKEVEWfI",
+          "text_zh": null,
+          "summary_zh": "PodcastAlphaX 视频：David Sacks 谈 token 降价却更烧钱的机制",
+          "relation_zh": "同主题带视频延伸",
+          "metrics": {
+            "likes": 14,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 1,
+            "bookmarks": 5,
+            "views": 42330
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 854,
+              "h": 480,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2116329358595862528/vid/avc1/854x480/sqF7KARmxC_gafgm.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2116329358595862528/img/1eTIY1rx5_84lHv-.jpg",
+              "duration_ms": 116015
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2116321931150459307",
+          "article_title": null,
+          "attached_at": "2026-11-01T03:25:28.133850+00:00"
+        },
+        {
+          "id": "2116605205189980536",
+          "url": "https://x.com/0xfestival/status/2116605205189980536",
+          "handle": "0xfestival",
+          "display_name": "Festival",
+          "avatar": "https://pbs.twimg.com/profile_images/1938263609022246912/-3DfeNKs_normal.jpg",
+          "verified": true,
+          "followers": 325,
+          "created_at": "2026-10-31T18:56:20.000Z",
+          "lang": null,
+          "text": "tokens are 67% cheaper than in may. token spend is up 120%, b300 rent more than doubled, and openai still knocked $150b off its own price tag. somebody's getting rich off cheap ai and it's whoever owns the racks https://t.co/RCMwcUgLUN",
+          "text_zh": null,
+          "summary_zh": "0xfestival：token 均价跌 67%、总支出增 120%，配多图对照",
+          "relation_zh": "直接复述母帖数据的带图帖",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 11
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1080,
+              "h": 1350,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HV-wZ3-XsAAHfEs.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 1080,
+              "h": 1350,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HV-w9W4X0AA8tTs.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 875,
+              "h": 1113,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HV-xLDoWMAA6zYo.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 887,
+              "h": 1104,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HV-xNudWQAAW-7y.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo",
+            "photo",
+            "photo",
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-01T03:25:28.133892+00:00"
+        },
+        {
+          "id": "2116627335571218818",
+          "url": "https://x.com/Scobleizer/status/2116627335571218818",
+          "handle": "Scobleizer",
+          "display_name": "Robert Scoble",
+          "avatar": "https://pbs.twimg.com/profile_images/1915614118876504066/zVnfpAMf_normal.jpg",
+          "verified": true,
+          "followers": 615611,
+          "created_at": "2026-10-31T20:24:16.000Z",
+          "lang": "en",
+          "text": "As prices go down we use more. \n\nUs economists (have a minor in economics) could see this coming. Lesson #1 in class was learning about supply and demand. \n\nAnd our demand for software is infinite. Just couldn't afford to do many things (like having software read 100,000 posts a https://t.co/64qUzOfbqS",
+          "text_zh": null,
+          "summary_zh": "Scobleizer 引用：价格下降用量暴增，软件需求几乎无限",
+          "relation_zh": "母帖高互动转评",
+          "metrics": {
+            "likes": 29,
+            "retweets": 0,
+            "replies": 22,
+            "quotes": 0,
+            "bookmarks": 2,
+            "views": 5333
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/a16z/status/2116598588172374141"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2116598588172374141",
+          "article_title": null,
+          "attached_at": "2026-11-01T03:25:28.133914+00:00"
+        }
+      ]
     },
     {
       "id": "2116693439567855790",
@@ -5764,7 +6478,124 @@
       "external_url": null,
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "介绍面向 GitHub 仓库的自动化 AI 原型，目标是降低人在循环里被频繁打断的成本。"
+      "article_summary_zh": "介绍面向 GitHub 仓库的自动化 AI 原型，目标是降低人在循环里被频繁打断的成本。",
+      "attached_posts": [
+        {
+          "id": "2116555678928224616",
+          "url": "https://x.com/jiangkoumo_/status/2116555678928224616",
+          "handle": "jiangkoumo_",
+          "display_name": "jiangkoumo",
+          "avatar": "https://pbs.twimg.com/profile_images/2103851599148036096/vbQ-t9Q2_normal.jpg",
+          "verified": true,
+          "followers": 1776,
+          "created_at": "2026-10-31T15:39:32.000Z",
+          "lang": null,
+          "text": "DeepSeek 在 10 月 31 日放出的 deepseek-ai/dsh-superagent-prototype 里没有模型，只交了一套「Agent 该长什么样」的答卷。它是挂在 DeepSeek Harness（DSH，管会话和工具的运行底座）上的 bundle，盯一个 GitHub 仓库，接 GitHub 和可选的飞书事件，靠外部事件触发、按 Ticket https://t.co/CYAT2ShOb0",
+          "text_zh": null,
+          "summary_zh": "江口墨：拆解 dsh-superagent 原型——无模型、挂 Harness、盯仓库自主干活",
+          "relation_zh": "同日带图技术解读",
+          "metrics": {
+            "likes": 10,
+            "retweets": 1,
+            "replies": 3,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 1044
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1200,
+              "h": 675,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HV-EKsUbkAAfXXs.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-01T03:25:28.080580+00:00"
+        },
+        {
+          "id": "2116565847967924286",
+          "url": "https://x.com/lijiankuan/status/2116565847967924286",
+          "handle": "lijiankuan",
+          "display_name": "Jiankuan Li",
+          "avatar": "https://pbs.twimg.com/profile_images/2068983906020556801/q2Q-TLny_normal.jpg",
+          "verified": true,
+          "followers": 14,
+          "created_at": "2026-10-31T16:19:56.000Z",
+          "lang": null,
+          "text": "deepseek harness 团队刚刚开源了 super-agent 原型\n\n理念大致对标的slack里的claude tag. \n\nsuper-agent给的例子主要展示的是“飞书群聊 ↔ GitHub”之间持续推进任务\n\n最小化人的注意力，最大化价值是必然的趋势，明年回看codex和claude code或许也像当年的cursor一样陈旧\n\ngithub指路： https://t.co/YhDjVPXU66",
+          "text_zh": null,
+          "summary_zh": "lijiankuan：Harness 团队开源 super-agent，飞书群聊对接 GitHub 少打断",
+          "relation_zh": "同话题带图实践向介绍",
+          "metrics": {
+            "likes": 2,
+            "retweets": 0,
+            "replies": 2,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 153
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1528,
+              "h": 1518,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HV-K0HrbwAA3g3a.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-01T03:25:28.080638+00:00"
+        },
+        {
+          "id": "2116509335719211216",
+          "url": "https://x.com/leo114119/status/2116509335719211216",
+          "handle": "leo114119",
+          "display_name": "Leo · Building w/ AI",
+          "avatar": "https://pbs.twimg.com/profile_images/2097524411033100288/TICgviAl_normal.jpg",
+          "verified": true,
+          "followers": 8345,
+          "created_at": "2026-10-31T12:35:23.000Z",
+          "lang": null,
+          "text": "Super-agent 设计探索：迈向更自主的 Agent 系统\n\ndeepseek开源dsh-superagent-prototype\n\nDeepseek 永远站在开源阵营的最前端。。。\n\n梁圣 V5\n\nhttps://t.co/uVBJNpoyab",
+          "text_zh": null,
+          "summary_zh": "leo114119：DeepSeek 开源 dsh-superagent，迈向更自主 Agent 系统",
+          "relation_zh": "同话题高热转发帖",
+          "metrics": {
+            "likes": 76,
+            "retweets": 1,
+            "replies": 14,
+            "quotes": 1,
+            "bookmarks": 24,
+            "views": 10310
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-01T03:25:28.080619+00:00"
+        }
+      ]
     },
     {
       "id": "2116684286837330374",
@@ -7442,7 +8273,125 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2116478539252088847",
+          "url": "https://x.com/PandaTalk8/status/2116478539252088847",
+          "handle": "PandaTalk8",
+          "display_name": "Mr Panda",
+          "avatar": "https://pbs.twimg.com/profile_images/2053332948989132800/q_Nnb7-2_normal.jpg",
+          "verified": true,
+          "followers": 78151,
+          "created_at": "2026-10-31T10:33:00.000Z",
+          "lang": null,
+          "text": "在与 Stripe 的 John Collison 的播客节目中，OpenAI 首席执行官 Sam Altman 认为，在个人电脑上运行开源 AI 模型会浪费全球有限的 DRAM 内存，因为这些内存大部分时间都处于闲置状态。\n\n他力主在 AI 需求推动下供应紧张的情况下，最大限度地利用云数据中心的内存。\n\n用户批评这种立场虚伪，指出 https://t.co/tLf9EkIqkX",
+          "text_zh": null,
+          "summary_zh": "PandaTalk8 用视频转述 Altman：个人电脑囤内存是对全球 DRAM 的浪费",
+          "relation_zh": "同话题带视频解说",
+          "metrics": {
+            "likes": 4,
+            "retweets": 0,
+            "replies": 13,
+            "quotes": 0,
+            "bookmarks": 3,
+            "views": 2051
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2116403267655831552/vid/avc1/1920x1080/hY471RwGvalJeZv4.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2116403267655831552/img/sfN6f2ZF2mZlClmd.jpg",
+              "duration_ms": 3164681
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-01T03:25:28.050383+00:00"
+        },
+        {
+          "id": "2116221263442247970",
+          "url": "https://x.com/mylifcc/status/2116221263442247970",
+          "handle": "mylifcc",
+          "display_name": "lifcc",
+          "avatar": "https://pbs.twimg.com/profile_images/2034239213487681536/2gjQXlXx_normal.jpg",
+          "verified": true,
+          "followers": 17584,
+          "created_at": "2026-10-30T17:30:41.000Z",
+          "lang": null,
+          "text": "OpenAI CEO Sam Altman 近日表示，个人电脑跑开源大模型会导致全球稀缺的 DRAM（内存）有 95% 的时间处于闲置状态，属于“极其糟糕的资源分配”，算力应当集中在云端以追求最大利用率。 https://t.co/TfB0O863Dl",
+          "text_zh": null,
+          "summary_zh": "mylifcc：Altman 称本地跑开源模型导致内存 95% 闲置，算力应集中云端",
+          "relation_zh": "同日带图的中文转评",
+          "metrics": {
+            "likes": 39,
+            "retweets": 0,
+            "replies": 18,
+            "quotes": 3,
+            "bookmarks": 9,
+            "views": 9795
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 2700,
+              "h": 1534,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HV5T3tFasAAKR0L.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-01T03:25:28.050439+00:00"
+        },
+        {
+          "id": "2116542182383595915",
+          "url": "https://x.com/YxzRainy/status/2116542182383595915",
+          "handle": "YxzRainy",
+          "display_name": "兴雨",
+          "avatar": "https://pbs.twimg.com/profile_images/2101321385062854656/z5ps0oPg_normal.jpg",
+          "verified": true,
+          "followers": 8139,
+          "created_at": "2026-10-31T14:45:54.000Z",
+          "lang": null,
+          "text": "卧槽，Sam Altman 现在连我们的内存都惦记上了？？？🤡\n\n他认为，把稀缺的内存放在个人电脑里，95% 的时间闲置，是一种极其糟糕的资源分配...？\n\n不是哥们，你们把内存价格搞上去了，现在反过来嫌我们买内存太浪费？？？\n\n建议全球用户立即上交内存条，以后打开浏览器统一按 Token 收费🤣",
+          "text_zh": null,
+          "summary_zh": "YxzRainy 吐槽 Altman 惦记用户内存：涨价后再嫌浪费？",
+          "relation_zh": "同话题高互动吐槽",
+          "metrics": {
+            "likes": 27,
+            "retweets": 0,
+            "replies": 12,
+            "quotes": 1,
+            "bookmarks": 1,
+            "views": 1541
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-01T03:25:28.050458+00:00"
+        }
+      ]
     },
     {
       "id": "2116696998447378890",
