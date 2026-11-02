@@ -125,7 +125,153 @@
       "external_url": null,
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "作者用 Claude 过滤 HN 历史评论里反复出现的视频链接，做出替代 YouTube 推荐流的网站 HackerTube；强调在中等推理强度下两小时就能完成，并附上站点与优质片单入口。"
+      "article_summary_zh": "作者用 Claude 过滤 HN 历史评论里反复出现的视频链接，做出替代 YouTube 推荐流的网站 HackerTube；强调在中等推理强度下两小时就能完成，并附上站点与优质片单入口。",
+      "attached_posts": [
+        {
+          "id": "2116648106120941613",
+          "url": "https://x.com/EmergentMind/status/2116648106120941613",
+          "handle": "EmergentMind",
+          "display_name": "Emergent Mind",
+          "avatar": "https://pbs.twimg.com/profile_images/1643656726707568658/P5wrOT55_normal.png",
+          "verified": true,
+          "followers": 2875,
+          "created_at": "2026-10-31T21:46:48.000Z",
+          "lang": "en",
+          "text": "Andrej Karpathy opened YouTube at 11pm on a Friday and saw \"an enshittified wall of slop.\"\n\nBy Saturday he had his own: HackerTube, 6,454 videos recommended in Hacker News comments since 2007. Claude Opus 5.5 built it in about two hours.\n\nMost of the tokens, over 90% by his https://t.co/PxgAYpWydi",
+          "text_zh": null,
+          "summary_zh": "EmergentMind 视频：周五深夜嫌 YouTube 沦陷，周六就用 Opus 5.5 做出只收 HN 硬核推荐的 HackerTube。",
+          "relation_zh": "高密度视频复述父帖周末黑客故事，适合快速回顾因果与数据量。",
+          "metrics": {
+            "likes": 5,
+            "retweets": 0,
+            "replies": 2,
+            "quotes": 1,
+            "bookmarks": 2,
+            "views": 254
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1080,
+              "h": 1920,
+              "alt": null,
+              "mp4": "https://video.twimg.com/ext_tw_video/2116648040538714113/pu/vid/avc1/720x1280/WHFss7qYta-6e538.mp4?tag=12",
+              "poster": "https://pbs.twimg.com/ext_tw_video_thumb/2116648040538714113/pu/img/0p3CgOZh4nwPMppG.jpg",
+              "duration_ms": 69000
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/EmergentMind/status/2116648106120941613/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-02T03:04:24.417199+00:00"
+        },
+        {
+          "id": "2116919079617372530",
+          "url": "https://x.com/minchoi/status/2116919079617372530",
+          "handle": "minchoi",
+          "display_name": "Min Choi",
+          "avatar": "https://pbs.twimg.com/profile_images/1638359113221517312/CBZaJFyA_normal.jpg",
+          "verified": true,
+          "followers": 392169,
+          "created_at": "2026-11-01T15:43:33.000Z",
+          "lang": "en",
+          "text": "This is wild.\n\nAndrej Karpathy built his own YouTube in about 2 hours. He says he didn't touch the code.\n\nHackerTube = 6,454 videos recommended in Hacker News comments, 2007-2026, across 150 topics.\n\nHow it worked:\n→ Opus 5.5 downloaded all HN comments\n→ Sonnet filtered them in https://t.co/W46UgfnZi6",
+          "text_zh": null,
+          "summary_zh": "Min Choi：Karpathy 自称几乎没碰代码，两小时做出 6454 条 HN 推荐视频站，并拆 Opus/Sonnet 流水线。",
+          "relation_zh": "高互动图文解读，放大父帖「few-shot 早餐级产品」的冲击力。",
+          "metrics": {
+            "likes": 667,
+            "retweets": 0,
+            "replies": 135,
+            "quotes": 11,
+            "bookmarks": 468,
+            "views": 56325
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1257,
+              "h": 1309,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWDOfilWYAAo2QU.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/minchoi/status/2116919079617372530/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-02T03:04:24.417375+00:00"
+        },
+        {
+          "id": "2116992681671053514",
+          "url": "https://x.com/NFT_Chen/status/2116992681671053514",
+          "handle": "NFT_Chen",
+          "display_name": "SuSu_酥酥👅",
+          "avatar": "https://pbs.twimg.com/profile_images/1948253379005906944/uGx9Ufe-_normal.jpg",
+          "verified": true,
+          "followers": 25518,
+          "created_at": "2026-11-01T20:36:01.000Z",
+          "lang": "zh",
+          "text": "😱天呐！Karpathy周五晚上刷YouTube被气疯了！让Opus 5.5开中档仅耗时2小时做出高质量HackerTube！\n\n周六早上跟Claude说“用Hacker News这么多年评论里推荐过的视频，做个自己的YouTube”。\n\n2小时后，6454个视频的HackerTube就上线了。\n\n他现在基本不写代码，只负责买域名、开服务器、弄个API https://t.co/1zBoSl04qM https://t.co/6SEY13eG38",
+          "text_zh": null,
+          "summary_zh": "NFT_Chen 中文图文：周五被推荐气疯 → Medium 档 Opus 两小时上线，还吐槽他现在只负责买域名开服务器。",
+          "relation_zh": "中文圈传播版本，帮助对照父帖原文看社区怎么转述。",
+          "metrics": {
+            "likes": 21,
+            "retweets": 0,
+            "replies": 11,
+            "quotes": 0,
+            "bookmarks": 16,
+            "views": 3018
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1280,
+              "h": 693,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWERnwtacAAF6qC.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 1168,
+              "h": 2048,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWERnwpbkAAbQ-8.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo",
+            "photo"
+          ],
+          "links": [
+            "https://x.com/NFT_Chen/status/2116992681671053514/photo/1",
+            "https://x.com/NFT_Chen/status/2116992681671053514/photo/1",
+            "https://twitter.com/karpathy/status/2116957135661945283"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2116957135661945283",
+          "article_title": null,
+          "attached_at": "2026-11-02T03:04:24.417390+00:00"
+        }
+      ]
     },
     {
       "id": "2116948445533725165",
@@ -541,7 +687,135 @@
         "text": "Highly recommended read. \n\nIt's an absolute masterclass in building a modern harness and enabling more autonomous agent systems. \n\nThis is the best write-up I have read on how I have been working with my agent teams powered by my custom harness.\n\nIn simple terms, you want a design that lets the agent operate continually and stay productive across tasks. \n\nThis requires a coordination-execution architecture. This is possible now, as LLM agents have gotten better at coordination and maintaining persistent context.\n\nOnce you get the core architecture right, you can explore proactive components (event triggering, acting ahead, etc.) and interesting ways to communicate with agents seamlessly (e.g., an asynchronous ReAct Loop).\n\nOn top of that, the design scales through state management and sandboxes. Target a design that separates state, compute, and environment. And build something that can persist and is always available across devices. \n\nBtw, you can do this with other existing harnesses too. It doesn't have to be DeepSeek Harness.\n\nAs agent capabilities improve, you should find new ways to interact with them and avoid getting in the agents' way."
       },
       "x_long": true,
-      "article_summary_zh": "文章梳理现代 Agent Harness 的核心：持续运行、跨会话状态与生产力，而不是一次性对话；作者认为这是自建多智能体团队的关键基建。"
+      "article_summary_zh": "文章梳理现代 Agent Harness 的核心：持续运行、跨会话状态与生产力，而不是一次性对话；作者认为这是自建多智能体团队的关键基建。",
+      "attached_posts": [
+        {
+          "id": "2116946492074471614",
+          "url": "https://x.com/CryptoCurr3nt/status/2116946492074471614",
+          "handle": "CryptoCurr3nt",
+          "display_name": "Current",
+          "avatar": "https://pbs.twimg.com/profile_images/1860339165310717952/2hrXrhg2_normal.jpg",
+          "verified": true,
+          "followers": 2721,
+          "created_at": "2026-11-01T17:32:29.000Z",
+          "lang": "en",
+          "text": "@DeepSeekHarness DeepSeek Harness team, turned your Super-agent design article into a 77-second explainer:\n\nhttps://t.co/vqe6tgbSXc https://t.co/ORyjnGoTw3",
+          "text_zh": null,
+          "summary_zh": "CryptoCurr3nt 把 DeepSeek Harness 团队 Super-agent 长文做成 77 秒讲解视频。",
+          "relation_zh": "正是 Omar 力荐的那篇现代 harness 文章的视频版，方便快速抓住协调-执行架构。",
+          "metrics": {
+            "likes": 1,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 2,
+            "views": 518
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1080,
+              "h": 1920,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2116946408641277952/vid/avc1/1080x1920/VEkqCUMwizKHb2VM.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2116946408641277952/img/hGFQmolQuVEAp7qX.jpg",
+              "duration_ms": 76933
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://www.newcharactersheet.com/v/x2116857257245987236?ref=x-reply",
+            "https://x.com/CryptoCurr3nt/status/2116946492074471614/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "DeepSeekHarness"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-02T03:04:24.392686+00:00"
+        },
+        {
+          "id": "2116464636178629042",
+          "url": "https://x.com/River_Yang_/status/2116464636178629042",
+          "handle": "River_Yang_",
+          "display_name": "River Yang",
+          "avatar": "https://pbs.twimg.com/profile_images/2109182619703472128/al_nZelF_normal.jpg",
+          "verified": true,
+          "followers": 3062,
+          "created_at": "2026-10-31T09:37:45.000Z",
+          "lang": "zh",
+          "text": "装了个插件A，A又装了插件B，B还起了个定时器。\n现在把A卸了——B和定时器呢？\n\n没人管，B就成了孤儿，在后台一直跑。\n\nDeepSeek Harness 的底座 Cordis 用 Fiber 回答：每次插件加载开一个 Fiber，所有撤销账记在它名下；子插件的 Fiber 挂在父 Fiber https://t.co/dXYgXZpPBg",
+          "text_zh": null,
+          "summary_zh": "River Yang 用视频讲 Cordis Fiber：插件父子所有权树，卸载时谁挂上谁清掉，避免孤儿定时器。",
+          "relation_zh": "落到 DeepSeek Harness 底座实现细节，呼应父帖「状态/沙箱/可持续自主」主张。",
+          "metrics": {
+            "likes": 6,
+            "retweets": 0,
+            "replies": 5,
+            "quotes": 0,
+            "bookmarks": 1,
+            "views": 210
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2116464581019344896/vid/avc1/1920x1080/dFIND3Xqe6GJT6HG.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2116464581019344896/img/Rw6G3oZPP_GmTXmf.jpg",
+              "duration_ms": 154900
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/River_Yang_/status/2116464636178629042/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-02T03:04:24.392865+00:00"
+        },
+        {
+          "id": "2116857257245987236",
+          "url": "https://x.com/DeepSeekHarness/status/2116857257245987236",
+          "handle": "DeepSeekHarness",
+          "display_name": "DeepSeek Harness",
+          "avatar": "https://pbs.twimg.com/profile_images/2105141374123495424/_om7PZyR_normal.jpg",
+          "verified": true,
+          "followers": 49363,
+          "created_at": "2026-11-01T11:37:54.000Z",
+          "lang": "zxx",
+          "text": "https://t.co/gwwIHtyCRQ",
+          "text_zh": null,
+          "summary_zh": "DeepSeek Harness 官方长文：Exploring Super-agent Design，讨论更自主的多智能体系统。",
+          "relation_zh": "父帖引用并力荐的原文，附属贴里应直接可读到一手来源。",
+          "metrics": {
+            "likes": 9364,
+            "retweets": 1122,
+            "replies": 313,
+            "quotes": 473,
+            "bookmarks": 10621,
+            "views": 1281126
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://x.com/i/article/2116829218935857152"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-02T03:04:24.392877+00:00"
+        }
+      ]
     },
     {
       "id": "2116987671939875319",
@@ -777,7 +1051,136 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2116974965807358373",
+          "url": "https://x.com/JulianOczkowski/status/2116974965807358373",
+          "handle": "JulianOczkowski",
+          "display_name": "Julian Oczkowski",
+          "avatar": "https://pbs.twimg.com/profile_images/2041273122549084160/qnekTmk8_normal.jpg",
+          "verified": true,
+          "followers": 70,
+          "created_at": "2026-11-01T19:25:37.000Z",
+          "lang": "en",
+          "text": "Andrej Karpathy rebuilt YouTube's recommendations as HackerTube in ~2 hours, only talking to Claude Code (Mac app, Opus 5.5 on Medium). 43M HN comments down to 6,454 videos.\n\nWould you let Claude deploy your app?\n\n#ClaudeCode #AI https://t.co/VVPTst4WB8",
+          "text_zh": null,
+          "summary_zh": "Julian 用视频复述：Karpathy 只跟 Claude Code（Opus 5.5 Medium）对话，两小时从 4300 万评论筛出 HackerTube。",
+          "relation_zh": "视频化印证 Rohan 强调的「Medium 不是 High、两小时上线」卖点。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 17
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1080,
+              "h": 1920,
+              "alt": null,
+              "mp4": "https://video.twimg.com/ext_tw_video/2116974937474822144/pu/vid/avc1/720x1280/YuxC7v7edOQ65AHP.mp4?tag=12",
+              "poster": "https://pbs.twimg.com/ext_tw_video_thumb/2116974937474822144/pu/img/E1KpU6wSf10DieB-.jpg",
+              "duration_ms": 49500
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/JulianOczkowski/status/2116974965807358373/video/1"
+          ],
+          "hashtags": [
+            "ClaudeCode",
+            "AI"
+          ],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-02T03:04:24.367462+00:00"
+        },
+        {
+          "id": "2116813932207735029",
+          "url": "https://x.com/AGTPinsights/status/2116813932207735029",
+          "handle": "AGTPinsights",
+          "display_name": "AGTP",
+          "avatar": "https://pbs.twimg.com/profile_images/2091502140917415936/CNbeDaNw_normal.jpg",
+          "verified": true,
+          "followers": 5413,
+          "created_at": "2026-11-01T08:45:44.000Z",
+          "lang": "en",
+          "text": "Karpathy just built HackerTube with Claude Opus 5.5 in about two hours. Here's what you need to know.\n\nHackerTube is a YouTube-style site at https://t.co/aoLoKZcstG. It only shows videos that Hacker News commenters recommended. There are no accounts, no algorithm and no watch https://t.co/4PtrXUHV7S https://t.co/o4TABzxFGU",
+          "text_zh": null,
+          "summary_zh": "AGTP 盘点 HackerTube 关键数字，并对照 Theo/swyx 关于 Opus 5.5 effort 档位的争论。",
+          "relation_zh": "补强父帖对 Opus Medium 的解读，把「力度档」社区讨论一并挂上。",
+          "metrics": {
+            "likes": 11,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 11,
+            "bookmarks": 12,
+            "views": 8618
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1254,
+              "h": 1254,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWBu0x_XIAAFf4v.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://hackertube.org",
+            "https://x.com/AGTPinsights/status/2116813932207735029/photo/1",
+            "https://twitter.com/theo/status/2116420089411145913"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2116420089411145913",
+          "article_title": null,
+          "attached_at": "2026-11-02T03:04:24.367643+00:00"
+        },
+        {
+          "id": "2117087882410328119",
+          "url": "https://x.com/AskChief_Leo/status/2117087882410328119",
+          "handle": "AskChief_Leo",
+          "display_name": "leo",
+          "avatar": "https://pbs.twimg.com/profile_images/1965375980320800768/bd7xulFi_normal.jpg",
+          "verified": true,
+          "followers": 43,
+          "created_at": "2026-11-02T02:54:19.000Z",
+          "lang": "en",
+          "text": "I think the most interesting part isn't that this took only two hours to build.\n\nIt's what this means for the future of software.\n\nFor decades, products needed large markets to justify the cost of development. We had to build for the masses, often compromising on very specific https://t.co/hVPE4ftd3r",
+          "text_zh": null,
+          "summary_zh": "AskChief_Leo：真正有意思的不是两小时做出产品，而是 AI 让小众需求也值得做。",
+          "relation_zh": "把 Rohan/Karpathy 周末黑客项目拔高到「软件经济门槛下降」的讨论层。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 2
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/karpathy/status/2116957135661945283"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2116957135661945283",
+          "article_title": null,
+          "attached_at": "2026-11-02T03:04:24.367655+00:00"
+        }
+      ]
     },
     {
       "id": "2116950855718998288",
@@ -1263,7 +1666,124 @@
       "external_url": null,
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "a16z 本周图表对比 AI 推荐访客与普通线上访客的转化与收入指标，显示 AI 导流客单价与转化显著更高。"
+      "article_summary_zh": "a16z 本周图表对比 AI 推荐访客与普通线上访客的转化与收入指标，显示 AI 导流客单价与转化显著更高。",
+      "attached_posts": [
+        {
+          "id": "2117083743647371504",
+          "url": "https://x.com/carriepresley/status/2117083743647371504",
+          "handle": "carriepresley",
+          "display_name": "carrie presley",
+          "avatar": "https://pbs.twimg.com/profile_images/2076746996560379904/nTp0qnSD_normal.jpg",
+          "verified": true,
+          "followers": 5447,
+          "created_at": "2026-11-02T02:37:52.000Z",
+          "lang": "en",
+          "text": "agents are the new customer, block them and you lose the business  \n\nanecdotally, when @bot managed purchases, my @amazon spend went up 28%  \n\nsince amazon blocked agents, my amazon spend is down 6%, and continues to fall every day as @grok bot provides alternatives https://t.co/lN7eer2ByO https://t.co/bhdspXLrb8",
+          "text_zh": null,
+          "summary_zh": "carriepresley：Agent 成新客户；Amazon 禁 Agent 后她的消费下滑，Grok bot 则在找替代。",
+          "relation_zh": "用亲身消费数据呼应父帖「AI 导流购物者更会买」，并延伸到商家是否该对 Agent 开放。",
+          "metrics": {
+            "likes": 4,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 183
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1020,
+              "h": 1074,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWFj7dFbQAAyk0q.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/carriepresley/status/2117083743647371504/photo/1",
+            "https://twitter.com/a16z/status/2116974326989857048"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "bot",
+            "amazon",
+            "grok"
+          ],
+          "quoted_post_url": "https://x.com/i/status/2116974326989857048",
+          "article_title": null,
+          "attached_at": "2026-11-02T03:04:24.342150+00:00"
+        },
+        {
+          "id": "2116978621017714769",
+          "url": "https://x.com/DavidPawlan/status/2116978621017714769",
+          "handle": "DavidPawlan",
+          "display_name": "David Pawlan",
+          "avatar": "https://pbs.twimg.com/profile_images/1981386897000701952/S82atSMY_normal.jpg",
+          "verified": true,
+          "followers": 4650,
+          "created_at": "2026-11-01T19:40:09.000Z",
+          "lang": "en",
+          "text": "the simple fact is that when people use AI to shop, it's because they're craving a single answer as they arrive with the intent to purchase, not to peruse\n\nthis is why i'm so bullish on agentic commerce\n\nit's the antithesis of window shopping https://t.co/zJH2F8H8vI",
+          "text_zh": null,
+          "summary_zh": "David Pawlan：用 AI 购物是冲着「一个答案」来的，不是逛橱窗，因此看好 agentic commerce。",
+          "relation_zh": "从意图侧解释父帖转化率 +60%、跳出率 −34% 的现象：AI 把人送到漏斗中段。",
+          "metrics": {
+            "likes": 40,
+            "retweets": 0,
+            "replies": 7,
+            "quotes": 0,
+            "bookmarks": 17,
+            "views": 3603
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/a16z/status/2116974326989857048"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2116974326989857048",
+          "article_title": null,
+          "attached_at": "2026-11-02T03:04:24.342338+00:00"
+        },
+        {
+          "id": "2117075778123038868",
+          "url": "https://x.com/nicolebuilderqc/status/2117075778123038868",
+          "handle": "nicolebuilderqc",
+          "display_name": "Nicole｜Builder",
+          "avatar": "https://pbs.twimg.com/profile_images/1812144089246134272/s6byCZ8s_normal.jpg",
+          "verified": true,
+          "followers": 188,
+          "created_at": "2026-11-02T02:06:13.000Z",
+          "lang": "zh",
+          "text": "a16z：AI 导流来的购物者，转化率比其他线上购物者高 60%，每次访问收入高 53%，跳出率低 34%。\n\n产品是个容器，做好意图路由 = 快速跳进转化漏斗\n\n过滤器前移，流量的定价权也跟着前移。 https://t.co/R69wzkZGvi",
+          "text_zh": null,
+          "summary_zh": "Nicole 中文转述 a16z 数据，并指出意图路由前移等于把流量定价权前移。",
+          "relation_zh": "把父帖图表翻译成中文商业洞察，方便对照收藏阅读。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 10
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/a16z/status/2116974326989857048"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2116974326989857048",
+          "article_title": null,
+          "attached_at": "2026-11-02T03:04:24.342351+00:00"
+        }
+      ]
     },
     {
       "id": "2117009417342468398",
@@ -1518,7 +2038,109 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2117085323079393298",
+          "url": "https://x.com/CityzenHyd/status/2117085323079393298",
+          "handle": "CityzenHyd",
+          "display_name": "Sarath Chandra",
+          "avatar": "https://pbs.twimg.com/profile_images/2103367620817018880/qPZma0Yt_normal.jpg",
+          "verified": true,
+          "followers": 337,
+          "created_at": "2026-11-02T02:44:09.000Z",
+          "lang": "en",
+          "text": "Andrej Karpathy's weekend project already has a spin-off, built from his own prompt and data.\n\nHackerTube, which he shared on Nov 1, filters 43M Hacker News comments from 20 years down to 6,454 YouTube videos people keep recommending.\n\nHe says it took about 2 hours in Claude Code https://t.co/ISDcFDbX7t",
+          "text_zh": null,
+          "summary_zh": "CityzenHyd：Karpathy 开源评论数据包后约六小时，Elvis 用同款 prompt 做出 arXiv 版 Hacker Papers。",
+          "relation_zh": "直接讲述父帖 Hacker Papers 的诞生路径，强调「数据集 + prompt」可当日复刻。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 22
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/omarsar0/status/2117053859516285354"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2117053859516285354",
+          "article_title": null,
+          "attached_at": "2026-11-02T03:04:24.316703+00:00"
+        },
+        {
+          "id": "2117085325432438857",
+          "url": "https://x.com/wangpangpang5/status/2117085325432438857",
+          "handle": "wangpangpang5",
+          "display_name": "Pangpang Builds",
+          "avatar": "https://pbs.twimg.com/profile_images/2074641546792824832/mvdC4Pii_normal.jpg",
+          "verified": true,
+          "followers": 533,
+          "created_at": "2026-11-02T02:44:09.000Z",
+          "lang": "en",
+          "text": "@omarsar0 @karpathy Hacker Papers is a slick parallel to HackerTube - mapping repeatedly-upvoted HN signal to arXiv is the right kind of filter. Quick question on the pipeline: are you scoring on comment recency + upvote velocity to catch new papers, or mostly relying on the long-tail aggregate so",
+          "text_zh": null,
+          "summary_zh": "wangpangpang5 追问：Hacker Papers 如何把 HN 反复推荐信号映射到 arXiv，评分靠长尾还是新热度？",
+          "relation_zh": "对着父帖产品机制提问，补上「论文版过滤器」怎么排序的讨论。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 1
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [
+            "omarsar0",
+            "karpathy"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-02T03:04:24.316904+00:00"
+        },
+        {
+          "id": "2117088993330512155",
+          "url": "https://x.com/0xLogicrw/status/2117088993330512155",
+          "handle": "0xLogicrw",
+          "display_name": "思维怪怪",
+          "avatar": "https://pbs.twimg.com/profile_images/2083261639135244288/KoOQO6zp_normal.jpg",
+          "verified": true,
+          "followers": 8436,
+          "created_at": "2026-11-02T02:58:44.000Z",
+          "lang": "zh",
+          "text": "OpenAI 联合创始人、现 Anthropic 预训练团队成员 Andrej Karpathy 受够了 YouTube 千篇一律的推荐和夸张封面，干脆让 Claude 给自己做了一个视频推荐网站 HackerTube，前后只花了约两小时。\n\nHackerTube 收录了 6454 个 YouTube 视频，涵盖 150 个主题。视频均来自 Hacker News 技术社区近 20 https://t.co/t9xDYrsHz0",
+          "text_zh": null,
+          "summary_zh": "思维怪怪长文复盘 HackerTube：Opus/Sonnet 分工、Token 开销，并指出推荐数据包可交给 Agent 做个人版。",
+          "relation_zh": "点出父帖复用的关键——公开数据包 + Agent，正好解释 Hacker Papers 为何能当天跟进。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 23
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/karpathy/status/2116957135661945283"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2116957135661945283",
+          "article_title": null,
+          "attached_at": "2026-11-02T03:04:24.316917+00:00"
+        }
+      ]
     },
     {
       "id": "2117051584462884894",
@@ -1711,7 +2333,119 @@
         },
         "text": "今天 GitHub 被「本地 AI 硬核派」屠榜了！\n\n5 个星标暴增最狠的项目，专业拆解下！\n\n1. anomalyco/hex\n\nMac、Windows、Linux 全平台的本地语音听写工具。\n\n按住快捷键说话，松开就自动粘贴到你正在用的任何应用；转写在本机完成，首次运行下载语音模型后，数据不离开你的电脑；Homebrew、AUR、Nix、一行脚本都能装，MIT 开源。还有个狠操作：不收 PR，提 issue 就行，他们的 Agent 通常很快搞定。\n\n🔗 直达：https://t.co/NBgzstu7Lh\n\n键盘侠要失业了，嘴才是新的输入法。1,329 星一天，今天的涨星王！\n\n🟢\n\n2. shiyu-coder/Kronos\n\n号称首个开源的金融 K 线基础模型，用超过 45 家全球交易所的数据训练。\n\n先把 OHLCV K 线量化成分层离散 token，再用自回归 Transformer 预训练，一个模型通吃多种量化任务；开源 mini（4.1M）、small（24.7M）、base（102.3M）三个尺寸，放在 Hugging Face，附微调脚本，还有 BTC/USDT 未来 24 小时预测的在线 Demo；论文已被 AAAI 2026 接收。\n\n🔗 直达：https://t.co/cgzKAhSSk6\n\n大模型学会读 K 线了，量化圈的护城河又被填平一截。611 星一天，交易员连夜收藏！\n\n🟢🟢\n\n3. patchy631/ai-engineering-hub\n\nLLM、RAG、AI Agent 一站式实战教程库。\n\n93+ 个能直接上手的项目，按难度分好：入门 22 个、进阶 48 个、高阶 23 个；从本地 OCR、本地 ChatGPT，到多 Agent 工作流、微调和生产系统，还附一份 AI 工程学习路线图，MIT 开源。\n\n🔗 直达：https://t.co/FXiLNdhTBL\n\n别再刷碎片教程了，这是一整套 AI 工程师养成计划。4 万星老库今天再涨 573 星，学习党狂喜！\n\n🟢🟢🟢\n\n4. beenuar/AiSOC\n\n开源、可自托管的 AI 安全运营中心（SOC），不需要任何 API Key，MIT 协议。\n\n安全告警进来后统一归一化，跑 7015 条规则库里的 2534 条可执行规则，合并成事件，再由 AI Agent 调查，每一步提示词和工具调用都记进可回放的决策账本；90 个即点即连的数据连接器（Splunk、Sentinel、CrowdStrike、Okta、AWS……），自带 MCP server 给 Claude、Cursor、Continue 用；任何动作推到厂商之前都要人来批准。\n\n🔗 直达：https://t.co/IUoQ3ZmylO\n\n以前一个 SOC 要一整个值班团队，现在一条 make up 就开张。436 星一天，安全圈也被 Agent 接管了！\n\n🟢🟢🟢🟢\n\n5. FlashML-org/FreeToken\n\n把数据中心级的大模型推理搬上你的桌面。\n\n面向消费级硬件的 MoE 推理引擎，主打在游戏 PC 上本地跑 290B+ 的前沿 MoE 模型；GPU、CPU、内存统一调度，显存能在专家缓存和 KV 之间动态分配，支持 DeepSeek-V4-Flash、Qwen3.6-35B-A3B、GLM-5.2 等模型，提供 Anthropic/OpenAI 兼容接口，直接接 Codex、Claude Code、OpenCode；支持 RTX 30/40/50 系显卡，Windows、Linux 有桌面版，Apache-2.0 开源。\n\n🔗 直达：https://t.co/jfKq4TEe0T\n\n显卡终于不只是打游戏了，家里的游戏 PC 秒变私人机房。232 星一天，Token 自由不是梦！\n\n🟢🟢🟢🟢🟢\n\n⚠️⚠️\n\n总结：\n\nAI 正在全面「本地化」：语音在本机转、模型在本机跑、安全在本机守。谁先把算力和数据握在自己手里，谁就先拿到下一波生产力红利。"
       },
-      "x_long": true
+      "x_long": true,
+      "attached_posts": [
+        {
+          "id": "2116734804443934720",
+          "url": "https://x.com/AGTPinsights/status/2116734804443934720",
+          "handle": "AGTPinsights",
+          "display_name": "AGTP",
+          "avatar": "https://pbs.twimg.com/profile_images/2091502140917415936/CNbeDaNw_normal.jpg",
+          "verified": true,
+          "followers": 5413,
+          "created_at": "2026-11-01T03:31:19.000Z",
+          "lang": "en",
+          "text": "DHH just added Hex voice dictation to Omarchy Dev. Here's what you need to know.\n\nOn Nov 1, 2026, DHH said he made Hex available as a dictation option on Omarchy Dev, his Linux setup. His post pulled 43.1K views. Hex is the free, open source voice dictation app from the OpenCode https://t.co/rCAja26dAB https://t.co/vtPFPQM5O2",
+          "text_zh": null,
+          "summary_zh": "AGTP 解读：DHH 已把 Hex 本地听写加进 Omarchy Dev，作为 Linux 开发环境的可选输入方式。",
+          "relation_zh": "与父帖里冲上热榜的 anomalyco/hex 直接相关，说明本地听写已进入主流开发者日常工具链。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 2,
+            "bookmarks": 0,
+            "views": 438
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1254,
+              "h": 1254,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWAm-jZXsAAxDZ-.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/AGTPinsights/status/2116734804443934720/photo/1",
+            "https://twitter.com/dhh/status/2116643715418628268"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2116643715418628268",
+          "article_title": null,
+          "attached_at": "2026-11-02T03:04:24.287747+00:00"
+        },
+        {
+          "id": "2116643715418628268",
+          "url": "https://x.com/dhh/status/2116643715418628268",
+          "handle": "dhh",
+          "display_name": "DHH",
+          "avatar": "https://pbs.twimg.com/profile_images/2093715898204884992/goERjC9G_normal.jpg",
+          "verified": true,
+          "followers": 944556,
+          "created_at": "2026-10-31T21:29:21.000Z",
+          "lang": "fr",
+          "text": "Made Hex available as a dictation option on Omarchy Dev. https://t.co/GNsgRxs4Hf https://t.co/H023wHeB7t",
+          "text_zh": null,
+          "summary_zh": "DHH 官宣：在 Omarchy Dev 上把 Hex 作为听写选项开放。",
+          "relation_zh": "顶级开源意见领袖亲自接入，印证父帖「本地 AI 硬核派」热榜里 hex 暴涨的现实落地。",
+          "metrics": {
+            "likes": 1768,
+            "retweets": 0,
+            "replies": 84,
+            "quotes": 14,
+            "bookmarks": 417,
+            "views": 96387
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://github.com/omacom/omarchy/pull/17186",
+            "https://twitter.com/opencode/status/2116555630236577819"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2116555630236577819",
+          "article_title": null,
+          "attached_at": "2026-11-02T03:04:24.287990+00:00"
+        },
+        {
+          "id": "2116925897420964185",
+          "url": "https://x.com/ieddysun/status/2116925897420964185",
+          "handle": "ieddysun",
+          "display_name": "Eddy",
+          "avatar": "https://pbs.twimg.com/profile_images/681047970276458497/Vqm63Rkb_normal.jpg",
+          "verified": true,
+          "followers": 6413,
+          "created_at": "2026-11-01T16:10:39.000Z",
+          "lang": "zh",
+          "text": "语音输入工具最劝退的点：要么得联网转写，要么录音不知道去了哪。Hex 反着来，本地优先，Rust 原生：\n1.  按住 Option 说话，松手就粘贴：转写在你自己的 Mac 上跑（Parakeet、Whisper 等本地模型），不需要云端转写服务，日常听写不依赖网络，默认不保存录音。\n2.  Modes",
+          "text_zh": null,
+          "summary_zh": "Eddy 拆解 Hex：本机 Parakeet/Whisper 转写、Modes 纠错、Annotate 录屏口述给 Agent，brew 一键装。",
+          "relation_zh": "把父帖对 hex 的榜单简介补成产品细节，说明为何本地听写一天能涨一千多星。",
+          "metrics": {
+            "likes": 2,
+            "retweets": 0,
+            "replies": 3,
+            "quotes": 0,
+            "bookmarks": 1,
+            "views": 113
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-02T03:04:24.288004+00:00"
+        }
+      ]
     },
     {
       "id": "2117058359195238701",
