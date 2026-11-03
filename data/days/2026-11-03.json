@@ -125,7 +125,132 @@
       "external_url": null,
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "引用原帖：团队让 GPT-6 Astra 编辑 Qwen3.5-0.8B 权重以提升数学能力；只改 0.016% 参数就修好了推理死循环，数学最高提升约 6 倍、指令遵循约 3 倍，无需梯度或传统训练，并称之为 Weight-Space Programming。"
+      "article_summary_zh": "引用原帖：团队让 GPT-6 Astra 编辑 Qwen3.5-0.8B 权重以提升数学能力；只改 0.016% 参数就修好了推理死循环，数学最高提升约 6 倍、指令遵循约 3 倍，无需梯度或传统训练，并称之为 Weight-Space Programming。",
+      "attached_posts": [
+        {
+          "id": "2117313742891327994",
+          "url": "https://x.com/rikiyatakehi/status/2117313742891327994",
+          "handle": "rikiyatakehi",
+          "display_name": "Rikiya Takehi",
+          "avatar": "https://pbs.twimg.com/profile_images/1731888727897567232/97PMSyds_normal.jpg",
+          "verified": true,
+          "followers": 14139,
+          "created_at": "2026-11-02T17:51:48.000Z",
+          "lang": "en",
+          "text": "We asked GPT-6 Astra to edit Qwen3.5-0.8B weights to improve math.\nIt directly changed only 0.016% of weights, fixing 0.8B's reasoning loops &amp; improving math up to 6x and even instruction following 3x, without gradients or training.\n\nWe call this Weight-Space Programming: https://t.co/DwTwzXzSbE",
+          "text_zh": null,
+          "summary_zh": "论文作者 Rikiya Takehi 原文：Astra 只改 Qwen3.5-0.8B 的 0.016% 权重，数学最高约提升 6 倍，提出 Weight-Space Programming。",
+          "relation_zh": "父帖所引一手来源，附属贴必须能点进原文。",
+          "metrics": {
+            "likes": 40410,
+            "retweets": 0,
+            "replies": 1670,
+            "quotes": 3938,
+            "bookmarks": 26303,
+            "views": 4278910
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1200,
+              "h": 625,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWI1oKUWUAAWoZp.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/rikiyatakehi/status/2117313742891327994/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-03T03:44:56.229951+00:00"
+        },
+        {
+          "id": "2117358503233040507",
+          "url": "https://x.com/ItsmeAjayKV/status/2117358503233040507",
+          "handle": "ItsmeAjayKV",
+          "display_name": "AJ",
+          "avatar": "https://pbs.twimg.com/profile_images/1878020673521532928/eKvhmxYy_normal.jpg",
+          "verified": true,
+          "followers": 10474,
+          "created_at": "2026-11-02T20:49:40.000Z",
+          "lang": "en",
+          "text": "Ok, this was surprising and insane article to read.\n\nIntroducing Weight-Space programming !!\n\nSo it turns out frontier LLMs are surprisingly good at natively reading and writing neural network weights !!!\n\nSo in this example, GPT-6 Astra, looked at the raw weights, and can https://t.co/PnZhPZ5vyL https://t.co/nxKwoSxcy3",
+          "text_zh": null,
+          "summary_zh": "Ajay 用短视频+图解说：前沿模型已能像改代码一样读写神经网络权重，并链到博客。",
+          "relation_zh": "视频版科普，降低理解门槛。",
+          "metrics": {
+            "likes": 24,
+            "retweets": 0,
+            "replies": 5,
+            "quotes": 0,
+            "bookmarks": 16,
+            "views": 1636
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 780,
+              "h": 456,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2117357807444094976/vid/avc1/780x456/cNtFKG4NR_toZbl6.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2117357807444094976/img/M_cqA6CyliyDj3FH.jpg",
+              "duration_ms": 14381
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/ItsmeAjayKV/status/2117358503233040507/video/1",
+            "https://twitter.com/rikiyatakehi/status/2117313742891327994"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2117313742891327994",
+          "article_title": null,
+          "attached_at": "2026-11-03T03:44:56.229963+00:00"
+        },
+        {
+          "id": "2117449126925529357",
+          "url": "https://x.com/XuShifu100/status/2117449126925529357",
+          "handle": "XuShifu100",
+          "display_name": "大富 | AI×WEB3 | 互关",
+          "avatar": "https://pbs.twimg.com/profile_images/2115549105246347264/-r8T8Fq6_normal.jpg",
+          "verified": true,
+          "followers": 6962,
+          "created_at": "2026-11-03T02:49:46.000Z",
+          "lang": "zh",
+          "text": "MIT 研究人员演示的“权重空间编程（Weight Space Programming）”如果被大规模复现，很可能会成为大模型演化史上的一个重要转折点。\n\n这件事的核心看点和深远影响可以归结为以下四个维度：\n\n1. 训练范式的根本性颠覆：从“基因突变”到“微创手术”\n\n以往优化或修复一个模型，必须依靠海量数据 + https://t.co/81GE5fF8Ps",
+          "text_zh": null,
+          "summary_zh": "大富用中文四维拆解：训练范式、自改进闭环、端侧小模型天花板与对齐风险。",
+          "relation_zh": "把英文论文新闻转成可讨论的中文影响分析。",
+          "metrics": {
+            "likes": 2,
+            "retweets": 0,
+            "replies": 3,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 53
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/kimmonismus/status/2117343192245064004"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2117343192245064004",
+          "article_title": null,
+          "attached_at": "2026-11-03T03:44:56.229969+00:00"
+        }
+      ]
     },
     {
       "id": "2117312784241160492",
@@ -251,7 +376,142 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2117286276311535759",
+          "url": "https://x.com/notjazii/status/2117286276311535759",
+          "handle": "notjazii",
+          "display_name": "J A Z I I",
+          "avatar": "https://pbs.twimg.com/profile_images/2099634694421913600/46b7mMot_normal.jpg",
+          "verified": true,
+          "followers": 12715,
+          "created_at": "2026-11-02T16:02:40.000Z",
+          "lang": "en",
+          "text": "sam altman: next gpt model is coming very soon\n\n\"i gave this math example earlier and it was one of the incredible moment i have seen in history of ai\"\n\n\"when we proved first millennium prize problem, it was 10,000 agents of the model that is gonna be released VERY SOON\" https://t.co/lrzcOIAqDI",
+          "text_zh": null,
+          "summary_zh": "notjazii 放出 Sam Altman 片段：下一代 GPT 很快上线，正是用约 1 万个 Agent 在 4 天内攻克千禧年难题的那款。",
+          "relation_zh": "父帖传闻的一手视频来源，把「很快发布」说清楚。",
+          "metrics": {
+            "likes": 245,
+            "retweets": 0,
+            "replies": 29,
+            "quotes": 4,
+            "bookmarks": 36,
+            "views": 56231
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2117285049771139072/vid/avc1/1920x1080/-MDqbf937V6LLXja.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2117285049771139072/img/WZwe4fTJEKn9P63V.jpg",
+              "duration_ms": 60000
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/notjazii/status/2117286276311535759/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-03T03:44:56.229042+00:00"
+        },
+        {
+          "id": "2116834891744600291",
+          "url": "https://x.com/TokenGremlin/status/2116834891744600291",
+          "handle": "TokenGremlin",
+          "display_name": "Token Gremlin",
+          "avatar": "https://pbs.twimg.com/profile_images/2073095799462940672/YKuJiTq7_normal.jpg",
+          "verified": true,
+          "followers": 16359,
+          "created_at": "2026-11-01T10:09:01.000Z",
+          "lang": "en",
+          "text": "OpenAI is quietly A/B testing a new variant called GPT-6.2 Astra, and it's already showing up in Codex usage analytics.\n\nThe model picker still says GPT-6 Astra, but the usage breakdown for some accounts now lists gpt-6.2-astra separately. Multiple users are seeing the exact same https://t.co/XAmFfL27m6",
+          "text_zh": null,
+          "summary_zh": "Token Gremlin 截图称 Codex 用量里已出现 gpt-6.2-astra，选择器仍写 GPT-6 Astra，灰测迹象。",
+          "relation_zh": "比千禧年传闻更早的 Codex 灰度线索，和「是否叫 GPT-6.2 Astra」直接相关。",
+          "metrics": {
+            "likes": 1639,
+            "retweets": 0,
+            "replies": 111,
+            "quotes": 54,
+            "bookmarks": 143,
+            "views": 175481
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 509,
+              "h": 176,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWCCHWFWUAAs3s6.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/TokenGremlin/status/2116834891744600291/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-03T03:44:56.229087+00:00"
+        },
+        {
+          "id": "2116877492090798330",
+          "url": "https://x.com/vikktorrrre/status/2116877492090798330",
+          "handle": "vikktorrrre",
+          "display_name": "Veee",
+          "avatar": "https://pbs.twimg.com/profile_images/2012714142877044736/_6qWAbnU_normal.jpg",
+          "verified": true,
+          "followers": 12254,
+          "created_at": "2026-11-01T12:58:18.000Z",
+          "lang": "en",
+          "text": "GPT-6.2: Coming this week\n\nOpenAI appears to be quietly A/B testing its next flagship, GPT-6.2 Astra.\n\n• The picker still says GPT-6 Astra, but some Codex usage analytics now list \"gpt-6.2-astra\" separately\n• Multiple users are seeing it, suggesting a gray rollout with some https://t.co/vWFzSGnH7D",
+          "text_zh": null,
+          "summary_zh": "Veee 梳理 GPT-6.2 Astra 本周或将与 Fable 5.5 对撞，并附 Codex 用量截图与定价背景。",
+          "relation_zh": "把父帖「很快发」放进和 Anthropic 竞速的周历里。",
+          "metrics": {
+            "likes": 687,
+            "retweets": 0,
+            "replies": 48,
+            "quotes": 12,
+            "bookmarks": 79,
+            "views": 72992
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1671,
+              "h": 941,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWCo2w3XgAADrXE.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/vikktorrrre/status/2116877492090798330/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-03T03:44:56.229100+00:00"
+        }
+      ]
     },
     {
       "id": "2117343929960112486",
@@ -538,7 +798,132 @@
         },
         "text": "For AGI to benefit all of humanity, it should help people with the everyday tasks that matter most to them. So we built LifeVal, a new benchmark shaped by feedback from thousands of ChatGPT users on where they most want help from a personal assistant—from finding childcare to accessing government services to managing personal finances.\n\nOver the past year, we’ve used LifeVal to measure and improve how well our models handle these everyday tasks.\n\nhttps://t.co/GlUjixzEM0"
       },
-      "x_long": true
+      "x_long": true,
+      "attached_posts": [
+        {
+          "id": "2117326568322134258",
+          "url": "https://x.com/AGTPinsights/status/2117326568322134258",
+          "handle": "AGTPinsights",
+          "display_name": "AGTP",
+          "avatar": "https://pbs.twimg.com/profile_images/2091502140917415936/CNbeDaNw_normal.jpg",
+          "verified": true,
+          "followers": 5507,
+          "created_at": "2026-11-02T18:42:46.000Z",
+          "lang": "en",
+          "text": "OpenAI just launched LifeVal, a benchmark for everyday AI tasks, today. Here's what you need to know.\n\nLifeVal tests how well AI models handle the errands people most want a personal assistant for. That includes finding childcare, accessing government services, managing personal https://t.co/d5lrfCSJkN https://t.co/3bY62VMn66",
+          "text_zh": null,
+          "summary_zh": "AGTP 图文梳理 LifeVal：任务来自近四千用户问卷，并列出 GPT-5.2 到 GPT-6 Astra 的分数跃迁。",
+          "relation_zh": "把官方公告扩成可读分数线，方便对照父帖卖点。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 3,
+            "bookmarks": 0,
+            "views": 294
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1254,
+              "h": 1254,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWJBGeJX0AAUJZh.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/AGTPinsights/status/2117326568322134258/photo/1",
+            "https://twitter.com/OpenAI/status/2117307611338997846"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2117307611338997846",
+          "article_title": null,
+          "attached_at": "2026-11-03T03:44:56.229500+00:00"
+        },
+        {
+          "id": "2117434591434666418",
+          "url": "https://x.com/wenhaocha1/status/2117434591434666418",
+          "handle": "wenhaocha1",
+          "display_name": "Wenhao Chai",
+          "avatar": "https://pbs.twimg.com/profile_images/1611349804436668417/77WWFynz_normal.jpg",
+          "verified": true,
+          "followers": 6561,
+          "created_at": "2026-11-03T01:52:01.000Z",
+          "lang": "en",
+          "text": "wdym by releasing a benchmark without actually task samples and no compare with other model family. I believe it's a good one but 🧐 https://t.co/EZLtvVtIG2 https://t.co/4yBV1FYqEm",
+          "text_zh": null,
+          "summary_zh": "批评 LifeVal 未公开任务样本、也未横向对比其他模型家族，提醒「自家尺子」要打折看。",
+          "relation_zh": "对父帖基准的有力质疑，附属讨论需要这一面。",
+          "metrics": {
+            "likes": 27,
+            "retweets": 0,
+            "replies": 3,
+            "quotes": 0,
+            "bookmarks": 4,
+            "views": 1908
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1500,
+              "h": 1182,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWKi6EmXMAAQE1o.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/wenhaocha1/status/2117434591434666418/photo/1",
+            "https://twitter.com/OpenAI/status/2117307611338997846"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2117307611338997846",
+          "article_title": null,
+          "attached_at": "2026-11-03T03:44:56.229510+00:00"
+        },
+        {
+          "id": "2117360622560035206",
+          "url": "https://x.com/code_rams/status/2117360622560035206",
+          "handle": "code_rams",
+          "display_name": "Ramya Chinnadurai 🚀",
+          "avatar": "https://pbs.twimg.com/profile_images/1491644590583345152/0_qYmn9E_normal.jpg",
+          "verified": true,
+          "followers": 17622,
+          "created_at": "2026-11-02T20:58:05.000Z",
+          "lang": "en",
+          "text": "LifeVal from OpenAI went from 49% to 81% at real life chores in 1 year 🤯\n\nNot coding or maths.. stuff like finding a kindergarten after a move, planning meals for a parent with diabetes, booking a toddler class.\n\nI read the whole LifeVal page, so here it is in simple words, plus https://t.co/z3E8CVNK14",
+          "text_zh": null,
+          "summary_zh": "有人总结：日常生活杂务得分约从 49% 拉到 81%，强调评测从刷题转向跑腿。",
+          "relation_zh": "用一句话抓住一年改进幅度，呼应「日常助理」叙事。",
+          "metrics": {
+            "likes": 7,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 4,
+            "views": 468
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/OpenAI/status/2117307611338997846"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2117307611338997846",
+          "article_title": null,
+          "attached_at": "2026-11-03T03:44:56.229517+00:00"
+        }
+      ]
     },
     {
       "id": "2117075900575477855",
@@ -672,7 +1057,134 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2117113121102045347",
+          "url": "https://x.com/sundarpichai/status/2117113121102045347",
+          "handle": "sundarpichai",
+          "display_name": "Sundar Pichai",
+          "avatar": "https://pbs.twimg.com/profile_images/2051799620062429184/AL8CoAUG_normal.jpg",
+          "verified": true,
+          "followers": 11890342,
+          "created_at": "2026-11-02T04:34:36.000Z",
+          "lang": "en",
+          "text": "Great to see high quality benchmarks with headroom and look at that cost line for Carbon🚀 https://t.co/vcKi9TVxZn",
+          "text_zh": null,
+          "summary_zh": "Sundar Pichai 引用 GDPx：称赞「有余量」的高质量基准，并点出 Carbon 的成本线。",
+          "relation_zh": "谷歌 CEO 亲自站台，放大了 SemiAnalysis 这条基准的行业分量。",
+          "metrics": {
+            "likes": 4232,
+            "retweets": 0,
+            "replies": 341,
+            "quotes": 56,
+            "bookmarks": 363,
+            "views": 477008
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/SemiAnalysis_/status/2117075900575477855"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2117075900575477855",
+          "article_title": null,
+          "attached_at": "2026-11-03T03:44:56.229774+00:00"
+        },
+        {
+          "id": "2117266918390308935",
+          "url": "https://x.com/jeffjonesnet/status/2117266918390308935",
+          "handle": "jeffjonesnet",
+          "display_name": "Jeff Jones | Digital Creator",
+          "avatar": "https://pbs.twimg.com/profile_images/2074553740456075264/mdHI809M_normal.jpg",
+          "verified": true,
+          "followers": 1454,
+          "created_at": "2026-11-02T14:45:44.000Z",
+          "lang": "en",
+          "text": "SemiAnalysis just tested top AI agents on 206 demanding tasks across 11 fields. The best GDPx score? 12%. It's a brutal benchmark, not everyday accuracy, but a reminder to verify AI output. Would you let an agent work unsupervised? #AI #AIAgents https://t.co/VNoWjDz5X2",
+          "text_zh": null,
+          "summary_zh": "Jeff Jones 用短视频概括：206 道高难度任务，最强 Agent 也只有约 12%。",
+          "relation_zh": "视频化的冷水提醒，和父帖「12%」主线一致。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 10
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 720,
+              "h": 1280,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2117266872462675968/vid/avc1/720x1280/_cY948CBLSTs54Ip.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2117266872462675968/img/oHSq2bhyHghcSpkc.jpg",
+              "duration_ms": 38545
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/jeffjonesnet/status/2117266918390308935/video/1"
+          ],
+          "hashtags": [
+            "AI",
+            "AIAgents"
+          ],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-03T03:44:56.229787+00:00"
+        },
+        {
+          "id": "2117263064345030906",
+          "url": "https://x.com/maikbuilds/status/2117263064345030906",
+          "handle": "maikbuilds",
+          "display_name": "Maik Builds",
+          "avatar": "https://pbs.twimg.com/profile_images/1989021920663064576/FxagtfB4_normal.jpg",
+          "verified": true,
+          "followers": 142,
+          "created_at": "2026-11-02T14:30:26.000Z",
+          "lang": "en",
+          "text": "The best agent on SemiAnalysis' new GDPx benchmark scores 12.0%. In GDPx's coding tasks, 76% of failed runs missed requirements around the main fix: existing repo behavior, integration, edge cases.\n\nGDPx went live last night: 206 agentic tasks across 11 domains, from chip design https://t.co/L8cacBSDcK",
+          "text_zh": null,
+          "summary_zh": "Maik 贴出 GDPx 排行榜截图：Opus 5.5 / Carbon / Astra，并讨论编码失败多卡在周边需求。",
+          "relation_zh": "把分数榜和失败模式补全，方便对照父帖线程。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 2,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 24
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1200,
+              "h": 1151,
+              "alt": "GDPx leaderboard from SemiAnalysis: Claude Opus 5.5 12.0%, Gemini 4 Carbon 10.9%, GPT-6 Astra 9.6%, with cost per task",
+              "orig": "https://pbs.twimg.com/media/HWIHiUSXMAAGFMJ.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/maikbuilds/status/2117263064345030906/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-03T03:44:56.229796+00:00"
+        }
+      ]
     },
     {
       "id": "2117346417979384162",
@@ -950,7 +1462,132 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2117423507743330310",
+          "url": "https://x.com/_jayyy18_13k/status/2117423507743330310",
+          "handle": "_jayyy18_13k",
+          "display_name": "Jaysen♨️",
+          "avatar": "https://pbs.twimg.com/profile_images/2072334961181655041/AN0ljQxX_normal.jpg",
+          "verified": true,
+          "followers": 1169,
+          "created_at": "2026-11-03T01:07:58.000Z",
+          "lang": "en",
+          "text": "OpenAI has built Pando, a new Git backend designed to handle the growing workload from engineers and AI agents\n\nAccording to OpenAI, Pando has reduced Git push latency by approximately 80% and now serves nearly 1 petabyte of Git data every day https://t.co/c4CZ0NjDfC",
+          "text_zh": null,
+          "summary_zh": "Jaysen 转发官方讲解视频并点出推送延迟约降 80%、日处理近 1PB。",
+          "relation_zh": "带视频的二次传播，便于快速看懂公告。",
+          "metrics": {
+            "likes": 4,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 212
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1280,
+              "h": 720,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2117408779730108416/vid/avc1/1280x720/DC4QGviQJjmqljUu.mp4?tag=16",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2117408779730108416/img/M_YLvydUvu_YZd9I.jpg",
+              "duration_ms": 18000
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/OpenAIDevs/status/2117408792346509663/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-03T03:44:56.229641+00:00"
+        },
+        {
+          "id": "2117425921095258604",
+          "url": "https://x.com/AGTPinsights/status/2117425921095258604",
+          "handle": "AGTPinsights",
+          "display_name": "AGTP",
+          "avatar": "https://pbs.twimg.com/profile_images/2091502140917415936/CNbeDaNw_normal.jpg",
+          "verified": true,
+          "followers": 5507,
+          "created_at": "2026-11-03T01:17:34.000Z",
+          "lang": "en",
+          "text": "OpenAI just unveiled Pando, a new Git backend for its monorepo, today. Here's what you need to know.\n\nOpenAI says Codex created so much parallel coding activity that its Git infrastructure couldn't keep up. Coverage of the technical blog post says Codex pushed commits up 1378%, https://t.co/KxgVwdafra https://t.co/XBt0MrcWvd",
+          "text_zh": null,
+          "summary_zh": "AGTP 长帖拆解 Pando：Codex 并行把 Git 打爆后，自研兼容协议的后端，推送延迟约降 80%、日吞吐近 1PB。",
+          "relation_zh": "对官方视频公告的结构化复盘，数字与架构更清楚。",
+          "metrics": {
+            "likes": 2,
+            "retweets": 0,
+            "replies": 2,
+            "quotes": 8,
+            "bookmarks": 0,
+            "views": 464
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1254,
+              "h": 1254,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWKbe4QXAAAeI3p.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/AGTPinsights/status/2117425921095258604/photo/1",
+            "https://twitter.com/OpenAIDevs/status/2117408792346509663"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2117408792346509663",
+          "article_title": null,
+          "attached_at": "2026-11-03T03:44:56.229650+00:00"
+        },
+        {
+          "id": "2117454496641282294",
+          "url": "https://x.com/chasen_liao/status/2117454496641282294",
+          "handle": "chasen_liao",
+          "display_name": "Chasen",
+          "avatar": "https://pbs.twimg.com/profile_images/2079135588792651776/CrCkegI7_normal.jpg",
+          "verified": true,
+          "followers": 6177,
+          "created_at": "2026-11-03T03:11:07.000Z",
+          "lang": "zh",
+          "text": "OpenAI 居然给自己的 monorepo 重写了一套 Git 后端 Pando\n\n以前 Agent 并发一上来，代码库就开始卡，push 变慢、merge 失败，很多人会怀疑是不是 Git 本身到头了，但 OpenAI 的判断是问题出在服务端架构而不是 Git 协议，所以他们选择保留 Git 客户端和协议兼容，只把后端彻底换掉，这样工程师和 https://t.co/PSFzfZkOta",
+          "text_zh": null,
+          "summary_zh": "Chasen 中文长文：为何不动协议只换后端、读写路径怎么改、10 周 Rust+Agent 交付与上游回馈。",
+          "relation_zh": "把父帖工程故事讲透，适合中文读者跟进。",
+          "metrics": {
+            "likes": 5,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 1,
+            "views": 269
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/OpenAIDevs/status/2117408792346509663"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2117408792346509663",
+          "article_title": null,
+          "attached_at": "2026-11-03T03:44:56.229658+00:00"
+        }
+      ]
     },
     {
       "id": "2117278154918092817",
@@ -1224,7 +1861,146 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2117169796290916732",
+          "url": "https://x.com/chetaslua/status/2117169796290916732",
+          "handle": "chetaslua",
+          "display_name": "Chetaslua",
+          "avatar": "https://pbs.twimg.com/profile_images/1926364057004646400/z3oD9QyB_normal.jpg",
+          "verified": true,
+          "followers": 43731,
+          "created_at": "2026-11-02T08:19:49.000Z",
+          "lang": "en",
+          "text": "Fable 5.5 its over for video and image models 🤯\n\nTHIS IS PURE CODE \n\none shotted this video holy shit , how this is more beautiful than ai video models \n\nTwo ways to check this yourself:\n\nAsk: “Where did @karpathy go in 2026?” with web search and memory turned off. Only the new https://t.co/HoS19Ihm4A",
+          "text_zh": null,
+          "summary_zh": "chetaslua 放出疑似 Fable 5.5 检查点：整段动画短片纯代码一键生成，并附自测提示。",
+          "relation_zh": "父帖引用的原视频与出处，附属贴应能直接看到一手演示。",
+          "metrics": {
+            "likes": 6675,
+            "retweets": 0,
+            "replies": 299,
+            "quotes": 227,
+            "bookmarks": 4481,
+            "views": 1181000
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1040,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2117167031636393985/vid/avc1/1920x1040/OXMyq-1xv2oFjDmL.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2117167031636393985/img/CKADDY4IjwF3_y0c.jpg",
+              "duration_ms": 80666
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/chetaslua/status/2117169796290916732/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "karpathy"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-03T03:44:56.229343+00:00"
+        },
+        {
+          "id": "2116934172757660014",
+          "url": "https://x.com/AI_Screening/status/2116934172757660014",
+          "handle": "AI_Screening",
+          "display_name": "Pranav Reddy",
+          "avatar": "https://pbs.twimg.com/profile_images/2099720207262683137/Rjw3i6jY_normal.jpg",
+          "verified": true,
+          "followers": 1280,
+          "created_at": "2026-11-01T16:43:32.000Z",
+          "lang": "en",
+          "text": "Claude Fable 5.5 checkpoint vs. Gemini 4 Carbon checkpoint in Arena\n\n&gt;Carbon checkpoints really very close to Fable 5.5 as of now. https://t.co/b2mCzCV1re",
+          "text_zh": null,
+          "summary_zh": "Arena 对比：Claude Fable 5.5 检查点对阵 Gemini 4 Carbon，展示代码生成动画侧能力。",
+          "relation_zh": "把 Fable 5.5 从「好看 demo」拉到公开对战语境。",
+          "metrics": {
+            "likes": 220,
+            "retweets": 0,
+            "replies": 17,
+            "quotes": 3,
+            "bookmarks": 32,
+            "views": 27143
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 2160,
+              "h": 1442,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2116934082978553856/vid/avc1/2160x1442/7q9YgJDjVmY48WHr.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2116934082978553856/img/PQA3vXGADLup5SlK.jpg",
+              "duration_ms": 16450
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/AI_Screening/status/2116934172757660014/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-03T03:44:56.229357+00:00"
+        },
+        {
+          "id": "2117302036555497753",
+          "url": "https://x.com/AI_Screening/status/2117302036555497753",
+          "handle": "AI_Screening",
+          "display_name": "Pranav Reddy",
+          "avatar": "https://pbs.twimg.com/profile_images/2099720207262683137/Rjw3i6jY_normal.jpg",
+          "verified": true,
+          "followers": 1280,
+          "created_at": "2026-11-02T17:05:17.000Z",
+          "lang": "en",
+          "text": "Claude Fable 5.5 checkpoint vs. Opus 5.5\n\n&gt;Fable 5.5 takes the lead\n&gt;One-shot three.js test outputs https://t.co/3HRIwoAc3S",
+          "text_zh": null,
+          "summary_zh": "Arena 对比：Fable 5.5 检查点对 Opus 5.5，称一镜三连占优。",
+          "relation_zh": "补充同门对比，说明新检查点相对现网 Opus 的体感跃迁。",
+          "metrics": {
+            "likes": 56,
+            "retweets": 0,
+            "replies": 4,
+            "quotes": 0,
+            "bookmarks": 7,
+            "views": 3523
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 2160,
+              "h": 1794,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2117301932595527681/vid/avc1/2160x1794/X72V3HgTeTNm7uJS.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2117301932595527681/img/o_J4D8L2PiaULgsw.jpg",
+              "duration_ms": 16950
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/AI_Screening/status/2117302036555497753/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-03T03:44:56.229366+00:00"
+        }
+      ]
     },
     {
       "id": "2117276777538257274",
