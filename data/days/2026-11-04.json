@@ -114,7 +114,131 @@
       "external_url": null,
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "Simon Willison 跟进「用自然语言/浮点提示直接操作权重」的热门论文，用开源 Qwen3.8-27B 在笔记本上跑通，耗时逾 45 分钟，说明该能力可在非旗舰本地模型上复现。"
+      "article_summary_zh": "Simon Willison 跟进「用自然语言/浮点提示直接操作权重」的热门论文，用开源 Qwen3.8-27B 在笔记本上跑通，耗时逾 45 分钟，说明该能力可在非旗舰本地模型上复现。",
+      "attached_posts": [
+        {
+          "id": "2117718133796700184",
+          "url": "https://x.com/buildAgoat/status/2117718133796700184",
+          "handle": "buildAgoat",
+          "display_name": "Build A Goat",
+          "avatar": "https://pbs.twimg.com/profile_images/1837961608339116032/QejKjH9p_normal.jpg",
+          "verified": true,
+          "followers": 384,
+          "created_at": "2026-11-03T20:38:43.000Z",
+          "lang": "en",
+          "text": "This morning I said to wait for replications on the Weight-Space Programming paper, the one where GPT-6 Astra reads raw network weights and works out what the network was trained to do.\n\nSimon Willison already ran one. He took the paper's own no-tools prompts and fed them to Qwen https://t.co/JAt0ScEpvh",
+          "text_zh": null,
+          "summary_zh": "Build A Goat：早说等复现，Simon 已经用笔记本上的 Qwen 3.8 27B（约 17GB）跑通论文同款无工具提示。",
+          "relation_zh": "点名「复现来了」，把父帖从个人实验抬成对论文的社区验证。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 34
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1280,
+              "h": 720,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWOla7nbEAA-cvz.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/buildAgoat/status/2117718133796700184/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-04T02:45:40.838844+00:00"
+        },
+        {
+          "id": "2117760006267552082",
+          "url": "https://x.com/JZinAus/status/2117760006267552082",
+          "handle": "JZinAus",
+          "display_name": "JZ 🇦🇺🇺🇦",
+          "avatar": "https://pbs.twimg.com/profile_images/1893136147825688577/T99pas84_normal.jpg",
+          "verified": true,
+          "followers": 204,
+          "created_at": "2026-11-03T23:25:06.000Z",
+          "lang": "en",
+          "text": "When the LLM see the other LLM’s weight https://t.co/bnX4VWYMdg https://t.co/zycorDAzOC",
+          "text_zh": null,
+          "summary_zh": "JZ 配梗图：当一个 LLM 看见另一个 LLM 的权重。",
+          "relation_zh": "图像化父帖核心画面——模型直接读浮点权重。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 16
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWPLf6yacAAxCOm.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/JZinAus/status/2117760006267552082/photo/1",
+            "https://twitter.com/simonw/status/2117655816581071203"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2117655816581071203",
+          "article_title": null,
+          "attached_at": "2026-11-04T02:45:40.838851+00:00"
+        },
+        {
+          "id": "2117713636642992624",
+          "url": "https://x.com/umiyuki_ai/status/2117713636642992624",
+          "handle": "umiyuki_ai",
+          "display_name": "うみゆき@AI研究",
+          "avatar": "https://pbs.twimg.com/profile_images/1581572203660787712/SAdL4WOj_normal.jpg",
+          "verified": true,
+          "followers": 66430,
+          "created_at": "2026-11-03T20:20:50.000Z",
+          "lang": "ja",
+          "text": "AIが生ウエイトの中身を理解できるという研究について、こちらの方はQwen3.8-27Bに論文と同じくゲームプレイを学習させたAIモデルを見せたらたしかに何のゲームか当てれたという（フリーウェイってゲームだけ外したけどそんなゲーム僕だって知らない） https://t.co/jbY6cuskDE",
+          "text_zh": null,
+          "summary_zh": "うみゆき：用 Qwen3.8-27B 把游戏策略网络喂进去，确实能猜出玩的是什么（Freeway 除外，那款我也不认识）。",
+          "relation_zh": "日文圈高粉复述实验结果，补上「猜对多数游戏」的可读细节。",
+          "metrics": {
+            "likes": 26,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 2,
+            "views": 4013
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/simonw/status/2117655816581071203"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2117655816581071203",
+          "article_title": null,
+          "attached_at": "2026-11-04T02:45:40.838857+00:00"
+        }
+      ]
     },
     {
       "id": "2117710942826123294",
@@ -454,7 +578,130 @@
       "external_url": "https://twitter.com/thsottiaux/status/2117489367417803042",
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "媒体号转引「Le GPT Fat」等相关讨论，暗示 OpenAI 下一代更大体量模型可能临近；目前仍属传闻，需等官方。"
+      "article_summary_zh": "媒体号转引「Le GPT Fat」等相关讨论，暗示 OpenAI 下一代更大体量模型可能临近；目前仍属传闻，需等官方。",
+      "attached_posts": [
+        {
+          "id": "2117515903017660851",
+          "url": "https://x.com/adityaa_behera/status/2117515903017660851",
+          "handle": "adityaa_behera",
+          "display_name": "INDIE | KAI",
+          "avatar": "https://pbs.twimg.com/profile_images/2098787565818261504/5Rr1OInU_normal.jpg",
+          "verified": true,
+          "followers": 1025,
+          "created_at": "2026-11-03T07:15:07.000Z",
+          "lang": "en",
+          "text": "🚨GPT6.2 Astra will drop today! \n\n-Tibo hinted it may be a big parameter model \n-Maybe 10T\n-costs will be like opus 5.5 and absolutely cheaper than GPT6 Astra https://t.co/Ty7AZPGOr9 https://t.co/vbrUYxmRLn",
+          "text_zh": null,
+          "summary_zh": "INDIE|KAI 配图喊：GPT-6.2 Astra 今日或发——Tibo 暗示大参数、或约 10T，价格对标 Opus 5.5 且比 GPT-6 Astra 便宜。",
+          "relation_zh": "把「枪已上膛」拆成参数量与定价的具体传闻清单，传播最广。",
+          "metrics": {
+            "likes": 3446,
+            "retweets": 0,
+            "replies": 109,
+            "quotes": 95,
+            "bookmarks": 380,
+            "views": 331424
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1672,
+              "h": 941,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWLte8PasAAfKKH.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/adityaa_behera/status/2117515903017660851/photo/1",
+            "https://twitter.com/kimmonismus/status/2117515222797648087"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2117515222797648087",
+          "article_title": null,
+          "attached_at": "2026-11-04T02:45:40.838743+00:00"
+        },
+        {
+          "id": "2117569220410220636",
+          "url": "https://x.com/zzaba_a/status/2117569220410220636",
+          "handle": "zzaba_a",
+          "display_name": "Zaba",
+          "avatar": "https://pbs.twimg.com/profile_images/2101771068541198336/scJ-rWUC_normal.jpg",
+          "verified": true,
+          "followers": 218,
+          "created_at": "2026-11-03T10:46:59.000Z",
+          "lang": "en",
+          "text": "🚨 GPT-6.2 Astra is released today!\n\n- Tibo hinted that it could be a very large model\n\n- Maybe ~10T parameters\n\n- The cost is like Opus 5.5 and noticeably cheaper than GPT-6 Astra\n\nThe weapons are already being loaded. It smells like a serious upgrade. 🚀 https://t.co/zVsrQt0Ff3 https://t.co/lk4bqGMCWb",
+          "text_zh": null,
+          "summary_zh": "Zaba 复述同款爆料：武器已装填，闻得出大升级气味。",
+          "relation_zh": "二次放大同一套传闻，强化「临近发布」的时间压力感。",
+          "metrics": {
+            "likes": 183,
+            "retweets": 0,
+            "replies": 15,
+            "quotes": 2,
+            "bookmarks": 16,
+            "views": 16012
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1672,
+              "h": 941,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWMd25GXQAApJkK.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/zzaba_a/status/2117569220410220636/photo/1",
+            "https://twitter.com/kimmonismus/status/2117515222797648087"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2117515222797648087",
+          "article_title": null,
+          "attached_at": "2026-11-04T02:45:40.838750+00:00"
+        },
+        {
+          "id": "2117489367417803042",
+          "url": "https://x.com/thsottiaux/status/2117489367417803042",
+          "handle": "thsottiaux",
+          "display_name": "Tibo",
+          "avatar": "https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_normal.jpg",
+          "verified": true,
+          "followers": 980395,
+          "created_at": "2026-11-03T05:29:40.000Z",
+          "lang": "en",
+          "text": "Le GPT Fat",
+          "text_zh": null,
+          "summary_zh": "Tibo 只发了三个字：Le GPT Fat。",
+          "relation_zh": "父帖直接引用的源头梗——圈内用「胖 GPT」暗指下一款重磅模型。",
+          "metrics": {
+            "likes": 9936,
+            "retweets": 0,
+            "replies": 1533,
+            "quotes": 493,
+            "bookmarks": 381,
+            "views": 1909334
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-04T02:45:40.838755+00:00"
+        }
+      ]
     },
     {
       "id": "2117731934340337676",
@@ -562,7 +809,144 @@
       ],
       "replies_seen": 8,
       "replies_fetched_at": "2026-11-04T02:37:09.312535+00:00",
-      "author_id": "974757274206978049"
+      "author_id": "974757274206978049",
+      "attached_posts": [
+        {
+          "id": "2117740960990052397",
+          "url": "https://x.com/cgtwts/status/2117740960990052397",
+          "handle": "cgtwts",
+          "display_name": "CG",
+          "avatar": "https://pbs.twimg.com/profile_images/1955738644528160769/cgVyKTcs_normal.jpg",
+          "verified": true,
+          "followers": 28041,
+          "created_at": "2026-11-03T22:09:25.000Z",
+          "lang": "en",
+          "text": "holy shit, three people behind Claude Code have recently left Anthropic. https://t.co/loxzH3QCWX https://t.co/FvoJDa9d5q",
+          "text_zh": null,
+          "summary_zh": "CG 配图盘点：Claude Code 背后已有三人近期离开 Anthropic。",
+          "relation_zh": "把 Cat Wu 的告别放进「连续出走」上下文，一张图说明这不是孤立事件。",
+          "metrics": {
+            "likes": 1010,
+            "retweets": 0,
+            "replies": 66,
+            "quotes": 14,
+            "bookmarks": 352,
+            "views": 133225
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1149,
+              "h": 555,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWO6LR7boAAl_Ct.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/cgtwts/status/2117740960990052397/photo/1",
+            "https://twitter.com/_catwu/status/2117731934340337676"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2117731934340337676",
+          "article_title": null,
+          "attached_at": "2026-11-04T02:45:40.838246+00:00"
+        },
+        {
+          "id": "2117808814967930940",
+          "url": "https://x.com/KKaWSB/status/2117808814967930940",
+          "handle": "KKaWSB",
+          "display_name": "KK.aWSB",
+          "avatar": "https://pbs.twimg.com/profile_images/1597151544004132864/tTRRgVeE_normal.jpg",
+          "verified": true,
+          "followers": 88814,
+          "created_at": "2026-11-04T02:39:03.000Z",
+          "lang": "zh",
+          "text": "Claude Code 产品负责人 Cat Wu 宣布离职。\n\n这时离 Anthropic 上市只剩两周左右，估值传闻最高 2 万亿美元。\n\n很多人的第一反应是：这得亏多少钱？\n\n最说得通的解释是：其实没想象中那么多。已归属的那部分基本已经到手，剩下没归属的股权，对她来说不如趁个人声望最高的时候去做下一件事。 https://t.co/SYJKKWjxUv https://t.co/UdWaqXzMV7",
+          "text_zh": null,
+          "summary_zh": "KK.aWSB：IPO 前夕离职未必亏大钱——已归属股权大概率还在，未归属部分不如趁声望巅峰去做下一件事。",
+          "relation_zh": "用股权归属逻辑拆解「为何现在走」，是对告别帖最扎实的中文侧写。",
+          "metrics": {
+            "likes": 2,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 205
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1716,
+              "h": 949,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWP35MnbcAAkpuV.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/KKaWSB/status/2117808814967930940/photo/1",
+            "https://twitter.com/_catwu/status/2117731934340337676"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2117731934340337676",
+          "article_title": null,
+          "attached_at": "2026-11-04T02:45:40.838256+00:00"
+        },
+        {
+          "id": "2117773352421274015",
+          "url": "https://x.com/provisionalidea/status/2117773352421274015",
+          "handle": "provisionalidea",
+          "display_name": "James Rosen-Birch ⚖️🕊️",
+          "avatar": "https://pbs.twimg.com/profile_images/1643869320965914624/e6GJLDXG_normal.png",
+          "verified": true,
+          "followers": 12359,
+          "created_at": "2026-11-04T00:18:08.000Z",
+          "lang": "en",
+          "text": "I know I rail about how the disengagement and stripping of power away from the user is a design choice, but the metric is very much a target over there. https://t.co/RN40IJpI9N https://t.co/khlcbQJZu2",
+          "text_zh": null,
+          "summary_zh": "provisionalidea 截图吐槽：默认自动批准权限，正是把「用户失去控制」当成 KPI。",
+          "relation_zh": "直接对准告别帖里「auto-approve by default」那句，把产品哲学争议拎了出来。",
+          "metrics": {
+            "likes": 28,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 4,
+            "views": 1032
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1170,
+              "h": 291,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWPXo_rWEAA5Xoj.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/provisionalidea/status/2117773352421274015/photo/1",
+            "https://twitter.com/_catwu/status/2117731934340337676"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2117731934340337676",
+          "article_title": null,
+          "attached_at": "2026-11-04T02:45:40.838263+00:00"
+        }
+      ]
     },
     {
       "id": "2117444048227123277",
@@ -835,7 +1219,133 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2117705239910289862",
+          "url": "https://x.com/zhodonx/status/2117705239910289862",
+          "handle": "zhodonx",
+          "display_name": "zhod",
+          "avatar": "https://pbs.twimg.com/profile_images/2110053886140493824/-uDt2vqG_normal.jpg",
+          "verified": true,
+          "followers": 6785,
+          "created_at": "2026-11-03T19:47:28.000Z",
+          "lang": "en",
+          "text": "Imagine building your own mobile device using GPT 6.2 Astra. https://t.co/AdynmEcIVA https://t.co/sYJn2WU9G3",
+          "text_zh": null,
+          "summary_zh": "zhod 短视频畅想：用 GPT-6.2 Astra 自己做一台手机。",
+          "relation_zh": "视频把「物理工程」从官方文案拉成可感的消费硬件幻想。",
+          "metrics": {
+            "likes": 36,
+            "retweets": 0,
+            "replies": 3,
+            "quotes": 0,
+            "bookmarks": 2,
+            "views": 1493
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 720,
+              "h": 364,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2117705211485548545/vid/avc1/720x364/lu12fd_5HuhdZiNZ.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2117705211485548545/img/fowtJ1YpfuiuaJOK.jpg",
+              "duration_ms": 13500
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/zhodonx/status/2117705239910289862/video/1",
+            "https://twitter.com/openai/status/2117692475775258785"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2117692475775258785",
+          "article_title": null,
+          "attached_at": "2026-11-04T02:45:40.838637+00:00"
+        },
+        {
+          "id": "2117694475095134433",
+          "url": "https://x.com/choblin29/status/2117694475095134433",
+          "handle": "choblin29",
+          "display_name": "Choblin",
+          "avatar": "https://pbs.twimg.com/profile_images/2085656969873149952/dDMt4puX_normal.jpg",
+          "verified": true,
+          "followers": 5301,
+          "created_at": "2026-11-03T19:04:42.000Z",
+          "lang": "en",
+          "text": "HOLY SHIT. OpenAI has revealed that a NEWER INTERNAL MODEL scored 0.875 on BenchCAD 2.0, compared with just 0.594 for GPT-6 Astra, a roughly 47% higher score. https://t.co/QtjZXnKz9A https://t.co/qg9YJZCYiv",
+          "text_zh": null,
+          "summary_zh": "Choblin 晒图：OpenAI 透露更新内部模型在 BenchCAD 2.0 拿到 0.875，相对 GPT-6 Astra 的 0.594 约高 47%。",
+          "relation_zh": "用 CAD 基准数字给「进军物理世界」补上硬指标。",
+          "metrics": {
+            "likes": 435,
+            "retweets": 0,
+            "replies": 8,
+            "quotes": 0,
+            "bookmarks": 62,
+            "views": 23459
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 874,
+              "h": 727,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWOP5LFXQAAPaiS.png",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/choblin29/status/2117694475095134433/photo/1",
+            "https://twitter.com/OpenAI/status/2117692475775258785"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2117692475775258785",
+          "article_title": null,
+          "attached_at": "2026-11-04T02:45:40.838644+00:00"
+        },
+        {
+          "id": "2117781797555851515",
+          "url": "https://x.com/gdb/status/2117781797555851515",
+          "handle": "gdb",
+          "display_name": "Greg Brockman",
+          "avatar": "https://pbs.twimg.com/profile_images/1347621377503711233/bHg3ipfD_normal.jpg",
+          "verified": true,
+          "followers": 1085076,
+          "created_at": "2026-11-04T00:51:41.000Z",
+          "lang": "en",
+          "text": "ChatGPT for physical engineering, including enabling amateurs to design prototype devices: https://t.co/vUaSt4Lxcd",
+          "text_zh": null,
+          "summary_zh": "Greg Brockman：ChatGPT 做物理工程，还能让业余玩家设计原型设备。",
+          "relation_zh": "OpenAI 总裁亲自扩写父帖，强调业余创作者也能上手硬件原型。",
+          "metrics": {
+            "likes": 589,
+            "retweets": 0,
+            "replies": 64,
+            "quotes": 9,
+            "bookmarks": 171,
+            "views": 38901
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/OpenAI/status/2117692475775258785"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2117692475775258785",
+          "article_title": null,
+          "attached_at": "2026-11-04T02:45:40.838649+00:00"
+        }
+      ]
     },
     {
       "id": "2117457986939429026",
@@ -1058,7 +1568,108 @@
       ],
       "replies_seen": 7,
       "replies_fetched_at": "2026-11-04T02:37:09.313436+00:00",
-      "author_id": "164081884"
+      "author_id": "164081884",
+      "attached_posts": [
+        {
+          "id": "2117642179749543957",
+          "url": "https://x.com/threejs/status/2117642179749543957",
+          "handle": "threejs",
+          "display_name": "Three.js",
+          "avatar": "https://pbs.twimg.com/profile_images/1510259524271173638/lgTEVmRi_normal.jpg",
+          "verified": true,
+          "followers": 151181,
+          "created_at": "2026-11-03T15:36:54.000Z",
+          "lang": "en",
+          "text": "Nature is healing: Unreal Engine 5.9 will export to the web again. Welcome back, UE! 🤗 https://t.co/jYOOsAvveA",
+          "text_zh": null,
+          "summary_zh": "Three.js 官方账号欢呼：UE 5.9 又能导出到网页了，「自然在愈合」。",
+          "relation_zh": "网页 3D 生态头号账号亲自站台，点名「Web 目标平台」是这波公告最刺眼的信号。",
+          "metrics": {
+            "likes": 1494,
+            "retweets": 0,
+            "replies": 42,
+            "quotes": 18,
+            "bookmarks": 325,
+            "views": 63961
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/UnrealEngine/status/2117603978489811012"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2117603978489811012",
+          "article_title": null,
+          "attached_at": "2026-11-04T02:45:40.838037+00:00"
+        },
+        {
+          "id": "2117667701414039903",
+          "url": "https://x.com/martin_casado/status/2117667701414039903",
+          "handle": "martin_casado",
+          "display_name": "martin_casado",
+          "avatar": "https://pbs.twimg.com/profile_images/1556885485888237568/HH1iBQNp_normal.jpg",
+          "verified": true,
+          "followers": 98308,
+          "created_at": "2026-11-03T17:18:19.000Z",
+          "lang": "en",
+          "text": "Amazing move! Let's goooooo!! Unreal to web is back!! https://t.co/pbb2x6Gww3",
+          "text_zh": null,
+          "summary_zh": "a16z 合伙人 Martin Casado 连喊 Amazing：Unreal 回网页了。",
+          "relation_zh": "顶级投资人立刻转发，说明「引擎重回浏览器」不只是开发者圈内梗。",
+          "metrics": {
+            "likes": 140,
+            "retweets": 0,
+            "replies": 14,
+            "quotes": 0,
+            "bookmarks": 21,
+            "views": 11802
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/UnrealEngine/status/2117603978489811012"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2117603978489811012",
+          "article_title": null,
+          "attached_at": "2026-11-04T02:45:40.838083+00:00"
+        },
+        {
+          "id": "2117648218645541079",
+          "url": "https://x.com/DLKFZWilliam2/status/2117648218645541079",
+          "handle": "DLKFZWilliam2",
+          "display_name": "独立开发者William",
+          "avatar": "https://pbs.twimg.com/profile_images/2115815760492654592/0zYeTXNZ_normal.jpg",
+          "verified": true,
+          "followers": 13587,
+          "created_at": "2026-11-03T16:00:53.000Z",
+          "lang": "zh",
+          "text": "卧槽，职业队下场了！！！Unreal 5.9 官方把 Web 当正式目标平台了，下周就出 Preview。 Three.js带火了网页游戏功不可没啊\n\n接下来unreal直接窃取果实，要给大家表演下什么是高画质和全pipeline的游戏😍😍😍\n\n坐等一周后时间线，估计都是发的网页地址，然后都是发卧槽卧槽卧槽那种demo🌚 https://t.co/c8iZzUUxDr",
+          "text_zh": null,
+          "summary_zh": "独立开发者 William：职业队下场了——UE 把 Web 当正式目标平台，下周 Preview；预测时间线将被网页 demo 刷屏。",
+          "relation_zh": "中文圈最直白的解读，把 Three.js 带火网页游戏与 UE 回马枪写在同一条叙事里。",
+          "metrics": {
+            "likes": 60,
+            "retweets": 0,
+            "replies": 7,
+            "quotes": 0,
+            "bookmarks": 35,
+            "views": 7211
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/unrealengine/status/2117603978489811012"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2117603978489811012",
+          "article_title": null,
+          "attached_at": "2026-11-04T02:45:40.838093+00:00"
+        }
+      ]
     },
     {
       "id": "2117580129459490851",
@@ -1414,7 +2025,140 @@
       "is_article": false,
       "external_url": "https://twitter.com/exec_sum/status/2117284426128179638",
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2117278057094664659",
+          "url": "https://x.com/Coinvo/status/2117278057094664659",
+          "handle": "Coinvo",
+          "display_name": "Coinvo",
+          "avatar": "https://pbs.twimg.com/profile_images/1827019079464464395/4EqQ-50j_normal.jpg",
+          "verified": true,
+          "followers": 336198,
+          "created_at": "2026-11-02T15:30:00.000Z",
+          "lang": "en",
+          "text": "🇺🇸 Goldman Sachs has banned its employees from using advanced AI coding tools.\n\nThe bank limited Claude Code and GitHub access after an October risk review. https://t.co/PAVLHpZETU",
+          "text_zh": null,
+          "summary_zh": "Coinvo 配图通报：高盛限制员工使用 Claude Code 等高级 AI 编程工具，缘于十月风险复盘。",
+          "relation_zh": "父帖所引禁令潮的源头新闻卡，配图把「银行禁 AI coding」钉死。",
+          "metrics": {
+            "likes": 328,
+            "retweets": 0,
+            "replies": 22,
+            "quotes": 2,
+            "bookmarks": 7,
+            "views": 29730
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1047,
+              "h": 1200,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWIG9uCWQAAGtkK.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 1050,
+              "h": 1200,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWIG9t-XsAAc_AZ.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo",
+            "photo"
+          ],
+          "links": [
+            "https://x.com/Coinvo/status/2117278057094664659/photo/1",
+            "https://x.com/Coinvo/status/2117278057094664659/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-04T02:45:40.838512+00:00"
+        },
+        {
+          "id": "2117324473946743085",
+          "url": "https://x.com/BoringBiz_/status/2117324473946743085",
+          "handle": "BoringBiz_",
+          "display_name": "Boring_Business",
+          "avatar": "https://pbs.twimg.com/profile_images/1819515130528358400/8rlmZQWu_normal.jpg",
+          "verified": true,
+          "followers": 212800,
+          "created_at": "2026-11-02T18:34:27.000Z",
+          "lang": "en",
+          "text": "Goldman Sachs has spent two years pushing AI out to its roughly 46,000 employees, not just its 12,000 engineers\n\nThe approach used several model providers at once: an in-house assistant built on models from OpenAI, Anthropic and Alphabet, plus Anthropic's Claude Code and https://t.co/z68dgZgUWV",
+          "text_zh": null,
+          "summary_zh": "Boring_Business 长文：高盛两年把 AI 推到近 4.6 万人，十月又把 Claude Code/GitHub 收回工程师——还踩上 Anthropic IPO 承销时间线。",
+          "relation_zh": "最完整的背景板：从 vibe coding 狂欢到工程师 only 的五步翻转。",
+          "metrics": {
+            "likes": 642,
+            "retweets": 0,
+            "replies": 101,
+            "quotes": 27,
+            "bookmarks": 383,
+            "views": 136892
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1179,
+              "h": 373,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWI_YtbWQAAyQws.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/BoringBiz_/status/2117324473946743085/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-04T02:45:40.838526+00:00"
+        },
+        {
+          "id": "2117508085048635615",
+          "url": "https://x.com/imsonup_/status/2117508085048635615",
+          "handle": "imsonup_",
+          "display_name": "Sonup Bhuyaan",
+          "avatar": "https://pbs.twimg.com/profile_images/2060731446466347008/k5WKoqk7_normal.jpg",
+          "verified": true,
+          "followers": 1028,
+          "created_at": "2026-11-03T06:44:03.000Z",
+          "lang": "en",
+          "text": "wall street banning claude code isn't a setback. it's the beginning of the enterprise sandbox war.\n\ngoldman sachs blocking agents on local employee endpoints is the exact rational move: you don't let an autonomous agent touch customer data on an unmonitored laptop.\n\nthe next https://t.co/Cz7tiPAKnI",
+          "text_zh": null,
+          "summary_zh": "Sonup：华尔街禁 Claude Code 不是挫败，而是企业沙箱战争的开始——下一座金矿是可审计的临时云沙箱。",
+          "relation_zh": "把 amasad 的「禁令落地」转译成安全产品机会，给出建设性下一跳。",
+          "metrics": {
+            "likes": 417,
+            "retweets": 0,
+            "replies": 26,
+            "quotes": 8,
+            "bookmarks": 168,
+            "views": 38696
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/amasad/status/2117481616943820843"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2117481616943820843",
+          "article_title": null,
+          "attached_at": "2026-11-04T02:45:40.838520+00:00"
+        }
+      ]
     },
     {
       "id": "2117719430042202311",
@@ -4440,7 +5184,133 @@
       "is_article": false,
       "external_url": "https://thein.fo/4zBsdSc",
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2117790363909824905",
+          "url": "https://x.com/corleonecapital/status/2117790363909824905",
+          "handle": "corleonecapital",
+          "display_name": "Vito",
+          "avatar": "https://pbs.twimg.com/profile_images/1836468592478490624/JaPZwDBT_normal.jpg",
+          "verified": true,
+          "followers": 791,
+          "created_at": "2026-11-04T01:25:44.000Z",
+          "lang": "da",
+          "text": "Dear Jensen Huang: https://t.co/smk2hc33E7 https://t.co/b4YAGUDPlW",
+          "text_zh": null,
+          "summary_zh": "Vito 配动图调侃：Dear Jensen Huang——言下之意 Anthropic 小团队用 Claude 抢芯片设计话语权。",
+          "relation_zh": "用 GIF 把报道对 Nvidia/AMD 的潜在冲击做成一眼能懂的梗。",
+          "metrics": {
+            "likes": 1,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 164
+          },
+          "media": [
+            {
+              "type": "animated_gif",
+              "w": 400,
+              "h": 224,
+              "alt": null,
+              "mp4": "https://video.twimg.com/tweet_video/HWPnG97WIAA674q.mp4",
+              "poster": "https://pbs.twimg.com/tweet_video_thumb/HWPnG97WIAA674q.jpg",
+              "duration_ms": null
+            }
+          ],
+          "media_types": [
+            "animated_gif"
+          ],
+          "links": [
+            "https://x.com/corleonecapital/status/2117790363909824905/photo/1",
+            "https://twitter.com/theinformation/status/2117663244890378296"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2117663244890378296",
+          "article_title": null,
+          "attached_at": "2026-11-04T02:45:40.838384+00:00"
+        },
+        {
+          "id": "2117774796851224855",
+          "url": "https://x.com/SemiAnalysis_/status/2117774796851224855",
+          "handle": "SemiAnalysis_",
+          "display_name": "SemiAnalysis",
+          "avatar": "https://pbs.twimg.com/profile_images/2062973370157694976/CdplNoi1_normal.jpg",
+          "verified": true,
+          "followers": 181729,
+          "created_at": "2026-11-04T00:23:52.000Z",
+          "lang": "en",
+          "text": "We believe there will be tremendous value created from AI in chip design. This is exactly why we included 34 frontier chip design tasks in GDPx. We are still so early. (1/2)🧵 \nhttps://t.co/kdt3GhEzpX https://t.co/UyHQumdsgS",
+          "text_zh": null,
+          "summary_zh": "SemiAnalysis：AI 做芯片设计价值巨大，所以 GDPx 才塞了 34 道前沿芯片设计题——仍处极早期。",
+          "relation_zh": "基准机构亲自接球，把「Claude 会做芯片」落到可量化的任务集上。",
+          "metrics": {
+            "likes": 132,
+            "retweets": 0,
+            "replies": 14,
+            "quotes": 2,
+            "bookmarks": 52,
+            "views": 20346
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1019,
+              "h": 1075,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWPY9JeXcAAIxNd.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/theinformation/status/2117663244890378296?a=EsdbZyrha4JxLxPBk9Y&s=20",
+            "https://x.com/SemiAnalysis_/status/2117774796851224855/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2117663244890378296",
+          "article_title": null,
+          "attached_at": "2026-11-04T02:45:40.838373+00:00"
+        },
+        {
+          "id": "2117718926582808703",
+          "url": "https://x.com/edzitron/status/2117718926582808703",
+          "handle": "edzitron",
+          "display_name": "Ed Zitron",
+          "avatar": "https://pbs.twimg.com/profile_images/2070326703281553408/ILxQjQF7_normal.jpg",
+          "verified": true,
+          "followers": 161122,
+          "created_at": "2026-11-03T20:41:52.000Z",
+          "lang": "en",
+          "text": "key jingling lol https://t.co/zt5yTkYJQh",
+          "text_zh": null,
+          "summary_zh": "Ed Zitron 一句 key jingling lol，嘲讽向 IPO 投资者摇钥匙式的叙事。",
+          "relation_zh": "批评派的最短引用：把芯片故事读成融资营销信号。",
+          "metrics": {
+            "likes": 914,
+            "retweets": 0,
+            "replies": 15,
+            "quotes": 1,
+            "bookmarks": 40,
+            "views": 26172
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/theinformation/status/2117663244890378296"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2117663244890378296",
+          "article_title": null,
+          "attached_at": "2026-11-04T02:45:40.838389+00:00"
+        }
+      ]
     },
     {
       "id": "2117626509095837948",
