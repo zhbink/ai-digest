@@ -1,0 +1,228 @@
+{
+  "data": [
+    {
+      "author_id": "1061440992514060289",
+      "created_at": "2026-11-04T15:39:31.000Z",
+      "edit_history_tweet_ids": [
+        "2118005228544921743"
+      ],
+      "id": "2118005228544921743",
+      "in_reply_to_user_id": "1449572891956166657",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2117980194824966420",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LumaLabsAI @DreamLabLA Plugin ✨",
+      "url": "https://x.com/PulserarteMx/status/2118005228544921743"
+    },
+    {
+      "author_id": "1070347307193896960",
+      "created_at": "2026-11-04T14:58:43.000Z",
+      "edit_history_tweet_ids": [
+        "2117994959064404441"
+      ],
+      "id": "2117994959064404441",
+      "in_reply_to_user_id": "1449572891956166657",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 16,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2117980194824966420",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LumaLabsAI @DreamLabLA Consistency locked in  your character stays YOU!",
+      "url": "https://x.com/VeeraTechinfo/status/2117994959064404441"
+    },
+    {
+      "author_id": "1020809298702684160",
+      "created_at": "2026-11-04T14:29:50.000Z",
+      "edit_history_tweet_ids": [
+        "2117987690817712425"
+      ],
+      "id": "2117987690817712425",
+      "in_reply_to_user_id": "1449572891956166657",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2117980194824966420",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LumaLabsAI @DreamLabLA Hello, Dear. I'm an influencer looking for possible Collaboration,  if any campaign is ongoing, kindly hit me back...\n\nThank you",
+      "url": "https://x.com/Akram_786Ai/status/2117987690817712425"
+    },
+    {
+      "author_id": "390363826",
+      "created_at": "2026-11-04T14:15:52.000Z",
+      "edit_history_tweet_ids": [
+        "2117984176255479898"
+      ],
+      "id": "2117984176255479898",
+      "in_reply_to_user_id": "1449572891956166657",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2117980194824966420",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LumaLabsAI @DreamLabLA Plugin",
+      "url": "https://x.com/CARRANZAGINO/status/2117984176255479898"
+    },
+    {
+      "author_id": "1449572891956166657",
+      "created_at": "2026-11-04T14:00:03.000Z",
+      "edit_history_tweet_ids": [
+        "2117980195449905415"
+      ],
+      "id": "2117980195449905415",
+      "in_reply_to_user_id": "1449572891956166657",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1121,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2117980194824966420",
+          "type": "replied_to"
+        }
+      ],
+      "text": "https://t.co/anAMKhCV2x",
+      "url": "https://x.com/LumaLabsAI/status/2117980195449905415"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1449572891956166657",
+        "created_at": "2026-11-04T14:00:03.000Z",
+        "edit_history_tweet_ids": [
+          "2117980194824966420"
+        ],
+        "id": "2117980194824966420",
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3809,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "text": "Today Julia Harris will share Secret Luma Hacks for you.  \nComment \"Plugin\" to receive 200 prompt uses.\n\n@DreamLabLA https://t.co/tayRmHzpo2"
+      }
+    ],
+    "users": [
+      {
+        "id": "1061440992514060289",
+        "name": "Pulserarte México",
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 37,
+          "like_count": 576,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 199
+        },
+        "username": "PulserarteMx",
+        "verified": false
+      },
+      {
+        "id": "1070347307193896960",
+        "name": "Veera Tech info",
+        "public_metrics": {
+          "followers_count": 275350,
+          "following_count": 630,
+          "like_count": 6425,
+          "listed_count": 28,
+          "media_count": 3483,
+          "tweet_count": 22802
+        },
+        "username": "VeeraTechinfo",
+        "verified": false
+      },
+      {
+        "id": "1020809298702684160",
+        "name": "AKRAM⚡AI",
+        "public_metrics": {
+          "followers_count": 11502,
+          "following_count": 12029,
+          "like_count": 54577,
+          "listed_count": 12,
+          "media_count": 181,
+          "tweet_count": 52846
+        },
+        "username": "Akram_786Ai",
+        "verified": false
+      },
+      {
+        "id": "390363826",
+        "name": "Gino Carranza",
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 923,
+          "like_count": 12373,
+          "listed_count": 8,
+          "media_count": 580,
+          "tweet_count": 6954
+        },
+        "username": "CARRANZAGINO",
+        "verified": false
+      },
+      {
+        "id": "1449572891956166657",
+        "name": "Luma",
+        "public_metrics": {
+          "followers_count": 196160,
+          "following_count": 58,
+          "like_count": 9851,
+          "listed_count": 2228,
+          "media_count": 1408,
+          "tweet_count": 6211
+        },
+        "username": "LumaLabsAI",
+        "verified": true
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2118005228544921743",
+    "next_token": "b26v89c19zqg8o3juzlyioap63z72s0fc3t07677bw48t",
+    "oldest_id": "2117980195449905415",
+    "result_count": 5
+  }
+}

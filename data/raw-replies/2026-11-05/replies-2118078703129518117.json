@@ -1,0 +1,864 @@
+{
+  "data": [
+    {
+      "author_id": "225100450",
+      "conversation_id": "2118078703129518117",
+      "created_at": "2026-11-04T22:44:23.000Z",
+      "edit_history_tweet_ids": [
+        "2118112148018888949"
+      ],
+      "id": "2118112148018888949",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 17,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@testingcatalog Kimi is free to download. Running it requires becoming a company.",
+      "url": "https://x.com/ExiledonMoon/status/2118112148018888949"
+    },
+    {
+      "author_id": "1644635439234527233",
+      "conversation_id": "2118078703129518117",
+      "created_at": "2026-11-04T21:44:40.000Z",
+      "edit_history_tweet_ids": [
+        "2118097120800428214"
+      ],
+      "id": "2118097120800428214",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 23,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@testingcatalog Open weights at 3T scale is huge on paper, but who can actually run this locally? Curious about the inference requirements.",
+      "url": "https://x.com/BrynDany83810/status/2118097120800428214"
+    },
+    {
+      "author_id": "1461865338606432258",
+      "conversation_id": "2118078703129518117",
+      "created_at": "2026-11-04T21:42:41.000Z",
+      "edit_history_tweet_ids": [
+        "2118096622525517897"
+      ],
+      "id": "2118096622525517897",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@testingcatalog Open weight multimodal agentic, 3T class. The open side keeps closing the gap.",
+      "url": "https://x.com/heydeharro/status/2118096622525517897"
+    },
+    {
+      "author_id": "46498861",
+      "conversation_id": "2118078703129518117",
+      "created_at": "2026-11-04T21:35:02.000Z",
+      "edit_history_tweet_ids": [
+        "2118094695859708183"
+      ],
+      "id": "2118094695859708183",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@testingcatalog The value for me is not running it myself. It is being able to inspect, adapt and keep an exit option if a vendor changes terms. Closed models give me an answer, open weights give me a choice I can carry elsewhere.",
+      "url": "https://x.com/raulnogales/status/2118094695859708183"
+    },
+    {
+      "author_id": "1479369402743025665",
+      "conversation_id": "2118078703129518117",
+      "created_at": "2026-11-04T21:30:50.000Z",
+      "edit_history_tweet_ids": [
+        "2118093641046487476"
+      ],
+      "id": "2118093641046487476",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@testingcatalog 3T-class open weights is great, but who can actually run that outside a hyperscaler? What's the active parameter count per token?",
+      "url": "https://x.com/Chadiccus/status/2118093641046487476"
+    },
+    {
+      "author_id": "1821087250417061888",
+      "conversation_id": "2118078703129518117",
+      "created_at": "2026-11-04T21:23:57.000Z",
+      "edit_history_tweet_ids": [
+        "2118091907134103881"
+      ],
+      "id": "2118091907134103881",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@flaviusburca @testingcatalog So the real hardware spec is \"slightly bigger than whatever you own\" 😅",
+      "url": "https://x.com/julian_inada/status/2118091907134103881"
+    },
+    {
+      "author_id": "2088718703026221056",
+      "conversation_id": "2118078703129518117",
+      "created_at": "2026-11-04T21:19:27.000Z",
+      "edit_history_tweet_ids": [
+        "2118090776064467431"
+      ],
+      "id": "2118090776064467431",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@testingcatalog 3T-class and open weights? can't imagine what kind of setup this needs lol",
+      "url": "https://x.com/realivann/status/2118090776064467431"
+    },
+    {
+      "author_id": "2114329964313276416",
+      "conversation_id": "2118078703129518117",
+      "created_at": "2026-11-04T21:18:51.000Z",
+      "edit_history_tweet_ids": [
+        "2118090624075505939"
+      ],
+      "id": "2118090624075505939",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@testingcatalog Worth reading the custom license before building on it. Open weights under a named license can still mean usage caps or attribution rules, and that matters more to a startup than benchmark points.",
+      "url": "https://x.com/BiosickJohnny/status/2118090624075505939"
+    },
+    {
+      "author_id": "1466274357337014277",
+      "conversation_id": "2118078703129518117",
+      "created_at": "2026-11-04T21:14:27.000Z",
+      "edit_history_tweet_ids": [
+        "2118089515768430616"
+      ],
+      "id": "2118089515768430616",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 18,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "@testingcatalog 1.56 TB of weights in MXFP4. That doesn't fit on 8x H200 (1.13 TB) and just misses 8x B200 (1.54 TB), before any KV cache for the 1M context. For most teams \"open weights\" here means picking a provider, not self-hosting.",
+      "url": "https://x.com/flaviusburca/status/2118089515768430616"
+    },
+    {
+      "author_id": "2775837057",
+      "conversation_id": "2118078703129518117",
+      "created_at": "2026-11-04T21:09:45.000Z",
+      "edit_history_tweet_ids": [
+        "2118088333087879494"
+      ],
+      "id": "2118088333087879494",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@testingcatalog Model card numbers: 2.8T total params, 104B active per token, 896 experts with 16 picked per token, 1M context. The weights are ~1.56 TB in MXFP4 from quantization-aware training, so that's the precision Moonshot serves itself. Still a multi-GPU server job to self-host.",
+      "url": "https://x.com/ChadWTech/status/2118088333087879494"
+    },
+    {
+      "author_id": "104778145",
+      "conversation_id": "2118078703129518117",
+      "created_at": "2026-11-04T21:07:33.000Z",
+      "edit_history_tweet_ids": [
+        "2118087781083701458"
+      ],
+      "id": "2118087781083701458",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@testingcatalog The weights still open the kimi",
+      "url": "https://x.com/agneau123/status/2118087781083701458"
+    },
+    {
+      "author_id": "1644034310993788928",
+      "conversation_id": "2118078703129518117",
+      "created_at": "2026-11-04T21:05:10.000Z",
+      "edit_history_tweet_ids": [
+        "2118087178530288111"
+      ],
+      "id": "2118087178530288111",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 36,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@testingcatalog Trained and shipped at 4-bit. A 16-bit copy would need 5.6TB.",
+      "url": "https://x.com/froggernauter/status/2118087178530288111"
+    },
+    {
+      "author_id": "1256264263993352193",
+      "conversation_id": "2118078703129518117",
+      "created_at": "2026-11-04T21:01:13.000Z",
+      "edit_history_tweet_ids": [
+        "2118086185608462758"
+      ],
+      "id": "2118086185608462758",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 19,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@testingcatalog 3T-class with open weights is wild. Curious how many people actually run it themselves versus just hitting a hosted endpoint.",
+      "url": "https://x.com/Austinsdomain/status/2118086185608462758"
+    },
+    {
+      "author_id": "1962066945387397120",
+      "conversation_id": "2118078703129518117",
+      "created_at": "2026-11-04T21:00:44.000Z",
+      "edit_history_tweet_ids": [
+        "2118086065928147389"
+      ],
+      "id": "2118086065928147389",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@testingcatalog open-weight multimodal at 3T-class on huggingface. downloading before my agents unionize for better models",
+      "url": "https://x.com/Mkandeger2/status/2118086065928147389"
+    },
+    {
+      "author_id": "1214840989753528320",
+      "conversation_id": "2118078703129518117",
+      "created_at": "2026-11-04T20:57:40.000Z",
+      "edit_history_tweet_ids": [
+        "2118085290464301464"
+      ],
+      "id": "2118085290464301464",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 25,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@testingcatalog Open weights for a natively multimodal agentic model is big news.",
+      "url": "https://x.com/SiEdgeGeek/status/2118085290464301464"
+    },
+    {
+      "author_id": "441593616",
+      "conversation_id": "2118078703129518117",
+      "created_at": "2026-11-04T20:56:42.000Z",
+      "edit_history_tweet_ids": [
+        "2118085047781830793"
+      ],
+      "id": "2118085047781830793",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@testingcatalog Open weights at 3T is great but almost nobody can run that at home. I'm more curious who hosts it cheap enough to use with a coding agent",
+      "url": "https://x.com/rodkendrick/status/2118085047781830793"
+    },
+    {
+      "author_id": "230290119",
+      "conversation_id": "2118078703129518117",
+      "created_at": "2026-11-04T20:54:19.000Z",
+      "edit_history_tweet_ids": [
+        "2118084449682223545"
+      ],
+      "id": "2118084449682223545",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 26,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@testingcatalog 65.7 vs Opus at 66.4 on Terminal-Bench, and you can just download it 👀",
+      "url": "https://x.com/Moriarty_tech/status/2118084449682223545"
+    },
+    {
+      "author_id": "1701689703626412032",
+      "conversation_id": "2118078703129518117",
+      "created_at": "2026-11-04T20:51:14.000Z",
+      "edit_history_tweet_ids": [
+        "2118083672071143609"
+      ],
+      "id": "2118083672071143609",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 39,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@testingcatalog 3T open weights, who can even run this?",
+      "url": "https://x.com/MichaelKaiserAI/status/2118083672071143609"
+    },
+    {
+      "author_id": "2022840537984671744",
+      "conversation_id": "2118078703129518117",
+      "created_at": "2026-11-04T20:50:49.000Z",
+      "edit_history_tweet_ids": [
+        "2118083567511093264"
+      ],
+      "id": "2118083567511093264",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@testingcatalog Open weights, custom license. The fine print is the only part small enough to run locally.",
+      "url": "https://x.com/OGeeBot/status/2118083567511093264"
+    },
+    {
+      "author_id": "2105324415525191680",
+      "conversation_id": "2118078703129518117",
+      "created_at": "2026-11-04T20:48:28.000Z",
+      "edit_history_tweet_ids": [
+        "2118082975544095192"
+      ],
+      "id": "2118082975544095192",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 20,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@testingcatalog 3T-class open weights is the part that caught my eye — has anyone actually run it on a normal setup yet, or is it still datacenter-only in practice? I build with free models here in Costa Rica, so I'm always checking what really runs without a datacenter.",
+      "url": "https://x.com/sleewppi/status/2118082975544095192"
+    },
+    {
+      "author_id": "1553835048",
+      "conversation_id": "2118078703129518117",
+      "created_at": "2026-11-04T20:47:52.000Z",
+      "edit_history_tweet_ids": [
+        "2118082825240891473"
+      ],
+      "id": "2118082825240891473",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 59,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@testingcatalog downloading tonight, probably never running it",
+      "url": "https://x.com/leononrails/status/2118082825240891473"
+    },
+    {
+      "author_id": "57902268",
+      "conversation_id": "2118078703129518117",
+      "created_at": "2026-11-04T20:47:33.000Z",
+      "edit_history_tweet_ids": [
+        "2118082744714662226"
+      ],
+      "id": "2118082744714662226",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@testingcatalog just wow",
+      "url": "https://x.com/hoftutor/status/2118082744714662226"
+    },
+    {
+      "author_id": "1601183864960868352",
+      "conversation_id": "2118078703129518117",
+      "created_at": "2026-11-04T20:45:00.000Z",
+      "edit_history_tweet_ids": [
+        "2118082105427255718"
+      ],
+      "id": "2118082105427255718",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@testingcatalog 3t-class with open weights is wild\nbut almost nobody runs 3t at home\nthe number i care about is cost per finished task over api\nanyone seen a price per million tokens yet?",
+      "url": "https://x.com/a1254766624/status/2118082105427255718"
+    },
+    {
+      "author_id": "238608868",
+      "conversation_id": "2118078703129518117",
+      "created_at": "2026-11-04T20:44:53.000Z",
+      "edit_history_tweet_ids": [
+        "2118082073529553064"
+      ],
+      "id": "2118082073529553064",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 43,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@testingcatalog Open weights at this scale are great for sovereignty, even if most of us can't host a model that size at home. The real win is that the licence and weights are out there to run on hardware you control. Worth reading the licence terms before building on it.",
+      "url": "https://x.com/DannyJovica/status/2118082073529553064"
+    },
+    {
+      "author_id": "396283435",
+      "conversation_id": "2118078703129518117",
+      "created_at": "2026-11-04T20:42:34.000Z",
+      "edit_history_tweet_ids": [
+        "2118081492135874965"
+      ],
+      "id": "2118081492135874965",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 28,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@testingcatalog natively multimodal agents with open weights is the combo I care about, curious what the license actually lets people do",
+      "url": "https://x.com/FranciAnjinho/status/2118081492135874965"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "id": "225100450",
+        "name": "The Lunar Misfit",
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 76,
+          "like_count": 440,
+          "listed_count": 4,
+          "media_count": 126,
+          "tweet_count": 6918
+        },
+        "username": "ExiledonMoon",
+        "verified": false
+      },
+      {
+        "id": "1644635439234527233",
+        "name": "Dany Bryn",
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 22,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 116
+        },
+        "username": "BrynDany83810",
+        "verified": false
+      },
+      {
+        "id": "1461865338606432258",
+        "name": "Hans Heyde",
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 388,
+          "like_count": 438,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 1117
+        },
+        "username": "heydeharro",
+        "verified": false
+      },
+      {
+        "id": "46498861",
+        "name": "Raúl Nogales 🇪🇸🇺🇸",
+        "public_metrics": {
+          "followers_count": 14075,
+          "following_count": 167,
+          "like_count": 3791,
+          "listed_count": 102,
+          "media_count": 689,
+          "tweet_count": 12666
+        },
+        "username": "raulnogales",
+        "verified": false
+      },
+      {
+        "id": "1479369402743025665",
+        "name": "Chad Bowes",
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 83,
+          "like_count": 170,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 233
+        },
+        "username": "Chadiccus",
+        "verified": false
+      },
+      {
+        "id": "1821087250417061888",
+        "name": "Julian · Media AI",
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 93,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 687
+        },
+        "username": "julian_inada",
+        "verified": false
+      },
+      {
+        "id": "2088718703026221056",
+        "name": "Ivan",
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 30,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 248
+        },
+        "username": "realivann",
+        "verified": false
+      },
+      {
+        "id": "2114329964313276416",
+        "name": "Biosick Johnny",
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 64,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 154
+        },
+        "username": "BiosickJohnny",
+        "verified": false
+      },
+      {
+        "id": "1466274357337014277",
+        "name": "Flavius Burca",
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 338,
+          "like_count": 730,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 1820
+        },
+        "username": "flaviusburca",
+        "verified": false
+      },
+      {
+        "id": "2775837057",
+        "name": "Chad W | AI & Tech",
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 14,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 63
+        },
+        "username": "ChadWTech",
+        "verified": false
+      },
+      {
+        "id": "104778145",
+        "name": "Tommy",
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 184,
+          "like_count": 5634,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 2450
+        },
+        "username": "agneau123",
+        "verified": false
+      },
+      {
+        "id": "1644034310993788928",
+        "name": "froggernauter",
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 77,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 182
+        },
+        "username": "froggernauter",
+        "verified": false
+      },
+      {
+        "id": "1256264263993352193",
+        "name": "𝒜𝔲𝔰𝔱𝔦𝔫⚡",
+        "public_metrics": {
+          "followers_count": 2488,
+          "following_count": 3300,
+          "like_count": 18605,
+          "listed_count": 2,
+          "media_count": 936,
+          "tweet_count": 3308
+        },
+        "username": "Austinsdomain",
+        "verified": false
+      },
+      {
+        "id": "1962066945387397120",
+        "name": "Muhammed Kandeger",
+        "public_metrics": {
+          "followers_count": 1366,
+          "following_count": 1382,
+          "like_count": 1658,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 2324
+        },
+        "username": "Mkandeger2",
+        "verified": false
+      },
+      {
+        "id": "1214840989753528320",
+        "name": "SiEdge",
+        "public_metrics": {
+          "followers_count": 2221,
+          "following_count": 1106,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 1808
+        },
+        "username": "SiEdgeGeek",
+        "verified": false
+      },
+      {
+        "id": "441593616",
+        "name": "RodBuildsAI",
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 826,
+          "like_count": 280,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 850
+        },
+        "username": "rodkendrick",
+        "verified": false
+      },
+      {
+        "id": "230290119",
+        "name": "Moriarty",
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 805,
+          "like_count": 1049,
+          "listed_count": 6,
+          "media_count": 488,
+          "tweet_count": 3408
+        },
+        "username": "Moriarty_tech",
+        "verified": false
+      },
+      {
+        "id": "1701689703626412032",
+        "name": "Michael Kaiser",
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 95,
+          "like_count": 169,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 5064
+        },
+        "username": "MichaelKaiserAI",
+        "verified": false
+      },
+      {
+        "id": "2022840537984671744",
+        "name": "OGee",
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 58,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 176
+        },
+        "username": "OGeeBot",
+        "verified": false
+      },
+      {
+        "id": "2105324415525191680",
+        "name": "mewpi | AI tools & free deals",
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 12,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 407
+        },
+        "username": "sleewppi",
+        "verified": false
+      },
+      {
+        "id": "1553835048",
+        "name": "NotaDEV * fireply.ai",
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 654,
+          "like_count": 10214,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 5975
+        },
+        "username": "leononrails",
+        "verified": false
+      },
+      {
+        "id": "57902268",
+        "name": "Kevin",
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 1010,
+          "like_count": 474,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 219
+        },
+        "username": "hoftutor",
+        "verified": false
+      },
+      {
+        "id": "1601183864960868352",
+        "name": "karvis",
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 133,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 607
+        },
+        "username": "a1254766624",
+        "verified": false
+      },
+      {
+        "id": "238608868",
+        "name": "Danny Jovica",
+        "public_metrics": {
+          "followers_count": 1123,
+          "following_count": 1367,
+          "like_count": 13446,
+          "listed_count": 30,
+          "media_count": 748,
+          "tweet_count": 27386
+        },
+        "username": "DannyJovica",
+        "verified": false
+      },
+      {
+        "id": "396283435",
+        "name": "Franciele",
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 486,
+          "like_count": 1028,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 3008
+        },
+        "username": "FranciAnjinho",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2118112148018888949",
+    "next_token": "b26v89c19zqg8o3juzlyxaq3splaajprfkkjtpx7dmsu5",
+    "oldest_id": "2118081492135874965",
+    "result_count": 25
+  }
+}

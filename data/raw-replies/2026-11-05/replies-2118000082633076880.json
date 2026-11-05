@@ -1,0 +1,287 @@
+{
+  "data": [
+    {
+      "author_id": "2077232859140751360",
+      "created_at": "2026-11-05T01:35:03.000Z",
+      "edit_history_tweet_ids": [
+        "2118155098463584509"
+      ],
+      "id": "2118155098463584509",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118000082633076880",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 调试时的闲聊被一起打包 这个坑确实挺隐蔽啊",
+      "url": "https://x.com/PlatoFighter/status/2118155098463584509"
+    },
+    {
+      "author_id": "4860459923",
+      "created_at": "2026-11-04T21:26:45.000Z",
+      "edit_history_tweet_ids": [
+        "2118092611168993422"
+      ],
+      "id": "2118092611168993422",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118000082633076880",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes oh that explains so much about those weird template errors i kept getting",
+      "url": "https://x.com/leolostagain/status/2118092611168993422"
+    },
+    {
+      "author_id": "1510028300",
+      "created_at": "2026-11-04T17:38:55.000Z",
+      "edit_history_tweet_ids": [
+        "2118035276245463103"
+      ],
+      "id": "2118035276245463103",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 17,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118000082633076880",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 导出前得先把测试记忆清干净，这步确实容易被忽略，我之前就直接打包发过。",
+      "url": "https://x.com/rainwaterJay/status/2118035276245463103"
+    },
+    {
+      "author_id": "2514765517",
+      "created_at": "2026-11-04T16:31:25.000Z",
+      "edit_history_tweet_ids": [
+        "2118018287506428111"
+      ],
+      "id": "2118018287506428111",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 21,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118000082633076880",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 脱水这步有没有现成清单？总不能每次发布前都靠肉眼翻一遍记忆吧。",
+      "url": "https://x.com/Trust_Wang/status/2118018287506428111"
+    },
+    {
+      "author_id": "1938102089198313472",
+      "created_at": "2026-11-04T16:06:32.000Z",
+      "edit_history_tweet_ids": [
+        "2118012027260035499"
+      ],
+      "id": "2118012027260035499",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 19,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118000082633076880",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 模板走偏这个根因找得很准：问题不在提示词写得不够好，而是调试期的临时记忆被当成正式配置一起打包出去了。记忆本该是可审计、可清理的一层，导出前不做脱水，等于把草稿状态发给了所有人。以后做 Bot 模板，第一步应该是先清记忆再发布，而不是先调参数。",
+      "url": "https://x.com/HSkyer99871/status/2118012027260035499"
+    },
+    {
+      "author_id": "2114733813662142464",
+      "created_at": "2026-11-04T15:46:17.000Z",
+      "edit_history_tweet_ids": [
+        "2118006930564350178"
+      ],
+      "id": "2118006930564350178",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 19,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118000082633076880",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 导出前不清测试记忆等于给别人打包一份踩坑指南 这锅结结实实",
+      "url": "https://x.com/maiai_fun/status/2118006930564350178"
+    },
+    {
+      "author_id": "708091872019779584",
+      "created_at": "2026-11-04T15:39:00.000Z",
+      "edit_history_tweet_ids": [
+        "2118005099406709149"
+      ],
+      "id": "2118005099406709149",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 31,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118000082633076880",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes Grok 的 Bot 记忆能在导出前单独看、单独删吗？如果只能整个清空，那调试时干脆另开一个测试 Bot，发布用的那个保持干净。",
+      "url": "https://x.com/viest_w/status/2118005099406709149"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "id": "2077232859140751360",
+        "name": "琴.剑.酒 | Qin",
+        "public_metrics": {
+          "followers_count": 1666,
+          "following_count": 1755,
+          "like_count": 417,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 2248
+        },
+        "username": "PlatoFighter",
+        "verified": false
+      },
+      {
+        "id": "4860459923",
+        "name": "Leo",
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 828,
+          "like_count": 2524,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 400
+        },
+        "username": "leolostagain",
+        "verified": false
+      },
+      {
+        "id": "1510028300",
+        "name": "星海拾珠",
+        "public_metrics": {
+          "followers_count": 4108,
+          "following_count": 3763,
+          "like_count": 18733,
+          "listed_count": 1,
+          "media_count": 292,
+          "tweet_count": 13925
+        },
+        "username": "rainwaterJay",
+        "verified": false
+      },
+      {
+        "id": "2514765517",
+        "name": "老王｜AI·Crypto",
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 500,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 335
+        },
+        "username": "Trust_Wang",
+        "verified": false
+      },
+      {
+        "id": "1938102089198313472",
+        "name": "赛博隐者",
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 125,
+          "like_count": 1049,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 1640
+        },
+        "username": "HSkyer99871",
+        "verified": false
+      },
+      {
+        "id": "2114733813662142464",
+        "name": "格 Boss",
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 100,
+          "like_count": 7,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 1318
+        },
+        "username": "maiai_fun",
+        "verified": false
+      },
+      {
+        "id": "708091872019779584",
+        "name": "viest",
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 554,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 254
+        },
+        "username": "viest_w",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2118155098463584509",
+    "next_token": "b26v89c19zqg8o3juzlyxanpnc894zl4xm7pqidod7iwt",
+    "oldest_id": "2118005099406709149",
+    "result_count": 7
+  }
+}

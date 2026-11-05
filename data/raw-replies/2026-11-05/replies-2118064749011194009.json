@@ -1,0 +1,975 @@
+{
+  "data": [
+    {
+      "author_id": "1638784863913545728",
+      "created_at": "2026-11-05T01:54:19.000Z",
+      "edit_history_tweet_ids": [
+        "2118159947821383742"
+      ],
+      "id": "2118159947821383742",
+      "in_reply_to_user_id": "3178231",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 17,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118064749011194009",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 这五个国家正常裁员都很贵，给 12 个月工资让人自己走，算下来可能还更省",
+      "url": "https://x.com/qimuai/status/2118159947821383742"
+    },
+    {
+      "author_id": "1855108185184403457",
+      "created_at": "2026-11-05T01:51:43.000Z",
+      "edit_history_tweet_ids": [
+        "2118159292834685302"
+      ],
+      "id": "2118159292834685302",
+      "in_reply_to_user_id": "3178231",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 15,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118064749011194009",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 加拿大也在名单里 DeepMind 倒是排除在外",
+      "url": "https://x.com/KaChengCA/status/2118159292834685302"
+    },
+    {
+      "author_id": "2053775399369490432",
+      "created_at": "2026-11-05T01:46:35.000Z",
+      "edit_history_tweet_ids": [
+        "2118157999382364507"
+      ],
+      "id": "2118157999382364507",
+      "in_reply_to_user_id": "3178231",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118064749011194009",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 最高给 12 个月还挺大方的，不知道有多少人会拿钱走人",
+      "url": "https://x.com/JiaoWoDaDiao69/status/2118157999382364507"
+    },
+    {
+      "author_id": "2095161146504515584",
+      "created_at": "2026-11-05T01:46:14.000Z",
+      "edit_history_tweet_ids": [
+        "2118157914405994868"
+      ],
+      "id": "2118157914405994868",
+      "in_reply_to_user_id": "3178231",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118064749011194009",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 一边招AI一边裁人 真现实😅",
+      "url": "https://x.com/maytmku/status/2118157914405994868"
+    },
+    {
+      "author_id": "2008900298085900288",
+      "created_at": "2026-11-05T01:43:47.000Z",
+      "edit_history_tweet_ids": [
+        "2118157296169898010"
+      ],
+      "id": "2118157296169898010",
+      "in_reply_to_user_id": "3178231",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118064749011194009",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 满 15 年和满 12 年同样封顶 12 个月，从数学上看工龄到第 13 年起边际遣散收益直接归零。用这种分段函数设计补偿方案，算下来既能劝老员工趁早做决定，又能把预算和编制优先留给被豁免的 DeepMind 和 Cloud。",
+      "url": "https://x.com/Neo19990331/status/2118157296169898010"
+    },
+    {
+      "author_id": "4773557952",
+      "created_at": "2026-11-05T01:43:06.000Z",
+      "edit_history_tweet_ids": [
+        "2118157125969150414"
+      ],
+      "id": "2118157125969150414",
+      "in_reply_to_user_id": "3178231",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 31,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118064749011194009",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 最多 12 个月工资，确实很难不让老员工认真算一遍账……尤其后面还可能继续裁员。",
+      "url": "https://x.com/parkmanpcl/status/2118157125969150414"
+    },
+    {
+      "author_id": "1766100144209223680",
+      "created_at": "2026-11-05T01:42:19.000Z",
+      "edit_history_tweet_ids": [
+        "2118156926987243700"
+      ],
+      "id": "2118156926987243700",
+      "in_reply_to_user_id": "3178231",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118064749011194009",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey DeepMind 被排除在外是最关键的信号：不是整体降本，而是把人力预算从非 AI 业务挪向 AI 研发。自愿离职加 12 个月补偿，比直接裁员在欧洲和日本法律成本低得多。大厂的人员结构正在被 AI 资本开支重新定价。",
+      "url": "https://x.com/mjnlng277407/status/2118156926987243700"
+    },
+    {
+      "author_id": "132943695",
+      "created_at": "2026-11-05T01:08:16.000Z",
+      "edit_history_tweet_ids": [
+        "2118148358359621959"
+      ],
+      "id": "2118148358359621959",
+      "in_reply_to_user_id": "3178231",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 41,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118064749011194009",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 感觉开始扩大了",
+      "url": "https://x.com/zjjsas007/status/2118148358359621959"
+    },
+    {
+      "author_id": "2112787720405995520",
+      "created_at": "2026-11-05T01:05:00.000Z",
+      "edit_history_tweet_ids": [
+        "2118147535525331410"
+      ],
+      "id": "2118147535525331410",
+      "in_reply_to_user_id": "3178231",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 40,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118064749011194009",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey DeepMind被单独排除在外，信号已经很明显了：钱要往AI那边挪。问题是主动走的往往是最容易找到下家的人，Google不怕走错人吗？",
+      "url": "https://x.com/UKingXx/status/2118147535525331410"
+    },
+    {
+      "author_id": "2007976461031096320",
+      "created_at": "2026-11-05T01:02:43.000Z",
+      "edit_history_tweet_ids": [
+        "2118146960771498439"
+      ],
+      "id": "2118146960771498439",
+      "in_reply_to_user_id": "3178231",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 138,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118064749011194009",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 算一下那个 50 人团队：4 人接受就是 8%。公司不用点名，也不用背裁员的名声，就少了 8% 的人。不过这只是一个人说的一个团队，路透社也没查到总共多少人走",
+      "url": "https://x.com/zhuhaotian512/status/2118146960771498439"
+    },
+    {
+      "author_id": "1543864209322156032",
+      "created_at": "2026-11-05T00:52:29.000Z",
+      "edit_history_tweet_ids": [
+        "2118144386446016948"
+      ],
+      "id": "2118144386446016948",
+      "in_reply_to_user_id": "3178231",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 83,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118064749011194009",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 那肯定是厉害的走菜的留下…",
+      "url": "https://x.com/sun_hanchi/status/2118144386446016948"
+    },
+    {
+      "author_id": "2387465491",
+      "created_at": "2026-11-05T00:39:01.000Z",
+      "edit_history_tweet_ids": [
+        "2118140997926375641"
+      ],
+      "id": "2118140997926375641",
+      "in_reply_to_user_id": "3178231",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 36,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118064749011194009",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 出钱请人走还特意留着DeepMind，AI烧钱的账最后还是非AI部门在还",
+      "url": "https://x.com/0xm0reyu/status/2118140997926375641"
+    },
+    {
+      "author_id": "1415937434",
+      "created_at": "2026-11-05T00:34:34.000Z",
+      "edit_history_tweet_ids": [
+        "2118139878483611840"
+      ],
+      "id": "2118139878483611840",
+      "in_reply_to_user_id": "3178231",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118064749011194009",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey @Zen_with_AI thoughts ？",
+      "url": "https://x.com/LFrefman/status/2118139878483611840"
+    },
+    {
+      "author_id": "843852184403898368",
+      "created_at": "2026-11-05T00:21:34.000Z",
+      "edit_history_tweet_ids": [
+        "2118136604044996976"
+      ],
+      "id": "2118136604044996976",
+      "in_reply_to_user_id": "3178231",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 275,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118064749011194009",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 补偿给到12个月工资，比不少公司裁员的N+1体面，但自愿离职本质还是缩编的软着陆 😅",
+      "url": "https://x.com/RwatitFahsa/status/2118136604044996976"
+    },
+    {
+      "author_id": "1717809218731065344",
+      "created_at": "2026-11-05T00:19:46.000Z",
+      "edit_history_tweet_ids": [
+        "2118136153366769983"
+      ],
+      "id": "2118136153366769983",
+      "in_reply_to_user_id": "3178231",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118064749011194009",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 玛德，DeepMind 不在名单里这点最说明问题：搞 AI 的留下，其他岗位花钱请走。最多12个月工资听着香，信号有点凉",
+      "url": "https://x.com/libo_ai/status/2118136153366769983"
+    },
+    {
+      "author_id": "1726222913509134336",
+      "created_at": "2026-11-05T00:08:21.000Z",
+      "edit_history_tweet_ids": [
+        "2118133279547158936"
+      ],
+      "id": "2118133279547158936",
+      "in_reply_to_user_id": "3178231",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 81,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118064749011194009",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 拿12个月工资走人，算体面分手了",
+      "url": "https://x.com/Ethan__Fang/status/2118133279547158936"
+    },
+    {
+      "author_id": "1336896006",
+      "created_at": "2026-11-05T00:03:49.000Z",
+      "edit_history_tweet_ids": [
+        "2118132140479270997"
+      ],
+      "id": "2118132140479270997",
+      "in_reply_to_user_id": "3178231",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 102,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118064749011194009",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 大厂这几年都在优化组织架构降低固定成本。DeepMind留着是因为AI是核心进攻业务，其他成熟业务线通过这种方式置换现金流，比直接裁员的合规成本和舆论压力小得多。",
+      "url": "https://x.com/BruceJia1/status/2118132140479270997"
+    },
+    {
+      "author_id": "2116981600537985025",
+      "created_at": "2026-11-04T23:31:22.000Z",
+      "edit_history_tweet_ids": [
+        "2118123972793671776"
+      ],
+      "id": "2118123972793671776",
+      "in_reply_to_user_id": "17214007",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 24,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118103173542060408",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@nbysy @dotey N+1还给12个月..那我也想被劝退一次",
+      "url": "https://x.com/Bunniiai/status/2118123972793671776"
+    },
+    {
+      "author_id": "1953973267490123776",
+      "created_at": "2026-11-04T22:53:28.000Z",
+      "edit_history_tweet_ids": [
+        "2118114435835535395"
+      ],
+      "id": "2118114435835535395",
+      "in_reply_to_user_id": "3178231",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 210,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118064749011194009",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 中国大厂学习学习",
+      "url": "https://x.com/CarbonInterner/status/2118114435835535395"
+    },
+    {
+      "author_id": "167216032",
+      "created_at": "2026-11-04T22:14:21.000Z",
+      "edit_history_tweet_ids": [
+        "2118104589803389282"
+      ],
+      "id": "2118104589803389282",
+      "in_reply_to_user_id": "3178231",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 365,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118064749011194009",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 先微软后谷歌 哎",
+      "url": "https://x.com/asuan_ai/status/2118104589803389282"
+    },
+    {
+      "author_id": "17214007",
+      "created_at": "2026-11-04T22:08:43.000Z",
+      "edit_history_tweet_ids": [
+        "2118103173542060408"
+      ],
+      "id": "2118103173542060408",
+      "in_reply_to_user_id": "2116981600537985025",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 34,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118089367734690263",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Bunniiai @dotey 就N+1啊",
+      "url": "https://x.com/nbysy/status/2118103173542060408"
+    },
+    {
+      "author_id": "1475680453549981702",
+      "created_at": "2026-11-04T21:59:52.000Z",
+      "edit_history_tweet_ids": [
+        "2118100945255223647"
+      ],
+      "id": "2118100945255223647",
+      "in_reply_to_user_id": "3178231",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118064749011194009",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 说是自愿，可自愿完照样裁，那留下来反而更赌，走还是留都不踏实。",
+      "url": "https://x.com/SteadyOperator/status/2118100945255223647"
+    },
+    {
+      "author_id": "2095438855340171264",
+      "created_at": "2026-11-04T21:23:59.000Z",
+      "edit_history_tweet_ids": [
+        "2118091913492664524"
+      ],
+      "id": "2118091913492664524",
+      "in_reply_to_user_id": "3178231",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118064749011194009",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 您好！非常希望邀请您开展 X 付费合作。有兴趣希望您能私信我，期待您的回复，谢谢！",
+      "url": "https://x.com/GCSASecVibe/status/2118091913492664524"
+    },
+    {
+      "author_id": "2116981600537985025",
+      "created_at": "2026-11-04T21:13:52.000Z",
+      "edit_history_tweet_ids": [
+        "2118089367734690263"
+      ],
+      "id": "2118089367734690263",
+      "in_reply_to_user_id": "3178231",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 649,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118064749011194009",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 给12个月工资..这是在劝退还是在送年假",
+      "url": "https://x.com/Bunniiai/status/2118089367734690263"
+    },
+    {
+      "author_id": "1637338068662329346",
+      "created_at": "2026-11-04T21:04:06.000Z",
+      "edit_history_tweet_ids": [
+        "2118086910249693270"
+      ],
+      "id": "2118086910249693270",
+      "in_reply_to_user_id": "3178231",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 227,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118064749011194009",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey DeepMind 和 Cloud 被排除在名单外这个细节最有意思，CFO 财报会上都明说了 AI 和云计算是招聘重点，相当于一边给非核心业务优雅减员，一边给 AI 部门继续加码。12 个月封顶的补偿包，算下来 Google 这波人力置换的成本其实挺划算？",
+      "url": "https://x.com/zhishen63629282/status/2118086910249693270"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "id": "1638784863913545728",
+        "name": "齐木(qimuai)",
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 438,
+          "like_count": 4177,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 2351
+        },
+        "username": "qimuai",
+        "verified": false
+      },
+      {
+        "id": "1855108185184403457",
+        "name": "卡城网 KaCheng",
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 74,
+          "like_count": 1722,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 139
+        },
+        "username": "KaChengCA",
+        "verified": false
+      },
+      {
+        "id": "2053775399369490432",
+        "name": "Benxiang 本象",
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 22,
+          "like_count": 367,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 36
+        },
+        "username": "JiaoWoDaDiao69",
+        "verified": false
+      },
+      {
+        "id": "2095161146504515584",
+        "name": "KKKKeF（诚信互关）",
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 745,
+          "like_count": 347,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 829
+        },
+        "username": "maytmku",
+        "verified": false
+      },
+      {
+        "id": "2008900298085900288",
+        "name": "Neo",
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 73,
+          "like_count": 2,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 304
+        },
+        "username": "Neo19990331",
+        "verified": false
+      },
+      {
+        "id": "4773557952",
+        "name": "无事乱翻书",
+        "public_metrics": {
+          "followers_count": 4115,
+          "following_count": 6813,
+          "like_count": 959,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 744
+        },
+        "username": "parkmanpcl",
+        "verified": false
+      },
+      {
+        "id": "1766100144209223680",
+        "name": "马金龙",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "username": "mjnlng277407",
+        "verified": false
+      },
+      {
+        "id": "132943695",
+        "name": "不是NEO",
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 4113,
+          "like_count": 41041,
+          "listed_count": 9,
+          "media_count": 240,
+          "tweet_count": 6634
+        },
+        "username": "zjjsas007",
+        "verified": false
+      },
+      {
+        "id": "2112787720405995520",
+        "name": "江湖霸主",
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 491,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 1543
+        },
+        "username": "UKingXx",
+        "verified": false
+      },
+      {
+        "id": "2007976461031096320",
+        "name": "DeepInTheNight",
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 534,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 692
+        },
+        "username": "zhuhaotian512",
+        "verified": false
+      },
+      {
+        "id": "1543864209322156032",
+        "name": "Hanchi Sun",
+        "public_metrics": {
+          "followers_count": 1775,
+          "following_count": 676,
+          "like_count": 46679,
+          "listed_count": 17,
+          "media_count": 111,
+          "tweet_count": 5513
+        },
+        "username": "sun_hanchi",
+        "verified": false
+      },
+      {
+        "id": "2387465491",
+        "name": "怀瓦特秋(互关版)",
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 398,
+          "like_count": 159,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 1555
+        },
+        "username": "0xm0reyu",
+        "verified": false
+      },
+      {
+        "id": "1415937434",
+        "name": "Git_Shark",
+        "public_metrics": {
+          "followers_count": 1565,
+          "following_count": 3453,
+          "like_count": 1623,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 5172
+        },
+        "username": "LFrefman",
+        "verified": false
+      },
+      {
+        "id": "843852184403898368",
+        "name": "RwatitFahsa",
+        "public_metrics": {
+          "followers_count": 6068,
+          "following_count": 7468,
+          "like_count": 4514,
+          "listed_count": 2,
+          "media_count": 294,
+          "tweet_count": 7567
+        },
+        "username": "RwatitFahsa",
+        "verified": false
+      },
+      {
+        "id": "1717809218731065344",
+        "name": "AI速递 | 李博",
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 240,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 275
+        },
+        "username": "libo_ai",
+        "verified": false
+      },
+      {
+        "id": "1726222913509134336",
+        "name": "EthanFang",
+        "public_metrics": {
+          "followers_count": 2847,
+          "following_count": 2755,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 235,
+          "tweet_count": 9511
+        },
+        "username": "Ethan__Fang",
+        "verified": false
+      },
+      {
+        "id": "1336896006",
+        "name": "阿强",
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 875,
+          "like_count": 122,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 7056
+        },
+        "username": "BruceJia1",
+        "verified": false
+      },
+      {
+        "id": "2116981600537985025",
+        "name": "Bunni",
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 35,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 141
+        },
+        "username": "Bunniiai",
+        "verified": false
+      },
+      {
+        "id": "1953973267490123776",
+        "name": "碳基临时工 | Carbon Intern",
+        "public_metrics": {
+          "followers_count": 1606,
+          "following_count": 1287,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1439
+        },
+        "username": "CarbonInterner",
+        "verified": false
+      },
+      {
+        "id": "167216032",
+        "name": "阿算 | AI",
+        "public_metrics": {
+          "followers_count": 2194,
+          "following_count": 1953,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1726
+        },
+        "username": "asuan_ai",
+        "verified": false
+      },
+      {
+        "id": "17214007",
+        "name": "nbysy",
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 689,
+          "like_count": 2677,
+          "listed_count": 4,
+          "media_count": 20,
+          "tweet_count": 10232
+        },
+        "username": "nbysy",
+        "verified": false
+      },
+      {
+        "id": "1475680453549981702",
+        "name": "Steady Operator",
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 114,
+          "like_count": 356,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1318
+        },
+        "username": "SteadyOperator",
+        "verified": false
+      },
+      {
+        "id": "2095438855340171264",
+        "name": "GCSA-TH",
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 48,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 127
+        },
+        "username": "GCSASecVibe",
+        "verified": false
+      },
+      {
+        "id": "1637338068662329346",
+        "name": "Theo",
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 42,
+          "like_count": 891,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 463
+        },
+        "username": "zhishen63629282",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2118159947821383742",
+    "next_token": "b26v89c19zqg8o3juzlyxaq40brigacphyrcyqoinfrst",
+    "oldest_id": "2118086910249693270",
+    "result_count": 25
+  }
+}
