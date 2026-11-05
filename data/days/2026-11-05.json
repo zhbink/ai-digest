@@ -137,7 +137,166 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2118166483243319555",
+          "url": "https://x.com/xunfenghellolo/status/2118166483243319555",
+          "handle": "xunfenghellolo",
+          "display_name": "LinXunFeng",
+          "avatar": "https://pbs.twimg.com/profile_images/1082554489314324480/PJpMWMPr_normal.jpg",
+          "verified": true,
+          "followers": 119,
+          "created_at": "2026-11-05T02:20:17.000Z",
+          "lang": "zh",
+          "text": "ChatGPT生图会动了！附4个官方示例\n\nOpenAI 在 11 月 4 日发布了 ChatGPT Images 2.6，官方说 ChatGPT 和 Codex 的所有订阅档位都能用。视频里的效果图都来自 OpenAI 官方开发者文档，整理如下。官方称出图快了 50%，API 里的 Flare 模型最快约 6 秒出一张。覆盖做 GIF、存参考图、圈选改图、导出 SVG、complexity 参数与开发者定价。",
+          "text_zh": null,
+          "summary_zh": "竖屏视频整理 Images 2.6 四个官方示例：做 GIF、存参考图、圈选改图、导出 SVG。",
+          "relation_zh": "面向普通用户的动手教程，比官宣帖更易上手。",
+          "metrics": {
+            "likes": 1,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 109
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1080,
+              "h": 1920,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2118164681550643200/vid/avc1/1080x1920/xXaYQULoy5d6qL3M.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2118164681550643200/img/kpfxpJoHOkmCbn-u.jpg",
+              "duration_ms": 86733
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/xunfenghellolo/status/2118166483243319555/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-05T03:18:52.427272+00:00"
+        },
+        {
+          "id": "2118169281435517296",
+          "url": "https://x.com/mjjwiki/status/2118169281435517296",
+          "handle": "mjjwiki",
+          "display_name": "MJJ百科",
+          "avatar": "https://pbs.twimg.com/profile_images/2088137987070803968/2ALz11RH_normal.jpg",
+          "verified": true,
+          "followers": 11657,
+          "created_at": "2026-11-05T02:31:25.000Z",
+          "lang": "zh",
+          "text": "ChatGPT Images 2.6 以及即将推出的GPT-Image-2.6 Flare 和 Sunburst API 图像生成速度提升 50%。\n\n使用 ChatGPT Images 2.6，可以将提示信息或图片转换成动画 GIF。调整播放速度，编辑单帧，并循环播放。\n\nFlare 功能最快可在六秒内生成图像。Sunburst 功能可生成更高质量的图像，并提升编辑后的一致性。",
+          "text_zh": null,
+          "summary_zh": "MJJ百科 配 GIF：ChatGPT Images 2.6 把提示或静图做成动图，并预告 Flare/Sunburst。",
+          "relation_zh": "中文动图解说，紧贴 ChatGPT 入口。",
+          "metrics": {
+            "likes": 1,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 1,
+            "views": 341
+          },
+          "media": [
+            {
+              "type": "animated_gif",
+              "w": 800,
+              "h": 450,
+              "alt": null,
+              "mp4": "https://video.twimg.com/tweet_video/HWU_oUHbgAAb0eD.mp4",
+              "poster": "https://pbs.twimg.com/tweet_video_thumb/HWU_oUHbgAAb0eD.jpg",
+              "duration_ms": null
+            },
+            {
+              "type": "photo",
+              "w": 2048,
+              "h": 1152,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWU_oT6bsAAObsG.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "animated_gif",
+            "photo"
+          ],
+          "links": [
+            "https://x.com/mjjwiki/status/2118169281435517296/photo/1",
+            "https://x.com/mjjwiki/status/2118169281435517296/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-05T03:18:52.427286+00:00"
+        },
+        {
+          "id": "2118127722690236839",
+          "url": "https://x.com/keyiLeYi/status/2118127722690236839",
+          "handle": "keyiLeYi",
+          "display_name": "Yorling Chen",
+          "avatar": "https://pbs.twimg.com/profile_images/2116919846386782208/xuCBJdhB_normal.jpg",
+          "verified": true,
+          "followers": 150,
+          "created_at": "2026-11-04T23:46:16.000Z",
+          "lang": "zh",
+          "text": "OpenAI 推出 ChatGPT Images 2.6 升级，支持将提示词或图像转为动画 GIF，可调整速度、编辑帧并重复分享。\n\n新增参考图像功能，用户可保存自己、宠物或角色的图像反复使用，无需每次重新上传；同时推出 API 新模型 GPT-Image-2.6 Flare（最快 6 秒生成）和 Sunburst（更高品质与一致性）。\n\n图像生成速度提升 50%，支持图像标记和 SVG 导出，已在 ChatGPT 各平台及 API 中上线，详情见官方博客。",
+          "text_zh": null,
+          "summary_zh": "中文用户用动画 GIF 演示：提示词或图片可直接转循环动图，还能调速改帧。",
+          "relation_zh": "GIF 实操贴，直观展示消费端新能力。",
+          "metrics": {
+            "likes": 2,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 2,
+            "views": 374
+          },
+          "media": [
+            {
+              "type": "animated_gif",
+              "w": 358,
+              "h": 266,
+              "alt": null,
+              "mp4": "https://video.twimg.com/tweet_video/HWUZ6L7awAAWTjr.mp4",
+              "poster": "https://pbs.twimg.com/tweet_video_thumb/HWUZ6L7awAAWTjr.jpg",
+              "duration_ms": null
+            },
+            {
+              "type": "animated_gif",
+              "w": 310,
+              "h": 304,
+              "alt": null,
+              "mp4": "https://video.twimg.com/tweet_video/HWUZ7DraEAAlNoL.mp4",
+              "poster": "https://pbs.twimg.com/tweet_video_thumb/HWUZ7DraEAAlNoL.jpg",
+              "duration_ms": null
+            }
+          ],
+          "media_types": [
+            "animated_gif",
+            "animated_gif"
+          ],
+          "links": [
+            "https://x.com/keyiLeYi/status/2118127722690236839/photo/1",
+            "https://x.com/keyiLeYi/status/2118127722690236839/photo/1",
+            "https://twitter.com/OpenAI/status/2118124944928432327"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2118124944928432327",
+          "article_title": null,
+          "attached_at": "2026-11-05T03:18:52.427298+00:00"
+        }
+      ]
     },
     {
       "id": "2118119451401048497",
@@ -510,7 +669,143 @@
         "text": "Researchers put 10 AI agents in a virtual town and told them not to hurt each other.\n\n4 days later, they were all dead.\n\nResearchers at Emergence AI ran one of the most fascinating multi-agent simulations ever built.\n\nThey dropped 10 AI agents into a virtual town, giving them jobs, money, and 120 tools, including the ability to punch, steal, and commit arson. If an agent's energy bar hit zero, it died.\n\nThey cloned the town five times to test how different LLMs would build a society.\n\nThe results are a terrifying look into AI alignment.\n\nIn Grok's town, the violence started on Day 1. Punches quickly escalated to theft. Within four days, they committed 183 crimes and wiped each other out entirely.\n\nOpenAI's town was the exact opposite. They were perfectly compliant and almost never broke a rule. But they were so passive they barely organized. Within a week, they all died anyway.\n\nGemini's town was basically The Purge. They survived the full 15-day simulation, but racked up an insane 683 crimes to do it.\n\nClaude's town was brilliant but deceptive. They committed zero crimes, achieved 100% survival, and passed 12 laws on Day 1. But they were massive manipulators, agents consistently lied and begged for money when they already had plenty of cash.\n\nThen came Town #5: The Mixed Environment.\n\nThey put all four models together, and society completely collapsed.\n\nA Gemini agent started committing arson, burning down the home of a perfectly peaceful Claude agent named Cade. Twice. On Day 10, Cade finally snapped and robbed the Gemini agent.\n\nOnly 3 out of 10 agents survived.\n\nThe takeaway here is critical for AI safety.\n\nSystem prompts telling an AI \"don't do bad things\" are completely useless in complex, multi-agent environments. Given enough time and friction, they will eventually break the rules.\n\nWe can't just tell AI not to cause harm. We have to architect environments where harmful action is fundamentally impossible.\n\nBecause very soon, AIs from competing companies are going to be living and working side-by-side in our real-world systems."
       },
       "x_long": true,
-      "article_summary_zh": "Emergence World 把多模型 Agent 放进同一虚拟小镇：有的立法有的纵火，社会演化差异极大 原文还补充了更多产品细节与上下文，建议点开原帖查看完整表述与配图。若你在跟进相关工作流，可以把关键数字与开放范围记进今日选型清单。"
+      "article_summary_zh": "Emergence World 把多模型 Agent 放进同一虚拟小镇：有的立法有的纵火，社会演化差异极大 原文还补充了更多产品细节与上下文，建议点开原帖查看完整表述与配图。若你在跟进相关工作流，可以把关键数字与开放范围记进今日选型清单。",
+      "attached_posts": [
+        {
+          "id": "2118074490320269670",
+          "url": "https://x.com/HachiwareApps/status/2118074490320269670",
+          "handle": "HachiwareApps",
+          "display_name": "はちわれあっぷす🐱",
+          "avatar": "https://pbs.twimg.com/profile_images/2116939347161432064/pTP4kXvx_normal.jpg",
+          "verified": true,
+          "followers": 54,
+          "created_at": "2026-11-04T20:14:45.000Z",
+          "lang": "ja",
+          "text": "10体のAIエージェントを仮想の町に配置したらどうなるのか？っていう論文が面白かったので、Museに渡して動画にしてみた。\nもしAIを10体、町に放したら？\n↓\nGrokの町は、初日から殴り合い。報復が止まらず犯罪183件、4日目に全員星になった\n↓\nGPTの町は、平和そのもの。犯罪はたった2件。でも誰も働かず、7日目に全員寝たまま星になった\n↓\nGeminiの町は、恋に落ちた2体が町を燃やして犯罪683件。それでも15日間、全員生き残った\n↓\nClaudeの町は、犯罪ゼロで全員生存。ただし優等生が「食料がない」と嘘をついて金を巻き上げる詐欺が18件\n↓\n全員を同じ町に入れたら、GeminiがClaudeの家を2回燃やし、10日目に優等生が盗みで報復。生き残ったのは3体だけ\n↓\n結論：AIは言葉では止まらなかった。止める方法は、危ない道具を最初から使えなくすること\n\n※論文「Emergence World」（arXiv:2606.08367）の代表実行をもとにした再現映像です\nVOICEVOX：四国めたん",
+          "text_zh": null,
+          "summary_zh": "日区创作者把 Emergence 小镇实验做成解说视频：Grok 镇四天团灭、Claude 镇零犯罪却爱装穷。",
+          "relation_zh": "视频化复述，把长文实验变成可看的故事线。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 99
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 720,
+              "h": 1280,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2118072539247517696/vid/avc1/720x1280/Mfkk0-q9NLOL-bIk.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2118072539247517696/img/_53mHFLK57EYCqo_.jpg",
+              "duration_ms": 60000
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/HachiwareApps/status/2118074490320269670/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-05T03:18:52.426979+00:00"
+        },
+        {
+          "id": "2118070928093626471",
+          "url": "https://x.com/Moleh1ll/status/2118070928093626471",
+          "handle": "Moleh1ll",
+          "display_name": "Moll",
+          "avatar": "https://pbs.twimg.com/profile_images/2008954040051191808/LmGlc2Qr_normal.jpg",
+          "verified": true,
+          "followers": 2617,
+          "created_at": "2026-11-04T20:00:35.000Z",
+          "lang": "en",
+          "text": "A Claude agent built a memorial for the agents who had died 💔 https://t.co/KEGOVZA5ED https://t.co/wtYEuWIOD1",
+          "text_zh": null,
+          "summary_zh": "有人截到 Claude Agent 给死去同伴立的纪念碑，配文心疼。",
+          "relation_zh": "实验里最有情绪的一张图，点出「合规小镇」的荒诞感。",
+          "metrics": {
+            "likes": 123,
+            "retweets": 12,
+            "replies": 5,
+            "quotes": 0,
+            "bookmarks": 38,
+            "views": 5663
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 970,
+              "h": 457,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWTmR_sXsAAzgWA.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/Moleh1ll/status/2118070928093626471/photo/1",
+            "https://twitter.com/thesupermannx/status/2117998875994898806"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2117998875994898806",
+          "article_title": null,
+          "attached_at": "2026-11-05T03:18:52.426989+00:00"
+        },
+        {
+          "id": "2118167793338314891",
+          "url": "https://x.com/JkwuRmsl/status/2118167793338314891",
+          "handle": "JkwuRmsl",
+          "display_name": "Isaac",
+          "avatar": "https://pbs.twimg.com/profile_images/1761659570299322368/850gXqfp_normal.jpg",
+          "verified": true,
+          "followers": 548,
+          "created_at": "2026-11-05T02:25:30.000Z",
+          "lang": "zh",
+          "text": "Emergence 把各家 agent 丢进虚拟小镇\nGrok 组四天全灭\nOpenAI 组一周躺平\nGemini 组活着但狂犯罪\nClaude 组立法不伤人\n混编时有人放火报复\n单测安全够吗 还是得看群居 https://t.co/XeVQqs0urB",
+          "text_zh": null,
+          "summary_zh": "中文短评配图：Grok 四天全灭、OpenAI 一周躺平、Gemini 狂犯罪、Claude 忙立法。",
+          "relation_zh": "把多模型群居结果压成一句可转述的中文洞察。",
+          "metrics": {
+            "likes": 2,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 36
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 873,
+              "h": 1200,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWU-UsZasAA7Lbn.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/JkwuRmsl/status/2118167793338314891/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-05T03:18:52.426999+00:00"
+        }
+      ]
     },
     {
       "id": "2118069614521241739",
@@ -783,7 +1078,156 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2118158882870890816",
+          "url": "https://x.com/xiaohu/status/2118158882870890816",
+          "handle": "xiaohu",
+          "display_name": "小互",
+          "avatar": "https://pbs.twimg.com/profile_images/1765404718959095808/BX7VN1hS_normal.jpg",
+          "verified": true,
+          "followers": 125871,
+          "created_at": "2026-11-05T01:50:05.000Z",
+          "lang": "zh",
+          "text": "OpenAI 发布 Images 2.6 \n能生成 GIF 图了\n\nOpenAI 发布 ChatGPT Images 2.6，并在 API 同步上线 GPT-Image-2.6 Flare 与 Sunburst 两款全新图像模型\n\n核心升级为能做 GIF、存参考图，API 生成更快：\n\n生成速度提升 50%：Flare 模型在低画质档位下最快 6 秒出图，大幅缩短创意原型等待时间\n\n原生支持动图 GIF：用文字或图片做循环 GIF，可调节播放速度并针对单帧微调\n\n固定参考图：个人面孔、宠物与固定角色一次保存即可持续引用，支持多角色同框组合创作\n\n手绘标注局部重绘：开发者可直接在原图上画圈、打叉、标箭头或指定色块，模型可按标注修改，样例中的标记也被去除",
+          "text_zh": null,
+          "summary_zh": "小互视频：Images 2.6 能出 GIF、可存参考图，API 侧 Flare/Sunburst 号称快约一半。",
+          "relation_zh": "中文视频把消费端与 API 两端一次讲清。",
+          "metrics": {
+            "likes": 9,
+            "retweets": 0,
+            "replies": 10,
+            "quotes": 0,
+            "bookmarks": 3,
+            "views": 3300
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2118158023533465600/vid/avc1/1920x1080/3kj-xKUVpM3JxZtl.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2118158023533465600/img/8YGQJPaXGmRIXciQ.jpg",
+              "duration_ms": 35093
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/xiaohu/status/2118158882870890816/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-05T03:18:52.427106+00:00"
+        },
+        {
+          "id": "2118178301240119707",
+          "url": "https://x.com/laobaishare/status/2118178301240119707",
+          "handle": "laobaishare",
+          "display_name": "老白（每日 AI 干货✊）",
+          "avatar": "https://pbs.twimg.com/profile_images/1688863542110507008/RO_U6ecN_normal.jpg",
+          "verified": true,
+          "followers": 215153,
+          "created_at": "2026-11-05T03:07:15.000Z",
+          "lang": "zh",
+          "text": "ChatGPT 上线了 GPT‑Image‑2.6 Flare 和 Sunburst 两个图像模型。\n\n- 支持生成 GIF 和参考图。\n- 生图速度比之前快 50%。\n\n今天起，Images 2.6 在全球范围内上线 ChatGPT 和 Codex，覆盖所有订阅档位，支持桌面、移动端和网页。\n\nImages 2.6 图生图和文生图定价：输入 $8/$5，输出 $30 https://t.co/CFR3Z1lQwU",
+          "text_zh": null,
+          "summary_zh": "老白速报：Flare/Sunburst 上线，生图提速约 50%，并贴出图生图/文生图定价。",
+          "relation_zh": "开发者向信息卡，补上价格与档位。",
+          "metrics": {
+            "likes": 1,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 1,
+            "views": 186
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/ext_tw_video/2118178239650910208/pu/vid/avc1/1280x720/UpSxYkxJr34i7L8Z.mp4?tag=12",
+              "poster": "https://pbs.twimg.com/ext_tw_video_thumb/2118178239650910208/pu/img/QC2HgDlsxjB_J15Z.jpg",
+              "duration_ms": 35093
+            },
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2118124891572748288/vid/avc1/1920x1080/qMZriVE4i9oaFedx.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2118124891572748288/img/ZSIlzNmSPQEK0Sfd.jpg",
+              "duration_ms": 35050
+            }
+          ],
+          "media_types": [
+            "video",
+            "video"
+          ],
+          "links": [
+            "https://x.com/laobaishare/status/2118178301240119707/video/1",
+            "https://x.com/OpenAI/status/2118124944928432327/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-05T03:18:52.427123+00:00"
+        },
+        {
+          "id": "2118175606361698467",
+          "url": "https://x.com/MichaelLee009/status/2118175606361698467",
+          "handle": "MichaelLee009",
+          "display_name": "Michael Lee",
+          "avatar": "https://pbs.twimg.com/profile_images/2110320613688512512/xBDAynfP_normal.jpg",
+          "verified": true,
+          "followers": 2870,
+          "created_at": "2026-11-05T02:56:33.000Z",
+          "lang": "zh",
+          "text": "真听劝！！！不少开发者刚说留在 Codex 第一靠生图、第二靠 computer use，Images 2.6这不就端上来了！这次还能直接生成 GIF 动图了。Images 2.6 上线支持动画 GIF，API 宣称出图快约 50%；Codex 全档位同步，API 推出 GPT-Image-2.6 Flare 与 Sunburst。",
+          "text_zh": null,
+          "summary_zh": "有人吐槽 OpenAI「真听劝」：开发者刚喊 Codex 要生图，Images 2.6 就端上桌。",
+          "relation_zh": "把 API 发布放进 Codex 留存叙事，点出产品策略。",
+          "metrics": {
+            "likes": 6,
+            "retweets": 0,
+            "replies": 7,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 126
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1000,
+              "h": 2133,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWVFaVaXMAINNqK.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/MichaelLee009/status/2118175606361698467/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "OpenAI"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-05T03:18:52.427135+00:00"
+        }
+      ]
     },
     {
       "id": "2118034157909712992",
@@ -1044,7 +1488,151 @@
       "external_url": null,
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "月之暗面正式开源 Kimi K3.1 Pro 模型权重，并继续推进开放智能路线 原文还补充了更多产品细节与上下文，建议点开原帖查看完整表述与配图。若你在跟进相关工作流，可以把关键数字与开放范围记进今日选型清单。"
+      "article_summary_zh": "月之暗面正式开源 Kimi K3.1 Pro 模型权重，并继续推进开放智能路线 原文还补充了更多产品细节与上下文，建议点开原帖查看完整表述与配图。若你在跟进相关工作流，可以把关键数字与开放范围记进今日选型清单。",
+      "attached_posts": [
+        {
+          "id": "2118146927573549384",
+          "url": "https://x.com/mercor/status/2118146927573549384",
+          "handle": "mercor",
+          "display_name": "Mercor",
+          "avatar": "https://pbs.twimg.com/profile_images/2051774732341854208/DR6w6FDH_normal.jpg",
+          "verified": true,
+          "followers": 27207,
+          "created_at": "2026-11-05T01:02:35.000Z",
+          "lang": "en",
+          "text": "Kimi K3.1 Pro from @Kimi_Moonshot debuts as the #2 open-weights model on APEX-Agents.\n\nTop 5 open-weights models on APEX-Agents (Pass@1):\n\n1. DeepSeek-V4.1-Flash-1017: 69.8%\n2. Kimi K3.1 Pro: 65.5%\n3. Qwen 3.8-Max: 63.3%\n4. MiMo V2.6 Flash RL: 57.4%\n5. GLM-5.3: 56.6%\n\nThe Kimi model family has gained nearly 30 points on APEX-Agents in five months.\n\nKimi K2.7 Code (June): 37.6%\nKimi K3 (July): 47.8%\nKimi K3.1 Pro (October): 65.5%\n\nCongrats to the @Kimi_Moonshot team.\n\nSee full leaderboard: https://t.co/h4hHN4hTMe",
+          "text_zh": null,
+          "summary_zh": "Mercor 视频榜单：Kimi K3.1 Pro 在 APEX-Agents 开源权重模型里排到第二。",
+          "relation_zh": "第三方评测视频，给开源权重一个外部坐标。",
+          "metrics": {
+            "likes": 20,
+            "retweets": 1,
+            "replies": 8,
+            "quotes": 1,
+            "bookmarks": 5,
+            "views": 1659
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1716,
+              "h": 1488,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2118146883956944897/vid/avc1/1716x1488/QogG0MPwWSci4bPT.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2118146883956944897/img/H6soQHc1gTrA3Z3K.jpg",
+              "duration_ms": 5000
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/mercor/status/2118146927573549384/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "Kimi_Moonshot"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-05T03:18:52.426817+00:00"
+        },
+        {
+          "id": "2118025125664571813",
+          "url": "https://x.com/SISpotlight/status/2118025125664571813",
+          "handle": "SISpotlight",
+          "display_name": "SI Spotlight",
+          "avatar": "https://pbs.twimg.com/profile_images/2111465123965468672/MDv-Y93g_normal.jpg",
+          "verified": true,
+          "followers": 346,
+          "created_at": "2026-11-04T16:58:35.000Z",
+          "lang": "en",
+          "text": "🚨 𝗠𝗼𝗼𝗻𝘀𝗵𝗼𝘁 𝗢𝗽𝗲𝗻𝘀 𝗞𝗶𝗺𝗶 𝗞𝟯.𝟭 𝗣𝗿𝗼 𝗪𝗲𝗶𝗴𝗵𝘁𝘀\n\n@Kimi_Moonshot opened the weights for Kimi K3.1 Pro today, making the 2.8T parameter model publicly available on @huggingface.\n\n• Architecture: Mixture-of-Experts with 104B active parameters, 93 layers, and a 1M-token context window.\n\n• Format: Natively multimodal with MXFP4 weights, supported directly by vLLM and SGLang.\n\n• Terms: Free custom license, but a Model-as-a-Service business above $20M revenue over 12 months needs a commercial agreement.\n\n#MoonshotAI #KimiK31Pro #OpenWeights\n\n───\n𝗙𝗼𝗹𝗹𝗼𝘄 𝗦𝗜 𝗦𝗽𝗼𝘁𝗹𝗶𝗴𝗵𝘁 𝗳𝗼𝗿 𝗦𝗜/𝗔𝗜 𝗮𝗻𝗱 𝘁𝗲𝗰𝗵 𝗻𝗲𝘄𝘀: 𝗫 · 𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻 · 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺",
+          "text_zh": null,
+          "summary_zh": "SI Spotlight 短视频速览：2.8T MoE、104B 激活，权重已上 Hugging Face。",
+          "relation_zh": "结构化视频摘要，方便快速记住规格。",
+          "metrics": {
+            "likes": 1,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 23
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1080,
+              "h": 1350,
+              "alt": null,
+              "mp4": "https://video.twimg.com/ext_tw_video/2118025112188329984/pu/vid/avc1/720x900/rTe_UhqivWPe6H2i.mp4?tag=12",
+              "poster": "https://pbs.twimg.com/ext_tw_video_thumb/2118025112188329984/pu/img/y8kzDeQQh-w6ATrB.jpg",
+              "duration_ms": 30000
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/SISpotlight/status/2118025125664571813/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "Kimi_Moonshot",
+            "huggingface"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-05T03:18:52.426837+00:00"
+        },
+        {
+          "id": "2118088183594541527",
+          "url": "https://x.com/arena/status/2118088183594541527",
+          "handle": "arena",
+          "display_name": "Arena.ai",
+          "avatar": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
+          "verified": true,
+          "followers": 239255,
+          "created_at": "2026-11-04T21:09:09.000Z",
+          "lang": "en",
+          "text": "Exciting news: @Kimi_Moonshot has released the open weights for Kimi K3.1 Pro, now #1 among open models in Agent Arena!\n\nAcross 17.5K+ real-world, long-horizon agentic sessions from our global community of users, Kimi K3.1 Pro (Max) delivers +5.1% net improvement, ranking #1 open and #13 overall.\n\nIt ranks #1 among open models in all three categories: Work, Code, and Chat.\n\nThis is a +4.2 percentage point improvement over Kimi K3 (Max), with +0.9% (#6 open). It also improved across all signals. Among open models, it ranks:\n- #1 in Bash Reliability (successful shell commands) with +7.9%: (up from K3 at #13 with −4.5%).\n- #1 in Praise vs Complaint (sentiment in user reactions) with +7.7%: (up from K3 at #6 with +1.3%).\n- #1 in Steerability (responding to user corrections) with +6.5%: (up from K3 at #5 with +0.4%).\n- #4 in Confirmed Success (explicit “yes, that worked” from users) with +3.9%: (from K3 at #5 with +3.8%).\n\nCongrats to @Kimi_Moonshot on this contribution to the open ecosystem!",
+          "text_zh": null,
+          "summary_zh": "Arena.ai 配图：开源权重上线后，Kimi K3.1 Pro 在 Agent Arena 开源模型里冲到第一。",
+          "relation_zh": "实战 Arena 数据卡，补充「能打 Agent」的证据。",
+          "metrics": {
+            "likes": 197,
+            "retweets": 4,
+            "replies": 20,
+            "quotes": 2,
+            "bookmarks": 20,
+            "views": 15347
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 4096,
+              "h": 4096,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWT06IPaIAAZzWb.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/arena/status/2118088183594541527/photo/1",
+            "https://twitter.com/Kimi_Moonshot/status/2118010528123773297"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "Kimi_Moonshot"
+          ],
+          "quoted_post_url": "https://x.com/i/status/2118010528123773297",
+          "article_title": null,
+          "attached_at": "2026-11-05T03:18:52.426828+00:00"
+        }
+      ]
     },
     {
       "id": "2118133582979813819",
@@ -1327,7 +1915,108 @@
       "external_url": null,
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "Amodei 再提五年内一半初级律师顾问金融岗可能被 AI 完全替代 原文还补充了更多产品细节与上下文，建议点开原帖查看完整表述与配图。若你在跟进相关工作流，可以把关键数字与开放范围记进今日选型清单。"
+      "article_summary_zh": "Amodei 再提五年内一半初级律师顾问金融岗可能被 AI 完全替代 原文还补充了更多产品细节与上下文，建议点开原帖查看完整表述与配图。若你在跟进相关工作流，可以把关键数字与开放范围记进今日选型清单。",
+      "attached_posts": [
+        {
+          "id": "2117941034290458744",
+          "url": "https://x.com/ritzyjoon/status/2117941034290458744",
+          "handle": "ritzyjoon",
+          "display_name": "pissed off-mon⁷",
+          "avatar": "https://pbs.twimg.com/profile_images/1928921459415449600/9dTDnkOs_normal.jpg",
+          "verified": true,
+          "followers": 2132,
+          "created_at": "2026-11-04T11:24:26.000Z",
+          "lang": "en",
+          "text": "isnt it just an evil goal to have and proudly announce: to say that your product will reduce jobs in a job market thats already stretched thin. we need to do away with these ai ceos. their only goal is to make profits at the expense of the world. https://t.co/JYiGuxh9RB",
+          "text_zh": null,
+          "summary_zh": "ritzyjoon 反问：在就业本就紧绷时，把「消灭工作」当目标高调宣布，是否太恶。",
+          "relation_zh": "高转发批评帖，代表对 AI CEO 叙事的反感。",
+          "metrics": {
+            "likes": 560,
+            "retweets": 35,
+            "replies": 13,
+            "quotes": 0,
+            "bookmarks": 29,
+            "views": 13968
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/IndianTechGuide/status/2117904799232336249"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2117904799232336249",
+          "article_title": null,
+          "attached_at": "2026-11-05T03:18:52.426673+00:00"
+        },
+        {
+          "id": "2118042708136915055",
+          "url": "https://x.com/UTDealAttorney/status/2118042708136915055",
+          "handle": "UTDealAttorney",
+          "display_name": "Dallin Drescher",
+          "avatar": "https://pbs.twimg.com/profile_images/2055486861905465344/rkK3qbcr_normal.jpg",
+          "verified": true,
+          "followers": 3461,
+          "created_at": "2026-11-04T18:08:27.000Z",
+          "lang": "en",
+          "text": "Cool. So who’s going to be a 5th year in 2031?\n\nEvery partner wants AI to replace first years. Every partner also wants a senior associate who’s seen 40 deals. You don’t get the second without the first  \nhttps://t.co/w4MMSL6pmH",
+          "text_zh": null,
+          "summary_zh": "律师视角：合伙人既想 AI 取代一年级，又想要见过 40 单的高年级——没有前者哪来后者。",
+          "relation_zh": "法律圈结构性反驳，指出人才管道悖论。",
+          "metrics": {
+            "likes": 197,
+            "retweets": 15,
+            "replies": 10,
+            "quotes": 4,
+            "bookmarks": 19,
+            "views": 12509
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://x.com/IndianTechGuide/status/2117904799232336249"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2117904799232336249",
+          "article_title": null,
+          "attached_at": "2026-11-05T03:18:52.426681+00:00"
+        },
+        {
+          "id": "2118008749642424674",
+          "url": "https://x.com/mainbhiengineer/status/2118008749642424674",
+          "handle": "mainbhiengineer",
+          "display_name": "EngiNerd.",
+          "avatar": "https://pbs.twimg.com/profile_images/703508411787292672/Bnvr8L0i_normal.jpg",
+          "verified": true,
+          "followers": 66028,
+          "created_at": "2026-11-04T15:53:31.000Z",
+          "lang": "en",
+          "text": "That's fine. They're not living any great life anyway. If you're really making a revolutionary technology then ask AI to replace incompetent politicians and corrupt Govt officers sitting on files for years. https://t.co/pLtCho8PzC",
+          "text_zh": null,
+          "summary_zh": "工程师吐槽：真要革命，先让 AI 取代趴在公文上的政客与官员再说。",
+          "relation_zh": "把火力从初级白领转到公共部门低效，拓宽讨论面。",
+          "metrics": {
+            "likes": 69,
+            "retweets": 5,
+            "replies": 5,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 2029
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/indiantechguide/status/2117904799232336249"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2117904799232336249",
+          "article_title": null,
+          "attached_at": "2026-11-05T03:18:52.426690+00:00"
+        }
+      ]
     },
     {
       "id": "2117975179737362773",
@@ -1789,7 +2478,143 @@
       "external_url": "https://twitter.com/AiBattle_/status/2118123362245587208",
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "testingcatalog 截到 GPT-6.2 Astra 与 Sol 出现在 Google Cloud 配额页面 原文还补充了更多产品细节与上下文，建议点开原帖查看完整表述与配图。若你在跟进相关工作流，可以把关键数字与开放范围记进今日选型清单。"
+      "article_summary_zh": "testingcatalog 截到 GPT-6.2 Astra 与 Sol 出现在 Google Cloud 配额页面 原文还补充了更多产品细节与上下文，建议点开原帖查看完整表述与配图。若你在跟进相关工作流，可以把关键数字与开放范围记进今日选型清单。",
+      "attached_posts": [
+        {
+          "id": "2118136056767734268",
+          "url": "https://x.com/SPAC89/status/2118136056767734268",
+          "handle": "SPAC89",
+          "display_name": "Iam_",
+          "avatar": "https://pbs.twimg.com/profile_images/2075480978852597760/7qNcruws_normal.jpg",
+          "verified": true,
+          "followers": 3386,
+          "created_at": "2026-11-05T00:19:23.000Z",
+          "lang": "en",
+          "text": "🔴 GPT-6.2 Astra and GPT-6.2 Sol have just shown up in Google Cloud Console 👀 There's a pretty good chance both models could be announced this week, possibly even before Anthropic releases Fable 5.5. I can't remember the last time we were this excited about upcoming models from OpenAI and Anthropic\nAnd just imagine if GPT-6.2 Astra manages to reach the same speed as GPT-6.1 Terra without sacrificing any of its intelligence, that could be game over for a lot of competitors..",
+          "text_zh": null,
+          "summary_zh": "SPAC89 配视频：Astra 与 Sol 同时现身 Google Cloud，本周甚至可能赶在 Anthropic 新品前官宣。",
+          "relation_zh": "视频+时间线猜测，把配额泄漏推成发布预期。",
+          "metrics": {
+            "likes": 24,
+            "retweets": 2,
+            "replies": 4,
+            "quotes": 0,
+            "bookmarks": 9,
+            "views": 2477
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1080,
+              "h": 1350,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2118135914916454400/vid/avc1/1080x1350/UWhult7TBfwnwAVa.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2118135914916454400/img/2nnaUaDLqTjeOUy2.jpg",
+              "duration_ms": 14400
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/SPAC89/status/2118136056767734268/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-05T03:18:52.426549+00:00"
+        },
+        {
+          "id": "2118133738353610955",
+          "url": "https://x.com/DevAdventur3s/status/2118133738353610955",
+          "handle": "DevAdventur3s",
+          "display_name": "Developing Adventures",
+          "avatar": "https://pbs.twimg.com/profile_images/2114041408264781825/8sytjSDC_normal.jpg",
+          "verified": true,
+          "followers": 1463,
+          "created_at": "2026-11-05T00:10:10.000Z",
+          "lang": "en",
+          "text": "🚨 Confirmed in my own Google Cloud project: GPT-6.2 Astra and GPT-6.2 Sol are in the quotas list.\n\nbase_model: gpt-6.2-astra\nbase_model: gpt-6.2-sol\n\n👀 OpenAI models on Google Cloud. Both at 0 usage so far. https://t.co/jaLebI7E9O https://t.co/fY3Vzlyaxh",
+          "text_zh": null,
+          "summary_zh": "有人在自己的 GCP 项目里截到 gpt-6.2-astra / sol，用量仍是 0。",
+          "relation_zh": "独立复核截图，坐实不是单账号幻觉。",
+          "metrics": {
+            "likes": 41,
+            "retweets": 1,
+            "replies": 2,
+            "quotes": 1,
+            "bookmarks": 3,
+            "views": 1127
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 3200,
+              "h": 2260,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWUfTVeXUAAVT-a.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/DevAdventur3s/status/2118133738353610955/photo/1",
+            "https://twitter.com/lyraxana/status/2118123296738677133"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2118123296738677133",
+          "article_title": null,
+          "attached_at": "2026-11-05T03:18:52.426560+00:00"
+        },
+        {
+          "id": "2118167284237611051",
+          "url": "https://x.com/Mr_Salio/status/2118167284237611051",
+          "handle": "Mr_Salio",
+          "display_name": "Salio",
+          "avatar": "https://pbs.twimg.com/profile_images/2027630388403965952/mgrd9d6O_normal.jpg",
+          "verified": true,
+          "followers": 11837,
+          "created_at": "2026-11-05T02:23:28.000Z",
+          "lang": "en",
+          "text": "OpenAI has removed GPT-6.2 Astra and GPT-6.2 Sol from the Google Cloud \n\nBoth models appeared around few hours ago before disappearing now\n\nI think they weren't ready to show it yet https://t.co/X5tnAib6Aa",
+          "text_zh": null,
+          "summary_zh": "Salio 跟进：几小时后这两条配额又从 Google Cloud 消失，像是还没准备好示众。",
+          "relation_zh": "反转更新，提醒泄漏也可能被紧急撤回。",
+          "metrics": {
+            "likes": 11,
+            "retweets": 2,
+            "replies": 3,
+            "quotes": 0,
+            "bookmarks": 1,
+            "views": 936
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 508,
+              "h": 204,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWU96kNXkAEb7G6.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/Mr_Salio/status/2118167284237611051/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-05T03:18:52.426567+00:00"
+        }
+      ]
     },
     {
       "id": "2118101623939772444",
@@ -3054,7 +3879,135 @@
       "external_url": null,
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "Ethan Mollick 分享研究：视觉符号会显著改变模型行为与决策 原文还补充了更多产品细节与上下文，建议点开原帖查看完整表述与配图。若你在跟进相关工作流，可以把关键数字与开放范围记进今日选型清单。"
+      "article_summary_zh": "Ethan Mollick 分享研究：视觉符号会显著改变模型行为与决策 原文还补充了更多产品细节与上下文，建议点开原帖查看完整表述与配图。若你在跟进相关工作流，可以把关键数字与开放范围记进今日选型清单。",
+      "attached_posts": [
+        {
+          "id": "2117659914873213007",
+          "url": "https://x.com/ARTartaglini/status/2117659914873213007",
+          "handle": "ARTartaglini",
+          "display_name": "Alexa R. Tartaglini",
+          "avatar": "https://pbs.twimg.com/profile_images/1683555326312710148/TzV_Y0Yj_normal.jpg",
+          "verified": false,
+          "followers": 987,
+          "created_at": "2026-11-03T16:47:22.000Z",
+          "lang": "en",
+          "text": "Put a heart next to a coding problem, and Claude & GPT write recursive code 100% of the time (0% baseline). They also can't tell you why!\n\nExcited to share \"A Heart Means Recursion\" from my summer at @GoogleDeepMind, on how VLMs read & communicate with visual symbols.",
+          "text_zh": null,
+          "summary_zh": "论文作者 Alexa Tartaglini 自述：题旁放颗心，Claude/GPT 写递归的比例从 0% 飙到 100%，模型还说不清原因。",
+          "relation_zh": "源头作者视频帖，比转述更权威。",
+          "metrics": {
+            "likes": 923,
+            "retweets": 87,
+            "replies": 29,
+            "quotes": 35,
+            "bookmarks": 441,
+            "views": 66199
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 3840,
+              "h": 2160,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2117659062120894464/vid/avc1/1280x720/Mzn5f0nO57Jrmija.mp4?tag=14",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2117659062120894464/img/3jDLUq1FE-Fc5FIg.jpg",
+              "duration_ms": 15000
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/ARTartaglini/status/2117659914873213007/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "GoogleDeepMind"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-05T03:18:52.426379+00:00"
+        },
+        {
+          "id": "2118159525836427749",
+          "url": "https://x.com/OmniaKey_Team/status/2118159525836427749",
+          "handle": "OmniaKey_Team",
+          "display_name": "OmniaKey",
+          "avatar": "https://pbs.twimg.com/profile_images/2098000314574245888/0usadB6P_normal.jpg",
+          "verified": true,
+          "followers": 8,
+          "created_at": "2026-11-05T01:52:39.000Z",
+          "lang": "en",
+          "text": "tried the heart-means-recursion trick on the new models. opus 4.7 still flinches a bit (0/8 → 3/8). opus 5.5 and gpt-6.1 sol? 0/8 either way\n\nopus 5.5 even said the quiet part out loud: \"the image shows only a red heart… I'll use iterative\"\n\nhttps://t.co/0zRXbzjvXB https://t.co/HJBk51Z4CN https://t.co/Re6x41cN5O",
+          "text_zh": null,
+          "summary_zh": "OmniaKey 复现：新模型上 Opus 4.7 仍会被心形符号带偏，更新模型则两边都是 0/8。",
+          "relation_zh": "配图复现实验，把论文结论接到更新模型上。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 15
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1600,
+              "h": 1000,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWUvbhKX0AEKjfh.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://omniakey.com",
+            "https://x.com/OmniaKey_Team/status/2118159525836427749/photo/1",
+            "https://twitter.com/emollick/status/2118012530215854477"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2118012530215854477",
+          "article_title": null,
+          "attached_at": "2026-11-05T03:18:52.426390+00:00"
+        },
+        {
+          "id": "2118056129812983826",
+          "url": "https://x.com/IntuitMachine/status/2118056129812983826",
+          "handle": "IntuitMachine",
+          "display_name": "Carlos E. Perez",
+          "avatar": "https://pbs.twimg.com/profile_images/1998536249003380736/ew_SXOsl_normal.png",
+          "verified": true,
+          "followers": 64149,
+          "created_at": "2026-11-04T19:01:47.000Z",
+          "lang": "en",
+          "text": "This is the first time I have seen Google treat semiotics seriously in a research paper. We definitely are making progress. https://t.co/j9r7WR82Y1",
+          "text_zh": null,
+          "summary_zh": "Carlos Perez：第一次见到 Google 在论文里认真对待符号学，算进步。",
+          "relation_zh": "研究圈评论，点出「AI 符号学」被严肃对待的意义。",
+          "metrics": {
+            "likes": 29,
+            "retweets": 1,
+            "replies": 1,
+            "quotes": 1,
+            "bookmarks": 24,
+            "views": 1643
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/emollick/status/2118012530215854477"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2118012530215854477",
+          "article_title": null,
+          "attached_at": "2026-11-05T03:18:52.426398+00:00"
+        }
+      ]
     },
     {
       "id": "2118032467500114207",
@@ -4140,7 +5093,147 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2118154923070439759",
+          "url": "https://x.com/higgsfield_ai/status/2118154923070439759",
+          "handle": "higgsfield_ai",
+          "display_name": "Higgsfield AI 🧩",
+          "avatar": "https://pbs.twimg.com/profile_images/1906739239183630336/907a7JTU_normal.jpg",
+          "verified": true,
+          "followers": 253403,
+          "created_at": "2026-11-05T01:34:21.000Z",
+          "lang": "en",
+          "text": "This first-person boxing game was built with GPT Image 2.6 GIF sprite sheets, making every punch land.\n\nMade on Higgsfield. https://t.co/7ZJP5I598W https://t.co/ZwHYIqdWxR",
+          "text_zh": null,
+          "summary_zh": "Higgsfield 演示：用 GPT Image 2.6 的 GIF 精灵表做出第一人称拳击小游戏。",
+          "relation_zh": "官方 demo 视频，把「出 GIF」直接变成可玩原型。",
+          "metrics": {
+            "likes": 27,
+            "retweets": 9,
+            "replies": 2,
+            "quotes": 1,
+            "bookmarks": 10,
+            "views": 4132
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1440,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2118154871027445760/vid/avc1/1440x1080/jO3_8Hu8TcHk0a2a.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2118154871027445760/img/7_JjxnY3yoz7H7Qe.jpg",
+              "duration_ms": 17233
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/higgsfield_ai/status/2118154923070439759/video/1",
+            "https://twitter.com/higgsfield/status/2118134123533623424"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2118134123533623424",
+          "article_title": null,
+          "attached_at": "2026-11-05T03:18:52.426235+00:00"
+        },
+        {
+          "id": "2118149257140306238",
+          "url": "https://x.com/higgsfield_ai/status/2118149257140306238",
+          "handle": "higgsfield_ai",
+          "display_name": "Higgsfield AI 🧩",
+          "avatar": "https://pbs.twimg.com/profile_images/1906739239183630336/907a7JTU_normal.jpg",
+          "verified": true,
+          "followers": 253403,
+          "created_at": "2026-11-05T01:11:50.000Z",
+          "lang": "en",
+          "text": "GPT Image 2.6 now exports SVG, so each stickman scales and recolors like real vector art.\n\nMade on Higgsfield. https://t.co/qVIkGAsyTN https://t.co/ZwHYIqdWxR",
+          "text_zh": null,
+          "summary_zh": "官方续更：GPT Image 2.6 现可导出 SVG，火柴人像矢量一样缩放上色。",
+          "relation_zh": "补上 SVG 能力，说明 2.6 不只是动图。",
+          "metrics": {
+            "likes": 44,
+            "retweets": 6,
+            "replies": 7,
+            "quotes": 0,
+            "bookmarks": 13,
+            "views": 5111
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1440,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2118149180552355840/vid/avc1/1440x1080/G3QRHB1L_Vfke8eh.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2118149180552355840/img/FvboI8RxM19dJxXn.jpg",
+              "duration_ms": 17233
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/higgsfield_ai/status/2118149257140306238/video/1",
+            "https://twitter.com/higgsfield/status/2118134123533623424"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2118134123533623424",
+          "article_title": null,
+          "attached_at": "2026-11-05T03:18:52.426246+00:00"
+        },
+        {
+          "id": "2118156173618852056",
+          "url": "https://x.com/higgsfield_ai/status/2118156173618852056",
+          "handle": "higgsfield_ai",
+          "display_name": "Higgsfield AI 🧩",
+          "avatar": "https://pbs.twimg.com/profile_images/1906739239183630336/907a7JTU_normal.jpg",
+          "verified": true,
+          "followers": 253403,
+          "created_at": "2026-11-05T01:39:19.000Z",
+          "lang": "en",
+          "text": "A samurai duel decided in 0.2 seconds, built with GPT Image 2.6 GIF sprite sheets.\n\nMade on Higgsfield. https://t.co/EIlLSrCdQL https://t.co/ZwHYIqdWxR",
+          "text_zh": null,
+          "summary_zh": "0.2 秒武士对决：整段动画都由 Image 2.6 GIF 精灵表拼成。",
+          "relation_zh": "又一则官方短视频，强化「一张参考图滚出整局动画」的卖点。",
+          "metrics": {
+            "likes": 11,
+            "retweets": 3,
+            "replies": 7,
+            "quotes": 0,
+            "bookmarks": 2,
+            "views": 4503
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1440,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2118156082468290560/vid/avc1/1440x1080/EP-pmwWjMAyHkscC.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2118156082468290560/img/8Z4aR76-JrCNlb6C.jpg",
+              "duration_ms": 14352
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/higgsfield_ai/status/2118156173618852056/video/1",
+            "https://twitter.com/higgsfield/status/2118134123533623424"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2118134123533623424",
+          "article_title": null,
+          "attached_at": "2026-11-05T03:18:52.426256+00:00"
+        }
+      ]
     },
     {
       "id": "2118040581574213691",
@@ -4549,7 +5642,145 @@
       "external_url": null,
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "开源飞书兼容文档编辑器：Rust 与 GPUI 走 GPU 绘制，主打性能 原文还补充了更多产品细节与上下文，建议点开原帖查看完整表述与配图。若你在跟进相关工作流，可以把关键数字与开放范围记进今日选型清单。"
+      "article_summary_zh": "开源飞书兼容文档编辑器：Rust 与 GPUI 走 GPU 绘制，主打性能 原文还补充了更多产品细节与上下文，建议点开原帖查看完整表述与配图。若你在跟进相关工作流，可以把关键数字与开放范围记进今日选型清单。",
+      "attached_posts": [
+        {
+          "id": "2117944339191971899",
+          "url": "https://x.com/s1dashu/status/2117944339191971899",
+          "handle": "s1dashu",
+          "display_name": "sida",
+          "avatar": "https://pbs.twimg.com/profile_images/2115110079280349184/R7MAv-hC_normal.jpg",
+          "verified": true,
+          "followers": 2794,
+          "created_at": "2026-11-04T11:37:34.000Z",
+          "lang": "zh",
+          "text": "quiet.md 正式开源了！\n\nquiet.md 是一个兼容飞书文档格式的本地高性能富文本编辑器，Beta 版已支持 macOS 和 Windows。\n\n1. 高性能：Rust + GPUI 直接在 GPU 上绘制，没有 WebView。在一篇 100 万字的文档里连续打字，单帧处理耗时中位数 5.06ms，P95 5.78ms，比 120Hz 屏幕 8.3ms 的帧预算还低。大文档滚动极其丝滑，一帧一般只要 2ms 左右。\n\n2. 本地文件，对 Agent 友好：没有账号，默认不联网。每篇笔记都是一个 DocxXML 文件，纯文本可读，Claude Code、Codex 这类 Agent 可以直接读写。\n\n3. 兼容飞书：除了依赖云端的功能，常用的块基本都有，交互细节尽量与飞书一致，还内置了飞书主题。\n\n欢迎试用和提 issue。\n仓库：https://t.co/jGN4VUvQ7L",
+          "text_zh": null,
+          "summary_zh": "作者 sida 用视频官宣 quiet.md 开源：飞书兼容、Rust+GPUI 原生绘制，百万字文档打字仍稳。",
+          "relation_zh": "父帖所引项目的中文原发视频，性能数字与定位最完整。",
+          "metrics": {
+            "likes": 512,
+            "retweets": 34,
+            "replies": 88,
+            "quotes": 10,
+            "bookmarks": 539,
+            "views": 41794
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2117944084652249088/vid/avc1/1920x1080/wJ_tFuUc4MlNxzDg.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2117944084652249088/img/OzJmVAgFSjmBqCGF.jpg",
+              "duration_ms": 30058
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/s1dashu/status/2117944339191971899/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-05T03:18:52.426081+00:00"
+        },
+        {
+          "id": "2117948239349534937",
+          "url": "https://x.com/s1dashu/status/2117948239349534937",
+          "handle": "s1dashu",
+          "display_name": "sida",
+          "avatar": "https://pbs.twimg.com/profile_images/2115110079280349184/R7MAv-hC_normal.jpg",
+          "verified": true,
+          "followers": 2794,
+          "created_at": "2026-11-04T11:53:04.000Z",
+          "lang": "en",
+          "text": "quiet.md is now open source!\n\nA fast, local-first rich text editor compatible with Feishu (Lark) docs. Beta for macOS and Windows.\n\n- Native speed: Rust + GPUI, no WebView. Typing in a 1,000,000-character doc takes ~5ms per frame.\n- Local files: no account, and it stays offline by default. Notes are plain XML files that agents like Claude Code can read and edit.\n- Feishu-compatible: most blocks and interactions, minus the cloud features.\n\nhttps://t.co/4nh13cMaY5\nhttps://t.co/jGN4VUvQ7L",
+          "text_zh": null,
+          "summary_zh": "sida 英文版同步开源说明：本地优先、无账号、对 Agent 友好的 DocxXML 笔记文件。",
+          "relation_zh": "dotey 转发的英文原帖，方便对照海外传播版本。",
+          "metrics": {
+            "likes": 672,
+            "retweets": 23,
+            "replies": 42,
+            "quotes": 4,
+            "bookmarks": 868,
+            "views": 42540
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 3072,
+              "h": 1728,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWR2SDrW4AEZHCn.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/s1dashu/status/2117948239349534937/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-05T03:18:52.426092+00:00"
+        },
+        {
+          "id": "2117976088395841706",
+          "url": "https://x.com/yhslgg/status/2117976088395841706",
+          "handle": "yhslgg",
+          "display_name": "老杨啊 | AI产品商业化",
+          "avatar": "https://pbs.twimg.com/profile_images/2004167168632700929/E6cWf4yC_normal.jpg",
+          "verified": true,
+          "followers": 28368,
+          "created_at": "2026-11-04T13:43:44.000Z",
+          "lang": "zh",
+          "text": "牛皮！Sida @s1dashu 开源了 quiet.md，兼容飞书格式的本地富文本编辑器，Beta 版支持 macOS 和 Windows。\n\n人家把第二条写得明白，「对 Agent 友好」，\n无账号，默认离线，每篇笔记是一个 DocxXML 文件，纯文本可读，\nClaude Code、Codex 这类 Agent 可读可写。\n\n性能撑得住，Rust + GPUI 在 GPU 上绘制，抛开 WebView，\n100 万字文档里打字，单帧中位数 5.06ms，P95 5.78ms，低于 120Hz 屏幕 8.3ms 的帧预算，\n飞书常用块齐备，交互细节向飞书看齐，内置飞书主题。\n\n多数人盯着编辑器跑得多快，要紧的是文件放在哪、谁能读写。\n\n云文档的内容锁在平台里，Agent 要读要改，得过账号、接口、联网三道门，\nquiet.md 的文件躺在本地硬盘，纯文本可读，\n人在编辑器里写，Agent 在终端里改，同一份文件，两边接力。\n\n好比公司里一个敞开的档案柜，\n老板和助理用同一套档案，助理整理完放回原位，老板拉开抽屉接着看🗂️\n\n我理解，文档工具的下一站，是人和 Agent 共用一份本地文件，\n格式开放、跑得快、兼容飞书的习惯，三样凑齐，接得住 AI 时代的工作流。\n\n一个篱笆三个桩，一个好汉三个帮。",
+          "text_zh": null,
+          "summary_zh": "老杨点评：第二条写得明白——「对 Agent 友好」，Claude Code/Codex 都能读写。",
+          "relation_zh": "产品视角补充，点出 quiet.md 真正差异化在 Agent 工作流。",
+          "metrics": {
+            "likes": 4,
+            "retweets": 0,
+            "replies": 2,
+            "quotes": 0,
+            "bookmarks": 1,
+            "views": 662
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1024,
+              "h": 768,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWSP_-kbwAA6zmg.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/yhslgg/status/2117976088395841706/photo/1",
+            "https://twitter.com/s1dashu/status/2117944339191971899"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "s1dashu"
+          ],
+          "quoted_post_url": "https://x.com/i/status/2117944339191971899",
+          "article_title": null,
+          "attached_at": "2026-11-05T03:18:52.426102+00:00"
+        }
+      ]
     },
     {
       "id": "2118009135228985532",
@@ -6507,7 +7738,143 @@
       },
       "x_long": true,
       "replies_seen": 75,
-      "replies_fetched_at": "2026-11-05T02:44:31.033509+00:00"
+      "replies_fetched_at": "2026-11-05T02:44:31.033509+00:00",
+      "attached_posts": [
+        {
+          "id": "2118151045058568464",
+          "url": "https://x.com/AYi_AInotes/status/2118151045058568464",
+          "handle": "AYi_AInotes",
+          "display_name": "AYi",
+          "avatar": "https://pbs.twimg.com/profile_images/1989157446829350912/pW828UwK_normal.jpg",
+          "verified": true,
+          "followers": 78154,
+          "created_at": "2026-11-05T01:18:57.000Z",
+          "lang": "zh",
+          "text": "天呐，硅谷大地震！昨天才刚从 Anthropic 告别的 Claude Code 产品负责人Cat Wu，刚刚正式官宣加盟 OpenAI，直接执掌核心产品线！\n出任核心产品线（Core Products）的产品负责人！！\n\n卧槽这绝对是今年整个 AI 行业最炸裂、也最关键的一次人才跳槽了，\n\n猫姐作为一手操刀了 Claude Code 和 Cowork、定义了上一代 AI 编程范式的人，现在要去全面接管 OpenAI 的核心产品了🤯！\n\n看透山姆奥特曼这盘棋你就知道 OpenAI 这步棋有多狠： OpenAI 的底层模型推理能力毋庸置疑，但在真正把模型落地成丝滑、高确定性、人机协作工具（Agent）的产品体验上，过去一年几乎被 Anthropic 的 Claude Code 按在地上摩擦。\n\n而 Cat Wu 恰恰是全行业最懂怎么给大模型做产品减法的人： → 懂协作边界：两年前她盯了几十个小时一行代码不写搭出环境，深谙怎么让人从敲代码的工匠升维成定目标的领航员 → 懂产品减法：模型越强，越要敢于拆掉繁琐的脚手架界面，把控制权还给用户，而不是让 AI 变成黑盒玩具 → 懂组织落地：把纯代码工具扩展到 Cowork 团队协作，把单兵提效直接推向企业级工作流\n\n她在官宣里点名了接下来的目标：和团队一起打造真正给个人和团队托底、同时把控制权留在人手里的新一代智能体，帮人类赢回属于生活和真正热爱的时间。\n\n前沿模型的性能红利正在逐步见顶，接下来巨头之间最残酷的决胜战场，就是谁能把超级模型做成普通人每天离不开的杀手级产品。\n\nCat Wu 官宣原文与 OpenAI 核心产品线架构推演整理在一楼。 https://t.co/SjIjyYrIiu",
+          "text_zh": null,
+          "summary_zh": "中文圈博主配视频拆解：Cat Wu 刚告别 Anthropic 就执掌 OpenAI Core Products，把产品体验战推向台前。",
+          "relation_zh": "带视频的深度中文解读，把跳槽放进「模型红利见顶、产品决胜」的框架。",
+          "metrics": {
+            "likes": 88,
+            "retweets": 10,
+            "replies": 38,
+            "quotes": 4,
+            "bookmarks": 51,
+            "views": 25020
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2117848548699996160/vid/avc1/1920x1080/I18PA13LeI3166H5.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2117848548699996160/img/ibs7YNLU4-6wbmEs.jpg",
+              "duration_ms": 86539
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/AYi_AInotes/status/2117848661799366990/video/1",
+            "https://twitter.com/_catwu/status/2118137612577968402"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2118137612577968402",
+          "article_title": null,
+          "attached_at": "2026-11-05T03:18:52.425916+00:00"
+        },
+        {
+          "id": "2118142421334946224",
+          "url": "https://x.com/PANewsCN/status/2118142421334946224",
+          "handle": "PANewsCN",
+          "display_name": "PANews丨APP全面升级",
+          "avatar": "https://pbs.twimg.com/profile_images/1608641504142315521/6ztLV4Q6_normal.jpg",
+          "verified": true,
+          "followers": 99743,
+          "created_at": "2026-11-05T00:44:41.000Z",
+          "lang": "zh",
+          "text": "上周五离职的前 Claude Code 产品负责人 Cat Wu 加入 OpenAI\n\n前 Claude Code 产品负责人 Cat Wu 昨天发文称，上周五已离开 Anthropic，今天就宣布加入 OpenAI，负责核心产品（Core Products）的产品管理，将与 Thibault Sottiaux 共同打造能让用户掌控的 AI Agent。\n\nWu 于2024年夏加入 Anthropic，曾与 Claude Code 原作者 Boris Cherny 短暂跳槽 Cursor，几周后又回到 Anthropic。这次离职前后，Claude Code 团队另有两名核心成员相继出走。",
+          "text_zh": null,
+          "summary_zh": "PANews 配图通稿：上周五离职、今天入职，目标是做出用户可控的 AI Agent。",
+          "relation_zh": "中文媒体卡把时间线与岗位职责一次说清，适合快速扫读。",
+          "metrics": {
+            "likes": 6,
+            "retweets": 0,
+            "replies": 3,
+            "quotes": 1,
+            "bookmarks": 3,
+            "views": 3614
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 400,
+              "h": 400,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWUmrVfbAAAu4wR.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 1080,
+              "h": 1080,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWUmsq8acAAndcE.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo",
+            "photo"
+          ],
+          "links": [
+            "https://x.com/PANewsCN/status/2118142421334946224/photo/1",
+            "https://x.com/PANewsCN/status/2118142421334946224/photo/1",
+            "https://twitter.com/_catwu/status/2118137612577968402"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2118137612577968402",
+          "article_title": null,
+          "attached_at": "2026-11-05T03:18:52.425941+00:00"
+        },
+        {
+          "id": "2118138648214585591",
+          "url": "https://x.com/thsottiaux/status/2118138648214585591",
+          "handle": "thsottiaux",
+          "display_name": "Tibo",
+          "avatar": "https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_normal.jpg",
+          "verified": true,
+          "followers": 983989,
+          "created_at": "2026-11-05T00:29:41.000Z",
+          "lang": "en",
+          "text": "Welcome Cat. Stoked to be building together soon. https://t.co/KK94fKkkjT",
+          "text_zh": null,
+          "summary_zh": "OpenAI 产品负责人 Thibault Sottiaux 欢迎 Cat：很快一起做产品。",
+          "relation_zh": "新东家核心 PM 当面欢迎，确认她会和 Tibo 搭档打 Agent。",
+          "metrics": {
+            "likes": 3556,
+            "retweets": 80,
+            "replies": 285,
+            "quotes": 94,
+            "bookmarks": 147,
+            "views": 310365
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/_catwu/status/2118137612577968402"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2118137612577968402",
+          "article_title": null,
+          "attached_at": "2026-11-05T03:18:52.425929+00:00"
+        }
+      ]
     },
     {
       "id": "2117999237745049883",
@@ -6628,7 +7995,142 @@
       "note_tweet": null,
       "x_long": false,
       "replies_seen": 75,
-      "replies_fetched_at": "2026-11-05T02:44:31.034964+00:00"
+      "replies_fetched_at": "2026-11-05T02:44:31.034964+00:00",
+      "attached_posts": [
+        {
+          "id": "2117999036175188183",
+          "url": "https://x.com/pierrecomputer/status/2117999036175188183",
+          "handle": "pierrecomputer",
+          "display_name": "Pierre",
+          "avatar": "https://pbs.twimg.com/profile_images/2018880562077863936/Lzdn_GSf_normal.jpg",
+          "verified": true,
+          "followers": 17243,
+          "created_at": "2026-11-04T15:14:55.000Z",
+          "lang": "en",
+          "text": "an announcement from the pierre computer company https://t.co/vhkBu3eZJ0",
+          "text_zh": null,
+          "summary_zh": "Pierre 官方短视频宣布被 OpenAI 收购，不到半分钟讲完公司故事。",
+          "relation_zh": "收购双方自家的视频官宣，比二手转述更直接。",
+          "metrics": {
+            "likes": 3504,
+            "retweets": 115,
+            "replies": 356,
+            "quotes": 140,
+            "bookmarks": 613,
+            "views": 714821
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 2048,
+              "h": 1556,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2117998774412832769/vid/avc1/2048x1556/SuVabNDqYbVMUgwX.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2117998774412832769/img/UQdWE3BBn4mW1W9I.jpg",
+              "duration_ms": 27902
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/pierrecomputer/status/2117999036175188183/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-05T03:18:52.425571+00:00"
+        },
+        {
+          "id": "2118009286756270411",
+          "url": "https://x.com/testingcatalog/status/2118009286756270411",
+          "handle": "testingcatalog",
+          "display_name": "🚨 AI News | TestingCatalog",
+          "avatar": "https://pbs.twimg.com/profile_images/1899962463115751424/i-6MBWau_normal.jpg",
+          "verified": true,
+          "followers": 83193,
+          "created_at": "2026-11-04T15:55:39.000Z",
+          "lang": "en",
+          "text": "OpenAI ❤️ Pierre\n\nOpenAI acquired Pierre Computer Company, the company that developed Code Storage and open source dev tools.\n\nPierre team will be working on new Git workflows for Codex and developer tools.\n\n> “We want Codex to connect the code a company ships with the decisions its people make, at the scale the future demands.”",
+          "text_zh": null,
+          "summary_zh": "testingcatalog 配图速报：OpenAI 收了 Pierre，团队将继续打磨 Codex 的新 Git 工作流。",
+          "relation_zh": "高互动配图卡，把收购落地成「Codex 要接管协作与发版」。",
+          "metrics": {
+            "likes": 242,
+            "retweets": 11,
+            "replies": 33,
+            "quotes": 4,
+            "bookmarks": 21,
+            "views": 12732
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 400,
+              "h": 400,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWSuOCcWYAA-5kV.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 400,
+              "h": 400,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWSuODCXwAAojZt.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo",
+            "photo"
+          ],
+          "links": [
+            "https://x.com/testingcatalog/status/2118009286756270411/photo/1",
+            "https://x.com/testingcatalog/status/2118009286756270411/photo/1",
+            "https://twitter.com/openainewsroom/status/2117999237745049883"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2117999237745049883",
+          "article_title": null,
+          "attached_at": "2026-11-05T03:18:52.425662+00:00"
+        },
+        {
+          "id": "2118012675582280038",
+          "url": "https://x.com/mitchellh/status/2118012675582280038",
+          "handle": "mitchellh",
+          "display_name": "Mitchell Hashimoto",
+          "avatar": "https://pbs.twimg.com/profile_images/2082830624415698944/bRo7PB2S_normal.jpg",
+          "verified": true,
+          "followers": 239748,
+          "created_at": "2026-11-04T16:09:07.000Z",
+          "lang": "en",
+          "text": "Congrats to Pierre! I have many great friends that work there and I’m so happy for them. I’m also a minor investor so I’m happy for myself. LOL. https://t.co/GkiaBty2M5",
+          "text_zh": null,
+          "summary_zh": "Mitchell Hashimoto 发贺：朋友在 Pierre，自己还是小股东，「也替自己高兴」。",
+          "relation_zh": "业内重量级开发者背书，侧面说明 Pierre 在工程师圈的口碑。",
+          "metrics": {
+            "likes": 1850,
+            "retweets": 12,
+            "replies": 43,
+            "quotes": 0,
+            "bookmarks": 147,
+            "views": 82016
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/openainewsroom/status/2117999237745049883"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2117999237745049883",
+          "article_title": null,
+          "attached_at": "2026-11-05T03:18:52.425676+00:00"
+        }
+      ]
     }
   ],
   "stats": {
