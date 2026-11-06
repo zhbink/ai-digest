@@ -472,7 +472,150 @@
         "text": "Introducing GPT‑6 Cyber: a major advance in security research that pairs stronger capabilities with better model alignment.\n\nThe model powered the Linux kernel research we announced yesterday, and security teams at companies like Mozilla, Palo Alto Networks, Calif, and Cisco—alongside our own at OpenAI—are already putting it to work.\n\nGPT-6 Cyber is available to select Daybreak Red customers and we are expanding access over time.\n\nhttps://t.co/Nzab3Z1Td6"
       },
       "x_long": true,
-      "article_summary_zh": "OpenAI 推出面向授权安全研究的 GPT-6 Cyber，强调在更强漏洞发现能力的同时保持对齐边界。模型已用于 Linux 内核相关研究，并有多家安全团队试用。当前仅向部分 Daybreak Red 客户开放，官方称将逐步扩量。"
+      "article_summary_zh": "OpenAI 推出面向授权安全研究的 GPT-6 Cyber，强调在更强漏洞发现能力的同时保持对齐边界。模型已用于 Linux 内核相关研究，并有多家安全团队试用。当前仅向部分 Daybreak Red 客户开放，官方称将逐步扩量。",
+      "attached_posts": [
+        {
+          "id": "2118397354818814152",
+          "url": "https://x.com/cgtwts/status/2118397354818814152",
+          "handle": "cgtwts",
+          "display_name": "CG",
+          "avatar": "https://pbs.twimg.com/profile_images/1955738644528160769/cgVyKTcs_normal.jpg",
+          "verified": true,
+          "followers": 28178,
+          "created_at": "2026-11-05T17:37:41.000Z",
+          "lang": "en",
+          "text": "cyber security engineers right now:",
+          "text_zh": null,
+          "summary_zh": "CG 配短视频吐槽「网络安全工程师此刻的表情」，借 GPT-6 Cyber 上线玩梗并获数千赞。",
+          "relation_zh": "视频梗图放大发布冲击感，传播远超纯文字解读。",
+          "metrics": {
+            "likes": 4104,
+            "retweets": 0,
+            "replies": 47,
+            "quotes": 21,
+            "bookmarks": 627,
+            "views": 238290
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1280,
+              "h": 720,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2118397323088928768/vid/avc1/1280x720/SOwM6fvF9kvLbyg1.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2118397323088928768/img/q5BCGpm0g5yvwD2B.jpg",
+              "duration_ms": 19529
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/cgtwts/status/2118397354818814152/video/1",
+            "https://twitter.com/openai/status/2118390190246879554"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2118390190246879554",
+          "article_title": null,
+          "attached_at": "2026-11-06T02:20:33.333322+00:00"
+        },
+        {
+          "id": "2118393154227577264",
+          "url": "https://x.com/kimmonismus/status/2118393154227577264",
+          "handle": "kimmonismus",
+          "display_name": "Chubby♨️",
+          "avatar": "https://pbs.twimg.com/profile_images/1728327996375719936/RW7VBJfD_bigger.jpg",
+          "verified": false,
+          "followers": null,
+          "created_at": "2026-11-05T17:21:00.000Z",
+          "lang": null,
+          "text": "OpenAI has released GPT-6 Cyber, a cybersecurity model designed to find and validate vulnerabilities while staying within the boundaries of authorized testing. \n\nAccording to OpenAI, it identified 81 previously unknown high-severity Firefox vulnerabilities and helped develop exploits for 948 Linux kernel vulnerabilities.\n\nGPT-6.2 yet to be released.",
+          "text_zh": "OpenAI 发布了 GPT-6 Cyber，面向网络安全、在授权测试边界内发现并验证漏洞。\n\n据 OpenAI，它发现了 81 个此前未知的高危 Firefox 漏洞，并协助针对 948 个 Linux 内核漏洞开展利用研究。\n\nGPT-6.2 尚未发布。",
+          "summary_zh": "Chubby 配图解读：GPT-6 Cyber 在授权测试边界内找洞，称发现 81 个未知高危 Firefox 问题并助力 948 个 Linux 内核漏洞研究。",
+          "relation_zh": "把官方能力声明压缩成可扫读要点，并点出 GPT-6.2 仍未发。",
+          "metrics": {
+            "likes": 521,
+            "reposts": 18,
+            "replies": 54,
+            "bookmarks": 42,
+            "impressions": 26365
+          },
+          "media": [
+            {
+              "key": "3_2118393023960616960",
+              "type": "photo",
+              "w": 1200,
+              "h": 590,
+              "orig": "https://pbs.twimg.com/media/HWYLO0fWkAAai7J.jpg",
+              "src": "media/2118393154227577264/0.webp"
+            },
+            {
+              "key": "3_2118393121943777280",
+              "type": "photo",
+              "w": 1200,
+              "h": 522,
+              "orig": "https://pbs.twimg.com/media/HWYLUhgW8AAzj-d.jpg",
+              "src": "media/2118393154227577264/1.webp"
+            }
+          ],
+          "media_types": [
+            "photo",
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-06T02:20:33.333326+00:00"
+        },
+        {
+          "id": "2118395717966606542",
+          "url": "https://x.com/gdb/status/2118395717966606542",
+          "handle": "gdb",
+          "display_name": "Greg Brockman",
+          "avatar": "https://pbs.twimg.com/profile_images/1347621377503711233/bHg3ipfD_normal.jpg",
+          "verified": true,
+          "followers": 1086671,
+          "created_at": "2026-11-05T17:31:11.000Z",
+          "lang": "en",
+          "text": "GPT-6 Cyber: a major advance for security research...",
+          "text_zh": null,
+          "summary_zh": "Greg Brockman 配图强调 GPT-6 Cyber 已用于守护 Linux/Firefox，并推出关键基础设施版 Daybreak Red。",
+          "relation_zh": "OpenAI 总裁亲自背书能力与「不越权」对齐，是官方解读加强版。",
+          "metrics": {
+            "likes": 1035,
+            "retweets": 0,
+            "replies": 107,
+            "quotes": 9,
+            "bookmarks": 111,
+            "views": 56042
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1206,
+              "h": 1282,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWYNrcsbgAAdlOP.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/gdb/status/2118395717966606542/photo/1",
+            "https://twitter.com/openai/status/2118390190246879554"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2118390190246879554",
+          "article_title": null,
+          "attached_at": "2026-11-06T02:20:46.864969+00:00"
+        }
+      ]
     },
     {
       "id": "2118402980340961507",
@@ -608,7 +751,116 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2118376478509617495",
+          "url": "https://x.com/vista8/status/2118376478509617495",
+          "handle": "vista8",
+          "display_name": "向阳乔木",
+          "avatar": "https://pbs.twimg.com/profile_images/1960882043249942533/h4J39ERy_bigger.jpg",
+          "verified": false,
+          "followers": null,
+          "created_at": "2026-11-05T16:14:44.000Z",
+          "lang": null,
+          "text": "我去，grok bot 的 aha 瞬间！\n\n用户写信留言问功能，Grok 竟然知道产品现有功能帮我写好了回复邮件，我只需要点发送就行！ https://t.co/Ibwwn9WX9i",
+          "text_zh": "我去，Grok Bot 的 aha 瞬间！\n\n用户写信留言问功能，Grok 竟然知道产品现有功能帮我写好了回复邮件，我只需要点发送就行！",
+          "summary_zh": "向阳乔木晒 Grok Bot 读懂产品功能并代写用户咨询回复邮件，自己只需点发送。",
+          "relation_zh": "同日 Grok Bot 高用量实战案例，呼应“把重复事交给 Bot”。",
+          "metrics": {
+            "likes": 10,
+            "reposts": 0,
+            "replies": 9,
+            "bookmarks": 3,
+            "impressions": 3706
+          },
+          "media": [
+            {
+              "key": "3_2118376286964105216",
+              "type": "photo",
+              "w": 872,
+              "h": 1200,
+              "orig": "https://pbs.twimg.com/media/HWX8AmUbQAAFJ5R.jpg",
+              "src": "media/2118376478509617495/0.webp"
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-06T02:20:33.332699+00:00"
+        },
+        {
+          "id": "2118405332238217457",
+          "url": "https://x.com/mayorxbt/status/2118405332238217457",
+          "handle": "mayorxbt",
+          "display_name": "Mayor",
+          "avatar": "https://pbs.twimg.com/profile_images/1981860930389479424/YbCJdgvJ_normal.jpg",
+          "verified": true,
+          "followers": 4050,
+          "created_at": "2026-11-05T18:09:23.000Z",
+          "lang": "en",
+          "text": "tldr:\n\n1. delete bots you don't use\n2. cut your routines\n3. let your bot code with claude code cli\n4. kill agent group chats\n5. trim your skills\n6. disconnect unused plugins\n7. use other tools for voice, shopping, and coding\n\nyou're welcome",
+          "text_zh": null,
+          "summary_zh": "Mayor 把 Alex 的七条 Grok Bot 省用量技巧浓缩成清单：删闲置 Bot、砍例程、用 Claude CLI 写代码等。",
+          "relation_zh": "一屏 TLDR，方便对照原视频逐条落地。",
+          "metrics": {
+            "likes": 16,
+            "retweets": 0,
+            "replies": 3,
+            "quotes": 1,
+            "bookmarks": 11,
+            "views": 1424
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/AlexFinn/status/2118402980340961507"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2118402980340961507",
+          "article_title": null,
+          "attached_at": "2026-11-06T02:20:33.332647+00:00"
+        },
+        {
+          "id": "2118410337431261566",
+          "url": "https://x.com/Sacco6X/status/2118410337431261566",
+          "handle": "Sacco6X",
+          "display_name": "Jaie Sacco",
+          "avatar": "https://pbs.twimg.com/profile_images/2116032839426985984/3-mSf-sD_normal.jpg",
+          "verified": true,
+          "followers": 31,
+          "created_at": "2026-11-05T18:29:17.000Z",
+          "lang": "en",
+          "text": "What's helped me stretch my Grok Bot usage with 30+ bots running:\nMoved the family schedule and budget bots to ChatGPT\nSent the behind-the-scenes app code to Claude\nMerged three X jobs into one run every 3 hours\nGave one bot the job of watching the usage meter every day",
+          "text_zh": null,
+          "summary_zh": "有人跑 30+ Bot 后补充实操：家务调度迁 ChatGPT、后台代码给 Claude、合并 X 任务并专人盯用量。",
+          "relation_zh": "是原教程之外的真实分流与监控经验。",
+          "metrics": {
+            "likes": 2,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 62
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/AlexFinn/status/2118402980340961507"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2118402980340961507",
+          "article_title": null,
+          "attached_at": "2026-11-06T02:20:33.332693+00:00"
+        }
+      ]
     },
     {
       "id": "2118419005568389584",
@@ -2155,7 +2407,117 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2118413535483163130",
+          "url": "https://x.com/frankdegods/status/2118413535483163130",
+          "handle": "frankdegods",
+          "display_name": "Frank",
+          "avatar": "https://pbs.twimg.com/profile_images/2060043584204689410/Sh83nkwV_normal.jpg",
+          "verified": true,
+          "followers": 539680,
+          "created_at": "2026-11-05T18:41:59.000Z",
+          "lang": "zxx",
+          "text": "https://t.co/PMqGIRoBBU https://t.co/0qNBiA96Nw",
+          "text_zh": null,
+          "summary_zh": "Frank 配梗图狂转 Claude 个人理财上线，互动破万，瞬间带火这条产品新闻。",
+          "relation_zh": "最直观的社媒传播截图，说明功能一出就出圈。",
+          "metrics": {
+            "likes": 16940,
+            "retweets": 0,
+            "replies": 89,
+            "quotes": 7,
+            "bookmarks": 826,
+            "views": 377493
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 766,
+              "h": 436,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWYd35iWoAA2S7O.png",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/frankdegods/status/2118413535483163130/photo/1",
+            "https://twitter.com/claudeai/status/2118403114890137895"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2118403114890137895",
+          "article_title": null,
+          "attached_at": "2026-11-06T02:20:33.333207+00:00"
+        },
+        {
+          "id": "2118409645551198250",
+          "url": "https://x.com/jumperz/status/2118409645551198250",
+          "handle": "jumperz",
+          "display_name": "JUMPERZ",
+          "avatar": "https://pbs.twimg.com/profile_images/2066609443194773504/sSlzoKn2_normal.jpg",
+          "verified": true,
+          "followers": 15514,
+          "created_at": "2026-11-05T18:26:32.000Z",
+          "lang": "en",
+          "text": "> spend 4 years studying finance\n> learn Excel...",
+          "text_zh": null,
+          "summary_zh": "JUMPERZ 用「学四年金融→被 Claude Personal Finance 取代」模因吐槽职业冲击。",
+          "relation_zh": "把产品能力翻译成职场焦虑，反映社区对 AI 理财助手的即时反应。",
+          "metrics": {
+            "likes": 1501,
+            "retweets": 0,
+            "replies": 21,
+            "quotes": 8,
+            "bookmarks": 396,
+            "views": 145659
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/claudeai/status/2118403114890137895"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2118403114890137895",
+          "article_title": null,
+          "attached_at": "2026-11-06T02:20:33.333214+00:00"
+        },
+        {
+          "id": "2118455489423905097",
+          "url": "https://x.com/dotey/status/2118455489423905097",
+          "handle": "dotey",
+          "display_name": "宝玉",
+          "avatar": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_bigger.jpeg",
+          "verified": false,
+          "followers": null,
+          "created_at": "2026-11-05T21:28:42.000Z",
+          "lang": null,
+          "text": "Claude 推出个人理财功能：连上银行账户就能问钱的事，只读，美国 Pro 及以上套餐逐步开放；比 ChatGPT 晚半年，范围收得更窄\n\nAnthropic 11 月 5 日推出 Personal Finance（个人理财），目前是测试版。连上自己的银行卡、信用卡等账户后，可以直接问 https://t.co/KrZp5MZoan",
+          "text_zh": "Claude 推出个人理财功能：连上银行账户就能问钱的事，只读，美国 Pro 及以上套餐逐步开放；比 ChatGPT 晚半年，范围收得更窄。\n\nAnthropic 11 月 5 日推出 Personal Finance（个人理财），目前是测试版。连上自己的银行卡、信用卡等账户后，可以直接询问余额与交易相关问题。",
+          "summary_zh": "宝玉深度对照：Claude 个人理财美国 Pro+ 只读连账户，比 ChatGPT Finances 晚约半年且范围更窄。",
+          "relation_zh": "中文长文把权限、可用地区与竞品差异一次讲清。",
+          "metrics": {
+            "likes": 19,
+            "reposts": 2,
+            "replies": 16,
+            "bookmarks": 13,
+            "impressions": 11073
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-06T02:20:33.333218+00:00"
+        }
+      ]
     },
     {
       "id": "2118458629091426304",
@@ -2291,7 +2653,119 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2118522119290286368",
+          "url": "https://x.com/JiangL67415/status/2118522119290286368",
+          "handle": "JiangL67415",
+          "display_name": "Jay Luo",
+          "avatar": "https://pbs.twimg.com/profile_images/2109888943932239872/MToTwl8T_normal.jpg",
+          "verified": true,
+          "followers": 8,
+          "created_at": "2026-11-06T01:53:28.000Z",
+          "lang": "zh",
+          "text": "AI Trend Radar｜@cursor_ai 现可在 Cursor 编辑器内构建 live apps，并用链接分享。官方流程：描述需求 → 构建 → 建数据库 → 确定性与智能体安全检查 → 部署；检查通过且显式发布后才会上线。全部付费套餐（需 cloud agents）。",
+          "text_zh": null,
+          "summary_zh": "中文卡拆解 Cursor Live Apps 官方流程：描述→构建→建库→确定性与 Agent 安全检查→显式发布才上线。",
+          "relation_zh": "把发布门槛与付费/Cloud Agents 要求讲清楚，便于评估能不能用。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 14
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 2160,
+              "h": 2880,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWaAmr_a8AArhmM.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/cursor_ai/status/2118458629091426304",
+            "https://x.com/JiangL67415/status/2118522119290286368/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "cursor_ai"
+          ],
+          "quoted_post_url": "https://x.com/i/status/2118458629091426304",
+          "article_title": null,
+          "attached_at": "2026-11-06T02:20:33.333081+00:00"
+        },
+        {
+          "id": "2118464177211940997",
+          "url": "https://x.com/rauchg/status/2118464177211940997",
+          "handle": "rauchg",
+          "display_name": "Guillermo Rauch",
+          "avatar": "https://pbs.twimg.com/profile_images/1783856060249595904/8TfcCN0r_bigger.jpg",
+          "verified": false,
+          "followers": null,
+          "created_at": "2026-11-05T22:03:13.000Z",
+          "lang": null,
+          "text": "SpaceXSI 🤝 Vercel\nGrok and Cursor can now build, deploy, and scale\nhttps://vercel.com/for/platforms https://twitter.com/cursor_ai/status/2118458629091426304",
+          "text_zh": "SpaceXSI 携手 Vercel\nGrok 与 Cursor 现在可以直接构建、部署并扩展。\nhttps://vercel.com/for/platforms",
+          "summary_zh": "Vercel CEO Guillermo Rauch 宣布 xAI/Grok 与 Cursor 可直接构建、部署并扩展应用，并链到 Vercel for Platforms。",
+          "relation_zh": "把 Cursor Live Apps 放进云端部署生态，说明「出 localhost」已成平台能力。",
+          "metrics": {
+            "likes": 535,
+            "reposts": 18,
+            "replies": 49,
+            "bookmarks": 80,
+            "impressions": 26036
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-06T02:20:33.333058+00:00"
+        },
+        {
+          "id": "2118462486093725709",
+          "url": "https://x.com/mattyp/status/2118462486093725709",
+          "handle": "mattyp",
+          "display_name": "matt palmer",
+          "avatar": "https://pbs.twimg.com/profile_images/2111918243460030464/aVMpxoAo_normal.jpg",
+          "verified": true,
+          "followers": 125118,
+          "created_at": "2026-11-05T21:56:30.000Z",
+          "lang": "en",
+          "text": "Go from idea to app, all in Cursor",
+          "text_zh": null,
+          "summary_zh": "Cursor 生态博主 matt palmer 一句话概括：从想法到应用，全在 Cursor 里完成。",
+          "relation_zh": "高互动转述，强化「不再卡在 localhost」卖点。",
+          "metrics": {
+            "likes": 515,
+            "retweets": 0,
+            "replies": 32,
+            "quotes": 2,
+            "bookmarks": 128,
+            "views": 23267
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/i/status/2118458629091426304"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2118458629091426304",
+          "article_title": null,
+          "attached_at": "2026-11-06T02:20:33.333073+00:00"
+        }
+      ]
     },
     {
       "id": "2118477081130512577",
@@ -2561,7 +3035,142 @@
         },
         "text": "Gemini Omni 1.2 Flash is rolling out starting today to all Google AI subscribers. Refine videos through multi-turn conversational edits and enjoy sharper visual stability in the Gemini app.\n\nPlus, Google AI Ultra subscribers can now create and edit videos up to 15 seconds long, giving you more room to tell complete stories, create product explainers, or produce full social ad spots in a single generation.\n\nLearn more about Omni 1.2 Flash in our blog: https://t.co/WY9t7SwWFn"
       },
-      "x_long": true
+      "x_long": true,
+      "attached_posts": [
+        {
+          "id": "2118390406316728555",
+          "url": "https://x.com/Google/status/2118390406316728555",
+          "handle": "Google",
+          "display_name": "Google",
+          "avatar": "https://pbs.twimg.com/profile_images/2042749771337564160/AgOFPEL3_normal.jpg",
+          "verified": true,
+          "followers": 31901524,
+          "created_at": "2026-11-05T17:10:05.000Z",
+          "lang": "en",
+          "text": "Meet Gemini Omni 1.2 Flash, our updated video generation model from @GoogleDeepMind",
+          "text_zh": null,
+          "summary_zh": "Google 官方视频发布 Gemini Omni 1.2 Flash：草稿低价、最长 15 秒、多轮对话改背景主体光照。",
+          "relation_zh": "GeminiApp 推送所引用的母帖，信息最全。",
+          "metrics": {
+            "likes": 2452,
+            "retweets": 0,
+            "replies": 185,
+            "quotes": 140,
+            "bookmarks": 799,
+            "views": 376922
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2118385122072211456/vid/avc1/1920x1080/r-U1MZHoXGvn7Zi3.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2118385122072211456/img/uNWRtAagTHmuA4JZ.jpg",
+              "duration_ms": 25040
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/Google/status/2118390406316728555/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "GoogleDeepMind"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-06T02:20:33.332933+00:00"
+        },
+        {
+          "id": "2118396513541857743",
+          "url": "https://x.com/kimmonismus/status/2118396513541857743",
+          "handle": "kimmonismus",
+          "display_name": "Chubby♨️",
+          "avatar": "https://pbs.twimg.com/profile_images/1728327996375719936/RW7VBJfD_bigger.jpg",
+          "verified": false,
+          "followers": null,
+          "created_at": "2026-11-05T17:34:21.000Z",
+          "lang": null,
+          "text": "And release numerber 2 today: Google has released Gemini Omni 1.2 Flash, which generates and edits videos up to 15 seconds long, with improved consistency, speech, and conversational editing.\n\nIt costs $0.07 per second for 720p video, 30% less than its predecessor. Good pricing.",
+          "text_zh": "今天第二条重磅：Google 发布 Gemini Omni 1.2 Flash，可生成并编辑最长 15 秒视频，一致性、语音和对话式剪辑都有提升。\n\n720p 视频约每秒 0.07 美元，比上一代便宜约 30%，定价友好。",
+          "summary_zh": "Chubby 配视频速览 Gemini Omni 1.2 Flash：最长 15 秒、对话式剪辑，720p 约 $0.07/秒、比上代便宜约 30%。",
+          "relation_zh": "把 GeminiApp 推送背后的模型升级与定价一次说清。",
+          "metrics": {
+            "likes": 494,
+            "reposts": 24,
+            "replies": 49,
+            "bookmarks": 78,
+            "impressions": 22791
+          },
+          "media": [
+            {
+              "key": "13_2118387774378192896",
+              "type": "video",
+              "w": 1200,
+              "h": 675,
+              "orig": "https://pbs.twimg.com/amplify_video_thumb/2118387774378192896/img/dPbZ-qxFOtFSBnvZ.jpg",
+              "mp4": "https://video.twimg.com/amplify_video/2118387774378192896/vid/avc1/1280x720/vE7jP3ziVHqIgHSC.mp4",
+              "duration_ms": 20586,
+              "poster": "media/2118396513541857743/0.webp"
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-06T02:20:33.332911+00:00"
+        },
+        {
+          "id": "2118401505069809835",
+          "url": "https://x.com/runwayml/status/2118401505069809835",
+          "handle": "runwayml",
+          "display_name": "Runway",
+          "avatar": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_bigger.jpg",
+          "verified": false,
+          "followers": null,
+          "created_at": "2026-11-05T17:54:11.000Z",
+          "lang": null,
+          "text": "Google’s Gemini Omni 1.2 Flash is now available in Runway.\n\nCreate and edit videos up to 15 seconds, with more natural dialogue and stronger consistency across shots. Refine your scene without starting over, then upscale to 4K.\n\nTry it now in Runway.",
+          "text_zh": "Google 的 Gemini Omni 1.2 Flash 已在 Runway 可用。\n\n创建并编辑最长 15 秒视频，对白更自然、镜头间一致性更强。不用推倒重来就能精修场景，再放大到 4K。\n\n现在就在 Runway 试试。",
+          "summary_zh": "Runway 宣布已接入 Gemini Omni 1.2 Flash：最长 15 秒、对话改场景，并可放大到 4K。",
+          "relation_zh": "官方渠道之外，第三方创作工具同步上线同款模型。",
+          "metrics": {
+            "likes": 93,
+            "reposts": 7,
+            "replies": 20,
+            "bookmarks": 18,
+            "impressions": 9747
+          },
+          "media": [
+            {
+              "key": "13_2118401379316158464",
+              "type": "video",
+              "w": 1200,
+              "h": 675,
+              "orig": "https://pbs.twimg.com/amplify_video_thumb/2118401379316158464/img/Pb-jDugitOBsBe2j.jpg",
+              "mp4": "https://video.twimg.com/amplify_video/2118401379316158464/vid/avc1/1280x720/iJ9L3pPzpKi8NtYm.mp4",
+              "duration_ms": 43043,
+              "poster": "media/2118401505069809835/0.webp"
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-06T02:20:33.332918+00:00"
+        }
+      ]
     },
     {
       "id": "2118464177211940997",
