@@ -24,7 +24,12 @@
     },
     "agent": null,
     "zh": null,
-    "video": null
+    "video": null,
+    "opensource": {
+      "min_likes": 120,
+      "min_impressions": 10000,
+      "any": true
+    }
   },
   "heat_exempt_handles": [
     "OpenAI",
@@ -54,7 +59,8 @@
     "creative": 6,
     "industry": 8,
     "zh": 15,
-    "video": 12
+    "video": 12,
+    "opensource": 8
   },
   "sections": {
     "agent": {
@@ -197,6 +203,14 @@
         "TechCrunch",
         "theinformation"
       ]
+    },
+    "opensource": {
+      "label": "开源热度",
+      "handles": [
+        "GithubProjects",
+        "OSSInsight",
+        "hackernews"
+      ]
     }
   },
   "keywords": [
@@ -219,6 +233,11 @@
       "section": "agent",
       "name": "英文 Agent",
       "query": "(\"AI agent\" OR agentic OR MCP OR \"multi-agent\") (release OR launch OR tutorial OR framework OR paper) -is:retweet -is:reply"
+    },
+    {
+      "section": "opensource",
+      "name": "GitHub trending / 开源飙升",
+      "query": "(\"GitHub trending\" OR \"trending on GitHub\" OR \"GitHub stars\" OR \"just hit\" stars OR \"开源热榜\" OR \"GitHub 热榜\") (repo OR repository OR github.com) -is:retweet -is:reply"
     }
   ]
 }

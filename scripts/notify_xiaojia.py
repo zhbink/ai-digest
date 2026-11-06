@@ -24,7 +24,7 @@ def main():
     n = stats.get("posts") or len(day["posts"])
     rec = stats.get("recommended") or 0
     # direction from sections with most posts
-    labels = {"agent":"Agent","models":"模型","coding":"编程","creative":"创意","industry":"算力融资","zh":"中文圈","video":"视频"}
+    labels = {"agent":"Agent","models":"模型","coding":"编程","creative":"创意","industry":"算力融资","opensource":"开源","zh":"中文圈","video":"视频"}
     tops = sorted(((labels.get(k,k), v) for k,v in by.items() if v), key=lambda x: -x[1])[:3]
     direction = "、".join(f"{k}{v}条" for k,v in tops) if tops else "综合"
     trend = (day.get("trend_summary") or "")[:80]

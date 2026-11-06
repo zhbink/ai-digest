@@ -4,7 +4,7 @@
 (function (root) {
   "use strict";
   const sectionLabel = { agent: "AI Agent", models: "模型与大佬", coding: "AI 编程", creative: "图像·语音·音乐", industry: "算力与融资",
-    zh: "中文圈", video: "AI 视频", gossip: "花边八卦" };
+    opensource: "开源热度", zh: "中文圈", video: "AI 视频", gossip: "花边八卦" };
   const SECTIONS = Object.keys(sectionLabel);   // display order
   const kindLabel = { post: "帖子", longpost: "长帖", article: "文章", paper: "论文", tutorial: "教程", video: "视频", repo: "仓库" };
   const PAPER_RE = /^https?:\/\/(www\.)?(arxiv\.org\/(abs|pdf|html)\/|huggingface\.co\/papers\/|openreview\.net\/|aclanthology\.org\/|(bio|med)rxiv\.org\/|papers\.nips\.cc\/|proceedings\.(mlr\.press|neurips\.cc)\/|dl\.acm\.org\/doi\/|ieeexplore\.ieee\.org\/|alphaxiv\.org\/abs\/)/i;

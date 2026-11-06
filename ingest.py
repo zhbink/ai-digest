@@ -197,7 +197,7 @@ def assign_section(row: dict, users: dict, cfg: dict) -> str | None:
     user = users.get(str(p.get("author_id") or "")) or {}
     handle = (user.get("username") or "").lower()
     # map handle -> preferred section (first match in priority)
-    priority = ["zh", "video", "coding", "creative", "industry", "models", "agent"]
+    priority = ["zh", "video", "coding", "opensource", "creative", "industry", "models", "agent"]
     handle_map = {}
     for sec, meta in (cfg.get("sections") or {}).items():
         for h in meta.get("handles") or []:
@@ -375,7 +375,7 @@ def main():
             "posts": len(final),
             "articles": articles,
             "extract_failures": extract_failures,
-            "by_section": {k: by_sec.get(k, 0) for k in ["agent","models","coding","creative","industry","zh","video","gossip"]},
+            "by_section": {k: by_sec.get(k, 0) for k in ["agent","models","coding","creative","industry","opensource","zh","video","gossip"]},
             "translation": tr_stats,
             "articles_missing_summary": [],
             "media": {"photos": 0, "videos": 0, "gifs": 0, "fail": 0, "skipped": 0},

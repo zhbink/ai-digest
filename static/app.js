@@ -1,7 +1,7 @@
 // shared, DOM-free export + classification logic (static/export-core.js, also bundled into the sync Worker)
 const DX = globalThis.DigestExport;
 const { sectionLabel, SECTIONS, kindLabel, deriveKinds, mediaUrl, externalLinks, shanghaiToday } = DX;
-const pillLabel = { models: "模型", coding: "编程", creative: "创意", industry: "算力融资" };
+const pillLabel = { models: "模型", coding: "编程", creative: "创意", industry: "算力融资", opensource: "开源" };
 const LS_SORT = "aidigest.sort", LS_FOLLOW = "aidigest.follows";
 const state = {
   date: null, section: "", q: "",
@@ -658,7 +658,7 @@ async function render() {
     <span class="pill">帖子 ${s.posts ?? (day.posts || []).length}</span>
     <span class="pill">全文 ${s.articles ?? 0}</span>
     <span class="pill rec">推荐 ${nRec}</span>
-    <span class="pill">Agent ${by.agent ?? 0}</span>${["models", "coding", "creative", "industry"].map(k => by[k] ? `
+    <span class="pill">Agent ${by.agent ?? 0}</span>${["models", "coding", "creative", "industry", "opensource"].map(k => by[k] ? `
     <span class="pill">${pillLabel[k]} ${by[k]}</span>` : "").join("")}
     <span class="pill">中文 ${by.zh ?? 0}</span>
     <span class="pill">视频 ${by.video ?? 0}</span>${by.gossip ? `
