@@ -3,33 +3,28 @@
   "window_hours": 24,
   "heat": {
     "models": {
-      "min_likes": 200,
-      "min_impressions": 15000,
+      "min_likes": 140,
+      "min_impressions": 9000,
       "any": true
     },
     "coding": {
-      "min_likes": 200,
-      "min_impressions": 15000,
+      "min_likes": 120,
+      "min_impressions": 20000,
       "any": true
     },
     "creative": {
-      "min_likes": 100,
+      "min_likes": 140,
       "min_impressions": 8000,
       "any": true
     },
     "industry": {
-      "min_likes": 90,
-      "min_impressions": 15000,
+      "min_likes": 150,
+      "min_impressions": 11000,
       "any": true
     },
     "agent": null,
     "zh": null,
-    "video": null,
-    "opensource": {
-      "min_likes": 120,
-      "min_impressions": 10000,
-      "any": true
-    }
+    "video": null
   },
   "heat_exempt_handles": [
     "OpenAI",
@@ -37,30 +32,16 @@
     "GoogleDeepMind",
     "OpenAIDevs",
     "xai",
-    "MetaAI",
-    "AIatMeta",
-    "deepseek_ai",
-    "Alibaba_Qwen",
-    "Kimi_Moonshot",
-    "Zai_org",
-    "MiniMax_AI",
-    "MistralAI",
-    "nvidia",
-    "NVIDIAAI",
-    "SpaceXSI",
-    "GeminiApp",
-    "claudeai",
-    "huggingface"
+    "MetaAI"
   ],
   "caps": {
     "agent": 20,
-    "models": 8,
-    "coding": 8,
-    "creative": 6,
-    "industry": 8,
+    "models": 12,
+    "coding": 10,
+    "creative": 8,
+    "industry": 10,
     "zh": 15,
-    "video": 12,
-    "opensource": 8
+    "video": 12
   },
   "sections": {
     "agent": {
@@ -203,14 +184,6 @@
         "TechCrunch",
         "theinformation"
       ]
-    },
-    "opensource": {
-      "label": "开源热度",
-      "handles": [
-        "GithubProjects",
-        "OSSInsight",
-        "hackernews"
-      ]
     }
   },
   "keywords": [
@@ -233,11 +206,6 @@
       "section": "agent",
       "name": "英文 Agent",
       "query": "(\"AI agent\" OR agentic OR MCP OR \"multi-agent\") (release OR launch OR tutorial OR framework OR paper) -is:retweet -is:reply"
-    },
-    {
-      "section": "opensource",
-      "name": "GitHub trending / 开源飙升",
-      "query": "(\"GitHub trending\" OR \"trending on GitHub\" OR \"GitHub stars\" OR \"just hit\" stars OR \"开源热榜\" OR \"GitHub 热榜\") (repo OR repository OR github.com) -is:retweet -is:reply"
     }
   ]
 }
