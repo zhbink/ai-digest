@@ -140,7 +140,132 @@
       "external_url": "https://www.anthropic.com/research/components-of-agent-memory",
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "Anthropic 把 Agent 记忆拆成 transcript、笔记与 wiki 等层级，并在会话之间用「做梦」离线整理：纠错、合并重复、提高优先级。目标是让 Agent 不必每次冷启动，就能持续积累可复用知识。对构建多日运行的编码/研究 Agent 有直接工程参考价值。"
+      "article_summary_zh": "Anthropic 把 Agent 记忆拆成 transcript、笔记与 wiki 等层级，并在会话之间用「做梦」离线整理：纠错、合并重复、提高优先级。目标是让 Agent 不必每次冷启动，就能持续积累可复用知识。对构建多日运行的编码/研究 Agent 有直接工程参考价值。",
+      "attached_posts": [
+        {
+          "id": "2118833311338684834",
+          "url": "https://x.com/ziwenxu_/status/2118833311338684834",
+          "handle": "ziwenxu_",
+          "display_name": "Ziwen",
+          "avatar": "https://pbs.twimg.com/profile_images/2009704432674426880/Q29hAGJR_normal.jpg",
+          "verified": true,
+          "followers": 19004,
+          "created_at": "2026-11-06T22:30:02.000Z",
+          "lang": "en",
+          "text": "Anthropic just explained how claude's dreaming works\n\nif you're building agents with memory, this is worth understanding\n\nsaving a memory doesn't make it true. your agent can write down something wrong, read it next session, and keep making the same mistake\n\nthat's what happened when claude played pokémon. it remembered a location incorrectly and kept getting stuck. a dreaming pass checked the original logs, corrected the note, and it got through\n\nthink of it as a daily reflection for your agent:\n\n1. review what happened across recent sessions\n2. check saved notes against the original logs\n3. correct mistakes, merge duplicates, remove outdated notes\n4. turn useful lessons into notes it can find next time\n5. keep only the essentials loaded at the start of every session\n\nthe important part is checking the evidence. “i think this went wrong because…” shouldn't become a permanent rule until it's tested\n\nand don't just keep adding memory. in their pokémon comparison, one model wrote 413 files and earned 1 badge. another kept 10 files and earned 4. different models, so not a controlled comparison, but a good example of why remembering everything isn't the goal\n\nthis doesn't change the model's weights. you're improving what it reads before it acts\n\nif i were building this, i'd start with a nightly review of recent sessions, not reprocess the entire history every night. keep the source links and check whether the agent actually makes fewer repeat mistakes",
+          "text_zh": "Anthropic 刚讲清了 Claude 的「做梦」怎么工作。\n\n如果你在做带记忆的 Agent，这值得理解。\n\n写下一条记忆不等于它是对的——Agent 可能把错的东西记下来，下次会话再读，然后反复踩坑。\n\nClaude 打宝可梦时就这样：记错地点一直卡住；一次 dreaming 回看原始日志、改正笔记，才过关。\n\n可以把它当成 Agent 的每日反思：\n1. 回顾近期会话\n2. 对照原始日志核验已存笔记\n3. 纠正错误、合并重复、删过时内容\n4. 把有用教训写成下次找得到的笔记\n5. 每次开局只加载真正必要的内容\n\n关键是核对证据。「我觉得是因为……」在被验证前不该变成永久规则。\n\n也别只顾堆记忆：他们的宝可梦对比里，一个模型写了 413 个文件只拿 1 枚徽章，另一个只留 10 个文件却拿了 4 枚——模型不同所以不是严格对照，但很好说明「记住一切」不是目标。\n\n这不会改模型权重，改的是它行动前读到什么。\n\n若我来做，会先做夜间回顾近期会话，而不是每晚重跑全部历史；保留来源链接，并检查是否真的少犯重复错误。",
+          "summary_zh": "Ziwen 配图拆解 Claude「做梦」：校验错误记忆、合并笔记；宝可梦案例说明少而准的记忆更强。",
+          "relation_zh": "把母帖博客要点转成可落地的 Agent 记忆工程清单。",
+          "metrics": {
+            "likes": 113,
+            "retweets": 0,
+            "replies": 11,
+            "quotes": 0,
+            "bookmarks": 150,
+            "views": 17902
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 3840,
+              "h": 2101,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWeblEFXoAAZlnh.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/ziwenxu_/status/2118833311338684834/photo/1",
+            "https://twitter.com/AnthropicAI/status/2118814753154064501"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2118814753154064501",
+          "article_title": null,
+          "attached_at": "2026-11-07T05:41:33.047448+00:00"
+        },
+        {
+          "id": "2118838318180037041",
+          "url": "https://x.com/omarsar0/status/2118838318180037041",
+          "handle": "omarsar0",
+          "display_name": "elvis",
+          "avatar": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+          "verified": true,
+          "followers": 328137,
+          "created_at": "2026-11-06T22:49:55.000Z",
+          "lang": "en",
+          "text": "Highly recommended read. \n\nLearn how one of the most advanced agent memory systems works.\n\nYour memory system is one of the biggest levers you have in the harness. \n\nI also don't think a one-size-fits-all memory system exists today.\n\nMemory is something you constantly have to upgrade and maintain at the right moments and in the right places. \n\nWhat works for me with frontier models is a mixture of basic (literally a set of folders and files nicely organized) and some episodic memory system. \n\nLike agent skills, keep your memory system extremely basic. Otherwise, you will only get in the system's way and confuse it. \n\nAs models continue to improve, these memory systems will keep evolving. One thing is clear to me: no matter how powerful these models get, your agent will need some form of memory to keep things personalized and useful for you.",
+          "text_zh": "强烈推荐读。\n\n可以学到目前最先进的 Agent 记忆系统之一怎么运转。\n\n记忆系统是你在 harness 里最大的杠杆之一。\n\n我也不觉得今天存在「一套通吃」的记忆方案。\n\n记忆要在对的时机、对的位置不断升级和维护。\n\n对我来说，和前沿模型搭配比较有效的是：基础结构（就是组织良好的文件夹和文件）+ 一些情节记忆。\n\n像 agent skills 一样，把记忆系统保持得极简；否则只会挡路、把系统搞糊涂。\n\n模型会继续变强，记忆系统也会继续演化。有一点很清楚：无论模型多强，你的 Agent 都需要某种记忆，才能对你保持个性化和有用。",
+          "summary_zh": "elvis：记忆是 harness 最大杠杆之一，宜保持极简文件夹/情节记忆并持续维护升级。",
+          "relation_zh": "从实践者角度呼应母帖：记忆系统要维护，没有一刀切方案。",
+          "metrics": {
+            "likes": 182,
+            "retweets": 0,
+            "replies": 36,
+            "quotes": 0,
+            "bookmarks": 302,
+            "views": 19876
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 3840,
+              "h": 1754,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWeeuARWUAAI3yF.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/omarsar0/status/2118838318180037041/photo/1",
+            "https://twitter.com/AnthropicAI/status/2118814753154064501"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2118814753154064501",
+          "article_title": null,
+          "attached_at": "2026-11-07T05:41:33.047458+00:00"
+        },
+        {
+          "id": "2118871195869401552",
+          "url": "https://x.com/antiAIvo/status/2118871195869401552",
+          "handle": "antiAIvo",
+          "display_name": "纳米AI",
+          "avatar": "https://pbs.twimg.com/profile_images/2043161038628270080/NrnEFMcR_normal.jpg",
+          "verified": true,
+          "followers": 31103,
+          "created_at": "2026-11-07T01:00:34.000Z",
+          "lang": "zh",
+          "text": "Anthropic 昨天发了一篇讲 Agent 记忆的工程文章\n读完我觉得最有价值的结论是：\n记忆好不好，不取决于存了多少，取决于存了什么\n\n文章把 Agent 记忆拆成四层\n最底层是原始会话日志\n往上是模型自己写的笔记\n再往上是 wiki 这类知识结构\n最顶层是每次开局自动加载的上下文\n\n另外引入一个机制，叫 dreaming\nAgent 空闲时回看日志，改正错误，重新整理笔记\n灵感来自人脑睡眠时的记忆巩固\n\n我的一点感受：\n同一个模型，记忆怎么组织、怎么校验、怎么加载\n都会显著影响最终表现\n这部分属于 Agent 框架层的工程设计，不只是模型能力的问题",
+          "text_zh": "Anthropic 昨天发了一篇讲 Agent 记忆的工程文章\n读完我觉得最有价值的结论是：\n记忆好不好，不取决于存了多少，取决于存了什么\n\n文章把 Agent 记忆拆成四层\n最底层是原始会话日志\n往上是模型自己写的笔记\n再往上是 wiki 这类知识结构\n最顶层是每次开局自动加载的上下文\n\n另外引入一个机制，叫 dreaming\nAgent 空闲时回看日志，改正错误，重新整理笔记\n灵感来自人脑睡眠时的记忆巩固\n\n我的一点感受：\n同一个模型，记忆怎么组织、怎么校验、怎么加载\n都会显著影响最终表现\n这部分属于 Agent 框架层的工程设计，不只是模型能力的问题",
+          "summary_zh": "纳米AI：记忆好坏取决于存什么；四层结构 + dreaming 空闲巩固，属框架工程而非纯模型力。",
+          "relation_zh": "中文提炼母帖工程文核心结论，便于国内读者快速抓住重点。",
+          "metrics": {
+            "likes": 95,
+            "retweets": 0,
+            "replies": 18,
+            "quotes": 0,
+            "bookmarks": 69,
+            "views": 9443
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/AnthropicAI/status/2118814753154064501"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2118814753154064501",
+          "article_title": null,
+          "attached_at": "2026-11-07T05:41:33.047465+00:00"
+        }
+      ]
     },
     {
       "id": "2118744950825275680",
@@ -266,7 +391,134 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2118744953321046129",
+          "url": "https://x.com/ravisparikh/status/2118744953321046129",
+          "handle": "ravisparikh",
+          "display_name": "Ravi Parikh",
+          "avatar": "",
+          "verified": false,
+          "followers": 5586,
+          "created_at": "2026-11-06T16:38:55.000Z",
+          "lang": null,
+          "text": "It's not just faster. In Vork, agents have the freedom to build truly wild stuff.\n\nIn most renderers, light travels in straight lines, but here that's only a default. An agent wrote the physics of this black hole as a program plugged into vork's public light hook. https://t.co/sGrsXjxYyQ",
+          "text_zh": "不只是更快。在 Vork 里，Agent 有空间做出真正狂野的东西。\n\n多数渲染器里光沿直线走，但在这里那只是默认。有个 Agent 把这个黑洞的物理写成程序，挂进 Vork 的公共 light hook。",
+          "summary_zh": "Ravi 跟帖演示 Vork：Agent 可改写光传播物理，把黑洞渲染挂到公共 light hook。",
+          "relation_zh": "母帖作者同线程续更，展示引擎对 Agent 可编程物理的自由度。",
+          "metrics": {
+            "likes": 184,
+            "retweets": 1,
+            "replies": 1,
+            "quotes": 1,
+            "bookmarks": 47,
+            "views": 14434
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2118742569869791233/vid/avc1/1920x1080/IcWIEvOA6rirTA2o.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2118742569869791233/img/oZKc2jZhB9ba9KG_.jpg",
+              "duration_ms": 12000
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-07T05:41:33.047226+00:00"
+        },
+        {
+          "id": "2118912835140919674",
+          "url": "https://x.com/zsakib_/status/2118912835140919674",
+          "handle": "zsakib_",
+          "display_name": "Sakib🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+          "avatar": "https://pbs.twimg.com/profile_images/1598645352332230656/cTb7Uh0l_normal.jpg",
+          "verified": true,
+          "followers": 3463,
+          "created_at": "2026-11-07T03:46:02.000Z",
+          "lang": "en",
+          "text": "Omg this vork thing is sick and it actually works, seemed a lil sus at first (im the perfect level of paranoid)\n\ntook their bird murmuration demo and got opus to remix it underwater, 400k fish + a rigged manta ray, took only 9 mins on my macbook m3 128gb\n\nprompt in the reply if you wanna try it",
+          "text_zh": "卧槽 Vork 这东西真猛，而且真能跑——一开始还有点怀疑（我刚好偏多疑）。\n\n拿他们的鸟群 murmuration 演示，让 Opus 改成水下版本：40 万条鱼 + 一只绑好骨骼的蝠鲼，在我 MacBook M3 128GB 上大概只花了 9 分钟。\n\n想试的话，提示词在回复里。",
+          "summary_zh": "zsakib_ 实机验证 Vork：用 Opus 把鸟群演示改成海底 40 万鱼+蝠鲼，M3 约 9 分钟。",
+          "relation_zh": "第三方复现母帖引擎，证明 agent 写场景确实能跑通。",
+          "metrics": {
+            "likes": 6,
+            "retweets": 0,
+            "replies": 2,
+            "quotes": 1,
+            "bookmarks": 4,
+            "views": 493
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2118912812089012224/vid/avc1/1920x1080/xaV_yjgwwF6NCiKx.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2118912812089012224/img/W0f2TImYBwyASeS6.jpg",
+              "duration_ms": 5500
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/zsakib_/status/2118912835140919674/video/1",
+            "https://twitter.com/ravisparikh/status/2118744950825275680"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2118744950825275680",
+          "article_title": null,
+          "attached_at": "2026-11-07T05:41:33.047238+00:00"
+        },
+        {
+          "id": "2118787222644445308",
+          "url": "https://x.com/SamJWasserman/status/2118787222644445308",
+          "handle": "SamJWasserman",
+          "display_name": "Sam Wasserman",
+          "avatar": "https://pbs.twimg.com/profile_images/2079299594715070464/3iiGUf5Y_normal.jpg",
+          "verified": true,
+          "followers": 5962,
+          "created_at": "2026-11-06T19:26:53.000Z",
+          "lang": "en",
+          "text": "Crazy wild alternates to video gen. Lately pure code has been creating video. Now this. I’m fascinated to dive deeper into an alternative to noise based video models or potentially a hybrid approach. Team @startvoyager and @ravisparikh doing fascinating things. Excited to dive in.",
+          "text_zh": "视频生成又来了疯狂的替代路线。最近纯代码也能做出视频，现在又是这个。我很想深入看看：它相对基于噪声的视频模型，是不是另一条路，或者能不能做成混合方案。@startvoyager 和 @ravisparikh 团队在做很有意思的事，准备好好研究。",
+          "summary_zh": "Sam Wasserman：Vork 提供噪声视频模型之外的「纯代码生成视频」路线，值得深挖。",
+          "relation_zh": "把母帖引擎放进更广的视频生成范式讨论，强调可混合路径。",
+          "metrics": {
+            "likes": 27,
+            "retweets": 0,
+            "replies": 2,
+            "quotes": 0,
+            "bookmarks": 14,
+            "views": 1739
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/ravisparikh/status/2118744950825275680"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "startvoyager",
+            "ravisparikh"
+          ],
+          "quoted_post_url": "https://x.com/i/status/2118744950825275680",
+          "article_title": null,
+          "attached_at": "2026-11-07T05:41:33.047247+00:00"
+        }
+      ]
     },
     {
       "id": "2118782708767965238",
@@ -706,7 +958,156 @@
       "note_tweet": {
         "text": "Introducing Higgsfield Miracle.\n\nOur latest proprietary post-production technology vectorizes any video into layers for localized, pixel-level editing in real time, with world knowledge built in. Every frame holds the image depth needed for cinema-grade post-production.\n\nNow in private beta with select testers. Coming soon to Higgsfield MCP.\n\nSet up Higgsfield MCP in Claude to be the first to try it."
       },
-      "x_long": true
+      "x_long": true,
+      "attached_posts": [
+        {
+          "id": "2118772763557269977",
+          "url": "https://x.com/adilinthewild/status/2118772763557269977",
+          "handle": "adilinthewild",
+          "display_name": "Adil Alimzhanov",
+          "avatar": "https://pbs.twimg.com/profile_images/2042947369512374274/4xz_sKwW_normal.jpg",
+          "verified": true,
+          "followers": 13821,
+          "created_at": "2026-11-06T18:29:26.000Z",
+          "lang": "en",
+          "text": "this is Mythos moment for video editing https://t.co/CbY7oOgaJ9 https://t.co/wHiN9EMU3M",
+          "text_zh": "这对视频剪辑来说，就是 Mythos 时刻。",
+          "summary_zh": "adilinthewild 配视频称 Higgsfield Miracle 对视频剪辑像「Mythos 时刻」。",
+          "relation_zh": "用短视频反应放大母帖 Miracle 发布的冲击感。",
+          "metrics": {
+            "likes": 685,
+            "retweets": 0,
+            "replies": 14,
+            "quotes": 4,
+            "bookmarks": 264,
+            "views": 44312
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 2880,
+              "h": 2160,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2118771748531531776/vid/avc1/2880x2160/3ExB6B2_Z8mZw4n-.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2118771748531531776/img/65J5C5n0iO-EocpP.jpg",
+              "duration_ms": 14596
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/adilinthewild/status/2118772763557269977/video/1",
+            "https://twitter.com/higgsfield/status/2118732716346933423"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2118732716346933423",
+          "article_title": null,
+          "attached_at": "2026-11-07T05:41:33.046945+00:00"
+        },
+        {
+          "id": "2118840032794468493",
+          "url": "https://x.com/isamquintero/status/2118840032794468493",
+          "handle": "isamquintero",
+          "display_name": "sam",
+          "avatar": "https://pbs.twimg.com/profile_images/2101193098483347456/N0FSppRB_normal.jpg",
+          "verified": true,
+          "followers": 295641,
+          "created_at": "2026-11-06T22:56:44.000Z",
+          "lang": "es",
+          "text": "Antes de que existiera la IA así se hacía https://t.co/BywE3xEAFl https://t.co/8bB5tIDz0f",
+          "text_zh": "AI 出现之前，大家是这么干的。",
+          "summary_zh": "isamquintero 配对比视频调侃：AI 出现前后期有多硬核，并引用 Higgsfield Miracle。",
+          "relation_zh": "高传播引用母帖，用前后对比凸显 Miracle 的后期冲击。",
+          "metrics": {
+            "likes": 8975,
+            "retweets": 0,
+            "replies": 47,
+            "quotes": 30,
+            "bookmarks": 1006,
+            "views": 828163
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1074,
+              "h": 1914,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2118839986418040833/vid/avc1/1074x1914/UWKyWq4qXbbqojcW.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2118839986418040833/img/InsYYYic0sbLdtUF.jpg",
+              "duration_ms": 61091
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/isamquintero/status/2118840032794468493/video/1",
+            "https://twitter.com/higgsfield/status/2118732716346933423"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2118732716346933423",
+          "article_title": null,
+          "attached_at": "2026-11-07T05:41:33.046967+00:00"
+        },
+        {
+          "id": "2118812689321648630",
+          "url": "https://x.com/alexmashrabov/status/2118812689321648630",
+          "handle": "alexmashrabov",
+          "display_name": "Alex 🧩 Scaling Video GenAI",
+          "avatar": "https://pbs.twimg.com/profile_images/2045602055604322304/-BLI5cZM_normal.jpg",
+          "verified": true,
+          "followers": 19953,
+          "created_at": "2026-11-06T21:08:05.000Z",
+          "lang": "en",
+          "text": "We’re on track to fundamentally rewrite the economics of AI video.\n\nMiracle is our proprietary technology for pixel-level video editing, with real-world knowledge built in. In short, it breaks video into editable layers and applies precise, local changes in real time. There’s no more need to regenerate the entire shot.\n\nThe goal is simple: end the chokehold that legacy software has on creators.",
+          "text_zh": "我们正走在从根本上改写 AI 视频经济学的路上。\n\nMiracle 是我们自研的像素级视频编辑技术，内置真实世界知识。简言之，它把视频拆成可编辑层，并实时做精确局部修改——不必再整镜重生成。\n\n目标很简单：结束传统软件对创作者的卡脖子。",
+          "summary_zh": "Higgsfield 联合创始人 Alex：Miracle 把视频拆成可编辑层做像素级局部修改，目标改写 AI 视频经济。",
+          "relation_zh": "官方团队对母帖 Miracle 的能力与愿景补充说明。",
+          "metrics": {
+            "likes": 391,
+            "retweets": 0,
+            "replies": 34,
+            "quotes": 1,
+            "bookmarks": 167,
+            "views": 22718
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 2048,
+              "h": 1536,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWeFdRsWAAA3Esf.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 2048,
+              "h": 1536,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWeFgGaXEAABi1Z.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo",
+            "photo"
+          ],
+          "links": [
+            "https://x.com/alexmashrabov/status/2118812689321648630/photo/1",
+            "https://x.com/alexmashrabov/status/2118812689321648630/photo/1",
+            "https://twitter.com/higgsfield/status/2118732716346933423"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2118732716346933423",
+          "article_title": null,
+          "attached_at": "2026-11-07T05:41:33.046958+00:00"
+        }
+      ]
     },
     {
       "id": "2118569045033169378",
@@ -969,7 +1370,130 @@
       "note_tweet": {
         "text": "We want Antigravity to be working for you all the time. We’ve been rolling out remote agents this week. Your tasks run in independent cloud virtual machines. Fire off a task, step away for coffee, unblock permissions from your phone, and come back to passed tests and a clean pull request. Available on all paid consumer plans."
       },
-      "x_long": true
+      "x_long": true,
+      "attached_posts": [
+        {
+          "id": "2118532094892896662",
+          "url": "https://x.com/_mohansolo/status/2118532094892896662",
+          "handle": "_mohansolo",
+          "display_name": "Varun Mohan",
+          "avatar": "https://pbs.twimg.com/profile_images/1658293192549339138/V0Y7u33__normal.jpg",
+          "verified": true,
+          "followers": 61031,
+          "created_at": "2026-11-06T02:33:06.000Z",
+          "lang": "en",
+          "text": "Just rolled out remote agents in Antigravity so now you can just fire and forget anywhere. It’s been the way we’ve been working at Google for some time so excited for you all to give it a go!\n\nMore to come tomorrow 👀 https://t.co/1WaanqMFg8",
+          "text_zh": "刚在 Antigravity 上线了远程 Agent，现在你可以在任何地方开火即忘。这本来就是我们在 Google 内部工作的方式，很高兴终于能开放给大家试用！\n\n明天还有更多 👀",
+          "summary_zh": "Google 的 Varun Mohan 宣布 Antigravity 已上线远程 Agent：随处开火即忘，称内部早这样用。",
+          "relation_zh": "Google 内部视角背书母帖的远程 Agent 推送，并暗示后续还有更新。",
+          "metrics": {
+            "likes": 871,
+            "retweets": 0,
+            "replies": 78,
+            "quotes": 24,
+            "bookmarks": 151,
+            "views": 99770
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 2048,
+              "h": 1152,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWaJtiaaYAAILDP.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/_mohansolo/status/2118532094892896662/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-07T05:41:33.046694+00:00"
+        },
+        {
+          "id": "2118725211222618580",
+          "url": "https://x.com/clmt/status/2118725211222618580",
+          "handle": "clmt",
+          "display_name": "Clement Farabet",
+          "avatar": "https://pbs.twimg.com/profile_images/1956826105157218304/l5LJDegZ_normal.jpg",
+          "verified": true,
+          "followers": 20685,
+          "created_at": "2026-11-06T15:20:29.000Z",
+          "lang": "en",
+          "text": "Remote Agents in Antigravity and the Managed Agents API are two surfaces with common building blocks:\n\n- Same Antigravity agent harness\n- Hosted Linux sandboxes (environment=\"remote\")\n- Portable skills so same setup on both \n\nBasically remote running agents either via the Antigravity UI, or via an API so you can build your own pipelines.",
+          "text_zh": "Antigravity 里的 Remote Agents 与 Managed Agents API 是两套界面、共用构建块：\n\n- 同一套 Antigravity agent harness\n- 托管 Linux 沙箱（environment=\"remote\"）\n- 可移植的 skills，两边配置一致\n\n简单说：远程跑 Agent 既可走 Antigravity UI，也可走 API，方便你搭自己的流水线。",
+          "summary_zh": "Clement Farabet：Antigravity 远程 Agent 与 Managed Agents API 共用沙箱与 skills，可 UI 或 API 跑。",
+          "relation_zh": "把母帖的云端远程 Agent 接到可编程 API 管线，说明同一套底层。",
+          "metrics": {
+            "likes": 32,
+            "retweets": 0,
+            "replies": 4,
+            "quotes": 1,
+            "bookmarks": 4,
+            "views": 1696
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1720,
+              "h": 754,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWc4d9PXIAEAyET.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/clmt/status/2118725211222618580/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-07T05:41:33.046714+00:00"
+        },
+        {
+          "id": "2118550069435924779",
+          "url": "https://x.com/kevinhou22/status/2118550069435924779",
+          "handle": "kevinhou22",
+          "display_name": "Kevin Hou",
+          "avatar": "https://pbs.twimg.com/profile_images/1917712667151851524/5nlgULqT_normal.jpg",
+          "verified": true,
+          "followers": 15100,
+          "created_at": "2026-11-06T03:44:31.000Z",
+          "lang": "en",
+          "text": "antigravity launch 1 of N…\n\nkicking it off with remote agents ☁️ \n\nfire and forget. from the antigravity desktop app, cli, or on your phone",
+          "text_zh": "antigravity 连发 1 of N…\n\n先从远程 Agent ☁️ 开场\n\n开火即忘。从 Antigravity 桌面应用、CLI，或在手机上都能用。",
+          "summary_zh": "kevinhou22 称 Antigravity「连发 1/N」以远程 Agent 开场：桌面、CLI 或手机均可开火即忘。",
+          "relation_zh": "产品侧跟进母帖，点明入口覆盖桌面/CLI/手机。",
+          "metrics": {
+            "likes": 222,
+            "retweets": 0,
+            "replies": 14,
+            "quotes": 1,
+            "bookmarks": 31,
+            "views": 8909
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/antigravity/status/2118530564428833010"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2118530564428833010",
+          "article_title": null,
+          "attached_at": "2026-11-07T05:41:33.046706+00:00"
+        }
+      ]
     },
     {
       "id": "2118792930211107115",
@@ -2089,7 +2613,119 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2118702416862261481",
+          "url": "https://x.com/ArchiveExplorer/status/2118702416862261481",
+          "handle": "ArchiveExplorer",
+          "display_name": "Archive",
+          "avatar": "https://pbs.twimg.com/profile_images/2086925069217841152/bbR9tdhJ_normal.jpg",
+          "verified": true,
+          "followers": 13654,
+          "created_at": "2026-11-06T13:49:54.000Z",
+          "lang": "en",
+          "text": "Video editors f*cked again...\n\nsomeone took REA’s \"reverse engineer anything\" idea and pointed it at video.\n\nIt’s called rea-video, and it lets your AI coding agent:\n\n- break any video down shot by shot.\n- tell if each shot was filmed, AI-generated or built in code.\n- pull every caption with timings, every cut, the music BPM and where each sound effect lands.\n- write a reverse-engineered prompt for every AI shot.\n- hand you a remake plan: what to film, what to generate, what to code.\n\nhow to run it:\n\n1. tell your agent \"Install github-com/JuneYaooo/rea-video, then break down this video: ad.mp4\"\n2. it runs rea-video decompose ad.mp4 -o out/ad --vlm\n3. open out/ad/report.html - a prompt for every shot + the remake plan\n\noffline mode is free and 98%+ accurate on original files.\n2,530 stars in 8 days. runs in Claude Code and Codex.\n\nhttps://t.co/1gQ6ULrYz3\nlong live open source!\n\nhow to build an agent you can actually inspect ↓",
+          "text_zh": "视频剪辑又被干了一波……\n\n有人把 REA「逆向任意工程」的思路对准了视频。\n\n它叫 rea-video，能让你的 AI coding agent：\n\n- 把任意视频逐镜头拆开；\n- 判断每镜是实拍、AI 生成还是代码做的；\n- 抽出每条字幕与时间码、每一次剪切、音乐 BPM 以及每个音效落点；\n- 再写出可复刻的逆向提示词与做法。",
+          "summary_zh": "Archive 配视频介绍 rea-video：把 REA「逆向任意工程」思路对准视频，逐镜判断实拍/AI/代码并拆解做法。",
+          "relation_zh": "点名母帖同款开源工具 rea-video，把能力与定位讲得更清楚。",
+          "metrics": {
+            "likes": 39,
+            "retweets": 0,
+            "replies": 10,
+            "quotes": 0,
+            "bookmarks": 38,
+            "views": 2213
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1200,
+              "h": 1500,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2118700005162676225/vid/avc1/1200x1500/dC6HsPjjMWtq-PNE.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2118700005162676225/img/8EsC88Jc8ZqxxoND.jpg",
+              "duration_ms": 24000
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/ArchiveExplorer/status/2118702416862261481/video/1",
+            "https://twitter.com/ArchiveExplorer/status/2116917748076834852"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2116917748076834852",
+          "article_title": null,
+          "attached_at": "2026-11-07T05:41:33.046303+00:00"
+        },
+        {
+          "id": "2118599328965246988",
+          "url": "https://x.com/GithubProjects/status/2118599328965246988",
+          "handle": "GithubProjects",
+          "display_name": "GitHub Projects Community",
+          "avatar": "",
+          "verified": false,
+          "followers": 345710,
+          "created_at": "2026-11-06T07:00:16.000Z",
+          "lang": null,
+          "text": "Explore it here:\nhttps://t.co/TqF1j2EV4L",
+          "text_zh": "在这里探索：\nhttps://osp.fyi/rea-video",
+          "summary_zh": "GithubProjects 跟帖给出 rea-video 入口 osp.fyi/rea-video，可直接探索该 agent skill。",
+          "relation_zh": "母帖同线程的官方跟帖，补上可点开的项目链接。",
+          "metrics": {
+            "likes": 33,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 59,
+            "views": 3603
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-07T05:41:33.046346+00:00"
+        },
+        {
+          "id": "2118579754760610090",
+          "url": "https://x.com/Han722371523249/status/2118579754760610090",
+          "handle": "Han722371523249",
+          "display_name": "Han",
+          "avatar": "https://pbs.twimg.com/profile_images/2115377410480971776/jmHKnf77_normal.jpg",
+          "verified": true,
+          "followers": 973,
+          "created_at": "2026-11-06T05:42:29.000Z",
+          "lang": "zh",
+          "text": "继 REA（Reverse Engineer Anything）逆向任意工程软件，REA video 出现了。\n\n任意视频逐镜逆向——这镜是实拍、AI 生成，还是代码做的；字幕、剪辑、音频怎么来的，顺带给复刻思路。形态是 agent skill。\n\nGitHub 今天在破圈，刚核对 ★2224、fork 316。\nhttps://t.co/1Y935FiBaZ\n\n做 AI video / 视频逆向的，可以盯一下。",
+          "text_zh": "继 REA（Reverse Engineer Anything）逆向任意工程软件，REA video 出现了。\n\n任意视频逐镜逆向——这镜是实拍、AI 生成，还是代码做的；字幕、剪辑、音频怎么来的，顺带给复刻思路。形态是 agent skill。\n\nGitHub 今天在破圈，刚核对 ★2224、fork 316。\nhttps://t.co/1Y935FiBaZ\n\n做 AI video / 视频逆向的，可以盯一下。",
+          "summary_zh": "中文圈速览 REA video：继逆向工程软件后，现可逐镜拆解视频并给复刻思路，当日星标破两千。",
+          "relation_zh": "用中文补充母帖背后项目热度与形态（agent skill）。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 2,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 22
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://github.com/JuneYaooo/rea-video"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-07T05:41:33.046359+00:00"
+        }
+      ]
     },
     {
       "id": "2118856239719608353",
