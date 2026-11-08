@@ -286,7 +286,149 @@
         "text": "Today we're releasing Underdog Woof, the #1 frontier TTS model\n\nIt's only 31.7 MB and beats Text-to-Speech models 1000x larger on Word Error Rate\n\nIt's small enough to run fast in your browser, phone, watch... no data centers\n\nIt’s free and open weight with Underdog CC BY-NC 4.0. Try Woof today in Underdog, your Private Personal AI: https://t.co/4BKQcRDUD4"
       },
       "x_long": true,
-      "article_summary_zh": "Woof 提供两个规格：单音色 31.7MB（3070 万参数），双音色 40.6MB。在包含电话号码、日期、价格和代码的 500 句高压测试中，双音色版词错误率为 1.42%，比 41.5GB 的 Fish Audio Drama 3（1.89%）低约 25%。单音色版在苹果 M5 Max 单线程上约 18 倍实时，13 秒语音只需 0.73 秒生成。模型自带文本正规化器，能正确读出电话、日期、金额、代码和网址。权重以 CC BY-NC 4.0 开放，非商用可下载，双音色版已上 Hugging Face，本地只需 numpy 即可运行。"
+      "article_summary_zh": "Woof 提供两个规格：单音色 31.7MB（3070 万参数），双音色 40.6MB。在包含电话号码、日期、价格和代码的 500 句高压测试中，双音色版词错误率为 1.42%，比 41.5GB 的 Fish Audio Drama 3（1.89%）低约 25%。单音色版在苹果 M5 Max 单线程上约 18 倍实时，13 秒语音只需 0.73 秒生成。模型自带文本正规化器，能正确读出电话、日期、金额、代码和网址。权重以 CC BY-NC 4.0 开放，非商用可下载，双音色版已上 Hugging Face，本地只需 numpy 即可运行。",
+      "attached_posts": [
+        {
+          "id": "2118874092120187075",
+          "url": "https://x.com/UnderdogAI/status/2118874092120187075",
+          "handle": "UnderdogAI",
+          "display_name": "Underdog AI",
+          "avatar": "https://pbs.twimg.com/profile_images/2116283695946694656/x_eWSHUS_normal.jpg",
+          "verified": true,
+          "followers": 9835,
+          "created_at": "2026-11-07T01:12:04.000Z",
+          "lang": "en",
+          "text": "Thank you @TechCrunch for featuring us!\n\nWoof reads phone numbers and hard sentences in the most natural way, unlike other voice model who trip on these\n\nListen⬇️ and try Woof in Underdog. 31.7MB small model can do magic https://t.co/AT7IoBNlAm https://t.co/TihPQ2fS27",
+          "text_zh": "谢谢 TechCrunch 报道我们！Woof 读电话号码和绕口的句子都更自然，不像其他语音模型常在这些地方绊倒。来听听，也欢迎在 Underdog 里试用——这个只有 31.7MB 的小模型，能做出让人惊喜的效果。",
+          "summary_zh": "Underdog 官方感谢 TechCrunch 报道，并用视频展示 Woof 朗读电话号码和难句时更自然。",
+          "relation_zh": "官方账号用试听视频补充母帖的发布说明，展示小模型在难读文本上的表现。",
+          "metrics": {
+            "likes": 58,
+            "retweets": 3,
+            "replies": 9,
+            "quotes": 1,
+            "bookmarks": 17,
+            "views": 4130
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 984,
+              "h": 1920,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2118873893868032000/vid/avc1/984x1920/Hczcqcwn3vjunlam.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2118873893868032000/img/ytqe_0Z7Vsr_3eIM.jpg",
+              "duration_ms": 57900
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/UnderdogAI/status/2118874092120187075/video/1",
+            "https://twitter.com/techcrunch/status/2118690634777133226"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "TechCrunch"
+          ],
+          "quoted_post_url": "https://x.com/i/status/2118690634777133226",
+          "article_title": null,
+          "attached_at": "2026-11-08T05:33:50.831830+00:00"
+        },
+        {
+          "id": "2119019129881440539",
+          "url": "https://x.com/victormustar/status/2119019129881440539",
+          "handle": "victormustar",
+          "display_name": "Victor M",
+          "avatar": "https://pbs.twimg.com/profile_images/1099983311101984768/p7dZK4S__normal.jpg",
+          "verified": true,
+          "followers": 32962,
+          "created_at": "2026-11-07T10:48:24.000Z",
+          "lang": "en",
+          "text": "Underdog Woof TTS could be quite useful: 31.7 MB model with a single voice and with a built-in normalizer for numbers, dates and codes. 👀\n\nhttps://t.co/qaiuYcWMcg https://t.co/pFGJl0IWSE",
+          "text_zh": "Underdog 的 Woof 语音合成挺有用：31.7MB、单一音色，还内置了数字、日期和编码的文本规范化。",
+          "summary_zh": "有开发者试用后指出，Woof 虽是 31.7MB 的单音色模型，但自带数字、日期和编码的读法规范化。",
+          "relation_zh": "第三方试用视频，点出了母帖没有展开的文本规范化能力。",
+          "metrics": {
+            "likes": 117,
+            "retweets": 7,
+            "replies": 10,
+            "quotes": 2,
+            "bookmarks": 95,
+            "views": 7329
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1440,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2119019109727850496/vid/avc1/1440x1080/625oSkgEW1cO_rPn.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2119019109727850496/img/N_QvMIbxp3SDsPQu.jpg",
+              "duration_ms": 10350
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://huggingface.co/ConwayResearch/Underdog-Woof",
+            "https://x.com/victormustar/status/2119019129881440539/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-08T05:33:50.831830+00:00"
+        },
+        {
+          "id": "2118924469549056109",
+          "url": "https://x.com/0xSigil/status/2118924469549056109",
+          "handle": "0xSigil",
+          "display_name": "Sigil Wen",
+          "avatar": "https://pbs.twimg.com/profile_images/2101470722094989312/6BV11OZD_normal.jpg",
+          "verified": true,
+          "followers": 62463,
+          "created_at": "2026-11-07T04:32:15.000Z",
+          "lang": "en",
+          "text": "Woof is 31.7 MB, so small that the whole model runs in your browser in WebGPU\n\nYou can generate voices even after turning off Wifi\n\nTry woof here: https://t.co/lNIwffmL8y https://t.co/deSnwDCcr2 https://t.co/A4yRde6Zam",
+          "text_zh": "Woof 只有 31.7MB，小到整个模型都能在浏览器里用 WebGPU 运行。关掉 Wi-Fi 之后也还能继续生成语音。来试试。",
+          "summary_zh": "Underdog 创始人强调，Woof 可在浏览器的 WebGPU 上本地运行，断网后仍能继续出声。",
+          "relation_zh": "创始人亲自说明母帖里“能在浏览器里跑、不靠数据中心”的实现方式：用 WebGPU 做本地推理。",
+          "metrics": {
+            "likes": 285,
+            "retweets": 18,
+            "replies": 14,
+            "quotes": 2,
+            "bookmarks": 191,
+            "views": 14117
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1926,
+              "h": 1444,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWfs9tna4AAkUSH.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://underdog.ai/escape",
+            "https://x.com/0xSigil/status/2118924469549056109/photo/1",
+            "https://twitter.com/UnderdogAI/status/2118921155713372212"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2118921155713372212",
+          "article_title": null,
+          "attached_at": "2026-11-08T05:33:50.831830+00:00"
+        }
+      ]
     },
     {
       "id": "2119162511203131591",
@@ -821,7 +963,141 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2118863157569737109",
+          "url": "https://x.com/lydiahallie/status/2118863157569737109",
+          "handle": "lydiahallie",
+          "display_name": "Lydia Hallie ✨",
+          "avatar": "https://pbs.twimg.com/profile_images/1994238936345137154/exEBW2UI_normal.jpg",
+          "verified": true,
+          "followers": 180169,
+          "created_at": "2026-11-07T00:28:37.000Z",
+          "lang": null,
+          "text": "If you were using Conductor, you can do many* of the same things with Claude Code Projects. Just add your repo and ask Claude to pick up the branches you pushed!\n\n*we don't have multiplayer yet, but the rest of the workflow should feel familiar https://t.co/oS03U98Vfs",
+          "text_zh": "如果你之前用的是 Conductor，现在用 Claude Code Projects 也能做其中很多事：把仓库加进去，让 Claude 接手你推上去的分支就行。我们还没有多人同时协作，但其余工作流应该会很熟悉。",
+          "summary_zh": "Anthropic 的 Lydia Hallie 演示：Claude Code Projects 可覆盖 Conductor 的多数流程，但明确说多人协作尚未上线。",
+          "relation_zh": "母帖所引“我们还没有多人协作”的原话出处，并带上了官方演示视频。",
+          "metrics": {
+            "likes": 801,
+            "retweets": 24,
+            "replies": 150,
+            "quotes": 14,
+            "bookmarks": 294,
+            "views": 71986
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2118862567947051008/vid/avc1/1920x1080/7u6PXj_jEO7YTjDf.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2118862567947051008/img/g0TpWsco4BuRAAjx.jpg",
+              "duration_ms": 31900
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-08T05:33:50.831830+00:00"
+        },
+        {
+          "id": "2119085779754651648",
+          "url": "https://x.com/bebuu_ai/status/2119085779754651648",
+          "handle": "bebuu_ai",
+          "display_name": "bebu",
+          "avatar": "https://pbs.twimg.com/profile_images/2114595320608993280/eo5XiR7k_normal.jpg",
+          "verified": true,
+          "followers": 1109,
+          "created_at": "2026-11-07T15:13:15.000Z",
+          "lang": "en",
+          "text": "Yesterday Anthropic engineer Lydia Hallie said \"We don't have multiplayer yet\" for Claude Code. Less than 24 hours later, the internal employee UI for it leaked.\n\nScreenshots captured by `@testingcatalog` inside Claude Code `Projects (Beta)` show two new panels tagged `Ant only` https://t.co/zrTxN3zuzo",
+          "text_zh": "昨天 Anthropic 工程师 Lydia Hallie 才说 Claude Code“还没有多人协作”，不到 24 小时，内部员工界面就被流出。TestingCatalog 在 Claude Code Projects（Beta）里截到两个标着 Ant only（Anthropic 内部员工标识）的新面板：一是项目页顶部的 Recent activity，会汇总共享项目里最新线程和已完成任务；二是右侧 Overview，带 All、Threads、Scheduled tasks 标签，方便多人查看同一工作区里智能体和同事在跑什么。与此同时，Anthropic 还为 Pro、Max 和 Ultra 的云端会话上线了自动仓库配置：Claude 会读取仓库、判断依赖、网络权限和所需 API 密钥，若配置脚本能在 5 分钟内跑完就会缓存，并通过虚拟机外的代理注入密钥，容器里看不到明文。",
+          "summary_zh": "有人整理流出的内部界面：项目页出现仅员工可见的近期动态和总览面板，同时云端会话支持自动配置仓库。",
+          "relation_zh": "在母帖截图之外，补充了内部 Overview 面板和云端自动配环境等更多细节。",
+          "metrics": {
+            "likes": 29,
+            "retweets": 0,
+            "replies": 5,
+            "quotes": 0,
+            "bookmarks": 16,
+            "views": 6811
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1199,
+              "h": 739,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWiBRZca8AEoCdR.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 1199,
+              "h": 739,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWiBR_nbQAARiVl.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo",
+            "photo"
+          ],
+          "links": [
+            "https://x.com/bebuu_ai/status/2119085779754651648/photo/1",
+            "https://x.com/bebuu_ai/status/2119085779754651648/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "testingcatalog"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-08T05:33:50.831830+00:00"
+        },
+        {
+          "id": "2119244764960764391",
+          "url": "https://x.com/tvytlx/status/2119244764960764391",
+          "handle": "tvytlx",
+          "display_name": "Xiao Tan",
+          "avatar": "https://pbs.twimg.com/profile_images/2023275428606283776/eZCtE_0S_normal.jpg",
+          "verified": true,
+          "followers": 13155,
+          "created_at": "2026-11-08T01:45:00.000Z",
+          "lang": "zh",
+          "text": "全员用上 AI 写代码之后，团队里的协作其实比以前更烂了。\n\n以前写几百行代码得磨两天，中间要开会、写文档、提 PR，队友哪怕不想听，也被迫知道你在干嘛。\n\n现在每个人本地开个 Claude Code，半小时干完几千行。\n\n但所有的思考过程和上下文，全锁在自己电脑的黑盒里。 https://t.co/OL4SI6bpUI",
+          "text_zh": "全员用上 AI 写代码之后，团队里的协作其实比以前更差了。以前写几百行代码要磨两天，中间得开会、写文档、提 PR，队友就算不想听，也被迫知道你在干什么。现在每个人在本地开一个 Claude Code，半小时就能干完几千行，但思考过程和上下文全锁在自己电脑的黑盒里。队友只看到一大坨代码突然砸过来，不知道你给 AI 喂了什么前提、跳过了哪些坑，甚至两个人同时让智能体改同一块逻辑都不知道。刚看到有人扒出 Anthropic 正在给 Claude Code Projects 做多人协作，内部的 Lydia Hallie 昨天也说了句“我们还没有多人协作”。看流出的界面，切得很准：项目主页会自动汇总所有人最新的对话线程，还能在一个面板里看清整个项目挂了哪些定时任务，另外还在做 Duet 邀请和企业组织合并。这步棋其实相当到位，它把团队要共享的东西从“代码”往上提了一层。以前软件工程围着 Git 转，大家共享的是最终写出来的代码；到了用智能体干活的阶段，真正的源文件其实是上下文和任务流。谁给 AI 下了什么指令、后台跑着什么定时任务、哪个线程改了哪块逻辑，一旦能在团队里摊开，至少能砍掉大半用来对齐进度的会。当然这事能跑通有个前提：模块边界和合并卡点得先定死。要是几个人带着一堆智能体同时往一个地方硬怼，多人模式只会让代码撞车更快。以后摸鱼大概也更难了——项目主页会自动总结你最新的对话线程。要不我先写个定时任务，让 Claude 每天跟自己聊两句架构重构来充数？",
+          "summary_zh": "作者认为全员使用编码智能体后，思考过程锁在个人电脑里，协作反而变差；若 Projects 能共享线程和任务流，等于把团队对齐从代码提升到上下文。",
+          "relation_zh": "解释母帖里“协作模式”为什么重要：智能体时代真正要共享的是指令和任务流，而不只是 Git 里的代码。",
+          "metrics": {
+            "likes": 1,
+            "retweets": 1,
+            "replies": 3,
+            "quotes": 0,
+            "bookmarks": 2,
+            "views": 309
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://x.com/testingcatalog/status/2119063604918182377"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2119063604918182377",
+          "article_title": null,
+          "attached_at": "2026-11-08T05:33:50.831830+00:00"
+        }
+      ]
     },
     {
       "id": "2119142144749293863",
@@ -1457,7 +1733,134 @@
         "text": "The world needs two types of document OCR:\n\n1. Extremely fast/cheap OCR tools: Each organization might have trillions of documents, and this is oftentimes helpful as a 'first pass' to digitalize each document so that it's accessible to AI agents. Accuracy might not be the highest, but it's 'good enough' for agentic retrieval and a deeper second pass.\n\nThis includes free/OSS tools like pypdf, pymupdf. Over the past year, we've invested heavy efforts in this area through `liteparse` - the fastest/most accurate free/OSS parser. It integrates with 5 other open-weight OCR tools, most recently with MiniCPM-OCR from @OpenBMB \n\nhttps://t.co/JNER0mVcB8\n\nWe're also doing a lot more in this space - stay tuned! \n\n2. Accurate VLM-based OCR: This includes the subset of documents that are a) complex, and b) the organization must parse accurately. The data needs to be accurate because this data is used in business critical workflows across finance, insurance, healthcare, and more. \n\nAt the same time, even if the tool is not free, any VLM needs to be able to scale to billions of pages in a cost-effective manner.\n\nTwo weeks ago we launched OCRia-1, the best general purpose model for document parsing. It not only parsers complex text layouts, complex tables, but also visual diagrams and charts. \n\nhttps://t.co/PRxvOFmTLf\n\nIt powers all our modes within LlamaParse; see the most recent benchmarks on ParseBench: https://t.co/PWczfhp0OX\n\n-------\n\nBoth of these document OCR types require rigorous benchmarks, data+training pipelines, and an ambitious/talent-dense team pushing the pareto frontier of accuracy and cost. \n\nIf you're looking to solve document understanding across either frontier, come talk to us!"
       },
       "x_long": true,
-      "article_summary_zh": "liteparse 是 LlamaIndex 开源的快速文档解析器，定位为面向智能体的第一遍数字化工具，强调低成本、高吞吐，而不是替代最终的高精度解析。仓库说明它适合先把海量文档变成可检索文本，再对命中的少数文件做更贵的深度 OCR。"
+      "article_summary_zh": "liteparse 是 LlamaIndex 开源的快速文档解析器，定位为面向智能体的第一遍数字化工具，强调低成本、高吞吐，而不是替代最终的高精度解析。仓库说明它适合先把海量文档变成可检索文本，再对命中的少数文件做更贵的深度 OCR。",
+      "attached_posts": [
+        {
+          "id": "2117417321308545290",
+          "url": "https://x.com/jerryjliu0/status/2117417321308545290",
+          "handle": "jerryjliu0",
+          "display_name": "Jerry Liu",
+          "avatar": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg",
+          "verified": true,
+          "followers": 87725,
+          "created_at": "2026-11-03T00:43:23.000Z",
+          "lang": "en",
+          "text": "Today, @llama_index is an applied research lab building models and agents for document work.\n\nWe have the best general purpose OCR models at the Pareto frontier of accuracy and cost. You can use them today within LlamaParse.\n✅ This includes fast and cheap models for ingesting https://t.co/VJMVMPuNCB",
+          "text_zh": "今天的 LlamaIndex 是一家做文档模型和智能体的应用研究实验室。我们在精度和成本的帕累托前沿上拥有最好的通用 OCR 模型，现在就能在 LlamaParse 里使用。这既包括适合把海量文件先数字化入库的又快又便宜的模式（我们的 cost-effective、fast，以及 liteparse），也包括能稳住复杂图表、表格、表单和手写识别精度的高质量模型。过去两周我们发布了用于文档解析的 40 亿参数视觉语言模型 OCRia-1，以及目前文档抽取最准的 Extract v2.6。我们也在持续投入最全面的开源基准：ParseBench 上已有 150 多个模型和每月超过 3 万次下载。这正好对应市场里的两大趋势：各任务需要更专精的智能，以及大量非结构化上下文还锁在文件里。无论你是创业公司还是世界 500 强，只要有大批文件要数字化和自动化，都欢迎来聊。",
+          "summary_zh": "LlamaIndex 创始人说明实验室定位：既有包含 liteparse 的便宜快扫，也有高精度的 OCRia-1 和 Extract v2.6。",
+          "relation_zh": "作者本人把“两档 OCR”讲完整了，母帖里的 liteparse 正是其中面向海量文件的快扫方案。",
+          "metrics": {
+            "likes": 84,
+            "retweets": 2,
+            "replies": 31,
+            "quotes": 1,
+            "bookmarks": 26,
+            "views": 8348
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1080,
+              "h": 1350,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2117417116035117056/vid/avc1/1080x1350/G2V9g7H2mZ8XHAoU.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2117417116035117056/img/R8kIQ8Fve9oEJiPf.jpg",
+              "duration_ms": 59200
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/jerryjliu0/status/2117417321308545290/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "llama_index"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-08T05:33:50.831830+00:00"
+        },
+        {
+          "id": "2118094857260658989",
+          "url": "https://x.com/jerryjliu0/status/2118094857260658989",
+          "handle": "jerryjliu0",
+          "display_name": "Jerry Liu",
+          "avatar": "https://pbs.twimg.com/profile_images/1283610285031460864/1Q4zYhtb_normal.jpg",
+          "verified": true,
+          "followers": 87725,
+          "created_at": "2026-11-04T21:35:40.000Z",
+          "lang": "en",
+          "text": "OCRia-1 is one of the only VLM OCR models that can uniformly parse any element (tables, charts, images, equations, scans, forms) with a consistently high degree of accuracy.\n\nWe’ve released a 37 page technical report on ArXiv. It contains comprehensive information about our data https://t.co/rJEdiZhF18",
+          "text_zh": "OCRia-1 是少数能以稳定高准确度统一解析表格、图表、图片、公式、扫描件和表单的视觉 OCR 模型之一。我们在 arXiv 发布了 37 页技术报告，详细介绍数据、训练流程和评测结果，附录里还有大量细节。如果你要在生产环境里高准确度地解析海量文档，欢迎来看。",
+          "summary_zh": "Jerry Liu 介绍高精度视觉 OCR 模型 OCRia-1，并发布 37 页 arXiv 技术报告。",
+          "relation_zh": "对应母帖所说的第二档“高精 OCR”，和便宜快扫的 liteparse 形成对照。",
+          "metrics": {
+            "likes": 76,
+            "retweets": 3,
+            "replies": 18,
+            "quotes": 0,
+            "bookmarks": 52,
+            "views": 4805
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2118094756542922752/vid/avc1/1920x1080/tUlpSNHe6HX2xueb.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2118094756542922752/img/DdJqGkxeCaGaA0Rd.jpg",
+              "duration_ms": 51200
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/jerryjliu0/status/2118094857260658989/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-08T05:33:50.831830+00:00"
+        },
+        {
+          "id": "2118433203526533150",
+          "url": "https://x.com/llama_index/status/2118433203526533150",
+          "handle": "llama_index",
+          "display_name": "LlamaIndex 🦙",
+          "avatar": "https://pbs.twimg.com/profile_images/1967920417760251904/0ytfduMQ_normal.png",
+          "verified": true,
+          "followers": 122362,
+          "created_at": "2026-11-05T20:00:08.000Z",
+          "lang": "en",
+          "text": "LiteParse integrates with MiniCPM-OCR from @openBMB 🚀 \n\nMiniCPM-OCR is a new lightweight OCR model that performs OCR after capturing cropped layout regions. On ParseBench, it beats Gemini 3.5 Flash Lite and PaddleOCR-VL-1.6 on content faithfulness.\n\nLiteParse is our ultra-fast",
+          "text_zh": "LiteParse 已接入 OpenBMB 的 MiniCPM-OCR。这是一款先裁切版面区域再识别的轻量 OCR，在 ParseBench 的内容忠实度上胜过 Gemini 3.5 Flash Lite 和 PaddleOCR-VL-1.6。LiteParse 是我们超快的开源文档解析器；需要 OCR 时，可以接上你现有的任意识别模型。",
+          "summary_zh": "LlamaIndex 官方宣布 LiteParse 接入轻量模型 MiniCPM-OCR，内容忠实度评测优于 Gemini 3.5 Flash Lite。",
+          "relation_zh": "官方账号补充 liteparse 生态：这个快扫解析器可以外挂不同的 OCR 后端。",
+          "metrics": {
+            "likes": 19,
+            "retweets": 3,
+            "replies": 11,
+            "quotes": 2,
+            "bookmarks": 8,
+            "views": 5148
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [
+            "OpenBMB"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-08T05:33:50.831830+00:00"
+        }
+      ]
     },
     {
       "id": "2119023084070170939",
@@ -1670,7 +2073,145 @@
         "text": "🚨重磅提醒！Qwen 4.0 正在以 QoDuck 的身份悄然登陆阿里巴巴旗下 Agent 平台 Qoder！\n\n昨天 Qwen 官方发预热图，引用《庄子·逍遥游》：“北冥有鱼，其名为_”\n\n留白处正是“鲲”，发音与Qwen同音，名字就来自这条神鱼。\n\n今天 Qoder 立刻上线匿名模型 Qoduck，官方亲口喊出：“鲲鹏将至 鸭先知”\n\n这是玩苏轼《惠崇春江晚景》里的名句“春江水暖鸭先知”。\n\n意思是：鲲鹏（Qwen 4）将至，最先察觉到的是这只鸭子（Qoduck）。\n\n从庄子到苏轼，中国古典意象接得丝滑。\n\n个人用户现在每天都有免费额度，英雄不问出处，先用为敬！\n\n#Qoduck #Qwen4 #Qoder #通义千问 #鲲鹏将至鸭先知 #北冥有鱼 #刘大一恒 #阿里巴巴"
       },
       "x_long": true,
-      "article_summary_zh": "帖子梳理了两条相互印证的信号：Qwen 官方前一天用《庄子·逍遥游》里“北冥有鱼，其名为_”的留白预热，缺的字正是“鲲”；次日 Qoder 就上线匿名模型 Qoduck，并喊出“鲲鹏将至 鸭先知”。作者认为这是在用古典意象暗示 Qwen 4 将至、而这只“鸭子”会先被用户摸到。个人用户目前每天有免费额度。这仍是社区推测，官方并未直接宣布 Qoduck 等于 Qwen 4。"
+      "article_summary_zh": "帖子梳理了两条相互印证的信号：Qwen 官方前一天用《庄子·逍遥游》里“北冥有鱼，其名为_”的留白预热，缺的字正是“鲲”；次日 Qoder 就上线匿名模型 Qoduck，并喊出“鲲鹏将至 鸭先知”。作者认为这是在用古典意象暗示 Qwen 4 将至、而这只“鸭子”会先被用户摸到。个人用户目前每天有免费额度。这仍是社区推测，官方并未直接宣布 Qoduck 等于 Qwen 4。",
+      "attached_posts": [
+        {
+          "id": "2119037217750626520",
+          "url": "https://x.com/NFT_Chen/status/2119037217750626520",
+          "handle": "NFT_Chen",
+          "display_name": "SuSu_酥酥👅",
+          "avatar": "https://pbs.twimg.com/profile_images/1948253379005906944/uGx9Ufe-_normal.jpg",
+          "verified": true,
+          "followers": 27229,
+          "created_at": "2026-11-07T12:00:17.000Z",
+          "lang": "ja",
+          "text": "🥷 Qwen 4.0 将至，Qoduck 先知！ https://t.co/k1oJXYpgua https://t.co/evyskoxV0K",
+          "text_zh": "Qwen 4.0 将至，Qoduck 先知！",
+          "summary_zh": "同一作者用视频再次强调“鲲鹏将至，鸭先知”，为 Qoduck 可能是 Qwen 4 灰度版造势。",
+          "relation_zh": "母帖作者的后续视频，把长文里的古典暗示收成一句口号。",
+          "metrics": {
+            "likes": 61,
+            "retweets": 0,
+            "replies": 8,
+            "quotes": 2,
+            "bookmarks": 9,
+            "views": 10204
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2119037144048308224/vid/avc1/1920x1080/yWnEHJTrGtaDpWP5.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2119037144048308224/img/GnlVFhUqDIvumTZg.jpg",
+              "duration_ms": 14000
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/NFT_Chen/status/2119037217750626520/video/1",
+            "https://twitter.com/NFT_Chen/status/2119023084070170939"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2119023084070170939",
+          "article_title": null,
+          "attached_at": "2026-11-08T05:33:50.831830+00:00"
+        },
+        {
+          "id": "2118900346512625667",
+          "url": "https://x.com/leo114119/status/2118900346512625667",
+          "handle": "leo114119",
+          "display_name": "Leo · Building w/ AI",
+          "avatar": "https://pbs.twimg.com/profile_images/2097524411033100288/TICgviAl_normal.jpg",
+          "verified": true,
+          "followers": 9448,
+          "created_at": "2026-11-07T02:56:24.000Z",
+          "lang": "zh",
+          "text": "Qoder 新出匿名模型 Qoduck  VS Qwen 3.8 max 3D 体素浮空宝塔对比\n\n这个Qoduck 估计不是什么大参数模型了\n\n生成内容的质量有点奇怪，甚至感觉点没训练好的感觉\n\n完全比不上 Qwen 3.8 MAX，更不要说 Qwen 4了 https://t.co/b35QyiTkBz https://t.co/YKb3gIIIgL",
+          "text_zh": "拿 Qoder 新上线的匿名模型 Qoduck，和 Qwen 3.8 Max 做了 3D 体素浮空宝塔对比。观感上 Qoduck 不太像大参数模型，生成质量有点怪，甚至像没训练充分，完全比不上 Qwen 3.8 Max，更别提 Qwen 4。",
+          "summary_zh": "有用户实测 Qoduck 与 Qwen 3.8 Max 的 3D 生成，认为质量明显更弱，不像即将发布的 Qwen 4。",
+          "relation_zh": "用对比视频给母帖“Qoduck 可能是 Qwen 4”的传闻泼了一盆冷水。",
+          "metrics": {
+            "likes": 40,
+            "retweets": 1,
+            "replies": 11,
+            "quotes": 0,
+            "bookmarks": 5,
+            "views": 6032
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1870,
+              "h": 1688,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2118900191180840960/vid/avc1/1870x1688/WKSq1hh0J6w0b1rq.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2118900191180840960/img/2JfPRtAJ-6kwsYbW.jpg",
+              "duration_ms": 15466
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/leo114119/status/2118900346512625667/video/1",
+            "https://twitter.com/leo114119/status/2118889476864803121"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2118889476864803121",
+          "article_title": null,
+          "attached_at": "2026-11-08T05:33:50.831830+00:00"
+        },
+        {
+          "id": "2118973195600773592",
+          "url": "https://x.com/YxzRainy/status/2118973195600773592",
+          "handle": "YxzRainy",
+          "display_name": "兴雨",
+          "avatar": "https://pbs.twimg.com/profile_images/2101321385062854656/z5ps0oPg_normal.jpg",
+          "verified": true,
+          "followers": 9789,
+          "created_at": "2026-11-07T07:45:53.000Z",
+          "lang": "zh",
+          "text": "卧槽😱！ Qoder 突然上线神秘匿名模型 QoDuck，目前限时免费！\n\n有测试称，它的分词器指纹与 Qwen 系列吻合，知识测试表现甚至超过了测试过的所有已发布 Qwen 模型！！！\n\n更巧的是，千问昨天刚预热「鲲」，今天 Qoder 就放出一只鸭子，而鸭子本来就是 Qoder 的吉祥物....\n\n也许真是 Qwen 4 https://t.co/JLIUBrJLev",
+          "text_zh": "Qoder 突然上线神秘匿名模型 QoDuck，目前限时免费！有测试称，它的分词器指纹与 Qwen 系列吻合，知识测试表现甚至超过测过的所有已发布 Qwen 模型。更巧的是，千问昨天刚预热“鲲”，今天 Qoder 就放出一只鸭子，而鸭子本来就是 Qoder 的吉祥物。也许真是 Qwen 4 披着鸭皮偷偷上线？",
+          "summary_zh": "有帖称 QoDuck 限时免费，分词器指纹像 Qwen，知识测试还超过已发布的千问模型，并点出“鲲”与鸭子吉祥物的呼应。",
+          "relation_zh": "补充了母帖没写到的分词器指纹和知识测试传闻，强化“鸭皮下面是 Qwen 4”的猜测。",
+          "metrics": {
+            "likes": 30,
+            "retweets": 0,
+            "replies": 21,
+            "quotes": 3,
+            "bookmarks": 5,
+            "views": 11133
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1039,
+              "h": 509,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWga40lbcAALhJC.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/YxzRainy/status/2118973195600773592/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-08T05:33:50.831830+00:00"
+        }
+      ]
     },
     {
       "id": "2119112693424537779",
@@ -2104,7 +2645,161 @@
         "text": "纽约时报 11 月 5 日发了一篇 Anthropic CEO Dario Amodei 的长篇人物稿，赶在 Anthropic 本月上市之前。记者采访了他二十多位同学、朋友、老师和同事，还看到了他早年的邮件和在 OpenAI 的内部消息。\n\nDario 通过公司发言人拒绝受访。所以下面的故事大多是别人的回忆，只有一部分有邮件、博客等文件佐证。\n\n这些人的说法归结起来是：Dario 年轻时泡在“理性主义”和“有效利他主义”两个圈子里，两者合在一起，让他认定 AI 危险到只有他和想法相近的人才值得托付去造。朋友和同事认为，这推动他抢在不在乎安全的人之前造出 AI，也让他想把这项技术掌控在自己手里。\n\n【两个圈子是什么】\n\n理性主义是围绕 Eliezer Yudkowsky 等人的博客形成的网络社群，讲究用冷静的推理看世界，其中很多人认为 AI 终将强大到毁掉人类社会。\n\n有效利他主义跟它差不多同时成长起来，主张用数学算清楚怎么捐钱、怎么做事，才能让好处最大。两边共同相信：靠严密的计算，可以改变人类的未来。\n\n【从小就爱算账】\n\nDario 在旧金山 Mission 区长大，父亲是皮匠，母亲管理公共图书馆的翻修工程。高中读的是旧金山最好的公立高中 Lowell，同时去伯克利上课。同学记得他那时就在琢磨功利主义，也就是“让最多的生命得到最多的幸福”。\n\n上大学后，他和高中好友在寿司店争论功利主义。Dario 吃素，但认为吃螃蟹没问题，因为螃蟹是无脊椎动物。\n\n朋友出了个思想实验：如果有人拼命杀鸡，杀到多少只时，杀掉这个人才算合理？据在场的 Nathan Avery 回忆，Dario 笑了笑，说从功利主义的角度看，总有某个数量的鸡，分量会超过一个人。\n\n【父亲去世，和“时间有限”】\n\n2006 年 Dario 从斯坦福毕业，去普林斯顿读物理博士，后来专攻生物物理和计算神经科学。同一年，父亲因丙肝去世。\n\n前女友 Jade Wang 回忆，两人常聊：一辈子只研究一种病的科学家，影响力比不上给整个领域造工具和方法的人。Dario 举的例子就是父亲，父亲没等到后来能治好大多数丙肝的药。\n\n2007 年，24 岁的 Dario 读完 Ray Kurzweil 的《奇点临近》，对来访的高中同学 Colin Heckman 说，奇点会在 2040 年前到来，人类以后可能和机器融合。Heckman 说他从此“着了魔”，说 AI 必须造对，不然人类就完了。\n\n那段时间，Dario 在读 Accelerating Future、Overcoming Bias 这类讨论 AI 毁灭人类的小众博客，还鼓动朋友和妹妹 Daniela 去参加 Yudkowsky 办的奇点研究所年会（现在叫机器智能研究所，MIRI）。\n\n纽约时报看到一封 2008 年的邮件，Dario 在信里称 Yudkowsky 是“我遇到过最深刻的思想者之一”。Yudkowsky 现在给纽约时报回邮件说，Dario 如今不向他请教，也不听他的建议，他也不记得 Dario 什么时候这样做过。\n\n同年，Dario 通过经济学家 Tyler Cowen 的博客知道了 GiveWell，一个评估慈善机构效率的组织，开始活跃在它的论坛上。2010 年他在邮件里说在考虑去做金融，好赚更多钱捐出去。\n\n同年他在 GiveWell 博客上公开盘算一笔 1 万美元的捐款，在成人结核病项目和非洲儿童疫苗项目之间权衡。他写道，成年人能有更深刻的体验，“一个成年人的死亡也许比一个婴儿的死亡糟糕两三倍”。最后他还是选了疫苗项目，理由是这家执行得更有效。\n\n2011 年起他在斯坦福做癌细胞研究的博士后，吃抗衰老补剂，严格坚持游泳，还研究节食延寿。Avery 说，他常讲时间是唯一不可再生的资源，对自己的时间“毫不留情”。据两位知情人说，2014 年他确诊睾丸癌，化疗后完全康复。\n\n【一屋子未来的创始人】\n\n那几年，Daniela 和 GiveWell 创始人 Holden Karnofsky 在交往（两人 2017 年结婚），住进旧金山一处合租屋。后来搬进来的还有 Dario、理论物理学家 Jared Kaplan，以及大学辍学、数学由 Dario 辅导过的 Chris Olah。\n\n据三位去过的人说，室友们会一起讨论 Yudkowsky 的文章，也一起去火人节，有时穿动物服装。Kaplan 和 Olah 后来与 Amodei 兄妹一起创办了 Anthropic，Karnofsky 2025 年也加入了公司。\n\n【在 OpenAI，立场变硬】\n\n2014 年 Dario 进入百度硅谷实验室，同事说他“几乎一有机会就激烈争论”。2015 年他对同事说，AI 可能很快赶上甚至超过人脑。同年他去 Google Brain 做 AI 安全，和 Olah 等人写了论文《AI 安全中的具体问题》。\n\n2016 年他加入当时还是非营利组织的 OpenAI，带安全团队和研究“规模定律”的团队。七位前同事说，他在 OpenAI 的立场越来越强硬。\n\n纽约时报看到的内部消息显示，2016 年特朗普当选三天后，Dario 写道，他“不愿在一个威权国家研究具有军事威力的技术”。他还说，给特朗普竞选捐了 125 万美元的 Peter Thiel “在道德上应受谴责”，OpenAI 不该再收他的钱。Thiel 创办的 Founders Fund 后来投资了 Anthropic。\n\n据三位知情人说，2017 年 Dario 牵线，让 Karnofsky 的慈善机构（现名 Coefficient Giving）给 OpenAI 捐了 3000 万美元，Karnofsky 也进了 OpenAI 董事会。Dario 当时是这家机构的技术顾问。\n\n2018 年 Daniela 加入 OpenAI，后来做到安全与政策副总裁，有员工开始担心兄妹俩影响力太大。据三位知情人说，那年 12 月研究员 Joshua Achiam 劝 Sam Altman 别让 Dario 当首席伦理官，认为 AI 的监督应该由不同视角的人分担，并坚持请外部专家。Dario 当面提高嗓门说，没有人比他更合适。\n\n同年兄妹俩接手了 GPT 项目，探索让 AI 在人类指导下学会做事的安全技术。纽约时报的判断是，先把 AI 推近危险、再用安全技术去检验，成了 Dario 此后整个职业生涯的做法。\n\n据两位知情人说，OpenAI 总裁 Greg Brockman 想参与 GPT，兄妹俩不让。Dario 多次对 Altman 说，不把 Brockman 挡在外面他就走。Altman 拒绝了。2020 年 12 月，Dario、Daniela 和几位同事离职，四周后创办了 Anthropic。\n\n【和今天的 Anthropic 有什么关系】\n\nAnthropic 2021 年成立时，Amodei 兄妹和另外五位联合创始人都在这两个圈子附近待过。纽约时报认为，公司做大以后，这套想法也随着 Dario 一次次公开表态变得越来越有分量：他主张限制对华芯片出口，主张监管 AI 防止失控，在和美国国防部的争执里坚持 AI 不能用于大规模监控美国人、不能用于自主武器。\n\n今年 9 月，Dario 发文呼吁放慢前沿 AI 的发展。他在文中说，只有把技术用正确的方式造出来，好处才会兑现，只要把争取到的时间用好，“值得格外谨慎地把它做对”。\n\nDario 本人一直在和这两个圈子划清界限。2023 年他上纽约时报播客《Hard Fork》时说，自己不算有效利他主义者，“认同其中不少观点”，但反对“把人分成不同部落”。\n\n来源（纽约时报）：https://t.co/tosvHBKxgz\nDario 9 月文章：https://t.co/e0RylBFa2I"
       },
       "x_long": true,
-      "article_summary_zh": "这篇 11 月 5 日的报道赶在 Anthropic 计划本月上市之前发出。Dario 本人拒绝接受采访，稿件主要来自二十多位同学、朋友、老师和同事的回忆，以及部分早年邮件和 OpenAI 内部消息。受访者认为，他在旧金山长大，高中起就关注功利主义，父亲因丙肝去世后更加信奉“时间有限、要造能改变整个领域的工具”。2007 年读完库兹韦尔的《奇点临近》后，他深信奇点会在 2040 年前到来，并活跃于 Yudkowsky 等人的理性主义博客圈和有效利他主义社群。这些经历被描述为双重动力：既要赶在不在乎安全的人前面把 AI 造出来，也想把这项技术掌握在理念相近的人手中。稿件同时提醒，许多故事来自他人回忆，只有一部分有邮件或博客佐证。"
+      "article_summary_zh": "这篇 11 月 5 日的报道赶在 Anthropic 计划本月上市之前发出。Dario 本人拒绝接受采访，稿件主要来自二十多位同学、朋友、老师和同事的回忆，以及部分早年邮件和 OpenAI 内部消息。受访者认为，他在旧金山长大，高中起就关注功利主义，父亲因丙肝去世后更加信奉“时间有限、要造能改变整个领域的工具”。2007 年读完库兹韦尔的《奇点临近》后，他深信奇点会在 2040 年前到来，并活跃于 Yudkowsky 等人的理性主义博客圈和有效利他主义社群。这些经历被描述为双重动力：既要赶在不在乎安全的人前面把 AI 造出来，也想把这项技术掌握在理念相近的人手中。稿件同时提醒，许多故事来自他人回忆，只有一部分有邮件或博客佐证。",
+      "attached_posts": [
+        {
+          "id": "2118466221985477110",
+          "url": "https://x.com/Michaelzsguo/status/2118466221985477110",
+          "handle": "Michaelzsguo",
+          "display_name": "Michael Guo",
+          "avatar": "https://pbs.twimg.com/profile_images/1484637162108825608/755rQsty_normal.jpg",
+          "verified": true,
+          "followers": 12245,
+          "created_at": "2026-11-05T22:11:21.000Z",
+          "lang": "zh",
+          "text": "Dario Amodei 当年为什么愤而离开 OpenAI，和妹妹以及另外五名虎将一起创立 Anthropic？这家公司后来又是怎么一路反超 OpenAI 的？《纽约时报》这篇报道里，有不少鲜为人知的幕后细节。 https://t.co/mDOiCoaM53",
+          "text_zh": "Dario Amodei 当年为什么愤而离开 OpenAI，和妹妹以及另外五名骨干一起创立 Anthropic？这家公司后来又是怎么一路反超 OpenAI 的？《纽约时报》这篇报道里，有不少此前很少被提起的幕后细节。",
+          "summary_zh": "有人从同一篇《纽约时报》报道里梳理 Dario 为何离开 OpenAI、与妹妹等人创办 Anthropic，以及后来如何反超。",
+          "relation_zh": "同一篇人物稿的另一条阅读线索，焦点放在出走 OpenAI 与创立 Anthropic 的经过。",
+          "metrics": {
+            "likes": 70,
+            "retweets": 6,
+            "replies": 13,
+            "quotes": 1,
+            "bookmarks": 77,
+            "views": 37327
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1448,
+              "h": 1086,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWZNiuzWIAELIjf.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 1619,
+              "h": 971,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWZNkfBXoAA8sf0.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo",
+            "photo"
+          ],
+          "links": [
+            "https://x.com/Michaelzsguo/status/2118466221985477110/photo/1",
+            "https://x.com/Michaelzsguo/status/2118466221985477110/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-08T05:33:50.831830+00:00"
+        },
+        {
+          "id": "2118415813799780642",
+          "url": "https://x.com/paularambles/status/2118415813799780642",
+          "handle": "paularambles",
+          "display_name": "“paula”",
+          "avatar": "https://pbs.twimg.com/profile_images/2065644264952840192/HKJIdbY9_normal.jpg",
+          "verified": true,
+          "followers": 49664,
+          "created_at": "2026-11-05T18:51:02.000Z",
+          "lang": "en",
+          "text": "the nytimes profile of dario amodei led me to his sister’s wedding website and it’s... interesting https://t.co/1WIdvU2lp4",
+          "text_zh": "《纽约时报》这篇 Dario Amodei 人物稿，把我带到了他妹妹的婚礼网站，内容……挺耐人寻味的。",
+          "summary_zh": "有读者顺着纽约时报人物稿找到 Dario 妹妹的婚礼网站，并配图分享了这一发现。",
+          "relation_zh": "来自同一篇报道的旁支细节，也说明这篇文章在社交网络上被翻看得多细。",
+          "metrics": {
+            "likes": 1517,
+            "retweets": 42,
+            "replies": 52,
+            "quotes": 28,
+            "bookmarks": 511,
+            "views": 253991
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 980,
+              "h": 286,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWYfwR6a8AAwl_h.png",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/paularambles/status/2118415813799780642/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-08T05:33:50.831830+00:00"
+        },
+        {
+          "id": "2118588154211156271",
+          "url": "https://x.com/PANewsCN/status/2118588154211156271",
+          "handle": "PANewsCN",
+          "display_name": "PANews丨APP全面升级",
+          "avatar": "https://pbs.twimg.com/profile_images/1608641504142315521/6ztLV4Q6_normal.jpg",
+          "verified": true,
+          "followers": 99764,
+          "created_at": "2026-11-06T06:15:52.000Z",
+          "lang": "zh",
+          "text": "《纽约时报》深挖Anthropic CEO 达里奥：深受\"AI末日论\"影响，认为只有自己这类人能托付开发AI\n\nAnthropic计划本月上市。在此之际，《纽约时报》采访了CEO Dario Amodei的20多位同学、朋友和同事，梳理他的思想从何而来。 https://t.co/gxtUEIlZw8",
+          "text_zh": "《纽约时报》深挖 Anthropic CEO Dario Amodei：他深受“AI 末日论”影响，认为只有自己这类人才值得托付去开发 AI。Anthropic 计划本月上市之际，报社采访了他二十多位同学、朋友和同事，梳理这些想法从何而来。报道称，达里奥年轻时泡在理性主义和有效利他主义圈子里，这些圈子的一个核心观点是 AI 可能毁灭人类；朋友们说，他由此认定这件事极其危险，只有理念一致的技术人员才配去做。这种信念在 OpenAI 时期就有体现：讨论首席伦理官人选时，有研究员提议请外部专家，他当场提高音量反驳，称没人比自己更合适。他还多次向 Altman 摊牌，如果不让总裁 Greg Brockman 离开 GPT 项目，他就辞职，Altman 没有答应。2020 年底，他离开 OpenAI，创办了 Anthropic。",
+          "summary_zh": "PANews 转述纽约时报：Dario 受 AI 风险论影响，曾在 OpenAI 反对外部伦理官、并以 Brockman 的去留逼宫，后于 2020 年底出走创办 Anthropic。",
+          "relation_zh": "补上了母帖同篇报道里更具体的 OpenAI 内部争执，方便对照阅读。",
+          "metrics": {
+            "likes": 8,
+            "retweets": 1,
+            "replies": 4,
+            "quotes": 0,
+            "bookmarks": 2,
+            "views": 3777
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1434,
+              "h": 1434,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWa76y7aAAAckRE.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 387,
+              "h": 387,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWa8r3aa8AAurUB.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo",
+            "photo"
+          ],
+          "links": [
+            "https://x.com/PANewsCN/status/2118588154211156271/photo/1",
+            "https://x.com/PANewsCN/status/2118588154211156271/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-08T05:33:50.831830+00:00"
+        }
+      ]
     },
     {
       "id": "2119190885871312911",
@@ -2808,7 +3503,117 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2118920815400120702",
+          "url": "https://x.com/abc123953468547/status/2118920815400120702",
+          "handle": "abc123953468547",
+          "display_name": "A1terE&o",
+          "avatar": "https://pbs.twimg.com/profile_images/2047090453011447808/5loko1z1_normal.jpg",
+          "verified": true,
+          "followers": 3206,
+          "created_at": "2026-11-07T04:17:44.000Z",
+          "lang": null,
+          "text": "基座模型每次跃升，智能体工程的第一步也许是“做减法”。\n\nYC 负责人 Garry Tan 近日分享了他在智能体技能开发中的工程经验。他指出，面向智能体技能（agent skills）构建“评估驱动的开发循环”（Eval-driven development https://t.co/pZUIa0jQGh",
+          "text_zh": "基座模型每次跃升，智能体工程的第一步也许是“做减法”。YC 负责人 Garry Tan 近日分享了他在智能体技能开发中的经验：必须为 Agent Skill 建立评估驱动的开发循环。",
+          "summary_zh": "有帖把 Garry Tan 的分享概括成一句话：模型升级后，智能体工程应先做减法，并用评估循环检验技能还值不值得留。",
+          "relation_zh": "用配图把母帖里“评估驱动、删掉多余技能”的观点收成一条中文导读。",
+          "metrics": {
+            "likes": 9,
+            "retweets": 0,
+            "replies": 11,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 267
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1024,
+              "h": 572,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWfrPmZbIAAsABw.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-08T05:33:50.831830+00:00"
+        },
+        {
+          "id": "2119233444085457356",
+          "url": "https://x.com/Xudong07452910/status/2119233444085457356",
+          "handle": "Xudong07452910",
+          "display_name": "Xudong Han",
+          "avatar": "https://pbs.twimg.com/profile_images/1327292688736034816/vJTxjjLU_normal.jpg",
+          "verified": true,
+          "followers": 15223,
+          "created_at": "2026-11-08T01:00:01.000Z",
+          "lang": "zh",
+          "text": "我们都知道模型变强之后，以前精心设计的 Agent Skill 可能成了负担，但是怎么去除不必要的 skills 很多人却不知道。\n\nGarry Tan @garrytan 的做法很值得借鉴。他用 Eval 对比了 Opus 5.5 开启和关闭 /investigate 的表现，发现修复率没有明显差异，但每修好一个 Bug 的成本反而高了 https://t.co/1uXC7Qn5qt",
+          "text_zh": "我们都知道，模型变强之后，以前精心设计的 Agent Skill 反而可能成了负担，可很多人并不知道怎么去掉多余的技能。Garry Tan 的做法很值得借鉴：他用评估对比了 Opus 5.5 打开和关闭 /investigate 的表现，修复率没有明显差异，但每修好一个 Bug 的成本反而高了 43%，于是决定砍掉它。我觉得这应当成为 Harness Engineering 的常规操作。以前为了提高编码智能体的可靠性，我们设计过“先写详细计划，再逐步排查”的流程；模型升级后，可以用同一批真实任务做 A/B 评估，一组沿用旧流程，一组让模型直接执行，多次对比成功率、Token 消耗和耗时。如果旧流程已经带不来稳定提升，甚至还更贵，就该简化或移除。技能和约束层也需要定期做减法——模型在进化，为旧模型设计的工作方式也该重新验证。",
+          "summary_zh": "有开发者补上 Garry Tan 的评估细节：关掉 /investigate 后修复率差不多，但每修一个 Bug 成本高了 43%，并主张技能和约束层都要定期做减法。",
+          "relation_zh": "直接引用母帖，补上了评估数据，并把“删掉多余技能”写成一套可重复的 A/B 方法。",
+          "metrics": {
+            "likes": 14,
+            "retweets": 0,
+            "replies": 4,
+            "quotes": 0,
+            "bookmarks": 21,
+            "views": 2050
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/garrytan/status/2118920030243139596"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "garrytan"
+          ],
+          "quoted_post_url": "https://x.com/i/status/2118920030243139596",
+          "article_title": null,
+          "attached_at": "2026-11-08T05:33:50.831830+00:00"
+        },
+        {
+          "id": "2118081943283900597",
+          "url": "https://x.com/kneath/status/2118081943283900597",
+          "handle": "kneath",
+          "display_name": "Kyle Aster",
+          "avatar": "https://pbs.twimg.com/profile_images/792066899668455425/Slz8XV0J_normal.jpg",
+          "verified": true,
+          "followers": 7313,
+          "created_at": "2026-11-04T20:44:21.000Z",
+          "lang": null,
+          "text": "My three suggestions for setting your agent-based software flow on fire:\n\n1. Remove all skills, AGENTS.md, and CLAUDE.md. At minimum, ask Opus to remove everything not vital.\n\n2. Use Claude desktop app. Sorry, yes.\n\n3. Use Opus 5.5 Medium. It's significantly better than others.",
+          "text_zh": "想让基于智能体的开发流程真正跑起来，我有三条建议：第一，删掉所有 Skill、AGENTS.md 和 CLAUDE.md；至少先让 Opus 把不是非留不可的都清掉。第二，用 Claude 桌面应用，没错，就是它。第三，用 Opus 5.5 Medium，明显比其他档位更强。",
+          "summary_zh": "开发者 kneath 建议先清空技能和规则文件，再用 Claude 桌面端搭配 Opus 5.5 Medium。",
+          "relation_zh": "从日常开发的角度呼应母帖：模型变强之后，先做减法往往比继续堆技能更有效。",
+          "metrics": {
+            "likes": 41,
+            "retweets": 1,
+            "replies": 12,
+            "quotes": 0,
+            "bookmarks": 31,
+            "views": 5223
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-08T05:33:50.831830+00:00"
+        }
+      ]
     },
     {
       "id": "2118943523915317709",
