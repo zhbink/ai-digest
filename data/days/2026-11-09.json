@@ -122,7 +122,126 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2111049407034429557",
+          "url": "https://x.com/pushmeet/status/2111049407034429557",
+          "handle": "pushmeet",
+          "display_name": "Pushmeet Kohli",
+          "avatar": "https://pbs.twimg.com/profile_images/650718639784509440/yaRuXASm_normal.jpg",
+          "verified": true,
+          "followers": 35483,
+          "created_at": "2026-10-16T10:59:34.000Z",
+          "lang": "en",
+          "text": "At @GoogleDeepMind, we believe one of AI's most transformative impacts is empowering scientists to solve society's hardest problems.\n\nOver the past year, we've evolved our coding agent, @Google @Antigravity, to accelerate end-to-end scientific workflows combining our latest Gemini models with science-specific:\n• breakthrough models like AlphaFold and AlphaGenome\n• new interfaces like the Biomolecular Structure Viewer\n\nThe impact of this integration has been transformative for the pace of our research. As an example, in a single session using Antigravity, our researchers working on antimicrobial resistance surfaced a novel antimicrobial peptide candidate.\n\nTo support academic researchers leverage these tools, we've launched an Antigravity for Science credits program and are looking forward to what this enables:\nhttps://t.co/R4hlX3sgxL\n\nRead the antimicrobial resistance case study:\nhttps://t.co/aZKsOaaUiP",
+          "text_zh": "在 Google DeepMind，我们相信人工智能最能改变世界的影响之一，就是帮助科学家解决社会最难的问题。过去一年，我们把编程智能体 Google Antigravity 发展成可以加速端到端科学流程的工具，把最新的 Gemini 模型与科学专用能力结合起来，既包括 AlphaFold、AlphaGenome 这类突破性模型，也包括生物分子结构查看器这样的新界面。这种整合已经明显加快了我们的研究节奏。举个例子，研究人员在研究抗菌耐药性时，只用 Antigravity 做了一次会话，就发现了一种新的抗菌肽候选物。为了让学术研究者也能用上这些工具，我们还推出了面向科学的 Antigravity 积分计划，很期待它能带来什么。",
+          "summary_zh": "Pushmeet Kohli 介绍 DeepMind 如何用 Antigravity 加速科研，并举例一次会话就发现了新的抗菌肽候选物。",
+          "relation_zh": "这是他本人对「科学发现正在加速」的具体说明，能看懂母帖里所说的相变，指的是怎样一套科研工具。",
+          "metrics": {
+            "likes": 587,
+            "retweets": 58,
+            "replies": 32,
+            "quotes": 8,
+            "bookmarks": 173,
+            "views": 39903
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2111046971657986050/vid/avc1/1920x1080/CkdflemcLKzxNKfX.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2111046971657986050/img/G6-RuTAbP-jZDh3_.jpg",
+              "duration_ms": 12329
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/pushmeet/status/2111049407034429557/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "GoogleDeepMind",
+            "Google",
+            "antigravity"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-09T03:41:56.470027+00:00"
+        },
+        {
+          "id": "2118753824194408683",
+          "url": "https://x.com/pushmeet/status/2118753824194408683",
+          "handle": "pushmeet",
+          "display_name": "Pushmeet Kohli",
+          "avatar": "https://pbs.twimg.com/profile_images/650718639784509440/yaRuXASm_normal.jpg",
+          "verified": true,
+          "followers": 35483,
+          "created_at": "2026-11-06T17:14:10.000Z",
+          "lang": "en",
+          "text": "The @GoogleDeepMind Science team is sharing two key cryptographic advances today uncovering weaknesses in legacy 1024-bit RSA schemes.\n\nWorking with leading cryptanalysis experts, our team  showed how AI agents could make two significant cryptographic advances in just weeks, uncovering results which can bypass older digital signature protections and factor legacy 1024-bit RSA keys in bulk.\n\nWhile these results do not affect the security of modern encryption schemes  such as RSA 2048, these results show why we must not assume the mathematical \"hardness\" of cryptographic schemes which we have relied upon in the past. It also shows how AI can help defenders improve security standards well ahead of future threats.\n\nI have written in more detail about our results, and why they are important for the future of security, in a longer essay which you can read here:\n\nhttps://t.co/K1TxNdqfQv",
+          "text_zh": "Google DeepMind 科学团队今天公布了两项关键的密码学进展，揭示了旧式 1024 位 RSA 方案中的弱点。我们与顶尖密码分析专家合作，展示了人工智能智能体如何在短短数周内取得两项重要突破：既能绕过较老的数字签名保护，也能批量分解旧式 1024 位 RSA 密钥。这些结果并不影响 RSA 2048 等现代加密方案的安全性，但说明我们不能再想当然地认为过去依赖的那些密码学「难题」永远难解。它也表明，人工智能可以帮助防御方赶在未来威胁到来之前提高安全标准。我另写了一篇更长的文章，详细说明这些结果，以及它们对未来安全意味着什么。",
+          "summary_zh": "就在两天前，Pushmeet 还公布 DeepMind 科学团队用人工智能智能体，在数周内取得两项针对旧式 1024 位 RSA 的密码学进展。",
+          "relation_zh": "这是他口中「科学发现节奏变化」的最近实例，说明所谓相变已经在具体学科结果里出现，而不只是预告。",
+          "metrics": {
+            "likes": 568,
+            "retweets": 74,
+            "replies": 24,
+            "quotes": 22,
+            "bookmarks": 186,
+            "views": 74483
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://x.com/pushmeet/status/2118752095859794390"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "GoogleDeepMind"
+          ],
+          "quoted_post_url": "https://x.com/i/status/2118752095859794390",
+          "article_title": null,
+          "attached_at": "2026-11-09T03:41:56.470027+00:00"
+        },
+        {
+          "id": "2119373174139674879",
+          "url": "https://x.com/pushmeet/status/2119373174139674879",
+          "handle": "pushmeet",
+          "display_name": "Pushmeet Kohli",
+          "avatar": "https://pbs.twimg.com/profile_images/650718639784509440/yaRuXASm_normal.jpg",
+          "verified": true,
+          "followers": 35483,
+          "created_at": "2026-11-08T10:15:15.000Z",
+          "lang": "en",
+          "text": "@GoogleDeepMind As this AI-powered acceleration unfolds, our focus will be on empowering the broader scientific community to harness these tools responsibly.",
+          "text_zh": "随着这种由人工智能驱动的加速展开，我们的重点将是帮助更广泛的科学共同体负责任地使用这些工具。",
+          "summary_zh": "Pushmeet 在原帖下方补充：接下来的重点是让更广泛的科学共同体负责任地用上这些工具。",
+          "relation_zh": "这是他对母帖的即时补充，说明即将到来的不只是更快发现，还有向科研社区的工具开放。",
+          "metrics": {
+            "likes": 888,
+            "retweets": 36,
+            "replies": 25,
+            "quotes": 2,
+            "bookmarks": 37,
+            "views": 56648
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [
+            "GoogleDeepMind"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-09T03:41:56.470027+00:00"
+        }
+      ]
     },
     {
       "id": "2119371334878744648",
@@ -295,7 +414,165 @@
       "note_tweet": {
         "text": "GPT-6.2 Sol is already showing up for some ChatGPT users, and just look at what it's creating.\n\nThese aren't screenshots from a game. They're Three.js scenes generated from a single prompt, with everything packed into ONE HTML file.\n\nI've been waiting to see what Sol could do. And now I think we're finally going to see a worthy competitor to Opus 5.5 for Plus users."
       },
-      "x_long": true
+      "x_long": true,
+      "attached_posts": [
+        {
+          "id": "2119395930805879165",
+          "url": "https://x.com/TokenGremlin/status/2119395930805879165",
+          "handle": "TokenGremlin",
+          "display_name": "Token Gremlin",
+          "avatar": "https://pbs.twimg.com/profile_images/2073095799462940672/YKuJiTq7_normal.jpg",
+          "verified": true,
+          "followers": 18350,
+          "created_at": "2026-11-08T11:45:41.000Z",
+          "lang": "en",
+          "text": "I'm being routed to GPT-6.2 Sol, and holy shit, this model is absolutely insane at design and 3D.\n\nIt's actually outperforming Opus 5.5 in my one-shot tests so far.\n\nThis is easily the best AI-generated black hole I've seen yet.\n\n- Generated in one shot\n- Built with Three.js\n- Everything inside a single HTML file\n\nI've attached the results as proof.",
+          "text_zh": "我已经被路由到 GPT-6.2 Sol，这个模型在设计和 3D 上强得离谱。到目前为止，它在我的 one-shot 测试里已经超过 Opus 5.5。这绝对是我见过最好的 AI 生成黑洞。一条提示生成，用 Three.js 构建，全部打进同一个 HTML 文件。我把结果附在下面当证据。",
+          "summary_zh": "TokenGremlin 后续确认自己已被路由到 GPT-6.2 Sol，并放出单次生成的 Three.js 黑洞演示，称其 one-shot 效果已超过 Opus 5.5。",
+          "relation_zh": "这是作者对母帖的直接跟进，把「部分用户刷到了 Sol」进一步写成自己被路由，并补上了对比 Opus 5.5 的新演示。",
+          "metrics": {
+            "likes": 908,
+            "retweets": 38,
+            "replies": 116,
+            "quotes": 40,
+            "bookmarks": 197,
+            "views": 254396
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2119394874591944704/vid/avc1/1920x1080/8ZppmN9N4dxoBRDT.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2119394874591944704/img/F0D_beICGEBB-esh.jpg",
+              "duration_ms": 5566
+            },
+            {
+              "type": "photo",
+              "w": 1726,
+              "h": 1484,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWmbXHGWQAAuobC.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 1200,
+              "h": 1441,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWmbXZqWoAATpMr.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "video",
+            "photo",
+            "photo"
+          ],
+          "links": [
+            "https://x.com/TokenGremlin/status/2119395930805879165/video/1",
+            "https://x.com/TokenGremlin/status/2119395930805879165/video/1",
+            "https://x.com/TokenGremlin/status/2119395930805879165/video/1",
+            "https://twitter.com/TokenGremlin/status/2119371334878744648"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2119371334878744648",
+          "article_title": null,
+          "attached_at": "2026-11-09T03:41:56.470027+00:00"
+        },
+        {
+          "id": "2119423600692166703",
+          "url": "https://x.com/TokenGremlin/status/2119423600692166703",
+          "handle": "TokenGremlin",
+          "display_name": "Token Gremlin",
+          "avatar": "https://pbs.twimg.com/profile_images/2073095799462940672/YKuJiTq7_normal.jpg",
+          "verified": true,
+          "followers": 18350,
+          "created_at": "2026-11-08T13:35:38.000Z",
+          "lang": "en",
+          "text": "Opus 5.5's reign seems to be coming to an end, and GPT-6.2 Sol is SOTA in Three.js, 3D, design, and creative work.\n\nOpenAI is SO BACK.\n\nIf Sol is already this good, just imagine what Astra will be like.\n\nIt's going to be an intense battle against Fable 5.5. \n\nI'VE NEVER BEEN THIS EXCITED!",
+          "text_zh": "Opus 5.5 的统治期似乎要结束了，GPT-6.2 Sol 已经在 Three.js、3D、设计和创意工作上成为最强。OpenAI 真的回来了。如果 Sol 已经是这个成色，更要想象 Astra 会做成什么样。接下来和 Fable 5.5 的对决会非常激烈。我从来没有这么兴奋过！",
+          "summary_zh": "TokenGremlin 进一步宣称 GPT-6.2 Sol 已在 Three.js、3D 和设计上成为最强，并开始畅想 Astra 与 Fable 5.5 的对决。",
+          "relation_zh": "同一作者把母帖里的三维演示上升成能力判断，也说明他为什么觉得 Sol 可能对标甚至挑战 Opus 5.5。",
+          "metrics": {
+            "likes": 634,
+            "retweets": 24,
+            "replies": 88,
+            "quotes": 8,
+            "bookmarks": 67,
+            "views": 58086
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1080,
+              "h": 1512,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2119423566944854016/vid/avc1/1080x1512/SmakZiDI1kezcyGo.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2119423566944854016/img/RX0joNUoH2bqKqYB.jpg",
+              "duration_ms": 9900
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/TokenGremlin/status/2119423600692166703/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-09T03:41:56.470027+00:00"
+        },
+        {
+          "id": "2119503438405136765",
+          "url": "https://x.com/marcthecreatorr/status/2119503438405136765",
+          "handle": "marcthecreatorr",
+          "display_name": "Marcel",
+          "avatar": "https://pbs.twimg.com/profile_images/2119102692236599296/_DalKsD5_normal.jpg",
+          "verified": true,
+          "followers": 2993,
+          "created_at": "2026-11-08T18:52:52.000Z",
+          "lang": "en",
+          "text": "GPT 6.2 Sol vs Opus 5.5 [3D Sailing Ship Test] \n\nsame prompt: create an interactive sailing ship in three.js, make it detailed as possible:\n\n- GPT 6.2 Sol: ~27 minutes and cost $3 \n- Opus 5.5: max reasoning ~1hr 35 mins and cost $16 \n\nSol did a better job recreating the ship itself, especially the shape, sails and lighting but Opus has a more detailed background overall. \n\nbe honest, which one would you pick here?",
+          "text_zh": "GPT-6.2 Sol 对阵 Opus 5.5，做了一场三维帆船测试。同一条提示：用 Three.js 做一个尽量精细的交互式帆船。GPT-6.2 Sol 大约花了 27 分钟，费用 3 美元；Opus 5.5 开到最高推理大约 1 小时 35 分钟，费用 16 美元。Sol 在船体本身、帆和光线上做得更好，Opus 的背景整体更细。坦白说，你会选哪一个？",
+          "summary_zh": "Marcel 用同一条提示对比 GPT-6.2 Sol 和 Opus 5.5 的三维帆船：Sol 用时约 27 分钟、花费 3 美元，船体和光线更好。",
+          "relation_zh": "这是独立作者的对照实验，用时间和费用数字验证了母帖里「Sol 能和 Opus 5.5 一较高下」的说法。",
+          "metrics": {
+            "likes": 134,
+            "retweets": 5,
+            "replies": 19,
+            "quotes": 4,
+            "bookmarks": 32,
+            "views": 11688
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 2160,
+              "h": 2160,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2119502925797953536/vid/avc1/2160x2160/0dp05obuP3GscqEy.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2119502925797953536/img/wiZ1ZbgBM5mZnQY9.jpg",
+              "duration_ms": 49466
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/marcthecreatorr/status/2119503438405136765/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-09T03:41:56.470027+00:00"
+        }
+      ]
     },
     {
       "id": "2119409780691284404",
@@ -520,7 +797,108 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2114837059462627533",
+          "url": "https://x.com/gdb/status/2114837059462627533",
+          "handle": "gdb",
+          "display_name": "Greg Brockman",
+          "avatar": "https://pbs.twimg.com/profile_images/1347621377503711233/bHg3ipfD_normal.jpg",
+          "verified": true,
+          "followers": 1088485,
+          "created_at": "2026-10-26T21:50:21.000Z",
+          "lang": "en",
+          "text": "Announcing three major scientific discoveries, one each in mathematics (harmonic analysis), computer science (complexity theory), and physics (quantum field theory).\n\nAI starting to help us improve our understanding of the universe! https://t.co/VkfacopR2R",
+          "text_zh": "我们宣布了三项重大科学发现，分别属于数学（调和分析）、计算机科学（复杂性理论）和物理学（量子场论）。人工智能开始帮助我们更好地理解宇宙！",
+          "summary_zh": "Greg Brockman 在 10 月 26 日宣布，OpenAI 的模型在数学、计算机科学和物理学上各取得一项新结果。",
+          "relation_zh": "这是他本人为「模型正在成为科学发现引擎」提供的直接例证，也是今天这句判断的来龙去脉。",
+          "metrics": {
+            "likes": 16192,
+            "retweets": 2034,
+            "replies": 684,
+            "quotes": 874,
+            "bookmarks": 4955,
+            "views": 3218250
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://openai.com/index/building-scientific-understanding-with-academic-communities/"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-09T03:41:56.470027+00:00"
+        },
+        {
+          "id": "2107640886482104524",
+          "url": "https://x.com/gdb/status/2107640886482104524",
+          "handle": "gdb",
+          "display_name": "Greg Brockman",
+          "avatar": "https://pbs.twimg.com/profile_images/1347621377503711233/bHg3ipfD_normal.jpg",
+          "verified": true,
+          "followers": 1088485,
+          "created_at": "2026-10-07T01:15:20.000Z",
+          "lang": "en",
+          "text": "towards acceleration of scientific discovery and improving quality of life for everyone https://t.co/8lU4MEX76e",
+          "text_zh": "朝着加速科学发现、改善所有人生活质量的方向前进。",
+          "summary_zh": "Brockman 转发 OpenAI 官方帖时写道，方向是加速科学发现并改善所有人的生活质量。",
+          "relation_zh": "这是他更早把「科学发现」写成公司方向的表态，能看出今天这句话并非突然冒出来的。",
+          "metrics": {
+            "likes": 3921,
+            "retweets": 203,
+            "replies": 191,
+            "quotes": 21,
+            "bookmarks": 195,
+            "views": 172312
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/OpenAI/status/2107596713791767021"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2107596713791767021",
+          "article_title": null,
+          "attached_at": "2026-11-09T03:41:56.470027+00:00"
+        },
+        {
+          "id": "2119611155215991102",
+          "url": "https://x.com/davelee/status/2119611155215991102",
+          "handle": "davelee",
+          "display_name": "Dave Lee",
+          "avatar": "https://pbs.twimg.com/profile_images/1220120600468803584/ZUzWK41c_normal.jpg",
+          "verified": true,
+          "followers": 637261,
+          "created_at": "2026-11-09T02:00:54.000Z",
+          "lang": "en",
+          "text": "let me rephrase...\n\n\"frontier models [that aren't publicly available], with lots of test time compute, are becoming the engine of scientific discovery\" https://t.co/Yw309DV9hg",
+          "text_zh": "让我换个说法……「（尚未向公众开放的）前沿模型，再加上大量测试时计算，正在成为科学发现的引擎。」",
+          "summary_zh": "The Verge 的 Dave Lee 给 Brockman 那句话加了限定：这些前沿模型其实还没有向公众开放。",
+          "relation_zh": "它点出母帖里最容易被忽略的前提：所谓科学引擎，靠的是内部模型和大量测试时算力，而不是大家现在就能用到的公开模型。",
+          "metrics": {
+            "likes": 56,
+            "retweets": 2,
+            "replies": 2,
+            "quotes": 0,
+            "bookmarks": 3,
+            "views": 9056
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/gdb/status/2119561347805687848"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2119561347805687848",
+          "article_title": null,
+          "attached_at": "2026-11-09T03:41:56.470027+00:00"
+        }
+      ]
     },
     {
       "id": "2119540611179323431",
@@ -738,7 +1116,120 @@
         "text": "黄仁勋致信员工承认出轨，英伟达董事会成立独立委员会调查他是否成了间谍行动的目标\n\n英伟达 CEO 黄仁勋在给员工的邮件里承认，自己对妻子不忠。美国时间 11 月 8 日（周日），英伟达董事会宣布，由独立董事组成委员会，请外部律师协助调查此事。\n\n这封信牵扯的是一桩间谍案。过去十天，纽约时报接连报道，美国情报部门认定，和黄仁勋关系密切的新加坡数据中心公司 Megaspeed 高管 Alice Huang 是中国情报人员。董事会在声明里说，调查针对的是黄仁勋“成为外国情报行动目标”的相关报道。Axios 把信里承认的这段关系写成“与一名疑似中国间谍的恋情”，但从彭博公布的邮件全文看，黄仁勋没有点名对方，也没有提到间谍，只提到“新闻报道中提出的国家安全疑虑”。\n\n【信里说了什么】\n\n彭博公布了这封邮件的全文，标题是“致公司的一封信”。黄仁勋写道：“我欠家人和你们所有人一个道歉。我对妻子不忠，我的行为伤害了她和我们的孩子，我做的事没有任何借口。我深感抱歉。”\n\n他说自己承担全部责任，接受随之而来的批评，希望家庭能慢慢愈合。对同事、董事会、合作伙伴和股东，他写道：“你们值得我做得更好。”“领导英伟达是我一生的荣幸……我辜负了这份责任。我会全身心投入英伟达，努力重新赢得你们的信任。”\n\n信的后半段谈到了相关报道：“关于新闻报道中提出的国家安全疑虑，英伟达董事会已启动独立调查。我支持调查，并将全力配合。我爱我们的国家和我们的公司，致力于保护英伟达、支持美国的国家安全。我为身为美国人感到自豪和感激。”\n\n信的最后一句是：“我的家人不为我的选择负任何责任，责任在我。请给他们隐私。”\n\n【他还当 CEO 吗，有没有泄密】\n\n还当。彭博报道，黄仁勋会在调查结果出来之前继续担任 CEO。英伟达公共政策传播负责人 John Rizzo 在声明里说：“今天的消息不会让英伟达慢下来。Jensen 会继续担任 CEO，不中断地领导英伟达。”\n\n董事会声明的原话是：“虽然董事会没有理由相信国家安全或英伟达的机密受到了损害，但董事会的调查将审查所有可获得的信息。”据 Axios 报道，董事会还对黄仁勋的领导表示信任。\n\n彭博指出，这件事让外界开始担心英伟达的前景：公司没有公开的接班计划，也没有明显的接班人。63 岁的黄仁勋多次说想再干几十年，他的直接下属主要负责快速执行他的决定。英伟达本月晚些时候发布财报。\n\n【事情是怎么一步步出来的】\n\n10 月 29 日，纽约时报报道，美国情报部门在监控 Alice Huang 时发现她在和黄仁勋联系，认定她一边和黄仁勋发展“密切关系”，一边向北京传递信息。报道还说，特朗普大约一年前就听过这项情报汇报，没有采取行动。英伟达当时回应，两人的往来“并不反常，也不意外”，没有涉及任何与国家安全相关的信息。黄仁勋本人也对彭博说，他和 Megaspeed 员工的往来，和他与许多中国客户、高管之间的往来一样，都是常见的商业往来。\n\n10 月 31 日，特朗普对记者说，他不知道这件具体的事，“我们会非常仔细地查一查”，又说自己一直觉得黄仁勋“非常光明磊落”。\n\n11 月 6 日，纽约时报报道，Alice Huang 是被中国国家安全部招募的，任务是打探信息，并可能推动英伟达的先进芯片进入中国，绕开现有禁令。据 Axios 转述纽约时报的报道，国务卿鲁比奥曾就黄仁勋和这名女子的关系提醒特朗普政府高层。此前，众议院三位共和党籍委员会主席已要求黄仁勋在 11 月 18 日前出席闭门简报，说明这段关系和英伟达保护敏感信息的措施。\n\n11 月 8 日，黄仁勋的信和董事会的调查决定先后曝光。\n\n【为什么这件事敏感】\n\n美国禁止向中国出售最先进的 AI 芯片，黄仁勋是华盛顿主张放宽这条限制的主要人物。他的理由是，让美国技术留在中国市场能增强美国的竞争力，也能让中国没那么快造出可能更先进的自研芯片。2025 年 12 月，特朗普同意英伟达向中国卖 H200 芯片，美国政府从中抽成 25%。不过中方限制进口这些芯片，英伟达在中国的销售至今受限。\n\n按纽约时报的说法，Alice Huang 的任务之一恰好是推动英伟达芯片进入中国。\n\n说明：情报结论来自纽约时报引述的匿名官员，没有公开证据；中国驻美大使馆称相关报道“毫无根据”，是对中国的抹黑。Alice Huang 没有回应。黄仁勋的邮件依据彭博公布的全文，董事会声明依据彭博的引述，声明全文本文没有读到。纽约时报原文有付费墙，相关内容依据 Axios、彭博、Gizmodo、The Hill 等媒体的转述。\n\n来源：\nAxios：https://t.co/fwPnY034XV\n彭博：https://t.co/mXepn85EJU\n纽约时报 11 月 6 日报道（付费墙）：https://t.co/tQLRxnFjKn\nGizmodo：https://t.co/RLo9lBPCFD\nThe Hill（10 月 29 日）：https://t.co/C7DmJFXA9l\nGulf News（特朗普表态）：https://t.co/8QS1avRjMv"
       },
       "x_long": true,
-      "article_summary_zh": "黄仁勋在11月8日发给员工的信里承认对妻子不忠，并向家人、同事、董事会和股东道歉。英伟达董事会同日宣布由独立董事加外部律师展开独立调查，针对的是他「成为外国情报行动目标」的报道，同时表示目前没有理由认为国家安全或公司机密已经受损，他将继续担任CEO。纽约时报此前报道，与他往来密切的新加坡数据中心公司 Megaspeed 高管 Alice Huang 被美方视为中国情报人员，且其任务之一可能是推动英伟达先进芯片进入中国；中方否认、公开证据仍不足。这件事敏感，是因为黄仁勋一直是华盛顿讨论放宽对华芯片限制的关键人物，而公司也没有公开的接班安排。"
+      "article_summary_zh": "黄仁勋在11月8日发给员工的信里承认对妻子不忠，并向家人、同事、董事会和股东道歉。英伟达董事会同日宣布由独立董事加外部律师展开独立调查，针对的是他「成为外国情报行动目标」的报道，同时表示目前没有理由认为国家安全或公司机密已经受损，他将继续担任CEO。纽约时报此前报道，与他往来密切的新加坡数据中心公司 Megaspeed 高管 Alice Huang 被美方视为中国情报人员，且其任务之一可能是推动英伟达先进芯片进入中国；中方否认、公开证据仍不足。这件事敏感，是因为黄仁勋一直是华盛顿讨论放宽对华芯片限制的关键人物，而公司也没有公开的接班安排。",
+      "attached_posts": [
+        {
+          "id": "2118357675046252861",
+          "url": "https://x.com/szuchans/status/2118357675046252861",
+          "handle": "szuchans",
+          "display_name": "Sam Szuchan",
+          "avatar": "https://pbs.twimg.com/profile_images/1986138373933965313/39yeis7q_normal.jpg",
+          "verified": true,
+          "followers": 12988,
+          "created_at": "2026-11-05T15:00:01.000Z",
+          "lang": "en",
+          "text": "One night in June of 2024, in a Taipei bar, a Chinese businesswoman named Alice Huang made a bet with some technology executives that she could get Jensen Huang, the C.E.O. of Nvidia, to come meet them. After midnight, he showed up, wearing his black leather jacket, and joined the group for some whiskey drinks. (One of the executives who was there told the story to The New York Times.)\n\nAlice Huang, who is not related to the Nvidia C.E.O., was a top executive at a Singapore-based company called Megaspeed. In the three months after the meeting Megaspeed bought a billion dollars' worth of Nvidia technology. In the next nine months, it bought another billion dollars' worth.\n\nOn paper, this was all legal. Megaspeed built data centers in Malaysia and then rented the computing power to Chinese companies, mostly Alibaba. The U.S. bans selling its most advanced A.I. chips to China, but it's O.K. to rent the computing power to Chinese companies in a neighboring country.\n\nBut in late 2024, a U.S. Commerce Department official visited Megaspeed's Malaysian data center and found Nvidia chips still in their boxes. Investigators began to suspect that some of the chips were being moved on into China.\n\nAnd then, as the Times revealed this past October, things got worse. US intelligence had concluded that Alice Huang was a Chinese intelligence asset, reporting to China, and that she developed a close personal relationship with Jensen Huang.\n\nPresident Trump was briefed about a year ago and decided not to do anything. The Times reported that he didn't want to risk Nvidia chip sales, which are helping drive the stock market. Jensen Huang was never told about the intelligence finding.\n\nNvidia says that it's the C.E.O.'s job to meet with customers, that Megaspeed got no secrets, and that the company found nothing wrong in its investigation into the smuggling allegations. Jensen Huang has said that Nvidia can account for all of Megaspeed's chips.\n\nUltimately, stopping the chips from going to China came down to two judgments. One was Nvidia's word about its customer. The other was a president weighing an intelligence finding against trade with China and an economy that Nvidia sales are helping boost. In a case like this, American export controls are only as good as those two decisions.",
+          "text_zh": "2024 年 6 月的一个晚上，在台北一家酒吧里，一位名叫 Alice Huang 的中国女商人跟几位科技高管打赌，说自己能把英伟达 CEO 黄仁勋约过来见面。午夜过后，穿着黑色皮衣的黄仁勋真的出现了，还和这群人一起喝了威士忌。一位在场高管后来把这段经历告诉了《纽约时报》。Alice Huang 和英伟达这位 CEO 并没有亲属关系，当时是新加坡公司 Megaspeed 的高管。见面后的三个月里，Megaspeed 买下了价值 10 亿美元的英伟达技术；随后九个月又买了 10 亿美元。纸面上这些都是合法的：Megaspeed 在马来西亚建数据中心，再把算力租给以阿里巴巴为主的中国公司。美国禁止把最先进的人工智能芯片卖给中国，但把算力租给邻国的中国公司并不违法。到了 2024 年底，美国商务部一名官员前往 Megaspeed 的马来西亚数据中心，发现英伟达芯片还装在箱子里。调查人员开始怀疑，部分芯片可能被转运进了中国。而据《纽约时报》今年 10 月披露，情况变得更严重：美国情报部门认定 Alice Huang 是向中国汇报的情报人员，并与黄仁勋发展出密切的私人关系。特朗普大约一年前听过相关汇报，但决定不做处理。时报报道称，他不想拿英伟达的芯片销售去冒险，因为这正是推动股市的重要力量。黄仁勋本人从未被告知这项情报结论。英伟达则表示，会见客户本就是 CEO 的工作，Megaspeed 没有拿到任何机密，公司对走私指控的内部调查也没有发现问题。黄仁勋还说，英伟达能够说清 Megaspeed 买到的所有芯片去向。归根结底，拦住芯片流入中国取决于两个判断：一是英伟达对自己客户的说法，二是总统在情报结论、对华贸易以及英伟达销售所支撑的经济之间如何权衡。在这种案子里，美国出口管制能管到哪一步，也就取决于这两次判断。",
+          "summary_zh": "作者依据《纽约时报》梳理了 Alice Huang、Megaspeed 与黄仁勋从酒吧会面到芯片转运嫌疑、再到情报评估的经过。",
+          "relation_zh": "董事会要查的「是否成为外国情报行动目标」，正是建立在这条更早的纽约时报叙事之上。",
+          "metrics": {
+            "likes": 1659,
+            "retweets": 230,
+            "replies": 23,
+            "quotes": 16,
+            "bookmarks": 1113,
+            "views": 72895
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1080,
+              "h": 1920,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2117954695318913024/vid/avc1/1080x1920/mSkeCfxjkc9JI_ls.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2117954695318913024/img/WhMGHvW-KeSxzqRP.jpg",
+              "duration_ms": 122989
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/szuchans/status/2118357675046252861/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-09T03:41:56.470027+00:00"
+        },
+        {
+          "id": "2119521779555475581",
+          "url": "https://x.com/axios/status/2119521779555475581",
+          "handle": "axios",
+          "display_name": "Axios",
+          "avatar": "https://pbs.twimg.com/profile_images/1641458976049995776/GtO-0zYe_normal.jpg",
+          "verified": true,
+          "followers": 863761,
+          "created_at": "2026-11-08T20:05:45.000Z",
+          "lang": "en",
+          "text": "BREAKING: Jensen Huang admits affair as Nvidia launches independent investigation into CEO https://t.co/YnTiS5YMgT",
+          "text_zh": "突发：黄仁勋承认出轨，英伟达同时对这位 CEO 启动独立调查。",
+          "summary_zh": "Axios 率先报道黄仁勋承认出轨，英伟达董事会随即对 CEO 启动独立调查。",
+          "relation_zh": "这是母帖主要引用的原始快讯来源，也是这条新闻最先在英文媒体里传开的版本。",
+          "metrics": {
+            "likes": 1339,
+            "retweets": 268,
+            "replies": 119,
+            "quotes": 205,
+            "bookmarks": 257,
+            "views": 670636
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-admits-affair-board-to-launch-investigation"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-09T03:41:56.470027+00:00"
+        },
+        {
+          "id": "2119530558355099810",
+          "url": "https://x.com/axios/status/2119530558355099810",
+          "handle": "axios",
+          "display_name": "Axios",
+          "avatar": "https://pbs.twimg.com/profile_images/1641458976049995776/GtO-0zYe_normal.jpg",
+          "verified": true,
+          "followers": 863761,
+          "created_at": "2026-11-08T20:40:38.000Z",
+          "lang": "en",
+          "text": "Read: Nvidia CEO Jensen Huang's letter to staff about affair https://t.co/qBenwB13W4",
+          "text_zh": "来看英伟达 CEO 黄仁勋写给员工、谈及这段婚外情的信。",
+          "summary_zh": "Axios 随后放出黄仁勋致员工信的阅读入口，方便对照他到底承认了什么。",
+          "relation_zh": "母帖强调要以信件全文为准，这条正是指向这封员工信的原始报道入口。",
+          "metrics": {
+            "likes": 161,
+            "retweets": 34,
+            "replies": 11,
+            "quotes": 18,
+            "bookmarks": 42,
+            "views": 68868
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company?utm_campaign=mrf-utm_source=x&utm_medium=organic_social&utm_campaign=editorial&utm_source=twitter&utm_medium=social&mrfcid=202611086aed890626715624703f097a"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-09T03:41:56.470027+00:00"
+        }
+      ]
     },
     {
       "id": "2119490135049867264",
@@ -1114,7 +1605,133 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2118178950249930946",
+          "url": "https://x.com/mingzi206/status/2118178950249930946",
+          "handle": "mingzi206",
+          "display_name": "明子206",
+          "avatar": "https://pbs.twimg.com/profile_images/2079413882003857408/u7656aWy_normal.jpg",
+          "verified": true,
+          "followers": 6789,
+          "created_at": "2026-11-05T03:09:50.000Z",
+          "lang": "zh",
+          "text": "使用REA-Video，逆向出来的视频\n\n呈现效果，感觉效果还不错 https://t.co/wZcreadeQ8 https://t.co/y2n2WdhSFh",
+          "text_zh": "用 REA-Video 逆向出来的视频，呈现效果感觉还不错。",
+          "summary_zh": "作者展示了用 rea-video 逆向后再做出来的视频效果，认为还原得不错。",
+          "relation_zh": "这是工具的实际出片演示，能把母帖里的功能介绍变成看得见的复刻结果。",
+          "metrics": {
+            "likes": 8,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 11,
+            "views": 1348
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1728,
+              "h": 2160,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2118178676542148609/vid/avc1/1728x2160/ZSSaq9Dy46_nyaEU.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2118178676542148609/img/L2H_vmJZcpjS0TJG.jpg",
+              "duration_ms": 8800
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/mingzi206/status/2118178950249930946/video/1",
+            "https://twitter.com/mingzi206/status/2118174066964332733"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2118174066964332733",
+          "article_title": null,
+          "attached_at": "2026-11-09T03:41:56.470027+00:00"
+        },
+        {
+          "id": "2119368063439245655",
+          "url": "https://x.com/zodchiii/status/2119368063439245655",
+          "handle": "zodchiii",
+          "display_name": "darkzodchi",
+          "avatar": "https://pbs.twimg.com/profile_images/1999509933302124544/ABxY9N7S_normal.jpg",
+          "verified": true,
+          "followers": 29577,
+          "created_at": "2026-11-08T09:54:56.000Z",
+          "lang": "en",
+          "text": "REA (reverse engineer anything) - now cracks every viral video on your feed...\n\nSomeone took the REA idea and pointed it at video: drop in any clip and it tells you shot by shot how it was made, then how to remake it\n\nhere's how to use and set up rea-video:\n\nfirst understand how it works:\n\n• it cuts the video into shots and splits the audio into voice, music and sound effects\n• for every shot it decides: filmed, AI-generated, 3D or built in code, and backs it with evidence like frame cadence, sensor noise and AIGC tags\n• you get a remake plan: what to film, what to generate with which model, and what to code\n\nhere's how to set it up for FREE:\n\n1 → you need ffmpeg and Python 3.10+\n\n2 → open Claude Code or Codex and say: \"install https://t.co/hDcqbLNWwN, then break down this video: /path/to/video.mp4\"\n\n3 → the agent installs the CLI, learns the workflow and runs the whole breakdown itself\n\n4 → you get a one-line verdict like \"41% AI video + 59% code UI, 8 s of real screen recording, library music at 122 BPM\"\n\n5 → open report.html: frames, evidence, camera and lighting notes, captions with timings and the full audio breakdown for every shot\n\n6 → the step everyone skips: give the agent a Gemini key, then every AI shot comes with a reverse-engineered prompt\n\n7 → code-made shots come back ready to rebuild as a Remotion project, no video model needed\n\nrepo link below, save it before you remake your next viral video👇",
+          "text_zh": "REA（Reverse Engineer Anything，逆向一切）现在也能拆你信息流里的爆款视频了。有人把 REA 的思路用到了视频上：丢进去任意片段，它会逐个镜头告诉你是怎么做出来的，以及该怎么复刻。rea-video 可以这样理解和免费安装：它先把视频切成镜头，再把音频拆成语音、音乐和音效；每个镜头都会判断是实拍、AI 生成、3D 还是代码做的，并给出帧率节奏、传感器噪点和 AIGC 标识这类证据；最后你会得到一份复刻方案，写清楚哪些去拍、用什么模型生成、哪些写成代码。免费安装步骤：一，准备 ffmpeg 和 Python 3.10 及以上；二，打开 Claude Code 或 Codex，对它说「安装这个仓库，然后拆解这段视频」；三，智能体会自己装好命令行、学会流程并完成拆解；四，你会先看到一行结论，比如「41% AI 视频 + 59% 代码界面，8 秒真实录屏，曲库音乐 122 BPM」；五，打开 report.html，里面有关键帧、证据、机位和布光说明、带时间轴的字幕，以及每个镜头的完整音频拆解；六，很多人会跳过的一步是给智能体配上 Gemini 密钥，这样每个 AI 镜头都会带回推出来的提示词；七，代码做的镜头会按 Remotion 项目的方式准备好，不必再走视频模型。仓库链接在下面，下次复刻爆款之前先存一份。",
+          "summary_zh": "zodchiii 详细说明了 rea-video 的拆解逻辑，以及在 Claude Code 或 Codex 里免费安装和使用的步骤。",
+          "relation_zh": "母帖介绍了工具能做什么，这条则把安装方法和报告里能看到什么写清楚了。",
+          "metrics": {
+            "likes": 66,
+            "retweets": 1,
+            "replies": 20,
+            "quotes": 1,
+            "bookmarks": 46,
+            "views": 2023
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 2516,
+              "h": 1445,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWmAwRCbEAAj4D1.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/zodchiii/status/2119368063439245655/photo/1",
+            "https://twitter.com/zodchiii/status/2119035243705647112"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2119035243705647112",
+          "article_title": null,
+          "attached_at": "2026-11-09T03:41:56.470027+00:00"
+        },
+        {
+          "id": "2118998213474529750",
+          "url": "https://x.com/CY160909/status/2118998213474529750",
+          "handle": "CY160909",
+          "display_name": "Shlcy",
+          "avatar": "https://pbs.twimg.com/profile_images/2107087374463254528/GReA_Qju_normal.jpg",
+          "verified": true,
+          "followers": 2863,
+          "created_at": "2026-11-07T09:25:17.000Z",
+          "lang": "zh",
+          "text": "HyperFrames 刚推出的 reverse-any-video 和 REA-Video应该怎么选？\n\n两个工具都能逆向视频。\n\n如果想直接复刻视频，选 HyperFrames。\n\n把参考视频交给 AI，它可以重建镜头、字幕和动效，生成可编辑的 HyperFrames 工程，还能逐帧对比原片检查还原效果。适合产品宣传片、复杂动效和口播混剪。\n\n想拆解视频制作方法，选 REA-Video。\n\n它会分析每个镜头是实拍、AI 生成还是代码动效，拆出运镜、提示词、字幕、声音和剪辑节奏，最后生成带关键帧的复刻方案。\n\n最关键的一点reverse-any-video是Pro专属，每月25$，Rea-Video开源免费\n\nHyperFrames：https://t.co/msvq8byEee\n\nREA-Video：https://t.co/dBV64awmmb",
+          "text_zh": "HyperFrames 刚推出的 reverse-any-video 和 REA-Video 该怎么选？两个工具都能逆向视频。如果想直接复刻视频，选 HyperFrames：把参考视频交给 AI，它可以重建镜头、字幕和动效，生成可编辑的 HyperFrames 工程，还能逐帧对比原片检查还原效果，适合产品宣传片、复杂动效和口播混剪。如果想拆解视频是怎么做出来的，选 REA-Video：它会分析每个镜头是实拍、AI 生成还是代码动效，拆出运镜、提示词、字幕、声音和剪辑节奏，最后生成带关键帧的复刻方案。最关键的一点是，reverse-any-video 属于 Pro 专属，每月 25 美元；rea-video 开源免费。",
+          "summary_zh": "作者对比了 HyperFrames 的 reverse-any-video 和开源的 rea-video：前者偏直接复刻，后者偏拆解做法，而且免费。",
+          "relation_zh": "它帮读者把母帖里的开源工具放到同类产品里看，讲清「拆解做法」和「直接复刻」不是同一件事。",
+          "metrics": {
+            "likes": 58,
+            "retweets": 5,
+            "replies": 4,
+            "quotes": 0,
+            "bookmarks": 69,
+            "views": 2892
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/CY160909/status/2117837743833145749"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2117837743833145749",
+          "article_title": null,
+          "attached_at": "2026-11-09T03:41:56.470027+00:00"
+        }
+      ]
     },
     {
       "id": "2119518001150013823",
@@ -1375,7 +1992,130 @@
       "external_url": null,
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "据《金融时报》报道，Anthropic 以约 34 亿美元获得 1.7 吉瓦卡特彼勒燃气发电机相关承诺，规模上超过此前已知的实验室电力设备采购。交易来源是接手 OnePWR Solutions 两年前下但未能融到资的订单。路透等媒体表示尚未独立核实全部细节，但方向很清楚：头部实验室正在把供电从云厂商问题，变成自己资产负债表上的资产和交付风险。"
+      "article_summary_zh": "据《金融时报》报道，Anthropic 以约 34 亿美元获得 1.7 吉瓦卡特彼勒燃气发电机相关承诺，规模上超过此前已知的实验室电力设备采购。交易来源是接手 OnePWR Solutions 两年前下但未能融到资的订单。路透等媒体表示尚未独立核实全部细节，但方向很清楚：头部实验室正在把供电从云厂商问题，变成自己资产负债表上的资产和交付风险。",
+      "attached_posts": [
+        {
+          "id": "2119523573920416104",
+          "url": "https://x.com/Stindur/status/2119523573920416104",
+          "handle": "Stindur",
+          "display_name": "Stindur",
+          "avatar": "https://pbs.twimg.com/profile_images/2113262361914003456/LUKppjKp_normal.jpg",
+          "verified": true,
+          "followers": 17,
+          "created_at": "2026-11-08T20:12:53.000Z",
+          "lang": "en",
+          "text": "$3.4 billion for a spot in caterpillar's factory line. that's the price of power in the ai race now\n\nthe ft says anthropic paid $3.4 billion for 1.7 gigawatts of gas-fired generators. biggest known power purchase by any ai lab\n\nthe deal itself is the interesting part. a san antonio company called onepwr ordered the caterpillar units about two years ago, ran short on cash, and anthropic took over the whole order in late september. piper sandler advised the seller. nobody has confirmed it on record\n\nfollow the money:\n\n1. caterpillar makes the engines. the orders were placed two years ago and somebody still paid billions just to take them over. that's what a sold-out backlog looks like\n2. onepwr never got bought. it sold its spot in line, plus the know-how to install the units\n3. gas producers get a new customer that never sleeps\n\nmy rough math on the fuel:\n1.7 gw running all year is about 14.9 terawatt hours\nat ~9,000 btu per kwh that's ~134 million mmbtu of gas\nat $3.50 gas that's roughly $470 million a year, around 130 bcf\n\nso natural gas prices are now an ai cost line. every move in henry hub hits the model bill\n\nand for anthropic this is small. on nov 2 they said they plan to spend more than $895 billion, mostly on compute and infrastructure. this deal is 0.38% of that\n\nthe real signal: when an order slot at a generator factory trades for $3.4 billion, power equipment is the scarce asset, not gpus\n\nwho wins this trade in your view. caterpillar, gas or the labs?",
+          "text_zh": "34 亿美元，买的其实是卡特彼勒产线上的一个名额。这就是眼下人工智能竞赛里电力的价格。英国《金融时报》说，Anthropic 为 1.7 吉瓦燃气发电机支付了 34 亿美元，这是已知人工智能实验室最大的一笔电力采购。更有意思的是交易结构：圣安东尼奥的 OnePWR 大约两年前向卡特彼勒下了单，后来资金不够，Anthropic 在 9 月下旬把整笔订单接了过去。卖方顾问是 Piper Sandler，目前还没有人愿意公开确认。顺着钱看：卡特彼勒造发动机，订单两年前就排上了，现在仍有人肯花几十亿美元接手，说明排期已经卖空；OnePWR 并没有被买走，它卖掉的是排队位置，外加安装这些机组的能力；天然气生产商则多了一个几乎从不间断的新客户。粗算燃料：1.7 吉瓦全年运行大约是 149 亿千瓦时，按每千瓦时约 9000 英热单位计算，大约是 1.34 亿 MMBtu 天然气；若气价 3.50 美元，一年大概 4.7 亿美元，约合 1300 亿立方英尺。天然气价格由此变成人工智能的成本项，亨利港气价一动，就会打到模型账单上。对 Anthropic 来说这笔买卖其实不大：11 月 2 日他们说未来计划投入超过 8950 亿美元，主要用于算力和基础设施，这单只占约 0.38%。真正的信号是：发电机厂的一个订单席位都能卖到 34 亿美元，说明稀缺的已经是电力设备，而不只是 GPU。你觉得这笔交易里谁更赚：卡特彼勒、天然气，还是实验室？",
+          "summary_zh": "作者把这笔 34 亿美元交易读成购买卡特彼勒排期权，并估算 1.7 吉瓦机组一年天然气成本约 4.7 亿美元。",
+          "relation_zh": "它补上了母帖没展开的交易结构和燃料账，说明 Anthropic 买到的不仅是发电机，还有已经排上的交付档期。",
+          "metrics": {
+            "likes": 3,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 1,
+            "views": 126
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2119523430735257601/vid/avc1/1920x1080/JNxl4i-db_YKKMD3.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2119523430735257601/img/ur4u2El5dQCY0ulD.jpg",
+              "duration_ms": 25000
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/Stindur/status/2119523573920416104/video/1",
+            "https://twitter.com/Stindur/status/2116933323423621596"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2116933323423621596",
+          "article_title": null,
+          "attached_at": "2026-11-09T03:41:56.470027+00:00"
+        },
+        {
+          "id": "2119436029157630206",
+          "url": "https://x.com/WOLF_Financial/status/2119436029157630206",
+          "handle": "WOLF_Financial",
+          "display_name": "WOLF",
+          "avatar": "https://pbs.twimg.com/profile_images/1986153204057309184/Vkq3fC52_normal.jpg",
+          "verified": true,
+          "followers": 495182,
+          "created_at": "2026-11-08T14:25:01.000Z",
+          "lang": "en",
+          "text": "ANTHROPIC IS BUYING ITS OWN POWER PLANTS\n\nAnthropic agreed to pay $3.4 billion for 1.7 gigawatts of gas-fired generators for its AI data centers, per the FT.\n\nIt's the largest known single purchase of power-generation equipment by an AI lab.\n\n• Anthropic took over Caterpillar $CAT generator orders from San Antonio-based OnePWR Solutions\n• It didn't buy the company itself\n• Anthropic said this week it plans to spend more than $895 billion in the years ahead, mostly on computing power and infrastructure\n\nAI labs are now skipping the middlemen to lock down scarce power equipment.",
+          "text_zh": "Anthropic 正在自己买发电设备。据英国《金融时报》，Anthropic 同意支付 34 亿美元，为其人工智能数据中心采购 1.7 吉瓦燃气发电机。这是已知由人工智能实验室完成的单笔最大电力设备采购。Anthropic 接手了圣安东尼奥供应商 OnePWR Solutions 向卡特彼勒下的发电机订单，但并没有收购这家公司本身。Anthropic 本周还表示，未来计划投入超过 8950 亿美元，主要用于算力和基础设施。人工智能实验室现在开始跳过中间商，直接锁定稀缺的发电设备。",
+          "summary_zh": "WOLF 汇总了这笔 34 亿美元、1.7 吉瓦的发电机交易，并补充 Anthropic 未来计划投入超过 8950 亿美元。",
+          "relation_zh": "这条高传播图文把母帖里的 FT 要点写全，还把这单放到 Anthropic 更大的基础设施开支里看。",
+          "metrics": {
+            "likes": 107,
+            "retweets": 13,
+            "replies": 21,
+            "quotes": 2,
+            "bookmarks": 11,
+            "views": 15955
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1200,
+              "h": 800,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWm_1fbbgAA6NtW.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/WOLF_Financial/status/2119436029157630206/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-09T03:41:56.470027+00:00"
+        },
+        {
+          "id": "2119403177418105307",
+          "url": "https://x.com/chigrl/status/2119403177418105307",
+          "handle": "chigrl",
+          "display_name": "Tracy Shuchart (𝒞𝒽𝒾 )",
+          "avatar": "https://pbs.twimg.com/profile_images/1342475110108819457/ZufULaKN_normal.jpg",
+          "verified": true,
+          "followers": 365352,
+          "created_at": "2026-11-08T12:14:28.000Z",
+          "lang": "en",
+          "text": "Natgas> \n\nAnthropic Buys Power for AI Data Centres in $3.4B Deal\n\nAnthropic PBC has agreed to pay $3.4 billion for gas-fired generators for data centers, the FT reported, in what it described as the largest known single purchase of power-generation equipment by an AI lab.\n\nThe company bought commitments for 1.7 gigawatts of heavy-duty generators from San Antonio-based equipment supplier OnePWR Solutions in late September, without acquiring the company itself, according to the newspaper. Anthropic initially planned to buy power from OnePWR before instead taking over its Caterpillar Inc. generator orders, it added. (Bloomberg)",
+          "text_zh": "天然气涨。Anthropic 以 34 亿美元为人工智能数据中心买下电力。据英国《金融时报》，Anthropic PBC 同意支付 34 亿美元采购数据中心用的燃气发电机，该报称之为人工智能实验室已知最大的单笔发电设备采购。报纸称，公司在 9 月下旬从圣安东尼奥供应商 OnePWR Solutions 买下 1.7 吉瓦重型发电机的交付承诺，但没有收购这家公司。Anthropic 原本计划向 OnePWR 买电，后来改为接手其对卡特彼勒的发电机订单。（彭博）",
+          "summary_zh": "能源交易员 Tracy Shuchart 转发了这笔交易，并点出 Anthropic 是从买电改成直接接手卡特彼勒订单。",
+          "relation_zh": "它从能源市场的角度确认了同一条 FT 报道，并补充 Anthropic 最初本想向 OnePWR 购电。",
+          "metrics": {
+            "likes": 226,
+            "retweets": 30,
+            "replies": 20,
+            "quotes": 2,
+            "bookmarks": 47,
+            "views": 25548
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-09T03:41:56.470027+00:00"
+        }
+      ]
     },
     {
       "id": "2119475032397074518",
@@ -3130,7 +3870,134 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2119081592769712565",
+          "url": "https://x.com/xiax0603/status/2119081592769712565",
+          "handle": "xiax0603",
+          "display_name": "xiax｜AI & Agents",
+          "avatar": "https://pbs.twimg.com/profile_images/2106557854895509504/5MNfNPOr_normal.jpg",
+          "verified": true,
+          "followers": 5955,
+          "created_at": "2026-11-07T14:56:37.000Z",
+          "lang": "zh",
+          "text": "🚨随时能换agent凭什么留住人？腾讯混元负责人姚顺雨拆两层：上下文打底，信任收口❗❗\n\n✧ 未来科学大奖周圆桌，清华讲席教授、清华智能产业研究院(AIR)创始院长张亚勤提问：开发者可随时换到任何agent或任意组合，DeepSeek、腾讯、Anthropic、OpenAI的用户黏性在哪❓\n\n✧ 姚顺雨称护城河更多在产品层而不在模型层，第一层是数据与上下文，你有别人没有的私有数据。\n\n✧ 第二层是信任：你信不信得过AI知道你的数据、认识你的联系人，并替你行动。",
+          "text_zh": "随时能换 agent，凭什么还能留住人？腾讯混元负责人姚顺雨拆了两层：先用上下文打底，再用信任收口。未来科学大奖周圆桌上，清华讲席教授、清华智能产业研究院（AIR）创始院长张亚勤提问：开发者随时能换到任何 agent 或任意组合，DeepSeek、腾讯、Anthropic、OpenAI 的用户黏性在哪？姚顺雨说，护城河更多在产品层，而不是模型层。第一层是数据和上下文，也就是别人没有的私有数据；第二层是信任：你信不信得过 AI 知道你的数据、认识你的联系人，并替你行动。",
+          "summary_zh": "同一场未来科学大奖圆桌上，这条视频把张亚勤的提问和姚顺雨关于上下文与信任的两层回答完整拆开。",
+          "relation_zh": "它比母帖更早放出这场对谈的现场视频，方便对照「护城河在产品层」的原话。",
+          "metrics": {
+            "likes": 11,
+            "retweets": 3,
+            "replies": 9,
+            "quotes": 0,
+            "bookmarks": 3,
+            "views": 997
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1200,
+              "h": 1200,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2119081411630215168/vid/avc1/1200x1200/zsu3sTsrs9TEwNqX.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2119081411630215168/img/7363Op9SMywdCoz5.jpg",
+              "duration_ms": 57194
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/xiax0603/status/2119081592769712565/video/1",
+            "https://twitter.com/xiax0603/status/2119069800903360616"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2119069800903360616",
+          "article_title": null,
+          "attached_at": "2026-11-09T03:41:56.470027+00:00"
+        },
+        {
+          "id": "2119477820468625481",
+          "url": "https://x.com/xiax0603/status/2119477820468625481",
+          "handle": "xiax0603",
+          "display_name": "xiax｜AI & Agents",
+          "avatar": "https://pbs.twimg.com/profile_images/2106557854895509504/5MNfNPOr_normal.jpg",
+          "verified": true,
+          "followers": 5955,
+          "created_at": "2026-11-08T17:11:05.000Z",
+          "lang": "zh",
+          "text": "🚨反直觉真相：Scaling是AI最重要概念，大力出奇迹是真的，但有用从来不是线性的❗\n\n✧ 姚顺雨，腾讯首席AI科学家、混元基础模型与AI基础设施部门负责人，在2026未来科学大奖周科学峰会上开讲 Scaling，他说这事连做AI的人都觉得反直觉，可它大概是AI里最重要的概念。\n\n✧ 按尺度定律，算力更多、数据更多、参数更多，下一个token就预测得越准，预测损失平滑下降，近似对数线性。\n\n✧ 但能力平滑上涨不等于任务有用度平滑上涨，数学、写代码、多模态理解一遍遍重演同一幕：能力在涨，真正有用的那一下往往突然到来；直到出现能像人一样行动的Agent，才照着人解题的方式去解题。",
+          "text_zh": "反直觉的一点是：Scaling 大概是 AI 里最重要的概念。大力出奇迹是真的，但「有用」从来不是线性出现的。腾讯首席 AI 科学家、混元基础模型与 AI 基础设施部门负责人姚顺雨，在 2026 未来科学大奖周科学峰会上讲 Scaling。他说这件事连做 AI 的人都觉得反直觉。按尺度定律，算力、数据和参数更多，下一个 token 就预测得越准，预测损失会平滑下降，近似对数线性。但能力平滑上涨，不等于任务有用度也平滑上涨。数学、写代码、多模态理解一次次重演同一幕：能力在涨，真正有用的那一下往往突然到来；直到出现能像人一样行动的 Agent，模型才开始照着人解题的方式去解题。",
+          "summary_zh": "姚顺雨在同一场峰会上讲 Scaling：模型能力可以平滑变强，但任务真正变有用往往是突然发生的。",
+          "relation_zh": "这是他在未来科学大奖同一活动上的另一段现场发言，能把护城河讨论放回他对能力和 Agent 的更大判断里。",
+          "metrics": {
+            "likes": 5,
+            "retweets": 3,
+            "replies": 3,
+            "quotes": 1,
+            "bookmarks": 1,
+            "views": 1041
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1200,
+              "h": 1200,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2119477656781819904/vid/avc1/1200x1200/sKmb1B-ZwJuC9K-L.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2119477656781819904/img/Ft9n9Og5-RAqAsVj.jpg",
+              "duration_ms": 52736
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/xiax0603/status/2119477820468625481/video/1",
+            "https://twitter.com/xiax0603/status/2119473000894652876"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2119473000894652876",
+          "article_title": null,
+          "attached_at": "2026-11-09T03:41:56.470027+00:00"
+        },
+        {
+          "id": "2119395348007342251",
+          "url": "https://x.com/vince_chow1/status/2119395348007342251",
+          "handle": "vince_chow1",
+          "display_name": "Vincent Chow",
+          "avatar": "https://pbs.twimg.com/profile_images/1786282613294120960/iAdvNSUf_normal.jpg",
+          "verified": true,
+          "followers": 2582,
+          "created_at": "2026-11-08T11:43:22.000Z",
+          "lang": "en",
+          "text": "New: AI systems may soon be powerful enough to do harms in the biological realm, Tencent’s chief AI scientist Yao Shunyu said in a rare public appearance yesterday in Hong Kong. https://t.co/QXOtGSf09M\n\nOutlining his team’s plans to ramp up AI-enabled scientific research, Yao called for open model developers to “be very responsible and very serious” about emerging security and safety risks.\n\nTencent has said it stripped out the cyber hacking capabilities of its latest model Hy4 and concluded that its biological capabilities remained “well below” its high-risk threshold. It has also pledged to release a comprehensive safety card for the model once its weights are released, with a focus on cyber and bio risks.",
+          "text_zh": "新消息：腾讯首席 AI 科学家姚顺雨昨天在香港罕见公开露面时表示，AI 系统可能很快就会强大到足以在生物领域造成伤害。在介绍团队扩大 AI 科研的计划时，他呼吁开源模型开发者对正在出现的安全和安保风险「非常负责、非常严肃」。腾讯曾表示，已从最新模型 Hy4 中剥离网络攻击能力，并判断其生物能力仍「远低于」高风险阈值。公司还承诺，等权重发布时会同时公布全面的安全卡，重点覆盖网络和生物风险。",
+          "summary_zh": "《南华早报》报道姚顺雨在香港同一场活动上警告，AI 可能很快具备生物伤害能力，并介绍了腾讯对 Hy4 的安全处理。",
+          "relation_zh": "这是同一场公开露面的原创新闻，补充了母帖对谈之外姚顺雨还谈了科研加速和生物安全。",
+          "metrics": {
+            "likes": 117,
+            "retweets": 27,
+            "replies": 3,
+            "quotes": 5,
+            "bookmarks": 52,
+            "views": 10684
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://www.scmp.com/tech/big-tech/article/3373697/ai-will-soon-master-biology-unleashing-new-safety-risks-tencent-ai-chief-warns"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-09T03:41:56.470027+00:00"
+        }
+      ]
     },
     {
       "id": "2119409905434268064",
@@ -6259,7 +7126,147 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2119525387688374726",
+          "url": "https://x.com/testingcatalog/status/2119525387688374726",
+          "handle": "testingcatalog",
+          "display_name": "🚨 AI News | TestingCatalog",
+          "avatar": "https://pbs.twimg.com/profile_images/1899962463115751424/i-6MBWau_normal.jpg",
+          "verified": true,
+          "followers": 84079,
+          "created_at": "2026-11-08T20:20:05.000Z",
+          "lang": "en",
+          "text": "OpenAI is teasing Modretro Chromatic to arrive at Supply Co. on November 9. \n\n> @modretro is the company behind Chromatic, a retro handheld console that plays Game Boy and Game Boy Color games. \n\n> At DevDay, OpenAI gave attendees a limited-edition transparent Chromatic and showcased a Codex integration for creating games.  https://t.co/GVOwFWnbuo",
+          "text_zh": "OpenAI 正在预告，ModRetro 的 Chromatic 将于 11 月 9 日登陆 Supply Co。ModRetro 是这款复古掌机的制造商，能玩 Game Boy 和 Game Boy Color 卡带。DevDay 上，OpenAI 给与会者发过限量透明版 Chromatic，并展示了用 Codex 做游戏的集成。",
+          "summary_zh": "TestingCatalog 把这条「Tomorrow.」预告读成 11 月 9 日 Supply Co. 上架的 ModRetro Chromatic，并提到 DevDay 发过限量透明版。",
+          "relation_zh": "它把母帖那句超高热预告落到具体产品上，说明这更像联名掌机发售，而不是新模型发布。",
+          "metrics": {
+            "likes": 301,
+            "retweets": 15,
+            "replies": 24,
+            "quotes": 1,
+            "bookmarks": 20,
+            "views": 20226
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2119521329821216768/vid/avc1/1920x1080/-IxiOPoHvzNUwbBo.mp4?tag=16",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2119521329821216768/img/yyRYVpGRET_BHkwP.jpg",
+              "duration_ms": 15515
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/OpenAIDevs/status/2119521359185478140/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "modretro"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-09T03:41:56.470027+00:00"
+        },
+        {
+          "id": "2108237334349299818",
+          "url": "https://x.com/modretro/status/2108237334349299818",
+          "handle": "modretro",
+          "display_name": "ModRetro",
+          "avatar": "https://pbs.twimg.com/profile_images/2061880664958623744/yosvODMm_normal.jpg",
+          "verified": true,
+          "followers": 40370,
+          "created_at": "2026-10-08T16:45:24.000Z",
+          "lang": "en",
+          "text": "The ModRetro Chromatic plays your Game Boy Color games, remastered classics, and new titles with pixel-perfect graphics. \n\nAvailable now in transparent: https://t.co/L34tIdD8ym https://t.co/VUB61fO9Y7",
+          "text_zh": "ModRetro Chromatic 能玩你的 Game Boy Color 卡带、重制经典和新游戏，画面做到像素级精确。透明配色现在就能买到。",
+          "summary_zh": "ModRetro 官方介绍 Chromatic 能玩 GBC 卡带和新作，并放出产品演示视频。",
+          "relation_zh": "官方产品片能让读者看清母帖预告的到底是什么掌机，避免把「Tomorrow.」误读成模型发布。",
+          "metrics": {
+            "likes": 977,
+            "retweets": 115,
+            "replies": 61,
+            "quotes": 39,
+            "bookmarks": 220,
+            "views": 89290
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2108232488464334848/vid/avc1/1920x1080/qKZdSyuX9ZflIEuX.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2108232488464334848/img/FZHmODkmn7-1Ks7M.jpg",
+              "duration_ms": 33074
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://modretro.com/products/chromatic-transparent",
+            "https://x.com/modretro/status/2108237334349299818/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-09T03:41:56.470027+00:00"
+        },
+        {
+          "id": "2119606465505968408",
+          "url": "https://x.com/derrickcchoi/status/2119606465505968408",
+          "handle": "derrickcchoi",
+          "display_name": "Derrick Choi",
+          "avatar": "https://pbs.twimg.com/profile_images/2038764215398531072/40W77WEZ_normal.jpg",
+          "verified": true,
+          "followers": 20644,
+          "created_at": "2026-11-09T01:42:16.000Z",
+          "lang": "en",
+          "text": "The Chromatic coming to Supply Co! \n\nBeen having a lot of fun with it. https://t.co/ncw4zzPkqF https://t.co/uQIiFDYUBo",
+          "text_zh": "Chromatic 要来 Supply Co. 了！这段时间和它玩得很开心。",
+          "summary_zh": "OpenAI Codex 亚太负责人 Derrick Choi 确认 Chromatic 将登上 Supply Co.，并晒出真机照片。",
+          "relation_zh": "这是 OpenAI 内部相关负责人的直接确认，也解释了开发者账号那条预告为什么指向周边联名。",
+          "metrics": {
+            "likes": 64,
+            "retweets": 8,
+            "replies": 2,
+            "quotes": 1,
+            "bookmarks": 5,
+            "views": 6123
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 3024,
+              "h": 4032,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWpagkvbYAAExU_.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/derrickcchoi/status/2119606465505968408/photo/1",
+            "https://twitter.com/OpenAIDevs/status/2119521359185478140"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2119521359185478140",
+          "article_title": null,
+          "attached_at": "2026-11-09T03:41:56.470027+00:00"
+        }
+      ]
     },
     {
       "id": "2119468724172599366",
