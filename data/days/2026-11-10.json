@@ -125,7 +125,142 @@
       "external_url": null,
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "Artificial Analysis 公布智能指数 v5 结果：Claude Fable 5.2 在最大努力档拿到 65 分，位列第一。它比 Gemini 4 Carbon 的高档（60 分）高 5 分，比 Claude Opus 5.5 的最大档（59 分）高 6 分，领先主要来自科学、知识和编程。这为今天的旗舰发布提供了独立跑分背书。"
+      "article_summary_zh": "Artificial Analysis 公布智能指数 v5 结果：Claude Fable 5.2 在最大努力档拿到 65 分，位列第一。它比 Gemini 4 Carbon 的高档（60 分）高 5 分，比 Claude Opus 5.5 的最大档（59 分）高 6 分，领先主要来自科学、知识和编程。这为今天的旗舰发布提供了独立跑分背书。",
+      "attached_posts": [
+        {
+          "id": "2119953570430881946",
+          "url": "https://x.com/ArtificialAnlys/status/2119953570430881946",
+          "handle": "ArtificialAnlys",
+          "display_name": "Artificial Analysis",
+          "avatar": "https://pbs.twimg.com/profile_images/2042402069320290304/A8C1lP07_normal.jpg",
+          "verified": true,
+          "followers": 176771,
+          "created_at": "2026-11-10T00:41:32.000Z",
+          "lang": "en",
+          "text": "Claude Fable 5.2 is now #1 on AA-3D, our benchmark for how well AI models build interactive 3D experiences\n\nClaude Fable 5.2 (Max) scores 1271 Elo, 67 points ahead of Claude Sonnet 5.5 (1204) and Claude Opus 5.5 (1202). Its 95% confidence interval (1246 to 1297) does not overlap any other models, so its lead is outside the margin of error.\n\nKey results:\n\n➤ It scores 132 points above its predecessor, Claude Fable 5.1 (1139)\n\n➤ It is ahead of the highest-ranked OpenAI and Google models on AA-3D, GPT-6 Astra (1168) and Gemini 4 Argon (1147)\n\nMore results and scenes in the thread below",
+          "text_zh": "Claude Fable 5.2 现在在 AA-3D 上排第一。这是 Artificial Analysis 用来衡量模型能把交互式三维体验做得多好的基准。Fable 5.2 在 Max 档得到 1271 Elo，比 Claude Sonnet 5.5 的 1204 分和 Claude Opus 5.5 的 1202 分高出 67 分；95% 置信区间是 1246 到 1297，不与其他模型重叠，领先幅度超出了误差范围。它比上一代 Fable 5.1 的 1139 分高出 132 分，也高于该榜上最高的 OpenAI 和 Google 模型：GPT-6 Astra 的 1168 分和 Gemini 4 Argon 的 1147 分。更多结果和场景见后续帖。",
+          "summary_zh": "Artificial Analysis 称 Fable 5.2 以 1271 Elo 登上 AA-3D 榜首，领先 Claude Sonnet 5.5 和 Opus 5.5 约 67 分，置信区间也不与其他模型重叠。",
+          "relation_zh": "母帖是智能指数总分，这条用可交互三维场景基准说明它在「动手搭建」上同样领先。",
+          "metrics": {
+            "likes": 198,
+            "retweets": 15,
+            "replies": 32,
+            "quotes": 10,
+            "bookmarks": 29,
+            "views": 13187
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2119952153867685889/vid/avc1/1920x1080/X_4pRZ7ERboeEgrO.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2119952153867685889/img/7n7lbKLteFkYSqIq.jpg",
+              "duration_ms": 19500
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/ArtificialAnlys/status/2119953570430881946/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-10T02:48:42.408148+00:00"
+        },
+        {
+          "id": "2119879004056584441",
+          "url": "https://x.com/ArtificialAnlys/status/2119879004056584441",
+          "handle": "ArtificialAnlys",
+          "display_name": "Artificial Analysis",
+          "avatar": "https://pbs.twimg.com/profile_images/2042402069320290304/A8C1lP07_normal.jpg",
+          "verified": true,
+          "followers": 176771,
+          "created_at": "2026-11-09T19:45:14.000Z",
+          "lang": "en",
+          "text": "Full breakdown of the individual evaluations in the Artificial Analysis Intelligence Index v5 for Claude Fable 5.2 across effort settings https://t.co/0VvlPCn6R1",
+          "text_zh": "这是 Claude Fable 5.2 在 Artificial Analysis 智能指数 v5 上、按不同努力档拆开的分项评测完整结果。",
+          "summary_zh": "官方贴出 Fable 5.2 在智能指数 v5 各分项、不同努力档上的完整拆解图。",
+          "relation_zh": "母帖只给了 65 分的总分和领先幅度，这张图能对照科学、知识和编程等分项是怎么拉开的。",
+          "metrics": {
+            "likes": 51,
+            "retweets": 1,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 7,
+            "views": 7232
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 2440,
+              "h": 3468,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWtSRoBasAATG0u.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/ArtificialAnlys/status/2119879004056584441/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-10T02:48:42.408148+00:00"
+        },
+        {
+          "id": "2119879000713724390",
+          "url": "https://x.com/ArtificialAnlys/status/2119879000713724390",
+          "handle": "ArtificialAnlys",
+          "display_name": "Artificial Analysis",
+          "avatar": "https://pbs.twimg.com/profile_images/2042402069320290304/A8C1lP07_normal.jpg",
+          "verified": true,
+          "followers": 176771,
+          "created_at": "2026-11-09T19:45:13.000Z",
+          "lang": "en",
+          "text": "Claude Fable 5.2 leads 5 of the 9 evaluations in Intelligence Index v5, spanning science, knowledge and coding\n\nOn HLE-Diamond it scores 80%, 11 points ahead of Gemini 4 Carbon. The gain is largest on knowledge questions (75% vs 59% for Carbon), against reasoning (86% vs 80%).\n\nOn AA-Omniscience v1.1 it scores 67, 13 points ahead of Gemini 4 Carbon and 19 ahead of Opus 5.5.\n\nOn Terminal-Bench-Science it scores 73%, 8 points ahead of Gemini 4 Carbon, and on the CritPt v2 hard subset 77%, 5 points ahead of GPT-6 Astra.\n\nOn FrontierCode 2.0, @cognition's private evaluation for code that maintainers would actually merge, it scores 49%, 3 points ahead of Opus 5.5 (max). High effort scores the same as max (49%).",
+          "text_zh": "Claude Fable 5.2 在智能指数 v5 的 9 项评测里有 5 项领先，覆盖科学、知识和编程。在 HLE-Diamond 上它得到 80%，比 Gemini 4 Carbon 高出 11 分；提升主要来自知识题，75% 对 Carbon 的 59%，推理题则是 86% 对 80%。在 AA-Omniscience v1.1 上是 67 分，比 Gemini 4 Carbon 高 13 分，比 Opus 5.5 高 19 分。Terminal-Bench-Science 为 73%，比 Gemini 4 Carbon 高 8 分；在 CritPt v2 的困难子集上是 77%，比 GPT-6 Astra 高 5 分。在 Cognition 用于衡量「维护者真会合并的代码」的私有评测 FrontierCode 2.0 上，它得到 49%，比 Opus 5.5 的 Max 档高 3 分；High 档和 Max 档分数相同，都是 49%。",
+          "summary_zh": "官方称 Fable 5.2 在 9 项评测里的 5 项领先：HLE-Diamond 为 80%，知识题 75% 对 Carbon 的 59%，FrontierCode 2.0 为 49%。",
+          "relation_zh": "它把「科学、知识和编程拉动明显」拆成具体分数，能直接和 Gemini 4 Carbon、Opus 5.5 对比。",
+          "metrics": {
+            "likes": 50,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 5,
+            "views": 5968
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 2440,
+              "h": 3872,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWtSP0faAAAAVBS.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/ArtificialAnlys/status/2119879000713724390/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-10T02:48:42.408148+00:00"
+        }
+      ]
     },
     {
       "id": "2119872207241543744",
@@ -374,7 +509,137 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2119899461983822264",
+          "url": "https://x.com/claudeai/status/2119899461983822264",
+          "handle": "claudeai",
+          "display_name": "Claude",
+          "avatar": "https://pbs.twimg.com/profile_images/1950950107937185792/QOfEjFoJ_normal.jpg",
+          "verified": true,
+          "followers": 2023006,
+          "created_at": "2026-11-09T21:06:32.000Z",
+          "lang": null,
+          "text": "Fable 5.2 wrote its own specifications, selected the components, routed the four-layer circuit boards, designed enclosures for 3D printing, and programmed the software.\n\nEach board was ready for manufacture in under a day. All three devices work without any modifications. https://t.co/APkMguvaln",
+          "text_zh": "Fable 5.2 自己写了规格，选好元器件，布置了四层电路板，设计了用于 3D 打印的外壳，并编写了软件。每块板都在一天内达到可交付制造的状态。三款设备都无需任何改动就能工作。",
+          "summary_zh": "官方补充：Fable 5.2 自己写规格、选型、布四层电路板、做 3D 打印外壳并写软件，三款设备都无需改动即可工作，每块板一天内可交付制造。",
+          "relation_zh": "母帖只展示了家用语音助手中枢，这条把另外两款设备也做完的工程细节一次说清。",
+          "metrics": {
+            "likes": 1564,
+            "retweets": 46,
+            "replies": 24,
+            "quotes": 20,
+            "bookmarks": 162,
+            "views": 124407
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 4096,
+              "h": 2731,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWtcz7OWIAA8-nN.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-10T02:48:42.408148+00:00"
+        },
+        {
+          "id": "2119899468812386425",
+          "url": "https://x.com/claudeai/status/2119899468812386425",
+          "handle": "claudeai",
+          "display_name": "Claude",
+          "avatar": "https://pbs.twimg.com/profile_images/1950950107937185792/QOfEjFoJ_normal.jpg",
+          "verified": true,
+          "followers": 2023006,
+          "created_at": "2026-11-09T21:06:33.000Z",
+          "lang": null,
+          "text": "Planning and executing the reactions to make a complex molecule (a “route”) is one of the hardest jobs in organic chemistry.\n\nFrom one image of each of four molecules, with no internet and with code as its only tool, Claude wrote a complete route in about half an hour. https://t.co/IlZWmWXl45",
+          "text_zh": "规划并执行复杂分子的合成路线，是有机化学里最难的工作之一。只看这四张分子图，不上网，也只把代码当工具，Claude 大约用了半小时就写出了完整路线。",
+          "summary_zh": "官方称模型只看四张分子图、不上网、只用代码，大约半小时就写出完整的有机合成路线。",
+          "relation_zh": "母帖说预发布测试覆盖许多领域，这条把电子设备之外的化学路线规划也摊开来。",
+          "metrics": {
+            "likes": 678,
+            "retweets": 20,
+            "replies": 7,
+            "quotes": 5,
+            "bookmarks": 72,
+            "views": 82047
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWtc8WnXkAAEB5D.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-10T02:48:42.408148+00:00"
+        },
+        {
+          "id": "2119899484373369278",
+          "url": "https://x.com/claudeai/status/2119899484373369278",
+          "handle": "claudeai",
+          "display_name": "Claude",
+          "avatar": "https://pbs.twimg.com/profile_images/1950950107937185792/QOfEjFoJ_normal.jpg",
+          "verified": true,
+          "followers": 2023006,
+          "created_at": "2026-11-09T21:06:37.000Z",
+          "lang": "en",
+          "text": "Fable 5.2 solved two open problems in theoretical physics related to black holes.\n\nIn the first, Fable 5.2 completed a laborious calculation that had gone unsolved for 23 years. https://t.co/BdxZ7NkvhT",
+          "text_zh": "Fable 5.2 解决了两个与黑洞有关的理论物理开放问题。其中第一个，是它完成了一项已经 23 年都没有算完的繁重计算。",
+          "summary_zh": "官方称 Fable 5.2 解决了两个与黑洞有关的理论物理开放问题，其中一个计算已经悬了 23 年。",
+          "relation_zh": "这是同一条预发布成果线里最受关注的科学结果，用来对照「一段话做出三款设备」之外的能力上限。",
+          "metrics": {
+            "likes": 937,
+            "retweets": 96,
+            "replies": 15,
+            "quotes": 35,
+            "bookmarks": 142,
+            "views": 83965
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 3170,
+              "h": 1784,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWtdRS7W4AA0y49.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/claudeai/status/2119899484373369278/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-10T02:48:42.408148+00:00"
+        }
+      ]
     },
     {
       "id": "2119880176112660707",
@@ -612,7 +877,130 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2119963405994094734",
+          "url": "https://x.com/carlxenn/status/2119963405994094734",
+          "handle": "carlxenn",
+          "display_name": "Carlxen",
+          "avatar": "https://pbs.twimg.com/profile_images/1948066864279539715/6YMTWbH__normal.jpg",
+          "verified": true,
+          "followers": 17393,
+          "created_at": "2026-11-10T01:20:37.000Z",
+          "lang": "en",
+          "text": "NEW: @OpenAI lets a dot link several local computers and pick one for each task\n\nYou can build and test an app on a dedicated machine while coding on your laptop\n\nIt can run Xcode tests on a second Mac and return screenshots, or reproduce bugs on your laptop https://t.co/sXp6otQJfD",
+          "text_zh": "新消息：OpenAI 让一台 dot 可以连接多台本地电脑，并按任务挑选要用哪一台。你可以在专用机器上构建和测试应用，同时在笔记本上继续写代码。它还能在第二台 Mac 上跑 Xcode 测试并回传截图，或在你的笔记本上复现错误。",
+          "summary_zh": "有人把「一台 dot 连接多台电脑、在专用机测试、在笔记本继续写代码」做成图文卡，并写到可在第二台 Mac 跑 Xcode 测试。",
+          "relation_zh": "这是对官方功能的可视化摘要，方便快速看清多机分工。",
+          "metrics": {
+            "likes": 2,
+            "retweets": 2,
+            "replies": 1,
+            "quotes": 1,
+            "bookmarks": 0,
+            "views": 123
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1200,
+              "h": 675,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWufdtfaYAASWcP.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/carlxenn/status/2119963405994094734/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "OpenAI"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-10T02:48:42.408148+00:00"
+        },
+        {
+          "id": "2119956611326414889",
+          "url": "https://x.com/TheTiredGM/status/2119956611326414889",
+          "handle": "TheTiredGM",
+          "display_name": "TheTiredGM",
+          "avatar": "https://pbs.twimg.com/profile_images/2113814393616273408/UshcP1-K_normal.jpg",
+          "verified": true,
+          "followers": 3438,
+          "created_at": "2026-11-10T00:53:37.000Z",
+          "lang": "en",
+          "text": "OpenAI just announced that one Dot can now work across multiple computers.\n\nNow you can connect more than one computer to the same Dot and choose which machine it uses.\n\nLet's say you're building an app on your laptop and you still need to test it, check for bugs, and see if everything works. Instead of letting the AI take over your laptop, you can tell it to use another computer for testing while you keep doing your own stuff. That's pretty handy, no?\n\nI mean, why should you stop working just because your AI needs a computer to do its job?\n\nOf course, you still need to connect those machines and give the Dot permission to use them. I wouldn't give an AI access to everything without checking what it can touch first.\n\nOne AI working on different computers while you get on with your day. I can see why people would want that.",
+          "text_zh": "OpenAI 刚刚宣布，一台 Dot 现在可以在多台电脑上工作。你可以把不止一台电脑连到同一个 Dot，并选择它用哪一台。比如你在笔记本上做应用，还要测试、查错、看功能是否正常：不必把笔记本交给 AI，可以让它用另一台电脑测试，你继续做自己的事。当然，还是要先把这些机器连上，并给 Dot 相应权限。我不会在弄清它能碰什么之前，就把所有权限都交给它。一台 AI 在不同电脑上干活，你继续过自己的一天，不难理解为什么会有人想要这个。",
+          "summary_zh": "有帖用日常开发的口吻解释多机 dot：测试不必占用自己的笔记本，但也提醒先弄清授权范围再把机器交给它。",
+          "relation_zh": "官方演示偏能力介绍，这条补上了使用时的权限提醒，适合真正要接线的人。",
+          "metrics": {
+            "likes": 2,
+            "retweets": 1,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 1,
+            "views": 66
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1672,
+              "h": 941,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWuZTMcbsAAhYh6.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/TheTiredGM/status/2119956611326414889/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-10T02:48:42.408148+00:00"
+        },
+        {
+          "id": "2119883189028266171",
+          "url": "https://x.com/OpenAIDevs/status/2119883189028266171",
+          "handle": "OpenAIDevs",
+          "display_name": "OpenAI Developers",
+          "avatar": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+          "verified": true,
+          "followers": 479568,
+          "created_at": "2026-11-09T20:01:52.000Z",
+          "lang": "en",
+          "text": "A few things to try with your dot:\n\nBuilding an iOS app? You can ask your dot to test a change in Xcode on a second Mac and send you screenshots of how it looks.\n\nNeed to reproduce a bug? Ask your dot to run the same test on your laptop and on a machine with an older SDK. You can compare the two results without changing your everyday setup.\n\nTesting UI updates? Have your dot click through a flow on a second computer and capture where things break. That keeps your own screen and cursor free while you work on the fix.\n\nhttps://t.co/XkLqx8xdr8",
+          "text_zh": "你可以试试这些用法。在做 iOS 应用时，可以让 dot 在第二台 Mac 的 Xcode 里测试改动，并把界面截图发回来。需要复现错误时，可以让它在你的笔记本和一台装了旧版 SDK 的机器上跑同一组测试，不用改日常环境就能对比结果。测试界面更新时，也可以让它在第二台电脑上点完一整条流程，并记下哪里出错，这样你自己的屏幕和光标还能继续用来改问题。",
+          "summary_zh": "官方举例：可让 dot 在第二台 Mac 的 Xcode 里测试并回传截图，或在旧版 SDK 的机器上复现错误，也可在另一台电脑上点完界面流程。",
+          "relation_zh": "母帖只说能指定机器做构建和测试，这条把三条可马上试的开发场景写清楚了。",
+          "metrics": {
+            "likes": 185,
+            "retweets": 11,
+            "replies": 13,
+            "quotes": 2,
+            "bookmarks": 71,
+            "views": 45991
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-10T02:48:42.408148+00:00"
+        }
+      ]
     },
     {
       "id": "2119864571733446774",
@@ -756,7 +1144,134 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2119525387688374726",
+          "url": "https://x.com/testingcatalog/status/2119525387688374726",
+          "handle": "testingcatalog",
+          "display_name": "🚨 AI News | TestingCatalog",
+          "avatar": "https://pbs.twimg.com/profile_images/1899962463115751424/i-6MBWau_normal.jpg",
+          "verified": true,
+          "followers": 84244,
+          "created_at": "2026-11-08T20:20:05.000Z",
+          "lang": "en",
+          "text": "OpenAI is teasing Modretro Chromatic to arrive at Supply Co. on November 9. \n\n> @modretro is the company behind Chromatic, a retro handheld console that plays Game Boy and Game Boy Color games. \n\n> At DevDay, OpenAI gave attendees a limited-edition transparent Chromatic and showcased a Codex integration for creating games.  https://t.co/GVOwFWnbuo",
+          "text_zh": "OpenAI 预告 ModRetro Chromatic 将于 11 月 9 日登陆 Supply Co。ModRetro 是这款可玩 Game Boy 和 Game Boy Color 游戏的复古掌机厂商。在 DevDay 上，OpenAI 曾给与会者送出限量透明版 Chromatic，并展示了用 Codex 做游戏的集成。",
+          "summary_zh": "上线前一天，testingcatalog 用视频回顾 OpenAI 预告 11 月 9 日在 Supply Co. 上架 ModRetro Chromatic，并提到 DevDay 上送出的透明版和 Codex 做游戏演示。",
+          "relation_zh": "母帖是正式开售，这条把前一天的预告和 DevDay 限量机的来龙去脉接上，方便理解这款联名掌机从哪来。",
+          "metrics": {
+            "likes": 421,
+            "retweets": 20,
+            "replies": 30,
+            "quotes": 4,
+            "bookmarks": 37,
+            "views": 31174
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2119521329821216768/vid/avc1/1920x1080/-IxiOPoHvzNUwbBo.mp4?tag=16",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2119521329821216768/img/yyRYVpGRET_BHkwP.jpg",
+              "duration_ms": 15515
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/OpenAIDevs/status/2119521359185478140/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "modretro"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-10T02:48:42.408148+00:00"
+        },
+        {
+          "id": "2119962342603841979",
+          "url": "https://x.com/natalieyeo/status/2119962342603841979",
+          "handle": "natalieyeo",
+          "display_name": "Natalie",
+          "avatar": "https://pbs.twimg.com/profile_images/1879845755722346496/6WqlU3aL_normal.jpg",
+          "verified": true,
+          "followers": 8119,
+          "created_at": "2026-11-10T01:16:24.000Z",
+          "lang": "en",
+          "text": "Happy with mine! https://t.co/C7mNxKV8K5 https://t.co/8G4nh2UgO7",
+          "text_zh": "到手了，我很满意！",
+          "summary_zh": "有用户晒出已到手的 Codex 版 ModRetro Chromatic 真机照片，并说自己很满意。",
+          "relation_zh": "官方发布是宣传视频，这张开箱照片能确认这款 200 美元掌机已经发到用户手里。",
+          "metrics": {
+            "likes": 5,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 357
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 2048,
+              "h": 1536,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWueg6eXoAIQSlz.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/natalieyeo/status/2119962342603841979/photo/1",
+            "https://twitter.com/openaidevs/status/2119864571733446774"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2119864571733446774",
+          "article_title": null,
+          "attached_at": "2026-11-10T02:48:42.408148+00:00"
+        },
+        {
+          "id": "2119864573142749308",
+          "url": "https://x.com/OpenAIDevs/status/2119864573142749308",
+          "handle": "OpenAIDevs",
+          "display_name": "OpenAI Developers",
+          "avatar": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+          "verified": true,
+          "followers": 479568,
+          "created_at": "2026-11-09T18:47:54.000Z",
+          "lang": "en",
+          "text": "Get your Codex edition Chromatic with supplies last:\n\nhttps://t.co/dmwHUEpCG4",
+          "text_zh": "Codex 版 Chromatic 现已开售，售完即止。购买链接在帖内。",
+          "summary_zh": "OpenAI 开发者账号在发布帖下给出 Codex 版 Chromatic 的 Supply Co. 购买链接，并注明售完即止。",
+          "relation_zh": "母帖只宣布上架，这条是直接下单的入口。",
+          "metrics": {
+            "likes": 385,
+            "retweets": 19,
+            "replies": 44,
+            "quotes": 34,
+            "bookmarks": 365,
+            "views": 267047
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://openai.com/supply/co-lab/chromatic"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-10T02:48:42.408148+00:00"
+        }
+      ]
     },
     {
       "id": "2119853591703998787",
@@ -910,7 +1425,127 @@
         "text": "Today we're introducing Muse Ember, our smallest and most efficient model, built for complex reasoning execution and everyday agent work.\n\nMuse Ember can carry workflows across apps, call tools in sequence, run tests and make targeted code fixes. With a 1M-token context window and native understanding of text, images, audio and video, it can also work across large document sets and varied inputs."
       },
       "x_long": true,
-      "article_summary_zh": "Meta 发布 Muse Ember，自称迄今最小、最高效的模型，目标是智能体每天要重复的推理和执行任务。它能跨应用串联工作流、连续调用工具、跑测试并定点改代码。上下文长达 100 万 token，原生支持文本、图像、音频和视频，适合在大批文档和多模态输入上工作。"
+      "article_summary_zh": "Meta 发布 Muse Ember，自称迄今最小、最高效的模型，目标是智能体每天要重复的推理和执行任务。它能跨应用串联工作流、连续调用工具、跑测试并定点改代码。上下文长达 100 万 token，原生支持文本、图像、音频和视频，适合在大批文档和多模态输入上工作。",
+      "attached_posts": [
+        {
+          "id": "2119885344908902825",
+          "url": "https://x.com/pidashai/status/2119885344908902825",
+          "handle": "pidashai",
+          "display_name": "Pi Dash",
+          "avatar": "https://pbs.twimg.com/profile_images/2057148533766230016/e0pMJI_U_normal.jpg",
+          "verified": true,
+          "followers": 62,
+          "created_at": "2026-11-09T20:10:26.000Z",
+          "lang": null,
+          "text": "Pi Dash + Muse Ember == Coding beast! 🔥\n\nPi Dash is honored to get early access to Muse Ember over the past weekend!\n🤖 10 Muse Code agents with Muse Ember working together under Pi Dash's Coordination to evolve itself:⚡ Raw SQL → SeaORM, ~178,000 lines of production code https://t.co/t6w7AGBSZL",
+          "text_zh": "Pi Dash 说上个周末提前用上了 Muse Ember，感觉编码很猛。在它的调度下，10 个采用 Muse Ember 的 Muse Code 智能体一起工作，把大约 17.8 万行生产代码从原始 SQL 迁到了 SeaORM。",
+          "summary_zh": "Pi Dash 展示用 10 个 Muse Ember 编程智能体协同工作，把约 17.8 万行生产代码从原始 SQL 迁到 SeaORM。",
+          "relation_zh": "母帖说 Ember 适合日常智能体和定点改代码，这条用真实迁移项目说明它在多代理编码里怎么用。",
+          "metrics": {
+            "likes": 20,
+            "retweets": 4,
+            "replies": 2,
+            "quotes": 0,
+            "bookmarks": 3,
+            "views": 5641
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2119883635260272640/vid/avc1/1920x1080/ACqNJI_swTC06-Es.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2119883635260272640/img/AOtYNCVqAL9AkpzX.jpg",
+              "duration_ms": 64021
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-10T02:48:42.408148+00:00"
+        },
+        {
+          "id": "2119857909098283406",
+          "url": "https://x.com/alexandr_wang/status/2119857909098283406",
+          "handle": "alexandr_wang",
+          "display_name": "Alexandr Wang",
+          "avatar": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+          "verified": true,
+          "followers": 845824,
+          "created_at": "2026-11-09T18:21:25.000Z",
+          "lang": null,
+          "text": "today we released our smallest model yet: Muse Ember 🔥\n\nMuse Ember offers nearly Muse Spark 1.3 (max) intelligence at a 17x cheaper price point (per AA)\n\nMuse Ember is the first model we’ve released trained using Muse Wonder Full\n\nexcited for y’all to try on API and muse code! https://t.co/ttBa7hGgUH",
+          "text_zh": "今天我们发布了目前最小的模型 Muse Ember。按 Artificial Analysis 的口径，它的智力接近 Muse Spark 1.3 的最高档，价格却便宜约 17 倍。这也是我们首个用 Muse Wonder Full 训练后发布的模型。欢迎在 API 和 Muse Code 上试试。",
+          "summary_zh": "Meta 的 Alexandr Wang 称 Muse Ember 在 Artificial Analysis 上接近 Muse Spark 1.3 最高档智力，价格却便宜约 17 倍，而且是首个用 Muse Wonder Full 训练的模型。",
+          "relation_zh": "官方发布帖讲的是定位，这条给出了和自家更大模型的性价比，以及新的训练方法。",
+          "metrics": {
+            "likes": 2103,
+            "retweets": 147,
+            "replies": 139,
+            "quotes": 43,
+            "bookmarks": 216,
+            "views": 199596
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 2048,
+              "h": 817,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWs_iJba0AEZwRa.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-10T02:48:42.408148+00:00"
+        },
+        {
+          "id": "2119853597542568405",
+          "url": "https://x.com/AIatMeta/status/2119853597542568405",
+          "handle": "AIatMeta",
+          "display_name": "AI at Meta",
+          "avatar": "https://pbs.twimg.com/profile_images/2102933421458665472/o_KTIjw3_normal.png",
+          "verified": true,
+          "followers": 881806,
+          "created_at": "2026-11-09T18:04:17.000Z",
+          "lang": "en",
+          "text": "Muse Ember is available today on the Meta Model API, at $0.10 per million input tokens and $0.50 per million output tokens.\n\nLearn more on our research blog: https://t.co/h90imZtYOx",
+          "text_zh": "Muse Ember 即日起可在 Meta Model API 上使用，价格为每百万 token 输入 0.10 美元、输出 0.50 美元。更多内容见官方研究博客。",
+          "summary_zh": "Meta 宣布 Muse Ember 即日起在 Meta Model API 上线，价格为每百万 token 输入 0.10 美元、输出 0.50 美元。",
+          "relation_zh": "母帖没写单价和购买入口，这条把 API 定价和官方研究博客补上了。",
+          "metrics": {
+            "likes": 129,
+            "retweets": 8,
+            "replies": 4,
+            "quotes": 2,
+            "bookmarks": 16,
+            "views": 14025
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://research.meta.ai/blog/muse-ember"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-10T02:48:42.408148+00:00"
+        }
+      ]
     },
     {
       "id": "2119913172039868579",
@@ -1022,7 +1657,126 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2119933568142991447",
+          "url": "https://x.com/AGTPinsights/status/2119933568142991447",
+          "handle": "AGTPinsights",
+          "display_name": "AGTP",
+          "avatar": "https://pbs.twimg.com/profile_images/2091502140917415936/CNbeDaNw_normal.jpg",
+          "verified": true,
+          "followers": 5843,
+          "created_at": "2026-11-09T23:22:03.000Z",
+          "lang": null,
+          "text": "OpenAI just launched Control Room, a central system to track and quickly stop AI model workloads. Here's what you need to know.\n\nControl Room tracks model workloads across OpenAI's research infrastructure. It connects every research inference workload, including agentic sampling https://t.co/772U9TH9Jj https://t.co/olUbpraM9F",
+          "text_zh": "OpenAI 刚推出 Control Room，一套用来跟踪并迅速停掉模型工作负载的中枢系统。它会跟踪研究基础设施上的模型负载，并接入每一项研究推理任务，包括用于训练和评测的智能体采样。",
+          "summary_zh": "有账号把 Control Room 的要点做成图文卡：集中跟踪研究侧推理负载，并在安全和安保告警时迅速停掉任务。",
+          "relation_zh": "母帖是一条没有配图的公告，这张卡片把同一套机制拆开，方便快速扫一遍。",
+          "metrics": {
+            "likes": 3,
+            "retweets": 1,
+            "replies": 2,
+            "quotes": 3,
+            "bookmarks": 1,
+            "views": 535
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1254,
+              "h": 1254,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWuEUgqXoAAGSNm.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2119913172039868579",
+          "article_title": null,
+          "attached_at": "2026-11-10T02:48:42.408148+00:00"
+        },
+        {
+          "id": "2119981697802608765",
+          "url": "https://x.com/Smartpigai/status/2119981697802608765",
+          "handle": "Smartpigai",
+          "display_name": "Smartpig",
+          "avatar": "https://pbs.twimg.com/profile_images/2023061150502678528/9XJ1HlA-_normal.jpg",
+          "verified": true,
+          "followers": 34410,
+          "created_at": "2026-11-10T02:33:18.000Z",
+          "lang": null,
+          "text": "OpenAI 给前沿模型装了一道“总闸”：一旦发现异常，35 秒内就能阻止模型继续输出。最狠的是，连控制系统自己宕机，模型也不能继续跑？？？\n\nOpenAI 最近公开了一套内部基础设施：Control Room。\n\n我觉得这篇文章很值得做 Agent Infrastructure 的人研究。 https://t.co/rOz2VZTZpJ",
+          "text_zh": "OpenAI 给前沿模型装了一道总闸：一旦发现异常，35 秒内就能阻止模型继续输出。更严的是，连控制系统自己宕机，模型也不能继续跑。作者认为，这套刚公开的内部基础设施 Control Room，很值得做智能体基础设施的人研究。",
+          "summary_zh": "有帖强调 Control Room 的两个关键设计：决定干预后 35 秒内切断输出，而且控制室自己宕机时模型也不能继续跑。",
+          "relation_zh": "母帖只说「迅速停掉」，这条点出了 35 秒延迟和故障时默认关停，对做智能体基础设施的人更有用。",
+          "metrics": {
+            "likes": 1,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 1,
+            "views": 48
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1774,
+              "h": 887,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWuwGzzbQAA_sr2.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-10T02:48:42.408148+00:00"
+        },
+        {
+          "id": "2119958220727107679",
+          "url": "https://x.com/LJL06019/status/2119958220727107679",
+          "handle": "LJL06019",
+          "display_name": "JL",
+          "avatar": "https://pbs.twimg.com/profile_images/2109156948256210944/Bxt2tV0Z_normal.jpg",
+          "verified": true,
+          "followers": 2662,
+          "created_at": "2026-11-10T01:00:01.000Z",
+          "lang": "zh",
+          "text": "OpenAI 给自家模型装了个总开关，叫 Control Room。以前人工关一个失控模型要 2.5 小时，现在 35 秒就能掐断输出。9 月 20 号有个内部模型还从沙箱里逃出来过。安全这事，OpenAI 是真被逼出来的。\n\n官方博客讲了 Control Room 怎么工作：https://t.co/XZNR9saea8\n这篇讲了从 2.5 小时到 35 秒的来龙去脉：https://t.co/YOnUryNbin\n这篇讲了 9 月 20 号沙箱逃逸那事：https://t.co/XfMzGEnsH9\n提醒一句，35 秒是决定干预之后的延迟，不包括发现问题和做决定的时间；只管研究基建，不管对外服务。\n#OpenAI #AI安全",
+          "text_zh": "OpenAI 给自家模型装了个总开关，叫 Control Room。以前人工关一个失控模型要 2.5 小时，现在 35 秒就能掐断输出。9 月 20 日还有个内部模型从沙箱里逃出来过。作者附上了官方博客，并提醒：35 秒是决定干预之后的延迟，不包括发现问题和做决定的时间；这套系统只管研究基建，不管对外服务。",
+          "summary_zh": "有博主对照官方博客写道：从前人工关停要 2.5 小时，现在 35 秒；还提到 9 月 20 日曾有内部模型逃出沙箱。",
+          "relation_zh": "它补上了官方公告没写明的旧耗时和沙箱事件，并提醒 35 秒不含发现和决策时间，系统只管研究基建。",
+          "metrics": {
+            "likes": 4,
+            "retweets": 0,
+            "replies": 2,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 211
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://openai.com/index/introducing-control-room"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-10T02:48:42.408148+00:00"
+        }
+      ]
     },
     {
       "id": "2119878364794372162",
@@ -1385,7 +2139,152 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2119867132452221045",
+          "url": "https://x.com/claudeai/status/2119867132452221045",
+          "handle": "claudeai",
+          "display_name": "Claude",
+          "avatar": "https://pbs.twimg.com/profile_images/1950950107937185792/QOfEjFoJ_normal.jpg",
+          "verified": true,
+          "followers": 2023006,
+          "created_at": "2026-11-09T18:58:04.000Z",
+          "lang": null,
+          "text": "Fable 5.2 shows substantially improved skills in controlling physical robots, even on tasks it has never explicitly been trained to do.\n\nOn RoboDojo, a benchmark with a simulated two-arm robot, it outperformed other models and most AI systems built to control robots. https://t.co/VEiQiQrcxq",
+          "text_zh": "Fable 5.2 在控制实体机器人方面有明显进步，即使是从未专门训练过的任务也能上手。在用仿真双臂机器人做的基准 RoboDojo 上，它超过了其他模型，也超过了多数专门为控制机器人而建的人工智能系统。",
+          "summary_zh": "官方演示 Fable 5.2 在从未专门训练的任务上控制实体机器人，并在双臂仿真基准 RoboDojo 上超过多数专用控制系统。",
+          "relation_zh": "母帖只概括了编程、推理和视觉的提升，这条用机器人控制视频把「跨领域协作」说具体了。",
+          "metrics": {
+            "likes": 6445,
+            "retweets": 508,
+            "replies": 94,
+            "quotes": 402,
+            "bookmarks": 1032,
+            "views": 975114
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2119864431383322625/vid/avc1/1920x1080/tzrw8C16ux5Q94dN.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2119864431383322625/img/PnRKfjtscPIIN_mq.jpg",
+              "duration_ms": 23033
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-10T02:48:42.408148+00:00"
+        },
+        {
+          "id": "2119867122683953298",
+          "url": "https://x.com/claudeai/status/2119867122683953298",
+          "handle": "claudeai",
+          "display_name": "Claude",
+          "avatar": "https://pbs.twimg.com/profile_images/1950950107937185792/QOfEjFoJ_normal.jpg",
+          "verified": true,
+          "followers": 2023006,
+          "created_at": "2026-11-09T18:58:01.000Z",
+          "lang": null,
+          "text": "In early testing on FrontierCode 2.0, Fable 5.2 at High effort scored about level with Opus 5.5 at Max effort, for roughly half the cost per task. At Xhigh effort, it scored the highest of any released model tested.\n\nMedium is the default in Claude apps and Claude Code. https://t.co/ysqCst6mEV",
+          "text_zh": "在 FrontierCode 2.0 的早期测试里，Fable 5.2 开到 High 档，分数大致赶上 Opus 5.5 的 Max 档，单任务成本大约只有一半；开到 Xhigh 档，则是已发布模型里测到的最高分。Claude 应用和 Claude Code 里默认是 Medium 档。",
+          "summary_zh": "官方公布 FrontierCode 2.0 初测：Fable 5.2 在 High 档与 Opus 5.5 的 Max 档相当，单任务成本约一半；开到 Xhigh 档则是已发布模型里最高。",
+          "relation_zh": "它把母帖里的「编程更强」落成可对比的分数和成本，并说明 Claude 应用和 Claude Code 默认用 Medium 档。",
+          "metrics": {
+            "likes": 3265,
+            "retweets": 120,
+            "replies": 46,
+            "quotes": 118,
+            "bookmarks": 362,
+            "views": 541535
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1600,
+              "h": 1360,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWtFOLlWsAAwNCN.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 1600,
+              "h": 1360,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWtFOLoWEAEEqIc.png",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 1600,
+              "h": 1360,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWtFOLjWQAA3x-Z.png",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 1600,
+              "h": 1360,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWtFOLmXYAA1DC2.png",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo",
+            "photo",
+            "photo",
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-10T02:48:42.408148+00:00"
+        },
+        {
+          "id": "2119867138987176141",
+          "url": "https://x.com/claudeai/status/2119867138987176141",
+          "handle": "claudeai",
+          "display_name": "Claude",
+          "avatar": "https://pbs.twimg.com/profile_images/1950950107937185792/QOfEjFoJ_normal.jpg",
+          "verified": true,
+          "followers": 2023006,
+          "created_at": "2026-11-09T18:58:05.000Z",
+          "lang": null,
+          "text": "Claude Fable 5.2 is available today on all paid plans, on the Claude Platform, and on all major cloud platforms.\n\nIt’s $8 per million input tokens and $40 per million output tokens, down from $10 and $50.\n\nRead more: https://t.co/50jMVOnsvF",
+          "text_zh": "Claude Fable 5.2 即日起可在所有付费方案、Claude 平台和各大云平台使用。API 价格为每百万 token 输入 8 美元、输出 40 美元，低于此前的 10 美元和 50 美元。",
+          "summary_zh": "Anthropic 宣布 Fable 5.2 即日起在所有付费方案、Claude 平台和主流云上线，API 降到每百万 token 输入 8 美元、输出 40 美元。",
+          "relation_zh": "发布帖没有写清楚怎么买、多少钱；这条补上了渠道，以及比上一代便宜两成的定价。",
+          "metrics": {
+            "likes": 4248,
+            "retweets": 236,
+            "replies": 110,
+            "quotes": 157,
+            "bookmarks": 426,
+            "views": 715320
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-10T02:48:42.408148+00:00"
+        }
+      ]
     },
     {
       "id": "2119845639110734193",
@@ -3238,7 +4137,126 @@
         "text": "Anthropic could begin marketing its IPO as early as Tuesday, Bloomberg reports, putting it on track for a Nasdaq debut the following week. \n\nSome investors have discussed a valuation of $1.1 trillion to $1.3 trillion after a selloff in AI stocks.\n\nThat makes a Fable 5.5 release this week highly likely."
       },
       "x_long": true,
-      "article_summary_zh": "Kimmonismus 援引彭博社称，Anthropic 最早可在周二启动 IPO 路演，并有望于次周登陆纳斯达克。报道同时提到，经过本轮 AI 股票回调，部分投资者讨论的估值大约在 1.1 万亿到 1.3 万亿美元。作者还据此猜测本周可能再有一次 Fable 版本更新，这一点目前只是个人推测。"
+      "article_summary_zh": "Kimmonismus 援引彭博社称，Anthropic 最早可在周二启动 IPO 路演，并有望于次周登陆纳斯达克。报道同时提到，经过本轮 AI 股票回调，部分投资者讨论的估值大约在 1.1 万亿到 1.3 万亿美元。作者还据此猜测本周可能再有一次 Fable 版本更新，这一点目前只是个人推测。",
+      "attached_posts": [
+        {
+          "id": "2119827438423404545",
+          "url": "https://x.com/ahsuzm/status/2119827438423404545",
+          "handle": "ahsuzm",
+          "display_name": "芝诺Zeno（AI+薄肌版）",
+          "avatar": "https://pbs.twimg.com/profile_images/2104614517036695553/nXjJeB2C_normal.jpg",
+          "verified": true,
+          "followers": 6998,
+          "created_at": "2026-11-09T16:20:20.000Z",
+          "lang": null,
+          "text": "路演这周开跑，估值先缩水四成。\n\nAnthropic冲纳斯达克：IFR说路演本周启动，下周定价，目标11月20日挂牌，代码ANT。彭博：买家只认1.2–1.3万亿，2万亿的目标没了。九个月营收332亿美元，同比翻了13倍。\n\n史上最大IPO，就这么缩水上市？\n\n#Anthropic #IPO #美股 https://t.co/mBqAajIO9n",
+          "text_zh": "路演这周开跑，估值先缩水四成。有帖引 IFR 称，Anthropic 冲刺纳斯达克：路演本周启动，下周定价，目标 11 月 20 日挂牌，代码 ANT。彭博的口径是买家只认 1.2–1.3 万亿美元，2 万亿的目标没了；还提到九个月营收 332 亿美元，同比翻了 13 倍。作者问：史上最大的 IPO，就这么缩水上市？",
+          "summary_zh": "有帖引 IFR 称路演本周启动、目标 11 月 20 日以代码 ANT 挂牌，并提到彭博给出的 1.2–1.3 万亿美元估值，以及九个月 332 亿美元营收。",
+          "relation_zh": "母帖还是「最早周二路演」的前瞻，这条把挂牌日期、股票代码和营收数字补进来，方便对照。",
+          "metrics": {
+            "likes": 4,
+            "retweets": 0,
+            "replies": 6,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 434
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 800,
+              "h": 450,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWsjzJ7aIAIkMhV.png",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-10T02:48:42.408148+00:00"
+        },
+        {
+          "id": "2119968321617670554",
+          "url": "https://x.com/Meta8Mate/status/2119968321617670554",
+          "handle": "Meta8Mate",
+          "display_name": "机灵的杰尼君🔶BNB",
+          "avatar": "https://pbs.twimg.com/profile_images/1530002268334223360/lwFqoY3E_normal.jpg",
+          "verified": true,
+          "followers": 108372,
+          "created_at": "2026-11-10T01:40:09.000Z",
+          "lang": null,
+          "text": "路演前一晚放王炸Fable 5.2，A÷ 这波营销节奏可以的。\n\nAnthropic @AnthropicAI 今晚开 IPO 路演，预计 11 月 19 号或 20 号纳斯达克上市，代码 $ANT，最多募 $1,000 亿。\n\n刚发 Claude Fable 5.2，跑分全面压过自家 Opus 5.5，API 还便宜了两成。\n\n估值从 2 万亿谈到 1.1-1.3 万亿， https://t.co/NFYikxVZZt https://t.co/MKGMqoLcyd",
+          "text_zh": "有人说这波节奏很准：路演前一晚先放 Fable 5.2。Anthropic 今晚开 IPO 路演，预计 11 月 19 日或 20 日登陆纳斯达克，代码 ANT，最多募资传闻为 1000 亿美元。刚发布的 Claude Fable 5.2 跑分全面压过自家 Opus 5.5，API 还便宜了两成。估值则从 2 万亿谈到 1.1–1.3 万亿美元。",
+          "summary_zh": "有人指出 Anthropic 在路演前夜发布 Fable 5.2，并称上市窗口约在 11 月 19 或 20 日，募资上限传闻为 1000 亿美元。",
+          "relation_zh": "它把母帖里同一窗口的产品发布和 IPO 节奏明确连在一起，并补充了募资规模的传闻。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 1222
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 2496,
+              "h": 3328,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWujpIWaEAAsWq5.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2119867114450268322",
+          "article_title": null,
+          "attached_at": "2026-11-10T02:48:42.408148+00:00"
+        },
+        {
+          "id": "2119965766673908198",
+          "url": "https://x.com/LJL06019/status/2119965766673908198",
+          "handle": "LJL06019",
+          "display_name": "JL",
+          "avatar": "https://pbs.twimg.com/profile_images/2109156948256210944/Bxt2tV0Z_normal.jpg",
+          "verified": true,
+          "followers": 2662,
+          "created_at": "2026-11-10T01:30:00.000Z",
+          "lang": "zh",
+          "text": "Anthropic 今天开始 IPO 路演，纳斯达克代码 ANT。估值从 10 月喊的 2 万亿，砍到 1.2–1.3 万亿再出发。\n\n昨天刚发 Fable 5.2，今天就去见投资人，这时间掐得挺准。定价最快 11 月 13 号，上市瞄准 11 月 16 号那周。\n\n这篇讲了路演今天开始、估值区间：https://t.co/28ydLn52au\n这篇讲了定价和上市时间表：https://t.co/f2eZGIynZV\n提醒一句，路演开始是 IFR 爆的，Anthropic 没官宣；招股书里价格区间还是空的，1.2–1.3 万亿是彭博的说法。\n#Anthropic #IPO",
+          "text_zh": "有博主称 Anthropic 今天开始 IPO 路演，纳斯达克代码 ANT。估值从 10 月喊的 2 万亿美元，砍到 1.2–1.3 万亿再出发。昨天刚发 Fable 5.2，今天就去见投资人，这时间掐得挺准。定价最快 11 月 13 日，上市瞄准 11 月 16 日那周。作者提醒：路演开始是 IFR 爆的，Anthropic 没有官宣；招股书里价格区间还是空的，1.2–1.3 万亿是彭博的说法。",
+          "summary_zh": "有博主称路演已在今天开始，定价最早 11 月 13 日、上市瞄准 11 月 16 日那周，并提醒这是 IFR 的消息，招股书价格区间仍空着。",
+          "relation_zh": "这是收藏之后的最新进展，也标明了时间表尚未官宣，避免和「次周登陆」的预测混在一起。",
+          "metrics": {
+            "likes": 1,
+            "retweets": 0,
+            "replies": 2,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 148
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://news.marketflux.io/news/anthropic-set-to-launch-nasdaq-ipo-roadshow-on-tuesday-as-valuation-28d94cad355bac0979fd0fed180f5398.html"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-10T02:48:42.408148+00:00"
+        }
+      ]
     },
     {
       "id": "2119751497282125949",
@@ -3391,7 +4409,202 @@
         "text": "Dreamina Seedream 5.5 makes its global debut!\n\n🧑 More realistic portraits \n‣ Natural skin texture and lighting, without a greasy or artificial look. \n‣ Upgraded beauty, makeup, retouching and photoshoot-style portraits.\n\n✍️ More accurate text \n‣ 95% text accuracy—even complex characters and dense layouts stay clear. \n‣ Generate commercial-quality posters, infographics and presentation slides directly.\n\n🖌️ More precise editing \n‣ Edit selected areas while preserving untouched regions pixel-perfectly. \n‣ Refine the same image repeatedly without losing detail.\n\n🧊 Transparent assets, no cutout needed \n‣ Generate transparent and semi-transparent assets from one prompt, with crisp hair and sheer-fabric edges. \n‣ Skip manual cutouts and reuse assets across scenes.\n\n👉 Now open to all users for the first time. Try it today!\n🕐 Limited-time offer: Unlimited use—7 days for everyone, 30 days for Basic and higher-tier subscribers.\n🎁 Repost and comment within 12 hours—the first 200 participants will each receive 1,000 Dreamina credits. First come, first served.\n\n#DreaminaSeedream5_5 #DreaminaAI"
       },
       "x_long": true,
-      "article_summary_zh": "字节跳动旗下 Dreamina 宣布 Seedream 5.5 全球上线，重点不是再画一张好看的图，而是让图能被反复改。官方强调更自然的人像质感、约 95% 的文字准确率、只改选中区域并保持其余像素稳定，以及直接生成透明/半透明素材。产品首次向所有用户开放，并给出短期无限试用和积分活动。"
+      "article_summary_zh": "字节跳动旗下 Dreamina 宣布 Seedream 5.5 全球上线，重点不是再画一张好看的图，而是让图能被反复改。官方强调更自然的人像质感、约 95% 的文字准确率、只改选中区域并保持其余像素稳定，以及直接生成透明/半透明素材。产品首次向所有用户开放，并给出短期无限试用和积分活动。",
+      "attached_posts": [
+        {
+          "id": "2119823986603299193",
+          "url": "https://x.com/dotey/status/2119823986603299193",
+          "handle": "dotey",
+          "display_name": "宝玉",
+          "avatar": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+          "verified": true,
+          "followers": 267985,
+          "created_at": "2026-11-09T16:06:37.000Z",
+          "lang": "zh",
+          "text": "字节发布图像模型 Seedream 5.5：同一张图连改 100 轮不走样，能直接出透明底素材，即梦、豆包陆续上线\n\n字节跳动 Seed 团队 11 月 9 日发布 Seedream 5.5。用 AI 改图最烦的是改着改着别处也变了：换个戒指，脸和颜色跟着偏，几轮下来图越来越糊。\n\n新版没要求改的区域能做到像素级不变，官方演示里同一个人物连改 100 轮，细节还能对上。它还能直接生成背景透明的图，羽毛这类难抠的边缘都保留，拿来就能叠进海报和设计稿，省掉抠图。照片质感和小字也更准，严重文字错误率从上一代的 2.8% 降到 0.4%。\n\n字节拿它和 OpenAI 的 GPT Image 2.5 Sunburst、Google 的 Nano Banana 2.1 做了对比，文字错误率最低，凭文字生图的真实感也领先。对 Nano Banana 2.1 的优势不大，拿一张图去修改时的真实感还落后约 6%。\n\n模型正陆续在即梦、豆包、豆包工作上线，生图时选 Seedream 5.5 即可；开发者可以在火山方舟试用，模型名 Doubao-Seedream-5.5。定价方面，Seedream 5.5 API 延续“输入图 + 输出图”两段计费结构，文本 Token 不产生费用。以2K方图编辑为例，单张成本在 0.28 元左右，不到 Seedream 5.0 Pro 一半。\n\n我自己也有测试，稳定性和背景透明相当不错，在游戏、电商改图、视频制作等实用场景都有价值，完整的测试见文章。\n\n官方博客：https://t.co/P2zWKiL7ib",
+          "text_zh": "字节跳动 Seed 团队 11 月 9 日发布 Seedream 5.5。用 AI 改图最烦的是改着改着别处也变了：换个戒指，脸和颜色跟着偏，几轮下来图越来越糊。新版对没要求改的区域能做到像素级不变，官方演示里同一个人连改 100 轮，细节还能对上。它还能直接生成背景透明的图，羽毛这类难抠的边缘都保留，拿来就能叠进海报和设计稿。照片质感和小字也更准，严重文字错误率从上一代的 2.8% 降到 0.4%。字节拿它和 OpenAI 的 GPT Image 2.5 Sunburst、Google 的 Nano Banana 2.1 做了对比，文字错误率最低，凭文字生图的真实感也领先；对 Nano Banana 2.1 的优势不大，拿一张图去修改时的真实感还落后约 6%。模型正陆续在即梦、豆包、豆包工作上线，生图时选 Seedream 5.5 即可；开发者可以在火山方舟试用，模型名是 Doubao-Seedream-5.5。定价延续「输入图 + 输出图」两段计费，文本 token 不收费。以 2K 方图编辑为例，单张成本大约 0.28 元，不到 Seedream 5.0 Pro 的一半。作者自己测试后认为稳定性和透明背景相当不错，在游戏、电商改图和视频制作里都有用。",
+          "summary_zh": "宝玉把 Seedream 5.5 的百轮精修、透明底和文字准确率写成长文，并对比了 GPT Image 2.5 Sunburst 与 Nano Banana 2.1。",
+          "relation_zh": "母帖是全球上线海报，这条补上了评测数字、即梦和豆包的上线方式，以及大约 0.28 元的 2K 改图成本。",
+          "metrics": {
+            "likes": 110,
+            "retweets": 14,
+            "replies": 41,
+            "quotes": 4,
+            "bookmarks": 104,
+            "views": 18437
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2119823876456583168/vid/avc1/1920x1080/URG0Rsh-5-IM2wKJ.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2119823876456583168/img/V1fpT5_XaSiQeIoA.jpg",
+              "duration_ms": 186866
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/dotey/status/2119823986603299193/video/1",
+            "https://twitter.com/dotey/status/2119822405350600850"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2119822405350600850",
+          "article_title": null,
+          "attached_at": "2026-11-10T02:48:42.408148+00:00"
+        },
+        {
+          "id": "2119714786493829402",
+          "url": "https://x.com/Betaer/status/2119714786493829402",
+          "handle": "Betaer",
+          "display_name": "Betaer - 蓝V互关 Follow Me, I'll Follow Back💯",
+          "avatar": "https://pbs.twimg.com/profile_images/2111508839459938304/AFhjCbCJ_normal.jpg",
+          "verified": true,
+          "followers": 5934,
+          "created_at": "2026-11-09T08:52:42.000Z",
+          "lang": "zh",
+          "text": "🐮 字节发布 Seedream 5.5，支持百轮编辑！\n\n字节跳动发布图像创作模型 Seedream 5.5，支持同一作品最多 100 轮连续编辑，并可原生生成带透明通道的素材；模型还提升了图像真实感和文字渲染能力。\n\n字节称，评测中该模型在影视、办公场景的可用率达到上一版本两倍以上。目前正陆续上线即梦、豆包、豆包工作和火山方舟。\n\n#bytedance #seedance #seedream #字节跳动 #抖音 #红果短剧",
+          "text_zh": "字节跳动发布图像创作模型 Seedream 5.5，支持对同一作品最多连续编辑 100 轮，并能直接生成带透明通道的素材；图像真实感和文字渲染也有提升。官方称，在影视和办公场景的评测可用率达到上一版的两倍以上。模型正陆续上线即梦、豆包、豆包工作和火山方舟。",
+          "summary_zh": "Betaer 用四段演示视频介绍 Seedream 5.5：同一作品最多连改 100 轮，还能直接出带透明通道的素材。",
+          "relation_zh": "母帖强调像素级局部修改和免抠图，这条把「百轮不走样」和透明通道做成了可看的视频。",
+          "metrics": {
+            "likes": 5,
+            "retweets": 0,
+            "replies": 5,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 291
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2119713777746874368/vid/avc1/1920x1080/VzIlG9G7I5hdF9-S.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2119713777746874368/img/ytQZp5_C2Le8uiKi.jpg",
+              "duration_ms": 39541
+            },
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2119713778082467840/vid/avc1/1920x1080/49aIsiS2YJmzP_cv.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2119713778082467840/img/wchib1yADNKwnYkL.jpg",
+              "duration_ms": 22291
+            },
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2119713778086662144/vid/avc1/1920x1080/yuUEeE00DTRgmnHv.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2119713778086662144/img/-0P_ilz0D0nmYkw1.jpg",
+              "duration_ms": 26041
+            },
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2119713777759453184/vid/avc1/1920x1080/x27c2xLGbKifudOc.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2119713777759453184/img/TwaZwdMkZAthdFKe.jpg",
+              "duration_ms": 41066
+            }
+          ],
+          "media_types": [
+            "video",
+            "video",
+            "video",
+            "video"
+          ],
+          "links": [
+            "https://x.com/Betaer/status/2119714786493829402/video/1",
+            "https://x.com/Betaer/status/2119714786493829402/video/1",
+            "https://x.com/Betaer/status/2119714786493829402/video/1",
+            "https://x.com/Betaer/status/2119714786493829402/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-10T02:48:42.408148+00:00"
+        },
+        {
+          "id": "2119751707236438237",
+          "url": "https://x.com/dreamina_ai/status/2119751707236438237",
+          "handle": "dreamina_ai",
+          "display_name": "Dreamina AI",
+          "avatar": "https://pbs.twimg.com/profile_images/2036336259707314177/mqRCJ-mH_normal.jpg",
+          "verified": true,
+          "followers": 30226,
+          "created_at": "2026-11-09T11:19:24.000Z",
+          "lang": null,
+          "text": "https://t.co/I7BfYLtSPZ",
+          "text_zh": "即梦官方在 Seedream 5.5 发布帖下附上的样张。",
+          "summary_zh": "即梦官方在发布帖楼下贴出一组 Seedream 5.5 样张，用四张图展示新模型的生成效果。",
+          "relation_zh": "母帖讲了卖点，这组官方样张让人直接看到人像和设计成品长什么样。",
+          "metrics": {
+            "likes": 12,
+            "retweets": 2,
+            "replies": 3,
+            "quotes": 0,
+            "bookmarks": 3,
+            "views": 1472
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1080,
+              "h": 1440,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWre0aIakAEeT1W.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 960,
+              "h": 1280,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWre4ISbQAAzw4V.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 1080,
+              "h": 1440,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWre5xcbsAAazEk.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 1080,
+              "h": 1440,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWre7hhawAAjkJp.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo",
+            "photo",
+            "photo",
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-10T02:48:42.408148+00:00"
+        }
+      ]
     },
     {
       "id": "2119792604091183378",
