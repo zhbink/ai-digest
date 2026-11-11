@@ -127,7 +127,143 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2120220849789882374",
+          "url": "https://x.com/Shopify/status/2120220849789882374",
+          "handle": "Shopify",
+          "display_name": "Shopify",
+          "avatar": "https://pbs.twimg.com/profile_images/1915449242979885059/d8IWgY7S_normal.jpg",
+          "verified": true,
+          "followers": 457183,
+          "created_at": "2026-11-10T18:23:37.000Z",
+          "lang": "en",
+          "text": "Show up better in ChatGPT\n\nClaim your brand and get a dedicated agent that answers questions about your store https://t.co/mfUaFoUK3T https://t.co/hAnAAJGiG3",
+          "text_zh": "Shopify 呼吁商家更好地出现在 ChatGPT 里：认领自己的品牌，并获得一个专门回答店铺问题的智能体。",
+          "summary_zh": "Shopify 官方用视频宣传：商家可以在 ChatGPT 里认领品牌，并获得一个专门回答店铺问题的智能体。",
+          "relation_zh": "母帖是 OpenAI 的功能发布，这条说明 Shopify 商家可以怎样直接接入，并用视频展示认领和答疑流程。",
+          "metrics": {
+            "likes": 504,
+            "retweets": 43,
+            "replies": 35,
+            "quotes": 12,
+            "bookmarks": 403,
+            "views": 51695
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1200,
+              "h": 1200,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2120218157264613376/vid/avc1/1200x1200/3QX_NFWAPF0C57pr.mp4",
+              "poster": "https://pbs.twimg.com/media/HWyJ98OXkAIMfmQ.jpg",
+              "duration_ms": 20000
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/Shopify/status/2120220849789882374/video/1",
+            "https://twitter.com/OpenAI/status/2120216592395174382"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2120216592395174382",
+          "article_title": null,
+          "attached_at": "2026-11-11T02:19:21.970544+00:00"
+        },
+        {
+          "id": "2120216594244849690",
+          "url": "https://x.com/OpenAI/status/2120216594244849690",
+          "handle": "OpenAI",
+          "display_name": "OpenAI",
+          "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+          "verified": true,
+          "followers": 5526618,
+          "created_at": "2026-11-10T18:06:42.000Z",
+          "lang": "en",
+          "text": "You can also publish a Business Agent to help people explore what you offer.\n\nCustomers can ask questions, compare products, and find what fits their needs using information you provide from your business—all in a clearly labeled conversation, separate from ChatGPT’s independent https://t.co/hLwrHjbfgG",
+          "text_zh": "OpenAI 续帖说，你还可以发布一个 Business Agent，帮助人们了解你提供的产品和服务。顾客可以提问、比较商品，并根据你提供的商家信息找到适合自己的选择。这些对话会有明确标注，并与 ChatGPT 自己的独立回答分开。",
+          "summary_zh": "OpenAI 说明 Business Agent 可以回答顾客问题、比较商品，而且对话会单独标注，与 ChatGPT 自己的回答分开。",
+          "relation_zh": "母帖只提到符合条件的商家能搭 Business Agent，这条把使用方式和「与 ChatGPT 独立回答分开」的产品边界讲清楚了。",
+          "metrics": {
+            "likes": 668,
+            "retweets": 26,
+            "replies": 32,
+            "quotes": 8,
+            "bookmarks": 187,
+            "views": 194832
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 3840,
+              "h": 2160,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWyD3OSbUAAnEVx.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/OpenAI/status/2120216594244849690/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-11T02:19:21.970544+00:00"
+        },
+        {
+          "id": "2120216596753121411",
+          "url": "https://x.com/OpenAI/status/2120216596753121411",
+          "handle": "OpenAI",
+          "display_name": "OpenAI",
+          "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+          "verified": true,
+          "followers": 5526618,
+          "created_at": "2026-11-10T18:06:43.000Z",
+          "lang": "en",
+          "text": "Use Business Hub to shape what customers see about your business in ChatGPT.\n\nOnce verified, you can create a Business Agent, update your business details, and add product feeds with current pricing and availability.\n\nYou can also see aggregated insights on mentions, website https://t.co/EgHb6yYG3J",
+          "text_zh": "OpenAI 介绍了 Business Hub：商家通过验证后，可以创建 Business Agent、更新资料，并添加带有当前价格和库存的产品信息源。后台还能看到被提及次数，以及与网站相关的汇总数据。",
+          "summary_zh": "官方续帖介绍 Business Hub：验证后可更新资料、上传带价格和库存的产品源，并查看提及量等汇总洞察。",
+          "relation_zh": "母帖从用户侧概括了认领商家和搭建智能体，这条把后台能改什么、能看到哪些数据说具体了。",
+          "metrics": {
+            "likes": 412,
+            "retweets": 20,
+            "replies": 15,
+            "quotes": 8,
+            "bookmarks": 178,
+            "views": 121794
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 3840,
+              "h": 2160,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWyEdWcaoAAawU3.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/OpenAI/status/2120216596753121411/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-11T02:19:21.970544+00:00"
+        }
+      ]
     },
     {
       "id": "2120206365759094857",
@@ -263,7 +399,138 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2120220122170159158",
+          "url": "https://x.com/testingcatalog/status/2120220122170159158",
+          "handle": "testingcatalog",
+          "display_name": "🚨 AI News | TestingCatalog",
+          "avatar": "https://pbs.twimg.com/profile_images/1899962463115751424/i-6MBWau_normal.jpg",
+          "verified": true,
+          "followers": 84405,
+          "created_at": "2026-11-10T18:20:43.000Z",
+          "lang": "en",
+          "text": "ANTHROPIC 🔥: Claude Whiteboards, Claude Sheets, and Claude Data are now generally available on all paid plans!\n\nBesides this, Claude web and desktop are getting interactive connectors. \n\n> \"We're introducing new artifact types with Claude Sheets, Claude Whiteboards, and Claude",
+          "text_zh": "TestingCatalog 用视频介绍 Anthropic 推出的 Claude Whiteboards、Claude Sheets 和 Claude Data，并提到 Claude 网页版和桌面版还将加入交互式连接器。官方正在把这些新的内容类型引进产品里。",
+          "summary_zh": "TestingCatalog 用视频介绍 Claude 白板、表格和 Data，并提到网页版与桌面版将加入交互式连接器。",
+          "relation_zh": "母帖是产品发布海报，这条用视频把新内容和即将上线的交互式连接器放在一起演示。",
+          "metrics": {
+            "likes": 211,
+            "retweets": 7,
+            "replies": 18,
+            "quotes": 1,
+            "bookmarks": 32,
+            "views": 10190
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2120202847098736640/vid/avc1/1920x1080/ZnO1Al5gjEYOt9KB.mp4",
+              "poster": "https://pbs.twimg.com/media/HWx89ZkXMAAqMO6.png",
+              "duration_ms": 57750
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/claudeai/status/2120206365759094857/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-11T02:19:21.970544+00:00"
+        },
+        {
+          "id": "2120206368619831597",
+          "url": "https://x.com/claudeai/status/2120206368619831597",
+          "handle": "claudeai",
+          "display_name": "Claude",
+          "avatar": "https://pbs.twimg.com/profile_images/1950950107937185792/QOfEjFoJ_normal.jpg",
+          "verified": false,
+          "followers": 2045316,
+          "created_at": "2026-11-10T17:26:04.000Z",
+          "lang": null,
+          "text": "With Claude Whiteboards, talk through a messy plan and Claude lays it out on a board your team can edit. With Claude Sheets, ask for a tracker or a budget and you get a working spreadsheet you can all keep building.\n\nIn beta on paid plans. https://t.co/9gKDcMUspB",
+          "text_zh": "官方接着介绍：用 Claude Whiteboards，你可以把还很乱的计划讲出来，Claude 会把它铺到一块团队都能改的白板上；用 Claude Sheets，你要一份跟踪表或预算表，就会得到一张大家可以继续往下做的工作表。目前这两项都在付费套餐里以测试版提供。",
+          "summary_zh": "官方续帖说明 Claude Whiteboards 能把讨论铺成可协作白板，Claude Sheets 能生成可继续编辑的跟踪表或预算表，付费套餐可测。",
+          "relation_zh": "母帖只点了三款产品的名字，这条把白板和表格具体怎么用、以及仍是测试版说清楚了。",
+          "metrics": {
+            "likes": 2204,
+            "retweets": 80,
+            "replies": 27,
+            "quotes": 38,
+            "bookmarks": 380,
+            "views": 491060
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 3840,
+              "h": 2160,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWx5V3aXcAAAa-u.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-11T02:19:21.970544+00:00"
+        },
+        {
+          "id": "2120206372478566799",
+          "url": "https://x.com/claudeai/status/2120206372478566799",
+          "handle": "claudeai",
+          "display_name": "Claude",
+          "avatar": "https://pbs.twimg.com/profile_images/1950950107937185792/QOfEjFoJ_normal.jpg",
+          "verified": false,
+          "followers": 2045316,
+          "created_at": "2026-11-10T17:26:05.000Z",
+          "lang": null,
+          "text": "Claude Data (formerly Dashboards) is now generally available on paid plans.\n\nAlong with dashboards, Claude can draft data stories and narrated videos from your metrics, for you to review before sharing. Certified queries and live sharing are in beta. https://t.co/f5p3yZ2N9X",
+          "text_zh": "官方宣布，原 Claude Dashboards 已更名为 Claude Data，并在付费套餐中正式开放。除了仪表盘，Claude 还可以根据指标起草数据叙事和旁白视频，供你审阅后再分享。认证查询和实时分享目前仍是测试版。",
+          "summary_zh": "官方确认原仪表盘已更名为 Claude Data 并正式上线，还能生成数据叙事和旁白视频；认证查询和实时分享仍是测试版。",
+          "relation_zh": "母帖把 Data 和白板、表格一起带过，这条单独说明了它已转正，以及叙事视频、认证查询这些新能力。",
+          "metrics": {
+            "likes": 1470,
+            "retweets": 40,
+            "replies": 15,
+            "quotes": 14,
+            "bookmarks": 288,
+            "views": 284466
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWx5bmVWUAInsnV.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-11T02:19:21.970544+00:00"
+        }
+      ]
     },
     {
       "id": "2120186016254624039",
@@ -375,7 +642,144 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2120187576489222302",
+          "url": "https://x.com/GoogleAIStudio/status/2120187576489222302",
+          "handle": "GoogleAIStudio",
+          "display_name": "Google AI Studio",
+          "avatar": "https://pbs.twimg.com/profile_images/2089794087998156800/eZOMHRVb_normal.jpg",
+          "verified": true,
+          "followers": 214186,
+          "created_at": "2026-11-10T16:11:24.000Z",
+          "lang": "en",
+          "text": "Gemini 4 Carbon is here\n\nit's our strongest model with frontier performance in cybersecurity capabilities and long-horizon agentic workflows across complex knowledge work, software engineering, and scientific reasoning\n\nGemini 4 Carbon is now live via the Gemini API and AI Studio https://t.co/iarCb1BUIH",
+          "text_zh": "Google AI Studio 宣布 Gemini 4 Carbon 上线，称这是目前最强的模型，在网络安全，以及复杂知识工作、软件工程和科学推理等长周期智能体任务上表现突出。模型已通过 Gemini API 和 AI Studio 开放。",
+          "summary_zh": "Google AI Studio 宣布 Gemini 4 Carbon 已在 Gemini API 和 AI Studio 上线，并强调其在网络安全和长周期智能体任务上的表现。",
+          "relation_zh": "母帖由 Logan 宣布 API 与 Ultra 可用，这条官方视频补充了面向开发者的入口，以及网络安全、长周期工作这些主打能力。",
+          "metrics": {
+            "likes": 2133,
+            "retweets": 210,
+            "replies": 97,
+            "quotes": 109,
+            "bookmarks": 216,
+            "views": 134328
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 3628,
+              "h": 2160,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2120177990831071232/vid/avc1/3628x2160/4wZl16rSvbjdbRza.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2120177990831071232/img/if8KCD5ugXcYpV7l.jpg",
+              "duration_ms": 4000
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/GoogleAIStudio/status/2120187576489222302/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-11T02:19:21.970544+00:00"
+        },
+        {
+          "id": "2120210297948696997",
+          "url": "https://x.com/demishassabis/status/2120210297948696997",
+          "handle": "demishassabis",
+          "display_name": "Demis Hassabis",
+          "avatar": "https://pbs.twimg.com/profile_images/1990472620614053888/xrAu0wQL_normal.jpg",
+          "verified": true,
+          "followers": 1957433,
+          "created_at": "2026-11-10T17:41:41.000Z",
+          "lang": "en",
+          "text": "Our latest frontier model Gemini 4 Carbon is rolling out today! Amazing progress from Gemini 3 → Gemini 4 in less than a year… Carbon reverse engineers my original Theme Park binaries, adds a new DeepMind themed ride, and ports it to the web in one shot - kind of mindblowing to https://t.co/99QPwwWfs5 https://t.co/LceQuUZbTk",
+          "text_zh": "DeepMind CEO 哈萨比斯宣布，最新前沿模型 Gemini 4 Carbon 即日起开始推送。他感叹从 Gemini 3 到 Gemini 4 不到一年进步非常明显，并演示 Carbon 反向工程自己原来的 Theme Park 二进制文件，加上一个 DeepMind 主题游乐设施，再一次性移植到网页上。",
+          "summary_zh": "哈萨比斯宣布 Gemini 4 Carbon 开始推送，并用一次生成就把 Theme Park 游戏反编译、加了 DeepMind 主题设施并移植到网页。",
+          "relation_zh": "母帖强调模型和能力方向，这条用 CEO 的真实项目演示，让人看到 Carbon 在复杂工程任务上能一次做完什么。",
+          "metrics": {
+            "likes": 2096,
+            "retweets": 0,
+            "replies": 193,
+            "quotes": 39,
+            "bookmarks": 245,
+            "views": 106319
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1784,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2120209030174138368/vid/avc1/1784x1080/Q85pokjXUwSYn-pH.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2120209030174138368/img/ZYmCK0jwP26XANHQ.jpg",
+              "duration_ms": 58700
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/demishassabis/status/2120210297948696997/video/1",
+            "https://x.com/demishassabis/status/1990818894177513831"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/1990818894177513831",
+          "article_title": null,
+          "attached_at": "2026-11-11T02:19:21.970544+00:00"
+        },
+        {
+          "id": "2120193584670580857",
+          "url": "https://x.com/cursor_ai/status/2120193584670580857",
+          "handle": "cursor_ai",
+          "display_name": "Cursor",
+          "avatar": "https://pbs.twimg.com/profile_images/1970182748146180096/dhZeXi_X_normal.jpg",
+          "verified": true,
+          "followers": 498905,
+          "created_at": "2026-11-10T16:35:16.000Z",
+          "lang": "en",
+          "text": "Gemini 4 Carbon is now available in Cursor!\n\nAt high effort, it's the top model on CursorBench at 60.4% https://t.co/4I32nozQsb",
+          "text_zh": "Cursor 宣布 Gemini 4 Carbon 现已可在 Cursor 中使用。在高推理档（high effort）下，它以 60.4% 的成绩暂列 CursorBench 第一。",
+          "summary_zh": "Cursor 宣布 Gemini 4 Carbon 已接入，并在 CursorBench 高推理档以 60.4% 排在第一。",
+          "relation_zh": "母帖只说编程能力有提升，这条给出了第三方编程基准上的具体名次和分数。",
+          "metrics": {
+            "likes": 3893,
+            "retweets": 217,
+            "replies": 228,
+            "quotes": 174,
+            "bookmarks": 311,
+            "views": 339086
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 2516,
+              "h": 1544,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWxw1AOaIAMAAyR.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/cursor_ai/status/2120193584670580857/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-11T02:19:21.970544+00:00"
+        }
+      ]
     },
     {
       "id": "2120117722230968385",
@@ -487,7 +891,135 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2120143696935186725",
+          "url": "https://x.com/MichaelLee009/status/2120143696935186725",
+          "handle": "MichaelLee009",
+          "display_name": "Michael Lee",
+          "avatar": "https://pbs.twimg.com/profile_images/2110320613688512512/xBDAynfP_normal.jpg",
+          "verified": true,
+          "followers": 4313,
+          "created_at": "2026-11-10T13:17:02.000Z",
+          "lang": null,
+          "text": "天价 IPO 来了！Anthropic 正式启动 IPO 路演，按上限算要卖约 644 亿美元股票！💥\n\n1. @AnthropicAI 官宣申请登陆纳斯达克，代码 ANT，但还没正式上市。\n2. 谷歌、英伟达等还约定按发行价，另外再买 260 亿美元股份。\n3. 招股书显示，它 10 月底的年化收入已经到了约 810 亿美元。 https://t.co/eCtF8hyqwe",
+          "text_zh": "Anthropic 正式启动 IPO 路演，按发行上限大约要卖出 644 亿美元股票。作者列出三点：公司已申请在纳斯达克上市，代码是 ANT，但还没有正式挂牌；谷歌、英伟达等还约定按发行价另外认购 260 亿美元股份；招股书显示，到 10 月底的年化收入大约已到 810 亿美元。",
+          "summary_zh": "Michael Lee 归纳了路演关键数字：纳斯达克代码 ANT，上限约募 644 亿美元，另有约 260 亿美元定向认购，年化收入约 810 亿美元。",
+          "relation_zh": "母帖只宣布路演启动并附上法律声明，这条补上了募资规模、大厂跟投和收入量级。",
+          "metrics": {
+            "likes": 21,
+            "retweets": 0,
+            "replies": 16,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 489
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1112,
+              "h": 1136,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWxC-7gWcAAakGg.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-11T02:19:21.970544+00:00"
+        },
+        {
+          "id": "2120164971761844244",
+          "url": "https://x.com/pmainardi/status/2120164971761844244",
+          "handle": "pmainardi",
+          "display_name": "Patricio Mainardi",
+          "avatar": "https://pbs.twimg.com/profile_images/1634929907112214530/ZzQQyleu_normal.jpg",
+          "verified": true,
+          "followers": 251,
+          "created_at": "2026-11-10T14:41:34.000Z",
+          "lang": null,
+          "text": "Anthropic opened its IPO roadshow this morning with firm S-1 terms: 825 million Class A shares at $70 to $78 under ticker ANT, a public raise of $57.75 billion to $64.35 billion at a diluted valuation of $1.1 trillion to $1.405 trillion, plus a $26 billion private placement taken https://t.co/94rJvzZZaQ",
+          "text_zh": "作者梳理了修订后的 S-1 条款：拟发行 8.25 亿股 A 类股，定价区间每股 70 到 78 美元，股票代码 ANT；公开发行规模约 577.5 亿到 643.5 亿美元，完全稀释估值约 1.1 万亿到 1.405 万亿美元，此外还有 260 亿美元的私募认购。",
+          "summary_zh": "Patricio Mainardi 列出招股条款：8.25 亿股、每股 70–78 美元，公开募资最高约 643.5 亿美元，完全稀释估值最高约 1.405 万亿美元，另加 260 亿美元私募。",
+          "relation_zh": "母帖没有写发行价和股数，这条把修订版 S-1 里的定价、募资额和估值区间摊开了。",
+          "metrics": {
+            "likes": 1,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 105
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1376,
+              "h": 768,
+              "alt": "Daily AI industry summary",
+              "orig": "https://pbs.twimg.com/media/HWxWx7HW8AALctO.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-11T02:19:21.970544+00:00"
+        },
+        {
+          "id": "2120234347391561879",
+          "url": "https://x.com/SumBasis/status/2120234347391561879",
+          "handle": "SumBasis",
+          "display_name": "John Han",
+          "avatar": "https://pbs.twimg.com/profile_images/2109130980418330624/k9bTO8-S_normal.jpg",
+          "verified": true,
+          "followers": 372,
+          "created_at": "2026-11-10T19:17:15.000Z",
+          "lang": null,
+          "text": "Anthropic had about 20 customers paying it $100,000 or more a year at the end of 2023. On 30 September it had more than 11,900.\n\nSome thoughts on 8 charts to read before the Anthropic IPO.\n\nAnthropic launched its IPO roadshow today and has applied to list on Nasdaq under the https://t.co/Xe1uK6B8gr",
+          "text_zh": "作者指出，2023 年底，Anthropic 每年付费 10 万美元以上的客户大约只有 20 家；到今年 9 月 30 日，这一数字已经超过 1.19 万家。他配了 8 张图，建议在看这次 IPO 之前先读这些图表。Anthropic 当天启动了路演，并已申请在纳斯达克上市。",
+          "summary_zh": "SumBasis 用图表指出，Anthropic 年费 10 万美元以上的客户从 2023 年底约 20 家，增至今年 9 月底的 1.19 万家以上。",
+          "relation_zh": "母帖是路演公告，这条给出了招股书里最能说明商业化速度的大客户增长数字。",
+          "metrics": {
+            "likes": 2,
+            "retweets": 2,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 2,
+            "views": 107
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1600,
+              "h": 900,
+              "alt": "Column chart of Anthropic customers paying $100,000 or more a year: about 20 at the end of 2023, about 200 at the end of 2024, about 1,500 at the end of 2025 and more than 11,900 on 30 September 2026, from the company's S-1.",
+              "orig": "https://pbs.twimg.com/media/HWyV5yVbgAAp_v0.png",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-11T02:19:21.970544+00:00"
+        }
+      ]
     },
     {
       "id": "2120193584670580857",
@@ -747,7 +1279,148 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2120169796184478162",
+          "url": "https://x.com/GoogleDeepMind/status/2120169796184478162",
+          "handle": "GoogleDeepMind",
+          "display_name": "Google DeepMind",
+          "avatar": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_normal.jpg",
+          "verified": true,
+          "followers": 1604265,
+          "created_at": "2026-11-10T15:00:44.000Z",
+          "lang": "en",
+          "text": "In a proof of concept with @Apptronik and @MercedesBenz Gemini Robotic 2.5 helped the Apollo 2 robot pick and organize car parts for assembly with 96% accuracy. https://t.co/bQANwCRYoL",
+          "text_zh": "在与 Apptronik 和梅赛德斯-奔驰合作的概念验证中，Gemini Robotics 2.5 帮助 Apollo 2 机器人抓取并整理装配所需的汽车零件，成功率达到 96%。",
+          "summary_zh": "DeepMind 展示与 Apptronik、奔驰的概念验证：Apollo 2 在 Gemini Robotics 2.5 驱动下分拣汽车零件，成功率 96%。",
+          "relation_zh": "母帖只概括了「能在工厂分拣零件」，这条线程续帖给出了合作方、机器人和 96% 成功率。",
+          "metrics": {
+            "likes": 232,
+            "retweets": 17,
+            "replies": 14,
+            "quotes": 16,
+            "bookmarks": 35,
+            "views": 68440
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1280,
+              "h": 720,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2120169112944930816/vid/avc1/1280x720/VFM4zbuz8iNojOwa.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2120169112944930816/img/Py0S_j1sXp2u278R.jpg",
+              "duration_ms": 26005
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/GoogleDeepMind/status/2120169796184478162/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "Apptronik",
+            "MercedesBenz"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-11T02:19:21.970544+00:00"
+        },
+        {
+          "id": "2120169790853513261",
+          "url": "https://x.com/GoogleDeepMind/status/2120169790853513261",
+          "handle": "GoogleDeepMind",
+          "display_name": "Google DeepMind",
+          "avatar": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_normal.jpg",
+          "verified": true,
+          "followers": 1604265,
+          "created_at": "2026-11-10T15:00:43.000Z",
+          "lang": "en",
+          "text": "Gemini 4 Argon helped build Gemini Robotics 2.5, speeding up months of training.\n\nIt creates virtual practice spaces from a single camera view, and watches replays of its own mistakes to fix its technique, driving stronger performance on the real robot. https://t.co/4bhM31z7e4",
+          "text_zh": "DeepMind 说，Gemini 4 Argon 帮助构建了 Gemini Robotics 2.5，把原本需要数月的训练加快了。它能从单路摄像头画面生成虚拟练习场，还会回看自己的失误录像来改进动作，从而提升真机表现。",
+          "summary_zh": "官方说明 Gemini 4 Argon 参与了 Robotics 2.5 的训练：能从单张摄像头画面生成虚拟练习场，并通过回看失误来改进动作。",
+          "relation_zh": "母帖讲的是成品技能，这条线程续帖解释了新模型是怎么练出来的，以及和 Gemini 4 Argon 的关系。",
+          "metrics": {
+            "likes": 308,
+            "retweets": 22,
+            "replies": 13,
+            "quotes": 5,
+            "bookmarks": 40,
+            "views": 25243
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1600,
+              "h": 900,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2120168900113399808/vid/avc1/1600x900/Lal43ci-QVF1Mm_x.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2120168900113399808/img/gC68JtLKnwc67Fnc.jpg",
+              "duration_ms": 13800
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/GoogleDeepMind/status/2120169790853513261/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-11T02:19:21.970544+00:00"
+        },
+        {
+          "id": "2120169799007580406",
+          "url": "https://x.com/GoogleDeepMind/status/2120169799007580406",
+          "handle": "GoogleDeepMind",
+          "display_name": "Google DeepMind",
+          "avatar": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_normal.jpg",
+          "verified": true,
+          "followers": 1604265,
+          "created_at": "2026-11-10T15:00:45.000Z",
+          "lang": "en",
+          "text": "As robots move into more real-world spaces, they need greater safety measures. We’ve built in new ways for them to spot hazards, steer away from humans, and test against jailbreaks.\n\nFInd out more about Gemini Robotics 2.5 → https://t.co/gKreLtkXQb https://t.co/i6GIbRqY32",
+          "text_zh": "DeepMind 说，机器人进入更多真实环境后，需要更强的安全措施。他们为 Gemini Robotics 2.5 增加了发现危险、远离人类，以及针对越狱攻击做测试的能力，并附上了了解详情的入口。",
+          "summary_zh": "官方线程续帖强调安全：新模型加强了识别危险、避开人类，以及防越狱测试。",
+          "relation_zh": "母帖展示的是叠衣服和分拣等技能演示，这条补上了进入真实环境时的安全设计。",
+          "metrics": {
+            "likes": 120,
+            "retweets": 8,
+            "replies": 6,
+            "quotes": 4,
+            "bookmarks": 26,
+            "views": 22266
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1080,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2120169703960100864/vid/avc1/1080x1080/J11RNoF36reS48tN.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2120169703960100864/img/_MbGT1VZ4vuLsq4f.jpg",
+              "duration_ms": 21433
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/?utm_source=x&utm_medium=social&utm_campaign=&utm_content=",
+            "https://x.com/GoogleDeepMind/status/2120169799007580406/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-11T02:19:21.970544+00:00"
+        }
+      ]
     },
     {
       "id": "2120191509735821661",
@@ -983,7 +1656,106 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2120090704043200865",
+          "url": "https://x.com/elonmusk/status/2120090704043200865",
+          "handle": "elonmusk",
+          "display_name": "Elon Musk",
+          "avatar": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_normal.jpg",
+          "verified": true,
+          "followers": 241401670,
+          "created_at": "2026-11-10T09:46:27.000Z",
+          "lang": "en",
+          "text": "@tetsuoai C with a little C++, but not too much",
+          "text_zh": "马斯克补充说，这套栈主要是 C，只带一点 C++，而且不要太多。",
+          "summary_zh": "马斯克澄清 Grok 新栈的语言配比：以 C 为主，只掺一点 C++，不宜过多。",
+          "relation_zh": "母帖写的是用 C/C++ 重写，这条把「到底是 C 还是 C++」说清楚了。",
+          "metrics": {
+            "likes": 7300,
+            "retweets": 243,
+            "replies": 338,
+            "quotes": 38,
+            "bookmarks": 311,
+            "views": 610354
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [
+            "tetsuoai"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-11T02:19:21.970544+00:00"
+        },
+        {
+          "id": "2120097663794483601",
+          "url": "https://x.com/elonmusk/status/2120097663794483601",
+          "handle": "elonmusk",
+          "display_name": "Elon Musk",
+          "avatar": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_normal.jpg",
+          "verified": true,
+          "followers": 241401670,
+          "created_at": "2026-11-10T10:14:07.000Z",
+          "lang": "en",
+          "text": "@tetsuoai At SpaceX, we write our own headers and calculate our own time (includes leap seconds). Not many people will know what this means, but those that do will appreciate it.\n\nThe new Grok AI/SI training and inference stack is derived from incredible of work done by amazing engineers",
+          "text_zh": "马斯克说，在 SpaceX，他们自己写头文件、自己算时间（包括闰秒）。明白这话分量的人会懂。新的 Grok 人工智能与超级智能训练、推理栈，就来自这些工程师做过的出色工作。",
+          "summary_zh": "马斯克把新的 Grok 训练和推理栈追溯到 SpaceX 那套自写头文件、自算时间（含闰秒）的工程传统。",
+          "relation_zh": "母帖只说用 C/C++ 从零重写，这条说明这套新栈和 SpaceX 工程实践之间的关系。",
+          "metrics": {
+            "likes": 11082,
+            "retweets": 442,
+            "replies": 357,
+            "quotes": 79,
+            "bookmarks": 917,
+            "views": 1198817
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [
+            "tetsuoai"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-11T02:19:21.970544+00:00"
+        },
+        {
+          "id": "2120104828055740496",
+          "url": "https://x.com/xbquan/status/2120104828055740496",
+          "handle": "xbquan",
+          "display_name": "quanxb",
+          "avatar": "https://pbs.twimg.com/profile_images/2101309174957342720/gFvPS-KN_normal.jpg",
+          "verified": true,
+          "followers": 4936,
+          "created_at": "2026-11-10T10:42:35.000Z",
+          "lang": null,
+          "text": "刚刚在老马评论区转了一圈\n对于grok4.8大概是这样子的（个人整理版）\n\n最主要：用 C/C++ 重写了整个 RL 和推理堆栈\n\n目前的进展：\n预训练已完成\n监督微调数据进行了重大清理\n强化学习现已启动\n评估分数开始攀升\n本周晚些时候计划向 Grok Bot 用户进行软发布\n\n在我看来是重写了底层基础设施",
+          "text_zh": "作者把马斯克评论区里的信息整理了一遍：最关键的是用 C/C++ 重写了整套强化学习和推理栈。目前预训练已经完成，监督微调数据做了大量清理，强化学习已经启动，评测分数开始往上走，并计划本周晚些时候向 Grok Bot 用户做一次软发布。在他看来，这是一次底层基础设施的重写。",
+          "summary_zh": "xbquan 整理了马斯克线程里的进度：预训练完成、强化学习已启动，并计划本周晚些时候先向 Grok Bot 用户软发布。",
+          "relation_zh": "母帖停在「评测刚开始」，这条把评论区里补出的软发布计划和阶段进度汇总在一起。",
+          "metrics": {
+            "likes": 17,
+            "retweets": 2,
+            "replies": 10,
+            "quotes": 0,
+            "bookmarks": 4,
+            "views": 2485
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-11T02:19:21.970544+00:00"
+        }
+      ]
     },
     {
       "id": "2120279327589773639",
@@ -1385,7 +2157,140 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2120185515563749581",
+          "url": "https://x.com/NVIDIADRIVE/status/2120185515563749581",
+          "handle": "NVIDIADRIVE",
+          "display_name": "NVIDIA DRIVE",
+          "avatar": "https://pbs.twimg.com/profile_images/1869449601054642176/bkq2Xk6f_normal.jpg",
+          "verified": true,
+          "followers": 20840,
+          "created_at": "2026-11-10T16:03:12.000Z",
+          "lang": "en",
+          "text": "Meet NVIDIA Alpamayo 2 Edge, a 2B-parameter reasoning VLA model designed for real-time, in-vehicle deployment on NVIDIA DRIVE AGX Thor.\n\nGenerate driving trajectories and causal explanations powered by adaptive reasoning.\n\nLearn more 👉 https://t.co/NptJdBvdbS\nTry it out on https://t.co/w1Qop2NPWP",
+          "text_zh": "NVIDIA DRIVE 介绍了 Alpamayo 2 Edge：这是一个 20 亿参数的推理视觉-语言-动作模型，专为在车内、在 NVIDIA DRIVE AGX Thor 上实时运行而设计。它能生成行驶轨迹，并依靠自适应推理给出因果解释。帖中还附上了了解详情和试用的入口。",
+          "summary_zh": "NVIDIA DRIVE 官方介绍 Alpamayo 2 Edge 是可在 DRIVE AGX Thor 上实时运行的 20 亿参数视觉-语言-动作模型，能同时规划轨迹并给出因果解释。",
+          "relation_zh": "母帖是面向大众的发布预告，这条把模型规模、车载芯片平台和试用入口补全了。",
+          "metrics": {
+            "likes": 178,
+            "retweets": 28,
+            "replies": 8,
+            "quotes": 8,
+            "bookmarks": 75,
+            "views": 36099
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2120183410002104321/vid/avc1/1920x1080/_6yEUULrIFn69zXB.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2120183410002104321/img/uWMzXY3tlddx3Cch.jpg",
+              "duration_ms": 4933
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://developer.nvidia.com/blog/running-av-reasoning-models-within-onboard-compute-and-latency-limits/?ncid=so-twit-922803",
+            "https://x.com/NVIDIADRIVE/status/2120185515563749581/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-11T02:19:21.970544+00:00"
+        },
+        {
+          "id": "2120193476927340880",
+          "url": "https://x.com/wallstengine/status/2120193476927340880",
+          "handle": "wallstengine",
+          "display_name": "Wall St Engine",
+          "avatar": "https://pbs.twimg.com/profile_images/1691846947857178624/oZp5wB4r_normal.jpg",
+          "verified": true,
+          "followers": 214207,
+          "created_at": "2026-11-10T16:34:50.000Z",
+          "lang": null,
+          "text": "$NVDA RELEASES AN OPEN 2B AI MODEL FOR SELF-DRIVING CARS\n\nNvidia has released Alpamayo 2 Edge, a 2-billion-parameter reasoning model designed to run directly inside vehicles on its DRIVE AGX Thor platform.\n\nBuilt on Cosmos 3 Edge, the model uses six camera feeds, vehicle motion",
+          "text_zh": "Wall St Engine 指出，NVIDIA 发布了可在车端运行的开放 20 亿参数自动驾驶推理模型 Alpamayo 2 Edge，部署在 DRIVE AGX Thor 平台上。它基于 Cosmos 3 Edge 构建，会使用六路摄像头画面和车辆运动信息。",
+          "summary_zh": "Wall St Engine 用视频介绍 Alpamayo 2 Edge：这是跑在 DRIVE AGX Thor 上的开放 20 亿参数车端模型，基于 Cosmos 3 Edge，并接入六路摄像头。",
+          "relation_zh": "母帖展示了让行和解释决策的演示，这条补上了 Cosmos 3 Edge 基座和六路摄像头输入这些技术细节。",
+          "metrics": {
+            "likes": 123,
+            "retweets": 15,
+            "replies": 6,
+            "quotes": 2,
+            "bookmarks": 16,
+            "views": 23509
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1280,
+              "h": 720,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2120186737112514560/vid/avc1/1280x720/4xz6eQ7zo9Swqo_l.mp4?tag=16",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2120186737112514560/img/EWr1j5ZSaQVIx6yk.jpg",
+              "duration_ms": 51114
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-11T02:19:21.970544+00:00"
+        },
+        {
+          "id": "2120193690702373219",
+          "url": "https://x.com/fourweekmba/status/2120193690702373219",
+          "handle": "fourweekmba",
+          "display_name": "Gennaro",
+          "avatar": "https://pbs.twimg.com/profile_images/2111845773465845760/jZTDWE-K_normal.jpg",
+          "verified": true,
+          "followers": 5993,
+          "created_at": "2026-11-10T16:35:41.000Z",
+          "lang": null,
+          "text": "Nvidia's Alpamayo 2 Edge, in 3 lines:\n\n1. Open 2B driving model for its DRIVE AGX Thor computer.\n2. Plans a path in 160-190 ms.\n3. Nvidia's sim test: 9.87 km per at-fault incident vs 0.25 for a rival.\n\n#AI https://t.co/bAZLlZBDug",
+          "text_zh": "作者把 NVIDIA Alpamayo 2 Edge 概括成三句话：这是面向 DRIVE AGX Thor 车载计算机的开放 20 亿参数驾驶模型；规划一条路径大约需要 160 到 190 毫秒；在 NVIDIA 的仿真测试里，每出现一次责任事故大约能跑 9.87 公里，对照模型只有 0.25 公里。",
+          "summary_zh": "fourweekmba 用三句话概括 Alpamayo 2 Edge：开放 20 亿参数车端模型、规划路径约 160–190 毫秒，仿真中每责任事故约 9.87 公里。",
+          "relation_zh": "母帖强调实时规划和解释决策，这条给出了延迟和责任事故间隔的具体测试数字。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 37
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1600,
+              "h": 900,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWxw7RSXEAA8-Q7.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-11T02:19:21.970544+00:00"
+        }
+      ]
     },
     {
       "id": "2120217467100541396",
@@ -2872,7 +3777,130 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2120291936636694842",
+          "url": "https://x.com/Vexo_x1/status/2120291936636694842",
+          "handle": "Vexo_x1",
+          "display_name": "Vexo",
+          "avatar": "https://pbs.twimg.com/profile_images/2115724025213108224/s2kKoek-_normal.jpg",
+          "verified": true,
+          "followers": 11,
+          "created_at": "2026-11-10T23:06:05.000Z",
+          "lang": "en",
+          "text": "SIMON FOUND ONE TRICK IN THE NEW FABLE 5.2 GUIDE. THERE ARE 3 MORE.\n\n→ \"This codebase is yours\" → merged repeated code in about half of tries vs under 1 in 10\n→ a \"don't stop early\" block → about half as many runs ended with work left\n→ \"give a one-line update every few tool calls\" → fewer silent runs\n→ \"act more freely\" did nothing. naming the exact steps did\n\nAll 4 lines on the card, ready to paste. Save it.",
+          "text_zh": "西蒙在 Fable 5.2 新版提示词指南里挖到的不只是一句「This codebase is yours」。指南里其实还有三条：加上这句后，合并重复代码的成功率大约从不到十分之一升到一半；加上「不要提前停」的约束后，带着未完成工作就结束的次数大约减半；让模型每隔几次工具调用用一句话汇报进度，沉默空转会更少。还有一条「act more freely」则没什么用，点名具体步骤才有效。作者把这四句整理成一张可直接粘贴的卡片。",
+          "summary_zh": "Vexo 把 Fable 5.2 提示词指南里另外三条技巧整理成卡片：不要提前停、隔几步汇报一次，以及空泛的「更自由地行动」并不管用。",
+          "relation_zh": "母帖只强调了「这代码库是你的」，这条补上了指南里其余几条可操作的写法，以及官方测试里大概一半和减半的对比。",
+          "metrics": {
+            "likes": 4,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 3,
+            "views": 100
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1080,
+              "h": 1350,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWzKOHPWMAATNGY.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/Vexo_x1/status/2120291936636694842/photo/1",
+            "https://twitter.com/simonw/status/2120029347948220500"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-11T02:19:21.970544+00:00"
+        },
+        {
+          "id": "2120112482509361316",
+          "url": "https://x.com/mr_mofun/status/2120112482509361316",
+          "handle": "mr_mofun",
+          "display_name": "牧枫",
+          "avatar": "https://pbs.twimg.com/profile_images/2104961792216875008/U3QD_oLy_normal.jpg",
+          "verified": true,
+          "followers": 880,
+          "created_at": "2026-11-10T11:13:00.000Z",
+          "lang": "zh",
+          "text": "Anthropic每发新模型，都值得去翻一翻他们更新的提示词指南。Fable 5.2有个挺有意思的小技巧：\n\n如果你想让它改现有代码时没那么保守、更敢动手，直接告诉它——“This codebase is yours”（这个代码库是你的）效果会明显不一样。\n\n官方文档原文：\n\nhttps://t.co/y4mCDbfe2g https://t.co/lzgX8lTZVz",
+          "text_zh": "每次 Anthropic 发布新模型，都值得去翻一翻他们更新后的提示词指南。Fable 5.2 里有个挺有意思的小技巧：想让它改现有代码时不那么保守、更敢动手，直接告诉它「This codebase is yours（这个代码库是你的）」，效果会明显不一样。帖里附上了官方文档原文链接。",
+          "summary_zh": "牧枫用中文转述了这条官方技巧，并附上 Fable 5.2 提示词指南的原文链接。",
+          "relation_zh": "母帖面向英文读者指出了这句话，这条给中文读者补上了官方文档入口和配图。",
+          "metrics": {
+            "likes": 3,
+            "retweets": 1,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 2,
+            "views": 204
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1200,
+              "h": 878,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HWwZrcRaMAAtiHt.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-2#say-who-owns-the-code",
+            "https://x.com/mr_mofun/status/2120112482509361316/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-11T02:19:21.970544+00:00"
+        },
+        {
+          "id": "2120136422493749681",
+          "url": "https://x.com/linyun1128/status/2120136422493749681",
+          "handle": "linyun1128",
+          "display_name": "linyun",
+          "avatar": "https://pbs.twimg.com/profile_images/2088519498165075968/ddNXij4W_normal.jpg",
+          "verified": true,
+          "followers": 1599,
+          "created_at": "2026-11-10T12:48:08.000Z",
+          "lang": "zh",
+          "text": "Agent 改老代码，只会往旁边堆，看到别处有问题只报不修。\n\n官方 Fable 5.2 提示词指南的解法就一句：这代码库是你的。\n\n合并重复代码的概率：不到 1/10 → 约 1/2。\n\n代价：token 涨到 1.5 倍，6~10 次里有 1 次把现有功能行为改掉。\n\n「禁止顺手重构」也拦不住，仍三成。\n\n代码不是你的，别加。",
+          "text_zh": "Agent 改老代码时，常常只往旁边堆新代码，看到别处有问题也只报不修。官方 Fable 5.2 提示词指南的解法就一句：这代码库是你的。加上之后，合并重复代码的概率从不到十分之一升到大约一半。代价是输出 token 大约涨到 1.5 倍，而且大概每 6 到 10 次里会有 1 次把现有功能的行为改掉；就算写上「禁止顺手重构」，也仍有约三成拦不住。作者的建议是：如果代码不是你的，就别加这句。",
+          "summary_zh": "linyun 补充了这句提示词的官方测试数字：合并重复代码的概率升到约一半，但 token 会多一半，还有一定比例会改掉原有行为。",
+          "relation_zh": "母帖把这句提示词当作有趣技巧，这条把收益和副作用写清楚，提醒只在自己的仓库里使用。",
+          "metrics": {
+            "likes": 3,
+            "retweets": 0,
+            "replies": 4,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 122
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-11T02:19:21.970544+00:00"
+        }
+      ]
     },
     {
       "id": "2120198832202125322",
