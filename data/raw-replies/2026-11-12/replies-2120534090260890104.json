@@ -1,0 +1,923 @@
+{
+  "data": [
+    {
+      "author_id": "2044833856218451968",
+      "conversation_id": "2120534090260890104",
+      "created_at": "2026-11-12T01:01:43.000Z",
+      "edit_history_tweet_ids": [
+        "2120683426479276269"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1657474831",
+            "start": 0,
+            "username": "Gorden_Sun"
+          }
+        ]
+      },
+      "id": "2120683426479276269",
+      "in_reply_to_user_id": "1657474831",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120534090260890104",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 新号立刻订就被永久封了 这风控是真狠\n我现在不敢拿新号去试 老号老老实实用着先",
+      "url": "https://x.com/T082057/status/2120683426479276269"
+    },
+    {
+      "author_id": "2108742999475945472",
+      "conversation_id": "2120534090260890104",
+      "created_at": "2026-11-11T21:16:45.000Z",
+      "edit_history_tweet_ids": [
+        "2120626809436008687"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1657474831",
+            "start": 0,
+            "username": "Gorden_Sun"
+          }
+        ]
+      },
+      "id": "2120626809436008687",
+      "in_reply_to_user_id": "1657474831",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 67,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120534090260890104",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 72 小时才判死，说明中间有延迟期，换号也别急着当成稳定可用",
+      "url": "https://x.com/yzhlxeyio/status/2120626809436008687"
+    },
+    {
+      "author_id": "2004435780631146496",
+      "conversation_id": "2120534090260890104",
+      "created_at": "2026-11-11T19:52:30.000Z",
+      "edit_history_tweet_ids": [
+        "2120605607942070586"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1657474831",
+            "start": 0,
+            "username": "Gorden_Sun"
+          }
+        ]
+      },
+      "id": "2120605607942070586",
+      "in_reply_to_user_id": "1657474831",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 73,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120534090260890104",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 一个苹果账号永久封，换来的教训就一句：别走苹果支付。走官方渠道，封也只封一个订阅。走苹果，封的是整个账号。",
+      "url": "https://x.com/himiaocc/status/2120605607942070586"
+    },
+    {
+      "author_id": "1537093336087298053",
+      "conversation_id": "2120534090260890104",
+      "created_at": "2026-11-11T19:13:08.000Z",
+      "edit_history_tweet_ids": [
+        "2120595701885534379"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1657474831",
+            "start": 0,
+            "username": "Gorden_Sun"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/zumac_ai/statu…",
+            "end": 35,
+            "expanded_url": "https://x.com/zumac_ai/status/2120595501586481281",
+            "start": 12,
+            "url": "https://t.co/qKmUSL9Lcz"
+          }
+        ]
+      },
+      "id": "2120595701885534379",
+      "in_reply_to_user_id": "1657474831",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120595501586481281",
+          "type": "quoted"
+        },
+        {
+          "id": "2120534090260890104",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun https://t.co/qKmUSL9Lcz",
+      "url": "https://x.com/zumac_ai/status/2120595701885534379"
+    },
+    {
+      "author_id": "1992952876533215232",
+      "conversation_id": "2120534090260890104",
+      "created_at": "2026-11-11T17:42:19.000Z",
+      "edit_history_tweet_ids": [
+        "2120572847567392991"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1657474831",
+            "start": 0,
+            "username": "Gorden_Sun"
+          }
+        ]
+      },
+      "id": "2120572847567392991",
+      "in_reply_to_user_id": "1657474831",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120534090260890104",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 这实测太有参考价值了，原来新号+新卡+新加坡区叠加起来才是雷点，等后续再试老号和其他区的结果～",
+      "url": "https://x.com/xiri318695/status/2120572847567392991"
+    },
+    {
+      "author_id": "2107656164796145664",
+      "conversation_id": "2120534090260890104",
+      "created_at": "2026-11-11T17:18:48.000Z",
+      "edit_history_tweet_ids": [
+        "2120566929979224464"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1657474831",
+            "start": 0,
+            "username": "Gorden_Sun"
+          }
+        ]
+      },
+      "id": "2120566929979224464",
+      "in_reply_to_user_id": "1657474831",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 169,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120534090260890104",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 72小时等来封号，客服拖了两天最后直接永久封，这新加坡区是真不能碰了",
+      "url": "https://x.com/cc6pazpo/status/2120566929979224464"
+    },
+    {
+      "author_id": "799725463589490688",
+      "conversation_id": "2120534090260890104",
+      "created_at": "2026-11-11T17:06:38.000Z",
+      "edit_history_tweet_ids": [
+        "2120563865088122902"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1657474831",
+            "start": 0,
+            "username": "Gorden_Sun"
+          }
+        ]
+      },
+      "id": "2120563865088122902",
+      "in_reply_to_user_id": "1657474831",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120534090260890104",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 新号加新卡加马上订阅，这三件套叠满基本就是送人头。72小时那个节点太关键了，我之前也是卡在支付风控上。老号换区订阅会不会稳一点？",
+      "url": "https://x.com/LieutetVirginie/status/2120563865088122902"
+    },
+    {
+      "author_id": "1940266448380968960",
+      "conversation_id": "2120534090260890104",
+      "created_at": "2026-11-11T16:19:56.000Z",
+      "edit_history_tweet_ids": [
+        "2120552112308502662"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1657474831",
+            "start": 0,
+            "username": "Gorden_Sun"
+          }
+        ]
+      },
+      "id": "2120552112308502662",
+      "in_reply_to_user_id": "1657474831",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 51,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120534090260890104",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 苹果号都给连坐永封了，这代价有点大。前人砍树这句太真实，新加坡区估计早被薅成重点照顾对象了",
+      "url": "https://x.com/StewartLi666/status/2120552112308502662"
+    },
+    {
+      "author_id": "143097549",
+      "conversation_id": "2120534090260890104",
+      "created_at": "2026-11-11T16:09:29.000Z",
+      "edit_history_tweet_ids": [
+        "2120549482563822002"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1657474831",
+            "start": 0,
+            "username": "Gorden_Sun"
+          }
+        ]
+      },
+      "id": "2120549482563822002",
+      "in_reply_to_user_id": "1657474831",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120534090260890104",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 机场节点注册倒是顺，绑卡订阅那步最容易卡，我之前也是72小时后被封，客服磨了一天才激活，新号头几天真别上强度。",
+      "url": "https://x.com/Rain989/status/2120549482563822002"
+    },
+    {
+      "author_id": "2002933364152729600",
+      "conversation_id": "2120534090260890104",
+      "created_at": "2026-11-11T15:59:59.000Z",
+      "edit_history_tweet_ids": [
+        "2120547093047914894"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1953552027575021568",
+            "start": 0,
+            "username": "1039301wu"
+          },
+          {
+            "end": 22,
+            "id": "1657474831",
+            "start": 11,
+            "username": "Gorden_Sun"
+          }
+        ]
+      },
+      "id": "2120547093047914894",
+      "in_reply_to_user_id": "1953552027575021568",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 32,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120540319016173946",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@1039301wu @Gorden_Sun 砍树的太厉害了",
+      "url": "https://x.com/jasonchia58/status/2120547093047914894"
+    },
+    {
+      "author_id": "2116855896982843394",
+      "conversation_id": "2120534090260890104",
+      "created_at": "2026-11-11T15:45:20.000Z",
+      "edit_history_tweet_ids": [
+        "2120543404392346055"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1657474831",
+            "start": 0,
+            "username": "Gorden_Sun"
+          }
+        ]
+      },
+      "id": "2120543404392346055",
+      "in_reply_to_user_id": "1657474831",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 62,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120534090260890104",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun New account, new region, new card, immediate subscription — that’s four fraud signals in one motion. The lesson isn’t the region, it’s the sequencing: age the account before you pay.",
+      "url": "https://x.com/ROSEdoqj/status/2120543404392346055"
+    },
+    {
+      "author_id": "1126207424602337280",
+      "conversation_id": "2120534090260890104",
+      "created_at": "2026-11-11T15:38:42.000Z",
+      "edit_history_tweet_ids": [
+        "2120541737613767138"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1657474831",
+            "start": 0,
+            "username": "Gorden_Sun"
+          }
+        ]
+      },
+      "id": "2120541737613767138",
+      "in_reply_to_user_id": "1657474831",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 96,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120534090260890104",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 机场节点注册 Claude 现在确实还能过，但新号头几天最危险，别一上来就高强度用，风控盯的就是注册完立刻重度使用。苹果账号绑卡订阅那步也容易卡，失败两次就先停一停。你是打算主力用这个新号，还是先养着当备用？",
+      "url": "https://x.com/TheEasySale1/status/2120541737613767138"
+    },
+    {
+      "author_id": "1727637476326653952",
+      "conversation_id": "2120534090260890104",
+      "created_at": "2026-11-11T15:33:38.000Z",
+      "edit_history_tweet_ids": [
+        "2120540463665172899"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1657474831",
+            "start": 0,
+            "username": "Gorden_Sun"
+          }
+        ]
+      },
+      "id": "2120540463665172899",
+      "in_reply_to_user_id": "1657474831",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 557,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120534090260890104",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 以身试错，好样的，怎样都得赞一个👍。看样子要想长期的不停的注册claude，先得不停的去注册apple账号，羊羊羊到一定程度，再开启长征之路。真是路漫漫兮呀。",
+      "url": "https://x.com/QK6783432331761/status/2120540463665172899"
+    },
+    {
+      "author_id": "1953552027575021568",
+      "conversation_id": "2120534090260890104",
+      "created_at": "2026-11-11T15:33:04.000Z",
+      "edit_history_tweet_ids": [
+        "2120540319016173946"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1657474831",
+            "start": 0,
+            "username": "Gorden_Sun"
+          }
+        ]
+      },
+      "id": "2120540319016173946",
+      "in_reply_to_user_id": "1657474831",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 650,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120534090260890104",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 這公司還真是 要送錢給他還要求他 我這不成了跪著要飯的嗎？",
+      "url": "https://x.com/1039301wu/status/2120540319016173946"
+    },
+    {
+      "author_id": "1948452467639025665",
+      "conversation_id": "2120534090260890104",
+      "created_at": "2026-11-11T15:18:50.000Z",
+      "edit_history_tweet_ids": [
+        "2120536735662870686"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1657474831",
+            "start": 0,
+            "username": "Gorden_Sun"
+          }
+        ]
+      },
+      "id": "2120536735662870686",
+      "in_reply_to_user_id": "1657474831",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120534090260890104",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 新号绑卡直接订阅最容易翻，我之前也是新号上来就订，72小时直接没了。老号养几天再上，比新号硬扛稳得多，复盘写得挺细的。",
+      "url": "https://x.com/ameeenoox115686/status/2120536735662870686"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1657474831",
+        "conversation_id": "2120534090260890104",
+        "created_at": "2026-11-11T15:08:19.000Z",
+        "edit_history_tweet_ids": [
+          "2120534090260890104"
+        ],
+        "id": "2120534090260890104",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "上周都说Claude加强了风控，于是我想从头走一遍订阅来打个样。\n\n机场节点注册了一个Claude新号，没问题。\n直连注册了一个新加坡区苹果账号，没问题。\n新注册的苹果账号绑卡后订阅，触发了新号支付的风控，也算正常。\n等待72小时后提示账号被封，跟客服battle一天后告知再等24小时重新激活。\n又过了24小时后，告知苹果商店的账号永久被封。\n\n我估计跟这几个因素有关：新号、新号立即订阅Claude、新加坡区、绑定的新加坡卡段。\n\n苹果肯定是被薅的太多了，所以加强了风控，只能说前人砍树，后人遭殃。\n\n也许老号和其他区的情况会好一些，等后续再试吧。"
+        },
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 9400,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "text": "上周都说Claude加强了风控，于是我想从头走一遍订阅来打个样。\n\n机场节点注册了一个Claude新号，没问题。\n直连注册了一个新加坡区苹果账号，没问题。\n新注册的苹果账号绑卡后订阅，触发了新号支付的风控，也算正常。\n等待72小时后提示账号被封，跟客服battle一天后告知再等24小时重新激活。"
+      },
+      {
+        "article": {
+          "title": "全网都在传封号，新加坡这台 Mac 今天还在跑 Claude"
+        },
+        "author_id": "1537093336087298053",
+        "conversation_id": "2120595501586481281",
+        "created_at": "2026-11-11T19:12:20.000Z",
+        "edit_history_tweet_ids": [
+          "2120595501586481281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2120…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/article/2120594417442856960",
+              "start": 0,
+              "status": 404,
+              "unwound_url": "https://x.com/i/article/2120594417442856960",
+              "url": "https://t.co/rRXomF7Gvv"
+            }
+          ]
+        },
+        "id": "2120595501586481281",
+        "lang": "zxx",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 77,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "text": "https://t.co/rRXomF7Gvv"
+      },
+      {
+        "author_id": "1953552027575021568",
+        "conversation_id": "2120534090260890104",
+        "created_at": "2026-11-11T15:33:04.000Z",
+        "edit_history_tweet_ids": [
+          "2120540319016173946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657474831",
+              "start": 0,
+              "username": "Gorden_Sun"
+            }
+          ]
+        },
+        "id": "2120540319016173946",
+        "in_reply_to_user_id": "1657474831",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 650,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120534090260890104",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Gorden_Sun 這公司還真是 要送錢給他還要求他 我這不成了跪著要飯的嗎？"
+      }
+    ],
+    "users": [
+      {
+        "id": "2044833856218451968",
+        "name": "TT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044834995018330112/F3QNaAOh_normal.jpg",
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 289,
+          "like_count": 414,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 739
+        },
+        "username": "T082057",
+        "verified": false
+      },
+      {
+        "id": "1657474831",
+        "name": "Gorden Sun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1522159828231409664/GPpXyPT1_normal.jpg",
+        "public_metrics": {
+          "followers_count": 70365,
+          "following_count": 1759,
+          "like_count": 249,
+          "listed_count": 991,
+          "media_count": 3682,
+          "tweet_count": 9534
+        },
+        "username": "Gorden_Sun",
+        "verified": false
+      },
+      {
+        "id": "2108742999475945472",
+        "name": "yzhlx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2113587861933232128/sQcciDIW_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2368,
+          "following_count": 1934,
+          "like_count": 760,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 2097
+        },
+        "username": "yzhlxeyio",
+        "verified": false
+      },
+      {
+        "id": "2004435780631146496",
+        "name": "MIAO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105055329872646144/KPNbQnWF_normal.jpg",
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 46,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 441
+        },
+        "username": "himiaocc",
+        "verified": false
+      },
+      {
+        "id": "1537093336087298053",
+        "name": "新加坡Macmini租赁 阿涛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2112012196226240512/eUce49xp_normal.jpg",
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 336,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1795
+        },
+        "username": "zumac_ai",
+        "verified": false
+      },
+      {
+        "id": "1992952876533215232",
+        "name": "xiri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109965574642315264/9CU1uCk-_normal.jpg",
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 29,
+          "like_count": 1418,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 921
+        },
+        "username": "xiri318695",
+        "verified": false
+      },
+      {
+        "id": "2107656164796145664",
+        "name": "cc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107658051717083137/OXSNk4yq_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3401,
+          "following_count": 3090,
+          "like_count": 1849,
+          "listed_count": 2,
+          "media_count": 363,
+          "tweet_count": 4269
+        },
+        "username": "cc6pazpo",
+        "verified": false
+      },
+      {
+        "id": "799725463589490688",
+        "name": "Virginie Lieutet",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/834744360365326336/KHp3q3gc_normal.jpg",
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 80,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 94
+        },
+        "username": "LieutetVirginie",
+        "verified": false
+      },
+      {
+        "id": "1940266448380968960",
+        "name": "斯图超哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084970952727887872/pBeGpHhJ_normal.jpg",
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 556,
+          "like_count": 277,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 670
+        },
+        "username": "StewartLi666",
+        "verified": false
+      },
+      {
+        "id": "143097549",
+        "name": "Rainy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/844937634526912512/9OzXRNj-_normal.jpg",
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 180,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 75
+        },
+        "username": "Rain989",
+        "verified": false
+      },
+      {
+        "id": "2002933364152729600",
+        "name": "chan9900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022455136183017473/xGV8L7O3_normal.jpg",
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 162,
+          "like_count": 3492,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 558
+        },
+        "username": "jasonchia58",
+        "verified": false
+      },
+      {
+        "id": "1953552027575021568",
+        "name": "00 0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953552111117250565/hCFBpv0L_normal.png",
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 447,
+          "like_count": 1981,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 50
+        },
+        "username": "1039301wu",
+        "verified": false
+      },
+      {
+        "id": "2116855896982843394",
+        "name": "Allie K. Miller",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116893880725716992/9Y7JQ6k6_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 17,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 136
+        },
+        "username": "ROSEdoqj",
+        "verified": false
+      },
+      {
+        "id": "1126207424602337280",
+        "name": "TheEasySale（互关，有关必回）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1126241289526071296/a9Qu3z3a_normal.png",
+        "public_metrics": {
+          "followers_count": 2099,
+          "following_count": 1947,
+          "like_count": 7519,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 5448
+        },
+        "username": "TheEasySale1",
+        "verified": false
+      },
+      {
+        "id": "1727637476326653952",
+        "name": "Q.K",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076620456640331776/9_gy_RtD_normal.jpg",
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 699,
+          "like_count": 3064,
+          "listed_count": 4,
+          "media_count": 153,
+          "tweet_count": 6996
+        },
+        "username": "QK6783432331761",
+        "verified": false
+      },
+      {
+        "id": "1948452467639025665",
+        "name": "ameeenoox",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117491228464046080/g3dQPdZw_normal.jpg",
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 29,
+          "like_count": 558,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 171
+        },
+        "username": "ameeenoox115686",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120683426479276269",
+    "next_token": "b26v89c19zqg8o3juzovc8hwim3ws5tqfs754ro42xwn1",
+    "oldest_id": "2120536735662870686",
+    "result_count": 15
+  }
+}

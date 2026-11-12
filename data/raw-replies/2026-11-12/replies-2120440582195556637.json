@@ -1,0 +1,601 @@
+{
+  "data": [
+    {
+      "author_id": "2020255388952850432",
+      "conversation_id": "2120440582195556637",
+      "created_at": "2026-11-11T22:37:25.000Z",
+      "edit_history_tweet_ids": [
+        "2120647111280865528"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "431617343",
+            "start": 0,
+            "username": "berryxia"
+          }
+        ]
+      },
+      "id": "2120647111280865528",
+      "in_reply_to_user_id": "431617343",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 32,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120440582195556637",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@berryxia 刚发 v1 就把 Suno v6 压到榜二，ACE 这步子迈得真大。做歌声合成出身的公司转音乐生成，数据积累就是壁垒。人声榜迭代这么快，老模型吃老本的日子要结束了。",
+      "url": "https://x.com/kuailewenhao/status/2120647111280865528"
+    },
+    {
+      "author_id": "2032638052695420928",
+      "conversation_id": "2120440582195556637",
+      "created_at": "2026-11-11T13:37:16.000Z",
+      "edit_history_tweet_ids": [
+        "2120511178103460225"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "431617343",
+            "start": 0,
+            "username": "berryxia"
+          }
+        ]
+      },
+      "id": "2120511178103460225",
+      "in_reply_to_user_id": "431617343",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 62,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120440582195556637",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@berryxia 这个榜是纯人声赛道吧？比较好奇 ACE 唱中文咬字怎么样，Suno 唱中文快歌常被吐槽吞字。",
+      "url": "https://x.com/Jonhoni99/status/2120511178103460225"
+    },
+    {
+      "author_id": "1742045432728154112",
+      "conversation_id": "2120440582195556637",
+      "created_at": "2026-11-11T13:14:14.000Z",
+      "edit_history_tweet_ids": [
+        "2120505380170342530"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "431617343",
+            "start": 0,
+            "username": "berryxia"
+          }
+        ]
+      },
+      "id": "2120505380170342530",
+      "in_reply_to_user_id": "431617343",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 43,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120440582195556637",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@berryxia 2018年做歌声合成的 一上场就把Suno挤下去了",
+      "url": "https://x.com/mnscz133680/status/2120505380170342530"
+    },
+    {
+      "author_id": "2044833856218451968",
+      "conversation_id": "2120440582195556637",
+      "created_at": "2026-11-11T09:55:37.000Z",
+      "edit_history_tweet_ids": [
+        "2120455395848413501"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "431617343",
+            "start": 0,
+            "username": "berryxia"
+          }
+        ]
+      },
+      "id": "2120455395848413501",
+      "in_reply_to_user_id": "431617343",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 62,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120440582195556637",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@berryxia 我还以为Suno这块暂时没人能排前面 原来ACE最早就是做歌声合成的 人声底子硬是有点道理 免费积分我先去试两首雷鬼的",
+      "url": "https://x.com/T082057/status/2120455395848413501"
+    },
+    {
+      "author_id": "1537620228061814784",
+      "conversation_id": "2120440582195556637",
+      "created_at": "2026-11-11T09:49:06.000Z",
+      "edit_history_tweet_ids": [
+        "2120453755527434374"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "431617343",
+            "start": 0,
+            "username": "berryxia"
+          }
+        ]
+      },
+      "id": "2120453755527434374",
+      "in_reply_to_user_id": "431617343",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 59,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120440582195556637",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@berryxia 榜上它 1160、Suno v6 是 1144，两边的误差区间其实叠在一起，现在还不能算稳赢。而且这只是带人声的榜，纯器乐那张它没上。",
+      "url": "https://x.com/pandaxia0613/status/2120453755527434374"
+    },
+    {
+      "author_id": "1637638120173879296",
+      "conversation_id": "2120440582195556637",
+      "created_at": "2026-11-11T09:44:39.000Z",
+      "edit_history_tweet_ids": [
+        "2120452636621328522"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "431617343",
+            "start": 0,
+            "username": "berryxia"
+          }
+        ]
+      },
+      "id": "2120452636621328522",
+      "in_reply_to_user_id": "431617343",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 43,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120440582195556637",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@berryxia 昨天让 Fable 5.2 写代码逐采样合成过一段配乐 节奏能出来但没有人声 带人声的完整歌这块还得靠专门的模型",
+      "url": "https://x.com/winston13111/status/2120452636621328522"
+    },
+    {
+      "author_id": "1940266448380968960",
+      "conversation_id": "2120440582195556637",
+      "created_at": "2026-11-11T09:37:01.000Z",
+      "edit_history_tweet_ids": [
+        "2120450717936918767"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "431617343",
+            "start": 0,
+            "username": "berryxia"
+          }
+        ]
+      },
+      "id": "2120450717936918767",
+      "in_reply_to_user_id": "431617343",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 46,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120440582195556637",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@berryxia 做了 8 年歌声合成的老厂一出手就登顶，Suno 护城河没想象中深，就看 API 价格给不给小站留口子",
+      "url": "https://x.com/StewartLi666/status/2120450717936918767"
+    },
+    {
+      "author_id": "2109627876463259648",
+      "conversation_id": "2120440582195556637",
+      "created_at": "2026-11-11T09:34:59.000Z",
+      "edit_history_tweet_ids": [
+        "2120450204310851977"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "431617343",
+            "start": 0,
+            "username": "berryxia"
+          }
+        ]
+      },
+      "id": "2120450204310851977",
+      "in_reply_to_user_id": "431617343",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 64,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120440582195556637",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@berryxia 裂开了，八年老厂被当成刚发 v1 的新人Suno 一脸问号。",
+      "url": "https://x.com/ruyibnl/status/2120450204310851977"
+    },
+    {
+      "author_id": "2044971512403517440",
+      "conversation_id": "2120440582195556637",
+      "created_at": "2026-11-11T09:22:10.000Z",
+      "edit_history_tweet_ids": [
+        "2120446977435709734"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "431617343",
+            "start": 0,
+            "username": "berryxia"
+          }
+        ]
+      },
+      "id": "2120446977435709734",
+      "in_reply_to_user_id": "431617343",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 56,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120440582195556637",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@berryxia 刚发 v1 就把 Suno v6 干翻了，这也太狠了，有免费积分白嫖，我先去试两首看看它雷鬼有多顶",
+      "url": "https://x.com/XiaoLeemx04/status/2120446977435709734"
+    },
+    {
+      "author_id": "2078394153658916864",
+      "conversation_id": "2120440582195556637",
+      "created_at": "2026-11-11T09:04:22.000Z",
+      "edit_history_tweet_ids": [
+        "2120442498061369825"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "431617343",
+            "start": 0,
+            "username": "berryxia"
+          }
+        ]
+      },
+      "id": "2120442498061369825",
+      "in_reply_to_user_id": "431617343",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 72,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120440582195556637",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@berryxia 什么，suno 被干趴了？",
+      "url": "https://x.com/spark_chenlin/status/2120442498061369825"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "431617343",
+        "conversation_id": "2120440582195556637",
+        "created_at": "2026-11-11T08:56:45.000Z",
+        "edit_history_tweet_ids": [
+          "2120440582195556637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ArtificialAnly…",
+              "end": 213,
+              "expanded_url": "https://twitter.com/ArtificialAnlys/status/2120337324898992298",
+              "start": 190,
+              "url": "https://t.co/TRZZVQJyBv"
+            }
+          ]
+        },
+        "id": "2120440582195556637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/i/status/21203…",
+                "end": 512,
+                "expanded_url": "https://x.com/i/status/2120337324898992298",
+                "start": 489,
+                "url": "https://t.co/Fn2AiIj9yn"
+              }
+            ]
+          },
+          "text": "兄弟们，卧槽，Suno v6 居然被一个刚发 v1 的新模型干翻了！\n\nArtificial Analysis 的 AA-Music-Vocal v1.1 人声音乐榜单刚更新，ACE Studio 发布的 ACE Music v1 一上来就直接冲到第一，排在 Suno v6 前面。\n\n这家公司其实不新，2018 年就成立了，最早是做 AI 歌声合成的，给音乐制作人把 MIDI 和歌词转成人声。之前还跟阶跃星辰一起搞过开源权重的音乐模型 ACE-Step。\n\n这次的 ACE Music v1 用起来很干脆：\n\n1、直接用文字描述或者喂自己的歌词，就能生成带人声的完整歌曲，纯伴奏也能做。\n2、官方实测下来，它在雷鬼（Reggae / Dancehall）和古典管弦乐（Classical / Orchestral）这两类提示词上效果最好。\n\n目前没有开放 API，只能在 ACE Music 的 App 里用。好消息是每天白给 20 积分免费试玩，付费版年付合下来每个月 7.9 美元，一个月最多能生成 500 首歌。\n\n主要是白嫖的积分都给到嘴里了，还是自己去试两首吧～\nhttps://t.co/Fn2AiIj9yn"
+        },
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 3227,
+          "like_count": 49,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120337324898992298",
+            "type": "quoted"
+          }
+        ],
+        "text": "兄弟们，卧槽，Suno v6 居然被一个刚发 v1 的新模型干翻了！\n\nArtificial Analysis 的 AA-Music-Vocal v1.1 人声音乐榜单刚更新，ACE Studio 发布的 ACE Music v1 一上来就直接冲到第一，排在 Suno v6 前面。\n\n这家公司其实不新，2018 年就成立了，最早是做 AI 歌声合成的，给音乐制作人把 MIDI https://t.co/TRZZVQJyBv"
+      }
+    ],
+    "users": [
+      {
+        "id": "2020255388952850432",
+        "name": "方严の世界（关必回）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118219433634308096/V5o_55u-_normal.jpg",
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 459,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 438
+        },
+        "username": "kuailewenhao",
+        "verified": false
+      },
+      {
+        "id": "431617343",
+        "name": "Berryxia.AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016043556964605952/Tqi9KA2r_normal.jpg",
+        "public_metrics": {
+          "followers_count": 53680,
+          "following_count": 779,
+          "like_count": 8104,
+          "listed_count": 726,
+          "media_count": 2211,
+          "tweet_count": 11428
+        },
+        "username": "berryxia",
+        "verified": false
+      },
+      {
+        "id": "2032638052695420928",
+        "name": "平流层｜AI 白嫖实测",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084305173212745728/ggKiRN9y_normal.jpg",
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 78,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 237
+        },
+        "username": "Jonhoni99",
+        "verified": false
+      },
+      {
+        "id": "1742045432728154112",
+        "name": "LifeInsight",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116501191672971264/ympRXbXK_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 892,
+          "like_count": 5167,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 3228
+        },
+        "username": "mnscz133680",
+        "verified": false
+      },
+      {
+        "id": "2044833856218451968",
+        "name": "TT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044834995018330112/F3QNaAOh_normal.jpg",
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 289,
+          "like_count": 414,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 738
+        },
+        "username": "T082057",
+        "verified": false
+      },
+      {
+        "id": "1537620228061814784",
+        "name": "Panda｜AI 安全/Agent/教程",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1541246689834438656/8E5D4y3e_normal.png",
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 707,
+          "like_count": 2595,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 1418
+        },
+        "username": "pandaxia0613",
+        "verified": false
+      },
+      {
+        "id": "1637638120173879296",
+        "name": "Winston",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902548032576745474/T1ZczIeP_normal.jpg",
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 167,
+          "like_count": 814,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1283
+        },
+        "username": "winston13111",
+        "verified": false
+      },
+      {
+        "id": "1940266448380968960",
+        "name": "斯图超哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084970952727887872/pBeGpHhJ_normal.jpg",
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 556,
+          "like_count": 277,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 670
+        },
+        "username": "StewartLi666",
+        "verified": false
+      },
+      {
+        "id": "2109627876463259648",
+        "name": "FastAIToken",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110940883474657281/-XuHASL8_normal.jpg",
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 209,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 236
+        },
+        "username": "ruyibnl",
+        "verified": false
+      },
+      {
+        "id": "2044971512403517440",
+        "name": "Meme",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120525874202296320/qsjBcWe8_normal.jpg",
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 464,
+          "like_count": 1283,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 873
+        },
+        "username": "XiaoLeemx04",
+        "verified": false
+      },
+      {
+        "id": "2078394153658916864",
+        "name": "尘林 Spark",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118736628197777408/AulaXFpb_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3262,
+          "following_count": 286,
+          "like_count": 848,
+          "listed_count": 11,
+          "media_count": 501,
+          "tweet_count": 996
+        },
+        "username": "spark_chenlin",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120647111280865528",
+    "next_token": "b26v89c19zqg8o3juzovc6dgzmeasa90xtu5jpo94wjul",
+    "oldest_id": "2120442498061369825",
+    "result_count": 10
+  }
+}

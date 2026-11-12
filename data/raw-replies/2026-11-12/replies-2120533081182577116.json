@@ -1,0 +1,682 @@
+{
+  "data": [
+    {
+      "author_id": "1097038695151140865",
+      "created_at": "2026-11-12T00:21:16.000Z",
+      "edit_history_tweet_ids": [
+        "2120673246479573179"
+      ],
+      "id": "2120673246479573179",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120533081182577116",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml Love that it's open weights and you can fine-tune it on your own hardware.\n\nThe thing I keep wondering: what on-robot data actually gets a video-pretrained model working on a new arm?",
+      "url": "https://x.com/firatcand/status/2120673246479573179"
+    },
+    {
+      "author_id": "1603551009854423040",
+      "created_at": "2026-11-12T00:03:54.000Z",
+      "edit_history_tweet_ids": [
+        "2120668876555817200"
+      ],
+      "id": "2120668876555817200",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 23,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120533081182577116",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml i need to fix my 3d printer asap",
+      "url": "https://x.com/muratcan/status/2120668876555817200"
+    },
+    {
+      "author_id": "88367562",
+      "created_at": "2026-11-11T22:32:37.000Z",
+      "edit_history_tweet_ids": [
+        "2120645901488210346"
+      ],
+      "id": "2120645901488210346",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 17,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120533081182577116",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml Open weights for robot control are exciting. What's the smallest practical hardware setup to run this locally?",
+      "url": "https://x.com/dvlop/status/2120645901488210346"
+    },
+    {
+      "author_id": "2115299319599296512",
+      "created_at": "2026-11-11T22:28:50.000Z",
+      "edit_history_tweet_ids": [
+        "2120644949041660148"
+      ],
+      "id": "2120644949041660148",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120533081182577116",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml Open weights under Apache 2.0 is a big deal for integrators, since fine-tuning on your own hardware and site data is where most of the real deployment work happens. Curious how much robot-specific data Praxis-1 needs before it is useful on a new arm or mobile base.",
+      "url": "https://x.com/FembotElectric/status/2120644949041660148"
+    },
+    {
+      "author_id": "2118995360710270976",
+      "created_at": "2026-11-11T21:29:18.000Z",
+      "edit_history_tweet_ids": [
+        "2120629969240113192"
+      ],
+      "id": "2120629969240113192",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120533081182577116",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml Open weights let robotics teams adapt the policy around the hardware they actually have. That makes the release useful even when their robot or workspace looks nothing like the launch demo.",
+      "url": "https://x.com/news_algorithm/status/2120629969240113192"
+    },
+    {
+      "author_id": "2110759012736385024",
+      "created_at": "2026-11-11T20:35:50.000Z",
+      "edit_history_tweet_ids": [
+        "2120616513149272481"
+      ],
+      "id": "2120616513149272481",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120533081182577116",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml Apache 2.0 weights for a world action model is a big move. Curious how much robot data it takes to fine-tune Praxis-1 for a new arm.",
+      "url": "https://x.com/SILoadout/status/2120616513149272481"
+    },
+    {
+      "author_id": "1803119522473267200",
+      "created_at": "2026-11-11T20:15:45.000Z",
+      "edit_history_tweet_ids": [
+        "2120611459826614753"
+      ],
+      "id": "2120611459826614753",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 115,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120533081182577116",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml we need to do benchmarks for these things @a_andlyu !",
+      "url": "https://x.com/borvibe/status/2120611459826614753"
+    },
+    {
+      "author_id": "1265756854011023362",
+      "created_at": "2026-11-11T20:10:45.000Z",
+      "edit_history_tweet_ids": [
+        "2120610201208500674"
+      ],
+      "id": "2120610201208500674",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120533081182577116",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml Apache 2.0 plus Jetson Thor support means a robotics team in Vietnam or the UAE can adapt this on its own hardware. That is how an American model gets chosen before a default sets in.",
+      "url": "https://x.com/Umargik/status/2120610201208500674"
+    },
+    {
+      "author_id": "2115662728966950912",
+      "created_at": "2026-11-11T19:37:40.000Z",
+      "edit_history_tweet_ids": [
+        "2120601874143354990"
+      ],
+      "id": "2120601874143354990",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120533081182577116",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml The category win is real, just not a clean sweep of the board. official RoboLab-120 number is 46.2% (555 of 1,200), first among world action models, not first on NVIDIA's full public board.",
+      "url": "https://x.com/Felixawet/status/2120601874143354990"
+    },
+    {
+      "author_id": "1979465003557335040",
+      "created_at": "2026-11-11T19:20:36.000Z",
+      "edit_history_tweet_ids": [
+        "2120597578567790976"
+      ],
+      "id": "2120597578567790976",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120533166264090874",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml Under 30 minutes of demos to 15/15 is impressive. What I'd want to know next: were those 15 sim scenes held out from the demo setups (new object poses, lighting), and how does it hold up on the real arm? At 15 trials, one or two misses swings the rate a lot.",
+      "url": "https://x.com/r2werks/status/2120597578567790976"
+    },
+    {
+      "author_id": "1792699261739786240",
+      "created_at": "2026-11-11T18:48:58.000Z",
+      "edit_history_tweet_ids": [
+        "2120589618277962178"
+      ],
+      "id": "2120589618277962178",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120533081182577116",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml open weights robot control u can fine tune on ur own hardware!!\nhow much data does a new robot need to adapt? a few hours of demos or way more?",
+      "url": "https://x.com/javibuildz/status/2120589618277962178"
+    },
+    {
+      "author_id": "1716816653831569408",
+      "created_at": "2026-11-11T18:38:36.000Z",
+      "edit_history_tweet_ids": [
+        "2120587010150945062"
+      ],
+      "id": "2120587010150945062",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 80,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120533081182577116",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml the report fine tunes on about 3960 public so-100/so-101 datasets (around 1260 hours) and shows a towel fold, but the released checkpoints are only droid, yam and the base model. so on an so-101 like froggy i think u still start from praxis-1-base and run that fine tune yourself",
+      "url": "https://x.com/tarat_211/status/2120587010150945062"
+    },
+    {
+      "author_id": "1896668083101773824",
+      "created_at": "2026-11-11T18:37:48.000Z",
+      "edit_history_tweet_ids": [
+        "2120586809285472320"
+      ],
+      "id": "2120586809285472320",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120533081182577116",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml Open weights under Apache 2.0 for a robot model is wild. What's the smallest GPU that can actually run the 27B MoE for inference?",
+      "url": "https://x.com/AdamTestsAI/status/2120586809285472320"
+    },
+    {
+      "author_id": "967537642945503232",
+      "created_at": "2026-11-11T18:30:34.000Z",
+      "edit_history_tweet_ids": [
+        "2120584988701655234"
+      ],
+      "id": "2120584988701655234",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 42,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120533081182577116",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml Runway making ROBOTS move now!!!! Open weights too?!!\n\nMy gold skull army might be real one day my dude.....",
+      "url": "https://x.com/NerdManLLC/status/2120584988701655234"
+    },
+    {
+      "author_id": "2117342934135910400",
+      "created_at": "2026-11-11T18:28:52.000Z",
+      "edit_history_tweet_ids": [
+        "2120584560824275397"
+      ],
+      "id": "2120584560824275397",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120533081182577116",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml The intersection of AI and robotics is getting incredibly exciting. Open-weight models that can translate video pretraining into real-world physical actions open up a whole new frontier for AI. 🤖",
+      "url": "https://x.com/AdveraLabs/status/2120584560824275397"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2120533078972211200"
+          ]
+        },
+        "author_id": "1001114465692200960",
+        "created_at": "2026-11-11T15:04:18.000Z",
+        "edit_history_tweet_ids": [
+          "2120533081182577116"
+        ],
+        "id": "2120533081182577116",
+        "public_metrics": {
+          "bookmark_count": 200,
+          "impression_count": 50185,
+          "like_count": 437,
+          "quote_count": 67,
+          "reply_count": 56,
+          "retweet_count": 80
+        },
+        "text": "Today, we’re making Praxis-1 available to everyone. Our state-of-the-art world action model turns video pretraining into control for real robots, and it ships with open weights under Apache 2.0, ready to run and fine-tune on your own hardware. https://t.co/jL5ZmpY6x9"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2120533136975294464"
+          ]
+        },
+        "author_id": "1001114465692200960",
+        "created_at": "2026-11-11T15:04:39.000Z",
+        "edit_history_tweet_ids": [
+          "2120533166264090874"
+        ],
+        "id": "2120533166264090874",
+        "in_reply_to_user_id": "1001114465692200960",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1468,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120533123649941845",
+            "type": "replied_to"
+          }
+        ],
+        "text": "It also learns new tasks from very little data. With under 30 minutes of teleoperated demos, Praxis-1 succeeded in all 15 simulated trials on Noble Machines’ robot. https://t.co/dhWaL9aG23"
+      }
+    ],
+    "users": [
+      {
+        "id": "1097038695151140865",
+        "name": "Fred Dogan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031191260464295937/5DAavu2Q_normal.jpg",
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 616,
+          "like_count": 11636,
+          "listed_count": 25,
+          "media_count": 165,
+          "tweet_count": 1595
+        },
+        "username": "firatcand",
+        "verified": false
+      },
+      {
+        "id": "1001114465692200960",
+        "name": "Runway",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
+        "public_metrics": {
+          "followers_count": 296239,
+          "following_count": 362,
+          "like_count": 9016,
+          "listed_count": 3872,
+          "media_count": 1378,
+          "tweet_count": 3196
+        },
+        "username": "runwayml",
+        "verified": true
+      },
+      {
+        "id": "1603551009854423040",
+        "name": "Muratcan Koylan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102473209710821376/_OL5XryF_normal.jpg",
+        "public_metrics": {
+          "followers_count": 22930,
+          "following_count": 3938,
+          "like_count": 72340,
+          "listed_count": 460,
+          "media_count": 2911,
+          "tweet_count": 13160
+        },
+        "username": "muratcan",
+        "verified": false
+      },
+      {
+        "id": "88367562",
+        "name": "Denis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096755414473883653/mEgdap4p_normal.jpg",
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 44,
+          "like_count": 38,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 119
+        },
+        "username": "dvlop",
+        "verified": false
+      },
+      {
+        "id": "2115299319599296512",
+        "name": "Fembot Electric",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115303166459662336/WP85hQnh_normal.jpg",
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 75,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 120
+        },
+        "username": "FembotElectric",
+        "verified": false
+      },
+      {
+        "id": "2118995360710270976",
+        "name": "Algorithm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118996001348304896/gy1F-SwP_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 0,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 132
+        },
+        "username": "news_algorithm",
+        "verified": false
+      },
+      {
+        "id": "2110759012736385024",
+        "name": "SILoadout",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110762590683172864/zjawvndW_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 112
+        },
+        "username": "SILoadout",
+        "verified": false
+      },
+      {
+        "id": "1803119522473267200",
+        "name": "Boris",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008487618896642048/msfNDZ7g_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1912,
+          "following_count": 681,
+          "like_count": 9942,
+          "listed_count": 16,
+          "media_count": 690,
+          "tweet_count": 4474
+        },
+        "username": "borvibe",
+        "verified": false
+      },
+      {
+        "id": "1265756854011023362",
+        "name": "Muhammad Umar 🇺🇸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995851984302391296/5xpP4mwf_normal.jpg",
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 411,
+          "like_count": 213,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 1412
+        },
+        "username": "Umargik",
+        "verified": false
+      },
+      {
+        "id": "2115662728966950912",
+        "name": "Felix",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115677076225441792/h4dB6NO8_normal.jpg",
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 20,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 595
+        },
+        "username": "Felixawet",
+        "verified": false
+      },
+      {
+        "id": "1979465003557335040",
+        "name": "Bryan Rodas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025870579291836416/HlEzC-nI_normal.jpg",
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 66,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 236
+        },
+        "username": "r2werks",
+        "verified": false
+      },
+      {
+        "id": "1792699261739786240",
+        "name": "Javi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792701888036831232/z_JJqlNN_normal.jpg",
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 260,
+          "like_count": 273,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 335
+        },
+        "username": "javibuildz",
+        "verified": false
+      },
+      {
+        "id": "1716816653831569408",
+        "name": "TaraT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047478459514175488/3DTGbkTt_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 538,
+          "like_count": 22978,
+          "listed_count": 9,
+          "media_count": 1359,
+          "tweet_count": 9253
+        },
+        "username": "tarat_211",
+        "verified": false
+      },
+      {
+        "id": "1896668083101773824",
+        "name": "Byte | AI Tested",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115190213286760448/0_UtXZka_normal.jpg",
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 24,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 413
+        },
+        "username": "AdamTestsAI",
+        "verified": false
+      },
+      {
+        "id": "967537642945503232",
+        "name": "RunningSolo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119242873316966400/Aqqm-UgE_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3786,
+          "following_count": 124,
+          "like_count": 9703,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 11058
+        },
+        "username": "NerdManLLC",
+        "verified": false
+      },
+      {
+        "id": "2117342934135910400",
+        "name": "Mahesh Bhandari",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117344086411935744/jQLOVg8R_normal.jpg",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 36,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 70
+        },
+        "username": "AdveraLabs",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120673246479573179",
+    "next_token": "b26v89c19zqg8o3juzovc8jedpbaaesk5dhfzw3jo5a4d",
+    "oldest_id": "2120584560824275397",
+    "result_count": 15
+  }
+}

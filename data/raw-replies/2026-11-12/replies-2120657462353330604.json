@@ -1,0 +1,864 @@
+{
+  "data": [
+    {
+      "author_id": "1755692926129274880",
+      "conversation_id": "2120657462353330604",
+      "created_at": "2026-11-12T01:01:14.000Z",
+      "edit_history_tweet_ids": [
+        "2120683305104523339"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "2120683305104523339",
+      "in_reply_to_user_id": "11768582",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120657462353330604",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan Look at what happened to Apple when Steve Jobs was fired and John Sculley took over.\n\nIf the board can't agree on what to do, let shareholders vote!",
+      "url": "https://x.com/x10eng/status/2120683305104523339"
+    },
+    {
+      "author_id": "1383825868275941383",
+      "conversation_id": "2120657462353330604",
+      "created_at": "2026-11-12T00:44:10.000Z",
+      "edit_history_tweet_ids": [
+        "2120679009407377881"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "2120679009407377881",
+      "in_reply_to_user_id": "11768582",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120657462353330604",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan Garry you are such a fucking asshole, you should be ousted first.",
+      "url": "https://x.com/GT97322191/status/2120679009407377881"
+    },
+    {
+      "author_id": "3324437521",
+      "conversation_id": "2120657462353330604",
+      "created_at": "2026-11-12T00:44:08.000Z",
+      "edit_history_tweet_ids": [
+        "2120678998019588589"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "2120678998019588589",
+      "in_reply_to_user_id": "11768582",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120657462353330604",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan You have done the same, haven’t you ?",
+      "url": "https://x.com/indianauthority/status/2120678998019588589"
+    },
+    {
+      "author_id": "1992919804441980928",
+      "conversation_id": "2120657462353330604",
+      "created_at": "2026-11-12T00:38:46.000Z",
+      "edit_history_tweet_ids": [
+        "2120677648762310876"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "2120677648762310876",
+      "in_reply_to_user_id": "11768582",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120657462353330604",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan TPUs work too. So do AMD chips. And Trainium. And others.",
+      "url": "https://x.com/annullifier/status/2120677648762310876"
+    },
+    {
+      "author_id": "5358642",
+      "conversation_id": "2120657462353330604",
+      "created_at": "2026-11-12T00:36:40.000Z",
+      "edit_history_tweet_ids": [
+        "2120677120678736020"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "2120677120678736020",
+      "in_reply_to_user_id": "11768582",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120657462353330604",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan What? so just let it slide?",
+      "url": "https://x.com/calisurf/status/2120677120678736020"
+    },
+    {
+      "author_id": "1520916191052808194",
+      "conversation_id": "2120657462353330604",
+      "created_at": "2026-11-12T00:30:47.000Z",
+      "edit_history_tweet_ids": [
+        "2120675641267716582"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "2120675641267716582",
+      "in_reply_to_user_id": "11768582",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 115,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120657462353330604",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan It is amazing to witness a number of adult and, apparently, serious people failing to understand that a Chinese asset cannot be a CEO of an American company.\n\nSomething is seriously wrong with San Francisco if this is not immediately obvious.",
+      "url": "https://x.com/JulieSimone15/status/2120675641267716582"
+    },
+    {
+      "author_id": "905466858685448196",
+      "conversation_id": "2120657462353330604",
+      "created_at": "2026-11-12T00:29:36.000Z",
+      "edit_history_tweet_ids": [
+        "2120675340607774864"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "2120675340607774864",
+      "in_reply_to_user_id": "11768582",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 24,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120657462353330604",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan If jensen is ousted against his will, I hope he will consider a joinup with Elon and help him with Starmind + Terafab",
+      "url": "https://x.com/Hazy19L/status/2120675340607774864"
+    },
+    {
+      "author_id": "14124053",
+      "conversation_id": "2120657462353330604",
+      "created_at": "2026-11-12T00:28:49.000Z",
+      "edit_history_tweet_ids": [
+        "2120675144553451700"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "2120675144553451700",
+      "in_reply_to_user_id": "11768582",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 22,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120657462353330604",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan I think Ive calculated 1T-1.2T of downside risk in Jensen leaving given his involvement in the business and that he’s a known entity in Washington. That said, much of that seems to be priced in.",
+      "url": "https://x.com/benxiang/status/2120675144553451700"
+    },
+    {
+      "author_id": "2054011306257330176",
+      "conversation_id": "2120657462353330604",
+      "created_at": "2026-11-12T00:27:45.000Z",
+      "edit_history_tweet_ids": [
+        "2120674877808243047"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "2120674877808243047",
+      "in_reply_to_user_id": "11768582",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 20,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120657462353330604",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan Or, the fact that a single man can threaten to crash an entire market because he’s not smart enough to work out how to get laid discreetly, is reason alone to remove him.",
+      "url": "https://x.com/sophiafeelstoo/status/2120674877808243047"
+    },
+    {
+      "author_id": "2303889757",
+      "conversation_id": "2120657462353330604",
+      "created_at": "2026-11-12T00:26:18.000Z",
+      "edit_history_tweet_ids": [
+        "2120674509967769776"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "2120674509967769776",
+      "in_reply_to_user_id": "11768582",
+      "lang": "en",
+      "note_tweet": {
+        "text": "Market cap has already imploded materially, so with another couple of turns down on P/E, this company will have new leadership, even if less powerful, a pipeline of world-dominating products that should have at least 2-3 years of running room, and the very real phenomenon that is just the beginning of explosive AI token demand--therefore a bargain, soon."
+      },
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 78,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120657462353330604",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan Market cap has already imploded materially, so with another couple of turns down on P/E, this company will have new leadership, even if less powerful, a pipeline of world-dominating products that should have at least 2-3 years of running room, and the very real phenomenon that is",
+      "url": "https://x.com/whentoletgo/status/2120674509967769776"
+    },
+    {
+      "author_id": "135647479",
+      "conversation_id": "2120657462353330604",
+      "created_at": "2026-11-12T00:23:34.000Z",
+      "edit_history_tweet_ids": [
+        "2120673824652116011"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "2120673824652116011",
+      "in_reply_to_user_id": "11768582",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 162,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120657462353330604",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan Jensen is in his prime.\n\nThis could create the greatest competitor Nvidia has ever had.",
+      "url": "https://x.com/JeffreyTowson/status/2120673824652116011"
+    },
+    {
+      "author_id": "2079316071925108736",
+      "conversation_id": "2120657462353330604",
+      "created_at": "2026-11-12T00:19:01.000Z",
+      "edit_history_tweet_ids": [
+        "2120672677077926011"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "2120672677077926011",
+      "in_reply_to_user_id": "11768582",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 86,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120657462353330604",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan It’s the liability when his judgement is so bad! A spy and a subordinate!",
+      "url": "https://x.com/weibiotic/status/2120672677077926011"
+    },
+    {
+      "author_id": "13682312",
+      "conversation_id": "2120657462353330604",
+      "created_at": "2026-11-12T00:13:52.000Z",
+      "edit_history_tweet_ids": [
+        "2120671381637734878"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "2120671381637734878",
+      "in_reply_to_user_id": "11768582",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 314,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120657462353330604",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan Except for the part where you can't be CEO and sleep with a direct report, much less a spy.",
+      "url": "https://x.com/adamhjk/status/2120671381637734878"
+    },
+    {
+      "author_id": "15948323",
+      "conversation_id": "2120657462353330604",
+      "created_at": "2026-11-12T00:13:06.000Z",
+      "edit_history_tweet_ids": [
+        "2120671191287615694"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "2120671191287615694",
+      "in_reply_to_user_id": "11768582",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 108,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120657462353330604",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan This is some fucked up maneuvering and we’re about to have to dig in for the fight of our lives the next few years.",
+      "url": "https://x.com/wdavidturner/status/2120671191287615694"
+    },
+    {
+      "author_id": "899746986",
+      "conversation_id": "2120657462353330604",
+      "created_at": "2026-11-12T00:10:42.000Z",
+      "edit_history_tweet_ids": [
+        "2120670585034580443"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "2120670585034580443",
+      "in_reply_to_user_id": "11768582",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 311,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120657462353330604",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan If a multi-trillion company cannot survive one person, that is a much bigger risk for shareholders.",
+      "url": "https://x.com/whycoose/status/2120670585034580443"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2120523021597466624"
+          ]
+        },
+        "author_id": "11768582",
+        "conversation_id": "2120657462353330604",
+        "created_at": "2026-11-11T23:18:33.000Z",
+        "edit_history_tweet_ids": [
+          "2120657462353330604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/alxSa3cwwi",
+              "end": 296,
+              "expanded_url": "https://x.com/CEOinterview/status/2120523053239279718/video/1",
+              "media_key": "13_2120523021597466624",
+              "start": 273,
+              "url": "https://t.co/alxSa3cwwi"
+            }
+          ]
+        },
+        "id": "2120657462353330604",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/CEOinterview/s…",
+                "end": 296,
+                "expanded_url": "https://x.com/CEOinterview/status/2120523053239279718/video/1",
+                "start": 273,
+                "url": "https://t.co/alxSa3cwwi"
+              }
+            ]
+          },
+          "text": "Seems ill advised for Nvidia’s board to oust Jensen Huang given how central his leadership is to the operations of an engine of our future abundance. \n\nHis day to day is prime actor work. Would be hard to believe a transition happens without massive market cap implosion.  https://t.co/alxSa3cwwi"
+        },
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 22068,
+          "like_count": 199,
+          "quote_count": 0,
+          "reply_count": 42,
+          "retweet_count": 9
+        },
+        "text": "Seems ill advised for Nvidia’s board to oust Jensen Huang given how central his leadership is to the operations of an engine of our future abundance. \n\nHis day to day is prime actor work. Would be hard to believe a transition happens without massive market cap implosion."
+      }
+    ],
+    "users": [
+      {
+        "id": "1755692926129274880",
+        "name": "x10eng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034048462724206595/NNShXuSp_normal.jpg",
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 368,
+          "like_count": 58152,
+          "listed_count": 2,
+          "media_count": 149,
+          "tweet_count": 1248
+        },
+        "username": "x10eng",
+        "verified": false
+      },
+      {
+        "id": "11768582",
+        "name": "Garry Tan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102142455281811456/-kNX65wI_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1144215,
+          "following_count": 6038,
+          "like_count": 254001,
+          "listed_count": 8983,
+          "media_count": 4954,
+          "tweet_count": 76402
+        },
+        "username": "garrytan",
+        "verified": false
+      },
+      {
+        "id": "1383825868275941383",
+        "name": "casemerro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081195388086931456/jODcbI-a_normal.jpg",
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 2736,
+          "like_count": 59886,
+          "listed_count": 10,
+          "media_count": 4776,
+          "tweet_count": 20395
+        },
+        "username": "GT97322191",
+        "verified": false
+      },
+      {
+        "id": "3324437521",
+        "name": "AB",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649696452583424/LAUf9VO__normal.jpg",
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 1230,
+          "like_count": 3625,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 3533
+        },
+        "username": "indianauthority",
+        "verified": false
+      },
+      {
+        "id": "1992919804441980928",
+        "name": "annullifier",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992920398590095360/93ZlXKOI_normal.jpg",
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 111,
+          "like_count": 1628,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 4207
+        },
+        "username": "annullifier",
+        "verified": false
+      },
+      {
+        "id": "5358642",
+        "name": "Andy Wasklewicz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1694056081977417732/vWSMGx9g_normal.jpg",
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 3814,
+          "like_count": 23060,
+          "listed_count": 143,
+          "media_count": 1087,
+          "tweet_count": 19180
+        },
+        "username": "calisurf",
+        "verified": false
+      },
+      {
+        "id": "1520916191052808194",
+        "name": "JulieSimone",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089748863011684352/uXEknB82_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2053,
+          "following_count": 749,
+          "like_count": 77341,
+          "listed_count": 39,
+          "media_count": 3800,
+          "tweet_count": 86360
+        },
+        "username": "JulieSimone15",
+        "verified": false
+      },
+      {
+        "id": "905466858685448196",
+        "name": "leland",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010854212691718144/QN82ZAnR_normal.jpg",
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 47,
+          "like_count": 2936,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 867
+        },
+        "username": "Hazy19L",
+        "verified": false
+      },
+      {
+        "id": "14124053",
+        "name": "Ben Xiang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995764860337225728/wDCGTXnO_normal.jpg",
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 102,
+          "like_count": 14,
+          "listed_count": 6,
+          "media_count": 45,
+          "tweet_count": 437
+        },
+        "username": "benxiang",
+        "verified": false
+      },
+      {
+        "id": "2054011306257330176",
+        "name": "Σοφία",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095080488029634560/aZVTQ0pd_normal.jpg",
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 195,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1024
+        },
+        "username": "sophiafeelstoo",
+        "verified": false
+      },
+      {
+        "id": "2303889757",
+        "name": "Robert O'Reilly 🤔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/614125841077800961/YskQKn72_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 301,
+          "like_count": 166533,
+          "listed_count": 16,
+          "media_count": 350,
+          "tweet_count": 11472
+        },
+        "username": "whentoletgo",
+        "verified": false
+      },
+      {
+        "id": "135647479",
+        "name": "Jeffrey Towson 陶迅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
+        "public_metrics": {
+          "followers_count": 5832,
+          "following_count": 1273,
+          "like_count": 33818,
+          "listed_count": 159,
+          "media_count": 3985,
+          "tweet_count": 21523
+        },
+        "username": "JeffreyTowson",
+        "verified": false
+      },
+      {
+        "id": "2079316071925108736",
+        "name": "weibiotic",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106142983985020928/X8KFKIsR_normal.jpg",
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 45,
+          "like_count": 3,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 1305
+        },
+        "username": "weibiotic",
+        "verified": false
+      },
+      {
+        "id": "13682312",
+        "name": "Adam Jacob",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/942839783402889216/H44OYbaK_normal.jpg",
+        "public_metrics": {
+          "followers_count": 20258,
+          "following_count": 1506,
+          "like_count": 1765,
+          "listed_count": 562,
+          "media_count": 729,
+          "tweet_count": 49718
+        },
+        "username": "adamhjk",
+        "verified": false
+      },
+      {
+        "id": "15948323",
+        "name": "🧩 David Turner",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742230611165691904/VjEpR816_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1454,
+          "following_count": 5059,
+          "like_count": 18977,
+          "listed_count": 32,
+          "media_count": 204,
+          "tweet_count": 5457
+        },
+        "username": "wdavidturner",
+        "verified": false
+      },
+      {
+        "id": "899746986",
+        "name": "Why choose 🇺🇸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820891022081110017/miDJsXWm_normal.jpg",
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 277,
+          "like_count": 1202,
+          "listed_count": 12,
+          "media_count": 13,
+          "tweet_count": 241
+        },
+        "username": "whycoose",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120683305104523339",
+    "next_token": "b26v89c19zqg8o3juzovcantkjesp6ck1p84zynp27059",
+    "oldest_id": "2120670585034580443",
+    "result_count": 15
+  }
+}

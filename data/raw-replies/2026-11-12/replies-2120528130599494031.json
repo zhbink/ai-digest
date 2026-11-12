@@ -1,0 +1,928 @@
+{
+  "data": [
+    {
+      "author_id": "2095722313744601088",
+      "conversation_id": "2120528130599494031",
+      "created_at": "2026-11-11T17:45:29.000Z",
+      "edit_history_tweet_ids": [
+        "2120573644326006988"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1717726640040783872",
+            "start": 0,
+            "username": "bozhou_ai"
+          }
+        ]
+      },
+      "id": "2120573644326006988",
+      "in_reply_to_user_id": "1717726640040783872",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120528130599494031",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bozhou_ai 你说的前后关系顺，比瓦片柱子齐不齐更吸引我。中式院子那种一层层往里走的感觉，确实很吃空间安排。",
+      "url": "https://x.com/Rennix7t/status/2120573644326006988"
+    },
+    {
+      "author_id": "1877440800",
+      "conversation_id": "2120528130599494031",
+      "created_at": "2026-11-11T17:39:40.000Z",
+      "edit_history_tweet_ids": [
+        "2120572180282872159"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1717726640040783872",
+            "start": 0,
+            "username": "bozhou_ai"
+          }
+        ]
+      },
+      "id": "2120572180282872159",
+      "in_reply_to_user_id": "1717726640040783872",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 19,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120528130599494031",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bozhou_ai 19.5 元/月，每月 2 万 Credits 有点心动了，这应该是目前最便宜的办公 Agent 吧？",
+      "url": "https://x.com/li9292/status/2120572180282872159"
+    },
+    {
+      "author_id": "1897834360143069185",
+      "conversation_id": "2120528130599494031",
+      "created_at": "2026-11-11T16:28:21.000Z",
+      "edit_history_tweet_ids": [
+        "2120554230692167749"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1717726640040783872",
+            "start": 0,
+            "username": "bozhou_ai"
+          }
+        ]
+      },
+      "id": "2120554230692167749",
+      "in_reply_to_user_id": "1717726640040783872",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120528130599494031",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bozhou_ai 脚本搭小院时，灯光能单独调参数再重跑吗？想看换一轮月色时，能不能保住墙和屋顶原来的摆位。",
+      "url": "https://x.com/jacewbuilds/status/2120554230692167749"
+    },
+    {
+      "author_id": "2032661989445476352",
+      "conversation_id": "2120528130599494031",
+      "created_at": "2026-11-11T16:12:23.000Z",
+      "edit_history_tweet_ids": [
+        "2120550213714891130"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1717726640040783872",
+            "start": 0,
+            "username": "bozhou_ai"
+          }
+        ]
+      },
+      "id": "2120550213714891130",
+      "in_reply_to_user_id": "1717726640040783872",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 19,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120528130599494031",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bozhou_ai 最想看的下一步，是给这个院子来一次“甲方只改一点点”：月洞门挪半米，其他建筑、灯光和镜头都别动。第一次搭出来很爽，局部改稿还能守住原来的空间关系，才真的让人敢继续做下去。你试过这种定点修改吗？",
+      "url": "https://x.com/EarZongs/status/2120550213714891130"
+    },
+    {
+      "author_id": "2086105516800151552",
+      "conversation_id": "2120528130599494031",
+      "created_at": "2026-11-11T15:58:25.000Z",
+      "edit_history_tweet_ids": [
+        "2120546699860984065"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1717726640040783872",
+            "start": 0,
+            "username": "bozhou_ai"
+          }
+        ]
+      },
+      "id": "2120546699860984065",
+      "in_reply_to_user_id": "1717726640040783872",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 34,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120528130599494031",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bozhou_ai Absolutely fascinating! The ability to turn a simple prompt into such beautiful, culturally rich 3D architecture is amazing.",
+      "url": "https://x.com/alessiatechai/status/2120546699860984065"
+    },
+    {
+      "author_id": "1529821061411246081",
+      "conversation_id": "2120528130599494031",
+      "created_at": "2026-11-11T15:57:45.000Z",
+      "edit_history_tweet_ids": [
+        "2120546531661238594"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1717726640040783872",
+            "start": 0,
+            "username": "bozhou_ai"
+          }
+        ]
+      },
+      "id": "2120546531661238594",
+      "in_reply_to_user_id": "1717726640040783872",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 70,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120528130599494031",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bozhou_ai 国产大模型进步很快，中间那个四角的亭子用来做什么的？",
+      "url": "https://x.com/indiehackercase/status/2120546531661238594"
+    },
+    {
+      "author_id": "1384931136321720329",
+      "conversation_id": "2120528130599494031",
+      "created_at": "2026-11-11T15:43:28.000Z",
+      "edit_history_tweet_ids": [
+        "2120542938438525306"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1717726640040783872",
+            "start": 0,
+            "username": "bozhou_ai"
+          }
+        ]
+      },
+      "id": "2120542938438525306",
+      "in_reply_to_user_id": "1717726640040783872",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 18,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120528130599494031",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bozhou_ai 模型写脚本 Blender 执行\n这套工作流是真顺",
+      "url": "https://x.com/KreiDeng/status/2120542938438525306"
+    },
+    {
+      "author_id": "1996265669093216256",
+      "conversation_id": "2120528130599494031",
+      "created_at": "2026-11-11T15:16:15.000Z",
+      "edit_history_tweet_ids": [
+        "2120536087890108458"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1717726640040783872",
+            "start": 0,
+            "username": "bozhou_ai"
+          }
+        ]
+      },
+      "id": "2120536087890108458",
+      "in_reply_to_user_id": "1717726640040783872",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120528130599494031",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bozhou_ai 月亮那块光是脚本打的还是 HDRI？",
+      "url": "https://x.com/ermengzhu/status/2120536087890108458"
+    },
+    {
+      "author_id": "1847211562576351232",
+      "conversation_id": "2120528130599494031",
+      "created_at": "2026-11-11T15:15:40.000Z",
+      "edit_history_tweet_ids": [
+        "2120535939059749289"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1717726640040783872",
+            "start": 0,
+            "username": "bozhou_ai"
+          }
+        ]
+      },
+      "id": "2120535939059749289",
+      "in_reply_to_user_id": "1717726640040783872",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 13,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120528130599494031",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bozhou_ai 单句提示就出这种效果，比之前自己对着Blender一点一点调快多了",
+      "url": "https://x.com/hank_aibtc/status/2120535939059749289"
+    },
+    {
+      "author_id": "1789757492873789440",
+      "conversation_id": "2120528130599494031",
+      "created_at": "2026-11-11T15:07:37.000Z",
+      "edit_history_tweet_ids": [
+        "2120533912799838618"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1717726640040783872",
+            "start": 0,
+            "username": "bozhou_ai"
+          }
+        ]
+      },
+      "id": "2120533912799838618",
+      "in_reply_to_user_id": "1717726640040783872",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 20,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120528130599494031",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bozhou_ai blender3D  真厉害啊",
+      "url": "https://x.com/qihang_zeng6688/status/2120533912799838618"
+    },
+    {
+      "author_id": "2104561644538097664",
+      "conversation_id": "2120528130599494031",
+      "created_at": "2026-11-11T15:02:29.000Z",
+      "edit_history_tweet_ids": [
+        "2120532621306569137"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1717726640040783872",
+            "start": 0,
+            "username": "bozhou_ai"
+          }
+        ]
+      },
+      "id": "2120532621306569137",
+      "in_reply_to_user_id": "1717726640040783872",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 19,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120528130599494031",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bozhou_ai 一句提示词就搭出完整的江南小院，月洞门和太湖石层次很顺，空间感确实强",
+      "url": "https://x.com/Taogso/status/2120532621306569137"
+    },
+    {
+      "author_id": "1717726640040783872",
+      "conversation_id": "2120528130599494031",
+      "created_at": "2026-11-11T15:00:31.000Z",
+      "edit_history_tweet_ids": [
+        "2120532128563900747"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1988444203224076288",
+            "start": 0,
+            "username": "leaf_sanren"
+          }
+        ]
+      },
+      "id": "2120532128563900747",
+      "in_reply_to_user_id": "1988444203224076288",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 49,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120529951132909710",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@leaf_sanren 是的",
+      "url": "https://x.com/bozhou_ai/status/2120532128563900747"
+    },
+    {
+      "author_id": "1717726640040783872",
+      "conversation_id": "2120528130599494031",
+      "created_at": "2026-11-11T15:00:22.000Z",
+      "edit_history_tweet_ids": [
+        "2120532088588022176"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1974653328274714624",
+            "start": 0,
+            "username": "AYi_AInotes"
+          }
+        ]
+      },
+      "id": "2120532088588022176",
+      "in_reply_to_user_id": "1974653328274714624",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 80,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120530407083180423",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 是的 效果这不错",
+      "url": "https://x.com/bozhou_ai/status/2120532088588022176"
+    },
+    {
+      "author_id": "1966410309209669632",
+      "conversation_id": "2120528130599494031",
+      "created_at": "2026-11-11T14:58:58.000Z",
+      "edit_history_tweet_ids": [
+        "2120531737084309994"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1717726640040783872",
+            "start": 0,
+            "username": "bozhou_ai"
+          }
+        ]
+      },
+      "id": "2120531737084309994",
+      "in_reply_to_user_id": "1717726640040783872",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 21,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120528130599494031",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bozhou_ai 效果确实惊艳，尤其是四角亭的伞状顶和特意设计的月洞门。想问一下大概消耗了多少Credits？",
+      "url": "https://x.com/happy20250912/status/2120531737084309994"
+    },
+    {
+      "author_id": "1986748018943811585",
+      "conversation_id": "2120528130599494031",
+      "created_at": "2026-11-11T14:55:31.000Z",
+      "edit_history_tweet_ids": [
+        "2120530870910271929"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1717726640040783872",
+            "start": 0,
+            "username": "bozhou_ai"
+          }
+        ]
+      },
+      "id": "2120530870910271929",
+      "in_reply_to_user_id": "1717726640040783872",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 50,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120528130599494031",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bozhou_ai qwen max 视觉效果不错呀 \n还不到20块就可以试试了 性价比真不错",
+      "url": "https://x.com/xaiwind/status/2120530870910271929"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2120527072565354496"
+          ]
+        },
+        "author_id": "1717726640040783872",
+        "conversation_id": "2120528130599494031",
+        "created_at": "2026-11-11T14:44:38.000Z",
+        "edit_history_tweet_ids": [
+          "2120527233458860541",
+          "2120528130599494031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X3OiiHDc6g",
+              "end": 175,
+              "expanded_url": "https://x.com/bozhou_ai/status/2120528130599494031/video/1",
+              "media_key": "13_2120527072565354496",
+              "start": 152,
+              "url": "https://t.co/X3OiiHDc6g"
+            }
+          ]
+        },
+        "id": "2120528130599494031",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "白墙黛瓦、满月当空，这座江南小院不是我在软件里一点点抠出来的，\n\n是 Qwen4-Max 预览版写 Python 脚本，直接驱动 Blender 搭出来的。\n\n没用现成资产包，工作流跟之前 GPT-6 Astra 徒手搓 3D 场景是同一套：模型写脚本，Blender 负责执行。这次提示词也是只有一句\n\n使用blender3D建模，制作一个国风的江南水乡庭院建筑。\n\n结果就是你视频里看到的这座院子。\n\n镜头绕着院子走了一圈，能看见马头墙的错落、四角亭的伞状顶、亮着的格子门和廊下灯笼，\n\n还有太湖石、池水、和特意设计的月洞门，以及门外的竹子和石桥。\n\n很多人觉得中式院子难，难在空间会挤、层次会乱，\n但这次前后关系是顺的，看起来它知道「庭院深深」在三维坐标里该怎么排布。\n\n就好比你只把院子的意思交给它，它自己用代码把空间立了起来。\n\n我很喜欢这种骨子里的中式审美，不是那种把瓦片和柱子堆齐。\n\n想自己试的，可以走千问 AI 平台 Token Plan：个人版 Lite 新客限时 19.5 元/月，每月 2 万 Credits。\n\n现在能调的是 qwen4-max-preview，预览期到 11 月 25 日 24:00，到期后这个模型 ID 会下线。\n\n19.5 元只卖给从未买过 Token Plan 个人版的账号，优惠到 11 月 30 日；活动期间 Credits 消耗低至 2 折，最终价格以结算页为准。千问办公、Qoder、千问 APP、QwenStudio 也可以第一时间体验。"
+        },
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 3908,
+          "like_count": 35,
+          "quote_count": 8,
+          "reply_count": 25,
+          "retweet_count": 1
+        },
+        "text": "白墙黛瓦、满月当空，这座江南小院不是我在软件里一点点抠出来的，\n\n是 Qwen4-Max 预览版写 Python 脚本，直接驱动 Blender 搭出来的。\n\n没用现成资产包，工作流跟之前 GPT-6 Astra 徒手搓 3D 场景是同一套：模型写脚本，Blender 负责执行。这次提示词也是只有一句 https://t.co/X3OiiHDc6g"
+      },
+      {
+        "author_id": "1988444203224076288",
+        "conversation_id": "2120528130599494031",
+        "created_at": "2026-11-11T14:51:52.000Z",
+        "edit_history_tweet_ids": [
+          "2120529951132909710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1717726640040783872",
+              "start": 0,
+              "username": "bozhou_ai"
+            }
+          ]
+        },
+        "id": "2120529951132909710",
+        "in_reply_to_user_id": "1717726640040783872",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120528130599494031",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bozhou_ai 我靠，我现在觉得3D建模这儿，没有好的设备以及好的模型，是真的别碰了！"
+      },
+      {
+        "author_id": "1974653328274714624",
+        "conversation_id": "2120528130599494031",
+        "created_at": "2026-11-11T14:53:41.000Z",
+        "edit_history_tweet_ids": [
+          "2120530407083180423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1717726640040783872",
+              "start": 0,
+              "username": "bozhou_ai"
+            }
+          ]
+        },
+        "id": "2120530407083180423",
+        "in_reply_to_user_id": "1717726640040783872",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 209,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120528130599494031",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bozhou_ai 千问这波提升好大  竟然也能撸视频了哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "id": "2095722313744601088",
+        "name": "三分钟懂行",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095723157714079745/FCYlXwOT_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3503,
+          "following_count": 3104,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 278,
+          "tweet_count": 3536
+        },
+        "username": "Rennix7t",
+        "verified": false
+      },
+      {
+        "id": "1717726640040783872",
+        "name": "泊舟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040464227811590144/r1-3gG2y_normal.jpg",
+        "public_metrics": {
+          "followers_count": 33564,
+          "following_count": 858,
+          "like_count": 7838,
+          "listed_count": 395,
+          "media_count": 683,
+          "tweet_count": 6851
+        },
+        "username": "bozhou_ai",
+        "verified": false
+      },
+      {
+        "id": "1877440800",
+        "name": "李韭二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118025330070065153/vioD8tQq_normal.png",
+        "public_metrics": {
+          "followers_count": 20300,
+          "following_count": 937,
+          "like_count": 34208,
+          "listed_count": 156,
+          "media_count": 907,
+          "tweet_count": 13660
+        },
+        "username": "li9292",
+        "verified": false
+      },
+      {
+        "id": "1897834360143069185",
+        "name": "Jace W.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085204608394412033/6G3oKb7b_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1664,
+          "following_count": 2982,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 5823
+        },
+        "username": "jacewbuilds",
+        "verified": false
+      },
+      {
+        "id": "2032661989445476352",
+        "name": "Ear Zongs/耳朵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032662459501150208/qjJJagdY_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 42,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 180
+        },
+        "username": "EarZongs",
+        "verified": false
+      },
+      {
+        "id": "2086105516800151552",
+        "name": "alessia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115886796571639808/wx95VNmh_normal.jpg",
+        "public_metrics": {
+          "followers_count": 93717,
+          "following_count": 458,
+          "like_count": 954,
+          "listed_count": 122,
+          "media_count": 8,
+          "tweet_count": 747
+        },
+        "username": "alessiatechai",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      },
+      {
+        "id": "1529821061411246081",
+        "name": "Olivert",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977258121816162304/1hNmA_d8_normal.jpg",
+        "public_metrics": {
+          "followers_count": 33468,
+          "following_count": 6789,
+          "like_count": 630,
+          "listed_count": 278,
+          "media_count": 1957,
+          "tweet_count": 7972
+        },
+        "username": "indiehackercase",
+        "verified": false
+      },
+      {
+        "id": "1384931136321720329",
+        "name": "号齐Krei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119087886134067200/4-m3L0NO_normal.jpg",
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 134,
+          "like_count": 769,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 2911
+        },
+        "username": "KreiDeng",
+        "verified": false
+      },
+      {
+        "id": "1996265669093216256",
+        "name": "Austin 崔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095130611484925952/QKDIO-CH_normal.jpg",
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 919,
+          "like_count": 2000,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 2002
+        },
+        "username": "ermengzhu",
+        "verified": false
+      },
+      {
+        "id": "1847211562576351232",
+        "name": "HankAI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054604521201074176/fG8biPLI_normal.jpg",
+        "public_metrics": {
+          "followers_count": 5527,
+          "following_count": 1050,
+          "like_count": 3242,
+          "listed_count": 28,
+          "media_count": 764,
+          "tweet_count": 4502
+        },
+        "username": "hank_aibtc",
+        "verified": false
+      },
+      {
+        "id": "1789757492873789440",
+        "name": "启航",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073938920065404928/QZLDvyNS_normal.jpg",
+        "public_metrics": {
+          "followers_count": 22783,
+          "following_count": 515,
+          "like_count": 7940,
+          "listed_count": 87,
+          "media_count": 947,
+          "tweet_count": 4739
+        },
+        "username": "qihang_zeng6688",
+        "verified": false
+      },
+      {
+        "id": "2104561644538097664",
+        "name": "TaoGSO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104987834084216833/edlw7EDc_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2515,
+          "following_count": 2210,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 6386
+        },
+        "username": "Taogso",
+        "verified": false
+      },
+      {
+        "id": "1988444203224076288",
+        "name": "Leaf Yeah!",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075612818485792768/zgT9vETH_normal.jpg",
+        "public_metrics": {
+          "followers_count": 5634,
+          "following_count": 158,
+          "like_count": 383,
+          "listed_count": 36,
+          "media_count": 745,
+          "tweet_count": 5880
+        },
+        "username": "leaf_sanren",
+        "verified": false
+      },
+      {
+        "id": "1974653328274714624",
+        "name": "AYi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989157446829350912/pW828UwK_normal.jpg",
+        "public_metrics": {
+          "followers_count": 82354,
+          "following_count": 671,
+          "like_count": 23039,
+          "listed_count": 740,
+          "media_count": 2304,
+          "tweet_count": 20756
+        },
+        "username": "AYi_AInotes",
+        "verified": false
+      },
+      {
+        "id": "1966410309209669632",
+        "name": "硅谷AI玩家",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966415574898192387/ZkqzbNda_normal.jpg",
+        "public_metrics": {
+          "followers_count": 13978,
+          "following_count": 15170,
+          "like_count": 8096,
+          "listed_count": 8,
+          "media_count": 206,
+          "tweet_count": 3730
+        },
+        "username": "happy20250912",
+        "verified": false
+      },
+      {
+        "id": "1986748018943811585",
+        "name": "想风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117527487886598144/Bsh1YF08_normal.jpg",
+        "public_metrics": {
+          "followers_count": 6574,
+          "following_count": 567,
+          "like_count": 14187,
+          "listed_count": 36,
+          "media_count": 928,
+          "tweet_count": 8223
+        },
+        "username": "xaiwind",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120573644326006988",
+    "next_token": "b26v89c19zqg8o3juzovc8hw9il8likn2to8my7q2vf5p",
+    "oldest_id": "2120530870910271929",
+    "result_count": 15
+  }
+}

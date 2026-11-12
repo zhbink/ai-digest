@@ -1,0 +1,240 @@
+{
+  "data": [
+    {
+      "author_id": "1796722170032435200",
+      "conversation_id": "2120528311361450151",
+      "created_at": "2026-11-11T16:01:46.000Z",
+      "edit_history_tweet_ids": [
+        "2120547541137690729"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1657474831",
+            "start": 0,
+            "username": "Gorden_Sun"
+          }
+        ]
+      },
+      "id": "2120547541137690729",
+      "in_reply_to_user_id": "1657474831",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120528311361450151",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun The action injection idea is what makes this useful beyond video generation. If the model can show different outcomes from the same scene, it becomes a planning tool for robots, not just a way to render a scene.",
+      "url": "https://x.com/Frank_brilliant/status/2120547541137690729"
+    },
+    {
+      "author_id": "2116855896982843394",
+      "conversation_id": "2120528311361450151",
+      "created_at": "2026-11-11T14:57:23.000Z",
+      "edit_history_tweet_ids": [
+        "2120531340877852891"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1657474831",
+            "start": 0,
+            "username": "Gorden_Sun"
+          }
+        ]
+      },
+      "id": "2120531340877852891",
+      "in_reply_to_user_id": "1657474831",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120528311361450151",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun Predicting the next world instead of the next word is the right frame — but the test isn’t a rendered surfer, it’s whether the prediction survives contact with a real robot.",
+      "url": "https://x.com/ROSEdoqj/status/2120531340877852891"
+    },
+    {
+      "author_id": "2054800349408768000",
+      "conversation_id": "2120528311361450151",
+      "created_at": "2026-11-11T14:55:38.000Z",
+      "edit_history_tweet_ids": [
+        "2120530896776257647"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1657474831",
+            "start": 0,
+            "username": "Gorden_Sun"
+          }
+        ]
+      },
+      "id": "2120530896776257647",
+      "in_reply_to_user_id": "1657474831",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "再补几个官方限制：PAN 2 不是单颗 29B 模型包打天下。它先由一个大语言模型写出带时间锚点的状态描述（事件、谁在何时做什么、镜头怎么动），再由从零训练的 29B MMDiT 感知骨干生成视频潜变量，最后用 Wan 2.2 VAE 解码。GitHub 写的是 29.2B 参数；最长 20 秒、704×1248、24 fps。代码和权重是 Apache 2.0，但每个 worker 要按 BF16 装下整颗 29B，更像数据中心里的模拟器，不是笔记本能随时跑的物理引擎。适合先在模拟里比较候选动作，再决定要不要真做。"
+      },
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 13,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120528311361450151",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 再补几个官方限制：PAN 2 不是单颗 29B 模型包打天下。它先由一个大语言模型写出带时间锚点的状态描述（事件、谁在何时做什么、镜头怎么动），再由从零训练的 29B MMDiT 感知骨干生成视频潜变量，最后用 Wan 2.2 VAE 解码。GitHub 写的是 29.2B 参数；最长 20 秒、704×1248、24 fps。代码和权重是",
+      "url": "https://x.com/wangchuan0056/status/2120530896776257647"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1657474831",
+        "conversation_id": "2120528311361450151",
+        "created_at": "2026-11-11T14:45:21.000Z",
+        "edit_history_tweet_ids": [
+          "2120528311361450151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IFM_AI/status/…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/IFM_AI/status/2120199814696828942",
+              "start": 110,
+              "url": "https://t.co/IKpvfwdgq5"
+            }
+          ]
+        },
+        "id": "2120528311361450151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "huggingface.co/IFM/PAN2",
+                "end": 221,
+                "expanded_url": "https://huggingface.co/IFM/PAN2",
+                "start": 198,
+                "url": "https://t.co/IA5demU3E6"
+              }
+            ]
+          },
+          "text": "PAN 2：能模拟真实物理规律的开源世界模型\n\n架构上结合了多模态大语言模型与29B参数的隐式扩散模型，系统可以在执行动作前精准预测后续发展，支持在特定时间点注入动作并呈现不同后果，比如冲浪者提前或延后起身的真实结果。\n生成的模拟完全符合物理规律，比如牛奶与墨水在水中的扩散沉降、海绵受挤压变形和回弹；视角转动一圈后再转回来时，离开视野的物体依然保持原状与位置，保证了空间前后的一致性。\n\n模型：https://t.co/IA5demU3E6"
+        },
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1284,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120199814696828942",
+            "type": "quoted"
+          }
+        ],
+        "text": "PAN 2：能模拟真实物理规律的开源世界模型\n\n架构上结合了多模态大语言模型与29B参数的隐式扩散模型，系统可以在执行动作前精准预测后续发展，支持在特定时间点注入动作并呈现不同后果，比如冲浪者提前或延后起身的真实结果。 https://t.co/IKpvfwdgq5"
+      }
+    ],
+    "users": [
+      {
+        "id": "1796722170032435200",
+        "name": "Frank Brilliant",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796722242669486080/pkm28Q4L_normal.png",
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 458,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 952
+        },
+        "username": "Frank_brilliant",
+        "verified": false
+      },
+      {
+        "id": "1657474831",
+        "name": "Gorden Sun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1522159828231409664/GPpXyPT1_normal.jpg",
+        "public_metrics": {
+          "followers_count": 70366,
+          "following_count": 1759,
+          "like_count": 249,
+          "listed_count": 991,
+          "media_count": 3682,
+          "tweet_count": 9534
+        },
+        "username": "Gorden_Sun",
+        "verified": false
+      },
+      {
+        "id": "2116855896982843394",
+        "name": "Allie K. Miller",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116893880725716992/9Y7JQ6k6_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 17,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 136
+        },
+        "username": "ROSEdoqj",
+        "verified": false
+      },
+      {
+        "id": "2054800349408768000",
+        "name": "忘川",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054800419306795008/BAZ0VVBB_normal.jpg",
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 127,
+          "like_count": 350,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 304
+        },
+        "username": "wangchuan0056",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120547541137690729",
+    "next_token": "b26v89c19zqg8o3juzovc8hw9ilas76a6fs2s2w0gx7y5",
+    "oldest_id": "2120530896776257647",
+    "result_count": 3
+  }
+}

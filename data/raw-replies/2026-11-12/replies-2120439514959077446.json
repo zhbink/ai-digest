@@ -1,0 +1,882 @@
+{
+  "data": [
+    {
+      "author_id": "1384931136321720329",
+      "conversation_id": "2120439514959077446",
+      "created_at": "2026-11-11T16:25:50.000Z",
+      "edit_history_tweet_ids": [
+        "2120553599751303494"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "452072245",
+            "start": 0,
+            "username": "lxfater"
+          }
+        ]
+      },
+      "id": "2120553599751303494",
+      "in_reply_to_user_id": "452072245",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120439514959077446",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lxfater 四五个订阅合一个确实省事",
+      "url": "https://x.com/KreiDeng/status/2120553599751303494"
+    },
+    {
+      "author_id": "2112065993837367296",
+      "conversation_id": "2120439514959077446",
+      "created_at": "2026-11-11T16:05:42.000Z",
+      "edit_history_tweet_ids": [
+        "2120548533023776803"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "452072245",
+            "start": 0,
+            "username": "lxfater"
+          }
+        ]
+      },
+      "id": "2120548533023776803",
+      "in_reply_to_user_id": "452072245",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120439514959077446",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lxfater 一个顶五个挺香",
+      "url": "https://x.com/Chensisyphus/status/2120548533023776803"
+    },
+    {
+      "author_id": "1696848026474786816",
+      "conversation_id": "2120439514959077446",
+      "created_at": "2026-11-11T15:57:55.000Z",
+      "edit_history_tweet_ids": [
+        "2120546572421243019"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "452072245",
+            "start": 0,
+            "username": "lxfater"
+          }
+        ]
+      },
+      "id": "2120546572421243019",
+      "in_reply_to_user_id": "452072245",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120439514959077446",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lxfater Mac only 这点没人提——Windows 用户想省这份钱，连门都摸不着。",
+      "url": "https://x.com/bitbird2014/status/2120546572421243019"
+    },
+    {
+      "author_id": "2085656667770040320",
+      "conversation_id": "2120439514959077446",
+      "created_at": "2026-11-11T15:15:47.000Z",
+      "edit_history_tweet_ids": [
+        "2120535968918929810"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "452072245",
+            "start": 0,
+            "username": "lxfater"
+          }
+        ]
+      },
+      "id": "2120535968918929810",
+      "in_reply_to_user_id": "452072245",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120439514959077446",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lxfater 友情捧场捧出个真香现场：每个 AI 工具只做一小截，订阅费倒是按整套收，合体才是刚需。",
+      "url": "https://x.com/tibopake/status/2120535968918929810"
+    },
+    {
+      "author_id": "2078757475722076160",
+      "conversation_id": "2120439514959077446",
+      "created_at": "2026-11-11T14:14:23.000Z",
+      "edit_history_tweet_ids": [
+        "2120520516532625459"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "452072245",
+            "start": 0,
+            "username": "lxfater"
+          }
+        ]
+      },
+      "id": "2120520516532625459",
+      "in_reply_to_user_id": "452072245",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120439514959077446",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lxfater 工具割裂这点深有同感：我现在也把翻译、配音、写 listing 尽量收进一两个入口，订阅一多就失控。整合值不值，关键看高频功能占几成，低频功能别为它买单。",
+      "url": "https://x.com/HeadlineThtr/status/2120520516532625459"
+    },
+    {
+      "author_id": "452072245",
+      "conversation_id": "2120439514959077446",
+      "created_at": "2026-11-11T14:12:38.000Z",
+      "edit_history_tweet_ids": [
+        "2120520076097093660"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "2012716688811474944",
+            "start": 0,
+            "username": "deepcarryai"
+          }
+        ]
+      },
+      "id": "2120520076097093660",
+      "in_reply_to_user_id": "2012716688811474944",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 105,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120517677009743886",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@deepcarryai 我感觉还是可以的呀 很多工具集合了",
+      "url": "https://x.com/lxfater/status/2120520076097093660"
+    },
+    {
+      "author_id": "2012716688811474944",
+      "conversation_id": "2120439514959077446",
+      "created_at": "2026-11-11T14:03:06.000Z",
+      "edit_history_tweet_ids": [
+        "2120517677009743886"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "452072245",
+            "start": 0,
+            "username": "lxfater"
+          }
+        ]
+      },
+      "id": "2120517677009743886",
+      "in_reply_to_user_id": "452072245",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 103,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120439514959077446",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lxfater 今天看到好几个博主夸这个软件了，都夸的特别厉害！\n看到你们夸这么厉害之后，我好怕我去试用了之后，没有你们夸的这么厉害...",
+      "url": "https://x.com/deepcarryai/status/2120517677009743886"
+    },
+    {
+      "author_id": "2084811423297998848",
+      "conversation_id": "2120439514959077446",
+      "created_at": "2026-11-11T13:47:23.000Z",
+      "edit_history_tweet_ids": [
+        "2120513724939448707"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "452072245",
+            "start": 0,
+            "username": "lxfater"
+          }
+        ]
+      },
+      "id": "2120513724939448707",
+      "in_reply_to_user_id": "452072245",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120439514959077446",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lxfater 划词翻译、语音输入、实时字幕各收一份钱，这割裂感太真了。能收进一个入口，订阅账本会干净很多。就看单项能力能不能跟上原来那些专精工具。",
+      "url": "https://x.com/han8jrp/status/2120513724939448707"
+    },
+    {
+      "author_id": "2057666622551412736",
+      "conversation_id": "2120439514959077446",
+      "created_at": "2026-11-11T13:24:37.000Z",
+      "edit_history_tweet_ids": [
+        "2120507994958143595"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "452072245",
+            "start": 0,
+            "username": "lxfater"
+          }
+        ]
+      },
+      "id": "2120507994958143595",
+      "in_reply_to_user_id": "452072245",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120439514959077446",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lxfater 这些工具分开装的时候，我最烦的其实是快捷键互相冲突，不是订阅费。EnConvo 把它们放到一起以后，快捷键是统一管的吗",
+      "url": "https://x.com/BeiYu6i/status/2120507994958143595"
+    },
+    {
+      "author_id": "14696397",
+      "conversation_id": "2120439514959077446",
+      "created_at": "2026-11-11T12:35:49.000Z",
+      "edit_history_tweet_ids": [
+        "2120495713859797461"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "452072245",
+            "start": 0,
+            "username": "lxfater"
+          }
+        ]
+      },
+      "id": "2120495713859797461",
+      "in_reply_to_user_id": "452072245",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120439514959077446",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lxfater 卸掉四五个订阅，省的不只是钱。划词、语音、字幕各一份订阅，也各一份权限、各一个快捷键、各记一份你的上下文。合成一个入口之后，最该看的反而是：它拿到的权限是不是也合成了一大份。",
+      "url": "https://x.com/Suchuanyi/status/2120495713859797461"
+    },
+    {
+      "author_id": "2110317221830639616",
+      "conversation_id": "2120439514959077446",
+      "created_at": "2026-11-11T12:31:38.000Z",
+      "edit_history_tweet_ids": [
+        "2120494659130863824"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "452072245",
+            "start": 0,
+            "username": "lxfater"
+          }
+        ]
+      },
+      "id": "2120494659130863824",
+      "in_reply_to_user_id": "452072245",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 58,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120439514959077446",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lxfater 划词翻译、语音输入、实时字幕各订一份，确实是现在 AI 工具最割裂的地方。好奇 EnConvo 这些功能是全走云端模型，还是能接本地模型来跑？",
+      "url": "https://x.com/OnyxBuilds_666/status/2120494659130863824"
+    },
+    {
+      "author_id": "1897834360143069185",
+      "conversation_id": "2120439514959077446",
+      "created_at": "2026-11-11T12:02:48.000Z",
+      "edit_history_tweet_ids": [
+        "2120487403723108589"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "452072245",
+            "start": 0,
+            "username": "lxfater"
+          }
+        ]
+      },
+      "id": "2120487403723108589",
+      "in_reply_to_user_id": "452072245",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 31,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120439514959077446",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lxfater EnConvo 的划词翻译和语音输入能各配一套快捷键吗？我会先试试它们和系统输入法会不会撞键。",
+      "url": "https://x.com/jacewbuilds/status/2120487403723108589"
+    },
+    {
+      "author_id": "2063647126819868673",
+      "conversation_id": "2120439514959077446",
+      "created_at": "2026-11-11T11:59:50.000Z",
+      "edit_history_tweet_ids": [
+        "2120486658286252072"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "452072245",
+            "start": 0,
+            "username": "lxfater"
+          }
+        ]
+      },
+      "id": "2120486658286252072",
+      "in_reply_to_user_id": "452072245",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 99,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120439514959077446",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lxfater 我现在就是这样，翻译一个、写代码一个、改语法再一个，月底对账单比成绩单还难看😂\n真能塞进一个软件里，我先把那几个订阅砍了。",
+      "url": "https://x.com/Jonasxu000/status/2120486658286252072"
+    },
+    {
+      "author_id": "912641810148745217",
+      "conversation_id": "2120439514959077446",
+      "created_at": "2026-11-11T11:37:30.000Z",
+      "edit_history_tweet_ids": [
+        "2120481038510002519"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "452072245",
+            "start": 0,
+            "username": "lxfater"
+          }
+        ]
+      },
+      "id": "2120481038510002519",
+      "in_reply_to_user_id": "452072245",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 75,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120439514959077446",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lxfater 工具割裂确实烦，光切窗口就能把思路切没了。好奇卸载的那几个，是能力被完整替代了，还是主要把入口合到了一起？有没有哪类任务，整合后反而没原来的专用工具顺手？",
+      "url": "https://x.com/yolohair/status/2120481038510002519"
+    },
+    {
+      "author_id": "1501907872627576832",
+      "conversation_id": "2120439514959077446",
+      "created_at": "2026-11-11T11:03:07.000Z",
+      "edit_history_tweet_ids": [
+        "2120472384046325901"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "452072245",
+            "start": 0,
+            "username": "lxfater"
+          }
+        ]
+      },
+      "id": "2120472384046325901",
+      "in_reply_to_user_id": "452072245",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 84,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120439514959077446",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lxfater 划词翻译、语音输入、实时字幕各订一份，叠起来确实比一个打包客户端更容易超支。",
+      "url": "https://x.com/ntyxg/status/2120472384046325901"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_2120439485741584384"
+          ]
+        },
+        "author_id": "452072245",
+        "conversation_id": "2120439514959077446",
+        "created_at": "2026-11-11T08:52:30.000Z",
+        "edit_history_tweet_ids": [
+          "2120439514959077446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ozbdS8FLB9",
+              "end": 175,
+              "expanded_url": "https://x.com/lxfater/status/2120439514959077446/video/1",
+              "media_key": "7_2120439485741584384",
+              "start": 152,
+              "url": "https://t.co/ozbdS8FLB9"
+            }
+          ]
+        },
+        "id": "2120439514959077446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "enconvo.com",
+                "end": 902,
+                "expanded_url": "https://enconvo.com",
+                "start": 879,
+                "url": "https://t.co/nZRwIJj7M8"
+              }
+            ]
+          },
+          "text": "最近为了支持一个朋友创业，我花钱买了他做的 Mac 软件 EnConvo\n本来只是想友情捧个场，结果体验完一整天，我直接把电脑上四五个单独订阅的 AI 工具全卸载了！！\n\n你们有没有发现，现在市面上的 AI 工具特别割裂？\n\n做划词翻译的收你一份钱，做语音输入的收你一份钱，做实时字幕的还要再收你一份钱\n但他直接把这些别人拆开单卖的十几个独立产品，全塞进了同一套个人 Agent 系统里\n\n就拿我昨天用它干活的一整天，给你看看它的生产效率：\n\n早上我坐在电脑前刷 X 找选题、回微信消息。以前得在浏览器和聊天框之间来回切窗口、复制粘贴\n现在把鼠标移到屏幕顶部的灵动岛，在屏幕上随便画个圈就能直接问 AI，选中文字弹出工具条就能秒改文案，按住快捷键说话就能直接把字打进光标位置\n\n当然这些都是常见的功能，但凑在一起用起来就舒服多了，而且它的功能还不止这些：\n\n上午刷英文视频和硅谷访谈生肉找素材的时候，我连翻译插件都没开！！\n直接打开它的实时字幕和翻译，电脑放出来的英文原声就能显示中文字幕\n\n到了中午，我不想自己手动填一堆网页表单\n我就直接开口跟桌面上的 3D 数字人 Mavis 说话，让她自己操作浏览器去帮我查资料、填表\n\n人在电脑前是爽了，但我现在身体熬不住久坐，下午离开电脑去休息或者出门的时候怎么办呢？\n\n它还有个很贴心的功能！！\n\n下午我躺在沙发上休息，电脑上的任务需要我确认，Mavis 居然直接给我的 iPhone 打了个语音电话！！\n我接起电话，就能用语音回答它的问题。另外，还能用手机查看 Mac 的屏幕，远程控制电脑继续跑任务\n\n说实话，我一开始还跟朋友吐槽它功能太多，像个百宝箱一样\n但用顺手之后你会发现，它本质上就是把你的 Mac 和手机彻底连成了一个随时能叫得应的私人助理\n\n而且你可以直接登录自己的 ChatGPT、Claude 会员账号，也可以使用自己的 API Key！！\n我自己在设置里把 Beta 内测通道打开了，他们几乎每天都在更新新功能\n\n如果你也烦透了在电脑上装十几个零碎的 AI 插件，真可以去试试这个百宝箱：\nhttps://t.co/nZRwIJj7M8"
+        },
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 6873,
+          "like_count": 36,
+          "quote_count": 2,
+          "reply_count": 39,
+          "retweet_count": 4
+        },
+        "text": "最近为了支持一个朋友创业，我花钱买了他做的 Mac 软件 EnConvo\n本来只是想友情捧个场，结果体验完一整天，我直接把电脑上四五个单独订阅的 AI 工具全卸载了！！\n\n你们有没有发现，现在市面上的 AI 工具特别割裂？\n\n做划词翻译的收你一份钱，做语音输入的收你一份钱，做实时字幕的还要再收你一份钱 https://t.co/ozbdS8FLB9"
+      },
+      {
+        "author_id": "2012716688811474944",
+        "conversation_id": "2120439514959077446",
+        "created_at": "2026-11-11T14:03:06.000Z",
+        "edit_history_tweet_ids": [
+          "2120517677009743886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "452072245",
+              "start": 0,
+              "username": "lxfater"
+            }
+          ]
+        },
+        "id": "2120517677009743886",
+        "in_reply_to_user_id": "452072245",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120439514959077446",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@lxfater 今天看到好几个博主夸这个软件了，都夸的特别厉害！\n看到你们夸这么厉害之后，我好怕我去试用了之后，没有你们夸的这么厉害..."
+      }
+    ],
+    "users": [
+      {
+        "id": "1384931136321720329",
+        "name": "号齐Krei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119087886134067200/4-m3L0NO_normal.jpg",
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 134,
+          "like_count": 769,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 2911
+        },
+        "username": "KreiDeng",
+        "verified": false
+      },
+      {
+        "id": "452072245",
+        "name": "铁锤人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005527237874089984/LyyR6wom_normal.jpg",
+        "public_metrics": {
+          "followers_count": 109271,
+          "following_count": 1429,
+          "like_count": 8877,
+          "listed_count": 1310,
+          "media_count": 1591,
+          "tweet_count": 14708
+        },
+        "username": "lxfater",
+        "verified": false
+      },
+      {
+        "id": "2112065993837367296",
+        "name": "Chen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2112066896581599232/vXIiOCcb_normal.jpg",
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 400,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 264
+        },
+        "username": "Chensisyphus",
+        "verified": false
+      },
+      {
+        "id": "1696848026474786816",
+        "name": "Leon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696855117339770880/Hd80JrH5_normal.jpg",
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 629,
+          "like_count": 672,
+          "listed_count": 6,
+          "media_count": 294,
+          "tweet_count": 3937
+        },
+        "username": "bitbird2014",
+        "verified": false
+      },
+      {
+        "id": "2085656667770040320",
+        "name": "Tibo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088507608504426497/NuPsIjB5_normal.jpg",
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 69,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 2531
+        },
+        "username": "tibopake",
+        "verified": false
+      },
+      {
+        "id": "2078757475722076160",
+        "name": "Headline Theater",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078758024412643328/O8FuzIp9_normal.jpg",
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 97,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 148
+        },
+        "username": "HeadlineThtr",
+        "verified": false
+      },
+      {
+        "id": "2012716688811474944",
+        "name": "Carry Lee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015492189594193920/gfpZ04KK_normal.jpg",
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 130,
+          "like_count": 498,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 331
+        },
+        "username": "deepcarryai",
+        "verified": false
+      },
+      {
+        "id": "2084811423297998848",
+        "name": "han",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087442979887964160/tZ9GbF7k_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1359,
+          "following_count": 2716,
+          "like_count": 2569,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 2911
+        },
+        "username": "han8jrp",
+        "verified": false
+      },
+      {
+        "id": "2057666622551412736",
+        "name": "BeiYu 北煜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057667068049420288/yZzTLNqN_normal.jpg",
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 68,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 146
+        },
+        "username": "BeiYu6i",
+        "verified": false
+      },
+      {
+        "id": "14696397",
+        "name": "gptkit.eth｜Personal Agent",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838539263165763585/be-rBoSe_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 4801,
+          "like_count": 4440,
+          "listed_count": 14,
+          "media_count": 463,
+          "tweet_count": 5044
+        },
+        "username": "Suchuanyi",
+        "verified": false
+      },
+      {
+        "id": "2110317221830639616",
+        "name": "onyx the cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2111478244818255872/-8DGEDDy_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2728,
+          "following_count": 2999,
+          "like_count": 1506,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 1071
+        },
+        "username": "OnyxBuilds_666",
+        "verified": false
+      },
+      {
+        "id": "1897834360143069185",
+        "name": "Jace W.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085204608394412033/6G3oKb7b_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1664,
+          "following_count": 2982,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 5823
+        },
+        "username": "jacewbuilds",
+        "verified": false
+      },
+      {
+        "id": "2063647126819868673",
+        "name": "Jonas Xu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108588809369899010/Hc3_3qQ6_normal.jpg",
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 184,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 151
+        },
+        "username": "Jonasxu000",
+        "verified": false
+      },
+      {
+        "id": "912641810148745217",
+        "name": "史蒂芬讲AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2111150326409732096/krJhW8o-_normal.png",
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 1710,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1816
+        },
+        "username": "yolohair",
+        "verified": false
+      },
+      {
+        "id": "1501907872627576832",
+        "name": "逆局玩家",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062162468139679744/6qFQOeVD_normal.jpg",
+        "public_metrics": {
+          "followers_count": 6961,
+          "following_count": 7500,
+          "like_count": 10363,
+          "listed_count": 2,
+          "media_count": 234,
+          "tweet_count": 9439
+        },
+        "username": "ntyxg",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120553599751303494",
+    "next_token": "b26v89c19zqg8o3juzovc6edcwb2kgxunu0cm3aw06265",
+    "oldest_id": "2120472384046325901",
+    "result_count": 15
+  }
+}

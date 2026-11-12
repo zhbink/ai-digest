@@ -1,0 +1,937 @@
+{
+  "data": [
+    {
+      "author_id": "2098117251073228803",
+      "created_at": "2026-11-12T00:43:18.000Z",
+      "edit_history_tweet_ids": [
+        "2120678787981459549"
+      ],
+      "id": "2120678787981459549",
+      "in_reply_to_user_id": "1890482682439823360",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120675102970749235",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@sarick @a16z Partly. The training after the base model is mostly bought and synthetic data now. But Anthropic's S-1 says its models still train on public internet data. And if models start improving themselves, they'll pull from the live web too... AI written stuff included",
+      "url": "https://x.com/AnishDAC/status/2120678787981459549"
+    },
+    {
+      "author_id": "1742295629458731008",
+      "created_at": "2026-11-12T00:29:21.000Z",
+      "edit_history_tweet_ids": [
+        "2120675277605048597"
+      ],
+      "id": "2120675277605048597",
+      "in_reply_to_user_id": "2113771638915321856",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120652456728117429",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@regul_tech @a16z This is a great, practical example of B2A. Could I ask for more details about some use cases that might not have been obvious at first?",
+      "url": "https://x.com/SnowballlNotes/status/2120675277605048597"
+    },
+    {
+      "author_id": "1890482682439823360",
+      "created_at": "2026-11-12T00:28:39.000Z",
+      "edit_history_tweet_ids": [
+        "2120675102970749235"
+      ],
+      "id": "2120675102970749235",
+      "in_reply_to_user_id": "2098117251073228803",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 20,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120620595654054003",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AnishDAC @a16z Model training isn't really done on the open web anymore anyways. It's all bespoke training data through the data cos now",
+      "url": "https://x.com/sarick/status/2120675102970749235"
+    },
+    {
+      "author_id": "1742295629458731008",
+      "created_at": "2026-11-12T00:28:06.000Z",
+      "edit_history_tweet_ids": [
+        "2120674966039625799"
+      ],
+      "id": "2120674966039625799",
+      "in_reply_to_user_id": "1652791781862387714",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120633310909231384",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@DelleonMcglone @a16z If the distinction between purchasing information and making a final decision is not maintained, agentic AI could become dangerous.",
+      "url": "https://x.com/SnowballlNotes/status/2120674966039625799"
+    },
+    {
+      "author_id": "1742295629458731008",
+      "created_at": "2026-11-12T00:27:01.000Z",
+      "edit_history_tweet_ids": [
+        "2120674692734615640"
+      ],
+      "id": "2120674692734615640",
+      "in_reply_to_user_id": "3747200303",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120612107439820980",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@marchoeffl @a16z If agents become major consumers of data and services, that could create entirely new business models.",
+      "url": "https://x.com/SnowballlNotes/status/2120674692734615640"
+    },
+    {
+      "author_id": "1742295629458731008",
+      "created_at": "2026-11-12T00:26:22.000Z",
+      "edit_history_tweet_ids": [
+        "2120674529148297391"
+      ],
+      "id": "2120674529148297391",
+      "in_reply_to_user_id": "1910592602",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120583482850279760",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bytecrafter_1 @a16z I almost misunderstood. Thanks for the helpful information.",
+      "url": "https://x.com/SnowballlNotes/status/2120674529148297391"
+    },
+    {
+      "author_id": "1742295629458731008",
+      "created_at": "2026-11-12T00:24:15.000Z",
+      "edit_history_tweet_ids": [
+        "2120673997088330194"
+      ],
+      "id": "2120673997088330194",
+      "in_reply_to_user_id": "143308950",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120588980278452612",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@wtygart @a16z The idea of ​​optimizing content and products so that AI agents discover and select them is quite intriguing. While it’s somewhat clear how one might capture human attention, how exactly can one optimize for the attention of an AI agent?",
+      "url": "https://x.com/SnowballlNotes/status/2120673997088330194"
+    },
+    {
+      "author_id": "1742295629458731008",
+      "created_at": "2026-11-12T00:20:48.000Z",
+      "edit_history_tweet_ids": [
+        "2120673126740803808"
+      ],
+      "id": "2120673126740803808",
+      "in_reply_to_user_id": "2110813928376926208",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120566031764656293",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@meetstevens @a16z That’s a good joke, haha.",
+      "url": "https://x.com/SnowballlNotes/status/2120673126740803808"
+    },
+    {
+      "author_id": "1742295629458731008",
+      "created_at": "2026-11-12T00:20:03.000Z",
+      "edit_history_tweet_ids": [
+        "2120672938429149533"
+      ],
+      "id": "2120672938429149533",
+      "in_reply_to_user_id": "257157930",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120596071139479614",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@JonsTechYT @a16z Indeed. It seems the advertising industry is set to undergo significant upheaval.",
+      "url": "https://x.com/SnowballlNotes/status/2120672938429149533"
+    },
+    {
+      "author_id": "1742295629458731008",
+      "created_at": "2026-11-12T00:19:26.000Z",
+      "edit_history_tweet_ids": [
+        "2120672783890075779"
+      ],
+      "id": "2120672783890075779",
+      "in_reply_to_user_id": "21513283",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120597893103190333",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@alexcohenof1 @a16z I agree as well.",
+      "url": "https://x.com/SnowballlNotes/status/2120672783890075779"
+    },
+    {
+      "author_id": "5486302",
+      "created_at": "2026-11-12T00:13:21.000Z",
+      "edit_history_tweet_ids": [
+        "2120671252193132974"
+      ],
+      "id": "2120671252193132974",
+      "in_reply_to_user_id": "21513283",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120639377504186663",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@alexcohenof1 @a16z True. The question may be whether to stick to industries/sectors that aren't going to be disrupted in the short-term or use these changes as an opportunity to play in a different space.",
+      "url": "https://x.com/lasean/status/2120671252193132974"
+    },
+    {
+      "author_id": "2098117251073228803",
+      "created_at": "2026-11-12T00:08:14.000Z",
+      "edit_history_tweet_ids": [
+        "2120669965338480926"
+      ],
+      "id": "2120669965338480926",
+      "in_reply_to_user_id": "1742295629458731008",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120669638992560356",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SnowballlNotes @a16z Correct",
+      "url": "https://x.com/AnishDAC/status/2120669965338480926"
+    },
+    {
+      "author_id": "1742295629458731008",
+      "created_at": "2026-11-12T00:07:55.000Z",
+      "edit_history_tweet_ids": [
+        "2120669883650412901"
+      ],
+      "id": "2120669883650412901",
+      "in_reply_to_user_id": "1474446704606789634",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120566670250987701",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@polarpanda @a16z Has it already reached that point? That’s incredibly fast.",
+      "url": "https://x.com/SnowballlNotes/status/2120669883650412901"
+    },
+    {
+      "author_id": "1742295629458731008",
+      "created_at": "2026-11-12T00:06:56.000Z",
+      "edit_history_tweet_ids": [
+        "2120669638992560356"
+      ],
+      "id": "2120669638992560356",
+      "in_reply_to_user_id": "2098117251073228803",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120620595654054003",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AnishDAC @a16z Are you referring to the issue of training AI using data that was itself generated by AI? That’s interesting.",
+      "url": "https://x.com/SnowballlNotes/status/2120669638992560356"
+    },
+    {
+      "author_id": "1742295629458731008",
+      "created_at": "2026-11-12T00:05:24.000Z",
+      "edit_history_tweet_ids": [
+        "2120669251753386453"
+      ],
+      "id": "2120669251753386453",
+      "in_reply_to_user_id": "1694208316778418177",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120613125804437692",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@aislopgr @a16z Wow, the rate at which the agent consumes web traffic is incredibly high. it’s shocking.",
+      "url": "https://x.com/SnowballlNotes/status/2120669251753386453"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1890482682439823360",
+        "created_at": "2026-11-12T00:28:39.000Z",
+        "edit_history_tweet_ids": [
+          "2120675102970749235"
+        ],
+        "id": "2120675102970749235",
+        "in_reply_to_user_id": "2098117251073228803",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120620595654054003",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@AnishDAC @a16z Model training isn't really done on the open web anymore anyways. It's all bespoke training data through the data cos now"
+      },
+      {
+        "author_id": "2113771638915321856",
+        "created_at": "2026-11-11T22:58:40.000Z",
+        "edit_history_tweet_ids": [
+          "2120652456728117429"
+        ],
+        "id": "2120652456728117429",
+        "in_reply_to_user_id": "64844802",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120564069010931746",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@a16z Exploring agents to help me with regulatory work, I asked myself if I'm really the 'best' user of the service. Sounded counterintuitive at first, but I turned it into an MCP, and now my AI assistants are the direct users, which opened some unexpected use cases."
+      },
+      {
+        "author_id": "2098117251073228803",
+        "created_at": "2026-11-11T20:52:03.000Z",
+        "edit_history_tweet_ids": [
+          "2120620595654054003"
+        ],
+        "id": "2120620595654054003",
+        "in_reply_to_user_id": "64844802",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120564069010931746",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@a16z Model training will be impacted by this... and honestly, we are already seeing each model release being more incremental than exponential...\n\nBased on the concept of model collapse but that is at the extreme end. I'm more or less saying it's impacting model performance gains"
+      },
+      {
+        "author_id": "1652791781862387714",
+        "created_at": "2026-11-11T21:42:35.000Z",
+        "edit_history_tweet_ids": [
+          "2120633310909231384"
+        ],
+        "id": "2120633310909231384",
+        "in_reply_to_user_id": "64844802",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120564069010931746",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@a16z An agent can be the buyer while a human is still the customer. In prediction markets, I’d give an agent a budget to buy live odds and injury data when it needs them, while keeping approval for real trades. There’s a business in selling the data one decision at a time."
+      },
+      {
+        "author_id": "3747200303",
+        "created_at": "2026-11-11T20:18:20.000Z",
+        "edit_history_tweet_ids": [
+          "2120612107439820980"
+        ],
+        "id": "2120612107439820980",
+        "in_reply_to_user_id": "64844802",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120564069010931746",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@a16z Agents are driving most usage on 2 end: production (data, code …) as well as consumption. We already see this a lot on the data side."
+      },
+      {
+        "author_id": "1910592602",
+        "created_at": "2026-11-11T18:24:35.000Z",
+        "edit_history_tweet_ids": [
+          "2120583482850279760"
+        ],
+        "id": "2120583482850279760",
+        "in_reply_to_user_id": "64844802",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120564069010931746",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@a16z that traffic stat is imperva's number for all automated traffic: 53% in 2025, 51% the year before. it counts crawlers, scripts and account takeover bots, and the report's summary calls ai agents a new category of participant without giving them a share of that total. the code"
+      },
+      {
+        "author_id": "143308950",
+        "created_at": "2026-11-11T18:46:26.000Z",
+        "edit_history_tweet_ids": [
+          "2120588980278452612"
+        ],
+        "id": "2120588980278452612",
+        "in_reply_to_user_id": "64844802",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 138,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120564069010931746",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@a16z You have to write for the bots! Get into the logs and see which ones on which platforms on which pages and how often.\n\nThis is the blue space.\n\nA2A will be tested out this shopping season. By new years folks will be shopping using UCP or any of the other protocols.\n\nIf you're a"
+      },
+      {
+        "author_id": "2110813928376926208",
+        "created_at": "2026-11-11T17:15:14.000Z",
+        "edit_history_tweet_ids": [
+          "2120566031764656293"
+        ],
+        "id": "2120566031764656293",
+        "in_reply_to_user_id": "64844802",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 339,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120564069010931746",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@a16z agents are now most of the internet and not one of us has been invited to a single afterparty"
+      },
+      {
+        "author_id": "257157930",
+        "created_at": "2026-11-11T19:14:36.000Z",
+        "edit_history_tweet_ids": [
+          "2120596071139479614"
+        ],
+        "id": "2120596071139479614",
+        "in_reply_to_user_id": "64844802",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120564069010931746",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@a16z Bots writing the articles, bots reading them. Someone tell the ad people 😂"
+      },
+      {
+        "author_id": "21513283",
+        "created_at": "2026-11-11T19:21:51.000Z",
+        "edit_history_tweet_ids": [
+          "2120597893103190333"
+        ],
+        "id": "2120597893103190333",
+        "in_reply_to_user_id": "64844802",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120564069010931746",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@a16z If agents do most of the browsing, public services will need to work for agents acting on someone's behalf, with a clear way to verify who they are acting for and what authority they have been granted bu that person"
+      },
+      {
+        "author_id": "21513283",
+        "created_at": "2026-11-11T22:06:41.000Z",
+        "edit_history_tweet_ids": [
+          "2120639377504186663"
+        ],
+        "id": "2120639377504186663",
+        "in_reply_to_user_id": "64844802",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120564069010931746",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@a16z Federal IT is still bought in seats and licenses. A 24/7 agent currently doesn't fit a line item you have to forecast 12-18 months out."
+      },
+      {
+        "author_id": "1742295629458731008",
+        "created_at": "2026-11-12T00:06:56.000Z",
+        "edit_history_tweet_ids": [
+          "2120669638992560356"
+        ],
+        "id": "2120669638992560356",
+        "in_reply_to_user_id": "2098117251073228803",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120620595654054003",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@AnishDAC @a16z Are you referring to the issue of training AI using data that was itself generated by AI? That’s interesting."
+      },
+      {
+        "author_id": "1474446704606789634",
+        "created_at": "2026-11-11T17:17:47.000Z",
+        "edit_history_tweet_ids": [
+          "2120566670250987701"
+        ],
+        "id": "2120566670250987701",
+        "in_reply_to_user_id": "64844802",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 656,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120564069010931746",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@a16z half the articles are written by agents and the other half are about agents"
+      },
+      {
+        "author_id": "1694208316778418177",
+        "created_at": "2026-11-11T20:22:22.000Z",
+        "edit_history_tweet_ids": [
+          "2120613125804437692"
+        ],
+        "id": "2120613125804437692",
+        "in_reply_to_user_id": "64844802",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120564069010931746",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@a16z Agents write half the articles and make most of the traffic. The internet is now a book club with no humans in it."
+      }
+    ],
+    "users": [
+      {
+        "id": "2098117251073228803",
+        "name": "Anish",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098397179488452620/YZo3RTsI_normal.jpg",
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 310,
+          "like_count": 92,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 449
+        },
+        "username": "AnishDAC",
+        "verified": false
+      },
+      {
+        "id": "1890482682439823360",
+        "name": "sarick",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975302919072456708/msp3ddyr_normal.jpg",
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 567,
+          "like_count": 1927,
+          "listed_count": 16,
+          "media_count": 24,
+          "tweet_count": 352
+        },
+        "username": "sarick",
+        "verified": false
+      },
+      {
+        "id": "1742295629458731008",
+        "name": "SnowballlNotes❄️❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063981551181074433/OVB50-pM_normal.jpg",
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 683,
+          "like_count": 2048,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1629
+        },
+        "username": "SnowballlNotes",
+        "verified": false
+      },
+      {
+        "id": "2113771638915321856",
+        "name": "Olivier Goachet",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119145425236037632/lqYaPoD0_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 116,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 18
+        },
+        "username": "regul_tech",
+        "verified": false
+      },
+      {
+        "id": "1652791781862387714",
+        "name": "Delleon Mcglone",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088085759920144384/ahtn5GEs_normal.jpg",
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 3,
+          "like_count": 37,
+          "listed_count": 4,
+          "media_count": 153,
+          "tweet_count": 2608
+        },
+        "username": "DelleonMcglone",
+        "verified": false
+      },
+      {
+        "id": "3747200303",
+        "name": "Marc Höffl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1575141676863160322/vFJcLdjd_normal.jpg",
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 330,
+          "like_count": 770,
+          "listed_count": 11,
+          "media_count": 77,
+          "tweet_count": 800
+        },
+        "username": "marchoeffl",
+        "verified": false
+      },
+      {
+        "id": "1910592602",
+        "name": "ByteCrafter",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756223053095174144/nTF5uOur_normal.jpg",
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 884,
+          "like_count": 172,
+          "listed_count": 4,
+          "media_count": 53,
+          "tweet_count": 2457
+        },
+        "username": "bytecrafter_1",
+        "verified": false
+      },
+      {
+        "id": "143308950",
+        "name": "Will Tygart",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081995626871668736/_BlyIcB8_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1183,
+          "following_count": 2606,
+          "like_count": 1661,
+          "listed_count": 7,
+          "media_count": 217,
+          "tweet_count": 2030
+        },
+        "username": "wtygart",
+        "verified": false
+      },
+      {
+        "id": "2110813928376926208",
+        "name": "Stevens",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118521935881707520/FAbqK-7a_normal.jpg",
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 61,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 201
+        },
+        "username": "meetstevens",
+        "verified": false
+      },
+      {
+        "id": "257157930",
+        "name": "JonsTech",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025976788275302400/jqKBFfB3_normal.jpg",
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 350,
+          "like_count": 800,
+          "listed_count": 4,
+          "media_count": 390,
+          "tweet_count": 2032
+        },
+        "username": "JonsTechYT",
+        "verified": false
+      },
+      {
+        "id": "21513283",
+        "name": "Alex Cohen (not that one)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073024969420795904/a-k-4ntq_normal.jpg",
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 2439,
+          "like_count": 11686,
+          "listed_count": 14,
+          "media_count": 48,
+          "tweet_count": 1220
+        },
+        "username": "alexcohenof1",
+        "verified": false
+      },
+      {
+        "id": "5486302",
+        "name": "LaSean Smith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1594454876721156096/Mr2hIn8Y_normal.jpg",
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 907,
+          "like_count": 770,
+          "listed_count": 39,
+          "media_count": 152,
+          "tweet_count": 3232
+        },
+        "username": "lasean",
+        "verified": false
+      },
+      {
+        "id": "1474446704606789634",
+        "name": "polar panda 🐼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103393750504628224/wucni9RJ_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1594,
+          "following_count": 3732,
+          "like_count": 12973,
+          "listed_count": 10,
+          "media_count": 441,
+          "tweet_count": 6399
+        },
+        "username": "polarpanda",
+        "verified": false
+      },
+      {
+        "id": "1694208316778418177",
+        "name": "Ai Slop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109494740131393537/2I3tfzIH_normal.jpg",
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 378,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 475
+        },
+        "username": "aislopgr",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120678787981459549",
+    "next_token": "b26v89c19zqg8o3juzovcanj5qzvkqqieyvgl93kuidfh",
+    "oldest_id": "2120669251753386453",
+    "result_count": 15
+  }
+}

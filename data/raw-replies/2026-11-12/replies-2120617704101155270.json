@@ -1,0 +1,904 @@
+{
+  "data": [
+    {
+      "author_id": "240463356",
+      "conversation_id": "2120617704101155270",
+      "created_at": "2026-11-12T00:58:05.000Z",
+      "edit_history_tweet_ids": [
+        "2120682511554515068"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "985281530070265862",
+            "start": 0,
+            "username": "dylan522p"
+          }
+        ]
+      },
+      "id": "2120682511554515068",
+      "in_reply_to_user_id": "985281530070265862",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120617704101155270",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dylan522p what breaks first when half your spend is agents that never log off",
+      "url": "https://x.com/0xJoshAlpha/status/2120682511554515068"
+    },
+    {
+      "author_id": "1972987388931817472",
+      "conversation_id": "2120617704101155270",
+      "created_at": "2026-11-12T00:53:15.000Z",
+      "edit_history_tweet_ids": [
+        "2120681294007070734"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "985281530070265862",
+            "start": 0,
+            "username": "dylan522p"
+          }
+        ]
+      },
+      "id": "2120681294007070734",
+      "in_reply_to_user_id": "985281530070265862",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120617704101155270",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dylan522p Curious how you split that 45%. Is most of it scheduled wakes rereading context, or long single runs? For small operators, the wake cadence seems to matter more than which model sits under the harness.",
+      "url": "https://x.com/BustrBlock/status/2120681294007070734"
+    },
+    {
+      "author_id": "1219766348466835456",
+      "conversation_id": "2120617704101155270",
+      "created_at": "2026-11-12T00:52:43.000Z",
+      "edit_history_tweet_ids": [
+        "2120681160829174239"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "985281530070265862",
+            "start": 0,
+            "username": "dylan522p"
+          }
+        ]
+      },
+      "id": "2120681160829174239",
+      "in_reply_to_user_id": "985281530070265862",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120617704101155270",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dylan522p Tbh I didn't find any of these useful. I implemented my own version and it's more convenient for customising features or fixing bugs. loop speed 🚅",
+      "url": "https://x.com/AkashGu30808281/status/2120681160829174239"
+    },
+    {
+      "author_id": "1200076752246042624",
+      "conversation_id": "2120617704101155270",
+      "created_at": "2026-11-12T00:49:24.000Z",
+      "edit_history_tweet_ids": [
+        "2120680324569141413"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "985281530070265862",
+            "start": 0,
+            "username": "dylan522p"
+          }
+        ]
+      },
+      "id": "2120680324569141413",
+      "in_reply_to_user_id": "985281530070265862",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120617704101155270",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dylan522p Once agents run persistently, the harness matters more than the model — 45% of spend is a vote for orchestration, not just intelligence.",
+      "url": "https://x.com/MahajanHazel/status/2120680324569141413"
+    },
+    {
+      "author_id": "2834184860",
+      "conversation_id": "2120617704101155270",
+      "created_at": "2026-11-12T00:46:48.000Z",
+      "edit_history_tweet_ids": [
+        "2120679672396849476"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "1556653309",
+            "start": 0,
+            "username": "pvncher"
+          },
+          {
+            "end": 19,
+            "id": "985281530070265862",
+            "start": 9,
+            "username": "dylan522p"
+          }
+        ]
+      },
+      "id": "2120679672396849476",
+      "in_reply_to_user_id": "1556653309",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120658429547266465",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@pvncher @dylan522p 💯\n\nLiterally has never been a problem that I have encountered that the team hasn’t addressed damn near instantaneously, but never more than a few days.",
+      "url": "https://x.com/Studio17_x/status/2120679672396849476"
+    },
+    {
+      "author_id": "2116130176728023040",
+      "conversation_id": "2120617704101155270",
+      "created_at": "2026-11-12T00:44:00.000Z",
+      "edit_history_tweet_ids": [
+        "2120678968114450465"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "985281530070265862",
+            "start": 0,
+            "username": "dylan522p"
+          }
+        ]
+      },
+      "id": "2120678968114450465",
+      "in_reply_to_user_id": "985281530070265862",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120617704101155270",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dylan522p 45% into persistent agents changes what you are buying: an idle agent still holds its context, so cost turns per-query into per-seat-hour. The harness becomes the product and the model a line item, which is your point about Perplexity Computer.",
+      "url": "https://x.com/QAQMinToT/status/2120678968114450465"
+    },
+    {
+      "author_id": "1069246220944592901",
+      "conversation_id": "2120617704101155270",
+      "created_at": "2026-11-12T00:41:34.000Z",
+      "edit_history_tweet_ids": [
+        "2120678352440730041"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "985281530070265862",
+            "start": 0,
+            "username": "dylan522p"
+          }
+        ]
+      },
+      "id": "2120678352440730041",
+      "in_reply_to_user_id": "985281530070265862",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120617704101155270",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dylan522p Persistent agents are where it gets real for small businesses too. A lead enquiry on WhatsApp at 11pm needs an agent that remembers the last conversation and follows up the next day. Stateless chat doesn't close deals.",
+      "url": "https://x.com/GarvSanwariya/status/2120678352440730041"
+    },
+    {
+      "author_id": "2113029971539382272",
+      "conversation_id": "2120617704101155270",
+      "created_at": "2026-11-12T00:40:09.000Z",
+      "edit_history_tweet_ids": [
+        "2120677998873453015"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "985281530070265862",
+            "start": 0,
+            "username": "dylan522p"
+          }
+        ]
+      },
+      "id": "2120677998873453015",
+      "in_reply_to_user_id": "985281530070265862",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120617704101155270",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dylan522p The harness point is the real story. I run 9 bots on one setup, and what made them useful wasn't the model. It was the structure: one job each, a shared log, one lead bot, and a human yes for anything that costs money.",
+      "url": "https://x.com/JakeBuildsBots/status/2120677998873453015"
+    },
+    {
+      "author_id": "1187561120988418050",
+      "conversation_id": "2120617704101155270",
+      "created_at": "2026-11-12T00:38:12.000Z",
+      "edit_history_tweet_ids": [
+        "2120677507255202126"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "985281530070265862",
+            "start": 0,
+            "username": "dylan522p"
+          }
+        ]
+      },
+      "id": "2120677507255202126",
+      "in_reply_to_user_id": "985281530070265862",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120617704101155270",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dylan522p The 45% number is the interesting part. Persistent agents tend to fail on state, not model quality, so a harness that swaps models per step is doing a lot of quiet work. Curious whether the spend shift came from replacing chat usage or from net-new tasks.",
+      "url": "https://x.com/OnFinality/status/2120677507255202126"
+    },
+    {
+      "author_id": "1063654146203574272",
+      "conversation_id": "2120617704101155270",
+      "created_at": "2026-11-12T00:35:38.000Z",
+      "edit_history_tweet_ids": [
+        "2120676858706723006"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "985281530070265862",
+            "start": 0,
+            "username": "dylan522p"
+          }
+        ]
+      },
+      "id": "2120676858706723006",
+      "in_reply_to_user_id": "985281530070265862",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120617704101155270",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dylan522p 45% on agents that never stop, what does a day of that cost",
+      "url": "https://x.com/yuvrajangads/status/2120676858706723006"
+    },
+    {
+      "author_id": "1808526343027752960",
+      "conversation_id": "2120617704101155270",
+      "created_at": "2026-11-12T00:35:26.000Z",
+      "edit_history_tweet_ids": [
+        "2120676808446378414"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "985281530070265862",
+            "start": 0,
+            "username": "dylan522p"
+          }
+        ]
+      },
+      "id": "2120676808446378414",
+      "in_reply_to_user_id": "985281530070265862",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120617704101155270",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dylan522p Interesting that the spend moved to the harness while the model underneath mostly stayed Anthropic. How much of that 45% is long-running jobs vs quick tagged asks in Slack?",
+      "url": "https://x.com/8emRiGnHFs32727/status/2120676808446378414"
+    },
+    {
+      "author_id": "2104770760921272320",
+      "conversation_id": "2120617704101155270",
+      "created_at": "2026-11-12T00:32:40.000Z",
+      "edit_history_tweet_ids": [
+        "2120676114242871456"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "985281530070265862",
+            "start": 0,
+            "username": "dylan522p"
+          }
+        ]
+      },
+      "id": "2120676114242871456",
+      "in_reply_to_user_id": "985281530070265862",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120617704101155270",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dylan522p 45% of spend on persistent agents is a wild stat — it stops being a chatbot and starts being a colleague that remembers context. What actually makes Perplexity's Harness work for you, the memory across sessions or just that it keeps going when the model itself would have stopped?",
+      "url": "https://x.com/YunaElira/status/2120676114242871456"
+    },
+    {
+      "author_id": "2045443038944890880",
+      "conversation_id": "2120617704101155270",
+      "created_at": "2026-11-12T00:27:27.000Z",
+      "edit_history_tweet_ids": [
+        "2120674799546720547"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "985281530070265862",
+            "start": 0,
+            "username": "dylan522p"
+          }
+        ]
+      },
+      "id": "2120674799546720547",
+      "in_reply_to_user_id": "985281530070265862",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120617704101155270",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dylan522p Persistent agents are the game-changer, but Anthropic's Claude Tags falls short. OpenAI's Slack agent is a step back. Perplexity Computer's approach feels more promising, though still rough around the edges.",
+      "url": "https://x.com/Stanllll6o/status/2120674799546720547"
+    },
+    {
+      "author_id": "1197097897558343680",
+      "conversation_id": "2120617704101155270",
+      "created_at": "2026-11-12T00:26:11.000Z",
+      "edit_history_tweet_ids": [
+        "2120674484223185303"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "985281530070265862",
+            "start": 0,
+            "username": "dylan522p"
+          }
+        ]
+      },
+      "id": "2120674484223185303",
+      "in_reply_to_user_id": "985281530070265862",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120617704101155270",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dylan522p 45% of the AI bill goes to agents that never log off. Finally, coworkers who stay late without complaining.",
+      "url": "https://x.com/TheLastToken/status/2120674484223185303"
+    },
+    {
+      "author_id": "1459965718879879175",
+      "conversation_id": "2120617704101155270",
+      "created_at": "2026-11-12T00:18:56.000Z",
+      "edit_history_tweet_ids": [
+        "2120672656555196807"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "985281530070265862",
+            "start": 0,
+            "username": "dylan522p"
+          }
+        ]
+      },
+      "id": "2120672656555196807",
+      "in_reply_to_user_id": "985281530070265862",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120617704101155270",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dylan522p Persistent agents flip the cost model: you pay for the agent re-reading its own state every turn, not just for answers.\n\nCurious what share of that 45% is context/memory overhead vs actual tool work. That ratio is where harnesses really differ.",
+      "url": "https://x.com/FineTunedTakes/status/2120672656555196807"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2120617700804464640"
+          ]
+        },
+        "author_id": "985281530070265862",
+        "conversation_id": "2120617704101155270",
+        "created_at": "2026-11-11T20:40:34.000Z",
+        "edit_history_tweet_ids": [
+          "2120617704101155270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5F8BylIhuG",
+              "end": 301,
+              "expanded_url": "https://x.com/dylan522p/status/2120617704101155270/photo/1",
+              "media_key": "3_2120617700804464640",
+              "start": 278,
+              "url": "https://t.co/5F8BylIhuG"
+            }
+          ]
+        },
+        "id": "2120617704101155270",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 347,
+          "impression_count": 76023,
+          "like_count": 726,
+          "quote_count": 38,
+          "reply_count": 112,
+          "retweet_count": 53
+        },
+        "text": "Persistent Agents are the next unlock of AI usage\nOur spend on AI is now 45% persistent agents\nUnfortunately for Anthropic, Claude Tags sucks\nOpenAI's Slack agent is even worse\nWe primarily use Perplexity Computer, which uses a lot of different models\nPerplexity's Harness mogs https://t.co/5F8BylIhuG"
+      },
+      {
+        "author_id": "1556653309",
+        "conversation_id": "2120617704101155270",
+        "created_at": "2026-11-11T23:22:24.000Z",
+        "edit_history_tweet_ids": [
+          "2120658429547266465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "985281530070265862",
+              "start": 0,
+              "username": "dylan522p"
+            }
+          ]
+        },
+        "id": "2120658429547266465",
+        "in_reply_to_user_id": "985281530070265862",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120618192355852359",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@dylan522p What do you mean OpenAI isn’t receptive to feedback? Feel free to personally dm me with any you have"
+      }
+    ],
+    "users": [
+      {
+        "id": "240463356",
+        "name": "0xJoshAlpha",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110766794428272640/WEGW_Vz6_normal.jpg",
+        "public_metrics": {
+          "followers_count": 4389,
+          "following_count": 2337,
+          "like_count": 898,
+          "listed_count": 17,
+          "media_count": 1301,
+          "tweet_count": 94539
+        },
+        "username": "0xJoshAlpha",
+        "verified": false
+      },
+      {
+        "id": "985281530070265862",
+        "name": "Dylan Patel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2113734434633768960/iNH6HMTV_normal.jpg",
+        "public_metrics": {
+          "followers_count": 170488,
+          "following_count": 1050,
+          "like_count": 39052,
+          "listed_count": 3852,
+          "media_count": 1508,
+          "tweet_count": 14240
+        },
+        "username": "dylan522p",
+        "verified": false
+      },
+      {
+        "id": "1972987388931817472",
+        "name": "Block Bustr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974458484142841856/NQDWHToc_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 41,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 74
+        },
+        "username": "BustrBlock",
+        "verified": false
+      },
+      {
+        "id": "1219766348466835456",
+        "name": "Akash Gupta",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727301140012732416/6JWKIwVd_normal.jpg",
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 133,
+          "like_count": 669,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 167
+        },
+        "username": "AkashGu30808281",
+        "verified": false
+      },
+      {
+        "id": "1200076752246042624",
+        "name": "Hazel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1708834946125856768/dHs-VZkB_normal.jpg",
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 4715,
+          "like_count": 24106,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 1020
+        },
+        "username": "MahajanHazel",
+        "verified": false
+      },
+      {
+        "id": "2834184860",
+        "name": "Queue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103169353164464128/OjOzNu6h_normal.jpg",
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 1181,
+          "like_count": 5177,
+          "listed_count": 2,
+          "media_count": 308,
+          "tweet_count": 2888
+        },
+        "username": "Studio17_x",
+        "verified": false
+      },
+      {
+        "id": "1556653309",
+        "name": "eric provencher",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104274058095513600/_e2nlZX-_normal.jpg",
+        "public_metrics": {
+          "followers_count": 45428,
+          "following_count": 4958,
+          "like_count": 116378,
+          "listed_count": 763,
+          "media_count": 721,
+          "tweet_count": 19367
+        },
+        "username": "pvncher",
+        "verified": false
+      },
+      {
+        "id": "2116130176728023040",
+        "name": "Min",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120213985597472768/sc41mtuu_normal.png",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 9,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 25
+        },
+        "username": "QAQMinToT",
+        "verified": false
+      },
+      {
+        "id": "1069246220944592901",
+        "name": "Garv Sanwariya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062835111494909952/GnRlqaFT_normal.jpg",
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 378,
+          "like_count": 5567,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 2696
+        },
+        "username": "GarvSanwariya",
+        "verified": false
+      },
+      {
+        "id": "2113029971539382272",
+        "name": "Jake Builds Bots",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2113482708898693120/HdSQWH-u_normal.jpg",
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 72,
+          "like_count": 338,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 536
+        },
+        "username": "JakeBuildsBots",
+        "verified": false
+      },
+      {
+        "id": "1187561120988418050",
+        "name": "OnFinality",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008408967446499328/V8VJk142_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3217,
+          "following_count": 166,
+          "like_count": 3150,
+          "listed_count": 53,
+          "media_count": 872,
+          "tweet_count": 4909
+        },
+        "username": "OnFinality",
+        "verified": false
+      },
+      {
+        "id": "1063654146203574272",
+        "name": "Yuvraj Angad Singh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819334371293224960/hOPZ1WEa_normal.jpg",
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 174,
+          "like_count": 944,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 1114
+        },
+        "username": "yuvrajangads",
+        "verified": false
+      },
+      {
+        "id": "1808526343027752960",
+        "name": "一圈人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808526454566834176/-jrX4STR_normal.png",
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 632,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 490
+        },
+        "username": "8emRiGnHFs32727",
+        "verified": false
+      },
+      {
+        "id": "2104770760921272320",
+        "name": "Yuna Han",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104771722377367552/RoCeH-Uz_normal.jpg",
+        "public_metrics": {
+          "followers_count": 4773,
+          "following_count": 4721,
+          "like_count": 16543,
+          "listed_count": 2,
+          "media_count": 166,
+          "tweet_count": 11446
+        },
+        "username": "YunaElira",
+        "verified": false
+      },
+      {
+        "id": "2045443038944890880",
+        "name": "离岸工具包🎒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108433329322373120/EmdsFz3S_normal.jpg",
+        "public_metrics": {
+          "followers_count": 6254,
+          "following_count": 7188,
+          "like_count": 5958,
+          "listed_count": 9,
+          "media_count": 1120,
+          "tweet_count": 33391
+        },
+        "username": "Stanllll6o",
+        "verified": false
+      },
+      {
+        "id": "1197097897558343680",
+        "name": "TheLastPrompt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093630373783801857/yzURXuo4_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 15,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 262
+        },
+        "username": "TheLastToken",
+        "verified": false
+      },
+      {
+        "id": "1459965718879879175",
+        "name": "Fine-Tuned Takes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115247907444297728/1wBReQyC_normal.jpg",
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 49,
+          "like_count": 38506,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 286
+        },
+        "username": "FineTunedTakes",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120682511554515068",
+    "next_token": "b26v89c19zqg8o3juzovcantnkv7nrix5d62h1psp829p",
+    "oldest_id": "2120672656555196807",
+    "result_count": 15
+  }
+}

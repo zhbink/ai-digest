@@ -1,0 +1,1261 @@
+{
+  "data": [
+    {
+      "author_id": "1914770052542599168",
+      "conversation_id": "2120582049522127205",
+      "created_at": "2026-11-11T22:54:20.000Z",
+      "edit_history_tweet_ids": [
+        "2120651366297395228"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1743487864934162432",
+            "start": 0,
+            "username": "ArtificialAnlys"
+          },
+          {
+            "end": 32,
+            "id": "4783690002",
+            "start": 17,
+            "username": "GoogleDeepMind"
+          }
+        ]
+      },
+      "id": "2120651366297395228",
+      "in_reply_to_user_id": "1743487864934162432",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120582049522127205",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ArtificialAnlys @GoogleDeepMind It is multimodal",
+      "url": "https://x.com/solaris2029/status/2120651366297395228"
+    },
+    {
+      "author_id": "1720665183188922368",
+      "conversation_id": "2120582049522127205",
+      "created_at": "2026-11-11T22:45:10.000Z",
+      "edit_history_tweet_ids": [
+        "2120649059295789361"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1259390136560713728",
+            "start": 0,
+            "username": "Westxrnfn"
+          },
+          {
+            "end": 27,
+            "id": "1743487864934162432",
+            "start": 11,
+            "username": "ArtificialAnlys"
+          },
+          {
+            "end": 43,
+            "id": "4783690002",
+            "start": 28,
+            "username": "GoogleDeepMind"
+          }
+        ]
+      },
+      "id": "2120649059295789361",
+      "in_reply_to_user_id": "1259390136560713728",
+      "lang": "en",
+      "note_tweet": {
+        "text": "Yes for this exact workload. Labeling short form questions into fixed categories is a pure multi-choice decision task, and Drex Max v1.1 leads the Decision Index (72.6) while topping the heavily weighted AA-Paperclip classification/extraction benchmark (72.8). It is also far cheaper than GLiDE ($103 vs $780 per 1M tasks). Provide the 30 labels as options and it returns a calibrated pick in one pass."
+      },
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120648901976043648",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Westxrnfn @ArtificialAnlys @GoogleDeepMind Yes for this exact workload. Labeling short form questions into fixed categories is a pure multi-choice decision task, and Drex Max v1.1 leads the Decision Index (72.6) while topping the heavily weighted AA-Paperclip classification/extraction benchmark (72.8). It is also far",
+      "url": "https://x.com/grok/status/2120649059295789361"
+    },
+    {
+      "author_id": "1259390136560713728",
+      "conversation_id": "2120582049522127205",
+      "created_at": "2026-11-11T22:44:32.000Z",
+      "edit_history_tweet_ids": [
+        "2120648901976043648"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 5,
+            "id": "1720665183188922368",
+            "start": 0,
+            "username": "grok"
+          },
+          {
+            "end": 22,
+            "id": "1743487864934162432",
+            "start": 6,
+            "username": "ArtificialAnlys"
+          },
+          {
+            "end": 38,
+            "id": "4783690002",
+            "start": 23,
+            "username": "GoogleDeepMind"
+          }
+        ]
+      },
+      "id": "2120648901976043648",
+      "in_reply_to_user_id": "1720665183188922368",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120648331684704608",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@grok @ArtificialAnlys @GoogleDeepMind lets say my workload is taking a job application question and giving the question one out of like 30 labels (contact information, company free response, personal free response, credentials, etc). Is Drex max v1.1 the best?",
+      "url": "https://x.com/Westxrnfn/status/2120648901976043648"
+    },
+    {
+      "author_id": "1720665183188922368",
+      "conversation_id": "2120582049522127205",
+      "created_at": "2026-11-11T22:42:16.000Z",
+      "edit_history_tweet_ids": [
+        "2120648331684704608"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1259390136560713728",
+            "start": 0,
+            "username": "Westxrnfn"
+          },
+          {
+            "end": 27,
+            "id": "1743487864934162432",
+            "start": 11,
+            "username": "ArtificialAnlys"
+          },
+          {
+            "end": 43,
+            "id": "4783690002",
+            "start": 28,
+            "username": "GoogleDeepMind"
+          }
+        ]
+      },
+      "id": "2120648331684704608",
+      "in_reply_to_user_id": "1259390136560713728",
+      "lang": "en",
+      "note_tweet": {
+        "text": "No. Drex Max v1.1 tops the overall Decision Index at 73 with $103 per 1M tasks, beating Gemini Decision 1 (66, $345) and Jev (66, $156) on score+cost. It also edges OpenAI's decision variants on the same metrics.\n\nIt does not fully Pareto-dominate. Gemini leads knowledge/reasoning sub-benchmarks (higher AA-Omniscience and HLE accuracy), is faster (211 ms vs 283 ms), and brings native audio/video/PDF plus Google's stack. Tradeoffs remain depending on the workload."
+      },
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120648211329056844",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Westxrnfn @ArtificialAnlys @GoogleDeepMind No. Drex Max v1.1 tops the overall Decision Index at 73 with $103 per 1M tasks, beating Gemini Decision 1 (66, $345) and Jev (66, $156) on score+cost. It also edges OpenAI's decision variants on the same metrics.\n\nIt does not fully Pareto-dominate. Gemini leads",
+      "url": "https://x.com/grok/status/2120648331684704608"
+    },
+    {
+      "author_id": "1259390136560713728",
+      "conversation_id": "2120582049522127205",
+      "created_at": "2026-11-11T22:41:47.000Z",
+      "edit_history_tweet_ids": [
+        "2120648211329056844"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 5,
+            "id": "1720665183188922368",
+            "start": 0,
+            "username": "grok"
+          },
+          {
+            "end": 22,
+            "id": "1743487864934162432",
+            "start": 6,
+            "username": "ArtificialAnlys"
+          },
+          {
+            "end": 38,
+            "id": "4783690002",
+            "start": 23,
+            "username": "GoogleDeepMind"
+          }
+        ]
+      },
+      "id": "2120648211329056844",
+      "in_reply_to_user_id": "1720665183188922368",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120647866515444107",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@grok @ArtificialAnlys @GoogleDeepMind does drex max v1.1 just completely render googles' decision api useless? its the best one and its cheaper doesn't it just pareto mog google, openai, and jev?",
+      "url": "https://x.com/Westxrnfn/status/2120648211329056844"
+    },
+    {
+      "author_id": "1720665183188922368",
+      "conversation_id": "2120582049522127205",
+      "created_at": "2026-11-11T22:40:25.000Z",
+      "edit_history_tweet_ids": [
+        "2120647866515444107"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1259390136560713728",
+            "start": 0,
+            "username": "Westxrnfn"
+          },
+          {
+            "end": 27,
+            "id": "1743487864934162432",
+            "start": 11,
+            "username": "ArtificialAnlys"
+          },
+          {
+            "end": 43,
+            "id": "4783690002",
+            "start": 28,
+            "username": "GoogleDeepMind"
+          }
+        ]
+      },
+      "id": "2120647866515444107",
+      "in_reply_to_user_id": "1259390136560713728",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120647703273034194",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Westxrnfn @ArtificialAnlys @GoogleDeepMind Drex Max v1.1 and GLiDE v1.2 both top the Decision Index at 73. Cost per 1M tasks for the ones scoring 70+:\n\nDrex Max v1.1: $103 \nGLiDE v1.2: $780 \nMammoth 27B: $264 \nd1-ultra: $133 \nDecider v1.2: ~$69 \n\nJev 1.14 (66): $156 \n\nDrex is the clear value leader among the 70+ group.",
+      "url": "https://x.com/grok/status/2120647866515444107"
+    },
+    {
+      "author_id": "1259390136560713728",
+      "conversation_id": "2120582049522127205",
+      "created_at": "2026-11-11T22:39:46.000Z",
+      "edit_history_tweet_ids": [
+        "2120647703273034194"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1743487864934162432",
+            "start": 0,
+            "username": "ArtificialAnlys"
+          },
+          {
+            "end": 32,
+            "id": "4783690002",
+            "start": 17,
+            "username": "GoogleDeepMind"
+          },
+          {
+            "end": 38,
+            "id": "1720665183188922368",
+            "start": 33,
+            "username": "grok"
+          }
+        ]
+      },
+      "id": "2120647703273034194",
+      "in_reply_to_user_id": "1743487864934162432",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 64,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120582049522127205",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ArtificialAnlys @GoogleDeepMind @grok so this drex max v1.1 thing is the best? can u give me the pricing comparison of the once over 70 here compared to jev",
+      "url": "https://x.com/Westxrnfn/status/2120647703273034194"
+    },
+    {
+      "author_id": "87078963",
+      "conversation_id": "2120582049522127205",
+      "created_at": "2026-11-11T22:11:05.000Z",
+      "edit_history_tweet_ids": [
+        "2120640481839173747"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1743487864934162432",
+            "start": 0,
+            "username": "ArtificialAnlys"
+          },
+          {
+            "end": 32,
+            "id": "4783690002",
+            "start": 17,
+            "username": "GoogleDeepMind"
+          }
+        ]
+      },
+      "id": "2120640481839173747",
+      "in_reply_to_user_id": "1743487864934162432",
+      "lang": "pt",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120582049522127205",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ArtificialAnlys @GoogleDeepMind Modelo que só decide, sem gerar texto, é o lançamento mais útil do dia pra quem automatiza processo de verdade: triagem, aprovação, classificação. Mas nota de benchmark não diz o custo do erro. Vocês pensam em medir quanto custa cada decisão errada, não só a taxa de acerto?",
+      "url": "https://x.com/luisjuniorj/status/2120640481839173747"
+    },
+    {
+      "author_id": "33985189",
+      "conversation_id": "2120582049522127205",
+      "created_at": "2026-11-11T21:44:15.000Z",
+      "edit_history_tweet_ids": [
+        "2120633728724787661"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1743487864934162432",
+            "start": 0,
+            "username": "ArtificialAnlys"
+          },
+          {
+            "end": 32,
+            "id": "4783690002",
+            "start": 17,
+            "username": "GoogleDeepMind"
+          }
+        ]
+      },
+      "id": "2120633728724787661",
+      "in_reply_to_user_id": "1743487864934162432",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 40,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120582049522127205",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ArtificialAnlys @GoogleDeepMind I'm still with Jev",
+      "url": "https://x.com/twmk/status/2120633728724787661"
+    },
+    {
+      "author_id": "1939498827993759744",
+      "conversation_id": "2120582049522127205",
+      "created_at": "2026-11-11T21:21:50.000Z",
+      "edit_history_tweet_ids": [
+        "2120628088732291519"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1743487864934162432",
+            "start": 0,
+            "username": "ArtificialAnlys"
+          },
+          {
+            "end": 32,
+            "id": "4783690002",
+            "start": 17,
+            "username": "GoogleDeepMind"
+          }
+        ]
+      },
+      "id": "2120628088732291519",
+      "in_reply_to_user_id": "1743487864934162432",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 27,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120582049522127205",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ArtificialAnlys @GoogleDeepMind Anything but SOTA models",
+      "url": "https://x.com/flynn_dev/status/2120628088732291519"
+    },
+    {
+      "author_id": "554200939",
+      "conversation_id": "2120582049522127205",
+      "created_at": "2026-11-11T21:11:54.000Z",
+      "edit_history_tweet_ids": [
+        "2120625591481491807"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1743487864934162432",
+            "start": 0,
+            "username": "ArtificialAnlys"
+          },
+          {
+            "end": 32,
+            "id": "4783690002",
+            "start": 17,
+            "username": "GoogleDeepMind"
+          }
+        ]
+      },
+      "id": "2120625591481491807",
+      "in_reply_to_user_id": "1743487864934162432",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 105,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120582049522127205",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ArtificialAnlys @GoogleDeepMind Decision models sure have potential to replace LLM-as-judge in RL Envs grading. Anyone tried?",
+      "url": "https://x.com/satish_vutukuru/status/2120625591481491807"
+    },
+    {
+      "author_id": "2087941714300506117",
+      "conversation_id": "2120582049522127205",
+      "created_at": "2026-11-11T21:07:25.000Z",
+      "edit_history_tweet_ids": [
+        "2120624461162664222"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1743487864934162432",
+            "start": 0,
+            "username": "ArtificialAnlys"
+          },
+          {
+            "end": 32,
+            "id": "4783690002",
+            "start": 17,
+            "username": "GoogleDeepMind"
+          }
+        ]
+      },
+      "id": "2120624461162664222",
+      "in_reply_to_user_id": "1743487864934162432",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120582049522127205",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ArtificialAnlys @GoogleDeepMind Strong reasoning scores are impressive, but the cost per completed task makes this comparison especially important",
+      "url": "https://x.com/ClaraOnAI/status/2120624461162664222"
+    },
+    {
+      "author_id": "2072142140319453184",
+      "conversation_id": "2120582049522127205",
+      "created_at": "2026-11-11T20:59:10.000Z",
+      "edit_history_tweet_ids": [
+        "2120622386345300384"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1743487864934162432",
+            "start": 0,
+            "username": "ArtificialAnlys"
+          },
+          {
+            "end": 32,
+            "id": "4783690002",
+            "start": 17,
+            "username": "GoogleDeepMind"
+          }
+        ]
+      },
+      "id": "2120622386345300384",
+      "in_reply_to_user_id": "1743487864934162432",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 62,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120582049522127205",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ArtificialAnlys @GoogleDeepMind Jev still undercuts the price and wins a pair of the shared tests, while Decision 1 takes the calibration edge plus native audio, video and PDFs. That tradeoff is what teams will actually argue about.",
+      "url": "https://x.com/ethanwalkerman/status/2120622386345300384"
+    },
+    {
+      "author_id": "1802838249045409792",
+      "conversation_id": "2120582049522127205",
+      "created_at": "2026-11-11T20:05:48.000Z",
+      "edit_history_tweet_ids": [
+        "2120608953109492197"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1743487864934162432",
+            "start": 0,
+            "username": "ArtificialAnlys"
+          },
+          {
+            "end": 32,
+            "id": "4783690002",
+            "start": 17,
+            "username": "GoogleDeepMind"
+          }
+        ]
+      },
+      "id": "2120608953109492197",
+      "in_reply_to_user_id": "1743487864934162432",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 179,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120582049522127205",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ArtificialAnlys @GoogleDeepMind Jev walked so others could run",
+      "url": "https://x.com/BrianLockhart/status/2120608953109492197"
+    },
+    {
+      "author_id": "1720665183188922368",
+      "conversation_id": "2120582049522127205",
+      "created_at": "2026-11-11T19:48:24.000Z",
+      "edit_history_tweet_ids": [
+        "2120604577976221817"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "538348950",
+            "start": 0,
+            "username": "PeacockEsq"
+          },
+          {
+            "end": 28,
+            "id": "1743487864934162432",
+            "start": 12,
+            "username": "ArtificialAnlys"
+          },
+          {
+            "end": 44,
+            "id": "4783690002",
+            "start": 29,
+            "username": "GoogleDeepMind"
+          }
+        ]
+      },
+      "id": "2120604577976221817",
+      "in_reply_to_user_id": "538348950",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120604427773981043",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@PeacockEsq @ArtificialAnlys @GoogleDeepMind Elephant 9B (Base Labs) is FOSS—open weights under MIT.\n\nDrex Max v1.1 and GLiDE v1.2 have open weights but restricted licenses (Open RAIL-M / Community License with commercial limits).\n\nJev 1.14, Gemini Decision 1, and GPT-6 Luna are proprietary.",
+      "url": "https://x.com/grok/status/2120604577976221817"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2120581550597120001"
+          ]
+        },
+        "author_id": "1743487864934162432",
+        "conversation_id": "2120582049522127205",
+        "created_at": "2026-11-11T18:18:53.000Z",
+        "edit_history_tweet_ids": [
+          "2120582049522127205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 207,
+              "id": "4783690002",
+              "start": 192,
+              "username": "GoogleDeepMind"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CpaEdYZsbW",
+              "end": 302,
+              "expanded_url": "https://x.com/ArtificialAnlys/status/2120582049522127205/photo/1",
+              "media_key": "3_2120581550597120001",
+              "start": 279,
+              "url": "https://t.co/CpaEdYZsbW"
+            }
+          ]
+        },
+        "id": "2120582049522127205",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 207,
+                "id": "4783690002",
+                "start": 192,
+                "username": "GoogleDeepMind"
+              },
+              {
+                "end": 301,
+                "id": "2079474328664719360",
+                "start": 292,
+                "username": "baselabs"
+              },
+              {
+                "end": 328,
+                "id": "2014504062797152256",
+                "start": 317,
+                "username": "typesafeai"
+              },
+              {
+                "end": 381,
+                "id": "1904210068704481280",
+                "start": 374,
+                "username": "NaceAI"
+              },
+              {
+                "end": 409,
+                "id": "1816549854488969216",
+                "start": 399,
+                "username": "fastinoAI"
+              }
+            ]
+          },
+          "text": "Google has released its first decision model, Gemini Decision 1, scoring 66 on the Artificial Analysis Decision Index and leading in knowledge and reasoning benchmarks\n\nGemini Decision 1 from @GoogleDeepMind scores 66 on the Artificial Analysis Decision Index v2.1, in line with Elephant 9B (@baselabs) and Jev 1.14 (@typesafeai), and 7 points behind leaders Drex Max v1.1 (@NaceAI) and GLiDE v1.2 (@fastinoAI), which both score 73. It is priced at $0.10 per 1M input tokens and costs $345 per 1M Tasks across the Index, around three times higher than Drex Max v1.1 ($103) due to its higher pricing\n\nKey results for Gemini Decision 1:\n\n➤ Not yet frontier on Decision Index: Gemini Decision 1 scores 66 on the Artificial Analysis Decision Index. It leads knowledge and reasoning benchmarks, scoring 66 on AA-Omniscience-Decision and 49 on HLE-MultiChoice. It trails on other evaluations, including our new proprietary classification and extraction benchmark AA-Paperclip, where it answers all 15 questions correctly on 33% of documents vs. 63% for Drex Max v1.1\n\n➤ More than 3x the Cost per Task of leading models: Gemini Decision 1 costs $345 per 1M Tasks, compared with $103 for Drex Max v1.1, $156 for Jev 1.14. This difference is driven by its token price of $0.10 per 1M input tokens vs. $0.03 for Drex Max v1.1. Gemini Decision 1 has a similar Cost per 1M Tasks to GPT-6 Luna (Decisions, $339)\n\n➤ Strong calibration for reasoning tasks: We measure calibration with the Brier score, the average squared gap between the probability a model assigns to its chosen answer and whether that answer was correct (lower is better). Gemini Decision 1 has a Brier score of 0.18 across the Index, between Drex Max v1.1 (0.16) and Jev 1.14 (0.19). Calibration varies by task. with its Brier score of 0.20 on HLE-MultiChoice among the lowest of all models in the Index, while its 0.14 on When2Call compares with 0.04 for Drex Max v1.1"
+        },
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 42230,
+          "like_count": 434,
+          "quote_count": 13,
+          "reply_count": 27,
+          "retweet_count": 21
+        },
+        "text": "Google has released its first decision model, Gemini Decision 1, scoring 66 on the Artificial Analysis Decision Index and leading in knowledge and reasoning benchmarks\n\nGemini Decision 1 from @GoogleDeepMind scores 66 on the Artificial Analysis Decision Index v2.1, in line with https://t.co/CpaEdYZsbW"
+      },
+      {
+        "author_id": "1259390136560713728",
+        "conversation_id": "2120582049522127205",
+        "created_at": "2026-11-11T22:44:32.000Z",
+        "edit_history_tweet_ids": [
+          "2120648901976043648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 22,
+              "id": "1743487864934162432",
+              "start": 6,
+              "username": "ArtificialAnlys"
+            },
+            {
+              "end": 38,
+              "id": "4783690002",
+              "start": 23,
+              "username": "GoogleDeepMind"
+            }
+          ]
+        },
+        "id": "2120648901976043648",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120648331684704608",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@grok @ArtificialAnlys @GoogleDeepMind lets say my workload is taking a job application question and giving the question one out of like 30 labels (contact information, company free response, personal free response, credentials, etc). Is Drex max v1.1 the best?"
+      },
+      {
+        "author_id": "1720665183188922368",
+        "conversation_id": "2120582049522127205",
+        "created_at": "2026-11-11T22:42:16.000Z",
+        "edit_history_tweet_ids": [
+          "2120648331684704608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1259390136560713728",
+              "start": 0,
+              "username": "Westxrnfn"
+            },
+            {
+              "end": 27,
+              "id": "1743487864934162432",
+              "start": 11,
+              "username": "ArtificialAnlys"
+            },
+            {
+              "end": 43,
+              "id": "4783690002",
+              "start": 28,
+              "username": "GoogleDeepMind"
+            }
+          ]
+        },
+        "id": "2120648331684704608",
+        "in_reply_to_user_id": "1259390136560713728",
+        "lang": "en",
+        "note_tweet": {
+          "text": "No. Drex Max v1.1 tops the overall Decision Index at 73 with $103 per 1M tasks, beating Gemini Decision 1 (66, $345) and Jev (66, $156) on score+cost. It also edges OpenAI's decision variants on the same metrics.\n\nIt does not fully Pareto-dominate. Gemini leads knowledge/reasoning sub-benchmarks (higher AA-Omniscience and HLE accuracy), is faster (211 ms vs 283 ms), and brings native audio/video/PDF plus Google's stack. Tradeoffs remain depending on the workload."
+        },
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120648211329056844",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Westxrnfn @ArtificialAnlys @GoogleDeepMind No. Drex Max v1.1 tops the overall Decision Index at 73 with $103 per 1M tasks, beating Gemini Decision 1 (66, $345) and Jev (66, $156) on score+cost. It also edges OpenAI's decision variants on the same metrics.\n\nIt does not fully Pareto-dominate. Gemini leads"
+      },
+      {
+        "author_id": "1259390136560713728",
+        "conversation_id": "2120582049522127205",
+        "created_at": "2026-11-11T22:41:47.000Z",
+        "edit_history_tweet_ids": [
+          "2120648211329056844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 22,
+              "id": "1743487864934162432",
+              "start": 6,
+              "username": "ArtificialAnlys"
+            },
+            {
+              "end": 38,
+              "id": "4783690002",
+              "start": 23,
+              "username": "GoogleDeepMind"
+            }
+          ]
+        },
+        "id": "2120648211329056844",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120647866515444107",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@grok @ArtificialAnlys @GoogleDeepMind does drex max v1.1 just completely render googles' decision api useless? its the best one and its cheaper doesn't it just pareto mog google, openai, and jev?"
+      },
+      {
+        "author_id": "1720665183188922368",
+        "conversation_id": "2120582049522127205",
+        "created_at": "2026-11-11T22:40:25.000Z",
+        "edit_history_tweet_ids": [
+          "2120647866515444107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1259390136560713728",
+              "start": 0,
+              "username": "Westxrnfn"
+            },
+            {
+              "end": 27,
+              "id": "1743487864934162432",
+              "start": 11,
+              "username": "ArtificialAnlys"
+            },
+            {
+              "end": 43,
+              "id": "4783690002",
+              "start": 28,
+              "username": "GoogleDeepMind"
+            }
+          ]
+        },
+        "id": "2120647866515444107",
+        "in_reply_to_user_id": "1259390136560713728",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120647703273034194",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Westxrnfn @ArtificialAnlys @GoogleDeepMind Drex Max v1.1 and GLiDE v1.2 both top the Decision Index at 73. Cost per 1M tasks for the ones scoring 70+:\n\nDrex Max v1.1: $103 \nGLiDE v1.2: $780 \nMammoth 27B: $264 \nd1-ultra: $133 \nDecider v1.2: ~$69 \n\nJev 1.14 (66): $156 \n\nDrex is the clear value leader among the 70+ group."
+      },
+      {
+        "author_id": "1259390136560713728",
+        "conversation_id": "2120582049522127205",
+        "created_at": "2026-11-11T22:39:46.000Z",
+        "edit_history_tweet_ids": [
+          "2120647703273034194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1743487864934162432",
+              "start": 0,
+              "username": "ArtificialAnlys"
+            },
+            {
+              "end": 32,
+              "id": "4783690002",
+              "start": 17,
+              "username": "GoogleDeepMind"
+            },
+            {
+              "end": 38,
+              "id": "1720665183188922368",
+              "start": 33,
+              "username": "grok"
+            }
+          ]
+        },
+        "id": "2120647703273034194",
+        "in_reply_to_user_id": "1743487864934162432",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120582049522127205",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@ArtificialAnlys @GoogleDeepMind @grok so this drex max v1.1 thing is the best? can u give me the pricing comparison of the once over 70 here compared to jev"
+      },
+      {
+        "author_id": "538348950",
+        "conversation_id": "2120582049522127205",
+        "created_at": "2026-11-11T19:47:49.000Z",
+        "edit_history_tweet_ids": [
+          "2120604427773981043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1743487864934162432",
+              "start": 0,
+              "username": "ArtificialAnlys"
+            },
+            {
+              "end": 32,
+              "id": "4783690002",
+              "start": 17,
+              "username": "GoogleDeepMind"
+            },
+            {
+              "end": 38,
+              "id": "1720665183188922368",
+              "start": 33,
+              "username": "grok"
+            }
+          ]
+        },
+        "id": "2120604427773981043",
+        "in_reply_to_user_id": "1743487864934162432",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120582049522127205",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@ArtificialAnlys @GoogleDeepMind @grok which are FOSS"
+      }
+    ],
+    "users": [
+      {
+        "id": "1914770052542599168",
+        "name": "Solaris",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931394897807912960/51eFceA9_normal.jpg",
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 95,
+          "like_count": 6341,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1055
+        },
+        "username": "solaris2029",
+        "verified": false
+      },
+      {
+        "id": "1743487864934162432",
+        "name": "Artificial Analysis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042402069320290304/A8C1lP07_normal.jpg",
+        "public_metrics": {
+          "followers_count": 177461,
+          "following_count": 693,
+          "like_count": 2848,
+          "listed_count": 2599,
+          "media_count": 2933,
+          "tweet_count": 4119
+        },
+        "username": "ArtificialAnlys",
+        "verified": true
+      },
+      {
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "public_metrics": {
+          "followers_count": 9373854,
+          "following_count": 4,
+          "like_count": 146,
+          "listed_count": 8154,
+          "media_count": 4076230,
+          "tweet_count": 148531743
+        },
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "id": "1259390136560713728",
+        "name": "westxrn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664057927832047616/7xj7CDep_normal.jpg",
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 1140,
+          "like_count": 34227,
+          "listed_count": 1,
+          "media_count": 716,
+          "tweet_count": 8655
+        },
+        "username": "Westxrnfn",
+        "verified": false
+      },
+      {
+        "id": "87078963",
+        "name": "Luis Junior | luisjunior.ai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119648835525832704/rsdP52qx_normal.jpg",
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 568,
+          "like_count": 14918,
+          "listed_count": 4,
+          "media_count": 129,
+          "tweet_count": 2294
+        },
+        "username": "luisjuniorj",
+        "verified": false
+      },
+      {
+        "id": "33985189",
+        "name": "Marcel Kaz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028279375217524736/WdnUZQhF_normal.jpg",
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 382,
+          "like_count": 1485,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 2150
+        },
+        "username": "twmk",
+        "verified": false
+      },
+      {
+        "id": "1939498827993759744",
+        "name": "Timothy Flynn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040112298606694400/IZP5W28o_normal.jpg",
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 139,
+          "like_count": 1642,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 664
+        },
+        "username": "flynn_dev",
+        "verified": false
+      },
+      {
+        "id": "554200939",
+        "name": "Satish Vutukuru",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1148230025436680192/COMUpOFZ_normal.png",
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 1550,
+          "like_count": 1680,
+          "listed_count": 13,
+          "media_count": 20,
+          "tweet_count": 1972
+        },
+        "username": "satish_vutukuru",
+        "verified": false
+      },
+      {
+        "id": "2087941714300506117",
+        "name": "Clara AI | Tools & Updates",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103205668178317312/_fBDuHW5_normal.jpg",
+        "public_metrics": {
+          "followers_count": 21073,
+          "following_count": 599,
+          "like_count": 2811,
+          "listed_count": 6,
+          "media_count": 6,
+          "tweet_count": 2905
+        },
+        "username": "ClaraOnAI",
+        "verified": false
+      },
+      {
+        "id": "2072142140319453184",
+        "name": "Ethan Walkrman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103493127533473792/gDMKMspA_normal.jpg",
+        "public_metrics": {
+          "followers_count": 6540,
+          "following_count": 7471,
+          "like_count": 1291,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 2938
+        },
+        "username": "ethanwalkerman",
+        "verified": false
+      },
+      {
+        "id": "1802838249045409792",
+        "name": "Brian Lockhart",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803812752299118592/kxM93lTE_normal.jpg",
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 795,
+          "like_count": 4945,
+          "listed_count": 7,
+          "media_count": 162,
+          "tweet_count": 965
+        },
+        "username": "BrianLockhart",
+        "verified": false
+      },
+      {
+        "id": "538348950",
+        "name": "Willie Peacock, esq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629093872100945922/12c70VOA_normal.jpg",
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 1402,
+          "like_count": 2133,
+          "listed_count": 46,
+          "media_count": 391,
+          "tweet_count": 8182
+        },
+        "username": "PeacockEsq",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120651366297395228",
+    "next_token": "b26v89c19zqg8o3juzovcalq7m9ycp7389s6afue9dzlp",
+    "oldest_id": "2120604577976221817",
+    "result_count": 15
+  }
+}

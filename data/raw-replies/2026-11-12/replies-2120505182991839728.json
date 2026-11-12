@@ -1,0 +1,753 @@
+{
+  "data": [
+    {
+      "author_id": "1661994214996197377",
+      "created_at": "2026-11-12T00:33:39.000Z",
+      "edit_history_tweet_ids": [
+        "2120676363271119005"
+      ],
+      "id": "2120676363271119005",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120505182991839728",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 哈哈哈哈 这个检测是只看出口 IP，还是浏览器指纹、时区这些也一起测？",
+      "url": "https://x.com/stansKoya/status/2120676363271119005"
+    },
+    {
+      "author_id": "1850547453054889984",
+      "created_at": "2026-11-11T23:50:06.000Z",
+      "edit_history_tweet_ids": [
+        "2120665401919193283"
+      ],
+      "id": "2120665401919193283",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 75,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120505182991839728",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 https://t.co/gCV4nmxYlY",
+      "url": "https://x.com/gentpan/status/2120665401919193283"
+    },
+    {
+      "author_id": "939720402233843712",
+      "created_at": "2026-11-11T23:15:30.000Z",
+      "edit_history_tweet_ids": [
+        "2120656692623073747"
+      ],
+      "id": "2120656692623073747",
+      "in_reply_to_user_id": "1838477322690924547",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120564585321382354",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@jinjie_li85064 @vista8 听说我这家宽也是假的 😂",
+      "url": "https://x.com/caixiaohuichn/status/2120656692623073747"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2120596456155598848"
+        ]
+      },
+      "author_id": "1855473638579073024",
+      "created_at": "2026-11-11T19:16:24.000Z",
+      "edit_history_tweet_ids": [
+        "2120596522354254139"
+      ],
+      "id": "2120596522354254139",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 182,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120505182991839728",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 感觉没啥用，同一个IP以前封过号，也还能正常用 https://t.co/IqEdjIk1eR",
+      "url": "https://x.com/liu_9982/status/2120596522354254139"
+    },
+    {
+      "author_id": "1247597177674711042",
+      "created_at": "2026-11-11T18:25:51.000Z",
+      "edit_history_tweet_ids": [
+        "2120583801558679947"
+      ],
+      "id": "2120583801558679947",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 120,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120505182991839728",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 我 ip 纯净度居然这么高",
+      "url": "https://x.com/Shrek0519/status/2120583801558679947"
+    },
+    {
+      "author_id": "1838477322690924547",
+      "created_at": "2026-11-11T17:09:29.000Z",
+      "edit_history_tweet_ids": [
+        "2120564585321382354"
+      ],
+      "id": "2120564585321382354",
+      "in_reply_to_user_id": "939720402233843712",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 15,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120512823654785128",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@caixiaohuichn @vista8 请教大佬家宽哪里可以买到",
+      "url": "https://x.com/jinjie_li85064/status/2120564585321382354"
+    },
+    {
+      "author_id": "1661223618196701184",
+      "created_at": "2026-11-11T16:27:20.000Z",
+      "edit_history_tweet_ids": [
+        "2120553977305854144"
+      ],
+      "id": "2120553977305854144",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 221,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120505182991839728",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 我 KYC 认证之前也用这个网站来检测，82 分，护照过后秒封🤣",
+      "url": "https://x.com/Perfectwf1314/status/2120553977305854144"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2120553787622670338"
+        ]
+      },
+      "author_id": "1990003380148727808",
+      "created_at": "2026-11-11T16:26:37.000Z",
+      "edit_history_tweet_ids": [
+        "2120553794316755224"
+      ],
+      "id": "2120553794316755224",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 263,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120505182991839728",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 之前被封了两次了 这会应该可以多撑几天了 https://t.co/YVH7ay7Abi",
+      "url": "https://x.com/JakeGuo117/status/2120553794316755224"
+    },
+    {
+      "author_id": "2030549621039349760",
+      "created_at": "2026-11-11T15:35:39.000Z",
+      "edit_history_tweet_ids": [
+        "2120540970374881554"
+      ],
+      "id": "2120540970374881554",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 83,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120505182991839728",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 没啥用",
+      "url": "https://x.com/QCodecc/status/2120540970374881554"
+    },
+    {
+      "author_id": "1126207424602337280",
+      "created_at": "2026-11-11T15:24:09.000Z",
+      "edit_history_tweet_ids": [
+        "2120538077030740120"
+      ],
+      "id": "2120538077030740120",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 254,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120505182991839728",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 这个检测站火得有道理，新规前夜大家最怕的就是 IP 被标。实测经验：别只看检测分数，关键看 IP 段是不是被多人共用过，独享干净的 IP 分数不高也稳。你测出来自己的 IP 是什么段？",
+      "url": "https://x.com/TheEasySale1/status/2120538077030740120"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2120535869790597121"
+        ]
+      },
+      "author_id": "1785696827288997888",
+      "created_at": "2026-11-11T15:16:05.000Z",
+      "edit_history_tweet_ids": [
+        "2120536043518898445"
+      ],
+      "id": "2120536043518898445",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 121,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120505182991839728",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 我都不好意思发出来 怕挨骂 https://t.co/GzVb88nvVb",
+      "url": "https://x.com/Habibi_Leslie/status/2120536043518898445"
+    },
+    {
+      "author_id": "2063471434572414976",
+      "created_at": "2026-11-11T15:11:30.000Z",
+      "edit_history_tweet_ids": [
+        "2120534892379566268"
+      ],
+      "id": "2120534892379566268",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 283,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120505182991839728",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 检测站再准，也只是让你提前心里有数。新规一来还是看官方怎么卡，别把检测结果当成护身符。",
+      "url": "https://x.com/thuhh998/status/2120534892379566268"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2120534803024052224"
+        ]
+      },
+      "author_id": "1785696827288997888",
+      "created_at": "2026-11-11T15:11:10.000Z",
+      "edit_history_tweet_ids": [
+        "2120534809701478771"
+      ],
+      "id": "2120534809701478771",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 557,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120505320409841934",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 你这说我都不好意思发出来 https://t.co/yMVwERfmMd",
+      "url": "https://x.com/Habibi_Leslie/status/2120534809701478771"
+    },
+    {
+      "author_id": "1155728908353863680",
+      "created_at": "2026-11-11T15:07:12.000Z",
+      "edit_history_tweet_ids": [
+        "2120533811318698227"
+      ],
+      "id": "2120533811318698227",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120505182991839728",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 刚刚阵亡",
+      "url": "https://x.com/SaiMiao9455/status/2120533811318698227"
+    },
+    {
+      "author_id": "1475488947719401474",
+      "created_at": "2026-11-11T15:01:57.000Z",
+      "edit_history_tweet_ids": [
+        "2120532488259010948"
+      ],
+      "id": "2120532488259010948",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120505182991839728",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 明天又是渡劫日",
+      "url": "https://x.com/gugukaka0/status/2120532488259010948"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_2120596456155598848",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2120553787622670338",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2120535869790597121",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2120534803024052224",
+        "type": "photo"
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2120504930830360576"
+          ]
+        },
+        "author_id": "6690032",
+        "created_at": "2026-11-11T13:13:27.000Z",
+        "edit_history_tweet_ids": [
+          "2120505182991839728"
+        ],
+        "id": "2120505182991839728",
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 23346,
+          "like_count": 53,
+          "quote_count": 5,
+          "reply_count": 32,
+          "retweet_count": 8
+        },
+        "text": "最近这个 Claude IP 风险检测网站是太火了。\n\n明天新规，看大家账号能不能逃过一劫\n\n网站地址见评论区 https://t.co/6GqEiWcRxp"
+      },
+      {
+        "author_id": "1838477322690924547",
+        "created_at": "2026-11-11T17:09:29.000Z",
+        "edit_history_tweet_ids": [
+          "2120564585321382354"
+        ],
+        "id": "2120564585321382354",
+        "in_reply_to_user_id": "939720402233843712",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120512823654785128",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@caixiaohuichn @vista8 请教大佬家宽哪里可以买到"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2120512809058656256"
+          ]
+        },
+        "author_id": "939720402233843712",
+        "created_at": "2026-11-11T13:43:49.000Z",
+        "edit_history_tweet_ids": [
+          "2120512823654785128"
+        ],
+        "id": "2120512823654785128",
+        "in_reply_to_user_id": "6690032",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 951,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120505182991839728",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@vista8 真不容易啊 昨天刚封 今天开始研究网络了😂 https://t.co/99NcmA1BL4"
+      },
+      {
+        "author_id": "6690032",
+        "created_at": "2026-11-11T13:14:00.000Z",
+        "edit_history_tweet_ids": [
+          "2120505320409841934"
+        ],
+        "id": "2120505320409841934",
+        "in_reply_to_user_id": "6690032",
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 4471,
+          "like_count": 20,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120505182991839728",
+            "type": "replied_to"
+          }
+        ],
+        "text": "检测地址：https://t.co/z4KHSR59Mv\n\n刚攀哥演示了他的 IP 纯净度，100% 纯净..."
+      }
+    ],
+    "users": [
+      {
+        "id": "1661994214996197377",
+        "name": "Stans",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031610215486083072/ttEqOaZU_normal.jpg",
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 187,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 755
+        },
+        "username": "stansKoya",
+        "verified": false
+      },
+      {
+        "id": "6690032",
+        "name": "向阳乔木",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960882043249942533/h4J39ERy_normal.jpg",
+        "public_metrics": {
+          "followers_count": 137981,
+          "following_count": 1697,
+          "like_count": 12628,
+          "listed_count": 2353,
+          "media_count": 3540,
+          "tweet_count": 10917
+        },
+        "username": "vista8",
+        "verified": false
+      },
+      {
+        "id": "1850547453054889984",
+        "name": "gentpan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102848773995081728/pEjJSPes_normal.jpg",
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 373,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 1381
+        },
+        "username": "gentpan",
+        "verified": false
+      },
+      {
+        "id": "939720402233843712",
+        "name": "Cuthbert",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016011956562575360/CVKmuXcz_normal.jpg",
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 181,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 131
+        },
+        "username": "caixiaohuichn",
+        "verified": false
+      },
+      {
+        "id": "1838477322690924547",
+        "name": "占子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104425359987130368/_V6ys9HI_normal.jpg",
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 19,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 111
+        },
+        "username": "jinjie_li85064",
+        "verified": false
+      },
+      {
+        "id": "1855473638579073024",
+        "name": "刘不得",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086948791585062912/vee9C2ge_normal.jpg",
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 110,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 372
+        },
+        "username": "liu_9982",
+        "verified": false
+      },
+      {
+        "id": "1247597177674711042",
+        "name": "Shrek",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053895257620914176/yZ7W7gJV_normal.jpg",
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 174,
+          "like_count": 1019,
+          "listed_count": 0,
+          "media_count": 332,
+          "tweet_count": 1643
+        },
+        "username": "Shrek0519",
+        "verified": false
+      },
+      {
+        "id": "1661223618196701184",
+        "name": "Charles .W",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661223762099048451/vlg87N4f_normal.png",
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 70,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 20
+        },
+        "username": "Perfectwf1314",
+        "verified": false
+      },
+      {
+        "id": "1990003380148727808",
+        "name": "Jake Guo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002233952334204928/gBwpJH2Q_normal.jpg",
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 125,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 39
+        },
+        "username": "JakeGuo117",
+        "verified": false
+      },
+      {
+        "id": "2030549621039349760",
+        "name": "QCode",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120574926637993984/azCf3ddF_normal.jpg",
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 873,
+          "like_count": 2242,
+          "listed_count": 1,
+          "media_count": 331,
+          "tweet_count": 4185
+        },
+        "username": "QCodecc",
+        "verified": false
+      },
+      {
+        "id": "1126207424602337280",
+        "name": "TheEasySale（互关，有关必回）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1126241289526071296/a9Qu3z3a_normal.png",
+        "public_metrics": {
+          "followers_count": 2099,
+          "following_count": 1947,
+          "like_count": 7518,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 5448
+        },
+        "username": "TheEasySale1",
+        "verified": false
+      },
+      {
+        "id": "1785696827288997888",
+        "name": "Leslie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036417957363064833/9cBXa89V_normal.jpg",
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 230,
+          "like_count": 345,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 468
+        },
+        "username": "Habibi_Leslie",
+        "verified": false
+      },
+      {
+        "id": "2063471434572414976",
+        "name": "FrogEE｜AI·创业随笔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117279154098073600/m54jQTFG_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 1143,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1260
+        },
+        "username": "thuhh998",
+        "verified": false
+      },
+      {
+        "id": "1155728908353863680",
+        "name": "喵人用 AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074433465731489792/DEoFZlR6_normal.jpg",
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 196,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 147
+        },
+        "username": "SaiMiao9455",
+        "verified": false
+      },
+      {
+        "id": "1475488947719401474",
+        "name": "玻璃渣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109318925536419840/O6BNZICd_normal.jpg",
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 148,
+          "like_count": 1494,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 3199
+        },
+        "username": "gugukaka0",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120676363271119005",
+    "next_token": "b26v89c19zqg8o3juzovc8hwcizd9wf8usqjwqngnrhbx",
+    "oldest_id": "2120532488259010948",
+    "result_count": 15
+  }
+}

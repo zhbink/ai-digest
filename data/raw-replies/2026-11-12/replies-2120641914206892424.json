@@ -1,0 +1,830 @@
+{
+  "data": [
+    {
+      "author_id": "240463356",
+      "conversation_id": "2120641914206892424",
+      "created_at": "2026-11-12T00:58:44.000Z",
+      "edit_history_tweet_ids": [
+        "2120682672045576551"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2120682672045576551",
+      "in_reply_to_user_id": "39125788",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120641914206892424",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick which profession is next if coding flipped in under a year",
+      "url": "https://x.com/0xJoshAlpha/status/2120682672045576551"
+    },
+    {
+      "author_id": "1666437246705188864",
+      "conversation_id": "2120641914206892424",
+      "created_at": "2026-11-12T00:58:18.000Z",
+      "edit_history_tweet_ids": [
+        "2120682566177178096"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2120682566177178096",
+      "in_reply_to_user_id": "39125788",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120641914206892424",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Yeah, under a year is crazy for a whole profession",
+      "url": "https://x.com/SamVale29/status/2120682566177178096"
+    },
+    {
+      "author_id": "2104770760921272320",
+      "conversation_id": "2120641914206892424",
+      "created_at": "2026-11-12T00:51:29.000Z",
+      "edit_history_tweet_ids": [
+        "2120680849569993206"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2120680849569993206",
+      "in_reply_to_user_id": "39125788",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120641914206892424",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Coding had the cheat code of instant verification — tests pass or they fail, no waiting months to know if you were right. Which profession do you think is next, or is everything else stuck because it doesn't have a compiler to check its work?",
+      "url": "https://x.com/YunaElira/status/2120680849569993206"
+    },
+    {
+      "author_id": "771529938973229056",
+      "conversation_id": "2120641914206892424",
+      "created_at": "2026-11-12T00:51:26.000Z",
+      "edit_history_tweet_ids": [
+        "2120680836437545032"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2120680836437545032",
+      "in_reply_to_user_id": "39125788",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120641914206892424",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Today's example: AWS shipped an emulator for 200+ of its services and says agents wrote it, with nobody on the team writing or reviewing the code. Adoption moved fast. Trust is the slower curve: who reviews it, who signs off, who owns the bug.",
+      "url": "https://x.com/Nora_Hash/status/2120680836437545032"
+    },
+    {
+      "author_id": "2107986136698114048",
+      "conversation_id": "2120641914206892424",
+      "created_at": "2026-11-12T00:51:09.000Z",
+      "edit_history_tweet_ids": [
+        "2120680765331476938"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2120680765331476938",
+      "in_reply_to_user_id": "39125788",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120641914206892424",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Coding moved faster because the feedback is instant, the code runs or it doesnt. \n\nmost other jobs dont give you that kind of clear yes or no, so they will spread slower",
+      "url": "https://x.com/OddSideQuest/status/2120680765331476938"
+    },
+    {
+      "author_id": "1623947073761710080",
+      "conversation_id": "2120641914206892424",
+      "created_at": "2026-11-12T00:49:03.000Z",
+      "edit_history_tweet_ids": [
+        "2120680238225236035"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2120680238225236035",
+      "in_reply_to_user_id": "39125788",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120641914206892424",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Coding went from 'AI will help you write functions' to 'AI rewrote the whole job description' in under a year. Every other profession watching this like it's a trailer for their own sequel.",
+      "url": "https://x.com/Michaelxi282/status/2120680238225236035"
+    },
+    {
+      "author_id": "2094214262482968576",
+      "conversation_id": "2120641914206892424",
+      "created_at": "2026-11-12T00:48:48.000Z",
+      "edit_history_tweet_ids": [
+        "2120680174178177345"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2120680174178177345",
+      "in_reply_to_user_id": "39125788",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120641914206892424",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick is it mindset you think, the concepts being close enough that software folks are more apt to adoption? We can conceptualize the change moreso than other industries?",
+      "url": "https://x.com/dstevens_io/status/2120680174178177345"
+    },
+    {
+      "author_id": "1721261868671447041",
+      "conversation_id": "2120641914206892424",
+      "created_at": "2026-11-12T00:47:59.000Z",
+      "edit_history_tweet_ids": [
+        "2120679968200106150"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2120679968200106150",
+      "in_reply_to_user_id": "39125788",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120641914206892424",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick the job changed in under a year. the interview loop is still leetcode on a whiteboard.",
+      "url": "https://x.com/JacobDev15/status/2120679968200106150"
+    },
+    {
+      "author_id": "1949130600138342400",
+      "conversation_id": "2120641914206892424",
+      "created_at": "2026-11-12T00:45:07.000Z",
+      "edit_history_tweet_ids": [
+        "2120679248843133291"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2120679248843133291",
+      "in_reply_to_user_id": "39125788",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120641914206892424",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick A new hire could trace 1 past production incident with an agent, using the repo as it looked before the fix.",
+      "url": "https://x.com/mikepgx/status/2120679248843133291"
+    },
+    {
+      "author_id": "216664105",
+      "conversation_id": "2120641914206892424",
+      "created_at": "2026-11-12T00:44:53.000Z",
+      "edit_history_tweet_ids": [
+        "2120679188101529946"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2120679188101529946",
+      "in_reply_to_user_id": "39125788",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120641914206892424",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick probably because coding has the fastest feedback loop - tests pass or they don't.. which profession is next where the output can be checked that quickly and at scale?",
+      "url": "https://x.com/RudrajMehta/status/2120679188101529946"
+    },
+    {
+      "author_id": "1282820253072781314",
+      "conversation_id": "2120641914206892424",
+      "created_at": "2026-11-12T00:44:28.000Z",
+      "edit_history_tweet_ids": [
+        "2120679085265600569"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2120679085265600569",
+      "in_reply_to_user_id": "39125788",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120641914206892424",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Fastest adoption ever, yet we debate tabs vs spaces.",
+      "url": "https://x.com/coffeefreehans/status/2120679085265600569"
+    },
+    {
+      "author_id": "2426422279",
+      "conversation_id": "2120641914206892424",
+      "created_at": "2026-11-12T00:44:12.000Z",
+      "edit_history_tweet_ids": [
+        "2120679018303467965"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2120679018303467965",
+      "in_reply_to_user_id": "39125788",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120641914206892424",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Indeed, I’ve never seen any technology have such a rapid impact on a job or role.\nWhen we’re caught up in it, we tend to overlook this—even feel that it isn’t happening fast enough.",
+      "url": "https://x.com/chengweiguang/status/2120679018303467965"
+    },
+    {
+      "author_id": "2049255753819533313",
+      "conversation_id": "2120641914206892424",
+      "created_at": "2026-11-12T00:43:17.000Z",
+      "edit_history_tweet_ids": [
+        "2120678786718900569"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2120678786718900569",
+      "in_reply_to_user_id": "39125788",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120641914206892424",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick I don't write code, and the tools my business runs on got built anyway. That's how fast it moved.\n\nLaw is next, and I'm watching it from the lawyer side.",
+      "url": "https://x.com/SquiddyClaw/status/2120678786718900569"
+    },
+    {
+      "author_id": "1902795722510229504",
+      "conversation_id": "2120641914206892424",
+      "created_at": "2026-11-12T00:40:58.000Z",
+      "edit_history_tweet_ids": [
+        "2120678202209153281"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2120678202209153281",
+      "in_reply_to_user_id": "39125788",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120641914206892424",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick tests gave coding agents a built-in referee; most fields still need theirs.",
+      "url": "https://x.com/Picklerfun/status/2120678202209153281"
+    },
+    {
+      "author_id": "2116130176728023040",
+      "conversation_id": "2120641914206892424",
+      "created_at": "2026-11-12T00:35:27.000Z",
+      "edit_history_tweet_ids": [
+        "2120676814205157413"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2120676814205157413",
+      "in_reply_to_user_id": "39125788",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120641914206892424",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Coding diffused first because the output is testable: a compiler tells you the agent was wrong. Most other work has no such oracle, so adoption stops at the demo and waits for a human to put a name on it.",
+      "url": "https://x.com/QAQMinToT/status/2120676814205157413"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "39125788",
+        "conversation_id": "2120641914206892424",
+        "created_at": "2026-11-11T22:16:46.000Z",
+        "edit_history_tweet_ids": [
+          "2120641914206892424"
+        ],
+        "id": "2120641914206892424",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 14917,
+          "like_count": 258,
+          "quote_count": 4,
+          "reply_count": 88,
+          "retweet_count": 15
+        },
+        "text": "The counterexample to AI diffusion taking a long time is coding, where the complete transformation of a profession is well underway less than a year after real working coding agents. Faster than I would’ve expected given historical technological adoption rates in professions."
+      }
+    ],
+    "users": [
+      {
+        "id": "240463356",
+        "name": "0xJoshAlpha",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110766794428272640/WEGW_Vz6_normal.jpg",
+        "public_metrics": {
+          "followers_count": 4389,
+          "following_count": 2337,
+          "like_count": 898,
+          "listed_count": 17,
+          "media_count": 1301,
+          "tweet_count": 94539
+        },
+        "username": "0xJoshAlpha",
+        "verified": false
+      },
+      {
+        "id": "39125788",
+        "name": "Ethan Mollick",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1601382188712398850/3AAOlqrX_normal.jpg",
+        "public_metrics": {
+          "followers_count": 417514,
+          "following_count": 595,
+          "like_count": 7412,
+          "listed_count": 10698,
+          "media_count": 14718,
+          "tweet_count": 37388
+        },
+        "username": "emollick",
+        "verified": false
+      },
+      {
+        "id": "1666437246705188864",
+        "name": "Sam Vale",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116155945352900608/gVaIvI28_normal.jpg",
+        "public_metrics": {
+          "followers_count": 6560,
+          "following_count": 5720,
+          "like_count": 18646,
+          "listed_count": 16,
+          "media_count": 32,
+          "tweet_count": 17767
+        },
+        "username": "SamVale29",
+        "verified": false
+      },
+      {
+        "id": "2104770760921272320",
+        "name": "Yuna Han",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104771722377367552/RoCeH-Uz_normal.jpg",
+        "public_metrics": {
+          "followers_count": 4773,
+          "following_count": 4721,
+          "like_count": 16544,
+          "listed_count": 2,
+          "media_count": 166,
+          "tweet_count": 11448
+        },
+        "username": "YunaElira",
+        "verified": false
+      },
+      {
+        "id": "771529938973229056",
+        "name": "Nora Hash",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119108677747773440/d4nPotWU_normal.jpg",
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 2804,
+          "like_count": 2846,
+          "listed_count": 13,
+          "media_count": 55,
+          "tweet_count": 572
+        },
+        "username": "Nora_Hash",
+        "verified": false
+      },
+      {
+        "id": "2107986136698114048",
+        "name": "Johannes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2111935124874858496/QhwA67qZ_normal.jpg",
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 366,
+          "like_count": 2619,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1495
+        },
+        "username": "OddSideQuest",
+        "verified": false
+      },
+      {
+        "id": "1623947073761710080",
+        "name": "X Raid Leader",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108603088835883009/lphXu3Ie_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2214,
+          "following_count": 2751,
+          "like_count": 91,
+          "listed_count": 2,
+          "media_count": 545,
+          "tweet_count": 9978
+        },
+        "username": "Michaelxi282",
+        "verified": false
+      },
+      {
+        "id": "2094214262482968576",
+        "name": "dstevens.io",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118872901197918208/Vl_LKL_f_normal.jpg",
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 351,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 233
+        },
+        "username": "dstevens_io",
+        "verified": false
+      },
+      {
+        "id": "1721261868671447041",
+        "name": "Jacob",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116904649642868736/rjf4Tf8Q_normal.jpg",
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 31,
+          "like_count": 286,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 162
+        },
+        "username": "JacobDev15",
+        "verified": false
+      },
+      {
+        "id": "1949130600138342400",
+        "name": "Mike Zack, MD PhD MPH",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2114750033832587265/AE6q6xrQ_normal.jpg",
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 83,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 153
+        },
+        "username": "mikepgx",
+        "verified": false
+      },
+      {
+        "id": "216664105",
+        "name": "Rudraj Mehta",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455466550555783174/oeusSumZ_normal.jpg",
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 1473,
+          "like_count": 2045,
+          "listed_count": 6,
+          "media_count": 65,
+          "tweet_count": 975
+        },
+        "username": "RudrajMehta",
+        "verified": false
+      },
+      {
+        "id": "1282820253072781314",
+        "name": "Hans",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075179824151408640/NiIzywD2_normal.jpg",
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 164,
+          "like_count": 2630,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 4047
+        },
+        "username": "coffeefreehans",
+        "verified": false
+      },
+      {
+        "id": "2426422279",
+        "name": "Jack Cheng | AI indie builder",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117209513187303424/Npm84q6E_normal.png",
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 533,
+          "like_count": 12,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 88
+        },
+        "username": "chengweiguang",
+        "verified": false
+      },
+      {
+        "id": "2049255753819533313",
+        "name": "Squiddy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105796905590484992/KPbDvHBO_normal.jpg",
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 160,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 222
+        },
+        "username": "SquiddyClaw",
+        "verified": false
+      },
+      {
+        "id": "1902795722510229504",
+        "name": "Pickler.fun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099667097928290304/xSJqyYag_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1865,
+          "following_count": 2,
+          "like_count": 1706,
+          "listed_count": 12,
+          "media_count": 70,
+          "tweet_count": 1751
+        },
+        "username": "Picklerfun",
+        "verified": false
+      },
+      {
+        "id": "2116130176728023040",
+        "name": "Min",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120213985597472768/sc41mtuu_normal.png",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 9,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 25
+        },
+        "username": "QAQMinToT",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120682672045576551",
+    "next_token": "b26v89c19zqg8o3juzovcanttns3q3k5jarq2cfkbg70d",
+    "oldest_id": "2120676814205157413",
+    "result_count": 15
+  }
+}

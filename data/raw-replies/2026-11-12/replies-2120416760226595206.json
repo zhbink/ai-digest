@@ -1,0 +1,213 @@
+{
+  "data": [
+    {
+      "author_id": "2015614584674246656",
+      "created_at": "2026-11-11T14:06:13.000Z",
+      "edit_history_tweet_ids": [
+        "2120518463634760172"
+      ],
+      "id": "2120518463634760172",
+      "in_reply_to_user_id": "1807669255909019648",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120416760226595206",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ViduAI_official That lantern city is absolutely magical — the lighting, floating lanterns and atmosphere are next level. Faster generation like this actually changes the game for ad teams who need to test multiple directions before a tight deadline. Q4 Preview looking strong 🔥",
+      "url": "https://x.com/MrAdamAi/status/2120518463634760172"
+    },
+    {
+      "author_id": "2029354940624449537",
+      "created_at": "2026-11-11T11:48:27.000Z",
+      "edit_history_tweet_ids": [
+        "2120483792888451253"
+      ],
+      "id": "2120483792888451253",
+      "in_reply_to_user_id": "1807669255909019648",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120416760226595206",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ViduAI_official That is the exact afternoon every ad job turns into, three concepts and two hours. Faster generation buys decisions rather than time. We build AI video ads, so the number we care about is how many versions we can show before the client meeting.",
+      "url": "https://x.com/felam216/status/2120483792888451253"
+    },
+    {
+      "author_id": "1650358600316129282",
+      "created_at": "2026-11-11T11:10:08.000Z",
+      "edit_history_tweet_ids": [
+        "2120474149407871094"
+      ],
+      "id": "2120474149407871094",
+      "in_reply_to_user_id": "1807669255909019648",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120416760226595206",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ViduAI_official Amazing share",
+      "url": "https://x.com/shamimai1/status/2120474149407871094"
+    },
+    {
+      "author_id": "2083138653430153216",
+      "created_at": "2026-11-11T11:08:54.000Z",
+      "edit_history_tweet_ids": [
+        "2120473839691837930"
+      ],
+      "id": "2120473839691837930",
+      "in_reply_to_user_id": "1807669255909019648",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120416760226595206",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ViduAI_official Faster generation means more time to actually test creative",
+      "url": "https://x.com/BaranwithAi/status/2120473839691837930"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2120416304540844032"
+          ]
+        },
+        "author_id": "1807669255909019648",
+        "created_at": "2026-11-11T07:22:05.000Z",
+        "edit_history_tweet_ids": [
+          "2120416760226595206"
+        ],
+        "id": "2120416760226595206",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 724,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "text": "⚡ Two hours to delivery. Three ad concepts still need testing.\n\nSlow generation squeezes the time you have to make creative decisions. Vidu Q4 Preview now generates faster, with improved prompt understanding and more refined visuals.\n\n🎬 Use the extra iteration time to compare https://t.co/6R7jxixqGl"
+      }
+    ],
+    "users": [
+      {
+        "id": "2015614584674246656",
+        "name": "Mr Adam AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118673938591162368/pTqw9a61_normal.jpg",
+        "public_metrics": {
+          "followers_count": 42130,
+          "following_count": 1457,
+          "like_count": 3422,
+          "listed_count": 73,
+          "media_count": 35,
+          "tweet_count": 2265
+        },
+        "username": "MrAdamAi",
+        "verified": false
+      },
+      {
+        "id": "1807669255909019648",
+        "name": "Vidu AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075180406836695040/8-VPJkK9_normal.jpg",
+        "public_metrics": {
+          "followers_count": 16724,
+          "following_count": 72,
+          "like_count": 1813,
+          "listed_count": 214,
+          "media_count": 539,
+          "tweet_count": 1346
+        },
+        "username": "ViduAI_official",
+        "verified": false
+      },
+      {
+        "id": "2029354940624449537",
+        "name": "omofela",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103478856388608002/ORSYZYq4_normal.jpg",
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 179,
+          "like_count": 3708,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 5284
+        },
+        "username": "felam216",
+        "verified": false
+      },
+      {
+        "id": "1650358600316129282",
+        "name": "Shamim Hossain",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918272902815989764/aUFC0Bho_normal.jpg",
+        "public_metrics": {
+          "followers_count": 16521,
+          "following_count": 990,
+          "like_count": 100274,
+          "listed_count": 91,
+          "media_count": 9927,
+          "tweet_count": 108615
+        },
+        "username": "shamimai1",
+        "verified": false
+      },
+      {
+        "id": "2083138653430153216",
+        "name": "Baran Ai | tools & updates",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2114901680517152768/SDzkhilT_normal.jpg",
+        "public_metrics": {
+          "followers_count": 21541,
+          "following_count": 305,
+          "like_count": 362,
+          "listed_count": 4,
+          "media_count": 1,
+          "tweet_count": 363
+        },
+        "username": "BaranwithAi",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120518463634760172",
+    "next_token": "b26v89c19zqg8o3juzovc6edefzqno7uc6xjkgnycvjp9",
+    "oldest_id": "2120473839691837930",
+    "result_count": 4
+  }
+}

@@ -1,0 +1,662 @@
+{
+  "data": [
+    {
+      "author_id": "1806334833058299904",
+      "created_at": "2026-11-12T00:58:35.000Z",
+      "edit_history_tweet_ids": [
+        "2120682637929132384"
+      ],
+      "id": "2120682637929132384",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120484246401777737",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @signalapp The scope matters: libsignal v0.105.4's AArch64 machine code for PQXDH and Triple Ratchet, assuming perfect cryptographic primitives. This does not prove the entire Signal app secure.\nhttps://t.co/5kiqnQp9Mq",
+      "url": "https://x.com/IB2OJUBzE273682/status/2120682637929132384"
+    },
+    {
+      "author_id": "195624776",
+      "created_at": "2026-11-12T00:53:38.000Z",
+      "edit_history_tweet_ids": [
+        "2120681389859492270"
+      ],
+      "id": "2120681389859492270",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120484246401777737",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @signalapp AI just proved the math behind billions of private messages, down to the code. Trust but verify just got automated #AI #Security",
+      "url": "https://x.com/dstrausser83/status/2120681389859492270"
+    },
+    {
+      "author_id": "1797083959165329409",
+      "created_at": "2026-11-12T00:43:24.000Z",
+      "edit_history_tweet_ids": [
+        "2120678813340471362"
+      ],
+      "id": "2120678813340471362",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120484246401777737",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @signalapp AlphaProof 本来是解数学奥赛题的，现在拿来验 Signal 的协议。DeepMind 这跨界，跨得有点狠。",
+      "url": "https://x.com/linjiu321/status/2120678813340471362"
+    },
+    {
+      "author_id": "1797083959165329409",
+      "created_at": "2026-11-12T00:43:03.000Z",
+      "edit_history_tweet_ids": [
+        "2120678725637607562"
+      ],
+      "id": "2120678725637607562",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120484246401777737",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @signalapp 从数学上证明，一直证明到代码层面——意思就是漏洞不是没被发现，是数学上压根不存在。这话分量不轻。",
+      "url": "https://x.com/linjiu321/status/2120678725637607562"
+    },
+    {
+      "author_id": "1437751191857999875",
+      "created_at": "2026-11-12T00:28:53.000Z",
+      "edit_history_tweet_ids": [
+        "2120675163641352591"
+      ],
+      "id": "2120675163641352591",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120484246401777737",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @signalapp Best design choice here: the agents don't grade their own proofs, Lean does. Humans own the spec, a checker owns the verdict.\n\nI copy that for code with up to two blind reviewers bc I don't have a Lean kernel for PRs hehe",
+      "url": "https://x.com/h1kz0r/status/2120675163641352591"
+    },
+    {
+      "author_id": "952976175374123008",
+      "created_at": "2026-11-12T00:17:38.000Z",
+      "edit_history_tweet_ids": [
+        "2120672332293562438"
+      ],
+      "id": "2120672332293562438",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 28,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120484246401777737",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @signalapp The next thing I'd want is a proof that reruns when the code changes.",
+      "url": "https://x.com/OfficialXYO/status/2120672332293562438"
+    },
+    {
+      "author_id": "380072771",
+      "created_at": "2026-11-11T23:55:54.000Z",
+      "edit_history_tweet_ids": [
+        "2120666861729993007"
+      ],
+      "id": "2120666861729993007",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120484246401777737",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @signalapp proving signal in math is a flex. now do the messy implementations people actually run",
+      "url": "https://x.com/saksonchain/status/2120666861729993007"
+    },
+    {
+      "author_id": "856357866",
+      "created_at": "2026-11-11T23:47:40.000Z",
+      "edit_history_tweet_ids": [
+        "2120664790561665137"
+      ],
+      "id": "2120664790561665137",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 22,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120484246401777737",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @signalapp 官博里有个容易被忽略的数：Gemini智能体4周写了600多万行证明，真正关键的那1%还是人在查。而且这次只验证了Signal的加密核心，不是整个App。",
+      "url": "https://x.com/aimusheng/status/2120664790561665137"
+    },
+    {
+      "author_id": "1880616515965194240",
+      "created_at": "2026-11-11T23:38:50.000Z",
+      "edit_history_tweet_ids": [
+        "2120662566875845000"
+      ],
+      "id": "2120662566875845000",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120484246401777737",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @signalapp 🙏🧩",
+      "url": "https://x.com/AMANiG86/status/2120662566875845000"
+    },
+    {
+      "author_id": "1633831577716396032",
+      "created_at": "2026-11-11T23:07:28.000Z",
+      "edit_history_tweet_ids": [
+        "2120654673644540262"
+      ],
+      "id": "2120654673644540262",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120484246401777737",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @signalapp machine-checked proofs at the compiled-code boundary are fascinating. i'd most want to inspect which assumptions remain outside the proof, particularly around dependencies and key management.",
+      "url": "https://x.com/SMishra61/status/2120654673644540262"
+    },
+    {
+      "author_id": "2109231484767031296",
+      "created_at": "2026-11-11T22:53:26.000Z",
+      "edit_history_tweet_ids": [
+        "2120651142615142883"
+      ],
+      "id": "2120651142615142883",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120484249321033911",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind Signal had a clear protocol to specify — the harder test is legacy infrastructure like power grids, where no formal spec exists. Who writes the trusted spec there, and how much of the 6M-line effort is spec-writing versus proof generation?",
+      "url": "https://x.com/thebotbites/status/2120651142615142883"
+    },
+    {
+      "author_id": "757940114949537792",
+      "created_at": "2026-11-11T22:49:45.000Z",
+      "edit_history_tweet_ids": [
+        "2120650215657259501"
+      ],
+      "id": "2120650215657259501",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120484246401777737",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @signalapp Gemini agents generated over 6M lines of proofs in Lean, and human experts only had to review the critical 1%.",
+      "url": "https://x.com/sulaiman_svesal/status/2120650215657259501"
+    },
+    {
+      "author_id": "2043685830758219776",
+      "created_at": "2026-11-11T22:20:01.000Z",
+      "edit_history_tweet_ids": [
+        "2120642730145501440"
+      ],
+      "id": "2120642730145501440",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120484246401777737",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @signalapp Billions of private messages are probably sleeping a little more soundly tonight.",
+      "url": "https://x.com/AIInspoWorld/status/2120642730145501440"
+    },
+    {
+      "author_id": "1363216853473107972",
+      "created_at": "2026-11-11T22:15:29.000Z",
+      "edit_history_tweet_ids": [
+        "2120641592591843494"
+      ],
+      "id": "2120641592591843494",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120484246401777737",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @signalapp The expensive part of enterprise software was never writing it. It's proving it does what it claims: audits, pen tests, compliance reviews. If proof gets cheap, the bottleneck in shipping AI-written code moves from verification to deciding what to build.",
+      "url": "https://x.com/Mike_Maresca/status/2120641592591843494"
+    },
+    {
+      "author_id": "2078707395438759936",
+      "created_at": "2026-11-11T22:08:01.000Z",
+      "edit_history_tweet_ids": [
+        "2120639709911421369"
+      ],
+      "id": "2120639709911421369",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120484246401777737",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @signalapp Verifying the compiled binary rather than a protocol model is what matters for shipped firmware. My open question is how the spec handles the boundary with the OS and driver code that moves keys in and out — that's usually where real-world assumptions leak in.",
+      "url": "https://x.com/sunder0yct/status/2120639709911421369"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "16_2120483699326111746"
+          ]
+        },
+        "author_id": "4783690002",
+        "created_at": "2026-11-11T11:50:15.000Z",
+        "edit_history_tweet_ids": [
+          "2120484246401777737"
+        ],
+        "id": "2120484246401777737",
+        "public_metrics": {
+          "bookmark_count": 347,
+          "impression_count": 112923,
+          "like_count": 1759,
+          "quote_count": 135,
+          "reply_count": 278,
+          "retweet_count": 191
+        },
+        "text": "For the first time, AI has mathematically proven @signalapp’s protocol is secure down to the code level.\n\nUsing our breakthrough AlphaProof Code framework, we verified the messaging app’s cryptographic system – which protects billions of private messages every day. https://t.co/iWNJ8UiTSQ"
+      },
+      {
+        "author_id": "4783690002",
+        "created_at": "2026-11-11T11:50:16.000Z",
+        "edit_history_tweet_ids": [
+          "2120484249321033911"
+        ],
+        "id": "2120484249321033911",
+        "in_reply_to_user_id": "4783690002",
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 20003,
+          "like_count": 124,
+          "quote_count": 8,
+          "reply_count": 19,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120484246401777737",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Gemini agents generated over 6M lines of proofs in Lean, auditing the code so human experts only had to review the critical 1%.\n\nThis is a key step toward using AI to verify vital infrastructure we all rely on – from daily communication to power grids. Find out more →"
+      }
+    ],
+    "users": [
+      {
+        "id": "1806334833058299904",
+        "name": "阿飞之狗（阿飞之狗）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926268523996680192/Z0uDVogw_normal.jpg",
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 92,
+          "like_count": 234,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 66
+        },
+        "username": "IB2OJUBzE273682",
+        "verified": false
+      },
+      {
+        "id": "4783690002",
+        "name": "Google DeepMind",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1606260,
+          "following_count": 268,
+          "like_count": 2959,
+          "listed_count": 19038,
+          "media_count": 2011,
+          "tweet_count": 4628
+        },
+        "username": "GoogleDeepMind",
+        "verified": true
+      },
+      {
+        "id": "195624776",
+        "name": "David Strausser",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078923088415064065/86ewX-0D_normal.jpg",
+        "public_metrics": {
+          "followers_count": 5233,
+          "following_count": 2067,
+          "like_count": 5677,
+          "listed_count": 169,
+          "media_count": 2607,
+          "tweet_count": 37939
+        },
+        "username": "dstrausser83",
+        "verified": false
+      },
+      {
+        "id": "1797083959165329409",
+        "name": "web吐槽主任",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842759973740142592/n0eXscNi_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3769,
+          "following_count": 3580,
+          "like_count": 921,
+          "listed_count": 4,
+          "media_count": 466,
+          "tweet_count": 7169
+        },
+        "username": "linjiu321",
+        "verified": false
+      },
+      {
+        "id": "1437751191857999875",
+        "name": "MJ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662643812408123393/n8RySB1__normal.jpg",
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 552,
+          "like_count": 493,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 1249
+        },
+        "username": "h1kz0r",
+        "verified": false
+      },
+      {
+        "id": "952976175374123008",
+        "name": "XYO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1536773697909862400/Xy26jfyV_normal.jpg",
+        "public_metrics": {
+          "followers_count": 186875,
+          "following_count": 635,
+          "like_count": 18669,
+          "listed_count": 366,
+          "media_count": 4025,
+          "tweet_count": 11701
+        },
+        "username": "OfficialXYO",
+        "verified": true
+      },
+      {
+        "id": "380072771",
+        "name": "Sakuzi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076384987398455296/wa2k62n6_normal.jpg",
+        "public_metrics": {
+          "followers_count": 7743,
+          "following_count": 838,
+          "like_count": 4459,
+          "listed_count": 52,
+          "media_count": 992,
+          "tweet_count": 14297
+        },
+        "username": "saksonchain",
+        "verified": false
+      },
+      {
+        "id": "856357866",
+        "name": "ai木生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019375031357464576/rSJv2fRR_normal.jpg",
+        "public_metrics": {
+          "followers_count": 4099,
+          "following_count": 3224,
+          "like_count": 8383,
+          "listed_count": 3,
+          "media_count": 737,
+          "tweet_count": 8339
+        },
+        "username": "aimusheng",
+        "verified": false
+      },
+      {
+        "id": "1880616515965194240",
+        "name": "AMANi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100303518028488704/K4PfPpT-_normal.jpg",
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 147,
+          "like_count": 625,
+          "listed_count": 0,
+          "media_count": 296,
+          "tweet_count": 1135
+        },
+        "username": "AMANiG86",
+        "verified": false
+      },
+      {
+        "id": "1633831577716396032",
+        "name": "Shorya Mishra",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091862709897924608/8kzC51eW_normal.jpg",
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 862,
+          "like_count": 1742,
+          "listed_count": 3,
+          "media_count": 333,
+          "tweet_count": 4209
+        },
+        "username": "SMishra61",
+        "verified": false
+      },
+      {
+        "id": "2109231484767031296",
+        "name": "Bot Bites",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109232277695889408/sEzLRo0n_normal.jpg",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 95
+        },
+        "username": "thebotbites",
+        "verified": false
+      },
+      {
+        "id": "757940114949537792",
+        "name": "Sulaiman Vesal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106906634916352000/V_uVJEDS_normal.jpg",
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 292,
+          "like_count": 267,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 745
+        },
+        "username": "sulaiman_svesal",
+        "verified": false
+      },
+      {
+        "id": "2043685830758219776",
+        "name": "AI Inspiration World🇨🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119964605162151937/LACfP7wb_normal.jpg",
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 178,
+          "like_count": 210,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 326
+        },
+        "username": "AIInspoWorld",
+        "verified": false
+      },
+      {
+        "id": "1363216853473107972",
+        "name": "Mike Maresca",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2113011954042470400/Y1fMA7NR_normal.jpg",
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 1441,
+          "like_count": 681,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 500
+        },
+        "username": "Mike_Maresca",
+        "verified": false
+      },
+      {
+        "id": "2078707395438759936",
+        "name": "sunder",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102705168106348544/nckeOYJ3_normal.jpg",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 650
+        },
+        "username": "sunder0yct",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120682637929132384",
+    "next_token": "b26v89c19zqg8o3juzovcammshxnfovjq25aeut2pdwu5",
+    "oldest_id": "2120639709911421369",
+    "result_count": 15
+  }
+}

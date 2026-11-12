@@ -1,0 +1,183 @@
+{
+  "data": [
+    {
+      "author_id": "747729188212379648",
+      "conversation_id": "2120510691689857240",
+      "created_at": "2026-11-11T21:46:27.000Z",
+      "edit_history_tweet_ids": [
+        "2120634284352422040"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "2015703340563447808",
+            "start": 0,
+            "username": "0xjmori"
+          },
+          {
+            "end": 13,
+            "id": "2085838061347217408",
+            "start": 9,
+            "username": "bot"
+          }
+        ]
+      },
+      "id": "2120634284352422040",
+      "in_reply_to_user_id": "2015703340563447808",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 21,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120510691689857240",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@0xjmori @bot how to set it up?",
+      "url": "https://x.com/KFM373/status/2120634284352422040"
+    },
+    {
+      "author_id": "2015703340563447808",
+      "conversation_id": "2120510691689857240",
+      "created_at": "2026-11-11T13:35:44.000Z",
+      "edit_history_tweet_ids": [
+        "2120510793007722520"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Browse the work you can hand to Grok Bot — always-on AI agents for sales, marketing, support, recruiting, operations, product, and engineering.",
+            "display_url": "x.ai/bot/use-cases",
+            "end": 29,
+            "expanded_url": "https://x.ai/bot/use-cases",
+            "start": 6,
+            "status": 200,
+            "title": "Grok Bot · Use cases",
+            "unwound_url": "https://x.ai/bot/use-cases",
+            "url": "https://t.co/J1Q0Lf1yTg"
+          }
+        ]
+      },
+      "id": "2120510793007722520",
+      "in_reply_to_user_id": "2015703340563447808",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 134,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120510691689857240",
+          "type": "replied_to"
+        }
+      ],
+      "text": "link: https://t.co/J1Q0Lf1yTg           \n\ndon't forget to save it",
+      "url": "https://x.com/0xjmori/status/2120510793007722520"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2120510588434423808"
+          ]
+        },
+        "author_id": "2015703340563447808",
+        "conversation_id": "2120510691689857240",
+        "created_at": "2026-11-11T13:35:20.000Z",
+        "edit_history_tweet_ids": [
+          "2120510691689857240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TsGAVCyJhP",
+              "end": 304,
+              "expanded_url": "https://x.com/0xjmori/status/2120510691689857240/video/1",
+              "media_key": "13_2120510588434423808",
+              "start": 281,
+              "url": "https://t.co/TsGAVCyJhP"
+            },
+            {
+              "display_url": "x.com/0xjmori/status…",
+              "end": 328,
+              "expanded_url": "https://twitter.com/0xjmori/status/2101661510091034926",
+              "start": 305,
+              "url": "https://t.co/ocw6kvbhaN"
+            }
+          ]
+        },
+        "id": "2120510691689857240",
+        "lang": "en",
+        "note_tweet": {
+          "text": "Holy f*ck... Elon Musk's team just made waiting for Black Friday useless\n\nMy Grok Bot got me $415 back on a Mac mini I'd already bought, and I never picked up the phone\n\nMatt Palmer from the Grok Bot team just showed calls and shopping deals in Monday's What's New video\n\nIt keeps your receipts, watches the price after you buy, says no to store credit and asks you before it accepts anything\n\n6 price-drop calls I'm never making again before Black Friday, and the exact line I say:\n\n→ Apple: \"My Mac mini dropped in price, get the difference back to my card\"\n→ Best Buy: \"The TV I bought went on sale, ask for the price adjustment\"\n→ Target: \"My order went on sale this week, get me the difference\"\n→ Costco: \"The price dropped within 30 days, get me the adjustment\"\n→ Macy's: \"Ask for the sale price on what I bought last week\"\n→ Delta: \"My holiday fare dropped, rebook me and keep the credit\"\n\nAdd one rule first: never take store credit instead of a refund without asking me\n\nHand it your receipts before Black Friday\n\nThen read how to build a whole team around one bot like this in the article below ↓"
+        },
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 7911,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101661510091034926",
+            "type": "quoted"
+          }
+        ],
+        "text": "Holy f*ck... Elon Musk's team just made waiting for Black Friday useless\n\nMy Grok Bot got me $415 back on a Mac mini I'd already bought, and I never picked up the phone\n\nMatt Palmer from the Grok Bot team just showed calls and shopping deals in Monday's What's New video\n\nIt keeps https://t.co/TsGAVCyJhP https://t.co/ocw6kvbhaN"
+      }
+    ],
+    "users": [
+      {
+        "id": "747729188212379648",
+        "name": "K1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047796386767495168/RPyoOEmk_normal.jpg",
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 354,
+          "like_count": 15979,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 2875
+        },
+        "username": "KFM373",
+        "verified": false
+      },
+      {
+        "id": "2015703340563447808",
+        "name": "Mori",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096395098594615296/tycV6b2J_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3647,
+          "following_count": 16,
+          "like_count": 593,
+          "listed_count": 41,
+          "media_count": 60,
+          "tweet_count": 121
+        },
+        "username": "0xjmori",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120634284352422040",
+    "next_token": "b26v89c19zqg8o3juzovc8haonmmn0ml9e5h87yhccinx",
+    "oldest_id": "2120510793007722520",
+    "result_count": 2
+  }
+}

@@ -1,0 +1,938 @@
+{
+  "data": [
+    {
+      "author_id": "1301875976",
+      "conversation_id": "2120411668597682204",
+      "created_at": "2026-11-11T19:24:10.000Z",
+      "edit_history_tweet_ids": [
+        "2120598478720262630"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1573399256836309009",
+            "start": 0,
+            "username": "kimmonismus"
+          }
+        ]
+      },
+      "id": "2120598478720262630",
+      "in_reply_to_user_id": "1573399256836309009",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 36,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120411668597682204",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kimmonismus Have a hard time getting my hopes up. Lol\n\nBut with Fable 5.2 coming out maybe this is it?!?!?",
+      "url": "https://x.com/Only_21Mil/status/2120598478720262630"
+    },
+    {
+      "author_id": "1511059871738650624",
+      "conversation_id": "2120411668597682204",
+      "created_at": "2026-11-11T19:18:10.000Z",
+      "edit_history_tweet_ids": [
+        "2120596969001521357"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1573399256836309009",
+            "start": 0,
+            "username": "kimmonismus"
+          }
+        ]
+      },
+      "id": "2120596969001521357",
+      "in_reply_to_user_id": "1573399256836309009",
+      "lang": "und",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120411668597682204",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kimmonismus Ooh",
+      "url": "https://x.com/vidnetic/status/2120596969001521357"
+    },
+    {
+      "author_id": "1446265259023556608",
+      "conversation_id": "2120411668597682204",
+      "created_at": "2026-11-11T18:11:54.000Z",
+      "edit_history_tweet_ids": [
+        "2120580292674994236"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1573399256836309009",
+            "start": 0,
+            "username": "kimmonismus"
+          }
+        ]
+      },
+      "id": "2120580292674994236",
+      "in_reply_to_user_id": "1573399256836309009",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120411668597682204",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kimmonismus I have no hope for 6.2 drop anymore, may be one of the their irrelevant releases...",
+      "url": "https://x.com/vardiou/status/2120580292674994236"
+    },
+    {
+      "author_id": "1468143582074716161",
+      "conversation_id": "2120411668597682204",
+      "created_at": "2026-11-11T17:59:14.000Z",
+      "edit_history_tweet_ids": [
+        "2120577102324092944"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1573399256836309009",
+            "start": 0,
+            "username": "kimmonismus"
+          }
+        ]
+      },
+      "id": "2120577102324092944",
+      "in_reply_to_user_id": "1573399256836309009",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120411668597682204",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kimmonismus yeah you decodes tibo's message too ;D, waiting 😏",
+      "url": "https://x.com/HLEET3D/status/2120577102324092944"
+    },
+    {
+      "author_id": "2094390334956720128",
+      "conversation_id": "2120411668597682204",
+      "created_at": "2026-11-11T17:15:00.000Z",
+      "edit_history_tweet_ids": [
+        "2120565970695602358"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1573399256836309009",
+            "start": 0,
+            "username": "kimmonismus"
+          }
+        ]
+      },
+      "id": "2120565970695602358",
+      "in_reply_to_user_id": "1573399256836309009",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 106,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120411668597682204",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kimmonismus Fable 5.2, a new Gemini, Qwen4, and now GPT-6.2 on Thursday. That's a lot for one week. Is anyone actually testing them all, or are we all just watching leaderboards?",
+      "url": "https://x.com/dave_uncensored/status/2120565970695602358"
+    },
+    {
+      "author_id": "317922766",
+      "conversation_id": "2120411668597682204",
+      "created_at": "2026-11-11T16:19:36.000Z",
+      "edit_history_tweet_ids": [
+        "2120552029869506733"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1573399256836309009",
+            "start": 0,
+            "username": "kimmonismus"
+          }
+        ]
+      },
+      "id": "2120552029869506733",
+      "in_reply_to_user_id": "1573399256836309009",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 60,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120411668597682204",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kimmonismus and hopefully astra 6.2 and not sol 6.2. ahhh just give me both. I'm ready.",
+      "url": "https://x.com/J7oshua/status/2120552029869506733"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2120545967841898496"
+        ]
+      },
+      "author_id": "1957024296154603520",
+      "conversation_id": "2120411668597682204",
+      "created_at": "2026-11-11T15:55:32.000Z",
+      "edit_history_tweet_ids": [
+        "2120545974812832246"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1573399256836309009",
+            "start": 0,
+            "username": "kimmonismus"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/D63bu5B4Jm",
+            "end": 89,
+            "expanded_url": "https://x.com/Trcty0909/status/2120545974812832246/photo/1",
+            "media_key": "16_2120545967841898496",
+            "start": 66,
+            "url": "https://t.co/D63bu5B4Jm"
+          }
+        ]
+      },
+      "id": "2120545974812832246",
+      "in_reply_to_user_id": "1573399256836309009",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120411668597682204",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kimmonismus I don't care about OpenAI. I care about Classic Cove https://t.co/D63bu5B4Jm",
+      "url": "https://x.com/Trcty0909/status/2120545974812832246"
+    },
+    {
+      "author_id": "2032257211532263425",
+      "conversation_id": "2120411668597682204",
+      "created_at": "2026-11-11T15:41:21.000Z",
+      "edit_history_tweet_ids": [
+        "2120542401970540896"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1573399256836309009",
+            "start": 0,
+            "username": "kimmonismus"
+          }
+        ]
+      },
+      "id": "2120542401970540896",
+      "in_reply_to_user_id": "1573399256836309009",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120411668597682204",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kimmonismus Which real prompts will you rerun if GPT-6.2 arrives Thursday? A small, versioned eval set with cost and latency beside quality will stay useful after the release-week leaderboard moves on.",
+      "url": "https://x.com/HustleGodModeAi/status/2120542401970540896"
+    },
+    {
+      "author_id": "1696848026474786816",
+      "conversation_id": "2120411668597682204",
+      "created_at": "2026-11-11T15:21:17.000Z",
+      "edit_history_tweet_ids": [
+        "2120537354377232735"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1573399256836309009",
+            "start": 0,
+            "username": "kimmonismus"
+          }
+        ]
+      },
+      "id": "2120537354377232735",
+      "in_reply_to_user_id": "1573399256836309009",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120411668597682204",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kimmonismus 都在猜周四发不发，没人问发了之后 Plus 的额度涨不涨——新模型不涨额度，就是给老用户加活。",
+      "url": "https://x.com/bitbird2014/status/2120537354377232735"
+    },
+    {
+      "author_id": "1658490282005127172",
+      "conversation_id": "2120411668597682204",
+      "created_at": "2026-11-11T14:57:41.000Z",
+      "edit_history_tweet_ids": [
+        "2120531414953115702"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1573399256836309009",
+            "start": 0,
+            "username": "kimmonismus"
+          }
+        ]
+      },
+      "id": "2120531414953115702",
+      "in_reply_to_user_id": "1573399256836309009",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 64,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120411668597682204",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kimmonismus gpt-6.2 on thursday, after gemini today and fable 5.2 yesterday, makes this a stacked week",
+      "url": "https://x.com/0xALTF4/status/2120531414953115702"
+    },
+    {
+      "author_id": "1445591169296060426",
+      "conversation_id": "2120411668597682204",
+      "created_at": "2026-11-11T14:50:16.000Z",
+      "edit_history_tweet_ids": [
+        "2120529549306040466"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1573399256836309009",
+            "start": 0,
+            "username": "kimmonismus"
+          }
+        ]
+      },
+      "id": "2120529549306040466",
+      "in_reply_to_user_id": "1573399256836309009",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120411668597682204",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kimmonismus Three big model launches in one week is a lot for normal users to keep up with. Do you think most people will even notice the difference in their day-to-day chats, or is this mostly a builder thing?",
+      "url": "https://x.com/BrandonCoatesAI/status/2120529549306040466"
+    },
+    {
+      "author_id": "1829289783018889217",
+      "conversation_id": "2120411668597682204",
+      "created_at": "2026-11-11T14:43:16.000Z",
+      "edit_history_tweet_ids": [
+        "2120527787543175575"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1101925167117135872",
+            "start": 0,
+            "username": "xx_Tge"
+          },
+          {
+            "end": 20,
+            "id": "1573399256836309009",
+            "start": 8,
+            "username": "kimmonismus"
+          }
+        ]
+      },
+      "id": "2120527787543175575",
+      "in_reply_to_user_id": "1101925167117135872",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120511683978240316",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xx_Tge @kimmonismus nah ur trippin",
+      "url": "https://x.com/gojitis/status/2120527787543175575"
+    },
+    {
+      "author_id": "197482845",
+      "conversation_id": "2120411668597682204",
+      "created_at": "2026-11-11T13:58:21.000Z",
+      "edit_history_tweet_ids": [
+        "2120516481025003597"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1573399256836309009",
+            "start": 0,
+            "username": "kimmonismus"
+          }
+        ]
+      },
+      "id": "2120516481025003597",
+      "in_reply_to_user_id": "1573399256836309009",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 21,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120411668597682204",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kimmonismus Going to be exciting for those who are big on Astra and Codex",
+      "url": "https://x.com/SteveGalvisX/status/2120516481025003597"
+    },
+    {
+      "author_id": "967605761349242880",
+      "conversation_id": "2120411668597682204",
+      "created_at": "2026-11-11T13:40:32.000Z",
+      "edit_history_tweet_ids": [
+        "2120511999809659327"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1573399256836309009",
+            "start": 0,
+            "username": "kimmonismus"
+          }
+        ]
+      },
+      "id": "2120511999809659327",
+      "in_reply_to_user_id": "1573399256836309009",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120411668597682204",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kimmonismus What’s the biggest limitation you’ve run into so far?",
+      "url": "https://x.com/GD_818loveyou/status/2120511999809659327"
+    },
+    {
+      "author_id": "45582017",
+      "conversation_id": "2120411668597682204",
+      "created_at": "2026-11-11T13:39:24.000Z",
+      "edit_history_tweet_ids": [
+        "2120511713741271530"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1573399256836309009",
+            "start": 0,
+            "username": "kimmonismus"
+          }
+        ]
+      },
+      "id": "2120511713741271530",
+      "in_reply_to_user_id": "1573399256836309009",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 35,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120411668597682204",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kimmonismus That codexy energy is unmistakable today.",
+      "url": "https://x.com/shuizhuyu/status/2120511713741271530"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "16_2120545967841898496",
+        "type": "animated_gif"
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2120411662456930305"
+          ]
+        },
+        "author_id": "1573399256836309009",
+        "conversation_id": "2120411668597682204",
+        "created_at": "2026-11-11T07:01:51.000Z",
+        "edit_history_tweet_ids": [
+          "2120411668597682204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OdTe8RLeIg",
+              "end": 238,
+              "expanded_url": "https://x.com/kimmonismus/status/2120411668597682204/photo/1",
+              "media_key": "3_2120411662456930305",
+              "start": 215,
+              "url": "https://t.co/OdTe8RLeIg"
+            },
+            {
+              "display_url": "x.com/thsottiaux/sta…",
+              "end": 262,
+              "expanded_url": "https://twitter.com/thsottiaux/status/2120410480204525936",
+              "start": 239,
+              "url": "https://t.co/ONoIL53CUX"
+            }
+          ]
+        },
+        "id": "2120411668597682204",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 48140,
+          "like_count": 932,
+          "quote_count": 6,
+          "reply_count": 82,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120410480204525936",
+            "type": "quoted"
+          }
+        ],
+        "text": "Looks like Thursday is finally the big day: prepare your banked resets: the big ship aka GPT-6.2 is incoming! \n\nWhat a week! Today another Gemini, yesterday Fable 5.2 and Thursday Astra. Oh, and don’t forget Qwen4! https://t.co/OdTe8RLeIg https://t.co/ONoIL53CUX"
+      },
+      {
+        "author_id": "1101925167117135872",
+        "conversation_id": "2120411668597682204",
+        "created_at": "2026-11-11T13:39:17.000Z",
+        "edit_history_tweet_ids": [
+          "2120511683978240316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1573399256836309009",
+              "start": 0,
+              "username": "kimmonismus"
+            }
+          ]
+        },
+        "id": "2120511683978240316",
+        "in_reply_to_user_id": "1573399256836309009",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120411668597682204",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@kimmonismus A banked reset would honestly get more cheers than the model itself"
+      }
+    ],
+    "users": [
+      {
+        "id": "1301875976",
+        "name": "Victor ₿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018077900084305921/uZZYxyhk_normal.jpg",
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 673,
+          "like_count": 7491,
+          "listed_count": 2,
+          "media_count": 202,
+          "tweet_count": 3856
+        },
+        "username": "Only_21Mil",
+        "verified": false
+      },
+      {
+        "id": "1573399256836309009",
+        "name": "Chubby♨️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728327996375719936/RW7VBJfD_normal.jpg",
+        "public_metrics": {
+          "followers_count": 158530,
+          "following_count": 3559,
+          "like_count": 48059,
+          "listed_count": 3239,
+          "media_count": 10762,
+          "tweet_count": 46900
+        },
+        "username": "kimmonismus",
+        "verified": false
+      },
+      {
+        "id": "1511059871738650624",
+        "name": "John AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042116649713856513/78-nb2mZ_normal.jpg",
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 98,
+          "like_count": 2080,
+          "listed_count": 4,
+          "media_count": 5,
+          "tweet_count": 586
+        },
+        "username": "vidnetic",
+        "verified": false
+      },
+      {
+        "id": "1446265259023556608",
+        "name": "Athemiz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821697649159950336/R-wup3NA_normal.jpg",
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 104,
+          "like_count": 549,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 190
+        },
+        "username": "vardiou",
+        "verified": false
+      },
+      {
+        "id": "1468143582074716161",
+        "name": "HLEET3D",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064204165711310848/URkXxwwC_normal.jpg",
+        "public_metrics": {
+          "followers_count": 4805,
+          "following_count": 616,
+          "like_count": 13429,
+          "listed_count": 27,
+          "media_count": 887,
+          "tweet_count": 4252
+        },
+        "username": "HLEET3D",
+        "verified": false
+      },
+      {
+        "id": "2094390334956720128",
+        "name": "David Lawrence | Author",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106114634155757568/Ua4Cf3zf_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1399,
+          "following_count": 1085,
+          "like_count": 12720,
+          "listed_count": 0,
+          "media_count": 1354,
+          "tweet_count": 8540
+        },
+        "username": "dave_uncensored",
+        "verified": false
+      },
+      {
+        "id": "317922766",
+        "name": "j7oshua",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118089150515806209/7UVClVzh_normal.jpg",
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 37,
+          "like_count": 135,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 708
+        },
+        "username": "J7oshua",
+        "verified": false
+      },
+      {
+        "id": "1957024296154603520",
+        "name": "Lsaaaa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120517521933746177/wodnhaEc_normal.jpg",
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 210,
+          "like_count": 2444,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 457
+        },
+        "username": "Trcty0909",
+        "verified": false
+      },
+      {
+        "id": "2032257211532263425",
+        "name": "Jayden Hustle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118344284227461120/tAJOudT0_normal.jpg",
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 182,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 625
+        },
+        "username": "HustleGodModeAi",
+        "verified": false
+      },
+      {
+        "id": "1696848026474786816",
+        "name": "Leon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696855117339770880/Hd80JrH5_normal.jpg",
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 629,
+          "like_count": 672,
+          "listed_count": 6,
+          "media_count": 294,
+          "tweet_count": 3937
+        },
+        "username": "bitbird2014",
+        "verified": false
+      },
+      {
+        "id": "1658490282005127172",
+        "name": "ALTF4",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857055551533752320/BHZAJwL__normal.jpg",
+        "public_metrics": {
+          "followers_count": 47122,
+          "following_count": 11161,
+          "like_count": 152912,
+          "listed_count": 703,
+          "media_count": 3150,
+          "tweet_count": 150655
+        },
+        "username": "0xALTF4",
+        "verified": false
+      },
+      {
+        "id": "1445591169296060426",
+        "name": "Brandon | Useful AI Weekly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115159805895794688/etHqRY6O_normal.jpg",
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 2072,
+          "like_count": 10763,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 3368
+        },
+        "username": "BrandonCoatesAI",
+        "verified": false
+      },
+      {
+        "id": "1829289783018889217",
+        "name": "gojitis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2111125705677328385/U2eppC3t_normal.jpg",
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 102,
+          "like_count": 2400,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 162
+        },
+        "username": "gojitis",
+        "verified": false
+      },
+      {
+        "id": "1101925167117135872",
+        "name": "Txx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2112020787892785152/cdg7Tqv0_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2428,
+          "following_count": 2357,
+          "like_count": 1067,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1783
+        },
+        "username": "xx_Tge",
+        "verified": false
+      },
+      {
+        "id": "197482845",
+        "name": "Steve Galvis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616919146666524673/G3EO8nwW_normal.jpg",
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 69,
+          "like_count": 9160,
+          "listed_count": 12,
+          "media_count": 542,
+          "tweet_count": 9048
+        },
+        "username": "SteveGalvisX",
+        "verified": false
+      },
+      {
+        "id": "967605761349242880",
+        "name": "Vicky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1217425210422390785/Xc9IrHQo_normal.jpg",
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 53,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 806
+        },
+        "username": "GD_818loveyou",
+        "verified": false
+      },
+      {
+        "id": "45582017",
+        "name": "Crio Songo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/538351563392049153/unFs4z-1_normal.jpeg",
+        "public_metrics": {
+          "followers_count": 5321,
+          "following_count": 4396,
+          "like_count": 9475,
+          "listed_count": 12,
+          "media_count": 120,
+          "tweet_count": 68199
+        },
+        "username": "shuizhuyu",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120598478720262630",
+    "next_token": "b26v89c19zqg8o3juzovc8haq68stztiialacldnl0b5p",
+    "oldest_id": "2120511713741271530",
+    "result_count": 15
+  }
+}

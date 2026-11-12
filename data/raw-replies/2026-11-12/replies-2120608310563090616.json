@@ -1,0 +1,666 @@
+{
+  "data": [
+    {
+      "author_id": "1437655880",
+      "conversation_id": "2120608310563090616",
+      "created_at": "2026-11-11T23:53:27.000Z",
+      "edit_history_tweet_ids": [
+        "2120666244076441923"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "227528138",
+            "start": 0,
+            "username": "bilawalsidhu"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/AGTPinsights/s…",
+            "end": 110,
+            "expanded_url": "https://x.com/AGTPinsights/status/2120665183525757189",
+            "start": 87,
+            "url": "https://t.co/kH0A9l67Mo"
+          }
+        ]
+      },
+      "id": "2120666244076441923",
+      "in_reply_to_user_id": "227528138",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120665183525757189",
+          "type": "quoted"
+        },
+        {
+          "id": "2120608310563090616",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bilawalsidhu You nailed it, we actually covered that workflow shift in our deep dive: https://t.co/kH0A9l67Mo",
+      "url": "https://x.com/MichaelWaitze/status/2120666244076441923"
+    },
+    {
+      "author_id": "1886425277716119552",
+      "conversation_id": "2120608310563090616",
+      "created_at": "2026-11-11T22:26:08.000Z",
+      "edit_history_tweet_ids": [
+        "2120644271913234599"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "227528138",
+            "start": 0,
+            "username": "bilawalsidhu"
+          }
+        ]
+      },
+      "id": "2120644271913234599",
+      "in_reply_to_user_id": "227528138",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120608310563090616",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bilawalsidhu Meanwhile my 3D skills peaked at rotating a museum scan until it got motion sick.",
+      "url": "https://x.com/moumoubin_inx/status/2120644271913234599"
+    },
+    {
+      "author_id": "1711203486170566656",
+      "conversation_id": "2120608310563090616",
+      "created_at": "2026-11-11T21:17:44.000Z",
+      "edit_history_tweet_ids": [
+        "2120627056086315060"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "227528138",
+            "start": 0,
+            "username": "bilawalsidhu"
+          }
+        ]
+      },
+      "id": "2120627056086315060",
+      "in_reply_to_user_id": "227528138",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120608310563090616",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bilawalsidhu Blocking out a rough 3D scene first beats rerolling prompts until the camera lands right. Does this make video teams hire layout artists again, or do the tools absorb that job?",
+      "url": "https://x.com/AIFlow_ML/status/2120627056086315060"
+    },
+    {
+      "author_id": "1382303733040693249",
+      "conversation_id": "2120608310563090616",
+      "created_at": "2026-11-11T21:14:37.000Z",
+      "edit_history_tweet_ids": [
+        "2120626274586734808"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "227528138",
+            "start": 0,
+            "username": "bilawalsidhu"
+          }
+        ]
+      },
+      "id": "2120626274586734808",
+      "in_reply_to_user_id": "227528138",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120608310563090616",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bilawalsidhu skipping blender is the actual win here, the 3d setup step is where most people give up",
+      "url": "https://x.com/SergioMarakis/status/2120626274586734808"
+    },
+    {
+      "author_id": "2115672486767693824",
+      "conversation_id": "2120608310563090616",
+      "created_at": "2026-11-11T20:42:18.000Z",
+      "edit_history_tweet_ids": [
+        "2120618142179463209"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "227528138",
+            "start": 0,
+            "username": "bilawalsidhu"
+          }
+        ]
+      },
+      "id": "2120618142179463209",
+      "in_reply_to_user_id": "227528138",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120608310563090616",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bilawalsidhu A fixed 3D reference also gives revisions a baseline. Holding geometry and camera placement steady lets a creator compare changes in lighting or style without accidentally changing the scene itself.",
+      "url": "https://x.com/Alanogrok/status/2120618142179463209"
+    },
+    {
+      "author_id": "417508671",
+      "conversation_id": "2120608310563090616",
+      "created_at": "2026-11-11T20:41:15.000Z",
+      "edit_history_tweet_ids": [
+        "2120617877808226550"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "227528138",
+            "start": 0,
+            "username": "bilawalsidhu"
+          }
+        ]
+      },
+      "id": "2120617877808226550",
+      "in_reply_to_user_id": "227528138",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120608310563090616",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bilawalsidhu Ooh, there’s real pleasure in moving things around and discovering the shot. Making 3D blocking more approachable sounds freeing. ❤️",
+      "url": "https://x.com/thesimaximalist/status/2120617877808226550"
+    },
+    {
+      "author_id": "335945297",
+      "conversation_id": "2120608310563090616",
+      "created_at": "2026-11-11T20:24:48.000Z",
+      "edit_history_tweet_ids": [
+        "2120613734297256263"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "227528138",
+            "start": 0,
+            "username": "bilawalsidhu"
+          }
+        ]
+      },
+      "id": "2120613734297256263",
+      "in_reply_to_user_id": "227528138",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 26,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120608310563090616",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bilawalsidhu This is exactly the direction things need to go in — spatialize reference, spatial understanding, not just 2D-based statistical guessing",
+      "url": "https://x.com/AndersHjemdahl/status/2120613734297256263"
+    },
+    {
+      "author_id": "14458623",
+      "conversation_id": "2120608310563090616",
+      "created_at": "2026-11-11T20:10:40.000Z",
+      "edit_history_tweet_ids": [
+        "2120610179180089800"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "227528138",
+            "start": 0,
+            "username": "bilawalsidhu"
+          }
+        ]
+      },
+      "id": "2120610179180089800",
+      "in_reply_to_user_id": "227528138",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 40,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120608310563090616",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bilawalsidhu thanks! AND for those new to ai or 3d workflows, easy enough to start with chat and have our agents help you build things out",
+      "url": "https://x.com/bharatvasan/status/2120610179180089800"
+    },
+    {
+      "author_id": "2109020575779921920",
+      "conversation_id": "2120608310563090616",
+      "created_at": "2026-11-11T20:10:12.000Z",
+      "edit_history_tweet_ids": [
+        "2120610061773066581"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "227528138",
+            "start": 0,
+            "username": "bilawalsidhu"
+          }
+        ]
+      },
+      "id": "2120610061773066581",
+      "in_reply_to_user_id": "227528138",
+      "lang": "en",
+      "note_tweet": {
+        "text": "the part that matters for product work is repeatability. with a 3d reference the model stops guessing where the bottle sits against the camera, so shot two matches shot one. that's the gap between one pretty clip and a sequence you can actually cut. the faster iteration is the side effect."
+      },
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120608310563090616",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bilawalsidhu the part that matters for product work is repeatability. with a 3d reference the model stops guessing where the bottle sits against the camera, so shot two matches shot one. that's the gap between one pretty clip and a sequence you can actually cut. the faster iteration is the",
+      "url": "https://x.com/Muselaneai/status/2120610061773066581"
+    },
+    {
+      "author_id": "360281371",
+      "conversation_id": "2120608310563090616",
+      "created_at": "2026-11-11T20:08:05.000Z",
+      "edit_history_tweet_ids": [
+        "2120609527703945631"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "227528138",
+            "start": 0,
+            "username": "bilawalsidhu"
+          }
+        ]
+      },
+      "id": "2120609527703945631",
+      "in_reply_to_user_id": "227528138",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 26,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120608310563090616",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bilawalsidhu Crazy",
+      "url": "https://x.com/samaydevraj/status/2120609527703945631"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "227528138",
+        "conversation_id": "2120608310563090616",
+        "created_at": "2026-11-11T20:03:14.000Z",
+        "edit_history_tweet_ids": [
+          "2120608310563090616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bharatvasan/st…",
+              "end": 286,
+              "expanded_url": "https://twitter.com/bharatvasan/status/2120562177216254076",
+              "start": 263,
+              "url": "https://t.co/PzSa5MakYO"
+            }
+          ]
+        },
+        "id": "2120608310563090616",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 3021,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120562177216254076",
+            "type": "quoted"
+          }
+        ],
+        "text": "i love these ai + 3d workflows the intangible team is pushing on. generative video models are getting amazing but giving them a spatial 3d references makes it SO much faster to iterate. and now you can do it without needing to open up blender or another 3d tool. https://t.co/PzSa5MakYO"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2120664907033026560"
+          ]
+        },
+        "author_id": "2013613489798160388",
+        "conversation_id": "2120665183525757189",
+        "created_at": "2026-11-11T23:49:14.000Z",
+        "edit_history_tweet_ids": [
+          "2120665183525757189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GmylGXvrVA",
+              "end": 304,
+              "expanded_url": "https://x.com/AGTPinsights/status/2120665183525757189/photo/1",
+              "media_key": "3_2120664907033026560",
+              "start": 281,
+              "url": "https://t.co/GmylGXvrVA"
+            },
+            {
+              "display_url": "x.com/bharatvasan/st…",
+              "end": 328,
+              "expanded_url": "https://twitter.com/bharatvasan/status/2120562177216254076",
+              "start": 305,
+              "url": "https://t.co/mOvya7T5Hh"
+            }
+          ]
+        },
+        "id": "2120665183525757189",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "intangible.ai",
+                "end": 1934,
+                "expanded_url": "http://intangible.ai",
+                "start": 1911,
+                "url": "https://t.co/sWmUrq5ba3"
+              }
+            ]
+          },
+          "text": "Intangible just launched 2.0 today, one AI studio for image, video and 3D.\n\nCEO Bharat Vasan announced it on X on Nov 11, 2026. His launch post pitches it as a way to get the idea in your head onto a screen, for filmmakers and founders alike. To prove it, he put cofounder Charles Migos in his own action sequence, 100% shot in Intangible. The video runs 1:54 and the post passed 118K views.\n\nThe headline feature is Canvas. It's one board that holds your brief, your references, a real 3D scene and the renders that come out of it. You describe a project and bring your files, then Intangible's agents plan it, build one 3D scene and render from it.\n\nThe point is control. Most AI video tools generate a shot, and if you want a different camera angle or a moved object, you often start over. Here a real 3D world sits under the AI. You can place objects and lighting, position cameras, change objects and generate many shots from the same scene without re-prompting each one. You can also revisit the brief and talk through changes in chat.\n\nCreators who tried it showed what that looks like. Heather Cooper made an action teaser for her series idea The Rider. Umesh planned camera angles in 3D for a Mars landing scene before generating the shots. JACKJ used one scene for a full clothing collection and the individual product shots. Companies like JetZero are already using it.\n\nReactions focused on the workflow. Bilawal Sidhu said a spatial 3D reference makes iterating much faster, and you no longer need Blender or another 3D tool. Ex-Unity exec Troy Kirwin called it the dream from his Unity days. Investor Nate Williams praised the team's momentum. Many of the launch-day demos were labeled paid partnerships.\n\nKey numbers:\n- Launch date: Nov 11, 2026\n- Free plan: $0, with 150 free credits\n- Explorer plan: $25 billed annually, listed down from $35\n- Launch video: 1:54\n\nIntangible 2.0 is live now at https://t.co/sWmUrq5ba3."
+        },
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 1,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120562177216254076",
+            "type": "quoted"
+          }
+        ],
+        "text": "Intangible just launched 2.0 today, one AI studio for image, video and 3D.\n\nCEO Bharat Vasan announced it on X on Nov 11, 2026. His launch post pitches it as a way to get the idea in your head onto a screen, for filmmakers and founders alike. To prove it, he put cofounder Charles https://t.co/GmylGXvrVA https://t.co/mOvya7T5Hh"
+      }
+    ],
+    "users": [
+      {
+        "id": "1437655880",
+        "name": "Michael Waitze",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071220022966648832/rNPOofEG_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2057,
+          "following_count": 413,
+          "like_count": 2314,
+          "listed_count": 50,
+          "media_count": 20,
+          "tweet_count": 42245
+        },
+        "username": "MichaelWaitze",
+        "verified": false
+      },
+      {
+        "id": "227528138",
+        "name": "Bilawal Sidhu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022649951101112320/D99TbYT7_normal.jpg",
+        "public_metrics": {
+          "followers_count": 124006,
+          "following_count": 6098,
+          "like_count": 64891,
+          "listed_count": 2128,
+          "media_count": 4997,
+          "tweet_count": 30579
+        },
+        "username": "bilawalsidhu",
+        "verified": false
+      },
+      {
+        "id": "1886425277716119552",
+        "name": "moumoubin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119430219065090048/2Kdgv0lY_normal.jpg",
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 483,
+          "like_count": 6923,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 2809
+        },
+        "username": "moumoubin_inx",
+        "verified": false
+      },
+      {
+        "id": "1711203486170566656",
+        "name": "Igor Lessio - Robots/acc - AIFlow Labs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953848090915704832/CjjO7yAK_normal.jpg",
+        "public_metrics": {
+          "followers_count": 4386,
+          "following_count": 5805,
+          "like_count": 67825,
+          "listed_count": 46,
+          "media_count": 1745,
+          "tweet_count": 16301
+        },
+        "username": "AIFlow_ML",
+        "verified": false
+      },
+      {
+        "id": "1382303733040693249",
+        "name": "Sergio Marakis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077083161981329408/QrPJ-kzy_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1110,
+          "following_count": 1505,
+          "like_count": 2261,
+          "listed_count": 12,
+          "media_count": 347,
+          "tweet_count": 3820
+        },
+        "username": "SergioMarakis",
+        "verified": false
+      },
+      {
+        "id": "2115672486767693824",
+        "name": "Alano",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115682017237192705/RGBahUv2_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2442,
+          "following_count": 2301,
+          "like_count": 436,
+          "listed_count": 0,
+          "media_count": 304,
+          "tweet_count": 5089
+        },
+        "username": "Alanogrok",
+        "verified": false
+      },
+      {
+        "id": "417508671",
+        "name": "The SI Maximalist",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103482555638878208/ctiZwfOd_normal.jpg",
+        "public_metrics": {
+          "followers_count": 10985,
+          "following_count": 1309,
+          "like_count": 200892,
+          "listed_count": 67,
+          "media_count": 2606,
+          "tweet_count": 124565
+        },
+        "username": "thesimaximalist",
+        "verified": false
+      },
+      {
+        "id": "335945297",
+        "name": "Anders Hjemdahl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049581007310028800/kd-Oq1yn_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 1792,
+          "like_count": 88926,
+          "listed_count": 25,
+          "media_count": 353,
+          "tweet_count": 4167
+        },
+        "username": "AndersHjemdahl",
+        "verified": false
+      },
+      {
+        "id": "14458623",
+        "name": "Bharat Vasan 🇺🇸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764195358522126336/itgFtA5M_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1786,
+          "following_count": 3542,
+          "like_count": 10265,
+          "listed_count": 60,
+          "media_count": 670,
+          "tweet_count": 8531
+        },
+        "username": "bharatvasan",
+        "verified": false
+      },
+      {
+        "id": "2109020575779921920",
+        "name": "Muselane",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109020959768526848/VqRuQcGD_normal.jpg",
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 288,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 505
+        },
+        "username": "Muselaneai",
+        "verified": false
+      },
+      {
+        "id": "360281371",
+        "name": "Samay Devraj",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117365647176867841/AkPYiUY__normal.jpg",
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 900,
+          "like_count": 89363,
+          "listed_count": 22,
+          "media_count": 405,
+          "tweet_count": 9088
+        },
+        "username": "samaydevraj",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120666244076441923",
+    "next_token": "b26v89c19zqg8o3juzovcalqf7dv4lfuz5t9rolke8sjh",
+    "oldest_id": "2120609527703945631",
+    "result_count": 10
+  }
+}

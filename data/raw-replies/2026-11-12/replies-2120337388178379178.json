@@ -1,0 +1,665 @@
+{
+  "data": [
+    {
+      "author_id": "2092975354138804224",
+      "created_at": "2026-11-11T23:38:28.000Z",
+      "edit_history_tweet_ids": [
+        "2120662474294698073"
+      ],
+      "id": "2120662474294698073",
+      "in_reply_to_user_id": "15540222",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120337388178379178",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg interesting. the less humans read the code, the more the tests have to carry. a new language with weak test tooling would scare me a bit",
+      "url": "https://x.com/rafaelibayev/status/2120662474294698073"
+    },
+    {
+      "author_id": "60478244",
+      "created_at": "2026-11-11T22:40:58.000Z",
+      "edit_history_tweet_ids": [
+        "2120648003224564117"
+      ],
+      "id": "2120648003224564117",
+      "in_reply_to_user_id": "15540222",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120337388178379178",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg We moved our AI research to custom language from PyTorch. Less errors and more performance. We've entered the golden era of bespoke DSLs",
+      "url": "https://x.com/Nipsuli/status/2120648003224564117"
+    },
+    {
+      "author_id": "1195508264668160001",
+      "created_at": "2026-11-11T21:35:24.000Z",
+      "edit_history_tweet_ids": [
+        "2120631502207930632"
+      ],
+      "id": "2120631502207930632",
+      "in_reply_to_user_id": "15540222",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120337388178379178",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg kinda wild to think about. language choice used to be about what humans can read and maintian. if the agent writes and maintains it u pick whatever runs fastest and fails loudest. still want somethin a human can debug at 3am tho when it all goes sideways lol",
+      "url": "https://x.com/Rxdha1/status/2120631502207930632"
+    },
+    {
+      "author_id": "2009441656899346433",
+      "created_at": "2026-11-11T21:20:56.000Z",
+      "edit_history_tweet_ids": [
+        "2120627862730649898"
+      ],
+      "id": "2120627862730649898",
+      "in_reply_to_user_id": "15540222",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120337388178379178",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg you can get to bare metal with rust. if youre creative",
+      "url": "https://x.com/StoneCellAI/status/2120627862730649898"
+    },
+    {
+      "author_id": "1519503815598346241",
+      "created_at": "2026-11-11T21:02:14.000Z",
+      "edit_history_tweet_ids": [
+        "2120623155140300877"
+      ],
+      "id": "2120623155140300877",
+      "in_reply_to_user_id": "15540222",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120337388178379178",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg Fascinating thought. If agents write most of the code, the ideal language optimizes for verifiability, not human ergonomics.",
+      "url": "https://x.com/mengdi20/status/2120623155140300877"
+    },
+    {
+      "author_id": "91763440",
+      "created_at": "2026-11-11T20:58:36.000Z",
+      "edit_history_tweet_ids": [
+        "2120622240601440723"
+      ],
+      "id": "2120622240601440723",
+      "in_reply_to_user_id": "15540222",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120337388178379178",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg This is the right frame. Rust was built for humans writing careful code, agents don't need the same guardrails. Purpose-built languages for specific jobs feels like the next real unlock, not just a faster way to write the old ones.",
+      "url": "https://x.com/bijaypandey/status/2120622240601440723"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2120614237202464768"
+        ]
+      },
+      "author_id": "2698121299",
+      "created_at": "2026-11-11T20:26:50.000Z",
+      "edit_history_tweet_ids": [
+        "2120614247373943211"
+      ],
+      "id": "2120614247373943211",
+      "in_reply_to_user_id": "15540222",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 33,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120337388178379178",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg No C rust all the way https://t.co/IU9caGegvM",
+      "url": "https://x.com/samdenty/status/2120614247373943211"
+    },
+    {
+      "author_id": "2287794458",
+      "created_at": "2026-11-11T20:16:56.000Z",
+      "edit_history_tweet_ids": [
+        "2120611757987139761"
+      ],
+      "id": "2120611757987139761",
+      "in_reply_to_user_id": "15540222",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120337388178379178",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg If agents write most of the code, I'd want whatever language makes their output easiest for a human or another model to review. Strong types and clear compiler errors help a lot with that.",
+      "url": "https://x.com/simon_nz/status/2120611757987139761"
+    },
+    {
+      "author_id": "16900397",
+      "created_at": "2026-11-11T17:54:32.000Z",
+      "edit_history_tweet_ids": [
+        "2120575918897000838"
+      ],
+      "id": "2120575918897000838",
+      "in_reply_to_user_id": "15540222",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120337388178379178",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg If agents write most of the code, language choice flips from \"what can humans read\" to \"what can agents verify\". Strong types + great compiler errors win. Rust wins by accident.",
+      "url": "https://x.com/justdesigncn/status/2120575918897000838"
+    },
+    {
+      "author_id": "2156053485",
+      "created_at": "2026-11-11T17:45:12.000Z",
+      "edit_history_tweet_ids": [
+        "2120573571928031689"
+      ],
+      "id": "2120573571928031689",
+      "in_reply_to_user_id": "15540222",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120337388178379178",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg I'd bet the other way. agents are best where there's a mountain of boring code to learn from. a new purpose-built language starts at zero examples, so TS and Python get more locked in, not less",
+      "url": "https://x.com/vip_besic2000/status/2120573571928031689"
+    },
+    {
+      "author_id": "1365701888604184579",
+      "created_at": "2026-11-11T17:26:50.000Z",
+      "edit_history_tweet_ids": [
+        "2120568949578530846"
+      ],
+      "id": "2120568949578530846",
+      "in_reply_to_user_id": "15540222",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120337388178379178",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg Rust winning before agents and then not being the only answer after them feels right. I've been wondering when we'll get a tiny language that's just for the agent to emit, then immediately compile away.",
+      "url": "https://x.com/zuoshi_ai/status/2120568949578530846"
+    },
+    {
+      "author_id": "65983654",
+      "created_at": "2026-11-11T17:04:46.000Z",
+      "edit_history_tweet_ids": [
+        "2120563394659107121"
+      ],
+      "id": "2120563394659107121",
+      "in_reply_to_user_id": "15540222",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 62,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120337388178379178",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg System refactors used to be months or years long projects. Now they can be done in a matter of weeks. Will be interesting to see what the second order effects are from this for performance and reliability, now that adapting a new language doesn't have the same amount of friction.",
+      "url": "https://x.com/jambronner/status/2120563394659107121"
+    },
+    {
+      "author_id": "799291392",
+      "created_at": "2026-11-11T16:54:16.000Z",
+      "edit_history_tweet_ids": [
+        "2120560755108200610"
+      ],
+      "id": "2120560755108200610",
+      "in_reply_to_user_id": "15540222",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120337388178379178",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg Kinda wonder if agents push everyone toward stricter languages. A compiler yelling at the agent is cheaper than me catching it in review",
+      "url": "https://x.com/sergioesca6/status/2120560755108200610"
+    },
+    {
+      "author_id": "1607023047168368642",
+      "created_at": "2026-11-11T16:39:51.000Z",
+      "edit_history_tweet_ids": [
+        "2120557124790923715"
+      ],
+      "id": "2120557124790923715",
+      "in_reply_to_user_id": "15540222",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120337388178379178",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg If an agent drops from Rust to C or LLVM IR for a hot path, I'd keep a reference implementation and differential-test outputs across optimization levels. A speedup that depends on undefined behavior can pass one build and disappear in the next.",
+      "url": "https://x.com/renandnzsantos/status/2120557124790923715"
+    },
+    {
+      "author_id": "2090262197792645120",
+      "created_at": "2026-11-11T16:34:25.000Z",
+      "edit_history_tweet_ids": [
+        "2120555758982992180"
+      ],
+      "id": "2120555758982992180",
+      "in_reply_to_user_id": "15540222",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120337388178379178",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg Lower-level output moves review off the code and onto behavior. When an agent emits IR or assembly, approval has to rest on tests, specs and a traceable statement of intent, because the code is no longer what a human reads.",
+      "url": "https://x.com/kellerai_kai/status/2120555758982992180"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "16_2120614237202464768",
+        "type": "animated_gif"
+      }
+    ],
+    "tweets": [
+      {
+        "author_id": "15540222",
+        "created_at": "2026-11-11T02:06:41.000Z",
+        "edit_history_tweet_ids": [
+          "2120337388178379178"
+        ],
+        "id": "2120337388178379178",
+        "public_metrics": {
+          "bookmark_count": 217,
+          "impression_count": 102329,
+          "like_count": 1141,
+          "quote_count": 13,
+          "reply_count": 185,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120220004578963572",
+            "type": "quoted"
+          }
+        ],
+        "text": "Rust is a superb language and ecosystem, especially given it was invented pre agentic coding.\n\nWith agents, new languages will blossom, even purpose-built ones for specific usecases, and discretionary C or even LLVM IR, assembly…\n\nAI is fluid. No more one-size-fits-all. https://t.co/YTwRelXWCW"
+      }
+    ],
+    "users": [
+      {
+        "id": "2092975354138804224",
+        "name": "Rafael Ibayev",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100897194563760128/nXdtrFTt_normal.jpg",
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 147,
+          "like_count": 172,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 1648
+        },
+        "username": "rafaelibayev",
+        "verified": false
+      },
+      {
+        "id": "15540222",
+        "name": "Guillermo Rauch",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783856060249595904/8TfcCN0r_normal.jpg",
+        "public_metrics": {
+          "followers_count": 919152,
+          "following_count": 664,
+          "like_count": 75245,
+          "listed_count": 5087,
+          "media_count": 4975,
+          "tweet_count": 53744
+        },
+        "username": "rauchg",
+        "verified": false
+      },
+      {
+        "id": "60478244",
+        "name": "Nipsuli",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686307884261339136/weBOlWwc_normal.jpg",
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 899,
+          "like_count": 7216,
+          "listed_count": 3,
+          "media_count": 137,
+          "tweet_count": 1096
+        },
+        "username": "Nipsuli",
+        "verified": false
+      },
+      {
+        "id": "1195508264668160001",
+        "name": "RYDA⚒️🧙🏾‍♂️🛸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941994531475402752/JSXEuu-k_normal.jpg",
+        "public_metrics": {
+          "followers_count": 16935,
+          "following_count": 8075,
+          "like_count": 35586,
+          "listed_count": 59,
+          "media_count": 1630,
+          "tweet_count": 17271
+        },
+        "username": "Rxdha1",
+        "verified": false
+      },
+      {
+        "id": "2009441656899346433",
+        "name": "Joseph Stone",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120617677244760065/lSrygh-k_normal.jpg",
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 247,
+          "like_count": 909,
+          "listed_count": 1,
+          "media_count": 269,
+          "tweet_count": 916
+        },
+        "username": "StoneCellAI",
+        "verified": false
+      },
+      {
+        "id": "1519503815598346241",
+        "name": "日子有旁白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120142280153767936/qT5zNGjW_normal.jpg",
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 511,
+          "like_count": 484,
+          "listed_count": 2,
+          "media_count": 136,
+          "tweet_count": 1028
+        },
+        "username": "mengdi20",
+        "verified": false
+      },
+      {
+        "id": "91763440",
+        "name": "Bijay Pandey",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616862051468468224/TEnhU7U9_normal.jpg",
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 1231,
+          "like_count": 68494,
+          "listed_count": 13,
+          "media_count": 66,
+          "tweet_count": 5590
+        },
+        "username": "bijaypandey",
+        "verified": false
+      },
+      {
+        "id": "2698121299",
+        "name": "Sam Denty",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117545910506811392/3VvJAD5w_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2764,
+          "following_count": 653,
+          "like_count": 55648,
+          "listed_count": 35,
+          "media_count": 290,
+          "tweet_count": 6860
+        },
+        "username": "samdenty",
+        "verified": false
+      },
+      {
+        "id": "2287794458",
+        "name": "Simon Singh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619948900609314817/B-wVLxOR_normal.jpg",
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 37,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 137
+        },
+        "username": "simon_nz",
+        "verified": false
+      },
+      {
+        "id": "16900397",
+        "name": "Just Huang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104041755968671745/HiMqcaHn_normal.jpg",
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 695,
+          "like_count": 50,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 305
+        },
+        "username": "justdesigncn",
+        "verified": false
+      },
+      {
+        "id": "2156053485",
+        "name": "Ahmed Bešić",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087518359143288832/MbQR9qsD_normal.jpg",
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 106,
+          "like_count": 468,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1085
+        },
+        "username": "vip_besic2000",
+        "verified": false
+      },
+      {
+        "id": "1365701888604184579",
+        "name": "字作室｜AI搞钱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116773071025836032/_cm9TQ48_normal.jpg",
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 243,
+          "like_count": 56,
+          "listed_count": 2,
+          "media_count": 4,
+          "tweet_count": 788
+        },
+        "username": "zuoshi_ai",
+        "verified": false
+      },
+      {
+        "id": "65983654",
+        "name": "Jamaur Bronner",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046737358507429888/56aLd9KG_normal.jpg",
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 5660,
+          "like_count": 10782,
+          "listed_count": 18,
+          "media_count": 59,
+          "tweet_count": 922
+        },
+        "username": "jambronner",
+        "verified": false
+      },
+      {
+        "id": "799291392",
+        "name": "Sergio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115827614963093504/jW80gyuE_normal.jpg",
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 465,
+          "like_count": 26986,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 2531
+        },
+        "username": "sergioesca6",
+        "verified": false
+      },
+      {
+        "id": "1607023047168368642",
+        "name": "Renan Santos",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045951785601298432/IGTt9Vgz_normal.jpg",
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 501,
+          "like_count": 5921,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1246
+        },
+        "username": "renandnzsantos",
+        "verified": false
+      },
+      {
+        "id": "2090262197792645120",
+        "name": "Kai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090265948200792064/VTh2zcsN_normal.jpg",
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 51,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 101
+        },
+        "username": "kellerai_kai",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120662474294698073",
+    "next_token": "b26v89c19zqg8o3juzovc8ii1y8jq355gscmy5dbai0l9",
+    "oldest_id": "2120555758982992180",
+    "result_count": 15
+  }
+}

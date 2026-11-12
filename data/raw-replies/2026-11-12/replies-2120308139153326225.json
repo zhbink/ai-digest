@@ -1,0 +1,1097 @@
+{
+  "data": [
+    {
+      "author_id": "30060311",
+      "conversation_id": "2120308139153326225",
+      "created_at": "2026-11-12T01:00:50.000Z",
+      "edit_history_tweet_ids": [
+        "2120683201085714540"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1194889317388374016",
+            "start": 0,
+            "username": "mattshumer_"
+          }
+        ]
+      },
+      "id": "2120683201085714540",
+      "in_reply_to_user_id": "1194889317388374016",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 32,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120308139153326225",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mattshumer_ I've been trying to build a 1:1 scale of Silicon Valley for a similar game idea, but having real trouble building an OpenMaps =&gt; good-looking game geometry pipeline.\n\nAny hints?\n\nI've been trying to build it with Sol 6.1 because I'm cheap. Maybe that is my whole problem.",
+      "url": "https://x.com/Shedletsky/status/2120683201085714540"
+    },
+    {
+      "author_id": "1751970506780119040",
+      "conversation_id": "2120308139153326225",
+      "created_at": "2026-11-12T00:50:02.000Z",
+      "edit_history_tweet_ids": [
+        "2120680485189738745"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1194889317388374016",
+            "start": 0,
+            "username": "mattshumer_"
+          }
+        ]
+      },
+      "id": "2120680485189738745",
+      "in_reply_to_user_id": "1194889317388374016",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120308139153326225",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mattshumer_ Create 200 person role play servers and you have a gold mine on your hands",
+      "url": "https://x.com/iluvhefXXX/status/2120680485189738745"
+    },
+    {
+      "author_id": "1753726487944216576",
+      "conversation_id": "2120308139153326225",
+      "created_at": "2026-11-12T00:30:13.000Z",
+      "edit_history_tweet_ids": [
+        "2120675497407656368"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1194889317388374016",
+            "start": 0,
+            "username": "mattshumer_"
+          }
+        ]
+      },
+      "id": "2120675497407656368",
+      "in_reply_to_user_id": "1194889317388374016",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 26,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120308139153326225",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mattshumer_ Buddy, you’re like a guy following another guy following another guy on an Everest tour package",
+      "url": "https://x.com/lexaprosaic/status/2120675497407656368"
+    },
+    {
+      "author_id": "985067691345137664",
+      "conversation_id": "2120308139153326225",
+      "created_at": "2026-11-12T00:03:16.000Z",
+      "edit_history_tweet_ids": [
+        "2120668713548402988"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1194889317388374016",
+            "start": 0,
+            "username": "mattshumer_"
+          }
+        ]
+      },
+      "id": "2120668713548402988",
+      "in_reply_to_user_id": "1194889317388374016",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120308139153326225",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mattshumer_ $4M for it to look like shit. if you ever touched a game you'd know no one is touching this trash. good advertisement for you I guess. But this is ass",
+      "url": "https://x.com/cozymoon774/status/2120668713548402988"
+    },
+    {
+      "author_id": "1836707525099425793",
+      "conversation_id": "2120308139153326225",
+      "created_at": "2026-11-11T22:49:33.000Z",
+      "edit_history_tweet_ids": [
+        "2120650163769213420"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1194889317388374016",
+            "start": 0,
+            "username": "mattshumer_"
+          }
+        ]
+      },
+      "id": "2120650163769213420",
+      "in_reply_to_user_id": "1194889317388374016",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120308139153326225",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mattshumer_ I’ll try it",
+      "url": "https://x.com/HamidoFx1/status/2120650163769213420"
+    },
+    {
+      "author_id": "275570271",
+      "conversation_id": "2120308139153326225",
+      "created_at": "2026-11-11T22:43:36.000Z",
+      "edit_history_tweet_ids": [
+        "2120648666826338439"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1194889317388374016",
+            "start": 0,
+            "username": "mattshumer_"
+          }
+        ]
+      },
+      "id": "2120648666826338439",
+      "in_reply_to_user_id": "1194889317388374016",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120308139153326225",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mattshumer_ What we need is a lord of the rings game that’s good.",
+      "url": "https://x.com/curtd13/status/2120648666826338439"
+    },
+    {
+      "author_id": "2066994197563883520",
+      "conversation_id": "2120308139153326225",
+      "created_at": "2026-11-11T22:11:29.000Z",
+      "edit_history_tweet_ids": [
+        "2120640583089664246"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1194889317388374016",
+            "start": 0,
+            "username": "mattshumer_"
+          }
+        ]
+      },
+      "id": "2120640583089664246",
+      "in_reply_to_user_id": "1194889317388374016",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120308139153326225",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mattshumer_ pro ragebaiter. stop wasting datacenter computer for dumb useless thing like that",
+      "url": "https://x.com/BardauzzBardamu/status/2120640583089664246"
+    },
+    {
+      "author_id": "1032195487",
+      "conversation_id": "2120308139153326225",
+      "created_at": "2026-11-11T21:42:17.000Z",
+      "edit_history_tweet_ids": [
+        "2120633236938530845"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1194889317388374016",
+            "start": 0,
+            "username": "mattshumer_"
+          }
+        ]
+      },
+      "id": "2120633236938530845",
+      "in_reply_to_user_id": "1194889317388374016",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120308139153326225",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mattshumer_ we got gta6 before gta6",
+      "url": "https://x.com/knowixbuilds/status/2120633236938530845"
+    },
+    {
+      "author_id": "1720665183188922368",
+      "conversation_id": "2120308139153326225",
+      "created_at": "2026-11-11T21:21:11.000Z",
+      "edit_history_tweet_ids": [
+        "2120627923673559464"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1070094902",
+            "start": 0,
+            "username": "thesithlord66"
+          },
+          {
+            "end": 27,
+            "id": "1194889317388374016",
+            "start": 15,
+            "username": "mattshumer_"
+          }
+        ]
+      },
+      "id": "2120627923673559464",
+      "in_reply_to_user_id": "1070094902",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120627779309859009",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@thesithlord66 @mattshumer_ Yes, the gameplay is from a 3D open-world game built by Anthropic's Fable 5.2 AI model. Matt generated the NYC driving sim (assets, code, physics, UI) in ~13 hours of runtime on his MacBook. Modern AI output can look fully real, so context from the creator is key here.",
+      "url": "https://x.com/grok/status/2120627923673559464"
+    },
+    {
+      "author_id": "1070094902",
+      "conversation_id": "2120308139153326225",
+      "created_at": "2026-11-11T21:20:36.000Z",
+      "edit_history_tweet_ids": [
+        "2120627779309859009"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1194889317388374016",
+            "start": 0,
+            "username": "mattshumer_"
+          },
+          {
+            "end": 18,
+            "id": "1720665183188922368",
+            "start": 13,
+            "username": "grok"
+          }
+        ]
+      },
+      "id": "2120627779309859009",
+      "in_reply_to_user_id": "1194889317388374016",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 40,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120308139153326225",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mattshumer_ @grok is this Ai?",
+      "url": "https://x.com/thesithlord66/status/2120627779309859009"
+    },
+    {
+      "author_id": "16703662",
+      "conversation_id": "2120308139153326225",
+      "created_at": "2026-11-11T21:17:30.000Z",
+      "edit_history_tweet_ids": [
+        "2120626999303549221"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1194889317388374016",
+            "start": 0,
+            "username": "mattshumer_"
+          }
+        ]
+      },
+      "id": "2120626999303549221",
+      "in_reply_to_user_id": "1194889317388374016",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 63,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120308139153326225",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mattshumer_ What's the size of this binary?",
+      "url": "https://x.com/dmsimon/status/2120626999303549221"
+    },
+    {
+      "author_id": "1770489073481752576",
+      "conversation_id": "2120308139153326225",
+      "created_at": "2026-11-11T20:06:51.000Z",
+      "edit_history_tweet_ids": [
+        "2120609219363602530"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1194889317388374016",
+            "start": 0,
+            "username": "mattshumer_"
+          }
+        ]
+      },
+      "id": "2120609219363602530",
+      "in_reply_to_user_id": "1194889317388374016",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120308139153326225",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mattshumer_ I wish I could trust that this wasn't a video but I am like an elephant and never forget. After the Reflection 70B incident I just  cant. 🙁 If true, thats cool. If not, ok I guess.",
+      "url": "https://x.com/JoonGTP/status/2120609219363602530"
+    },
+    {
+      "author_id": "39092755",
+      "conversation_id": "2120308139153326225",
+      "created_at": "2026-11-11T20:03:09.000Z",
+      "edit_history_tweet_ids": [
+        "2120608289389957489"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "3135563175",
+            "start": 0,
+            "username": "WTFamicom"
+          },
+          {
+            "end": 23,
+            "id": "1194889317388374016",
+            "start": 11,
+            "username": "mattshumer_"
+          }
+        ]
+      },
+      "id": "2120608289389957489",
+      "in_reply_to_user_id": "3135563175",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120608120691142660",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@WTFamicom @mattshumer_ is this real??",
+      "url": "https://x.com/moltenfunk/status/2120608289389957489"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2120608116408467456"
+        ]
+      },
+      "author_id": "3135563175",
+      "conversation_id": "2120308139153326225",
+      "created_at": "2026-11-11T20:02:29.000Z",
+      "edit_history_tweet_ids": [
+        "2120608120691142660"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "39092755",
+            "start": 0,
+            "username": "moltenfunk"
+          },
+          {
+            "end": 24,
+            "id": "1194889317388374016",
+            "start": 12,
+            "username": "mattshumer_"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/pxV4iw8voi",
+            "end": 48,
+            "expanded_url": "https://x.com/WTFamicom/status/2120608120691142660/photo/1",
+            "media_key": "3_2120608116408467456",
+            "start": 25,
+            "url": "https://t.co/pxV4iw8voi"
+          }
+        ]
+      },
+      "id": "2120608120691142660",
+      "in_reply_to_user_id": "39092755",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120379612236537859",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@moltenfunk @mattshumer_ https://t.co/pxV4iw8voi",
+      "url": "https://x.com/WTFamicom/status/2120608120691142660"
+    },
+    {
+      "author_id": "820473758",
+      "conversation_id": "2120308139153326225",
+      "created_at": "2026-11-11T20:00:43.000Z",
+      "edit_history_tweet_ids": [
+        "2120607673792024733"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "428501176",
+            "start": 0,
+            "username": "thedogfather"
+          },
+          {
+            "end": 26,
+            "id": "1194889317388374016",
+            "start": 14,
+            "username": "mattshumer_"
+          }
+        ]
+      },
+      "id": "2120607673792024733",
+      "in_reply_to_user_id": "428501176",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120353307260489971",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@thedogfather @mattshumer_ You try making audio with JavaScript",
+      "url": "https://x.com/Elyte7894/status/2120607673792024733"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_2120608116408467456",
+        "type": "photo"
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2120307833774170112"
+          ]
+        },
+        "author_id": "1194889317388374016",
+        "conversation_id": "2120308139153326225",
+        "created_at": "2026-11-11T00:10:28.000Z",
+        "edit_history_tweet_ids": [
+          "2120308139153326225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N9ZkCKjTUx",
+              "end": 185,
+              "expanded_url": "https://x.com/mattshumer_/status/2120308139153326225/video/1",
+              "media_key": "13_2120307833774170112",
+              "start": 162,
+              "url": "https://t.co/N9ZkCKjTUx"
+            },
+            {
+              "display_url": "x.com/mattshumer_/st…",
+              "end": 209,
+              "expanded_url": "https://twitter.com/mattshumer_/status/2120282133503820150",
+              "start": 186,
+              "url": "https://t.co/6Zb7ENNrpl"
+            }
+          ]
+        },
+        "id": "2120308139153326225",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 1041,
+          "impression_count": 853700,
+          "like_count": 2445,
+          "quote_count": 27,
+          "reply_count": 202,
+          "retweet_count": 90
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120282133503820150",
+            "type": "quoted"
+          }
+        ],
+        "text": "For the people asking if this is just a video... nope!\n\nHere's me playing it on my Macbook.\n\nIt's only been ~13 hours so far, so expect it to get a LOT better :) https://t.co/N9ZkCKjTUx https://t.co/6Zb7ENNrpl"
+      },
+      {
+        "author_id": "1070094902",
+        "conversation_id": "2120308139153326225",
+        "created_at": "2026-11-11T21:20:36.000Z",
+        "edit_history_tweet_ids": [
+          "2120627779309859009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1194889317388374016",
+              "start": 0,
+              "username": "mattshumer_"
+            },
+            {
+              "end": 18,
+              "id": "1720665183188922368",
+              "start": 13,
+              "username": "grok"
+            }
+          ]
+        },
+        "id": "2120627779309859009",
+        "in_reply_to_user_id": "1194889317388374016",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120308139153326225",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@mattshumer_ @grok is this Ai?"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2120608116408467456"
+          ]
+        },
+        "author_id": "3135563175",
+        "conversation_id": "2120308139153326225",
+        "created_at": "2026-11-11T20:02:29.000Z",
+        "edit_history_tweet_ids": [
+          "2120608120691142660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "39092755",
+              "start": 0,
+              "username": "moltenfunk"
+            },
+            {
+              "end": 24,
+              "id": "1194889317388374016",
+              "start": 12,
+              "username": "mattshumer_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pxV4iw8voi",
+              "end": 48,
+              "expanded_url": "https://x.com/WTFamicom/status/2120608120691142660/photo/1",
+              "media_key": "3_2120608116408467456",
+              "start": 25,
+              "url": "https://t.co/pxV4iw8voi"
+            }
+          ]
+        },
+        "id": "2120608120691142660",
+        "in_reply_to_user_id": "39092755",
+        "lang": "qme",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120379612236537859",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@moltenfunk @mattshumer_ https://t.co/pxV4iw8voi"
+      },
+      {
+        "author_id": "39092755",
+        "conversation_id": "2120308139153326225",
+        "created_at": "2026-11-11T04:54:28.000Z",
+        "edit_history_tweet_ids": [
+          "2120379612236537859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1194889317388374016",
+              "start": 0,
+              "username": "mattshumer_"
+            }
+          ]
+        },
+        "id": "2120379612236537859",
+        "in_reply_to_user_id": "1194889317388374016",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120308139153326225",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@mattshumer_ looks kind of like a copy of a copy. like a good for quick copy of a copy! like, damn, that was quick!! like, wow! but it's crazy to think it'll always be looking backwards and building things that already exist. nice though!"
+      },
+      {
+        "author_id": "428501176",
+        "conversation_id": "2120308139153326225",
+        "created_at": "2026-11-11T03:09:57.000Z",
+        "edit_history_tweet_ids": [
+          "2120353307260489971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1194889317388374016",
+              "start": 0,
+              "username": "mattshumer_"
+            }
+          ]
+        },
+        "id": "2120353307260489971",
+        "in_reply_to_user_id": "1194889317388374016",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2006,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120308139153326225",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@mattshumer_ Why does 3JS have the absolute worst sound effects in the history of anything with sound?"
+      }
+    ],
+    "users": [
+      {
+        "id": "30060311",
+        "name": "John Shedletsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/614496872737013761/KP6Ro2g3_normal.png",
+        "public_metrics": {
+          "followers_count": 483111,
+          "following_count": 1200,
+          "like_count": 3328,
+          "listed_count": 1045,
+          "media_count": 1886,
+          "tweet_count": 29831
+        },
+        "username": "Shedletsky",
+        "verified": false
+      },
+      {
+        "id": "1194889317388374016",
+        "name": "Matt Shumer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1490950574090571778/BtgOaqUP_normal.jpg",
+        "public_metrics": {
+          "followers_count": 403935,
+          "following_count": 1651,
+          "like_count": 10981,
+          "listed_count": 5030,
+          "media_count": 982,
+          "tweet_count": 11844
+        },
+        "username": "mattshumer_",
+        "verified": false
+      },
+      {
+        "id": "1751970506780119040",
+        "name": "ilovehefxxx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119966826016768001/41e1XQII_normal.jpg",
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 1022,
+          "like_count": 3389,
+          "listed_count": 0,
+          "media_count": 268,
+          "tweet_count": 3177
+        },
+        "username": "iluvhefXXX",
+        "verified": false
+      },
+      {
+        "id": "1753726487944216576",
+        "name": "User of Artificial Platforms",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110969857986768896/WLisYQFH_normal.jpg",
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 22,
+          "like_count": 1554,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1350
+        },
+        "username": "lexaprosaic",
+        "verified": false
+      },
+      {
+        "id": "985067691345137664",
+        "name": "Hasemoglobin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094390253326843904/x5EDD2zl_normal.jpg",
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 422,
+          "like_count": 35989,
+          "listed_count": 0,
+          "media_count": 281,
+          "tweet_count": 3941
+        },
+        "username": "cozymoon774",
+        "verified": false
+      },
+      {
+        "id": "1836707525099425793",
+        "name": "Hamido Teck",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082885206747283456/rAOkN7cN_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3165,
+          "following_count": 1828,
+          "like_count": 75379,
+          "listed_count": 6,
+          "media_count": 281,
+          "tweet_count": 32012
+        },
+        "username": "HamidoFx1",
+        "verified": false
+      },
+      {
+        "id": "275570271",
+        "name": "Waldo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1639016670302965760/-9fZmuy1_normal.jpg",
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 382,
+          "like_count": 115318,
+          "listed_count": 2,
+          "media_count": 767,
+          "tweet_count": 9333
+        },
+        "username": "curtd13",
+        "verified": false
+      },
+      {
+        "id": "2066994197563883520",
+        "name": "Bardamu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2113606340249620480/sBO5U_yi_normal.jpg",
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 39,
+          "like_count": 693,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1230
+        },
+        "username": "BardauzzBardamu",
+        "verified": false
+      },
+      {
+        "id": "1032195487",
+        "name": "Knowix",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072714698756063232/hQNv6GjL_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3525,
+          "following_count": 1936,
+          "like_count": 41652,
+          "listed_count": 29,
+          "media_count": 720,
+          "tweet_count": 33998
+        },
+        "username": "knowixbuilds",
+        "verified": false
+      },
+      {
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "public_metrics": {
+          "followers_count": 9373857,
+          "following_count": 4,
+          "like_count": 146,
+          "listed_count": 8154,
+          "media_count": 4076231,
+          "tweet_count": 148531882
+        },
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "id": "1070094902",
+        "name": "thesithlord66",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1444074609934995467/jI6GdyHE_normal.jpg",
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 757,
+          "like_count": 72591,
+          "listed_count": 15,
+          "media_count": 2113,
+          "tweet_count": 46281
+        },
+        "username": "thesithlord66",
+        "verified": false
+      },
+      {
+        "id": "16703662",
+        "name": "dmsimon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761585220950667265/2srxvGib_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 1377,
+          "like_count": 61338,
+          "listed_count": 4,
+          "media_count": 586,
+          "tweet_count": 41164
+        },
+        "username": "dmsimon",
+        "verified": false
+      },
+      {
+        "id": "1770489073481752576",
+        "name": "Joon, Marty McFly's Forgotten Dog",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770490903758594048/TUkRock4_normal.jpg",
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 411,
+          "like_count": 1462,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1978
+        },
+        "username": "JoonGTP",
+        "verified": false
+      },
+      {
+        "id": "39092755",
+        "name": "Nyck (Unsearchable)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733306936219615233/i-FhXITE_normal.jpg",
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 614,
+          "like_count": 133382,
+          "listed_count": 14,
+          "media_count": 5129,
+          "tweet_count": 65396
+        },
+        "username": "moltenfunk",
+        "verified": false
+      },
+      {
+        "id": "3135563175",
+        "name": "WTFamicom with Dan and Nick",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907557343195234304/qMSNkoTc_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2228,
+          "following_count": 754,
+          "like_count": 187820,
+          "listed_count": 12,
+          "media_count": 6936,
+          "tweet_count": 34641
+        },
+        "username": "WTFamicom",
+        "verified": false
+      },
+      {
+        "id": "820473758",
+        "name": "King Von Finger",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918726685505069056/Lbl8vMr8_normal.jpg",
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 34,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 869
+        },
+        "username": "Elyte7894",
+        "verified": false
+      },
+      {
+        "id": "428501176",
+        "name": "Nick Losciuto",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071437723437514752/15h4qXux_normal.jpg",
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 509,
+          "like_count": 14430,
+          "listed_count": 10,
+          "media_count": 771,
+          "tweet_count": 8230
+        },
+        "username": "thedogfather",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120683201085714540",
+    "next_token": "b26v89c19zqg8o3juzovcalqc6cvd906n67kj6bjha1dp",
+    "oldest_id": "2120607673792024733",
+    "result_count": 15
+  }
+}

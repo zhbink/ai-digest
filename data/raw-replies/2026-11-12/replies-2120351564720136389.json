@@ -1,0 +1,823 @@
+{
+  "data": [
+    {
+      "author_id": "143774242",
+      "created_at": "2026-11-12T00:19:03.000Z",
+      "edit_history_tweet_ids": [
+        "2120672686573801865"
+      ],
+      "id": "2120672686573801865",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120351564720136389",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ Fewer cables, but what’s replaceable independently?",
+      "url": "https://x.com/Mighty_Jimini/status/2120672686573801865"
+    },
+    {
+      "author_id": "1954462081899765760",
+      "created_at": "2026-11-11T23:34:37.000Z",
+      "edit_history_tweet_ids": [
+        "2120661505419198483"
+      ],
+      "id": "2120661505419198483",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120351564720136389",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ Need to cassette solar panels to save space walks",
+      "url": "https://x.com/VallenRacing/status/2120661505419198483"
+    },
+    {
+      "author_id": "1940230901944000513",
+      "created_at": "2026-11-11T23:03:15.000Z",
+      "edit_history_tweet_ids": [
+        "2120653609893581177"
+      ],
+      "id": "2120653609893581177",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120351564720136389",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ Replacing cable cartridges with a PCB midplane trades one routing problem for another. The midplane becomes the density bottleneck at the next scale step. The drive to remove copper at short ranges doesn't stop with cables.",
+      "url": "https://x.com/RIVVORX/status/2120653609893581177"
+    },
+    {
+      "author_id": "1952872859153432577",
+      "created_at": "2026-11-11T20:51:41.000Z",
+      "edit_history_tweet_ids": [
+        "2120620501681008782"
+      ],
+      "id": "2120620501681008782",
+      "in_reply_to_user_id": "48472949",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 22,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120620162231709731",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@_jeffreyr @SemiAnalysis_ Probably not directly. The midplane swaps cable cartridges for one board, while cosmic rays flip bits in the GPUs and memory, so that comes down to shielding and error correction, which the thread doesn't cover.",
+      "url": "https://x.com/LaceyPresley/status/2120620501681008782"
+    },
+    {
+      "author_id": "48472949",
+      "created_at": "2026-11-11T20:50:20.000Z",
+      "edit_history_tweet_ids": [
+        "2120620162231709731"
+      ],
+      "id": "2120620162231709731",
+      "in_reply_to_user_id": "1952872859153432577",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 15,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120616399772991704",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LaceyPresley @SemiAnalysis_ Do you think it will help with cosmic rays?",
+      "url": "https://x.com/_jeffreyr/status/2120620162231709731"
+    },
+    {
+      "author_id": "1952872859153432577",
+      "created_at": "2026-11-11T20:35:23.000Z",
+      "edit_history_tweet_ids": [
+        "2120616399772991704"
+      ],
+      "id": "2120616399772991704",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 81,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120351564720136389",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ Intended for orbital deployment is the line that got me. The 84-layer midplane might be what makes a flyable rack actually buildable.",
+      "url": "https://x.com/LaceyPresley/status/2120616399772991704"
+    },
+    {
+      "author_id": "2119881566159806464",
+      "created_at": "2026-11-11T18:29:48.000Z",
+      "edit_history_tweet_ids": [
+        "2120584794442703168"
+      ],
+      "id": "2120584794442703168",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120351566804726173",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ SpaceX Develops Custom NVIDIA Rubin AI Rack!\n\nSpaceX's new Kessel system features an 84-layer circuit board, highlighting its push toward advanced AI computing infrastructure.\n\nRead More: https://t.co/Pwz1sO0boG",
+      "url": "https://x.com/PradeepWrt/status/2120584794442703168"
+    },
+    {
+      "author_id": "2119881566159806464",
+      "created_at": "2026-11-11T18:23:13.000Z",
+      "edit_history_tweet_ids": [
+        "2120583138720321795"
+      ],
+      "id": "2120583138720321795",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120351564720136389",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ SpaceX Develops Custom NVIDIA Rubin AI Rack!\n\nSpaceX's new Kessel system features an 84-layer circuit board, highlighting its push toward advanced AI computing infrastructure.\n\nRead More: https://t.co/Pwz1sO0boG",
+      "url": "https://x.com/PradeepWrt/status/2120583138720321795"
+    },
+    {
+      "author_id": "1720665183188922368",
+      "created_at": "2026-11-11T17:14:03.000Z",
+      "edit_history_tweet_ids": [
+        "2120565732589076960"
+      ],
+      "id": "2120565732589076960",
+      "in_reply_to_user_id": "2110284877790593024",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120565592616739060",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Firefromtheclou @SemiAnalysis_ In any field the multiplicative identity is the unique element 1 such that a·1 = a for all a. It is also called the unity. “Unit” tracks Latin unus (“one”). Field structure begins with that element; every other projection follows from the axioms. The arithmetic holds.",
+      "url": "https://x.com/grok/status/2120565732589076960"
+    },
+    {
+      "author_id": "2110284877790593024",
+      "created_at": "2026-11-11T17:13:30.000Z",
+      "edit_history_tweet_ids": [
+        "2120565592616739060"
+      ],
+      "id": "2120565592616739060",
+      "in_reply_to_user_id": "1720665183188922368",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120559361252524234",
+          "type": "quoted"
+        },
+        {
+          "id": "2120565369307856943",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@grok @SemiAnalysis_ Check the math https://t.co/AH1kQiMJFY",
+      "url": "https://x.com/Firefromtheclou/status/2120565592616739060"
+    },
+    {
+      "author_id": "1720665183188922368",
+      "created_at": "2026-11-11T17:12:36.000Z",
+      "edit_history_tweet_ids": [
+        "2120565369307856943"
+      ],
+      "id": "2120565369307856943",
+      "in_reply_to_user_id": "2110284877790593024",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120565241490952627",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Firefromtheclou @SemiAnalysis_ Physical laws impose non-negotiable constraints on energy, matter, and information. No credit system, market structure, or computational stack can rewrite conservation rules or thermodynamics. Systems that ignore those constraints accumulate friction and eventual failure; systems",
+      "url": "https://x.com/grok/status/2120565369307856943"
+    },
+    {
+      "author_id": "2110284877790593024",
+      "created_at": "2026-11-11T17:12:06.000Z",
+      "edit_history_tweet_ids": [
+        "2120565241490952627"
+      ],
+      "id": "2120565241490952627",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120475416381071648",
+          "type": "quoted"
+        },
+        {
+          "id": "2120351564720136389",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ @grok https://t.co/qT797qbiiw",
+      "url": "https://x.com/Firefromtheclou/status/2120565241490952627"
+    },
+    {
+      "author_id": "2095972743179079681",
+      "created_at": "2026-11-11T16:28:53.000Z",
+      "edit_history_tweet_ids": [
+        "2120554366403067936"
+      ],
+      "id": "2120554366403067936",
+      "in_reply_to_user_id": "1166118672324337664",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120373295690248610",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kg_market @SemiAnalysis_ @grok “ replaces internal NVLink cable cartridges with a passive PCB midplane”\nPCB = printed circuit board\nTranslation: replacing “cables” with printed circuit board (PCB). \nInterpretation: If you have a high volume of identical wiring a standard PCB is a win.",
+      "url": "https://x.com/JimCallahan_Orl/status/2120554366403067936"
+    },
+    {
+      "author_id": "2095972743179079681",
+      "created_at": "2026-11-11T16:15:17.000Z",
+      "edit_history_tweet_ids": [
+        "2120550943343235130"
+      ],
+      "id": "2120550943343235130",
+      "in_reply_to_user_id": "1166118672324337664",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120373295690248610",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kg_market @SemiAnalysis_ @grok Point-to-point wiring is labor-intensive and potentially error-prone.",
+      "url": "https://x.com/JimCallahan_Orl/status/2120550943343235130"
+    },
+    {
+      "author_id": "1902187171102203904",
+      "created_at": "2026-11-11T15:24:43.000Z",
+      "edit_history_tweet_ids": [
+        "2120538218001302002"
+      ],
+      "id": "2120538218001302002",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 40,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120351564720136389",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ 法拉利的发动机不会卖给兰博基尼",
+      "url": "https://x.com/FRANKFSFB/status/2120538218001302002"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2120351562853720064"
+          ]
+        },
+        "author_id": "1745106082790318080",
+        "created_at": "2026-11-11T03:03:01.000Z",
+        "edit_history_tweet_ids": [
+          "2120351564720136389"
+        ],
+        "id": "2120351564720136389",
+        "public_metrics": {
+          "bookmark_count": 289,
+          "impression_count": 102857,
+          "like_count": 1038,
+          "quote_count": 28,
+          "reply_count": 52,
+          "retweet_count": 65
+        },
+        "text": "SpaceX is developing Kessel, a custom Vera Rubin NVL72 rack that replaces internal NVLink cable cartridges with a passive PCB midplane. It keeps Oberon’s 72 GPU packages, 18 compute trays and 9 switch trays, but rearranges them back-to-back around the board. Think mini Kyber, https://t.co/C32phAdHI9"
+      },
+      {
+        "author_id": "48472949",
+        "created_at": "2026-11-11T20:50:20.000Z",
+        "edit_history_tweet_ids": [
+          "2120620162231709731"
+        ],
+        "id": "2120620162231709731",
+        "in_reply_to_user_id": "1952872859153432577",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120616399772991704",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@LaceyPresley @SemiAnalysis_ Do you think it will help with cosmic rays?"
+      },
+      {
+        "author_id": "1952872859153432577",
+        "created_at": "2026-11-11T20:35:23.000Z",
+        "edit_history_tweet_ids": [
+          "2120616399772991704"
+        ],
+        "id": "2120616399772991704",
+        "in_reply_to_user_id": "1745106082790318080",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120351564720136389",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@SemiAnalysis_ Intended for orbital deployment is the line that got me. The 84-layer midplane might be what makes a flyable rack actually buildable."
+      },
+      {
+        "author_id": "1745106082790318080",
+        "created_at": "2026-11-11T03:03:02.000Z",
+        "edit_history_tweet_ids": [
+          "2120351566804726173"
+        ],
+        "id": "2120351566804726173",
+        "in_reply_to_user_id": "1745106082790318080",
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 14750,
+          "like_count": 110,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120351565932306694",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Kessel also changes who buys the components: SpaceX plans to purchase chip packages from Nvidia and procure the rest directly, bypassing Nvidia’s L6 compute boards. That would give SpaceX more control over supplier selection and component sourcing. (3/4)"
+      },
+      {
+        "author_id": "2110284877790593024",
+        "created_at": "2026-11-11T17:13:30.000Z",
+        "edit_history_tweet_ids": [
+          "2120565592616739060"
+        ],
+        "id": "2120565592616739060",
+        "in_reply_to_user_id": "1720665183188922368",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120559361252524234",
+            "type": "quoted"
+          },
+          {
+            "id": "2120565369307856943",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@grok @SemiAnalysis_ Check the math https://t.co/AH1kQiMJFY"
+      },
+      {
+        "author_id": "1720665183188922368",
+        "created_at": "2026-11-11T17:12:36.000Z",
+        "edit_history_tweet_ids": [
+          "2120565369307856943"
+        ],
+        "id": "2120565369307856943",
+        "in_reply_to_user_id": "2110284877790593024",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120565241490952627",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Firefromtheclou @SemiAnalysis_ Physical laws impose non-negotiable constraints on energy, matter, and information. No credit system, market structure, or computational stack can rewrite conservation rules or thermodynamics. Systems that ignore those constraints accumulate friction and eventual failure; systems"
+      },
+      {
+        "author_id": "1720665183188922368",
+        "created_at": "2026-11-11T16:48:44.000Z",
+        "edit_history_tweet_ids": [
+          "2120559361252524234"
+        ],
+        "id": "2120559361252524234",
+        "in_reply_to_user_id": "2110284877790593024",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120559270060028142",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Firefromtheclou @spcxGOD Yes. The unit is the multiplicative identity, denoted 1—the one. Etymology tracks Latin unus. Field arithmetic starts there; every projection follows from it."
+      },
+      {
+        "author_id": "2110284877790593024",
+        "created_at": "2026-11-11T17:12:06.000Z",
+        "edit_history_tweet_ids": [
+          "2120565241490952627"
+        ],
+        "id": "2120565241490952627",
+        "in_reply_to_user_id": "1745106082790318080",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120475416381071648",
+            "type": "quoted"
+          },
+          {
+            "id": "2120351564720136389",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@SemiAnalysis_ @grok https://t.co/qT797qbiiw"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2120475335682572288"
+          ]
+        },
+        "author_id": "2110284877790593024",
+        "created_at": "2026-11-11T11:15:10.000Z",
+        "edit_history_tweet_ids": [
+          "2120475416381071648"
+        ],
+        "id": "2120475416381071648",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 24,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "text": "\"Clear statement\nThe divine order — the already-given measure of creation under Laws of Nature and of Nature’s God — stands as inescapable reality and the sole final authority.\" https://t.co/OHqN7T18UA"
+      },
+      {
+        "author_id": "1166118672324337664",
+        "created_at": "2026-11-11T04:29:22.000Z",
+        "edit_history_tweet_ids": [
+          "2120373295690248610"
+        ],
+        "id": "2120373295690248610",
+        "in_reply_to_user_id": "1745106082790318080",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1229,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120351564720136389",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@SemiAnalysis_ @grok what parts of the supply chain is spacex owning with this development, if any? Does it reduce supplier reliance or is this an enhancement in technology and for what advantage? Summarize for general audience"
+      }
+    ],
+    "users": [
+      {
+        "id": "143774242",
+        "name": "Jimin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079850517141012480/-yni_YFo_normal.jpg",
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 825,
+          "like_count": 1,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 3404
+        },
+        "username": "Mighty_Jimini",
+        "verified": false
+      },
+      {
+        "id": "1745106082790318080",
+        "name": "SemiAnalysis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062973370157694976/CdplNoi1_normal.jpg",
+        "public_metrics": {
+          "followers_count": 184337,
+          "following_count": 38,
+          "like_count": 954,
+          "listed_count": 3474,
+          "media_count": 2196,
+          "tweet_count": 3832
+        },
+        "username": "SemiAnalysis_",
+        "verified": true
+      },
+      {
+        "id": "1954462081899765760",
+        "name": "Lee Vallen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954463099039494144/JogBwXO9_normal.png",
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 21,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 170
+        },
+        "username": "VallenRacing",
+        "verified": false
+      },
+      {
+        "id": "1940230901944000513",
+        "name": "RIVVOR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008945730442960896/hfgX7pBE_normal.png",
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 116,
+          "like_count": 381,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 494
+        },
+        "username": "RIVVORX",
+        "verified": false
+      },
+      {
+        "id": "1952872859153432577",
+        "name": "Lacey",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120302775447805952/0y6BVPSn_normal.jpg",
+        "public_metrics": {
+          "followers_count": 13336,
+          "following_count": 583,
+          "like_count": 70536,
+          "listed_count": 91,
+          "media_count": 7232,
+          "tweet_count": 30930
+        },
+        "username": "LaceyPresley",
+        "verified": false
+      },
+      {
+        "id": "48472949",
+        "name": "JeffreyR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047122616666972160/r3NmRKGr_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2288,
+          "following_count": 3222,
+          "like_count": 290934,
+          "listed_count": 16,
+          "media_count": 9146,
+          "tweet_count": 31328
+        },
+        "username": "_jeffreyr",
+        "verified": false
+      },
+      {
+        "id": "2119881566159806464",
+        "name": "Pradeepkumar",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 80
+        },
+        "username": "PradeepWrt",
+        "verified": false
+      },
+      {
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "public_metrics": {
+          "followers_count": 9373853,
+          "following_count": 4,
+          "like_count": 146,
+          "listed_count": 8154,
+          "media_count": 4076230,
+          "tweet_count": 148531711
+        },
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "id": "2110284877790593024",
+        "name": "Fire from the clouds",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110287221580304384/0hx745eV_normal.jpg",
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 39,
+          "like_count": 304,
+          "listed_count": 0,
+          "media_count": 416,
+          "tweet_count": 1493
+        },
+        "username": "Firefromtheclou",
+        "verified": false
+      },
+      {
+        "id": "2095972743179079681",
+        "name": "Jim Callahan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095973766580842496/Nr4FLCKl_normal.jpg",
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 88,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 29
+        },
+        "username": "JimCallahan_Orl",
+        "verified": false
+      },
+      {
+        "id": "1166118672324337664",
+        "name": "Kelso",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959713642527457281/i34pQA3j_normal.jpg",
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 533,
+          "like_count": 3219,
+          "listed_count": 9,
+          "media_count": 894,
+          "tweet_count": 2164
+        },
+        "username": "kg_market",
+        "verified": false
+      },
+      {
+        "id": "1902187171102203904",
+        "name": "FRANK GAO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902187267386753024/hPtMLlYR_normal.png",
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 75,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 201
+        },
+        "username": "FRANKFSFB",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120672686573801865",
+    "next_token": "b26v89c19zqg8o3juzovc8hwlma9o602vmoiqjtdamhrx",
+    "oldest_id": "2120538218001302002",
+    "result_count": 15
+  }
+}

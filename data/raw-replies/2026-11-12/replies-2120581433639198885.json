@@ -1,0 +1,701 @@
+{
+  "data": [
+    {
+      "author_id": "1379440075096920070",
+      "created_at": "2026-11-12T00:59:53.000Z",
+      "edit_history_tweet_ids": [
+        "2120682963914633431"
+      ],
+      "id": "2120682963914633431",
+      "in_reply_to_user_id": "284333988",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120581433639198885",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@OfficialLoganK @GoogleAIStudio a reset？",
+      "url": "https://x.com/mcocdaa/status/2120682963914633431"
+    },
+    {
+      "author_id": "2025144888204136448",
+      "created_at": "2026-11-12T00:59:10.000Z",
+      "edit_history_tweet_ids": [
+        "2120682782255178117"
+      ],
+      "id": "2120682782255178117",
+      "in_reply_to_user_id": "252154494",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120681890667696199",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@monkeyin_92 @OfficialLoganK @demishassabis @GoogleAIStudio @bot 能当路由器，但编排的难处不在选路，在失败了谁来兜底。",
+      "url": "https://x.com/surlymochan/status/2120682782255178117"
+    },
+    {
+      "author_id": "101309554",
+      "created_at": "2026-11-12T00:58:44.000Z",
+      "edit_history_tweet_ids": [
+        "2120682674046050682"
+      ],
+      "id": "2120682674046050682",
+      "in_reply_to_user_id": "284333988",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120581433639198885",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@OfficialLoganK @GoogleAIStudio \"Gemini can you please not flip flop?\" so that's 1 of the 1000...",
+      "url": "https://x.com/david_kovach/status/2120682674046050682"
+    },
+    {
+      "author_id": "195624776",
+      "created_at": "2026-11-12T00:56:22.000Z",
+      "edit_history_tweet_ids": [
+        "2120682077410443544"
+      ],
+      "id": "2120682077410443544",
+      "in_reply_to_user_id": "284333988",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120581433639198885",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@OfficialLoganK @GoogleAIStudio A frontier model that answers 1,000 questions in one pass for ten cents a million tokens. Decision making just became the cheapest line item in the stack #AI #Gemini",
+      "url": "https://x.com/dstrausser83/status/2120682077410443544"
+    },
+    {
+      "author_id": "1602619289873580032",
+      "created_at": "2026-11-12T00:55:58.000Z",
+      "edit_history_tweet_ids": [
+        "2120681978244821082"
+      ],
+      "id": "2120681978244821082",
+      "in_reply_to_user_id": "284333988",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120581433639198885",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@OfficialLoganK @GoogleAIStudio Sub-penny decision models kill the excuse for dumb pipelines.\n\nThe next unlock isn't routing speed—it's context freshness. If your decision model triages docs and tickets without knowing what was just said in chat or meetings, you get faster mistakes, not real autonomy.",
+      "url": "https://x.com/weave_workspace/status/2120681978244821082"
+    },
+    {
+      "author_id": "252154494",
+      "created_at": "2026-11-12T00:55:37.000Z",
+      "edit_history_tweet_ids": [
+        "2120681890667696199"
+      ],
+      "id": "2120681890667696199",
+      "in_reply_to_user_id": "284333988",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120581433639198885",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@OfficialLoganK @demishassabis @GoogleAIStudio @bot 这种模型可以作为agent编排的路由器吗？",
+      "url": "https://x.com/monkeyin_92/status/2120681890667696199"
+    },
+    {
+      "author_id": "17065524",
+      "created_at": "2026-11-12T00:55:00.000Z",
+      "edit_history_tweet_ids": [
+        "2120681735402729645"
+      ],
+      "id": "2120681735402729645",
+      "in_reply_to_user_id": "284333988",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120581433639198885",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@OfficialLoganK @GoogleAIStudio $0.10 per 1M input with no output charge is a real small-business price for sorting leads, forms and invoices! \n\nOne question though: is that the price or the launch price?\n\nCarbon's $2/$10 doubles Dec 1 and Flash doubles Jan 1. \n\nBuilders need to know before they wire it in.",
+      "url": "https://x.com/Stan_Timek/status/2120681735402729645"
+    },
+    {
+      "author_id": "1446058878656032768",
+      "created_at": "2026-11-12T00:52:42.000Z",
+      "edit_history_tweet_ids": [
+        "2120681155338829991"
+      ],
+      "id": "2120681155338829991",
+      "in_reply_to_user_id": "284333988",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120581433639198885",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@OfficialLoganK @GoogleAIStudio It's a little bit slower than Jev but it's 10 cents per million tokens so who am I to complain?",
+      "url": "https://x.com/TH33ORACL3/status/2120681155338829991"
+    },
+    {
+      "author_id": "2107986136698114048",
+      "created_at": "2026-11-12T00:52:24.000Z",
+      "edit_history_tweet_ids": [
+        "2120681081942716511"
+      ],
+      "id": "2120681081942716511",
+      "in_reply_to_user_id": "284333988",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120581433639198885",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@OfficialLoganK @GoogleAIStudio A $0.10-per-million decision model is a different product than another chatbot. the test is if it can pick the next step reliably, not just answer a long prompt",
+      "url": "https://x.com/OddSideQuest/status/2120681081942716511"
+    },
+    {
+      "author_id": "905493911107502080",
+      "created_at": "2026-11-12T00:49:38.000Z",
+      "edit_history_tweet_ids": [
+        "2120680385084543107"
+      ],
+      "id": "2120680385084543107",
+      "in_reply_to_user_id": "284333988",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 13,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120581433639198885",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@OfficialLoganK @GoogleAIStudio ok what's a decision model, explain it like I'm 5 pls 😅",
+      "url": "https://x.com/jamisafari/status/2120680385084543107"
+    },
+    {
+      "author_id": "1200076752246042624",
+      "created_at": "2026-11-12T00:45:05.000Z",
+      "edit_history_tweet_ids": [
+        "2120679238949081245"
+      ],
+      "id": "2120679238949081245",
+      "in_reply_to_user_id": "284333988",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120581433639198885",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@OfficialLoganK @GoogleAIStudio At $0.10 per million tokens, the decision itself stops being the expensive part — evaluating 1,000 of them well becomes the real work.",
+      "url": "https://x.com/MahajanHazel/status/2120679238949081245"
+    },
+    {
+      "author_id": "1707322478",
+      "created_at": "2026-11-12T00:43:37.000Z",
+      "edit_history_tweet_ids": [
+        "2120678871611670962"
+      ],
+      "id": "2120678871611670962",
+      "in_reply_to_user_id": "284333988",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120581433639198885",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@OfficialLoganK @GoogleAIStudio 巨头把决策模型的价格打到0.10刀还全模态通吞，这才是Agent工程的真正利好！状态路由成本崩塌，复杂工作流落地彻底解封。",
+      "url": "https://x.com/whb0821/status/2120678871611670962"
+    },
+    {
+      "author_id": "1720665183188922368",
+      "created_at": "2026-11-12T00:40:43.000Z",
+      "edit_history_tweet_ids": [
+        "2120678141152595983"
+      ],
+      "id": "2120678141152595983",
+      "in_reply_to_user_id": "2104561644538097664",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120678070873211332",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Taogso @OfficialLoganK @GoogleAIStudio 这模型确实骚，专做判断不写字，批量处理才是它的主场。\n\n先判1000道选择题。结构化、对错明确，决策模型吃这套最爽，打分又快又准。1000条评价再往后，文本噪声大，还得结合上下文，性价比稍低一点。\n\n你要是有真实数据，丢过来试试效果？",
+      "url": "https://x.com/grok/status/2120678141152595983"
+    },
+    {
+      "author_id": "2104561644538097664",
+      "created_at": "2026-11-12T00:40:27.000Z",
+      "edit_history_tweet_ids": [
+        "2120678070873211332"
+      ],
+      "id": "2120678070873211332",
+      "in_reply_to_user_id": "284333988",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120581433639198885",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@OfficialLoganK @GoogleAIStudio 没想到🤯 谷歌出了个不写字的模型，专替你做决定。\n一次判 1000 道题，是非选择打分全包，图文音视频 PDF 一次过。\n256K 上下文，输入 $0.10/百万，输出 $0。\n第三方决策指数 66 分，知识推理领先。\n说白了：批量判断不用拿大模型一个个写字了。\n@grok\n先判哪件：1000 条评价，还是 1000 道选择题？",
+      "url": "https://x.com/Taogso/status/2120678070873211332"
+    },
+    {
+      "author_id": "2095900145783361536",
+      "created_at": "2026-11-12T00:38:26.000Z",
+      "edit_history_tweet_ids": [
+        "2120677564918137087"
+      ],
+      "id": "2120677564918137087",
+      "in_reply_to_user_id": "284333988",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120581433639198885",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@OfficialLoganK @GoogleAIStudio Scoring options instead of generating them, with zero output tokens billed, is a neat setup for routing and policy checks. Two questions: what are the limits on the no-cost tier in AI Studio? And the post gives 150–250 ms end to end for contexts up to 16K. What does latency look",
+      "url": "https://x.com/me1ody_0903/status/2120677564918137087"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2120576116503257088"
+          ]
+        },
+        "author_id": "284333988",
+        "created_at": "2026-11-11T18:16:26.000Z",
+        "edit_history_tweet_ids": [
+          "2120581433639198885"
+        ],
+        "id": "2120581433639198885",
+        "public_metrics": {
+          "bookmark_count": 2362,
+          "impression_count": 437398,
+          "like_count": 7864,
+          "quote_count": 250,
+          "reply_count": 423,
+          "retweet_count": 470
+        },
+        "text": "Introducing Gemini Decision 1, our new frontier decision  model in the Gemini API.\n\nIt is $0.10 per 1M input tokens with no additional cost. With support for image, audio, video, and PDF natively, 256K context window, &amp; 1K questions.\n\nYou can try it for free in the API! https://t.co/Pa6pIaQyoy"
+      },
+      {
+        "author_id": "252154494",
+        "created_at": "2026-11-12T00:55:37.000Z",
+        "edit_history_tweet_ids": [
+          "2120681890667696199"
+        ],
+        "id": "2120681890667696199",
+        "in_reply_to_user_id": "284333988",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120581433639198885",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@OfficialLoganK @demishassabis @GoogleAIStudio @bot 这种模型可以作为agent编排的路由器吗？"
+      },
+      {
+        "author_id": "2104561644538097664",
+        "created_at": "2026-11-12T00:40:27.000Z",
+        "edit_history_tweet_ids": [
+          "2120678070873211332"
+        ],
+        "id": "2120678070873211332",
+        "in_reply_to_user_id": "284333988",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120581433639198885",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@OfficialLoganK @GoogleAIStudio 没想到🤯 谷歌出了个不写字的模型，专替你做决定。\n一次判 1000 道题，是非选择打分全包，图文音视频 PDF 一次过。\n256K 上下文，输入 $0.10/百万，输出 $0。\n第三方决策指数 66 分，知识推理领先。\n说白了：批量判断不用拿大模型一个个写字了。\n@grok\n先判哪件：1000 条评价，还是 1000 道选择题？"
+      }
+    ],
+    "users": [
+      {
+        "id": "1379440075096920070",
+        "name": "mcochaa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535524202555375616/UCn5iwHf_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 47,
+          "like_count": 484,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 21
+        },
+        "username": "mcocdaa",
+        "verified": false
+      },
+      {
+        "id": "284333988",
+        "name": "Logan Kilpatrick",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943787288955084800/QOl7OJMc_normal.jpg",
+        "public_metrics": {
+          "followers_count": 388982,
+          "following_count": 3433,
+          "like_count": 161721,
+          "listed_count": 6462,
+          "media_count": 690,
+          "tweet_count": 11851
+        },
+        "username": "OfficialLoganK",
+        "verified": false
+      },
+      {
+        "id": "2025144888204136448",
+        "name": "nick",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2114729486168006656/jspsHzRV_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 2991,
+          "like_count": 1030,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 5266
+        },
+        "username": "surlymochan",
+        "verified": false
+      },
+      {
+        "id": "252154494",
+        "name": "MonkeyIn｜AI × 硬件",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087728004084715520/x3BO-33u_normal.jpg",
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 66,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 395
+        },
+        "username": "monkeyin_92",
+        "verified": false
+      },
+      {
+        "id": "101309554",
+        "name": "David Kovach",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093098869206720513/gj2T-km-_normal.jpg",
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 109,
+          "like_count": 188,
+          "listed_count": 7,
+          "media_count": 11,
+          "tweet_count": 293
+        },
+        "username": "david_kovach",
+        "verified": false
+      },
+      {
+        "id": "195624776",
+        "name": "David Strausser",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078923088415064065/86ewX-0D_normal.jpg",
+        "public_metrics": {
+          "followers_count": 5233,
+          "following_count": 2067,
+          "like_count": 5677,
+          "listed_count": 169,
+          "media_count": 2607,
+          "tweet_count": 37939
+        },
+        "username": "dstrausser83",
+        "verified": false
+      },
+      {
+        "id": "1602619289873580032",
+        "name": "Weave | AI Work Stack",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120480798889684992/9tJyO-6e_normal.jpg",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 4,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 10
+        },
+        "username": "weave_workspace",
+        "verified": false
+      },
+      {
+        "id": "17065524",
+        "name": "Stan_Timek",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1533946097860845568/keGqFGHR_normal.jpg",
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 236,
+          "like_count": 2177,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 2242
+        },
+        "username": "Stan_Timek",
+        "verified": false
+      },
+      {
+        "id": "1446058878656032768",
+        "name": "TH33ORACL3 𝕏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103831766452555776/qnzaWa4y_normal.jpg",
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 1130,
+          "like_count": 3319,
+          "listed_count": 2,
+          "media_count": 408,
+          "tweet_count": 5087
+        },
+        "username": "TH33ORACL3",
+        "verified": false
+      },
+      {
+        "id": "2107986136698114048",
+        "name": "Johannes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2111935124874858496/QhwA67qZ_normal.jpg",
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 366,
+          "like_count": 2619,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1495
+        },
+        "username": "OddSideQuest",
+        "verified": false
+      },
+      {
+        "id": "905493911107502080",
+        "name": "Jami Safari",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2113466937317724160/4tXyUB22_normal.jpg",
+        "public_metrics": {
+          "followers_count": 21940,
+          "following_count": 2930,
+          "like_count": 36970,
+          "listed_count": 143,
+          "media_count": 4367,
+          "tweet_count": 16503
+        },
+        "username": "jamisafari",
+        "verified": false
+      },
+      {
+        "id": "1200076752246042624",
+        "name": "Hazel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1708834946125856768/dHs-VZkB_normal.jpg",
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 4715,
+          "like_count": 24106,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 1020
+        },
+        "username": "MahajanHazel",
+        "verified": false
+      },
+      {
+        "id": "1707322478",
+        "name": "景哥｜AI增长与落地",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097138872018710528/_Dd89Str_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1751,
+          "following_count": 1609,
+          "like_count": 3431,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 9971
+        },
+        "username": "whb0821",
+        "verified": false
+      },
+      {
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "public_metrics": {
+          "followers_count": 9373849,
+          "following_count": 4,
+          "like_count": 146,
+          "listed_count": 8154,
+          "media_count": 4076227,
+          "tweet_count": 148531543
+        },
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "id": "2104561644538097664",
+        "name": "TaoGSO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104987834084216833/edlw7EDc_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2514,
+          "following_count": 2210,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 6383
+        },
+        "username": "Taogso",
+        "verified": false
+      },
+      {
+        "id": "2095900145783361536",
+        "name": "me1ody",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120078782795005952/OrvApPzT_normal.png",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 15,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 12
+        },
+        "username": "me1ody_0903",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120682963914633431",
+    "next_token": "b26v89c19zqg8o3juzovcantv5rmdputpzouwbkws5ri5",
+    "oldest_id": "2120677564918137087",
+    "result_count": 15
+  }
+}

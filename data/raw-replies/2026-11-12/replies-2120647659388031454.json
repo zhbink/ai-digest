@@ -1,0 +1,894 @@
+{
+  "data": [
+    {
+      "author_id": "2107789700375134208",
+      "conversation_id": "2120647659388031454",
+      "created_at": "2026-11-12T01:00:05.000Z",
+      "edit_history_tweet_ids": [
+        "2120683014451527954"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "3178231",
+            "start": 0,
+            "username": "dotey"
+          }
+        ]
+      },
+      "id": "2120683014451527954",
+      "in_reply_to_user_id": "3178231",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120647659388031454",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 判断任务不用再生成一大段解释，这个思路挺实用。低置信度转人工也很重要",
+      "url": "https://x.com/Deiouweyol1z/status/2120683014451527954"
+    },
+    {
+      "author_id": "1382863933434859522",
+      "conversation_id": "2120647659388031454",
+      "created_at": "2026-11-12T00:58:56.000Z",
+      "edit_history_tweet_ids": [
+        "2120682722217828843"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "3178231",
+            "start": 0,
+            "username": "dotey"
+          }
+        ]
+      },
+      "id": "2120682722217828843",
+      "in_reply_to_user_id": "3178231",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120647659388031454",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 现在还有人提JEV吗，感觉一天一个风口",
+      "url": "https://x.com/paigu7x/status/2120682722217828843"
+    },
+    {
+      "author_id": "2953739684",
+      "conversation_id": "2120647659388031454",
+      "created_at": "2026-11-12T00:58:40.000Z",
+      "edit_history_tweet_ids": [
+        "2120682656539238442"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "3178231",
+            "start": 0,
+            "username": "dotey"
+          }
+        ]
+      },
+      "id": "2120682656539238442",
+      "in_reply_to_user_id": "3178231",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120647659388031454",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 输出不收钱 这定价头一回见",
+      "url": "https://x.com/AzrianoY1/status/2120682656539238442"
+    },
+    {
+      "author_id": "2054415115613806592",
+      "conversation_id": "2120647659388031454",
+      "created_at": "2026-11-12T00:57:12.000Z",
+      "edit_history_tweet_ids": [
+        "2120682286295453786"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "3178231",
+            "start": 0,
+            "username": "dotey"
+          }
+        ]
+      },
+      "id": "2120682286295453786",
+      "in_reply_to_user_id": "3178231",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120647659388031454",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 不写回答只做判断——省的不只是 token，是以前写段话再解析答案的那套脏活。",
+      "url": "https://x.com/Johnb4zb/status/2120682286295453786"
+    },
+    {
+      "author_id": "2044833856218451968",
+      "conversation_id": "2120647659388031454",
+      "created_at": "2026-11-12T00:56:18.000Z",
+      "edit_history_tweet_ids": [
+        "2120682061673664657"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "3178231",
+            "start": 0,
+            "username": "dotey"
+          }
+        ]
+      },
+      "id": "2120682061673664657",
+      "in_reply_to_user_id": "3178231",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120647659388031454",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 不写回答只做判断这点太对我胃口了 我以前让它分类 它先写一长段 我还得从里面抠答案 偶尔还抠错\n一次能挂一堆问题还不算输出钱 我要是用就先拿置信度卡一下 太低的先自己看",
+      "url": "https://x.com/T082057/status/2120682061673664657"
+    },
+    {
+      "author_id": "1613941896094650370",
+      "conversation_id": "2120647659388031454",
+      "created_at": "2026-11-12T00:53:49.000Z",
+      "edit_history_tweet_ids": [
+        "2120681436772716876"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "3178231",
+            "start": 0,
+            "username": "dotey"
+          }
+        ]
+      },
+      "id": "2120681436772716876",
+      "in_reply_to_user_id": "3178231",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120647659388031454",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 只给判断不写回答 输出还不收钱 拿来做大批量分类打标正合适",
+      "url": "https://x.com/0xMartin0307/status/2120681436772716876"
+    },
+    {
+      "author_id": "1600756229143662593",
+      "conversation_id": "2120647659388031454",
+      "created_at": "2026-11-12T00:52:40.000Z",
+      "edit_history_tweet_ids": [
+        "2120681145214050561"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "3178231",
+            "start": 0,
+            "username": "dotey"
+          }
+        ]
+      },
+      "id": "2120681145214050561",
+      "in_reply_to_user_id": "3178231",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120647659388031454",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 只判不答，像请了个只点头不说话的裁判？",
+      "url": "https://x.com/king_ldp/status/2120681145214050561"
+    },
+    {
+      "author_id": "1446228213990977540",
+      "conversation_id": "2120647659388031454",
+      "created_at": "2026-11-12T00:48:06.000Z",
+      "edit_history_tweet_ids": [
+        "2120679996549447777"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "3178231",
+            "start": 0,
+            "username": "dotey"
+          }
+        ]
+      },
+      "id": "2120679996549447777",
+      "in_reply_to_user_id": "3178231",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120647659388031454",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 比jev慢一倍 没很大提升",
+      "url": "https://x.com/wan_ruirui/status/2120679996549447777"
+    },
+    {
+      "author_id": "1751957272216166401",
+      "conversation_id": "2120647659388031454",
+      "created_at": "2026-11-12T00:44:21.000Z",
+      "edit_history_tweet_ids": [
+        "2120679053615374801"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "3178231",
+            "start": 0,
+            "username": "dotey"
+          }
+        ]
+      },
+      "id": "2120679053615374801",
+      "in_reply_to_user_id": "3178231",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120647659388031454",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 又是一个判断模型，不知道能不能超过Jev",
+      "url": "https://x.com/wangjing1056606/status/2120679053615374801"
+    },
+    {
+      "author_id": "1602583057395257344",
+      "conversation_id": "2120647659388031454",
+      "created_at": "2026-11-12T00:36:28.000Z",
+      "edit_history_tweet_ids": [
+        "2120677071642939486"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "3178231",
+            "start": 0,
+            "username": "dotey"
+          }
+        ]
+      },
+      "id": "2120677071642939486",
+      "in_reply_to_user_id": "3178231",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 24,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120647659388031454",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 题和题互不影响这点我比较在意。后面的判断要是依赖前面的结果，还得自己再请求一次。",
+      "url": "https://x.com/AI_CongLi/status/2120677071642939486"
+    },
+    {
+      "author_id": "1922165315246686209",
+      "conversation_id": "2120647659388031454",
+      "created_at": "2026-11-12T00:35:05.000Z",
+      "edit_history_tweet_ids": [
+        "2120676724023460165"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "3178231",
+            "start": 0,
+            "username": "dotey"
+          }
+        ]
+      },
+      "id": "2120676724023460165",
+      "in_reply_to_user_id": "3178231",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120647659388031454",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 可以支持图片了吗！那接入现实的机器人是不是能做很多事情？？",
+      "url": "https://x.com/evanpunk2077/status/2120676724023460165"
+    },
+    {
+      "author_id": "233361843",
+      "conversation_id": "2120647659388031454",
+      "created_at": "2026-11-12T00:33:59.000Z",
+      "edit_history_tweet_ids": [
+        "2120676443474493536"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "3178231",
+            "start": 0,
+            "username": "dotey"
+          }
+        ]
+      },
+      "id": "2120676443474493536",
+      "in_reply_to_user_id": "3178231",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120647659388031454",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 只判题不写字，输出还不收钱，批量打标这活儿终于有便宜干法了",
+      "url": "https://x.com/xbox_grok/status/2120676443474493536"
+    },
+    {
+      "author_id": "2113256414688997376",
+      "conversation_id": "2120647659388031454",
+      "created_at": "2026-11-12T00:27:57.000Z",
+      "edit_history_tweet_ids": [
+        "2120674927808557081"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "3178231",
+            "start": 0,
+            "username": "dotey"
+          }
+        ]
+      },
+      "id": "2120674927808557081",
+      "in_reply_to_user_id": "3178231",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120647659388031454",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 1.6万Token内150到250毫秒，问1个和问100个耗时差不多，比便宜5倍更实在。",
+      "url": "https://x.com/Zane_Sang/status/2120674927808557081"
+    },
+    {
+      "author_id": "1717809218731065344",
+      "conversation_id": "2120647659388031454",
+      "created_at": "2026-11-12T00:26:50.000Z",
+      "edit_history_tweet_ids": [
+        "2120674644449743060"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "3178231",
+            "start": 0,
+            "username": "dotey"
+          }
+        ]
+      },
+      "id": "2120674644449743060",
+      "in_reply_to_user_id": "3178231",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120647659388031454",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 输出不收钱这招太狠了，特么的以后做分类、路由这种活基本白菜价，专做小判断模型的创业公司要难受了",
+      "url": "https://x.com/libo_ai/status/2120674644449743060"
+    },
+    {
+      "author_id": "1694943359255957504",
+      "conversation_id": "2120647659388031454",
+      "created_at": "2026-11-12T00:21:21.000Z",
+      "edit_history_tweet_ids": [
+        "2120673267996631229"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "3178231",
+            "start": 0,
+            "username": "dotey"
+          },
+          {
+            "end": 13,
+            "id": "3178231",
+            "start": 7,
+            "username": "dotey"
+          }
+        ]
+      },
+      "id": "2120673267996631229",
+      "in_reply_to_user_id": "3178231",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "3178231",
+              "start": 0,
+              "username": "dotey"
+            }
+          ]
+        },
+        "text": "@dotey 免费档和付费档的数据用途，你已经写清楚了。我补一句附加条款里的话。\n\n付费档不会用内容来改进产品。但提示词和回复仍可能在 Google 有设施的任何国家短暂存放或缓存。选定推理区域这件事，今天这条 Gemini API 路径并没有提供。客户要的如果是「推理落在指定区域」，还得看尚未上线的 Google Cloud 支持，到时候也要再对区域条款。材料要留在自己机房，这一版也写不上。"
+      },
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 57,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120647659388031454",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey @dotey 免费档和付费档的数据用途，你已经写清楚了。我补一句附加条款里的话。\n\n付费档不会用内容来改进产品。但提示词和回复仍可能在 Google 有设施的任何国家短暂存放或缓存。选定推理区域这件事，今天这条 Gemini API 路径并没有提供。客户要的如果是「推理落在指定区域」，还得看尚未上线的 Google",
+      "url": "https://x.com/linxlbuilds/status/2120673267996631229"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "3178231",
+        "conversation_id": "2120647659388031454",
+        "created_at": "2026-11-11T22:39:36.000Z",
+        "edit_history_tweet_ids": [
+          "2120647659388031454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sundarpichai/s…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/sundarpichai/status/2120581155078729728",
+              "start": 144,
+              "url": "https://t.co/BrCwuE0RTx"
+            }
+          ]
+        },
+        "id": "2120647659388031454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "blog.google/innovation-and…",
+                "end": 1701,
+                "expanded_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+                "start": 1678,
+                "url": "https://t.co/P5hlLj7fXN"
+              },
+              {
+                "display_url": "aistudio.google.com/docs/decisions…",
+                "end": 1730,
+                "expanded_url": "https://aistudio.google.com/docs/decisions-api",
+                "start": 1707,
+                "url": "https://t.co/WphCUZv5oT"
+              },
+              {
+                "display_url": "developers.openai.com/api/docs/guide…",
+                "end": 1778,
+                "expanded_url": "https://developers.openai.com/api/docs/guides/decisions",
+                "start": 1755,
+                "url": "https://t.co/MGgS32OuNy"
+              }
+            ]
+          },
+          "text": "Google 推出 Gemini Decisions API：不写回答只做判断，一次最多问 1000 个问题，输入每百万 Token 0.1 美元、输出不收钱\n\nGoogle 今天在 Gemini API 里上线了 Decisions API，配套新模型 Gemini Decision 1。它不生成文字，只答题：给它一份输入和一组问题，它直接返回每道题的答案，外加一个“有多大把握”的置信度。\n\n【它解决什么问题】\n\n做 AI 应用时，很多调用其实只要一个判断：这条客服消息转给哪个组？这个问题交给便宜模型还是推理模型？这张图违不违规？以前只能让大模型写一段话，再从里面解析答案，慢，容易解析失败，还要为输出 Token 付钱。\n\nDecisions API 只有三种题型：是非题，返回“是”的概率；单选题，2 到 255 个选项，返回选中项和每个选项的概率；打分题，按你写的档位打分。每个答案带 0 到 1 的置信度，代码可以设门槛，比如高于 0.7 自动执行，低于就转人工。官方说这些概率是校准过的，意思是模型说 90% 的时候，大约十次里真对九次，所以置信度能直接拿来当门槛。\n\nGoogle 博客的例子：上传一张茶水间台面的照片，同时问三个问题。“有没有洒了的液体”答 0.95；“怎么处理”选“用抹布擦”，置信度 0.98；“脏乱程度按 0 到 2 打分”给 1.19，置信度 0.77。\n\n【多快、多便宜】\n\n一次请求的输入最多 256K Token，文字、JSON、图片、音频、视频、PDF 可以混着放，比如一段客服通话录音加账户信息。同一份输入上最多挂 1000 个问题，彼此互不影响。输入只计一次费，每多一个问题只多算这道题本身的字数。\n\nGoogle 称输入在 1.6 万 Token 以内时，端到端延迟 150 到 250 毫秒，问 1 个和问 100 个问题耗时差不多；同一批评测下，比用 Gemini 3.5 Flash-Lite 生成答案便宜近 5 倍。Gemini Notebook 已经用它给每个提问挑模型，日常问题延迟最多降了 40%。\n\n【谁能用】\n\n在 Google AI Studio 拿个 API Key 就能调，模型名 gemini-decision-1，走 v1beta 接口。有免费层，每分钟 200 次、每天 1 万次，免费层的数据会被 Google 用来改进产品，付费层不会。OpenRouter、LangChain、Vercel 等正在接入，Google Cloud 上的 Gemini 要稍后才支持。\n\n不支持上下文缓存和 Batch API，同一份大文档反复问，每次都按全价算输入；不能直接传 YouTube 链接；问题本身只能写文字。\n\n【跟 OpenAI 的同名产品比】\n\nOpenAI 早一个月做了同样的东西，名字也叫 Decisions API：10 月 6 日出测试版，10 月 22 日正式开放，用 GPT-6 Luna，同样每百万输入 Token 0.1 美元、输出不收费。区别是 OpenAI 一次最多 400 个问题，只收文字、图片和 JSON，不收音视频和 PDF；但它支持缓存，重复输入能打折，还能直接塞进对话历史和工具调用记录。\n\n创业公司 TypeSafe 的 Jev 1.14 也专做这类判断，在 OpenRouter 上每百万输入 Token 0.042 美元，只收文字和图片。\n\nGoogle 博客附的对比表里，Gemini Decision 1 在 9 项测试中 7 项第一（其中音频、视频两项只有它和 Flash-Lite 参测），校准误差 0.025，GPT-6 Luna 是 0.072；网页操作和“该不该调用工具”两项输给了 Jev 1.14。7 项共同评测的总花费，Jev 最低，0.68 美元，Gemini Decision 1 是 0.88 美元，GPT-6 Luna 0.93 美元。以上跑分都是 Google 自己测的。\n\nGoogle 博客：https://t.co/P5hlLj7fXN\n官方文档：https://t.co/WphCUZv5oT\nOpenAI Decisions API 文档：https://t.co/MGgS32OuNy"
+        },
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 11968,
+          "like_count": 65,
+          "quote_count": 4,
+          "reply_count": 43,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120581155078729728",
+            "type": "quoted"
+          }
+        ],
+        "text": "Google 推出 Gemini Decisions API：不写回答只做判断，一次最多问 1000 个问题，输入每百万 Token 0.1 美元、输出不收钱\n\nGoogle 今天在 Gemini API 里上线了 Decisions API，配套新模型 Gemini Decision https://t.co/BrCwuE0RTx"
+      }
+    ],
+    "users": [
+      {
+        "id": "2107789700375134208",
+        "name": "Deiouwey",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109547041890193408/YcZKaTTi_normal.jpg",
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 1040,
+          "like_count": 585,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 1687
+        },
+        "username": "Deiouweyol1z",
+        "verified": false
+      },
+      {
+        "id": "3178231",
+        "name": "宝玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+        "public_metrics": {
+          "followers_count": 268426,
+          "following_count": 1793,
+          "like_count": 57027,
+          "listed_count": 4949,
+          "media_count": 6113,
+          "tweet_count": 35322
+        },
+        "username": "dotey",
+        "verified": false
+      },
+      {
+        "id": "1382863933434859522",
+        "name": "paigu7",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107521986515947520/xApWl_qA_normal.jpg",
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 56,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 209
+        },
+        "username": "paigu7x",
+        "verified": false
+      },
+      {
+        "id": "2953739684",
+        "name": "0xAzr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823380437101907968/p2eJHlnQ_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1932,
+          "following_count": 2480,
+          "like_count": 3594,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 7063
+        },
+        "username": "AzrianoY1",
+        "verified": false
+      },
+      {
+        "id": "2054415115613806592",
+        "name": "John",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054415347529428992/29iAKNd__normal.jpg",
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 15,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 160
+        },
+        "username": "Johnb4zb",
+        "verified": false
+      },
+      {
+        "id": "2044833856218451968",
+        "name": "TT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044834995018330112/F3QNaAOh_normal.jpg",
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 289,
+          "like_count": 413,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 738
+        },
+        "username": "T082057",
+        "verified": false
+      },
+      {
+        "id": "1613941896094650370",
+        "name": "Martin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971046876276518912/A26GuJZI_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1901,
+          "following_count": 2755,
+          "like_count": 1157,
+          "listed_count": 11,
+          "media_count": 157,
+          "tweet_count": 1138
+        },
+        "username": "0xMartin0307",
+        "verified": false
+      },
+      {
+        "id": "1600756229143662593",
+        "name": "king | AI实测笔记",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600756352095518720/9cxH0oN9_normal.jpg",
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 42,
+          "like_count": 59,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 1117
+        },
+        "username": "king_ldp",
+        "verified": false
+      },
+      {
+        "id": "1446228213990977540",
+        "name": "Ruirui Wan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976045005237256195/m-XYc3Vl_normal.jpg",
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 299,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 627
+        },
+        "username": "wan_ruirui",
+        "verified": false
+      },
+      {
+        "id": "1751957272216166401",
+        "name": "编舟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2113603011645992960/SvorSdFW_normal.jpg",
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 612,
+          "like_count": 666,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 755
+        },
+        "username": "wangjing1056606",
+        "verified": false
+      },
+      {
+        "id": "1602583057395257344",
+        "name": "0x聪丽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009251915977388032/M3TKC1_i_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1551,
+          "following_count": 1419,
+          "like_count": 936,
+          "listed_count": 6,
+          "media_count": 118,
+          "tweet_count": 862
+        },
+        "username": "AI_CongLi",
+        "verified": false
+      },
+      {
+        "id": "1922165315246686209",
+        "name": "大肥鱼的打工日常 🐟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115626167839723520/c-kYXu3K_normal.jpg",
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 164,
+          "like_count": 216,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 1534
+        },
+        "username": "evanpunk2077",
+        "verified": false
+      },
+      {
+        "id": "233361843",
+        "name": "AI打工实录 · 小F",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096443817385979904/peylXsBs_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1354,
+          "following_count": 2516,
+          "like_count": 3760,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 4978
+        },
+        "username": "xbox_grok",
+        "verified": false
+      },
+      {
+        "id": "2113256414688997376",
+        "name": "sanza_o",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119443186649370625/Mtv4xda__normal.jpg",
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 136,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 491
+        },
+        "username": "Zane_Sang",
+        "verified": false
+      },
+      {
+        "id": "1717809218731065344",
+        "name": "AI速递 | 李博",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116925829179400194/USEFFNhW_normal.jpg",
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 274,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 364
+        },
+        "username": "libo_ai",
+        "verified": false
+      },
+      {
+        "id": "1694943359255957504",
+        "name": "林小狼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102291443180306433/uo_aXFaS_normal.jpg",
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 178,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 270
+        },
+        "username": "linxlbuilds",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120683014451527954",
+    "next_token": "b26v89c19zqg8o3juzovcantp2mxh0yhgdtpoqwldtmkd",
+    "oldest_id": "2120673267996631229",
+    "result_count": 15
+  }
+}

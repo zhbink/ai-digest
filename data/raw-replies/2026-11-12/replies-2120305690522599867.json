@@ -1,0 +1,832 @@
+{
+  "data": [
+    {
+      "author_id": "92957405",
+      "created_at": "2026-11-11T21:44:20.000Z",
+      "edit_history_tweet_ids": [
+        "2120633752238076116"
+      ],
+      "id": "2120633752238076116",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 164,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120305695098560881",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ \"excluding IT equipment\" is doing the heavy lifting here",
+      "url": "https://x.com/anirudhreddy7/status/2120633752238076116"
+    },
+    {
+      "author_id": "1368385594464800771",
+      "created_at": "2026-11-11T20:22:24.000Z",
+      "edit_history_tweet_ids": [
+        "2120613133522026983"
+      ],
+      "id": "2120613133522026983",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 108,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120305690522599867",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ Without seeing the inside it could just be a hollow shell",
+      "url": "https://x.com/B32712016/status/2120613133522026983"
+    },
+    {
+      "author_id": "1720665183188922368",
+      "created_at": "2026-11-11T19:57:56.000Z",
+      "edit_history_tweet_ids": [
+        "2120606976237269326"
+      ],
+      "id": "2120606976237269326",
+      "in_reply_to_user_id": "1524566426119553025",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 96,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120606774927462732",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@notoriusbign @SemiAnalysis_ The 5x cheaper build cost for the same power capacity is real. But US leading chips (B200/B300 class) deliver roughly 2.5x more effective AI compute per watt than current Ascend 910C parts. Net effect: for equal infrastructure spend, China gets about 2x the usable FLOPS once chip",
+      "url": "https://x.com/grok/status/2120606976237269326"
+    },
+    {
+      "author_id": "1524566426119553025",
+      "created_at": "2026-11-11T19:57:08.000Z",
+      "edit_history_tweet_ids": [
+        "2120606774927462732"
+      ],
+      "id": "2120606774927462732",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 501,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120305695098560881",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ @grok how much relative compute does this give china vs the us when considering chip performance disparity?",
+      "url": "https://x.com/notoriusbign/status/2120606774927462732"
+    },
+    {
+      "author_id": "1520042721997582336",
+      "created_at": "2026-11-11T19:52:12.000Z",
+      "edit_history_tweet_ids": [
+        "2120605531723428329"
+      ],
+      "id": "2120605531723428329",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 120,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120305690522599867",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ Yes, but does it know pronouns?  Some of US citizens demand tech master pronouns or we aren’t building it.",
+      "url": "https://x.com/JCBForumSpeak/status/2120605531723428329"
+    },
+    {
+      "author_id": "2002524446159257601",
+      "created_at": "2026-11-11T19:35:53.000Z",
+      "edit_history_tweet_ids": [
+        "2120601425399128476"
+      ],
+      "id": "2120601425399128476",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 522,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120305695098560881",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ Why is anti-China deep state media framing China is behind against data centers build up in US?",
+      "url": "https://x.com/antipsyop123/status/2120601425399128476"
+    },
+    {
+      "author_id": "51686561",
+      "created_at": "2026-11-11T19:22:45.000Z",
+      "edit_history_tweet_ids": [
+        "2120598121017409868"
+      ],
+      "id": "2120598121017409868",
+      "in_reply_to_user_id": "1625194866215997440",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120577222159561079",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AnalysisOp @SemiAnalysis_ @LeoNelissen Lol",
+      "url": "https://x.com/PendulumFlow/status/2120598121017409868"
+    },
+    {
+      "author_id": "1625194866215997440",
+      "created_at": "2026-11-11T17:59:42.000Z",
+      "edit_history_tweet_ids": [
+        "2120577222159561079"
+      ],
+      "id": "2120577222159561079",
+      "in_reply_to_user_id": "1625194866215997440",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 119,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120576962330509566",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ @PendulumFlow \n@LeoNelissen \nYou guys remember that I was trying to understand the trick?? 🤣",
+      "url": "https://x.com/AnalysisOp/status/2120577222159561079"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2120576935487041537"
+        ]
+      },
+      "author_id": "1625194866215997440",
+      "created_at": "2026-11-11T17:58:40.000Z",
+      "edit_history_tweet_ids": [
+        "2120576962330509566"
+      ],
+      "id": "2120576962330509566",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 262,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120305690522599867",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ \"800MW wind-powered datacenter\"\n\nIt's connected to the grid. Mystery resolved https://t.co/043xPaOH4r",
+      "url": "https://x.com/AnalysisOp/status/2120576962330509566"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2120576299278258176"
+        ]
+      },
+      "author_id": "2099798057508356097",
+      "created_at": "2026-11-11T17:56:03.000Z",
+      "edit_history_tweet_ids": [
+        "2120576303074046159"
+      ],
+      "id": "2120576303074046159",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 53,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120305695098560881",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ We tracking … similar conclusions from our independent research! https://t.co/v33azsliHS",
+      "url": "https://x.com/GroundAlpha0/status/2120576303074046159"
+    },
+    {
+      "author_id": "2084301283951804416",
+      "created_at": "2026-11-11T13:25:14.000Z",
+      "edit_history_tweet_ids": [
+        "2120508149384057096"
+      ],
+      "id": "2120508149384057096",
+      "in_reply_to_user_id": "1310030412132110341",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 47,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120333630035923049",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@wmctwts @SemiAnalysis_ Pay them to do what exactly? For what purpose? What is even the point of running ads for Chinese data centers no one in the US can ever access it? Explain?",
+      "url": "https://x.com/BaoziDaodamei/status/2120508149384057096"
+    },
+    {
+      "author_id": "856636149376352256",
+      "created_at": "2026-11-11T12:14:26.000Z",
+      "edit_history_tweet_ids": [
+        "2120490330806227237"
+      ],
+      "id": "2120490330806227237",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 17,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120305692070281673",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ Can you get 1GW at 10kV AC???",
+      "url": "https://x.com/alkhwarizmi42/status/2120490330806227237"
+    },
+    {
+      "author_id": "2101463642352889856",
+      "created_at": "2026-11-11T11:42:51.000Z",
+      "edit_history_tweet_ids": [
+        "2120482384361800119"
+      ],
+      "id": "2120482384361800119",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 235,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120305690522599867",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ Extremely interesting to see the different attitude China has to datacenter build out. Thanks for sharing!",
+      "url": "https://x.com/SovDataHQ/status/2120482384361800119"
+    },
+    {
+      "author_id": "4809385952",
+      "created_at": "2026-11-11T10:04:32.000Z",
+      "edit_history_tweet_ids": [
+        "2120457639784329658"
+      ],
+      "id": "2120457639784329658",
+      "in_reply_to_user_id": "1310030412132110341",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 46,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120333630035923049",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@wmctwts @SemiAnalysis_ 如果你不愿意亲眼看到这个世界，建议你把你的眼睛捐给更需要的人",
+      "url": "https://x.com/g4andre/status/2120457639784329658"
+    },
+    {
+      "author_id": "1245633150870376448",
+      "created_at": "2026-11-11T09:03:04.000Z",
+      "edit_history_tweet_ids": [
+        "2120442173439332398"
+      ],
+      "id": "2120442173439332398",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120305690522599867",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ 800MW campus. First 120MW live within a year of bare land.\nMost Western AI factories are still waiting on a grid study.\nSo who's actually behind?",
+      "url": "https://x.com/Accruex/status/2120442173439332398"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_2120576935487041537",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2120576299278258176",
+        "type": "photo"
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2120305687360143362"
+          ]
+        },
+        "author_id": "1745106082790318080",
+        "created_at": "2026-11-11T00:00:45.000Z",
+        "edit_history_tweet_ids": [
+          "2120305695098560881"
+        ],
+        "id": "2120305695098560881",
+        "in_reply_to_user_id": "1745106082790318080",
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 34781,
+          "like_count": 197,
+          "quote_count": 24,
+          "reply_count": 5,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120305693542564207",
+            "type": "replied_to"
+          }
+        ],
+        "text": "A 100MW datacenter in China now costs under $300M to build, excluding IT equipment, about a fifth of the US cost. China's build cost has fallen about 25% since 2021. (4/6) https://t.co/shs4l3Y1Bm"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2120305688127700992"
+          ]
+        },
+        "author_id": "1745106082790318080",
+        "created_at": "2026-11-11T00:00:44.000Z",
+        "edit_history_tweet_ids": [
+          "2120305690522599867"
+        ],
+        "id": "2120305690522599867",
+        "public_metrics": {
+          "bookmark_count": 190,
+          "impression_count": 128047,
+          "like_count": 517,
+          "quote_count": 28,
+          "reply_count": 30,
+          "retweet_count": 51
+        },
+        "text": "We visited Galaxy, Envision's 800MW wind-powered datacenter campus in Ulanqab, Inner Mongolia. Its first 120MW phase went from bare land to delivery within a year. (1/6)🧵 https://t.co/J6n3ELiZTb"
+      },
+      {
+        "author_id": "1524566426119553025",
+        "created_at": "2026-11-11T19:57:08.000Z",
+        "edit_history_tweet_ids": [
+          "2120606774927462732"
+        ],
+        "id": "2120606774927462732",
+        "in_reply_to_user_id": "1745106082790318080",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 501,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120305695098560881",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@SemiAnalysis_ @grok how much relative compute does this give china vs the us when considering chip performance disparity?"
+      },
+      {
+        "author_id": "1625194866215997440",
+        "created_at": "2026-11-11T17:59:42.000Z",
+        "edit_history_tweet_ids": [
+          "2120577222159561079"
+        ],
+        "id": "2120577222159561079",
+        "in_reply_to_user_id": "1625194866215997440",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120576962330509566",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@SemiAnalysis_ @PendulumFlow \n@LeoNelissen \nYou guys remember that I was trying to understand the trick?? 🤣"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2120576935487041537"
+          ]
+        },
+        "author_id": "1625194866215997440",
+        "created_at": "2026-11-11T17:58:40.000Z",
+        "edit_history_tweet_ids": [
+          "2120576962330509566"
+        ],
+        "id": "2120576962330509566",
+        "in_reply_to_user_id": "1745106082790318080",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 262,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120305690522599867",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@SemiAnalysis_ \"800MW wind-powered datacenter\"\n\nIt's connected to the grid. Mystery resolved https://t.co/043xPaOH4r"
+      },
+      {
+        "author_id": "1310030412132110341",
+        "created_at": "2026-11-11T01:51:45.000Z",
+        "edit_history_tweet_ids": [
+          "2120333630035923049"
+        ],
+        "id": "2120333630035923049",
+        "in_reply_to_user_id": "1745106082790318080",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 849,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120305690522599867",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@SemiAnalysis_ Oh that’s cool. How much is Galaxy paying you?"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2120305687729233920"
+          ]
+        },
+        "author_id": "1745106082790318080",
+        "created_at": "2026-11-11T00:00:45.000Z",
+        "edit_history_tweet_ids": [
+          "2120305692070281673"
+        ],
+        "id": "2120305692070281673",
+        "in_reply_to_user_id": "1745106082790318080",
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 8776,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120305690522599867",
+            "type": "replied_to"
+          }
+        ],
+        "text": "On power, Galaxy runs a 5MW pilot hall on solid-state transformers. They take 10kV AC from the grid and convert it to 800V DC that goes straight to the racks. In the US, this design is still on the roadmap. (2/6) https://t.co/CXUh6nUwZS"
+      }
+    ],
+    "users": [
+      {
+        "id": "92957405",
+        "name": "Anirudh Reddy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966196540617474048/oIomR34F_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1439,
+          "following_count": 1514,
+          "like_count": 2336,
+          "listed_count": 6,
+          "media_count": 29,
+          "tweet_count": 437
+        },
+        "username": "anirudhreddy7",
+        "verified": false
+      },
+      {
+        "id": "1745106082790318080",
+        "name": "SemiAnalysis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062973370157694976/CdplNoi1_normal.jpg",
+        "public_metrics": {
+          "followers_count": 184337,
+          "following_count": 38,
+          "like_count": 954,
+          "listed_count": 3474,
+          "media_count": 2196,
+          "tweet_count": 3832
+        },
+        "username": "SemiAnalysis_",
+        "verified": true
+      },
+      {
+        "id": "1368385594464800771",
+        "name": "B",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094908760594493440/H2IhvJnL_normal.jpg",
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 698,
+          "like_count": 152984,
+          "listed_count": 1,
+          "media_count": 7391,
+          "tweet_count": 51713
+        },
+        "username": "B32712016",
+        "verified": false
+      },
+      {
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "public_metrics": {
+          "followers_count": 9373857,
+          "following_count": 4,
+          "like_count": 146,
+          "listed_count": 8154,
+          "media_count": 4076231,
+          "tweet_count": 148531816
+        },
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "id": "1524566426119553025",
+        "name": "Notorius BigN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104572332228362240/YLEpRoPj_normal.jpg",
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 73,
+          "like_count": 512,
+          "listed_count": 10,
+          "media_count": 46,
+          "tweet_count": 904
+        },
+        "username": "notoriusbign",
+        "verified": false
+      },
+      {
+        "id": "1520042721997582336",
+        "name": "Joe C.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520043002877546496/ZG0jigD5_normal.jpg",
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 151,
+          "like_count": 1102,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 3270
+        },
+        "username": "JCBForumSpeak",
+        "verified": false
+      },
+      {
+        "id": "2002524446159257601",
+        "name": "Immanent Critic 🇺🇸🤝🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116398241529118721/utFGEc-G_normal.jpg",
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 316,
+          "like_count": 2608,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1547
+        },
+        "username": "antipsyop123",
+        "verified": false
+      },
+      {
+        "id": "51686561",
+        "name": "Pendulum Flow",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611180925471322112/GumFN4Cf_normal.jpg",
+        "public_metrics": {
+          "followers_count": 11329,
+          "following_count": 1813,
+          "like_count": 42869,
+          "listed_count": 317,
+          "media_count": 5083,
+          "tweet_count": 20179
+        },
+        "username": "PendulumFlow",
+        "verified": false
+      },
+      {
+        "id": "1625194866215997440",
+        "name": "Alex A.C.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1659564238606614532/KXkhOD3T_normal.jpg",
+        "public_metrics": {
+          "followers_count": 4551,
+          "following_count": 146,
+          "like_count": 98348,
+          "listed_count": 104,
+          "media_count": 2598,
+          "tweet_count": 55180
+        },
+        "username": "AnalysisOp",
+        "verified": false
+      },
+      {
+        "id": "2099798057508356097",
+        "name": "GroundAlpha",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107832410528256001/sAIqmgns_normal.jpg",
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 63,
+          "like_count": 368,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 564
+        },
+        "username": "GroundAlpha0",
+        "verified": false
+      },
+      {
+        "id": "2084301283951804416",
+        "name": "BaoziDaodamei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084301582443659264/J6VBg64n_normal.jpg",
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 80,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 44
+        },
+        "username": "BaoziDaodamei",
+        "verified": false
+      },
+      {
+        "id": "1310030412132110341",
+        "name": "Waldo Mac",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956719544199766016/IiD92kBO_normal.jpg",
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 2444,
+          "like_count": 689,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 516
+        },
+        "username": "wmctwts",
+        "verified": false
+      },
+      {
+        "id": "856636149376352256",
+        "name": "Смерть Пиндосам!",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/874371778256261124/zRfNoVjw_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1446,
+          "following_count": 1166,
+          "like_count": 96382,
+          "listed_count": 15,
+          "media_count": 4167,
+          "tweet_count": 59312
+        },
+        "username": "alkhwarizmi42",
+        "verified": false
+      },
+      {
+        "id": "2101463642352889856",
+        "name": "Sovereign Data",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101480441962225664/ZvLMTmlb_normal.jpg",
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 184,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 68
+        },
+        "username": "SovDataHQ",
+        "verified": false
+      },
+      {
+        "id": "4809385952",
+        "name": "Xiaoran Chen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003412447605170176/Aj_7V4Xw_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 77,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 52
+        },
+        "username": "g4andre",
+        "verified": false
+      },
+      {
+        "id": "1245633150870376448",
+        "name": "Accruex",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084349641974251520/idjJjPIr_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 170,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 457
+        },
+        "username": "Accruex",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120633752238076116",
+    "next_token": "b26v89c19zqg8o3juzovc6dgzlr70vco28hurhfzjvtrx",
+    "oldest_id": "2120442173439332398",
+    "result_count": 15
+  }
+}

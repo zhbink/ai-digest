@@ -1,0 +1,874 @@
+{
+  "data": [
+    {
+      "author_id": "1458394342444486659",
+      "conversation_id": "2120530415891120431",
+      "created_at": "2026-11-12T00:32:38.000Z",
+      "edit_history_tweet_ids": [
+        "2120676104050524295"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "6398252",
+            "start": 0,
+            "username": "bindureddy"
+          }
+        ]
+      },
+      "id": "2120676104050524295",
+      "in_reply_to_user_id": "6398252",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120530415891120431",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bindureddy the real story is that blind tests are now the only honest benchmark. every vendor number is marketing with a logo on it.",
+      "url": "https://x.com/AlphaPriest777/status/2120676104050524295"
+    },
+    {
+      "author_id": "1893198562357604352",
+      "conversation_id": "2120530415891120431",
+      "created_at": "2026-11-12T00:21:27.000Z",
+      "edit_history_tweet_ids": [
+        "2120673291929039102"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "6398252",
+            "start": 0,
+            "username": "bindureddy"
+          }
+        ]
+      },
+      "id": "2120673291929039102",
+      "in_reply_to_user_id": "6398252",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120530415891120431",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bindureddy Open-weights distillation is moving faster than proprietary enterprise releases. Local quantizations running on commodity hardware are already good enough for 80% of production workflows.",
+      "url": "https://x.com/DevKursat/status/2120673291929039102"
+    },
+    {
+      "author_id": "1713189570836111360",
+      "conversation_id": "2120530415891120431",
+      "created_at": "2026-11-11T21:50:42.000Z",
+      "edit_history_tweet_ids": [
+        "2120635354868834655"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "6398252",
+            "start": 0,
+            "username": "bindureddy"
+          }
+        ]
+      },
+      "id": "2120635354868834655",
+      "in_reply_to_user_id": "6398252",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120530415891120431",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bindureddy Prompt caching management",
+      "url": "https://x.com/JeoCryp/status/2120635354868834655"
+    },
+    {
+      "author_id": "1470752806785138691",
+      "conversation_id": "2120530415891120431",
+      "created_at": "2026-11-11T20:08:02.000Z",
+      "edit_history_tweet_ids": [
+        "2120609518174269460"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "6398252",
+            "start": 0,
+            "username": "bindureddy"
+          }
+        ]
+      },
+      "id": "2120609518174269460",
+      "in_reply_to_user_id": "6398252",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 21,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120530415891120431",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bindureddy Which deepseek model? you talking about 4.1 flash?",
+      "url": "https://x.com/gocronk/status/2120609518174269460"
+    },
+    {
+      "author_id": "110789453",
+      "conversation_id": "2120530415891120431",
+      "created_at": "2026-11-11T19:56:35.000Z",
+      "edit_history_tweet_ids": [
+        "2120606634737307922"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "6398252",
+            "start": 0,
+            "username": "bindureddy"
+          }
+        ]
+      },
+      "id": "2120606634737307922",
+      "in_reply_to_user_id": "6398252",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120530415891120431",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bindureddy For enterprise buyers, the 5% matters more than the 40x. In HR the long loops are the expensive ones: payroll runs, approvals across three systems. I think the real comparison is cost per correct outcome, including the human time spent fixing the wrong ones.",
+      "url": "https://x.com/ameratiyah/status/2120606634737307922"
+    },
+    {
+      "author_id": "273821431",
+      "conversation_id": "2120530415891120431",
+      "created_at": "2026-11-11T19:53:29.000Z",
+      "edit_history_tweet_ids": [
+        "2120605854559047696"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "6398252",
+            "start": 0,
+            "username": "bindureddy"
+          }
+        ]
+      },
+      "id": "2120605854559047696",
+      "in_reply_to_user_id": "6398252",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 30,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120530415891120431",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bindureddy Curious - how do you map this sort of data?",
+      "url": "https://x.com/shahsahil98/status/2120605854559047696"
+    },
+    {
+      "author_id": "957859662547730432",
+      "conversation_id": "2120530415891120431",
+      "created_at": "2026-11-11T19:44:37.000Z",
+      "edit_history_tweet_ids": [
+        "2120603625651339556"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "6398252",
+            "start": 0,
+            "username": "bindureddy"
+          }
+        ]
+      },
+      "id": "2120603625651339556",
+      "in_reply_to_user_id": "6398252",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120530415891120431",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bindureddy The 40x gap is the real story — if your blind tests hold, the frontier premium is a tax on long loops, not on quality. But long loops are where real work lives, so compaction is the whole bet. If DeepSeek fixes it, what are we still paying the premium for?",
+      "url": "https://x.com/kukukila0/status/2120603625651339556"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2120602856797401088"
+        ]
+      },
+      "author_id": "100568224",
+      "conversation_id": "2120530415891120431",
+      "created_at": "2026-11-11T19:41:47.000Z",
+      "edit_history_tweet_ids": [
+        "2120602910493200828"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "6398252",
+            "start": 0,
+            "username": "bindureddy"
+          }
+        ],
+        "urls": [
+          {
+            "description": "A free AI coding agent in your terminal. Inference is paid for by tasteful terminal ads, never your wallet.",
+            "display_url": "freepi.ai",
+            "end": 84,
+            "expanded_url": "https://freepi.ai",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2119885982283554816/Obfu3rHM?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2119885982283554816/Obfu3rHM?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 61,
+            "status": 200,
+            "title": "free-pi — free AI coding in your terminal",
+            "unwound_url": "https://freepi.ai",
+            "url": "https://t.co/4pNOkRsnpE"
+          },
+          {
+            "display_url": "pic.x.com/ZjGz3x2NG8",
+            "end": 160,
+            "expanded_url": "https://x.com/DennisonBertram/status/2120602910493200828/photo/1",
+            "media_key": "3_2120602856797401088",
+            "start": 137,
+            "url": "https://t.co/ZjGz3x2NG8"
+          }
+        ]
+      },
+      "id": "2120602910493200828",
+      "in_reply_to_user_id": "6398252",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 22,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120530415891120431",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bindureddy IT's so much cheape that I'm offering it free in https://t.co/4pNOkRsnpE!\n\nIt's not for everything, but yeah I see this too. https://t.co/ZjGz3x2NG8",
+      "url": "https://x.com/DennisonBertram/status/2120602910493200828"
+    },
+    {
+      "author_id": "731538849344696320",
+      "conversation_id": "2120530415891120431",
+      "created_at": "2026-11-11T19:10:04.000Z",
+      "edit_history_tweet_ids": [
+        "2120594928837497243"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "6398252",
+            "start": 0,
+            "username": "bindureddy"
+          }
+        ]
+      },
+      "id": "2120594928837497243",
+      "in_reply_to_user_id": "6398252",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120530415891120431",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bindureddy A 40x cost difference could reshape the economics of AI agents, especially for businesses running them at scale. The important question is whether lower costs translate into comparable productivity without sacrificing reliability on complex workflows.",
+      "url": "https://x.com/TeamBoracchia/status/2120594928837497243"
+    },
+    {
+      "author_id": "2107556122005540865",
+      "conversation_id": "2120530415891120431",
+      "created_at": "2026-11-11T18:39:09.000Z",
+      "edit_history_tweet_ids": [
+        "2120587149418418618"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "6398252",
+            "start": 0,
+            "username": "bindureddy"
+          }
+        ]
+      },
+      "id": "2120587149418418618",
+      "in_reply_to_user_id": "6398252",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 97,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120530415891120431",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bindureddy How long is very long? The long loops are most of what I'd hand an agent, so that's the part I'd want to see tested.",
+      "url": "https://x.com/AiXAntho/status/2120587149418418618"
+    },
+    {
+      "author_id": "983077599441313792",
+      "conversation_id": "2120530415891120431",
+      "created_at": "2026-11-11T18:24:08.000Z",
+      "edit_history_tweet_ids": [
+        "2120583370522657016"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "6398252",
+            "start": 0,
+            "username": "bindureddy"
+          }
+        ]
+      },
+      "id": "2120583370522657016",
+      "in_reply_to_user_id": "6398252",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 60,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120530415891120431",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bindureddy Only if we can detect that 5% upfront.",
+      "url": "https://x.com/hashiromer621/status/2120583370522657016"
+    },
+    {
+      "author_id": "2741837389",
+      "conversation_id": "2120530415891120431",
+      "created_at": "2026-11-11T18:21:52.000Z",
+      "edit_history_tweet_ids": [
+        "2120582799824761139"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "6398252",
+            "start": 0,
+            "username": "bindureddy"
+          }
+        ]
+      },
+      "id": "2120582799824761139",
+      "in_reply_to_user_id": "6398252",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120530415891120431",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bindureddy Yeah, been using Deepseek with DSH (since my Codex limits are out) and it has been so good giving so many good suggestions that I generally would expect from Google",
+      "url": "https://x.com/shwetanshu21/status/2120582799824761139"
+    },
+    {
+      "author_id": "2016231797575577600",
+      "conversation_id": "2120530415891120431",
+      "created_at": "2026-11-11T17:48:09.000Z",
+      "edit_history_tweet_ids": [
+        "2120574315435323711"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "6398252",
+            "start": 0,
+            "username": "bindureddy"
+          }
+        ]
+      },
+      "id": "2120574315435323711",
+      "in_reply_to_user_id": "6398252",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 34,
+        "like_count": 11,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120530415891120431",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bindureddy Cheaper is great until a long loop starts to slip.\n\nThat's why I don't marry one provider. I route across several and switch automatically when one is slow or down 💚",
+      "url": "https://x.com/Ocylai/status/2120574315435323711"
+    },
+    {
+      "author_id": "2017174265267683328",
+      "conversation_id": "2120530415891120431",
+      "created_at": "2026-11-11T17:39:56.000Z",
+      "edit_history_tweet_ids": [
+        "2120572247446339863"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "6398252",
+            "start": 0,
+            "username": "bindureddy"
+          }
+        ]
+      },
+      "id": "2120572247446339863",
+      "in_reply_to_user_id": "6398252",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120530415891120431",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bindureddy depends which 5% it misses, if those are the steps that write to something real then 40x cheaper is the wrong number to look at",
+      "url": "https://x.com/datachad/status/2120572247446339863"
+    },
+    {
+      "author_id": "878707896879640576",
+      "conversation_id": "2120530415891120431",
+      "created_at": "2026-11-11T17:39:44.000Z",
+      "edit_history_tweet_ids": [
+        "2120572197823451631"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "6398252",
+            "start": 0,
+            "username": "bindureddy"
+          }
+        ]
+      },
+      "id": "2120572197823451631",
+      "in_reply_to_user_id": "6398252",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 50,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120530415891120431",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bindureddy DeepSeek is not bad for its price, but the way it answers, I don't like at all.",
+      "url": "https://x.com/bvchko/status/2120572197823451631"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_2120602856797401088",
+        "type": "photo"
+      }
+    ],
+    "tweets": [
+      {
+        "author_id": "6398252",
+        "conversation_id": "2120530415891120431",
+        "created_at": "2026-11-11T14:53:43.000Z",
+        "edit_history_tweet_ids": [
+          "2120530415891120431"
+        ],
+        "id": "2120530415891120431",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 11599,
+          "like_count": 214,
+          "quote_count": 2,
+          "reply_count": 74,
+          "retweet_count": 14
+        },
+        "text": "In blind tests DeepSeek matches  Carbon / Opus on 95% of agentic loops \n\nIt’s 40x cheaper and is way more attractive.\n\nThe only draw back is very long agentic loops where it seems to degrade faster than frontier  models \n\nFixing compaction should bring it on par with them!"
+      }
+    ],
+    "users": [
+      {
+        "id": "1458394342444486659",
+        "name": "AlphaPriest777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057470387097686016/Y_pzTyap_normal.jpg",
+        "public_metrics": {
+          "followers_count": 4364,
+          "following_count": 2665,
+          "like_count": 79761,
+          "listed_count": 39,
+          "media_count": 2254,
+          "tweet_count": 34702
+        },
+        "username": "AlphaPriest777",
+        "verified": false
+      },
+      {
+        "id": "6398252",
+        "name": "Bindu Reddy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019406331955015683/XHe0v8Gq_normal.jpg",
+        "public_metrics": {
+          "followers_count": 394371,
+          "following_count": 313,
+          "like_count": 14191,
+          "listed_count": 3285,
+          "media_count": 1846,
+          "tweet_count": 19101
+        },
+        "username": "bindureddy",
+        "verified": false
+      },
+      {
+        "id": "1893198562357604352",
+        "name": "Kürşat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056538741360021504/ZMafCZHJ_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 7,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 119
+        },
+        "username": "DevKursat",
+        "verified": false
+      },
+      {
+        "id": "1713189570836111360",
+        "name": "José Gonçalves (JeoCrypto)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2111083584668753920/n_LwGB8z_normal.jpg",
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 162,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1036
+        },
+        "username": "JeoCryp",
+        "verified": false
+      },
+      {
+        "id": "1470752806785138691",
+        "name": "Andrew",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105676647437373440/S8WkPtKo_normal.jpg",
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 212,
+          "like_count": 2469,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 855
+        },
+        "username": "gocronk",
+        "verified": false
+      },
+      {
+        "id": "110789453",
+        "name": "Amer Atiyah",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1615407387971620872/7D5ZgPDP_normal.jpg",
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 141,
+          "like_count": 3179,
+          "listed_count": 17,
+          "media_count": 48,
+          "tweet_count": 1638
+        },
+        "username": "ameratiyah",
+        "verified": false
+      },
+      {
+        "id": "273821431",
+        "name": "Sahil S",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 1727,
+          "like_count": 12258,
+          "listed_count": 3,
+          "media_count": 12,
+          "tweet_count": 838
+        },
+        "username": "shahsahil98",
+        "verified": false
+      },
+      {
+        "id": "957859662547730432",
+        "name": "Kukukila",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025292632549982210/JdBc0gSU_normal.jpg",
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 1992,
+          "like_count": 897,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 2984
+        },
+        "username": "kukukila0",
+        "verified": false
+      },
+      {
+        "id": "100568224",
+        "name": "Dennison",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039348074196107264/0j4Voaks_normal.jpg",
+        "public_metrics": {
+          "followers_count": 13206,
+          "following_count": 2328,
+          "like_count": 35094,
+          "listed_count": 357,
+          "media_count": 2024,
+          "tweet_count": 33330
+        },
+        "username": "DennisonBertram",
+        "verified": false
+      },
+      {
+        "id": "731538849344696320",
+        "name": "Boracchia Wiviott Wealth Partners & Real Estate",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851719379202789376/vQ8Faoi8_normal.jpg",
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 390,
+          "like_count": 924,
+          "listed_count": 2,
+          "media_count": 513,
+          "tweet_count": 1619
+        },
+        "username": "TeamBoracchia",
+        "verified": false
+      },
+      {
+        "id": "2107556122005540865",
+        "name": "Anthony Baez",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107566412130656257/bs9WVu1T_normal.jpg",
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 348,
+          "like_count": 276,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 244
+        },
+        "username": "AiXAntho",
+        "verified": false
+      },
+      {
+        "id": "983077599441313792",
+        "name": "Hashir Omer Farooqi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1613221939711180800/hTDGODaj_normal.jpg",
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 58,
+          "like_count": 542,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 521
+        },
+        "username": "hashiromer621",
+        "verified": false
+      },
+      {
+        "id": "2741837389",
+        "name": "Shwetanshu Mehta",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/675688426478297088/lRV2M1rX_normal.jpg",
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 199,
+          "like_count": 5864,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 1070
+        },
+        "username": "shwetanshu21",
+        "verified": false
+      },
+      {
+        "id": "2016231797575577600",
+        "name": "OCYLAi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118903600344653824/jCp3ltf3_normal.jpg",
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 148,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 232
+        },
+        "username": "Ocylai",
+        "verified": false
+      },
+      {
+        "id": "2017174265267683328",
+        "name": "Aleksandar Janca",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094818155839250432/l34OR37Y_normal.jpg",
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 681,
+          "like_count": 15737,
+          "listed_count": 8,
+          "media_count": 91,
+          "tweet_count": 11370
+        },
+        "username": "datachad",
+        "verified": false
+      },
+      {
+        "id": "878707896879640576",
+        "name": "BVCHKO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776298762744340480/BkPpBZq-_normal.jpg",
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 478,
+          "like_count": 2600,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 150
+        },
+        "username": "bvchko",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120676104050524295",
+    "next_token": "b26v89c19zqg8o3juzovc8j3i7ubz9ytxl2n2ytp86s8t",
+    "oldest_id": "2120572197823451631",
+    "result_count": 15
+  }
+}

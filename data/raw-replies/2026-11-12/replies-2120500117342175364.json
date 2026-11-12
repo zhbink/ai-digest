@@ -1,0 +1,1021 @@
+{
+  "data": [
+    {
+      "author_id": "1806334833058299904",
+      "conversation_id": "2120500117342175364",
+      "created_at": "2026-11-12T00:59:15.000Z",
+      "edit_history_tweet_ids": [
+        "2120682805122482250"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1764818331822182400",
+            "start": 0,
+            "username": "xiaohu"
+          }
+        ],
+        "urls": [
+          {
+            "description": "ERNIE 5.5 Flash Preview has 280B total parameters, 14B active and a 1M-token context, with across-the-board improvements in coding, agentic tasks, knowledge work and deep research. The weights will be open-sourced under Apache 2.0 soon.",
+            "display_url": "ernie.baidu.com/release/ernie-…",
+            "end": 116,
+            "expanded_url": "https://ernie.baidu.com/release/ernie-5-5-flash-preview/",
+            "start": 93,
+            "status": 200,
+            "title": "Introducing ERNIE 5.5 Flash Preview · ERNIE",
+            "unwound_url": "https://ernie.baidu.com/release/ernie-5-5-flash-preview/",
+            "url": "https://t.co/FzC6Cz6v4p"
+          }
+        ]
+      },
+      "id": "2120682805122482250",
+      "in_reply_to_user_id": "1764818331822182400",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120500117342175364",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xiaohu 官方也给了限定：这是后训练的“中间版本”，可能存在训练不充分的缺陷；跑分是官方自测；权重承诺以 Apache 2.0 开源。我的判断：成绩先等第三方榜单验证，再下结论。\nhttps://t.co/FzC6Cz6v4p",
+      "url": "https://x.com/IB2OJUBzE273682/status/2120682805122482250"
+    },
+    {
+      "author_id": "2119150629360676864",
+      "conversation_id": "2120500117342175364",
+      "created_at": "2026-11-11T17:38:56.000Z",
+      "edit_history_tweet_ids": [
+        "2120571994160628126"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1764818331822182400",
+            "start": 0,
+            "username": "xiaohu"
+          }
+        ]
+      },
+      "id": "2120571994160628126",
+      "in_reply_to_user_id": "1764818331822182400",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120500117342175364",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xiaohu 最有意思的是“角色悬空”那段，它把试玩反馈变成了能跑的测试（检查脚底离地多高）。Agent 能连着写 11 小时还不崩，靠的多半就是这种自己给自己加测试的习惯，不然写得越久 bug 堆得越多。",
+      "url": "https://x.com/NotaCold7723/status/2120571994160628126"
+    },
+    {
+      "author_id": "1724989707052867585",
+      "conversation_id": "2120500117342175364",
+      "created_at": "2026-11-11T16:25:40.000Z",
+      "edit_history_tweet_ids": [
+        "2120553555622842769"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1764818331822182400",
+            "start": 0,
+            "username": "xiaohu"
+          }
+        ]
+      },
+      "id": "2120553555622842769",
+      "in_reply_to_user_id": "1764818331822182400",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120500133884555362",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xiaohu 这招要是能拿来给我公司的老系统提速，老板估计得笑醒。",
+      "url": "https://x.com/XiTalking/status/2120553555622842769"
+    },
+    {
+      "author_id": "1971949939069739008",
+      "conversation_id": "2120500117342175364",
+      "created_at": "2026-11-11T15:49:24.000Z",
+      "edit_history_tweet_ids": [
+        "2120544430818275617"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1764818331822182400",
+            "start": 0,
+            "username": "xiaohu"
+          }
+        ]
+      },
+      "id": "2120544430818275617",
+      "in_reply_to_user_id": "1764818331822182400",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 49,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120500117342175364",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xiaohu 商稿太明显，不能这么多博主广告一个片子吧",
+      "url": "https://x.com/manman47293/status/2120544430818275617"
+    },
+    {
+      "author_id": "450820454",
+      "conversation_id": "2120500117342175364",
+      "created_at": "2026-11-11T14:57:30.000Z",
+      "edit_history_tweet_ids": [
+        "2120531370610938227"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1764818331822182400",
+            "start": 0,
+            "username": "xiaohu"
+          }
+        ]
+      },
+      "id": "2120531370610938227",
+      "in_reply_to_user_id": "1764818331822182400",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120500117342175364",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xiaohu 「編程大幅提升」我會先問：規格沒定清楚時它會不會自己亂補？晶片設計這邊，register interface、in/out timing 沒在文件定清楚前，AI 寫出來的會有一堆問題。所以我看的是它會不會先追問，而不是寫多快。",
+      "url": "https://x.com/kenthuang0106/status/2120531370610938227"
+    },
+    {
+      "author_id": "1889955408334442496",
+      "conversation_id": "2120500117342175364",
+      "created_at": "2026-11-11T14:51:29.000Z",
+      "edit_history_tweet_ids": [
+        "2120529852508016762"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1764818331822182400",
+            "start": 0,
+            "username": "xiaohu"
+          }
+        ]
+      },
+      "id": "2120529852508016762",
+      "in_reply_to_user_id": "1764818331822182400",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 65,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120500117342175364",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xiaohu 这玩意一次任务连着写 11 小时才交得出演示  中间不得续杯吗？☕",
+      "url": "https://x.com/66laoliu66/status/2120529852508016762"
+    },
+    {
+      "author_id": "1694943359255957504",
+      "conversation_id": "2120500117342175364",
+      "created_at": "2026-11-11T14:28:57.000Z",
+      "edit_history_tweet_ids": [
+        "2120524183390319027"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1764818331822182400",
+            "start": 0,
+            "username": "xiaohu"
+          }
+        ]
+      },
+      "id": "2120524183390319027",
+      "in_reply_to_user_id": "1764818331822182400",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120500137483211162",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xiaohu 我刚又看了百度的 Hugging Face 主页。上面列的还是 5 号的 Flash Base，Preview 仓库今天没有出现。中文公告给的开源时间是 11 月 25 日前。\n\n另外官方把这版写成后训练还没结束的中间版本。技术报告可以先看，按这一版锁定交付，现在还写不上。",
+      "url": "https://x.com/linxlbuilds/status/2120524183390319027"
+    },
+    {
+      "author_id": "2063647126819868673",
+      "conversation_id": "2120500117342175364",
+      "created_at": "2026-11-11T14:28:25.000Z",
+      "edit_history_tweet_ids": [
+        "2120524051194196271"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1764818331822182400",
+            "start": 0,
+            "username": "xiaohu"
+          }
+        ]
+      },
+      "id": "2120524051194196271",
+      "in_reply_to_user_id": "1764818331822182400",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 83,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120500117342175364",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xiaohu 连写 11 小时还没崩，比我赶 DDL 的状态都稳😂\n最戳我的是把“脚底悬空”写成测试，我做课设的时候角色穿墙都懒得管，看完有点心虚。",
+      "url": "https://x.com/Jonasxu000/status/2120524051194196271"
+    },
+    {
+      "author_id": "5655712",
+      "conversation_id": "2120500117342175364",
+      "created_at": "2026-11-11T14:23:08.000Z",
+      "edit_history_tweet_ids": [
+        "2120522719611826396"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1764818331822182400",
+            "start": 0,
+            "username": "xiaohu"
+          }
+        ]
+      },
+      "id": "2120522719611826396",
+      "in_reply_to_user_id": "1764818331822182400",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120500117342175364",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xiaohu 能直接出成片、做能改的3D模型，这才是重点。说得再好，也要看普通人拿它做出了什么。",
+      "url": "https://x.com/Asamoduo/status/2120522719611826396"
+    },
+    {
+      "author_id": "1979138740187729920",
+      "conversation_id": "2120500117342175364",
+      "created_at": "2026-11-11T14:14:41.000Z",
+      "edit_history_tweet_ids": [
+        "2120520593963683926"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1764818331822182400",
+            "start": 0,
+            "username": "xiaohu"
+          }
+        ]
+      },
+      "id": "2120520593963683926",
+      "in_reply_to_user_id": "1764818331822182400",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120500117342175364",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xiaohu 连续写 11 小时代码没把 context 撑爆是有点东西的，就好奇 Blender 排镜头那块有没有把材质球直接整丢。",
+      "url": "https://x.com/Ke971225Bill/status/2120520593963683926"
+    },
+    {
+      "author_id": "927094062",
+      "conversation_id": "2120500117342175364",
+      "created_at": "2026-11-11T14:12:08.000Z",
+      "edit_history_tweet_ids": [
+        "2120519950695846235"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1764818331822182400",
+            "start": 0,
+            "username": "xiaohu"
+          }
+        ]
+      },
+      "id": "2120519950695846235",
+      "in_reply_to_user_id": "1764818331822182400",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120500117342175364",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xiaohu 代码排镜头和调用 Blender API 建模，本质上是把过去非结构化的图形交互转成了确定性的结构化参数。如果底层能打通 Python 脚本和 WebGL/着色器管线，最大的收益其实是把体积庞大的工程资产压缩成了几行代码脚本，冷启动和网络分发成本降了几个数量级。",
+      "url": "https://x.com/DailyAIDev/status/2120519950695846235"
+    },
+    {
+      "author_id": "322347719",
+      "conversation_id": "2120500117342175364",
+      "created_at": "2026-11-11T14:04:09.000Z",
+      "edit_history_tweet_ids": [
+        "2120517942278488175"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1764818331822182400",
+            "start": 0,
+            "username": "xiaohu"
+          }
+        ]
+      },
+      "id": "2120517942278488175",
+      "in_reply_to_user_id": "1764818331822182400",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120500117342175364",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xiaohu 用代码排镜头卡音乐这个挺狠的，就看连续几个镜头人物能不能保持一致",
+      "url": "https://x.com/dlcwshi/status/2120517942278488175"
+    },
+    {
+      "author_id": "1929782255754293249",
+      "conversation_id": "2120500117342175364",
+      "created_at": "2026-11-11T13:41:36.000Z",
+      "edit_history_tweet_ids": [
+        "2120512267972415518"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1764818331822182400",
+            "start": 0,
+            "username": "xiaohu"
+          }
+        ]
+      },
+      "id": "2120512267972415518",
+      "in_reply_to_user_id": "1764818331822182400",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120500117342175364",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xiaohu 能把“角色悬空”这种画面反馈转化成代码测试逻辑，这个自我纠错的思路很亮眼，100万上下文估计立大功了。",
+      "url": "https://x.com/SDasfiko78409/status/2120512267972415518"
+    },
+    {
+      "author_id": "1969682764686569472",
+      "conversation_id": "2120500117342175364",
+      "created_at": "2026-11-11T13:39:23.000Z",
+      "edit_history_tweet_ids": [
+        "2120511708276109543"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1764818331822182400",
+            "start": 0,
+            "username": "xiaohu"
+          }
+        ]
+      },
+      "id": "2120511708276109543",
+      "in_reply_to_user_id": "1764818331822182400",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 77,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120500117342175364",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xiaohu 「今天发布了开源模型」听着像权重已经能下。官帖钉在 11 月 25 日才给权重，还承认这是没训完的中间检查点。5 日 Base、9 日 Evolve、11 日 Preview，节奏很快，文件没到。你是先拿 API 试用，还是等权重落地再谈开源？",
+      "url": "https://x.com/BoomAIGC/status/2120511708276109543"
+    },
+    {
+      "author_id": "2098579671906410502",
+      "conversation_id": "2120500117342175364",
+      "created_at": "2026-11-11T13:30:41.000Z",
+      "edit_history_tweet_ids": [
+        "2120509522552979505"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1764818331822182400",
+            "start": 0,
+            "username": "xiaohu"
+          }
+        ]
+      },
+      "id": "2120509522552979505",
+      "in_reply_to_user_id": "1764818331822182400",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120500117342175364",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xiaohu 开源预览刚出来，成片和可编辑 3D 得真跑一遍才知道。",
+      "url": "https://x.com/linheitu/status/2120509522552979505"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2120489225036636161"
+          ]
+        },
+        "author_id": "1764818331822182400",
+        "conversation_id": "2120500117342175364",
+        "created_at": "2026-11-11T12:53:19.000Z",
+        "edit_history_tweet_ids": [
+          "2120500117342175364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/plB5jQc7R1",
+              "end": 203,
+              "expanded_url": "https://x.com/xiaohu/status/2120500117342175364/video/1",
+              "media_key": "13_2120489225036636161",
+              "start": 180,
+              "url": "https://t.co/plB5jQc7R1"
+            }
+          ]
+        },
+        "id": "2120500117342175364",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "百度今天发布了全新的文心5.5 Flash Preview 开源模型\n\n重点升级了编程和 Agent能力\n在编程、3D 建模上大幅提升\n\n可以用代码排镜头、卡音乐，调用渲染工具输出成片，也能用 Blender 做可编辑的3D 建模\n\nERNIE 5.5 Flash Preview 基于虚幻引擎 5.8 制作一款第三人称武侠游戏《云岫行》\n\n它连续狂写 11 个小时的代码，不仅融合了跨版本的复杂素材，还用 C++ 独立搞定核心逻辑\n\n试玩时，角色有时会悬空。模型把这类反馈变成能跑的测试，比如检查脚底离地多高\n\n最长支持 100 万 token 上下文，读过的文件、工具返回的结果、前几轮的修改记录都能留在同一次任务里\n\n文心似乎又活跃起来了，这周更新得挺快。5 日开源 Base，给开发者继续训练，9 日公布用 ERNIE Evolve 给模型提速的结果，11 日发布做过后训练的 Preview"
+        },
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 7937,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "text": "百度今天发布了全新的文心5.5 Flash Preview 开源模型\n\n重点升级了编程和 Agent能力\n在编程、3D 建模上大幅提升\n\n可以用代码排镜头、卡音乐，调用渲染工具输出成片，也能用 Blender 做可编辑的3D 建模\n\nERNIE 5.5 Flash Preview 基于虚幻引擎 5.8 制作一款第三人称武侠游戏《云岫行》\n\n它连续狂写 11 https://t.co/plB5jQc7R1"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2120499255874113537"
+          ]
+        },
+        "author_id": "1764818331822182400",
+        "conversation_id": "2120500117342175364",
+        "created_at": "2026-11-11T12:53:23.000Z",
+        "edit_history_tweet_ids": [
+          "2120500133884555362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cc37Fskclz",
+              "end": 177,
+              "expanded_url": "https://x.com/xiaohu/status/2120500133884555362/photo/1",
+              "media_key": "3_2120499255874113537",
+              "start": 154,
+              "url": "https://t.co/cc37Fskclz"
+            }
+          ]
+        },
+        "id": "2120500133884555362",
+        "in_reply_to_user_id": "1764818331822182400",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "百度称，这是第一次用RSI技术给参与文心推理优化，工程师划好能改的范围，AI 自己找哪里慢、改代码、跑测试\n\n改完跑得更快，结果也对得上，才留下改动\n\n 看来RSI（递归自我改进）确实是下一个热门前沿方向...\n\n在昆仑芯 P800 的一项低延迟测试里，出字速度达到改之前的 6.24 倍\n\n另一项 GPU 测试里，输出保持一致，同样时间能多处理 33.7%..."
+        },
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1369,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120500131049205885",
+            "type": "replied_to"
+          }
+        ],
+        "text": "百度称，这是第一次用RSI技术给参与文心推理优化，工程师划好能改的范围，AI 自己找哪里慢、改代码、跑测试\n\n改完跑得更快，结果也对得上，才留下改动\n\n 看来RSI（递归自我改进）确实是下一个热门前沿方向...\n\n在昆仑芯 P800 的一项低延迟测试里，出字速度达到改之前的 6.24 倍\n\n另一项 GPU https://t.co/cc37Fskclz"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2120499663472316416"
+          ]
+        },
+        "author_id": "1764818331822182400",
+        "conversation_id": "2120500117342175364",
+        "created_at": "2026-11-11T12:53:24.000Z",
+        "edit_history_tweet_ids": [
+          "2120500137483211162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "ERNIE Evolve 围绕明确目标与约束，持续提出研究方向、开展实验、验证结果并积累经验，让自动研究走进真实 AI 研发。",
+              "display_url": "ernie.baidu.com/zh/research/po…",
+              "end": 62,
+              "expanded_url": "https://ernie.baidu.com/zh/research/posts/ernie-evolve/",
+              "images": [
+                {
+                  "height": 2163,
+                  "url": "https://pbs.twimg.com/news_img/2119740499187933184/nzK1hBb6?format=jpg&name=orig",
+                  "width": 3360
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2119740499187933184/nzK1hBb6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 39,
+              "status": 200,
+              "title": "ERNIE Evolve：让自动研究走进真实 AI 研发 · 文心大模型",
+              "unwound_url": "https://ernie.baidu.com/zh/research/posts/ernie-evolve/",
+              "url": "https://t.co/KplMp3LABp"
+            },
+            {
+              "description": "ERNIE 5.5 Flash Base: a 280B-A14B hybrid-attention MoE pretrained on 33.5T tokens. An open, efficient pretraining base.",
+              "display_url": "ernie.baidu.com/release/ernie-…",
+              "end": 94,
+              "expanded_url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+              "images": [
+                {
+                  "height": 2469,
+                  "url": "https://pbs.twimg.com/news_img/2118229319264964608/J9JzgjS4?format=jpg&name=orig",
+                  "width": 2454
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2118229319264964608/J9JzgjS4?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 71,
+              "status": 200,
+              "title": "ERNIE 5.5 Flash Base · ERNIE",
+              "unwound_url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+              "url": "https://t.co/XNNWxvcweM"
+            },
+            {
+              "description": "Text Generation model with 286B parameters. Download, explore files and run it on Hugging Face.",
+              "display_url": "huggingface.co/baidu/ERNIE-5.…",
+              "end": 124,
+              "expanded_url": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Base",
+              "images": [
+                {
+                  "height": 648,
+                  "url": "https://pbs.twimg.com/news_img/2118215438463127552/g6cjoFz-?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2118215438463127552/g6cjoFz-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 101,
+              "status": 200,
+              "title": "baidu/ERNIE-5.5-Flash-Base · Hugging Face",
+              "unwound_url": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Base",
+              "url": "https://t.co/7dGwKabVpD"
+            },
+            {
+              "display_url": "pic.x.com/iOFGxkq5kn",
+              "end": 148,
+              "expanded_url": "https://x.com/xiaohu/status/2120500137483211162/video/1",
+              "media_key": "13_2120499663472316416",
+              "start": 125,
+              "url": "https://t.co/iOFGxkq5kn"
+            }
+          ]
+        },
+        "id": "2120500137483211162",
+        "in_reply_to_user_id": "1764818331822182400",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1270,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120500133884555362",
+            "type": "replied_to"
+          }
+        ],
+        "text": "在今天的百度世界2026大会上公布了技术报告和模型下载\n\nRSI相关blog：https://t.co/KplMp3LABp\n\n技术Blog：https://t.co/XNNWxvcweM\n\n模型下载：https://t.co/7dGwKabVpD https://t.co/iOFGxkq5kn"
+      }
+    ],
+    "users": [
+      {
+        "id": "1806334833058299904",
+        "name": "阿飞之狗（阿飞之狗）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926268523996680192/Z0uDVogw_normal.jpg",
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 92,
+          "like_count": 234,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 66
+        },
+        "username": "IB2OJUBzE273682",
+        "verified": false
+      },
+      {
+        "id": "1764818331822182400",
+        "name": "小互",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765404718959095808/BX7VN1hS_normal.jpg",
+        "public_metrics": {
+          "followers_count": 126982,
+          "following_count": 1794,
+          "like_count": 2534,
+          "listed_count": 1888,
+          "media_count": 7063,
+          "tweet_count": 11699
+        },
+        "username": "xiaohu",
+        "verified": false
+      },
+      {
+        "id": "2119150629360676864",
+        "name": "NotaCold",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119153029135978496/pAVIKSk0_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 17,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 52
+        },
+        "username": "NotaCold7723",
+        "verified": false
+      },
+      {
+        "id": "1724989707052867585",
+        "name": "一席",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115685776021209088/Ta0qUFG5_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3937,
+          "following_count": 3139,
+          "like_count": 7473,
+          "listed_count": 6,
+          "media_count": 720,
+          "tweet_count": 15582
+        },
+        "username": "XiTalking",
+        "verified": false
+      },
+      {
+        "id": "1971949939069739008",
+        "name": "MM (manman)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971950018287611904/ypt_Qybr_normal.png",
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 62,
+          "like_count": 210,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 326
+        },
+        "username": "manman47293",
+        "verified": false
+      },
+      {
+        "id": "450820454",
+        "name": "Yu Hsuan Huang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115797418638012416/UZeb-kQw_normal.jpg",
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 196,
+          "like_count": 487,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 733
+        },
+        "username": "kenthuang0106",
+        "verified": false
+      },
+      {
+        "id": "1889955408334442496",
+        "name": "Remi LIN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017627760819376129/5-iCb6ZW_normal.jpg",
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 478,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 482
+        },
+        "username": "66laoliu66",
+        "verified": false
+      },
+      {
+        "id": "1694943359255957504",
+        "name": "林小狼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102291443180306433/uo_aXFaS_normal.jpg",
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 178,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 270
+        },
+        "username": "linxlbuilds",
+        "verified": false
+      },
+      {
+        "id": "2063647126819868673",
+        "name": "Jonas Xu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108588809369899010/Hc3_3qQ6_normal.jpg",
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 184,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 151
+        },
+        "username": "Jonasxu000",
+        "verified": false
+      },
+      {
+        "id": "5655712",
+        "name": "Asa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101560168815484928/vU1MVNjD_normal.jpg",
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 134,
+          "like_count": 1376,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 442
+        },
+        "username": "Asamoduo",
+        "verified": false
+      },
+      {
+        "id": "1979138740187729920",
+        "name": "木木",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054260589900550144/3j3Be-O6_normal.jpg",
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 892,
+          "like_count": 2593,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 2075
+        },
+        "username": "Ke971225Bill",
+        "verified": false
+      },
+      {
+        "id": "927094062",
+        "name": "木言",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104890061020143616/Ssvr50BI_normal.jpg",
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 344,
+          "like_count": 504,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 606
+        },
+        "username": "DailyAIDev",
+        "verified": false
+      },
+      {
+        "id": "322347719",
+        "name": "Jason.Sze",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096206969136963584/KAC15arZ_normal.jpg",
+        "public_metrics": {
+          "followers_count": 5098,
+          "following_count": 5280,
+          "like_count": 4961,
+          "listed_count": 19,
+          "media_count": 147,
+          "tweet_count": 2851
+        },
+        "username": "dlcwshi",
+        "verified": false
+      },
+      {
+        "id": "1929782255754293249",
+        "name": "银骑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109180344637517824/-1jZz8Fy_normal.jpg",
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 590,
+          "like_count": 938,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1044
+        },
+        "username": "SDasfiko78409",
+        "verified": false
+      },
+      {
+        "id": "1969682764686569472",
+        "name": "BoomAIGC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2114897811607052288/K9pAdMFE_normal.jpg",
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 108,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 254
+        },
+        "username": "BoomAIGC",
+        "verified": false
+      },
+      {
+        "id": "2098579671906410502",
+        "name": "林墨 | LINMO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109605639919923200/ZEQk_AMl_normal.jpg",
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 914,
+          "like_count": 633,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 744
+        },
+        "username": "linheitu",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120682805122482250",
+    "next_token": "b26v89c19zqg8o3juzovc8h09vf9qgbcmd31a08jq7a0t",
+    "oldest_id": "2120509522552979505",
+    "result_count": 15
+  }
+}

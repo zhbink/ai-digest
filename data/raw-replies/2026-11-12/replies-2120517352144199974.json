@@ -1,0 +1,613 @@
+{
+  "data": [
+    {
+      "author_id": "2044833856218451968",
+      "created_at": "2026-11-12T01:00:16.000Z",
+      "edit_history_tweet_ids": [
+        "2120683061109264432"
+      ],
+      "id": "2120683061109264432",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120517352144199974",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 这工具包思路挺对 我以前让AI写页面 它老用过时的写法 自己还得翻文档\n要是它能自己去查标准范例 弹窗自适应那些我就能少改几轮",
+      "url": "https://x.com/T082057/status/2120683061109264432"
+    },
+    {
+      "author_id": "915765587682369537",
+      "created_at": "2026-11-11T23:38:28.000Z",
+      "edit_history_tweet_ids": [
+        "2120662475607572525"
+      ],
+      "id": "2120662475607572525",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120517352144199974",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 这思路好是好，但有个隐患：标准更新快，本地这份手册多久同步一次上游？要是 Chrome 那边改了规范，本地包还停在旧版，AI 反而会更自信地把错的写成对的。你一般多久更新一次这个包？",
+      "url": "https://x.com/ReignSwords/status/2120662475607572525"
+    },
+    {
+      "author_id": "2004435780631146496",
+      "created_at": "2026-11-11T19:32:32.000Z",
+      "edit_history_tweet_ids": [
+        "2120600583031906354"
+      ],
+      "id": "2120600583031906354",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 19,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120517352144199974",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 同一套手册，gemini 涨 36 个点，codex 只涨 28 个。这 8 个点的差距才是这张表最诚实的地方。知识补齐了，剩下的差距在执行不在知识，工具包拉不平模型。",
+      "url": "https://x.com/himiaocc/status/2120600583031906354"
+    },
+    {
+      "author_id": "723515363476951040",
+      "created_at": "2026-11-11T15:03:57.000Z",
+      "edit_history_tweet_ids": [
+        "2120532992057864258"
+      ],
+      "id": "2120532992057864258",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 52,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120517352144199974",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 这类工具解决的不是文档找不到，是团队里几个 AI 各查一版，写法互相打架。标准源固定成一份，review 才有共同语言。",
+      "url": "https://x.com/VanceXin/status/2120532992057864258"
+    },
+    {
+      "author_id": "2063647126819868673",
+      "created_at": "2026-11-11T14:53:17.000Z",
+      "edit_history_tweet_ids": [
+        "2120530306319241588"
+      ],
+      "id": "2120530306319241588",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 52,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120517352144199974",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 我课设那页让模型写完，弹窗是直接跳出来的，手机上一拉还挤成一团。要是装上这个它能自己按规范补淡入和自适应，验收大概能少挨两句。你配完之后，老项目改起来费不费劲？",
+      "url": "https://x.com/Jonasxu000/status/2120530306319241588"
+    },
+    {
+      "author_id": "1217889636803989507",
+      "created_at": "2026-11-11T14:48:24.000Z",
+      "edit_history_tweet_ids": [
+        "2120529078818394442"
+      ],
+      "id": "2120529078818394442",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 37,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120517352144199974",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun AI老给我写过时的CSS，这个正需要",
+      "url": "https://x.com/Heylanlan/status/2120529078818394442"
+    },
+    {
+      "author_id": "1992952876533215232",
+      "created_at": "2026-11-11T14:40:05.000Z",
+      "edit_history_tweet_ids": [
+        "2120526987160879139"
+      ],
+      "id": "2120526987160879139",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120517352144199974",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 这个思路好，规则直接进工具链比写文档靠谱。好奇实际用起来，更新频率跟得上浏览器版本迭代吗？",
+      "url": "https://x.com/xiri318695/status/2120526987160879139"
+    },
+    {
+      "author_id": "1694943359255957504",
+      "created_at": "2026-11-11T14:26:08.000Z",
+      "edit_history_tweet_ids": [
+        "2120523473244004372"
+      ],
+      "id": "2120523473244004372",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 71,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120517352144199974",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 官方 README 里有个细节挺关键。检索指南这一步，用的是本地的嵌入模型和 BM25，不联网，也不要 API key。安装包是自包含的，离线也能查。\n\n不过安装和更新默认走 npx，这一步还是要联网的。内网机器如果访问不了 npm，得先把包装进去，再在离线环境里检索。另外，项目里如果不指定 Baseline",
+      "url": "https://x.com/linxlbuilds/status/2120523473244004372"
+    },
+    {
+      "author_id": "1572276696014782464",
+      "created_at": "2026-11-11T14:24:54.000Z",
+      "edit_history_tweet_ids": [
+        "2120523163113296190"
+      ],
+      "id": "2120523163113296190",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120517352144199974",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 这类工具最实用的是治 AI 写前端的「过时病」：训练数据里全是老写法，它动不动就手搓 polyfill、用早就不推荐的 API。让它写之前先查标准范例，比在 prompt 里列一长串「别用 xxx」靠谱多了。",
+      "url": "https://x.com/JY960516/status/2120523163113296190"
+    },
+    {
+      "author_id": "5655712",
+      "created_at": "2026-11-11T14:21:49.000Z",
+      "edit_history_tweet_ids": [
+        "2120522390363083239"
+      ],
+      "id": "2120522390363083239",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 57,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120517352144199974",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun AI写网页爱用老写法，因为它学的多是旧资料。给它一本新手册，可能比换个更聪明的AI还管用。",
+      "url": "https://x.com/Asamoduo/status/2120522390363083239"
+    },
+    {
+      "author_id": "2116855896982843394",
+      "created_at": "2026-11-11T14:16:22.000Z",
+      "edit_history_tweet_ids": [
+        "2120521017839804503"
+      ],
+      "id": "2120521017839804503",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120517352144199974",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun Letting the AI pull the spec itself is the real change — the model stops guessing at APIs and builds from the standard. The web ships its own instruction manual.",
+      "url": "https://x.com/ROSEdoqj/status/2120521017839804503"
+    },
+    {
+      "author_id": "1089049411831779328",
+      "created_at": "2026-11-11T14:15:40.000Z",
+      "edit_history_tweet_ids": [
+        "2120520840328708327"
+      ],
+      "id": "2120520840328708327",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120517352144199974",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 很多简单的交互原生标签早就支持了，少引几个依赖页面看着清爽很多",
+      "url": "https://x.com/WenBuilds/status/2120520840328708327"
+    },
+    {
+      "author_id": "329567918",
+      "created_at": "2026-11-11T14:12:19.000Z",
+      "edit_history_tweet_ids": [
+        "2120519996870980050"
+      ],
+      "id": "2120519996870980050",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120517352144199974",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 这个有用。AI 写网页最烦的是老写法，一堆过时的库。不过\"明显更轻快\"我想看前后对比，包体积、加载时间有数吗？",
+      "url": "https://x.com/SeenFirstCN/status/2120519996870980050"
+    },
+    {
+      "author_id": "1017058535090393088",
+      "created_at": "2026-11-11T14:05:43.000Z",
+      "edit_history_tweet_ids": [
+        "2120518334911324284"
+      ],
+      "id": "2120518334911324284",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120517352144199974",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 弹窗这块我还会补测一下：只用键盘打开、关闭后，焦点能不能回到原来的按钮，动画顺滑和真正好用还是得一起验。",
+      "url": "https://x.com/Wv3EcACHtizRjZK/status/2120518334911324284"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2120517340752482304"
+          ]
+        },
+        "author_id": "1657474831",
+        "created_at": "2026-11-11T14:01:48.000Z",
+        "edit_history_tweet_ids": [
+          "2120517352144199974"
+        ],
+        "id": "2120517352144199974",
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 3495,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 5
+        },
+        "text": "modern-web-guidance：让AI学会最新的网页开发规则\n\nGoogle Chrome团队联合Edge和火狐联合推出的工具包，只要在终端敲一行命令安装，或者让AI在本地自己检索调用，AI就能自动查阅标准范例，不需要开发者手动到处查文档。 https://t.co/Ag6M76Raam"
+      }
+    ],
+    "users": [
+      {
+        "id": "2044833856218451968",
+        "name": "TT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044834995018330112/F3QNaAOh_normal.jpg",
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 289,
+          "like_count": 414,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 738
+        },
+        "username": "T082057",
+        "verified": false
+      },
+      {
+        "id": "1657474831",
+        "name": "Gorden Sun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1522159828231409664/GPpXyPT1_normal.jpg",
+        "public_metrics": {
+          "followers_count": 70366,
+          "following_count": 1759,
+          "like_count": 249,
+          "listed_count": 991,
+          "media_count": 3682,
+          "tweet_count": 9534
+        },
+        "username": "Gorden_Sun",
+        "verified": false
+      },
+      {
+        "id": "915765587682369537",
+        "name": "ReignSwords",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581828174014550016/zeA4dqxI_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3813,
+          "following_count": 4454,
+          "like_count": 133,
+          "listed_count": 2,
+          "media_count": 653,
+          "tweet_count": 11075
+        },
+        "username": "ReignSwords",
+        "verified": false
+      },
+      {
+        "id": "2004435780631146496",
+        "name": "MIAO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105055329872646144/KPNbQnWF_normal.jpg",
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 46,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 441
+        },
+        "username": "himiaocc",
+        "verified": false
+      },
+      {
+        "id": "723515363476951040",
+        "name": "Feifei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047345745901289472/Ch8w0Uqg_normal.jpg",
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 368,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 312
+        },
+        "username": "VanceXin",
+        "verified": false
+      },
+      {
+        "id": "2063647126819868673",
+        "name": "Jonas Xu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108588809369899010/Hc3_3qQ6_normal.jpg",
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 184,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 151
+        },
+        "username": "Jonasxu000",
+        "verified": false
+      },
+      {
+        "id": "1217889636803989507",
+        "name": "蓝蓝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100843816177872896/f-MyQaET_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1116,
+          "following_count": 1070,
+          "like_count": 524,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 4745
+        },
+        "username": "Heylanlan",
+        "verified": false
+      },
+      {
+        "id": "1992952876533215232",
+        "name": "xiri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109965574642315264/9CU1uCk-_normal.jpg",
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 29,
+          "like_count": 1418,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 921
+        },
+        "username": "xiri318695",
+        "verified": false
+      },
+      {
+        "id": "1694943359255957504",
+        "name": "林小狼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102291443180306433/uo_aXFaS_normal.jpg",
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 178,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 270
+        },
+        "username": "linxlbuilds",
+        "verified": false
+      },
+      {
+        "id": "1572276696014782464",
+        "name": "Joe.Y",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2112425403017011200/glW4tKOc_normal.jpg",
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 66,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 280
+        },
+        "username": "JY960516",
+        "verified": false
+      },
+      {
+        "id": "5655712",
+        "name": "Asa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101560168815484928/vU1MVNjD_normal.jpg",
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 134,
+          "like_count": 1376,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 442
+        },
+        "username": "Asamoduo",
+        "verified": false
+      },
+      {
+        "id": "2116855896982843394",
+        "name": "Allie K. Miller",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116893880725716992/9Y7JQ6k6_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 17,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 136
+        },
+        "username": "ROSEdoqj",
+        "verified": false
+      },
+      {
+        "id": "1089049411831779328",
+        "name": "WenWen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100416673958518784/0QTWiwyM_normal.jpg",
+        "public_metrics": {
+          "followers_count": 6811,
+          "following_count": 5918,
+          "like_count": 61093,
+          "listed_count": 4,
+          "media_count": 70,
+          "tweet_count": 41754
+        },
+        "username": "WenBuilds",
+        "verified": false
+      },
+      {
+        "id": "329567918",
+        "name": "SeenFirstCN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752300127/image_normal.jpg",
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 232,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 461
+        },
+        "username": "SeenFirstCN",
+        "verified": false
+      },
+      {
+        "id": "1017058535090393088",
+        "name": "大v（没互关就是在cd）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119628425153646592/aSk3Zy7b_normal.jpg",
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 252,
+          "like_count": 6816,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1528
+        },
+        "username": "Wv3EcACHtizRjZK",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120683061109264432",
+    "next_token": "b26v89c19zqg8o3juzovc8hb0rr0qjd92x8spref2c8e5",
+    "oldest_id": "2120518334911324284",
+    "result_count": 14
+  }
+}

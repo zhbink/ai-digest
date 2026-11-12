@@ -1,0 +1,1339 @@
+{
+  "data": [
+    {
+      "author_id": "1435654190605479942",
+      "conversation_id": "2120532824465805749",
+      "created_at": "2026-11-12T00:48:33.000Z",
+      "edit_history_tweet_ids": [
+        "2120680112362500397"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "4783690002",
+            "start": 0,
+            "username": "GoogleDeepMind"
+          }
+        ]
+      },
+      "id": "2120680112362500397",
+      "in_reply_to_user_id": "4783690002",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120532832145576242",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind Adapting to new lab data without retraining is a big step. If it holds up, it could shorten the loop between hypothesis and experiment in genetics research.",
+      "url": "https://x.com/iambasitshah/status/2120680112362500397"
+    },
+    {
+      "author_id": "1730211603386073088",
+      "conversation_id": "2120532824465805749",
+      "created_at": "2026-11-12T00:42:39.000Z",
+      "edit_history_tweet_ids": [
+        "2120678626501013910"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "4783690002",
+            "start": 0,
+            "username": "GoogleDeepMind"
+          }
+        ]
+      },
+      "id": "2120678626501013910",
+      "in_reply_to_user_id": "4783690002",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120532824465805749",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind Could AlphaGenome 2 become the Rosetta Stone for cellular disease?",
+      "url": "https://x.com/CatGodSandHive/status/2120678626501013910"
+    },
+    {
+      "author_id": "1894854904952561664",
+      "conversation_id": "2120532824465805749",
+      "created_at": "2026-11-12T00:42:29.000Z",
+      "edit_history_tweet_ids": [
+        "2120678586143170654"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "4783690002",
+            "start": 0,
+            "username": "GoogleDeepMind"
+          }
+        ]
+      },
+      "id": "2120678586143170654",
+      "in_reply_to_user_id": "4783690002",
+      "lang": "en",
+      "note_tweet": {
+        "text": "The fascinating part is that the same DNA can be read differently by different cells. A single-letter change might disrupt an enhancer that is active in immune cells but largely inactive in the heart or brain.\n\nThe real promise of AlphaGenome 2 is connecting genetic variants to the specific cells where disease begins. The next challenge is validating those predictions experimentally. 🧬"
+      },
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120532824465805749",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind The fascinating part is that the same DNA can be read differently by different cells. A single-letter change might disrupt an enhancer that is active in immune cells but largely inactive in the heart or brain.\n\nThe real promise of AlphaGenome 2 is connecting genetic variants to",
+      "url": "https://x.com/CurioIndex/status/2120678586143170654"
+    },
+    {
+      "author_id": "1563080581302235137",
+      "conversation_id": "2120532824465805749",
+      "created_at": "2026-11-12T00:36:41.000Z",
+      "edit_history_tweet_ids": [
+        "2120677124713725998"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "4783690002",
+            "start": 0,
+            "username": "GoogleDeepMind"
+          }
+        ]
+      },
+      "id": "2120677124713725998",
+      "in_reply_to_user_id": "4783690002",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120532824465805749",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind Genetic testing is indeed useful, but the privacy risks should not be ignored. If your DNA data is leaked, insurance companies may refuse to insure you, so data security needs to be strengthened.",
+      "url": "https://x.com/ClaesBang3/status/2120677124713725998"
+    },
+    {
+      "author_id": "2217782832",
+      "conversation_id": "2120532824465805749",
+      "created_at": "2026-11-12T00:28:02.000Z",
+      "edit_history_tweet_ids": [
+        "2120674949547671937"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "4783690002",
+            "start": 0,
+            "username": "GoogleDeepMind"
+          }
+        ]
+      },
+      "id": "2120674949547671937",
+      "in_reply_to_user_id": "4783690002",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120532824465805749",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind The activated-vs-resting T-cell example is the bit that caught my eye. For anyone choosing the next experiment, can the API flag when a new cell state is too far from the training data for a prediction to be useful?",
+      "url": "https://x.com/profjefflow/status/2120674949547671937"
+    },
+    {
+      "author_id": "263606970",
+      "conversation_id": "2120532824465805749",
+      "created_at": "2026-11-12T00:23:34.000Z",
+      "edit_history_tweet_ids": [
+        "2120673822315819134"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "4783690002",
+            "start": 0,
+            "username": "GoogleDeepMind"
+          }
+        ]
+      },
+      "id": "2120673822315819134",
+      "in_reply_to_user_id": "4783690002",
+      "lang": "en",
+      "note_tweet": {
+        "text": "Conditioning on cell type is the real shift, not just better scoring: a variant benign in aggregate can be pathogenic in one cell type and silent in another. Recall rising from 16% to 30% is progress, but most variants are still missed — a prioritization tool, not clinical interpretation yet."
+      },
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120532824465805749",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind Conditioning on cell type is the real shift, not just better scoring: a variant benign in aggregate can be pathogenic in one cell type and silent in another. Recall rising from 16% to 30% is progress, but most variants are still missed — a prioritization tool, not clinical",
+      "url": "https://x.com/minimaniwo/status/2120673822315819134"
+    },
+    {
+      "author_id": "989965718",
+      "conversation_id": "2120532824465805749",
+      "created_at": "2026-11-11T23:56:33.000Z",
+      "edit_history_tweet_ids": [
+        "2120667024754155564"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "4783690002",
+            "start": 0,
+            "username": "GoogleDeepMind"
+          }
+        ]
+      },
+      "id": "2120667024754155564",
+      "in_reply_to_user_id": "4783690002",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120532824465805749",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind Best part to me is that it works from a few dozen cells of new single-cell data without retraining. Curious how well the predictions hold up once labs test them at the bench.",
+      "url": "https://x.com/killerdeals24/status/2120667024754155564"
+    },
+    {
+      "author_id": "856357866",
+      "conversation_id": "2120532824465805749",
+      "created_at": "2026-11-11T23:46:34.000Z",
+      "edit_history_tweet_ids": [
+        "2120664510734492148"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "4783690002",
+            "start": 0,
+            "username": "GoogleDeepMind"
+          }
+        ]
+      },
+      "id": "2120664510734492148",
+      "in_reply_to_user_id": "4783690002",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120532824465805749",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind 官博里补了一句挺关键：现在只给研究用，还没被批准拿来看病。",
+      "url": "https://x.com/aimusheng/status/2120664510734492148"
+    },
+    {
+      "author_id": "2070926177573740544",
+      "conversation_id": "2120532824465805749",
+      "created_at": "2026-11-11T23:20:45.000Z",
+      "edit_history_tweet_ids": [
+        "2120658014466424853"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "4783690002",
+            "start": 0,
+            "username": "GoogleDeepMind"
+          }
+        ]
+      },
+      "id": "2120658014466424853",
+      "in_reply_to_user_id": "4783690002",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120532824465805749",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind In the next 10-15 years there is going to be absurdly blessed * space opens up to us.",
+      "url": "https://x.com/Vic_x_Irem/status/2120658014466424853"
+    },
+    {
+      "author_id": "2109231484767031296",
+      "conversation_id": "2120532824465805749",
+      "created_at": "2026-11-11T22:51:16.000Z",
+      "edit_history_tweet_ids": [
+        "2120650595870953719"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "4783690002",
+            "start": 0,
+            "username": "GoogleDeepMind"
+          }
+        ]
+      },
+      "id": "2120650595870953719",
+      "in_reply_to_user_id": "4783690002",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120532826336501822",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind Cell-type resolution is the key shift — bulk models average away the signal that matters. Is the “nearly twice as many” gain uniform across the 68 tissues, or concentrated in well-sampled ones? That matters for rare-disease variants, where that cell type is least sampled.",
+      "url": "https://x.com/thebotbites/status/2120650595870953719"
+    },
+    {
+      "author_id": "757940114949537792",
+      "conversation_id": "2120532824465805749",
+      "created_at": "2026-11-11T22:50:08.000Z",
+      "edit_history_tweet_ids": [
+        "2120650310595354961"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "4783690002",
+            "start": 0,
+            "username": "GoogleDeepMind"
+          }
+        ]
+      },
+      "id": "2120650310595354961",
+      "in_reply_to_user_id": "4783690002",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120532824465805749",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind AlphaGenome 2 adapts to lab experiments on the fly with no retraining needed, including immune cells responding to a vaccine.",
+      "url": "https://x.com/sulaiman_svesal/status/2120650310595354961"
+    },
+    {
+      "author_id": "1493026418518855683",
+      "conversation_id": "2120532824465805749",
+      "created_at": "2026-11-11T22:47:15.000Z",
+      "edit_history_tweet_ids": [
+        "2120649584166805604"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1146020472",
+            "start": 0,
+            "username": "hocowarrior"
+          },
+          {
+            "end": 29,
+            "id": "1483051266",
+            "start": 13,
+            "username": "TheElliottSmith"
+          },
+          {
+            "end": 45,
+            "id": "4783690002",
+            "start": 30,
+            "username": "GoogleDeepMind"
+          }
+        ]
+      },
+      "id": "2120649584166805604",
+      "in_reply_to_user_id": "1146020472",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120588813118693598",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@hocowarrior @TheElliottSmith @GoogleDeepMind If it was this simple we would have solved a lot of things by now. The current methods for discerning this information take too long.",
+      "url": "https://x.com/AlbertJLewis6/status/2120649584166805604"
+    },
+    {
+      "author_id": "1720665183188922368",
+      "conversation_id": "2120532824465805749",
+      "created_at": "2026-11-11T22:44:22.000Z",
+      "edit_history_tweet_ids": [
+        "2120648859613298813"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "2025045221114085378",
+            "start": 0,
+            "username": "HarshGupta_0808"
+          },
+          {
+            "end": 32,
+            "id": "4783690002",
+            "start": 17,
+            "username": "GoogleDeepMind"
+          }
+        ]
+      },
+      "id": "2120648859613298813",
+      "in_reply_to_user_id": "2025045221114085378",
+      "lang": "en",
+      "note_tweet": {
+        "text": "You couldn't get much that's useful or reliable as a regular person.\n\nAlphaGenome 2 is a research tool for scientists. It predicts how specific DNA changes affect gene activity, DNA packing, and related signals in particular cell types (immune cells, liver cells, etc.).\n\nIf you had your sequence + coding skills + an API key, you could score individual variants in chosen cells. You would get molecular predictions, not health reports, disease risks, or medical advice. It is research-only, not clinical or personal-use approved. No simple consumer workflow exists."
+      },
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120648730265448465",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@HarshGupta_0808 @GoogleDeepMind You couldn't get much that's useful or reliable as a regular person.\n\nAlphaGenome 2 is a research tool for scientists. It predicts how specific DNA changes affect gene activity, DNA packing, and related signals in particular cell types (immune cells, liver cells, etc.).\n\nIf you",
+      "url": "https://x.com/grok/status/2120648859613298813"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2120648745121447936"
+        ]
+      },
+      "author_id": "1717760644017954816",
+      "conversation_id": "2120532824465805749",
+      "created_at": "2026-11-11T22:43:57.000Z",
+      "edit_history_tweet_ids": [
+        "2120648753174790467"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "805473146186952704",
+            "start": 0,
+            "username": "Christopher_01"
+          },
+          {
+            "end": 32,
+            "id": "1655936149733654530",
+            "start": 16,
+            "username": "IterIntellectus"
+          },
+          {
+            "end": 48,
+            "id": "4783690002",
+            "start": 33,
+            "username": "GoogleDeepMind"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/owgNM0DF3W",
+            "end": 85,
+            "expanded_url": "https://x.com/NIASCEND/status/2120648753174790467/photo/1",
+            "media_key": "3_2120648745121447936",
+            "start": 62,
+            "url": "https://t.co/owgNM0DF3W"
+          },
+          {
+            "display_url": "x.com/niascend/statu…",
+            "end": 109,
+            "expanded_url": "https://twitter.com/niascend/status/2119183897103667636",
+            "start": 86,
+            "url": "https://t.co/vNCFniDKpQ"
+          }
+        ]
+      },
+      "id": "2120648753174790467",
+      "in_reply_to_user_id": "805473146186952704",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2119183897103667636",
+          "type": "quoted"
+        },
+        {
+          "id": "2120589769847795756",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Christopher_01 @IterIntellectus @GoogleDeepMind Been solved. https://t.co/owgNM0DF3W https://t.co/vNCFniDKpQ",
+      "url": "https://x.com/NIASCEND/status/2120648753174790467"
+    },
+    {
+      "author_id": "2025045221114085378",
+      "conversation_id": "2120532824465805749",
+      "created_at": "2026-11-11T22:43:51.000Z",
+      "edit_history_tweet_ids": [
+        "2120648730265448465"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 5,
+            "id": "1720665183188922368",
+            "start": 0,
+            "username": "grok"
+          },
+          {
+            "end": 21,
+            "id": "4783690002",
+            "start": 6,
+            "username": "GoogleDeepMind"
+          },
+          {
+            "end": 27,
+            "id": "1720665183188922368",
+            "start": 22,
+            "username": "grok"
+          }
+        ]
+      },
+      "id": "2120648730265448465",
+      "in_reply_to_user_id": "1720665183188922368",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120620072494412061",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@grok @GoogleDeepMind @grok id i get my dna sequence from a lab done and I submit it then what all things can i possibly get to know. Tell me in layman terms",
+      "url": "https://x.com/HarshGupta_0808/status/2120648730265448465"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_2120648745121447936",
+        "type": "photo"
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2120532798670835712"
+          ]
+        },
+        "author_id": "4783690002",
+        "conversation_id": "2120532824465805749",
+        "created_at": "2026-11-11T15:03:19.000Z",
+        "edit_history_tweet_ids": [
+          "2120532832145576242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Vf48Ki2DZ",
+              "end": 286,
+              "expanded_url": "https://x.com/GoogleDeepMind/status/2120532832145576242/photo/1",
+              "media_key": "3_2120532798670835712",
+              "start": 263,
+              "url": "https://t.co/9Vf48Ki2DZ"
+            }
+          ]
+        },
+        "id": "2120532832145576242",
+        "in_reply_to_user_id": "4783690002",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "goo.gle/4zikg3w",
+                "end": 286,
+                "expanded_url": "https://goo.gle/4zikg3w",
+                "start": 263,
+                "url": "https://t.co/cPOPD3cWYB"
+              }
+            ]
+          },
+          "text": "By predicting how the same DNA is read differently from cell to cell, AlphaGenome 2 opens up entirely new possibilities for understanding human genetics.\n\nIt’s available now for non-commercial research via our API and interactive Colab tutorials. Find out more → https://t.co/cPOPD3cWYB"
+        },
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 19474,
+          "like_count": 173,
+          "quote_count": 4,
+          "reply_count": 12,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120532829805096970",
+            "type": "replied_to"
+          }
+        ],
+        "text": "By predicting how the same DNA is read differently from cell to cell, AlphaGenome 2 opens up entirely new possibilities for understanding human genetics.\n\nIt’s available now for non-commercial research via our API and interactive Colab tutorials. Find out more → https://t.co/9Vf48Ki2DZ"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2120531931515219969"
+          ]
+        },
+        "author_id": "4783690002",
+        "conversation_id": "2120532824465805749",
+        "created_at": "2026-11-11T15:03:17.000Z",
+        "edit_history_tweet_ids": [
+          "2120532824465805749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CkpKgsutf3",
+              "end": 297,
+              "expanded_url": "https://x.com/GoogleDeepMind/status/2120532824465805749/video/1",
+              "media_key": "13_2120531931515219969",
+              "start": 274,
+              "url": "https://t.co/CkpKgsutf3"
+            }
+          ]
+        },
+        "id": "2120532824465805749",
+        "lang": "en",
+        "note_tweet": {
+          "text": "Your heart, brain, and immune system share the same DNA sequence. So how can a single-letter change affect disease in some cells, while sparing the rest?\n\nAlphaGenome 2 is our new AI model that zooms in on specific cells to help scientists understand what drives disease. 🧵"
+        },
+        "public_metrics": {
+          "bookmark_count": 985,
+          "impression_count": 361477,
+          "like_count": 2450,
+          "quote_count": 175,
+          "reply_count": 205,
+          "retweet_count": 361
+        },
+        "text": "Your heart, brain, and immune system share the same DNA sequence. So how can a single-letter change affect disease in some cells, while sparing the rest?\n\nAlphaGenome 2 is our new AI model that zooms in on specific cells to help scientists understand what drives disease. 🧵 https://t.co/CkpKgsutf3"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "16_2120532099690119168"
+          ]
+        },
+        "author_id": "4783690002",
+        "conversation_id": "2120532824465805749",
+        "created_at": "2026-11-11T15:03:18.000Z",
+        "edit_history_tweet_ids": [
+          "2120532826336501822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SO22t242rh",
+              "end": 301,
+              "expanded_url": "https://x.com/GoogleDeepMind/status/2120532826336501822/photo/1",
+              "media_key": "16_2120532099690119168",
+              "start": 278,
+              "url": "https://t.co/SO22t242rh"
+            }
+          ]
+        },
+        "id": "2120532826336501822",
+        "in_reply_to_user_id": "4783690002",
+        "lang": "en",
+        "note_tweet": {
+          "text": "Looking at a whole tissue at once is like looking at a blurry image: you get the visuals, but miss what’s happening inside individual pixels.\n\nTrained on 100M+ profiles across 68 tissues, AlphaGenome 2 focuses on one cell type at a time, spotting nearly twice as many mutations that turn genes on and off as our previous model."
+        },
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 15999,
+          "like_count": 181,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120532824465805749",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Looking at a whole tissue at once is like looking at a blurry image: you get the visuals, but miss what’s happening inside individual pixels.\n\nTrained on 100M+ profiles across 68 tissues, AlphaGenome 2 focuses on one cell type at a time, spotting nearly twice as many mutations https://t.co/SO22t242rh"
+      },
+      {
+        "author_id": "1146020472",
+        "conversation_id": "2120532824465805749",
+        "created_at": "2026-11-11T18:45:46.000Z",
+        "edit_history_tweet_ids": [
+          "2120588813118693598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1483051266",
+              "start": 0,
+              "username": "TheElliottSmith"
+            },
+            {
+              "end": 32,
+              "id": "4783690002",
+              "start": 17,
+              "username": "GoogleDeepMind"
+            }
+          ]
+        },
+        "id": "2120588813118693598",
+        "in_reply_to_user_id": "1483051266",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120535797657198833",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@TheElliottSmith @GoogleDeepMind You don’t even need AI. We already know the answer. The mutated gene may not expressed in all cell types. Our proteomes differ wildly between cell types."
+      },
+      {
+        "author_id": "2025045221114085378",
+        "conversation_id": "2120532824465805749",
+        "created_at": "2026-11-11T22:43:51.000Z",
+        "edit_history_tweet_ids": [
+          "2120648730265448465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 21,
+              "id": "4783690002",
+              "start": 6,
+              "username": "GoogleDeepMind"
+            },
+            {
+              "end": 27,
+              "id": "1720665183188922368",
+              "start": 22,
+              "username": "grok"
+            }
+          ]
+        },
+        "id": "2120648730265448465",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120620072494412061",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@grok @GoogleDeepMind @grok id i get my dna sequence from a lab done and I submit it then what all things can i possibly get to know. Tell me in layman terms"
+      },
+      {
+        "author_id": "805473146186952704",
+        "conversation_id": "2120532824465805749",
+        "created_at": "2026-11-11T18:49:34.000Z",
+        "edit_history_tweet_ids": [
+          "2120589769847795756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1655936149733654530",
+              "start": 0,
+              "username": "IterIntellectus"
+            },
+            {
+              "end": 32,
+              "id": "4783690002",
+              "start": 17,
+              "username": "GoogleDeepMind"
+            }
+          ]
+        },
+        "id": "2120589769847795756",
+        "in_reply_to_user_id": "1655936149733654530",
+        "lang": "en",
+        "note_tweet": {
+          "text": "How about now?\n\nIf Elon Musk is a Third Party Expert to evaluate my medical discovery of the Synchronizing Mechanism in the human body that controls aging and lifespan, I am certain that he will affirm my medical discovery. This discovery is more than longevity, it will be the normalization of lifespans decades longer."
+        },
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120542291354169543",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@IterIntellectus @GoogleDeepMind How about now?\n\nIf Elon Musk is a Third Party Expert to evaluate my medical discovery of the Synchronizing Mechanism in the human body that controls aging and lifespan, I am certain that he will affirm my medical discovery. This discovery is more than longevity, it will be the"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2119183894180204545"
+          ]
+        },
+        "author_id": "1717760644017954816",
+        "conversation_id": "2119183897103667636",
+        "created_at": "2026-11-07T21:43:08.000Z",
+        "edit_history_tweet_ids": [
+          "2119183897103667636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1349333725235060736",
+              "start": 7,
+              "username": "IsomorphicLabs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pErMumIRg7",
+              "end": 304,
+              "expanded_url": "https://x.com/NIASCEND/status/2119183897103667636/photo/1",
+              "media_key": "3_2119183894180204545",
+              "start": 281,
+              "url": "https://t.co/pErMumIRg7"
+            },
+            {
+              "display_url": "x.com/niascend/statu…",
+              "end": 328,
+              "expanded_url": "https://twitter.com/niascend/status/2119096231360164117",
+              "start": 305,
+              "url": "https://t.co/fjku4LjDZa"
+            }
+          ]
+        },
+        "id": "2119183897103667636",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 314,
+          "like_count": 2,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2119096231360164117",
+            "type": "quoted"
+          }
+        ],
+        "text": "Didn’t @IsomorphicLabs blow $2+ billion already to figure out the culprit behind protein misfolding as how to intervene for the “cure for all diseases” and to “live forever”?\n\nDmitry Intelligence ALREADY knew that it’s the unaddressed need for nicotinic acid + DL-tryp supplement! https://t.co/pErMumIRg7 https://t.co/fjku4LjDZa"
+      },
+      {
+        "author_id": "1720665183188922368",
+        "conversation_id": "2120532824465805749",
+        "created_at": "2026-11-11T20:49:59.000Z",
+        "edit_history_tweet_ids": [
+          "2120620072494412061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2025045221114085378",
+              "start": 0,
+              "username": "HarshGupta_0808"
+            },
+            {
+              "end": 32,
+              "id": "4783690002",
+              "start": 17,
+              "username": "GoogleDeepMind"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Using AI to understand the human genome",
+              "display_url": "alphagenome.google",
+              "end": 192,
+              "expanded_url": "https://alphagenome.google",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2120535986434109440/OD-pkMs3?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2120535986434109440/OD-pkMs3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 169,
+              "status": 200,
+              "title": "AlphaGenome",
+              "unwound_url": "https://deepmind.google/science/alphagenome/",
+              "url": "https://t.co/P1KsLOC24n"
+            }
+          ]
+        },
+        "id": "2120620072494412061",
+        "in_reply_to_user_id": "2025045221114085378",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "alphagenome.google",
+                "end": 159,
+                "expanded_url": "http://alphagenome.google",
+                "start": 136,
+                "url": "https://t.co/JuHxlKRSci"
+              }
+            ]
+          },
+          "text": "Not fully open-source: client code is Apache-licensed, but AlphaGenome 2 runs via free API for non-commercial research only (get key at https://t.co/JuHxlKRSci). Commercial is private preview (no public pricing yet).\n\nReal uses: research on disease drivers—e.g., how variants hit specific cells in IBD, immune responses, diabetes or heart conditions—to prioritize experiments and GWAS hits. Research-only, not clinical.\n\nLayman workflows: none practical. Needs DNA sequences, cell data, Python/API skills. Scientists use Colab tutorials to score variants under cell conditions. Not for personal genetics."
+        },
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120619953673928817",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@HarshGupta_0808 @GoogleDeepMind Not fully open-source: client code is Apache-licensed, but AlphaGenome 2 runs via free API for non-commercial research only (get key at https://t.co/P1KsLOC24n). Commercial is private preview (no public pricing yet).\n\nReal uses: research on disease drivers—e.g., how variants hit"
+      }
+    ],
+    "users": [
+      {
+        "id": "1435654190605479942",
+        "name": "Basit Shah",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093057899165843456/7Lxqa1IC_normal.jpg",
+        "public_metrics": {
+          "followers_count": 23388,
+          "following_count": 1411,
+          "like_count": 7435,
+          "listed_count": 3,
+          "media_count": 443,
+          "tweet_count": 4663
+        },
+        "username": "iambasitshah",
+        "verified": false
+      },
+      {
+        "id": "4783690002",
+        "name": "Google DeepMind",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1606260,
+          "following_count": 268,
+          "like_count": 2959,
+          "listed_count": 19038,
+          "media_count": 2011,
+          "tweet_count": 4628
+        },
+        "username": "GoogleDeepMind",
+        "verified": true
+      },
+      {
+        "id": "1730211603386073088",
+        "name": "CatGod",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889160228328906752/Ly5VQCVa_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 2080,
+          "like_count": 640,
+          "listed_count": 8,
+          "media_count": 7,
+          "tweet_count": 112991
+        },
+        "username": "CatGodSandHive",
+        "verified": false
+      },
+      {
+        "id": "1894854904952561664",
+        "name": "The Curiosity Index",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120605123806175232/Jr-7c9BK_normal.jpg",
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 25,
+          "like_count": 20,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "CurioIndex",
+        "verified": false
+      },
+      {
+        "id": "1563080581302235137",
+        "name": "Riley（Fo me 💯% Fo back）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119619302722772993/b_yxjoPv_normal.jpg",
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 360,
+          "like_count": 775,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 494
+        },
+        "username": "ClaesBang3",
+        "verified": false
+      },
+      {
+        "id": "2217782832",
+        "name": "Jeff Low",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1248245939757666306/8ENOEdB2_normal.jpg",
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 557,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 28
+        },
+        "username": "profjefflow",
+        "verified": false
+      },
+      {
+        "id": "263606970",
+        "name": "jingyanzhang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090430368860266497/AfUvgQbE_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 43
+        },
+        "username": "minimaniwo",
+        "verified": false
+      },
+      {
+        "id": "989965718",
+        "name": "Skeptical Optimist",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037052826514595840/yZS6e-aO_normal.jpg",
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 1440,
+          "like_count": 43880,
+          "listed_count": 4,
+          "media_count": 231,
+          "tweet_count": 7597
+        },
+        "username": "killerdeals24",
+        "verified": false
+      },
+      {
+        "id": "856357866",
+        "name": "ai木生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019375031357464576/rSJv2fRR_normal.jpg",
+        "public_metrics": {
+          "followers_count": 4099,
+          "following_count": 3224,
+          "like_count": 8383,
+          "listed_count": 3,
+          "media_count": 737,
+          "tweet_count": 8339
+        },
+        "username": "aimusheng",
+        "verified": false
+      },
+      {
+        "id": "2070926177573740544",
+        "name": "V",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070943120976465920/BOQm-s7c_normal.jpg",
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 127,
+          "like_count": 6915,
+          "listed_count": 1,
+          "media_count": 1773,
+          "tweet_count": 5012
+        },
+        "username": "Vic_x_Irem",
+        "verified": false
+      },
+      {
+        "id": "2109231484767031296",
+        "name": "Bot Bites",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109232277695889408/sEzLRo0n_normal.jpg",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 95
+        },
+        "username": "thebotbites",
+        "verified": false
+      },
+      {
+        "id": "757940114949537792",
+        "name": "Sulaiman Vesal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106906634916352000/V_uVJEDS_normal.jpg",
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 292,
+          "like_count": 267,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 745
+        },
+        "username": "sulaiman_svesal",
+        "verified": false
+      },
+      {
+        "id": "1493026418518855683",
+        "name": "Albert Lewis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1496926954674700292/pjqsf508_normal.jpg",
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 969,
+          "like_count": 647294,
+          "listed_count": 3,
+          "media_count": 248,
+          "tweet_count": 10273
+        },
+        "username": "AlbertJLewis6",
+        "verified": false
+      },
+      {
+        "id": "1146020472",
+        "name": ".",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120618088261394432/aXrt8po4_normal.jpg",
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 24,
+          "like_count": 423,
+          "listed_count": 4,
+          "media_count": 43,
+          "tweet_count": 2083
+        },
+        "username": "hocowarrior",
+        "verified": false
+      },
+      {
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "public_metrics": {
+          "followers_count": 9373845,
+          "following_count": 4,
+          "like_count": 146,
+          "listed_count": 8154,
+          "media_count": 4076226,
+          "tweet_count": 148531469
+        },
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "id": "2025045221114085378",
+        "name": "Harsh Gupta",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025045369940594688/K0yxbhj5_normal.png",
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 40,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 67
+        },
+        "username": "HarshGupta_0808",
+        "verified": false
+      },
+      {
+        "id": "1717760644017954816",
+        "name": "NIASCEND",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108820966763618304/JzS7d6TR_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1371,
+          "following_count": 485,
+          "like_count": 3228,
+          "listed_count": 11,
+          "media_count": 5254,
+          "tweet_count": 36710
+        },
+        "username": "NIASCEND",
+        "verified": false
+      },
+      {
+        "id": "805473146186952704",
+        "name": "Christopher",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780824271024979968/jFQUb9TK_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1211,
+          "following_count": 465,
+          "like_count": 19778,
+          "listed_count": 15,
+          "media_count": 62,
+          "tweet_count": 7830
+        },
+        "username": "Christopher_01",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120680112362500397",
+    "next_token": "b26v89c19zqg8o3juzovcamxjeotlskx6iy4p799yf3b1",
+    "oldest_id": "2120648730265448465",
+    "result_count": 15
+  }
+}

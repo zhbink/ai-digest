@@ -1,0 +1,223 @@
+{
+  "data": [
+    {
+      "author_id": "1625643075790942210",
+      "created_at": "2026-11-12T00:26:24.000Z",
+      "edit_history_tweet_ids": [
+        "2120674536219930871"
+      ],
+      "id": "2120674536219930871",
+      "in_reply_to_user_id": "1449572891956166657",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120645286519562294",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LumaLabsAI AI-powered editing is making creative workflows more accessible. The ability to refine characters and scenes with precision opens up exciting possibilities for creators.",
+      "url": "https://x.com/jji1jj/status/2120674536219930871"
+    },
+    {
+      "author_id": "1625643075790942210",
+      "created_at": "2026-11-12T00:25:28.000Z",
+      "edit_history_tweet_ids": [
+        "2120674302785962042"
+      ],
+      "id": "2120674302785962042",
+      "in_reply_to_user_id": "1449572891956166657",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120645286519562294",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LumaLabsAI Character swapping and object replacement in the same shot is a major step forward. This makes AI-powered video editing more flexible and efficient.",
+      "url": "https://x.com/jji1jj/status/2120674302785962042"
+    },
+    {
+      "author_id": "1941244522001989634",
+      "created_at": "2026-11-11T23:00:42.000Z",
+      "edit_history_tweet_ids": [
+        "2120652971717345334"
+      ],
+      "id": "2120652971717345334",
+      "in_reply_to_user_id": "1449572891956166657",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120645286519562294",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LumaLabsAI Swapping the cast without reshooting is insane. Client revisions just went from a week to a prompt 🚀",
+      "url": "https://x.com/josesilesdata/status/2120652971717345334"
+    },
+    {
+      "author_id": "1271726528695541761",
+      "created_at": "2026-11-11T22:56:43.000Z",
+      "edit_history_tweet_ids": [
+        "2120651966128726245"
+      ],
+      "id": "2120651966128726245",
+      "in_reply_to_user_id": "1449572891956166657",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120645286519562294",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LumaLabsAI Le « même plan, autre casting » en une phrase, c’est parlant. Reste à voir si les raccords de lumière et de mouvement tiennent quand le personnage bouge vraiment. Tu l’as vu sur un plan long ?",
+      "url": "https://x.com/VanessaDuranta/status/2120651966128726245"
+    },
+    {
+      "author_id": "1449572891956166657",
+      "created_at": "2026-11-11T22:30:11.000Z",
+      "edit_history_tweet_ids": [
+        "2120645289237229656"
+      ],
+      "id": "2120645289237229656",
+      "in_reply_to_user_id": "1449572891956166657",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 912,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120645286519562294",
+          "type": "replied_to"
+        }
+      ],
+      "text": "https://t.co/INMudBCdKe",
+      "url": "https://x.com/LumaLabsAI/status/2120645289237229656"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2120642139004497920"
+          ]
+        },
+        "author_id": "1449572891956166657",
+        "created_at": "2026-11-11T22:30:10.000Z",
+        "edit_history_tweet_ids": [
+          "2120645286519562294"
+        ],
+        "id": "2120645286519562294",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2468,
+          "like_count": 8,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "text": "The client has notes. Swap the cast, swap the car, add a dog, take someone out. Same shot.\n\nCharacter Swap &amp; Insert is now in Luma. https://t.co/d7Owr2EbID"
+      }
+    ],
+    "users": [
+      {
+        "id": "1625643075790942210",
+        "name": "MR ANDERSON",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048076773976657920/yKCRQh88_normal.jpg",
+        "public_metrics": {
+          "followers_count": 32184,
+          "following_count": 13004,
+          "like_count": 21468,
+          "listed_count": 9,
+          "media_count": 601,
+          "tweet_count": 19778
+        },
+        "username": "jji1jj",
+        "verified": false
+      },
+      {
+        "id": "1449572891956166657",
+        "name": "Luma",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861041306258288640/V5yJEmjK_normal.jpg",
+        "public_metrics": {
+          "followers_count": 196241,
+          "following_count": 58,
+          "like_count": 9894,
+          "listed_count": 2232,
+          "media_count": 1412,
+          "tweet_count": 6220
+        },
+        "username": "LumaLabsAI",
+        "verified": true
+      },
+      {
+        "id": "1941244522001989634",
+        "name": "José Siles | AI | Data",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021598903444078592/TQyIwxuo_normal.jpg",
+        "public_metrics": {
+          "followers_count": 34865,
+          "following_count": 3334,
+          "like_count": 13800,
+          "listed_count": 245,
+          "media_count": 1215,
+          "tweet_count": 10552
+        },
+        "username": "josesilesdata",
+        "verified": false
+      },
+      {
+        "id": "1271726528695541761",
+        "name": "Vanessa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102651303914569728/5YAWi2IN_normal.jpg",
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 27,
+          "like_count": 20,
+          "listed_count": 3,
+          "media_count": 1416,
+          "tweet_count": 1787
+        },
+        "username": "VanessaDuranta",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120674536219930871",
+    "next_token": "b26v89c19zqg8o3juzovcamxetrbwl8pzspfdcnobixkt",
+    "oldest_id": "2120645289237229656",
+    "result_count": 5
+  }
+}

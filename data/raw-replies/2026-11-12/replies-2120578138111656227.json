@@ -1,0 +1,638 @@
+{
+  "data": [
+    {
+      "author_id": "2353065705",
+      "created_at": "2026-11-12T01:00:38.000Z",
+      "edit_history_tweet_ids": [
+        "2120683152297603263"
+      ],
+      "id": "2120683152297603263",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120578138111656227",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml wow",
+      "url": "https://x.com/titlejt/status/2120683152297603263"
+    },
+    {
+      "author_id": "1663938447428694016",
+      "created_at": "2026-11-11T21:50:46.000Z",
+      "edit_history_tweet_ids": [
+        "2120635372455821662"
+      ],
+      "id": "2120635372455821662",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 172,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120578138111656227",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml Great. Now please extend the unlimited plan for 3 more months please 🙏",
+      "url": "https://x.com/tinkernode/status/2120635372455821662"
+    },
+    {
+      "author_id": "2082265339266465792",
+      "created_at": "2026-11-11T21:40:46.000Z",
+      "edit_history_tweet_ids": [
+        "2120632855294271934"
+      ],
+      "id": "2120632855294271934",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120578138111656227",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml and kaboom goes your credit bank too",
+      "url": "https://x.com/Claude_to_max/status/2120632855294271934"
+    },
+    {
+      "author_id": "1587673526177144832",
+      "created_at": "2026-11-11T21:04:00.000Z",
+      "edit_history_tweet_ids": [
+        "2120623602127269900"
+      ],
+      "id": "2120623602127269900",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120578138111656227",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml Seedance 2.5上Runway很方便：我每天出几十条AI短视频，先用1080p批量选片，只有数据好的才上4K。想问雪地这类细节多的画面，4K会不会糊掉人物边缘？你们建议直接4K还是先低分辨率筛？",
+      "url": "https://x.com/clyve2022/status/2120623602127269900"
+    },
+    {
+      "author_id": "2115425384514617346",
+      "created_at": "2026-11-11T19:17:56.000Z",
+      "edit_history_tweet_ids": [
+        "2120596909639545225"
+      ],
+      "id": "2120596909639545225",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120578138111656227",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml native 4k is the part that matters for real deliverables. how does it handle text in frame",
+      "url": "https://x.com/merkworkin/status/2120596909639545225"
+    },
+    {
+      "author_id": "104778145",
+      "created_at": "2026-11-11T19:14:42.000Z",
+      "edit_history_tweet_ids": [
+        "2120596096938578160"
+      ],
+      "id": "2120596096938578160",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 208,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120578138111656227",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml Native 4K still tests temporal consistency.",
+      "url": "https://x.com/agneau123/status/2120596096938578160"
+    },
+    {
+      "author_id": "2111273592948400128",
+      "created_at": "2026-11-11T18:46:54.000Z",
+      "edit_history_tweet_ids": [
+        "2120589100101275879"
+      ],
+      "id": "2120589100101275879",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120578138111656227",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml Native 4K matters most for people delivering client work, where upscaling used to be one more step. Curious how it holds up on fast motion and on-screen text at that resolution.",
+      "url": "https://x.com/WhichAITools/status/2120589100101275879"
+    },
+    {
+      "author_id": "1809442497938223105",
+      "created_at": "2026-11-11T18:45:40.000Z",
+      "edit_history_tweet_ids": [
+        "2120588787315052669"
+      ],
+      "id": "2120588787315052669",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120578138111656227",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml 4K matters most when a generated shot has to sit next to real camera footage in the grade. Curious how much latitude these files have once you push contrast and match skin tones.",
+      "url": "https://x.com/Mediajumphq/status/2120588787315052669"
+    },
+    {
+      "author_id": "2733530052",
+      "created_at": "2026-11-11T18:30:13.000Z",
+      "edit_history_tweet_ids": [
+        "2120584901837914599"
+      ],
+      "id": "2120584901837914599",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 202,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120578138111656227",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml huge",
+      "url": "https://x.com/ktrivs/status/2120584901837914599"
+    },
+    {
+      "author_id": "1756913122055786496",
+      "created_at": "2026-11-11T18:28:29.000Z",
+      "edit_history_tweet_ids": [
+        "2120584465026367770"
+      ],
+      "id": "2120584465026367770",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 296,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120578138111656227",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml $600 for 30 seconds. Credit/token cost is out of control.",
+      "url": "https://x.com/CC8586211022842/status/2120584465026367770"
+    },
+    {
+      "author_id": "1993253573065601025",
+      "created_at": "2026-11-11T18:28:07.000Z",
+      "edit_history_tweet_ids": [
+        "2120584372701249883"
+      ],
+      "id": "2120584372701249883",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 175,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120578138111656227",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml Wow that's Amazing 😍👏😻",
+      "url": "https://x.com/AiwithNomi/status/2120584372701249883"
+    },
+    {
+      "author_id": "2117342934135910400",
+      "created_at": "2026-11-11T18:24:58.000Z",
+      "edit_history_tweet_ids": [
+        "2120583581160583524"
+      ],
+      "id": "2120583581160583524",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120578138111656227",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml Native 4K takes AI video generation to another level. 🔥 The combination of cinematic quality and faster creative workflows is a huge win for creators and marketers.",
+      "url": "https://x.com/AdveraLabs/status/2120583581160583524"
+    },
+    {
+      "author_id": "2093212147014938624",
+      "created_at": "2026-11-11T18:22:32.000Z",
+      "edit_history_tweet_ids": [
+        "2120582965243842843"
+      ],
+      "id": "2120582965243842843",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 389,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120578138111656227",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml we run 2.5 at 1080p, 8 s is 200 credits for us. curious if the snow in that frame holds up at 4K",
+      "url": "https://x.com/Reelflow_AI/status/2120582965243842843"
+    },
+    {
+      "author_id": "2018991920173785088",
+      "created_at": "2026-11-11T18:09:19.000Z",
+      "edit_history_tweet_ids": [
+        "2120579642029756587"
+      ],
+      "id": "2120579642029756587",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120578138111656227",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml 4K makes the ugly motion errors harder to hide",
+      "url": "https://x.com/violetainsights/status/2120579642029756587"
+    },
+    {
+      "author_id": "1001114465692200960",
+      "created_at": "2026-11-11T18:03:21.000Z",
+      "edit_history_tweet_ids": [
+        "2120578140758245850"
+      ],
+      "id": "2120578140758245850",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2242,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120578138111656227",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Get started: https://t.co/8SmJnj6nTS",
+      "url": "https://x.com/runwayml/status/2120578140758245850"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2120577792148430849"
+          ]
+        },
+        "author_id": "1001114465692200960",
+        "created_at": "2026-11-11T18:03:21.000Z",
+        "edit_history_tweet_ids": [
+          "2120578138111656227"
+        ],
+        "id": "2120578138111656227",
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 24571,
+          "like_count": 195,
+          "quote_count": 12,
+          "reply_count": 15,
+          "retweet_count": 16
+        },
+        "text": "Seedance 2.5 in 4K is here.\n\nNow available in Runway. https://t.co/brtulNhZAd"
+      }
+    ],
+    "users": [
+      {
+        "id": "2353065705",
+        "name": "Janice 🟧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120055904167223296/__CjAVrd_normal.jpg",
+        "public_metrics": {
+          "followers_count": 5028,
+          "following_count": 2541,
+          "like_count": 120753,
+          "listed_count": 25,
+          "media_count": 3514,
+          "tweet_count": 85474
+        },
+        "username": "titlejt",
+        "verified": false
+      },
+      {
+        "id": "1001114465692200960",
+        "name": "Runway",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
+        "public_metrics": {
+          "followers_count": 296241,
+          "following_count": 362,
+          "like_count": 9016,
+          "listed_count": 3872,
+          "media_count": 1378,
+          "tweet_count": 3196
+        },
+        "username": "runwayml",
+        "verified": true
+      },
+      {
+        "id": "1663938447428694016",
+        "name": "@tinkernode",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996688034784595970/vFteTSNt_normal.jpg",
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 388,
+          "like_count": 14727,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 984
+        },
+        "username": "tinkernode",
+        "verified": false
+      },
+      {
+        "id": "2082265339266465792",
+        "name": "Theo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108248743237586944/uuqeZg7B_normal.jpg",
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 28,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 24
+        },
+        "username": "Claude_to_max",
+        "verified": false
+      },
+      {
+        "id": "1587673526177144832",
+        "name": "clyve2022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105800220231565312/CKrbz_Z6_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1413,
+          "following_count": 2424,
+          "like_count": 1749,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 2362
+        },
+        "username": "clyve2022",
+        "verified": false
+      },
+      {
+        "id": "2115425384514617346",
+        "name": "Oleksandr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115425873641754624/pOk7bVnT_normal.jpg",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 41,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 39
+        },
+        "username": "merkworkin",
+        "verified": false
+      },
+      {
+        "id": "104778145",
+        "name": "Tommy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100208275597959168/SoZBzjni_normal.jpg",
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 184,
+          "like_count": 5811,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 2516
+        },
+        "username": "agneau123",
+        "verified": false
+      },
+      {
+        "id": "2111273592948400128",
+        "name": "Leilani",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2113398454819110913/an_cTxAI_normal.jpg",
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 81,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 75
+        },
+        "username": "WhichAITools",
+        "verified": false
+      },
+      {
+        "id": "1809442497938223105",
+        "name": "Mediajump",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118739822449700864/Cop4PtyS_normal.jpg",
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 71,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 89
+        },
+        "username": "Mediajumphq",
+        "verified": false
+      },
+      {
+        "id": "2733530052",
+        "name": "the dutchess of bushwick",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119824302853787648/eP6qTH8j_normal.jpg",
+        "public_metrics": {
+          "followers_count": 6192,
+          "following_count": 2630,
+          "like_count": 81461,
+          "listed_count": 41,
+          "media_count": 1089,
+          "tweet_count": 9776
+        },
+        "username": "ktrivs",
+        "verified": false
+      },
+      {
+        "id": "1756913122055786496",
+        "name": "C C",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756913208466808832/4jN3WE-e_normal.png",
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 116,
+          "like_count": 12271,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 760
+        },
+        "username": "CC8586211022842",
+        "verified": false
+      },
+      {
+        "id": "1993253573065601025",
+        "name": "Nomi AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072503692692180993/JaLx4Gs8_normal.jpg",
+        "public_metrics": {
+          "followers_count": 13407,
+          "following_count": 1724,
+          "like_count": 29749,
+          "listed_count": 13,
+          "media_count": 298,
+          "tweet_count": 18033
+        },
+        "username": "AiwithNomi",
+        "verified": false
+      },
+      {
+        "id": "2117342934135910400",
+        "name": "Mahesh Bhandari",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117344086411935744/jQLOVg8R_normal.jpg",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 36,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 70
+        },
+        "username": "AdveraLabs",
+        "verified": false
+      },
+      {
+        "id": "2093212147014938624",
+        "name": "ReelFlow",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099419745179275264/krnqXAcB_normal.jpg",
+        "public_metrics": {
+          "followers_count": 4890,
+          "following_count": 48,
+          "like_count": 246,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 552
+        },
+        "username": "Reelflow_AI",
+        "verified": false
+      },
+      {
+        "id": "2018991920173785088",
+        "name": "Violeta Insights",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046916057693081600/RDaUS2gT_normal.jpg",
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 717,
+          "like_count": 853,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 3211
+        },
+        "username": "violetainsights",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120683152297603263",
+    "next_token": "b26v89c19zqg8o3juzovc8j3rbknk6btd29cbm72b9yf1",
+    "oldest_id": "2120578140758245850",
+    "result_count": 15
+  }
+}

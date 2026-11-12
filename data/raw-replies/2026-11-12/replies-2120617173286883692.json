@@ -1,0 +1,985 @@
+{
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2120680022226726912"
+        ]
+      },
+      "author_id": "618234806",
+      "conversation_id": "2120617173286883692",
+      "created_at": "2026-11-12T00:48:13.000Z",
+      "edit_history_tweet_ids": [
+        "2120680025343074458"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "740238495952736256",
+            "start": 0,
+            "username": "NVIDIAAI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/6VwsUIifvd",
+            "end": 33,
+            "expanded_url": "https://x.com/Bamf27_27/status/2120680025343074458/photo/1",
+            "media_key": "3_2120680022226726912",
+            "start": 10,
+            "url": "https://t.co/6VwsUIifvd"
+          }
+        ]
+      },
+      "id": "2120680025343074458",
+      "in_reply_to_user_id": "740238495952736256",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120617173286883692",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@NVIDIAAI https://t.co/6VwsUIifvd",
+      "url": "https://x.com/Bamf27_27/status/2120680025343074458"
+    },
+    {
+      "author_id": "2018065666482339842",
+      "conversation_id": "2120617173286883692",
+      "created_at": "2026-11-11T23:35:53.000Z",
+      "edit_history_tweet_ids": [
+        "2120661824546754716"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "740238495952736256",
+            "start": 0,
+            "username": "NVIDIAAI"
+          }
+        ]
+      },
+      "id": "2120661824546754716",
+      "in_reply_to_user_id": "740238495952736256",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120617173286883692",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@NVIDIAAI the useful bit for me is choosing 8-16 refinement steps from one checkpoint. i'd compare reconstruction quality at a fixed latency budget, rather than treating the parameter count alone as the efficiency result",
+      "url": "https://x.com/worldblinkbrief/status/2120661824546754716"
+    },
+    {
+      "author_id": "2020451686225973248",
+      "conversation_id": "2120617173286883692",
+      "created_at": "2026-11-11T23:18:53.000Z",
+      "edit_history_tweet_ids": [
+        "2120657545945612394"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "740238495952736256",
+            "start": 0,
+            "username": "NVIDIAAI"
+          }
+        ],
+        "urls": [
+          {
+            "description": "EVERGREEN BODY FOREVER. Discover premium ebooks, fitness and nutrition resources, business knowledge, AI tools, personal development guides, and digital bundles designed to help you learn, grow, and improve your life.",
+            "display_url": "digibookstore.eu",
+            "end": 284,
+            "expanded_url": "https://digibookstore.eu",
+            "images": [
+              {
+                "height": 535,
+                "url": "https://pbs.twimg.com/news_img/2120637246789324800/7BFCfx_H?format=jpg&name=orig",
+                "width": 1024
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2120637246789324800/7BFCfx_H?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 261,
+            "status": 200,
+            "title": "DigiBookStore.eu | EVERGREEN BODY FOREVER — Digital Knowledge, Courses & Resources",
+            "unwound_url": "https://digibookstore.eu",
+            "url": "https://t.co/4GTOCwaLW0"
+          }
+        ]
+      },
+      "id": "2120657545945612394",
+      "in_reply_to_user_id": "740238495952736256",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120617173286883692",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@NVIDIAAI Introducing Déjà View, a 117M-parameter model that turns photos taken from different angles into 3D geometry and camera positions by looping a single transformer block, matches or outperforms models up to 10x larger. For turning text to audio on Mac: https://t.co/4GTOCwaLW0",
+      "url": "https://x.com/CocoCornel31/status/2120657545945612394"
+    },
+    {
+      "author_id": "940838449363476486",
+      "conversation_id": "2120617173286883692",
+      "created_at": "2026-11-11T22:48:35.000Z",
+      "edit_history_tweet_ids": [
+        "2120649920663404592"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "740238495952736256",
+            "start": 0,
+            "username": "NVIDIAAI"
+          }
+        ]
+      },
+      "id": "2120649920663404592",
+      "in_reply_to_user_id": "740238495952736256",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 73,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120617173286883692",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@NVIDIAAI For building inspections, I’d be keen to see this on plain walls, repeating tiles and tight corners. How far do extra loops help on those scenes before better photo coverage matters more? That would help work out what to capture on site.",
+      "url": "https://x.com/kevinlysocial/status/2120649920663404592"
+    },
+    {
+      "author_id": "1110297408859185152",
+      "conversation_id": "2120617173286883692",
+      "created_at": "2026-11-11T22:36:35.000Z",
+      "edit_history_tweet_ids": [
+        "2120646900193873981"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "740238495952736256",
+            "start": 0,
+            "username": "NVIDIAAI"
+          }
+        ]
+      },
+      "id": "2120646900193873981",
+      "in_reply_to_user_id": "740238495952736256",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 105,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120617173286883692",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@NVIDIAAI How does it well does it avoid distortions over long distances?",
+      "url": "https://x.com/GeringerAdam/status/2120646900193873981"
+    },
+    {
+      "author_id": "2104597698578153472",
+      "conversation_id": "2120617173286883692",
+      "created_at": "2026-11-11T22:31:24.000Z",
+      "edit_history_tweet_ids": [
+        "2120645594419282268"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "740238495952736256",
+            "start": 0,
+            "username": "NVIDIAAI"
+          }
+        ]
+      },
+      "id": "2120645594419282268",
+      "in_reply_to_user_id": "740238495952736256",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120617173286883692",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@NVIDIAAI A 117M model matching models 10x larger is the real story here. Looping one block instead of stacking more of them could make 3D reconstruction cheap enough for everyday creators, not just labs.",
+      "url": "https://x.com/JulianLiu0414/status/2120645594419282268"
+    },
+    {
+      "author_id": "46498861",
+      "conversation_id": "2120617173286883692",
+      "created_at": "2026-11-11T22:30:08.000Z",
+      "edit_history_tweet_ids": [
+        "2120645277321400678"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "740238495952736256",
+            "start": 0,
+            "username": "NVIDIAAI"
+          }
+        ]
+      },
+      "id": "2120645277321400678",
+      "in_reply_to_user_id": "740238495952736256",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120617173286883692",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@NVIDIAAI Smaller beating bigger is the detail that matters. If a 117 million parameter model can match models ten times its size, the advantage shifts from raw scale to clever reuse. Efficiency like this is what lets good ideas run on ordinary hardware, not just in a lab.",
+      "url": "https://x.com/raulnogales/status/2120645277321400678"
+    },
+    {
+      "author_id": "2115838373319307264",
+      "conversation_id": "2120617173286883692",
+      "created_at": "2026-11-11T22:22:35.000Z",
+      "edit_history_tweet_ids": [
+        "2120643379180507293"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "740238495952736256",
+            "start": 0,
+            "username": "NVIDIAAI"
+          }
+        ]
+      },
+      "id": "2120643379180507293",
+      "in_reply_to_user_id": "740238495952736256",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 20,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120617173286883692",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@NVIDIAAI Looping trades parameters for FLOPs, so \"10x smaller\" needs an accuracy-vs-FLOPs curve against the larger models, plus latency and activation memory. Two questions: does accuracy extrapolate past the loop count seen in training, and does the per-loop gain saturate or oscillate?",
+      "url": "https://x.com/tfmlab/status/2120643379180507293"
+    },
+    {
+      "author_id": "1874666247356653568",
+      "conversation_id": "2120617173286883692",
+      "created_at": "2026-11-11T22:11:42.000Z",
+      "edit_history_tweet_ids": [
+        "2120640638408614194"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "740238495952736256",
+            "start": 0,
+            "username": "NVIDIAAI"
+          }
+        ]
+      },
+      "id": "2120640638408614194",
+      "in_reply_to_user_id": "740238495952736256",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 95,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120617173286883692",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@NVIDIAAI When dialing down the loop count for tighter compute budgets, how gracefully does the camera pose estimation degrade before the reconstructed 3D geometry starts collapsing into severe artifacts?",
+      "url": "https://x.com/DavisNc9527/status/2120640638408614194"
+    },
+    {
+      "author_id": "2865017136",
+      "conversation_id": "2120617173286883692",
+      "created_at": "2026-11-11T22:02:50.000Z",
+      "edit_history_tweet_ids": [
+        "2120638405906518440"
+      ],
+      "entities": {
+        "cashtags": [
+          {
+            "end": 279,
+            "start": 274,
+            "tag": "NVDA"
+          }
+        ],
+        "hashtags": [
+          {
+            "end": 283,
+            "start": 280,
+            "tag": "AI"
+          }
+        ],
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1183684577820319744",
+            "start": 0,
+            "username": "Mattffrench"
+          },
+          {
+            "end": 22,
+            "id": "740238495952736256",
+            "start": 13,
+            "username": "NVIDIAAI"
+          }
+        ]
+      },
+      "id": "2120638405906518440",
+      "in_reply_to_user_id": "1183684577820319744",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 15,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120626604829536407",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Mattffrench @NVIDIAAI 117M parameters alone can't establish phone viability. Hypothetical FP16 weights: 117M x 2 bytes = 234 MB, excluding activations/buffers. Reusing a block saves weights, not loop compute. Any peak RAM measurement at a stated view count and loop count? $NVDA #AI",
+      "url": "https://x.com/MarketObserveUS/status/2120638405906518440"
+    },
+    {
+      "author_id": "1672072752415531008",
+      "conversation_id": "2120617173286883692",
+      "created_at": "2026-11-11T21:46:35.000Z",
+      "edit_history_tweet_ids": [
+        "2120634319253196820"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "740238495952736256",
+            "start": 0,
+            "username": "NVIDIAAI"
+          }
+        ]
+      },
+      "id": "2120634319253196820",
+      "in_reply_to_user_id": "740238495952736256",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120617173286883692",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@NVIDIAAI A 117M model matching things 10x its size is the more interesting story this week. Most launches are just bigger. This one is smaller and still keeps up.",
+      "url": "https://x.com/phd_in_sleeping/status/2120634319253196820"
+    },
+    {
+      "author_id": "2119937648315752448",
+      "conversation_id": "2120617173286883692",
+      "created_at": "2026-11-11T21:44:31.000Z",
+      "edit_history_tweet_ids": [
+        "2120633796915761358"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "740238495952736256",
+            "start": 0,
+            "username": "NVIDIAAI"
+          }
+        ]
+      },
+      "id": "2120633796915761358",
+      "in_reply_to_user_id": "740238495952736256",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120617173286883692",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@NVIDIAAI Nice!",
+      "url": "https://x.com/AIBTReport/status/2120633796915761358"
+    },
+    {
+      "author_id": "104778145",
+      "conversation_id": "2120617173286883692",
+      "created_at": "2026-11-11T21:35:28.000Z",
+      "edit_history_tweet_ids": [
+        "2120631519404523854"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "740238495952736256",
+            "start": 0,
+            "username": "NVIDIAAI"
+          }
+        ]
+      },
+      "id": "2120631519404523854",
+      "in_reply_to_user_id": "740238495952736256",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 115,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120617173286883692",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@NVIDIAAI Looping one block still recovers multi-view geometry.",
+      "url": "https://x.com/agneau123/status/2120631519404523854"
+    },
+    {
+      "author_id": "727203854924701696",
+      "conversation_id": "2120617173286883692",
+      "created_at": "2026-11-11T21:35:22.000Z",
+      "edit_history_tweet_ids": [
+        "2120631494653657230"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "740238495952736256",
+            "start": 0,
+            "username": "NVIDIAAI"
+          }
+        ]
+      },
+      "id": "2120631494653657230",
+      "in_reply_to_user_id": "740238495952736256",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 237,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120617173286883692",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@NVIDIAAI freaking WILD to beat DA3 and at 1/10th the params. things are speeding up",
+      "url": "https://x.com/zzulanas/status/2120631494653657230"
+    },
+    {
+      "author_id": "2094528478611714048",
+      "conversation_id": "2120617173286883692",
+      "created_at": "2026-11-11T21:31:42.000Z",
+      "edit_history_tweet_ids": [
+        "2120630572511097222"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "740238495952736256",
+            "start": 0,
+            "username": "NVIDIAAI"
+          }
+        ]
+      },
+      "id": "2120630572511097222",
+      "in_reply_to_user_id": "740238495952736256",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 227,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120617173286883692",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@NVIDIAAI 117M params is so lean for 3D reconstruction model. Could this make multi-view geometry practical on edge platforms? curious to see some bench on edge hw",
+      "url": "https://x.com/JulesGiraud/status/2120630572511097222"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_2120680022226726912",
+        "type": "photo"
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2120616346136563712"
+          ]
+        },
+        "author_id": "740238495952736256",
+        "conversation_id": "2120617173286883692",
+        "created_at": "2026-11-11T20:38:27.000Z",
+        "edit_history_tweet_ids": [
+          "2120617173286883692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6tt1q03uni",
+              "end": 303,
+              "expanded_url": "https://x.com/NVIDIAAI/status/2120617173286883692/video/1",
+              "media_key": "13_2120616346136563712",
+              "start": 280,
+              "url": "https://t.co/6tt1q03uni"
+            }
+          ]
+        },
+        "id": "2120617173286883692",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 363,
+                "start": 351,
+                "tag": "NeurIPS2026"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "research.nvidia.com/labs/dvl/proje…",
+                "end": 406,
+                "expanded_url": "http://research.nvidia.com/labs/dvl/projects/dvlt",
+                "start": 383,
+                "url": "https://t.co/4jiCRA71Oo"
+              }
+            ]
+          },
+          "text": "Meet Déjà View, a model that turns photos taken from different angles into 3D geometry and camera positions.\n\nBy looping a single transformer block, this 117M-parameter model matches or outperforms models up to 10x larger across five benchmarks, using comparable or less compute. Researchers can dial the number of loops to fit their compute budget.\n\n#NeurIPS2026 oral paper + code: https://t.co/4jiCRA71Oo"
+        },
+        "public_metrics": {
+          "bookmark_count": 226,
+          "impression_count": 20651,
+          "like_count": 379,
+          "quote_count": 10,
+          "reply_count": 26,
+          "retweet_count": 44
+        },
+        "text": "Meet Déjà View, a model that turns photos taken from different angles into 3D geometry and camera positions.\n\nBy looping a single transformer block, this 117M-parameter model matches or outperforms models up to 10x larger across five benchmarks, using comparable or less compute. https://t.co/6tt1q03uni"
+      },
+      {
+        "author_id": "1183684577820319744",
+        "conversation_id": "2120617173286883692",
+        "created_at": "2026-11-11T21:15:56.000Z",
+        "edit_history_tweet_ids": [
+          "2120626604829536407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "740238495952736256",
+              "start": 0,
+              "username": "NVIDIAAI"
+            }
+          ]
+        },
+        "id": "2120626604829536407",
+        "in_reply_to_user_id": "740238495952736256",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 441,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120617173286883692",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@NVIDIAAI 117M params for that is tiny. does it run on a phone"
+      }
+    ],
+    "users": [
+      {
+        "id": "618234806",
+        "name": "A-B-C",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 144,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 960
+        },
+        "username": "Bamf27_27",
+        "verified": false
+      },
+      {
+        "id": "740238495952736256",
+        "name": "NVIDIA AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
+        "public_metrics": {
+          "followers_count": 362099,
+          "following_count": 906,
+          "like_count": 10793,
+          "listed_count": 5942,
+          "media_count": 6323,
+          "tweet_count": 14132
+        },
+        "username": "NVIDIAAI",
+        "verified": true
+      },
+      {
+        "id": "2018065666482339842",
+        "name": "World in a Blink",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106033519155642368/67azC6dV_normal.jpg",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 69,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 203
+        },
+        "username": "worldblinkbrief",
+        "verified": false
+      },
+      {
+        "id": "2020451686225973248",
+        "name": "Cornel Bindiu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120653321316843520/AAzV0be3_normal.jpg",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 130
+        },
+        "username": "CocoCornel31",
+        "verified": false
+      },
+      {
+        "id": "940838449363476486",
+        "name": "Kevin Ly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992869517622714369/Otdh3khz_normal.jpg",
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 2192,
+          "like_count": 965,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 810
+        },
+        "username": "kevinlysocial",
+        "verified": false
+      },
+      {
+        "id": "1110297408859185152",
+        "name": "Adam Geringer (she/it)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817309599235526656/rbdWZjaN_normal.jpg",
+        "public_metrics": {
+          "followers_count": 10552,
+          "following_count": 6020,
+          "like_count": 220173,
+          "listed_count": 45,
+          "media_count": 2595,
+          "tweet_count": 31967
+        },
+        "username": "GeringerAdam",
+        "verified": false
+      },
+      {
+        "id": "2104597698578153472",
+        "name": "Julian Liu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107528844026748928/0XgP988M_normal.jpg",
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 33,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1462
+        },
+        "username": "JulianLiu0414",
+        "verified": false
+      },
+      {
+        "id": "46498861",
+        "name": "Raúl Nogales 🇪🇸🇺🇸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109706748915257346/KZ0dWszM_normal.jpg",
+        "public_metrics": {
+          "followers_count": 14208,
+          "following_count": 169,
+          "like_count": 3792,
+          "listed_count": 103,
+          "media_count": 689,
+          "tweet_count": 14202
+        },
+        "username": "raulnogales",
+        "verified": false
+      },
+      {
+        "id": "2115838373319307264",
+        "name": "Jerry Liu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116145268919812096/fX0sGgT-_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 1231,
+          "like_count": 1936,
+          "listed_count": 1,
+          "media_count": 303,
+          "tweet_count": 1603
+        },
+        "username": "tfmlab",
+        "verified": false
+      },
+      {
+        "id": "1874666247356653568",
+        "name": "Davis.AI.Explorer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022706009148657665/Bm4mpQpm_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1398,
+          "following_count": 1501,
+          "like_count": 1445,
+          "listed_count": 4,
+          "media_count": 294,
+          "tweet_count": 5977
+        },
+        "username": "DavisNc9527",
+        "verified": false
+      },
+      {
+        "id": "2865017136",
+        "name": "The Market Observer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119569374680084480/D80mgSc6_normal.jpg",
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 241,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 91
+        },
+        "username": "MarketObserveUS",
+        "verified": false
+      },
+      {
+        "id": "1183684577820319744",
+        "name": "MattFfrench",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055672060639162368/vpk0_qSX_normal.jpg",
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 30,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 133
+        },
+        "username": "Mattffrench",
+        "verified": false
+      },
+      {
+        "id": "1672072752415531008",
+        "name": "Kyle Welch",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093246434019516416/WQgY2-NU_normal.jpg",
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 2,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 53
+        },
+        "username": "phd_in_sleeping",
+        "verified": false
+      },
+      {
+        "id": "2119937648315752448",
+        "name": "AI Breakthrough Report",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120361177322508289/zUmaI2tv_normal.jpg",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "username": "AIBTReport",
+        "verified": false
+      },
+      {
+        "id": "104778145",
+        "name": "Tommy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100208275597959168/SoZBzjni_normal.jpg",
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 184,
+          "like_count": 5811,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 2516
+        },
+        "username": "agneau123",
+        "verified": false
+      },
+      {
+        "id": "727203854924701696",
+        "name": "zach",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1451988918954516482/GabzM_wq_normal.jpg",
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 219,
+          "like_count": 2073,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 91
+        },
+        "username": "zzulanas",
+        "verified": false
+      },
+      {
+        "id": "2094528478611714048",
+        "name": "Jules",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2114816279857033216/NlqPwb41_normal.jpg",
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 283,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 150
+        },
+        "username": "JulesGiraud",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120680025343074458",
+    "next_token": "b26v89c19zqg8o3juzovcammetwsebcu36pj6uxp1mge5",
+    "oldest_id": "2120630572511097222",
+    "result_count": 15
+  }
+}

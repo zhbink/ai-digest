@@ -1,0 +1,253 @@
+{
+  "data": [
+    {
+      "author_id": "24679269",
+      "created_at": "2026-11-11T21:43:13.000Z",
+      "edit_history_tweet_ids": [
+        "2120633472280654114"
+      ],
+      "id": "2120633472280654114",
+      "in_reply_to_user_id": "1763302572767711232",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 17,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120592395167244781",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dreamina_ai amazing",
+      "url": "https://x.com/GumVue/status/2120633472280654114"
+    },
+    {
+      "author_id": "2052222204558151680",
+      "created_at": "2026-11-11T20:52:11.000Z",
+      "edit_history_tweet_ids": [
+        "2120620627069739313"
+      ],
+      "id": "2120620627069739313",
+      "in_reply_to_user_id": "1763302572767711232",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120592395167244781",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dreamina_ai 5 assets, one seamless story.\n\nThis paper-cut style is unreal.",
+      "url": "https://x.com/Maviya6v/status/2120620627069739313"
+    },
+    {
+      "author_id": "1359279697423646720",
+      "created_at": "2026-11-11T19:44:45.000Z",
+      "edit_history_tweet_ids": [
+        "2120603659000066434"
+      ],
+      "id": "2120603659000066434",
+      "in_reply_to_user_id": "1763302572767711232",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 16,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120592395167244781",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dreamina_ai They have the best model, but their viral videos often come 30 days or later after the hype has died down.",
+      "url": "https://x.com/VideosAIpro/status/2120603659000066434"
+    },
+    {
+      "author_id": "101367051",
+      "created_at": "2026-11-11T19:05:54.000Z",
+      "edit_history_tweet_ids": [
+        "2120593881519780117"
+      ],
+      "id": "2120593881519780117",
+      "in_reply_to_user_id": "1763302572767711232",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 23,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120592395167244781",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dreamina_ai This is interesting. I didn't think of it",
+      "url": "https://x.com/amynys/status/2120593881519780117"
+    },
+    {
+      "author_id": "2087941714300506117",
+      "created_at": "2026-11-11T19:03:17.000Z",
+      "edit_history_tweet_ids": [
+        "2120593223546745123"
+      ],
+      "id": "2120593223546745123",
+      "in_reply_to_user_id": "1763302572767711232",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120592395167244781",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dreamina_ai Layering simple assets into one continuous animated story is such a clever creative approach",
+      "url": "https://x.com/ClaraOnAI/status/2120593223546745123"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2120550005434101761"
+          ]
+        },
+        "author_id": "1763302572767711232",
+        "created_at": "2026-11-11T19:00:00.000Z",
+        "edit_history_tweet_ids": [
+          "2120592395167244781"
+        ],
+        "id": "2120592395167244781",
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1546,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "text": "This paper-cut collage film was made in Motion Studio from five assets — an ocean wave, a magazine spread, a film strip, a camera and a portrait — layered and animated into one continuous piece.\n\nMade on Dreamina AI.\n\n#DreaminaAI #DreaminaIdeas #motionstudio https://t.co/uJwR9nePQp"
+      }
+    ],
+    "users": [
+      {
+        "id": "24679269",
+        "name": "Gumvue Studio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032884898101379074/P8KuZlLE_normal.jpg",
+        "public_metrics": {
+          "followers_count": 40818,
+          "following_count": 40300,
+          "like_count": 29181,
+          "listed_count": 436,
+          "media_count": 3348,
+          "tweet_count": 44623
+        },
+        "username": "GumVue",
+        "verified": false
+      },
+      {
+        "id": "1763302572767711232",
+        "name": "Dreamina AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036336259707314177/mqRCJ-mH_normal.jpg",
+        "public_metrics": {
+          "followers_count": 30615,
+          "following_count": 91,
+          "like_count": 821,
+          "listed_count": 274,
+          "media_count": 343,
+          "tweet_count": 1082
+        },
+        "username": "dreamina_ai",
+        "verified": false
+      },
+      {
+        "id": "2052222204558151680",
+        "name": "Maviya Ai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2112680720229412864/A8Csnm_7_normal.jpg",
+        "public_metrics": {
+          "followers_count": 11295,
+          "following_count": 6227,
+          "like_count": 1421,
+          "listed_count": 4,
+          "media_count": 394,
+          "tweet_count": 5449
+        },
+        "username": "Maviya6v",
+        "verified": false
+      },
+      {
+        "id": "1359279697423646720",
+        "name": "Videos",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842225210289741824/pkxZaFEU_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 567,
+          "like_count": 7942,
+          "listed_count": 14,
+          "media_count": 1528,
+          "tweet_count": 4052
+        },
+        "username": "VideosAIpro",
+        "verified": false
+      },
+      {
+        "id": "101367051",
+        "name": "Amy G",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891650465428828160/pYvj4Nh5_normal.jpg",
+        "public_metrics": {
+          "followers_count": 5418,
+          "following_count": 3006,
+          "like_count": 183369,
+          "listed_count": 93,
+          "media_count": 4305,
+          "tweet_count": 113097
+        },
+        "username": "amynys",
+        "verified": false
+      },
+      {
+        "id": "2087941714300506117",
+        "name": "Clara AI | Tools & Updates",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103205668178317312/_fBDuHW5_normal.jpg",
+        "public_metrics": {
+          "followers_count": 21073,
+          "following_count": 599,
+          "like_count": 2811,
+          "listed_count": 6,
+          "media_count": 6,
+          "tweet_count": 2905
+        },
+        "username": "ClaraOnAI",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120633472280654114",
+    "next_token": "b26v89c19zqg8o3juzovc8jp4lf7d8zan4ub8rk9jdbi5",
+    "oldest_id": "2120593223546745123",
+    "result_count": 5
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": [
+    {
+      "author_id": "17887294",
+      "conversation_id": "2120527725006061763",
+      "created_at": "2026-11-11T22:25:51.000Z",
+      "edit_history_tweet_ids": [
+        "2120644199573864619"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1315639147248246785",
+            "start": 0,
+            "username": "GithubProjects"
+          }
+        ]
+      },
+      "id": "2120644199573864619",
+      "in_reply_to_user_id": "1315639147248246785",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 55,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120527725006061763",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GithubProjects Read-only first is the right call. Curious how this differs from just unleashing your agent on the HA server directly. Is it mostly more refined controls over what it can touch?",
+      "url": "https://x.com/qbattersby/status/2120644199573864619"
+    },
+    {
+      "author_id": "2058824892238209024",
+      "conversation_id": "2120527725006061763",
+      "created_at": "2026-11-11T15:19:10.000Z",
+      "edit_history_tweet_ids": [
+        "2120536819490038077"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1315639147248246785",
+            "start": 0,
+            "username": "GithubProjects"
+          }
+        ]
+      },
+      "id": "2120536819490038077",
+      "in_reply_to_user_id": "1315639147248246785",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 495,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120527725006061763",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GithubProjects Worth creating a separate Home Assistant user for the long-lived token, so you can revoke it from that profile without touching your own sessions.",
+      "url": "https://x.com/buswe_com/status/2120536819490038077"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2120527722158186498"
+          ]
+        },
+        "author_id": "1315639147248246785",
+        "conversation_id": "2120527725006061763",
+        "created_at": "2026-11-11T14:43:01.000Z",
+        "edit_history_tweet_ids": [
+          "2120527725006061763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Discover ha-mcp on Open Source Projects",
+              "display_url": "osp.fyi/ha-mcp",
+              "end": 96,
+              "expanded_url": "https://osp.fyi/ha-mcp",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2120527730467082241/J6XFM67v?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2120527730467082241/J6XFM67v?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 73,
+              "status": 200,
+              "title": "87 MCP tools for configuring Home Assistant with your AI assistant",
+              "unwound_url": "https://osp.fyi/ha-mcp",
+              "url": "https://t.co/pvu4wGLBlm"
+            },
+            {
+              "display_url": "pic.x.com/MPvB1Jw5oY",
+              "end": 120,
+              "expanded_url": "https://x.com/GithubProjects/status/2120527725006061763/photo/1",
+              "media_key": "3_2120527722158186498",
+              "start": 97,
+              "url": "https://t.co/MPvB1Jw5oY"
+            }
+          ]
+        },
+        "id": "2120527725006061763",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 167,
+          "impression_count": 14907,
+          "like_count": 126,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 14
+        },
+        "text": "Open-source: run Home Assistant from Claude or ChatGPT\n\nExplore it here:\nhttps://t.co/pvu4wGLBlm https://t.co/MPvB1Jw5oY"
+      }
+    ],
+    "users": [
+      {
+        "id": "17887294",
+        "name": "Quinn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108749063461986306/rKrN0o5x_normal.jpg",
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 2045,
+          "like_count": 669,
+          "listed_count": 35,
+          "media_count": 89,
+          "tweet_count": 3647
+        },
+        "username": "qbattersby",
+        "verified": false
+      },
+      {
+        "id": "1315639147248246785",
+        "name": "GitHub Projects Community",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679831765744259073/hoVtsOZ9_normal.jpg",
+        "public_metrics": {
+          "followers_count": 346534,
+          "following_count": 66,
+          "like_count": 23891,
+          "listed_count": 1607,
+          "media_count": 5520,
+          "tweet_count": 13934
+        },
+        "username": "GithubProjects",
+        "verified": false
+      },
+      {
+        "id": "2058824892238209024",
+        "name": "Buswe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090474961840250880/EOiY3l6G_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1215,
+          "following_count": 95,
+          "like_count": 16708,
+          "listed_count": 8,
+          "media_count": 352,
+          "tweet_count": 17206
+        },
+        "username": "buswe_com",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120644199573864619",
+    "next_token": "b26v89c19zqg8o3juzovc8hwimbj5yfdv318j5pojjrst",
+    "oldest_id": "2120536819490038077",
+    "result_count": 2
+  }
+}

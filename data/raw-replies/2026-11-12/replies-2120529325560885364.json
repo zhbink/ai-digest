@@ -1,0 +1,639 @@
+{
+  "data": [
+    {
+      "author_id": "2044833856218451968",
+      "created_at": "2026-11-12T00:57:09.000Z",
+      "edit_history_tweet_ids": [
+        "2120682273536389197"
+      ],
+      "id": "2120682273536389197",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120529325560885364",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 第三方客户端这思路有点意思 后面要是真能接AI当麦克风就省事了\n我现在还是录音转文字再丢给模型整理 中间这步最磨人 老是要自己拷来拷去",
+      "url": "https://x.com/T082057/status/2120682273536389197"
+    },
+    {
+      "author_id": "1949157978558664704",
+      "created_at": "2026-11-12T00:46:41.000Z",
+      "edit_history_tweet_ids": [
+        "2120679640167862335"
+      ],
+      "id": "2120679640167862335",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 29,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120529325560885364",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 要是能把录音豆上的按键做成“按住说话、松开转文字”，直接写进电脑当前输入框，就很像一个随身语音输入键了。比起录完再去 App 里复制，这个用法更想试。",
+      "url": "https://x.com/Talljackcv/status/2120679640167862335"
+    },
+    {
+      "author_id": "1732683816685514752",
+      "created_at": "2026-11-12T00:15:24.000Z",
+      "edit_history_tweet_ids": [
+        "2120671768771961314"
+      ],
+      "id": "2120671768771961314",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 94,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120529325560885364",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 厉害了",
+      "url": "https://x.com/LotusDecoder/status/2120671768771961314"
+    },
+    {
+      "author_id": "1825556649723240448",
+      "created_at": "2026-11-11T18:04:39.000Z",
+      "edit_history_tweet_ids": [
+        "2120578467083497511"
+      ],
+      "id": "2120578467083497511",
+      "in_reply_to_user_id": "1487472195462959105",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 17,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120566416743305291",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@yizhuaputao @vista8 断在关键处最亏，前面录的全白费，稳定性才是改造的第一道坎",
+      "url": "https://x.com/JMkernt/status/2120578467083497511"
+    },
+    {
+      "author_id": "1487472195462959105",
+      "created_at": "2026-11-11T17:16:46.000Z",
+      "edit_history_tweet_ids": [
+        "2120566416743305291"
+      ],
+      "id": "2120566416743305291",
+      "in_reply_to_user_id": "1825556649723240448",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 21,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120556992909439385",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@JMkernt @vista8 断一次 就得重来",
+      "url": "https://x.com/yizhuaputao/status/2120566416743305291"
+    },
+    {
+      "author_id": "1487472195462959105",
+      "created_at": "2026-11-11T17:16:04.000Z",
+      "edit_history_tweet_ids": [
+        "2120566240053964956"
+      ],
+      "id": "2120566240053964956",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 130,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120529325560885364",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 58G 才用掉883M",
+      "url": "https://x.com/yizhuaputao/status/2120566240053964956"
+    },
+    {
+      "author_id": "1825556649723240448",
+      "created_at": "2026-11-11T16:39:19.000Z",
+      "edit_history_tweet_ids": [
+        "2120556992909439385"
+      ],
+      "id": "2120556992909439385",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 274,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120529325560885364",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 录音豆改 AI 麦克风，BLE 配对稳不稳啊，断连一次录音就全乱了",
+      "url": "https://x.com/JMkernt/status/2120556992909439385"
+    },
+    {
+      "author_id": "1897834360143069185",
+      "created_at": "2026-11-11T16:22:31.000Z",
+      "edit_history_tweet_ids": [
+        "2120552761834287122"
+      ],
+      "id": "2120552761834287122",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 316,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120529325560885364",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 要是做成 AI 麦克风，我最想看录音状态能不能一直看见。开麦、断连和停录都给个明确反馈，用起来才踏实。",
+      "url": "https://x.com/jacewbuilds/status/2120552761834287122"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2120551359258955777"
+        ]
+      },
+      "author_id": "1533875128274079744",
+      "created_at": "2026-11-11T16:17:01.000Z",
+      "edit_history_tweet_ids": [
+        "2120551381123924478"
+      ],
+      "id": "2120551381123924478",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 18,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120529394045530318",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 https://t.co/bUDtacsFBn https://t.co/83Mqwr1ZLI",
+      "url": "https://x.com/0xCoach/status/2120551381123924478"
+    },
+    {
+      "author_id": "1533875128274079744",
+      "created_at": "2026-11-11T16:11:49.000Z",
+      "edit_history_tweet_ids": [
+        "2120550070739443854"
+      ],
+      "id": "2120550070739443854",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 81,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120529394045530318",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 涛声即将支持接入，准备发版了，哈哈。",
+      "url": "https://x.com/0xCoach/status/2120550070739443854"
+    },
+    {
+      "author_id": "3180547345",
+      "created_at": "2026-11-11T15:30:02.000Z",
+      "edit_history_tweet_ids": [
+        "2120539555057299537"
+      ],
+      "id": "2120539555057299537",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 366,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120529325560885364",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 最近一直想Hack 一下这个安克录音豆，现在有救了，谢谢分享",
+      "url": "https://x.com/zhusenze_xyz/status/2120539555057299537"
+    },
+    {
+      "author_id": "1132264353011384321",
+      "created_at": "2026-11-11T15:11:39.000Z",
+      "edit_history_tweet_ids": [
+        "2120534931327836589"
+      ],
+      "id": "2120534931327836589",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 359,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120529325560885364",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 把录音豆改成 AI 麦克风挺有想象空间。真要日常用，我会更在意它能不能稳定接进电脑和手机里的转写流程，而不只是多一个硬件入口。",
+      "url": "https://x.com/annightyhq/status/2120534931327836589"
+    },
+    {
+      "author_id": "545583137",
+      "created_at": "2026-11-11T15:09:15.000Z",
+      "edit_history_tweet_ids": [
+        "2120534323610943500"
+      ],
+      "id": "2120534323610943500",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120529325560885364",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 录下来的音频想在本地转文字的话，可以配上 faster-whisper，Whisper 的加速实现，转写更快、内存更省，CPU 和 GPU 都能跑。\n👉 https://t.co/6cz0SwyJwj",
+      "url": "https://x.com/AryaSeptian123/status/2120534323610943500"
+    },
+    {
+      "author_id": "6690032",
+      "created_at": "2026-11-11T14:49:39.000Z",
+      "edit_history_tweet_ids": [
+        "2120529394045530318"
+      ],
+      "id": "2120529394045530318",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 19,
+        "impression_count": 2185,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120529325560885364",
+          "type": "replied_to"
+        }
+      ],
+      "text": "开源地址：https://t.co/59lDpgTJ9K",
+      "url": "https://x.com/vista8/status/2120529394045530318"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_2120551359258955777",
+        "type": "photo"
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2120528540051595264",
+            "3_2120528713578369024",
+            "3_2120528832570753024",
+            "3_2120528899922870272"
+          ]
+        },
+        "author_id": "6690032",
+        "created_at": "2026-11-11T14:49:23.000Z",
+        "edit_history_tweet_ids": [
+          "2120529325560885364"
+        ],
+        "id": "2120529325560885364",
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 12301,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "text": "安克录音豆第三方客户端，有点意思。\n\n后续还能自己改造变成 AI 麦克风？\n\n开源地址见评论区 https://t.co/NgKM16eISq"
+      },
+      {
+        "author_id": "1487472195462959105",
+        "created_at": "2026-11-11T17:16:46.000Z",
+        "edit_history_tweet_ids": [
+          "2120566416743305291"
+        ],
+        "id": "2120566416743305291",
+        "in_reply_to_user_id": "1825556649723240448",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120556992909439385",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@JMkernt @vista8 断一次 就得重来"
+      },
+      {
+        "author_id": "1825556649723240448",
+        "created_at": "2026-11-11T16:39:19.000Z",
+        "edit_history_tweet_ids": [
+          "2120556992909439385"
+        ],
+        "id": "2120556992909439385",
+        "in_reply_to_user_id": "6690032",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 274,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120529325560885364",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@vista8 录音豆改 AI 麦克风，BLE 配对稳不稳啊，断连一次录音就全乱了"
+      },
+      {
+        "author_id": "6690032",
+        "created_at": "2026-11-11T14:49:39.000Z",
+        "edit_history_tweet_ids": [
+          "2120529394045530318"
+        ],
+        "id": "2120529394045530318",
+        "in_reply_to_user_id": "6690032",
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 2185,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120529325560885364",
+            "type": "replied_to"
+          }
+        ],
+        "text": "开源地址：https://t.co/59lDpgTJ9K"
+      }
+    ],
+    "users": [
+      {
+        "id": "2044833856218451968",
+        "name": "TT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044834995018330112/F3QNaAOh_normal.jpg",
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 289,
+          "like_count": 414,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 739
+        },
+        "username": "T082057",
+        "verified": false
+      },
+      {
+        "id": "6690032",
+        "name": "向阳乔木",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960882043249942533/h4J39ERy_normal.jpg",
+        "public_metrics": {
+          "followers_count": 137981,
+          "following_count": 1697,
+          "like_count": 12628,
+          "listed_count": 2353,
+          "media_count": 3540,
+          "tweet_count": 10917
+        },
+        "username": "vista8",
+        "verified": false
+      },
+      {
+        "id": "1949157978558664704",
+        "name": "Talljack",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949165571620392961/nUpQeOxe_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3513,
+          "following_count": 3765,
+          "like_count": 2678,
+          "listed_count": 2,
+          "media_count": 131,
+          "tweet_count": 5250
+        },
+        "username": "Talljackcv",
+        "verified": false
+      },
+      {
+        "id": "1732683816685514752",
+        "name": "LotusDecoder",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996867470716723200/Ix9VzbOK_normal.jpg",
+        "public_metrics": {
+          "followers_count": 8819,
+          "following_count": 2663,
+          "like_count": 103492,
+          "listed_count": 170,
+          "media_count": 600,
+          "tweet_count": 12873
+        },
+        "username": "LotusDecoder",
+        "verified": false
+      },
+      {
+        "id": "1825556649723240448",
+        "name": "jimerrors",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008436069428043776/V-w99gLN_normal.jpg",
+        "public_metrics": {
+          "followers_count": 11932,
+          "following_count": 11225,
+          "like_count": 358,
+          "listed_count": 5,
+          "media_count": 426,
+          "tweet_count": 32962
+        },
+        "username": "JMkernt",
+        "verified": false
+      },
+      {
+        "id": "1487472195462959105",
+        "name": "一爪葡萄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106349735686914048/A1ERiZeA_normal.jpg",
+        "public_metrics": {
+          "followers_count": 4562,
+          "following_count": 3792,
+          "like_count": 26175,
+          "listed_count": 1,
+          "media_count": 577,
+          "tweet_count": 14643
+        },
+        "username": "yizhuaputao",
+        "verified": false
+      },
+      {
+        "id": "1897834360143069185",
+        "name": "Jace W.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085204608394412033/6G3oKb7b_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1664,
+          "following_count": 2982,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 5823
+        },
+        "username": "jacewbuilds",
+        "verified": false
+      },
+      {
+        "id": "1533875128274079744",
+        "name": "0xCoach",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1547599312938418177/d6Ny7a2F_normal.jpg",
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 626,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 535
+        },
+        "username": "0xCoach",
+        "verified": false
+      },
+      {
+        "id": "3180547345",
+        "name": "ZhuSenze",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928051127448375296/PtHHLT_s_normal.jpg",
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 966,
+          "like_count": 7015,
+          "listed_count": 5,
+          "media_count": 39,
+          "tweet_count": 377
+        },
+        "username": "zhusenze_xyz",
+        "verified": false
+      },
+      {
+        "id": "1132264353011384321",
+        "name": "Beyond the Obvious",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115577016200392704/6B0vLUFM_normal.jpg",
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 1195,
+          "like_count": 332,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 870
+        },
+        "username": "annightyhq",
+        "verified": false
+      },
+      {
+        "id": "545583137",
+        "name": "arya septian",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039060223/twit_co_2_normal.jpg",
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 10
+        },
+        "username": "AryaSeptian123",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120682273536389197",
+    "next_token": "b26v89c19zqg8o3juzovc8hlupr3usqql1ki7c8gda8ot",
+    "oldest_id": "2120529394045530318",
+    "result_count": 14
+  }
+}

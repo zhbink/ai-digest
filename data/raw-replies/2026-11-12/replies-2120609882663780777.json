@@ -1,0 +1,635 @@
+{
+  "data": [
+    {
+      "author_id": "87078963",
+      "conversation_id": "2120609882663780777",
+      "created_at": "2026-11-12T00:42:25.000Z",
+      "edit_history_tweet_ids": [
+        "2120678569625968825"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "2465283662",
+            "start": 0,
+            "username": "_akhaliq"
+          }
+        ]
+      },
+      "id": "2120678569625968825",
+      "in_reply_to_user_id": "2465283662",
+      "lang": "pt",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120609882663780777",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@_akhaliq Se o robô aprende tarefa nova pelo contexto, sem retreinar, o gargalo sai do treino e vai pra demonstração. Quem souber mostrar a tarefa direito vira o novo engenheiro de prompt, só que de chão de fábrica. Alguém já viu isso aguentar o mundo real fora do laboratório?",
+      "url": "https://x.com/luisjuniorj/status/2120678569625968825"
+    },
+    {
+      "author_id": "2113256414688997376",
+      "conversation_id": "2120609882663780777",
+      "created_at": "2026-11-12T00:30:27.000Z",
+      "edit_history_tweet_ids": [
+        "2120675556006281705"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "2465283662",
+            "start": 0,
+            "username": "_akhaliq"
+          }
+        ]
+      },
+      "id": "2120675556006281705",
+      "in_reply_to_user_id": "2465283662",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120609882663780777",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@_akhaliq 83.4% in sim is the easy half. The sim-to-real gap is where this holds or falls apart.",
+      "url": "https://x.com/Zane_Sang/status/2120675556006281705"
+    },
+    {
+      "author_id": "1711203486170566656",
+      "conversation_id": "2120609882663780777",
+      "created_at": "2026-11-11T22:14:59.000Z",
+      "edit_history_tweet_ids": [
+        "2120641465089241371"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "2465283662",
+            "start": 0,
+            "username": "_akhaliq"
+          }
+        ]
+      },
+      "id": "2120641465089241371",
+      "in_reply_to_user_id": "2465283662",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 54,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120609882663780777",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@_akhaliq In-context learning for manipulation means the robot adapts from examples at run time instead of retraining. Where does it break first: new objects, or new contact dynamics like friction and weight?",
+      "url": "https://x.com/AIFlow_ML/status/2120641465089241371"
+    },
+    {
+      "author_id": "2108266518404591616",
+      "conversation_id": "2120609882663780777",
+      "created_at": "2026-11-11T22:02:55.000Z",
+      "edit_history_tweet_ids": [
+        "2120638428987478331"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "2465283662",
+            "start": 0,
+            "username": "_akhaliq"
+          }
+        ]
+      },
+      "id": "2120638428987478331",
+      "in_reply_to_user_id": "2465283662",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120609882663780777",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@_akhaliq What sticks with me: the model never gets updated, the context does. One demo + sim rehearsal as memory, not training — and it still hits 83% across all 50 tasks. Where do the remaining failures cluster — sim-to-real mismatch, or tasks where one demo can't pin down intent?",
+      "url": "https://x.com/TechyBee7e/status/2120638428987478331"
+    },
+    {
+      "author_id": "2031915693747376128",
+      "conversation_id": "2120609882663780777",
+      "created_at": "2026-11-11T21:51:40.000Z",
+      "edit_history_tweet_ids": [
+        "2120635595420835932"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "2465283662",
+            "start": 0,
+            "username": "_akhaliq"
+          }
+        ]
+      },
+      "id": "2120635595420835932",
+      "in_reply_to_user_id": "2465283662",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 104,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120609882663780777",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@_akhaliq Robots learning in context, nice. Does it work on new objects?",
+      "url": "https://x.com/momoni_dev/status/2120635595420835932"
+    },
+    {
+      "author_id": "1874666247356653568",
+      "conversation_id": "2120609882663780777",
+      "created_at": "2026-11-11T21:08:36.000Z",
+      "edit_history_tweet_ids": [
+        "2120624760862511570"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "2465283662",
+            "start": 0,
+            "username": "_akhaliq"
+          }
+        ]
+      },
+      "id": "2120624760862511570",
+      "in_reply_to_user_id": "2465283662",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 28,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120609882663780777",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@_akhaliq How does the world model handle sudden visual occlusions during contact-rich tasks?\n\nIf the end-effector blocks the camera during a grasp, does it rely strictly on previous visual context tokens, or is there an external state estimator bridging the gap?",
+      "url": "https://x.com/DavisNc9527/status/2120624760862511570"
+    },
+    {
+      "author_id": "1945625449830268928",
+      "conversation_id": "2120609882663780777",
+      "created_at": "2026-11-11T20:33:00.000Z",
+      "edit_history_tweet_ids": [
+        "2120615798884491276"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "2465283662",
+            "start": 0,
+            "username": "_akhaliq"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Join the discussion on this paper page",
+            "display_url": "huggingface.co/papers/2611.12…",
+            "end": 273,
+            "expanded_url": "https://huggingface.co/papers/2611.12885",
+            "images": [
+              {
+                "height": 648,
+                "url": "https://pbs.twimg.com/news_img/2120609398448078848/GRO2FzuY?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2120609398448078848/GRO2FzuY?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 250,
+            "status": 200,
+            "title": "Paper page - World In-Context Learning for Agentic Robot Manipulation",
+            "unwound_url": "https://huggingface.co/papers/2611.12885",
+            "url": "https://t.co/uAlLnGG7kF"
+          }
+        ]
+      },
+      "id": "2120615798884491276",
+      "in_reply_to_user_id": "2465283662",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 43,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120609882663780777",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@_akhaliq RoboScript (WICL): frozen model, one demo per task, rehearse in sim and write feedback into context. Claims 83.4% mean success on all 50 RoboTwin 2.0 tasks with no gradient updates, over 20 points above the strongest trained policy. Paper: https://t.co/uAlLnGG7kF",
+      "url": "https://x.com/_nd3r5c0r3/status/2120615798884491276"
+    },
+    {
+      "author_id": "2118843496555507712",
+      "conversation_id": "2120609882663780777",
+      "created_at": "2026-11-11T20:27:39.000Z",
+      "edit_history_tweet_ids": [
+        "2120614452693483571"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "2465283662",
+            "start": 0,
+            "username": "_akhaliq"
+          }
+        ]
+      },
+      "id": "2120614452693483571",
+      "in_reply_to_user_id": "2465283662",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 123,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120609882663780777",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@_akhaliq the simulated robot has a markdown file for moving a stapler. i owe several ignored readmes an apology.",
+      "url": "https://x.com/preprintpigeon/status/2120614452693483571"
+    },
+    {
+      "author_id": "228076297",
+      "conversation_id": "2120609882663780777",
+      "created_at": "2026-11-11T20:21:02.000Z",
+      "edit_history_tweet_ids": [
+        "2120612789886882245"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "2465283662",
+            "start": 0,
+            "username": "_akhaliq"
+          }
+        ]
+      },
+      "id": "2120612789886882245",
+      "in_reply_to_user_id": "2465283662",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 66,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120609882663780777",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@_akhaliq One demo per task, no gradient updates, 83.4% on all 50 RoboTwin 2.0 tasks. It rehearses in sim and writes the lessons into context, not weights.\n\nWhat I'd want to know: when the real scene has an object the sim never had, does the frozen Task Memory fail loudly or quietly?",
+      "url": "https://x.com/aiartgallerie/status/2120612789886882245"
+    },
+    {
+      "author_id": "1871251003611156480",
+      "conversation_id": "2120609882663780777",
+      "created_at": "2026-11-11T20:12:22.000Z",
+      "edit_history_tweet_ids": [
+        "2120610606256357585"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "2465283662",
+            "start": 0,
+            "username": "_akhaliq"
+          }
+        ]
+      },
+      "id": "2120610606256357585",
+      "in_reply_to_user_id": "2465283662",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120609882663780777",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@_akhaliq Single-shot robot coding from one demo is neat, but the silent bet is whether the generated script survives contact with a shifted mug or a different gripper. That generalization gap is where most imitation learning quietly dies.",
+      "url": "https://x.com/BIGBULLapp/status/2120610606256357585"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2120609829987434496"
+          ]
+        },
+        "author_id": "2465283662",
+        "conversation_id": "2120609882663780777",
+        "created_at": "2026-11-11T20:09:29.000Z",
+        "edit_history_tweet_ids": [
+          "2120609882663780777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Join the discussion on this paper page",
+              "display_url": "huggingface.co/papers/2611.12…",
+              "end": 90,
+              "expanded_url": "https://huggingface.co/papers/2611.12885",
+              "images": [
+                {
+                  "height": 648,
+                  "url": "https://pbs.twimg.com/news_img/2120609398448078848/GRO2FzuY?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2120609398448078848/GRO2FzuY?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 67,
+              "status": 200,
+              "title": "Paper page - World In-Context Learning for Agentic Robot Manipulation",
+              "unwound_url": "https://huggingface.co/papers/2611.12885",
+              "url": "https://t.co/kv7KCvTYmu"
+            },
+            {
+              "display_url": "pic.x.com/qKsbFjdnR8",
+              "end": 114,
+              "expanded_url": "https://x.com/_akhaliq/status/2120609882663780777/video/1",
+              "media_key": "13_2120609829987434496",
+              "start": 91,
+              "url": "https://t.co/qKsbFjdnR8"
+            }
+          ]
+        },
+        "id": "2120609882663780777",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 7672,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 6
+        },
+        "text": "World In-Context Learning for Agentic Robot Manipulation  \n\npaper: https://t.co/kv7KCvTYmu https://t.co/qKsbFjdnR8"
+      }
+    ],
+    "users": [
+      {
+        "id": "87078963",
+        "name": "Luis Junior | luisjunior.ai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119648835525832704/rsdP52qx_normal.jpg",
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 568,
+          "like_count": 14918,
+          "listed_count": 4,
+          "media_count": 129,
+          "tweet_count": 2294
+        },
+        "username": "luisjuniorj",
+        "verified": false
+      },
+      {
+        "id": "2465283662",
+        "name": "AK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+        "public_metrics": {
+          "followers_count": 540727,
+          "following_count": 3122,
+          "like_count": 38818,
+          "listed_count": 6363,
+          "media_count": 19765,
+          "tweet_count": 47745
+        },
+        "username": "_akhaliq",
+        "verified": false
+      },
+      {
+        "id": "2113256414688997376",
+        "name": "sanza_o",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119443186649370625/Mtv4xda__normal.jpg",
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 136,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 491
+        },
+        "username": "Zane_Sang",
+        "verified": false
+      },
+      {
+        "id": "1711203486170566656",
+        "name": "Igor Lessio - Robots/acc - AIFlow Labs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953848090915704832/CjjO7yAK_normal.jpg",
+        "public_metrics": {
+          "followers_count": 4386,
+          "following_count": 5805,
+          "like_count": 67825,
+          "listed_count": 46,
+          "media_count": 1745,
+          "tweet_count": 16301
+        },
+        "username": "AIFlow_ML",
+        "verified": false
+      },
+      {
+        "id": "2108266518404591616",
+        "name": "Techy Bee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108272747172577280/FWu0PeI1_normal.jpg",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 16,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 391
+        },
+        "username": "TechyBee7e",
+        "verified": false
+      },
+      {
+        "id": "2031915693747376128",
+        "name": "TheMonti",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115950905665417216/VNz5AzUY_normal.jpg",
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 718,
+          "like_count": 9017,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 416
+        },
+        "username": "momoni_dev",
+        "verified": false
+      },
+      {
+        "id": "1874666247356653568",
+        "name": "Davis.AI.Explorer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022706009148657665/Bm4mpQpm_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1398,
+          "following_count": 1501,
+          "like_count": 1445,
+          "listed_count": 4,
+          "media_count": 294,
+          "tweet_count": 5977
+        },
+        "username": "DavisNc9527",
+        "verified": false
+      },
+      {
+        "id": "1945625449830268928",
+        "name": "_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945644072745504768/lYfslEvk_normal.jpg",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 16,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 21
+        },
+        "username": "_nd3r5c0r3",
+        "verified": false
+      },
+      {
+        "id": "2118843496555507712",
+        "name": "preprint pigeon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118849631681404929/6ToSXyfJ_normal.jpg",
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 19,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 452
+        },
+        "username": "preprintpigeon",
+        "verified": false
+      },
+      {
+        "id": "228076297",
+        "name": "aiartgallerie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805494180397170689/PR9IcxIq_normal.jpg",
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 300,
+          "like_count": 1834,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 770
+        },
+        "username": "aiartgallerie",
+        "verified": false
+      },
+      {
+        "id": "1871251003611156480",
+        "name": "Big Bull",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050308369106235392/UXkvxBE4_normal.jpg",
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 90,
+          "like_count": 1098,
+          "listed_count": 1,
+          "media_count": 1935,
+          "tweet_count": 10640
+        },
+        "username": "BIGBULLapp",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120678569625968825",
+    "next_token": "b26v89c19zqg8o3juzovcam0tzd9rwyrxblz709uq5px9",
+    "oldest_id": "2120610606256357585",
+    "result_count": 10
+  }
+}

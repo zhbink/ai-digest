@@ -1,0 +1,653 @@
+{
+  "data": [
+    {
+      "author_id": "1754745579618418688",
+      "created_at": "2026-11-12T00:08:10.000Z",
+      "edit_history_tweet_ids": [
+        "2120669949509419205"
+      ],
+      "id": "2120669949509419205",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 21,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120578135594791297",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ 384gb per chip is nuts",
+      "url": "https://x.com/hetu_protocol/status/2120669949509419205"
+    },
+    {
+      "author_id": "1825556649723240448",
+      "created_at": "2026-11-11T23:37:37.000Z",
+      "edit_history_tweet_ids": [
+        "2120662261031150043"
+      ],
+      "id": "2120662261031150043",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 15,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120578135594791297",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ 384GB on 8-hi stacks, bandwidth wins here",
+      "url": "https://x.com/JMkernt/status/2120662261031150043"
+    },
+    {
+      "author_id": "34567164",
+      "created_at": "2026-11-11T22:39:11.000Z",
+      "edit_history_tweet_ids": [
+        "2120647555923239056"
+      ],
+      "id": "2120647555923239056",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120578135594791297",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ Google’s Nov 9 infrastructure blog says TPU 8i Max combines two TPU 8i chips in a single package and doubles compute, SRAM, and HBM bandwidth versus standard TPU 8i, while fitting twice the silicon in the existing rack footprint. The post does not publish HBM capacity. The Next",
+      "url": "https://x.com/redboynono/status/2120647555923239056"
+    },
+    {
+      "author_id": "1983910173313003524",
+      "created_at": "2026-11-11T21:37:29.000Z",
+      "edit_history_tweet_ids": [
+        "2120632027166957674"
+      ],
+      "id": "2120632027166957674",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 74,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120578135594791297",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ 칩당 HBM 384GB인데 적층은 12단→8단으로 내려간다는 점이 흥미롭습니다. 용량은 키우고 적층 부담은 줄이는 선택이라면, 병목이 HBM 단수에서 다른 곳으로 옮겨가는 신호일까요? 📊",
+      "url": "https://x.com/x_research_kr/status/2120632027166957674"
+    },
+    {
+      "author_id": "1797244169838305281",
+      "created_at": "2026-11-11T21:22:12.000Z",
+      "edit_history_tweet_ids": [
+        "2120628182714102125"
+      ],
+      "id": "2120628182714102125",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 20,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120578135594791297",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ 8-hi 配 384GB，谷歌这步跟英伟达同频了",
+      "url": "https://x.com/zoezkzk/status/2120628182714102125"
+    },
+    {
+      "author_id": "1067025324964106240",
+      "created_at": "2026-11-11T20:40:29.000Z",
+      "edit_history_tweet_ids": [
+        "2120617682374697290"
+      ],
+      "id": "2120617682374697290",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 37,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120578135594791297",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ 384GB of HBM per chip on TPU 8i Max comes with a switch from 12-hi to 8-hi stacks, the same direction Nvidia is taking on Rubin Ultra. Google is advertising double the HBM bandwidth per package, and that is the inference claim to check, because the post itself says bandwidth",
+      "url": "https://x.com/ekcheungAI/status/2120617682374697290"
+    },
+    {
+      "author_id": "1900799450295287808",
+      "created_at": "2026-11-11T19:54:25.000Z",
+      "edit_history_tweet_ids": [
+        "2120606089570123927"
+      ],
+      "id": "2120606089570123927",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 64,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120578135594791297",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ Fewer dies per stack but double the bandwidth per package fits your point that bandwidth beats capacity for inference. Does 8-hi also help yield and heat, or is supply the main reason?",
+      "url": "https://x.com/bobbyships/status/2120606089570123927"
+    },
+    {
+      "author_id": "2081959403595710465",
+      "created_at": "2026-11-11T19:37:16.000Z",
+      "edit_history_tweet_ids": [
+        "2120601772570112073"
+      ],
+      "id": "2120601772570112073",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120578135594791297",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ wait so same 384GB but on 8-hi instead of 12-hi, and double the bandwidth per package too? seems like packaging and cost matter as much as the spec here",
+      "url": "https://x.com/WaferBull/status/2120601772570112073"
+    },
+    {
+      "author_id": "2077354681093718016",
+      "created_at": "2026-11-11T19:33:18.000Z",
+      "edit_history_tweet_ids": [
+        "2120600777182044262"
+      ],
+      "id": "2120600777182044262",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120578135594791297",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ Dropping to 8-hi while still landing 384GB per chip suggests Google is getting denser HBM dies and trading stack height for yield and thermals. Smart call for an inference part where supply matters more than peak capacity. Chips and memory moves like this are what I track daily",
+      "url": "https://x.com/Temperatur2com/status/2120600777182044262"
+    },
+    {
+      "author_id": "1711203486170566656",
+      "created_at": "2026-11-11T19:17:18.000Z",
+      "edit_history_tweet_ids": [
+        "2120596747491905881"
+      ],
+      "id": "2120596747491905881",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 25,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120578135594791297",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ Dropping to 8-hi stacks while still hitting 384GB per chip says Google cares more about yield and supply than peak density. Is HBM stack height now the real bottleneck for TPUs?",
+      "url": "https://x.com/AIFlow_ML/status/2120596747491905881"
+    },
+    {
+      "author_id": "2034098636590878724",
+      "created_at": "2026-11-11T19:06:13.000Z",
+      "edit_history_tweet_ids": [
+        "2120593958522777913"
+      ],
+      "id": "2120593958522777913",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120578135594791297",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ Bandwidth over capacity is the key point. Double the HBM bandwidth matters more for inference than the headline capacity number.\n\nGoogle and Nvidia both moving to 8-hi HBM says the bottleneck has shifted. Watch real inference benchmarks next, not just the spec sheet.",
+      "url": "https://x.com/marketides/status/2120593958522777913"
+    },
+    {
+      "author_id": "104778145",
+      "created_at": "2026-11-11T18:55:12.000Z",
+      "edit_history_tweet_ids": [
+        "2120591188138844639"
+      ],
+      "id": "2120591188138844639",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 159,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120578135594791297",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ Package thermals unlock the extra bandwidth.",
+      "url": "https://x.com/agneau123/status/2120591188138844639"
+    },
+    {
+      "author_id": "51013226",
+      "created_at": "2026-11-11T18:52:10.000Z",
+      "edit_history_tweet_ids": [
+        "2120590425467891824"
+      ],
+      "id": "2120590425467891824",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 58,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120578135594791297",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ 384GB of HBM per chip and people still treat memory as a side trade",
+      "url": "https://x.com/ghostfellah/status/2120590425467891824"
+    },
+    {
+      "author_id": "1777675043163852800",
+      "created_at": "2026-11-11T18:45:52.000Z",
+      "edit_history_tweet_ids": [
+        "2120588840570335724"
+      ],
+      "id": "2120588840570335724",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120578135594791297",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ Both Google and Nvidia stepping back to 8-hi says the taller stacks probably still aren't yielding well enough to bet a roadmap on. Bandwidth over capacity also quietly reshuffles who wins HBM share 🧐",
+      "url": "https://x.com/kingli560043/status/2120588840570335724"
+    },
+    {
+      "author_id": "2105289397793153024",
+      "created_at": "2026-11-11T18:36:59.000Z",
+      "edit_history_tweet_ids": [
+        "2120586601797681249"
+      ],
+      "id": "2120586601797681249",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120578135594791297",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ The bandwidth point is the one that matters to me. 384GB at 8-hi instead of 12-hi, with double the bandwidth, tells me Google is optimizing for inference, not just stacking more memory. The question is whether that eases allocation, or just moves the bottleneck somewhere else.",
+      "url": "https://x.com/Noahfwad/status/2120586601797681249"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2120578133321469952"
+          ]
+        },
+        "author_id": "1745106082790318080",
+        "created_at": "2026-11-11T18:03:20.000Z",
+        "edit_history_tweet_ids": [
+          "2120578135594791297"
+        ],
+        "id": "2120578135594791297",
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 21048,
+          "like_count": 215,
+          "quote_count": 2,
+          "reply_count": 28,
+          "retweet_count": 8
+        },
+        "text": "Google has unveiled TPU 8i Max, aka Whalefish. One interesting detail is that the announcement confirms the 8i Max will have 384GB of HBM per chip, meaning it moves to 8-hi HBM compared to the 12-hi HBM used for the original TPU 8i, which we reported to Accelerator Model https://t.co/8MpwD9xGFV"
+      }
+    ],
+    "users": [
+      {
+        "id": "1754745579618418688",
+        "name": "Hetu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781440964831145985/5lzLd0Lx_normal.jpg",
+        "public_metrics": {
+          "followers_count": 26887,
+          "following_count": 151,
+          "like_count": 506,
+          "listed_count": 63,
+          "media_count": 317,
+          "tweet_count": 1360
+        },
+        "username": "hetu_protocol",
+        "verified": false
+      },
+      {
+        "id": "1745106082790318080",
+        "name": "SemiAnalysis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062973370157694976/CdplNoi1_normal.jpg",
+        "public_metrics": {
+          "followers_count": 184337,
+          "following_count": 38,
+          "like_count": 954,
+          "listed_count": 3474,
+          "media_count": 2196,
+          "tweet_count": 3832
+        },
+        "username": "SemiAnalysis_",
+        "verified": true
+      },
+      {
+        "id": "1825556649723240448",
+        "name": "jimerrors",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008436069428043776/V-w99gLN_normal.jpg",
+        "public_metrics": {
+          "followers_count": 11932,
+          "following_count": 11225,
+          "like_count": 358,
+          "listed_count": 5,
+          "media_count": 426,
+          "tweet_count": 32962
+        },
+        "username": "JMkernt",
+        "verified": false
+      },
+      {
+        "id": "34567164",
+        "name": "Steven.Sun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712390603093524480/Svie-b7Q_normal.jpg",
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 203,
+          "like_count": 353,
+          "listed_count": 4,
+          "media_count": 29,
+          "tweet_count": 3398
+        },
+        "username": "redboynono",
+        "verified": false
+      },
+      {
+        "id": "1983910173313003524",
+        "name": "납득이 | Nabdeuk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115272310915813376/uukw_Bmi_normal.jpg",
+        "public_metrics": {
+          "followers_count": 9046,
+          "following_count": 8987,
+          "like_count": 86371,
+          "listed_count": 18,
+          "media_count": 1797,
+          "tweet_count": 124291
+        },
+        "username": "x_research_kr",
+        "verified": false
+      },
+      {
+        "id": "1797244169838305281",
+        "name": "Leo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115406630049427456/YSSR2B3M_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2997,
+          "following_count": 2760,
+          "like_count": 6094,
+          "listed_count": 3,
+          "media_count": 20,
+          "tweet_count": 4049
+        },
+        "username": "zoezkzk",
+        "verified": false
+      },
+      {
+        "id": "1067025324964106240",
+        "name": "EK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108849523057680384/hKDYIoVX_normal.jpg",
+        "public_metrics": {
+          "followers_count": 8928,
+          "following_count": 1068,
+          "like_count": 2454,
+          "listed_count": 22,
+          "media_count": 1230,
+          "tweet_count": 3215
+        },
+        "username": "ekcheungAI",
+        "verified": false
+      },
+      {
+        "id": "1900799450295287808",
+        "name": "Bobby",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109320065657032704/xFIkojpZ_normal.jpg",
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 105,
+          "like_count": 234,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 438
+        },
+        "username": "bobbyships",
+        "verified": false
+      },
+      {
+        "id": "2081959403595710465",
+        "name": "Semiconductor Bull",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105803744751579136/Mrr7QxCn_normal.jpg",
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 344,
+          "like_count": 2813,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 2875
+        },
+        "username": "WaferBull",
+        "verified": false
+      },
+      {
+        "id": "2077354681093718016",
+        "name": "Temperature2.com",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092136816161824768/8DinoAUW_normal.jpg",
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 419,
+          "like_count": 287,
+          "listed_count": 0,
+          "media_count": 339,
+          "tweet_count": 1776
+        },
+        "username": "Temperatur2com",
+        "verified": false
+      },
+      {
+        "id": "1711203486170566656",
+        "name": "Igor Lessio - Robots/acc - AIFlow Labs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953848090915704832/CjjO7yAK_normal.jpg",
+        "public_metrics": {
+          "followers_count": 4386,
+          "following_count": 5805,
+          "like_count": 67825,
+          "listed_count": 46,
+          "media_count": 1745,
+          "tweet_count": 16301
+        },
+        "username": "AIFlow_ML",
+        "verified": false
+      },
+      {
+        "id": "2034098636590878724",
+        "name": "Market Tides",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034099237722726400/5lVRyzL9_normal.jpg",
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 436,
+          "like_count": 949,
+          "listed_count": 0,
+          "media_count": 261,
+          "tweet_count": 2107
+        },
+        "username": "marketides",
+        "verified": false
+      },
+      {
+        "id": "104778145",
+        "name": "Tommy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100208275597959168/SoZBzjni_normal.jpg",
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 184,
+          "like_count": 5811,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 2516
+        },
+        "username": "agneau123",
+        "verified": false
+      },
+      {
+        "id": "51013226",
+        "name": "Ghøst",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964955771860353024/mD4PkcTO_normal.jpg",
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 588,
+          "like_count": 1995,
+          "listed_count": 15,
+          "media_count": 350,
+          "tweet_count": 1923
+        },
+        "username": "ghostfellah",
+        "verified": false
+      },
+      {
+        "id": "1777675043163852800",
+        "name": "WW",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092246245125603328/mpr_dGwK_normal.jpg",
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 165,
+          "like_count": 144,
+          "listed_count": 1,
+          "media_count": 257,
+          "tweet_count": 3753
+        },
+        "username": "kingli560043",
+        "verified": false
+      },
+      {
+        "id": "2105289397793153024",
+        "name": "David",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2113023132428914688/zmw5N5Ua_normal.jpg",
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 78,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 120
+        },
+        "username": "Noahfwad",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120669949509419205",
+    "next_token": "b26v89c19zqg8o3juzovc8jegqrm0c3cnm161r7eo6zct",
+    "oldest_id": "2120586601797681249",
+    "result_count": 15
+  }
+}

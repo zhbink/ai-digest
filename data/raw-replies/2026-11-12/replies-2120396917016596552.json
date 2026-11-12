@@ -1,0 +1,902 @@
+{
+  "data": [
+    {
+      "author_id": "91763440",
+      "conversation_id": "2120396917016596552",
+      "created_at": "2026-11-11T21:16:21.000Z",
+      "edit_history_tweet_ids": [
+        "2120626711205417231"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1194889317388374016",
+            "start": 0,
+            "username": "mattshumer_"
+          }
+        ]
+      },
+      "id": "2120626711205417231",
+      "in_reply_to_user_id": "1194889317388374016",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120396917016596552",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mattshumer_ 400B tokens of hard-won lessons in 17 minutes is a ridiculous trade for the rest of us. The prompting gap is the real frontier right now: same model, wildly different results depending on who is driving it.",
+      "url": "https://x.com/bijaypandey/status/2120626711205417231"
+    },
+    {
+      "author_id": "1763427814735265792",
+      "conversation_id": "2120396917016596552",
+      "created_at": "2026-11-11T20:03:51.000Z",
+      "edit_history_tweet_ids": [
+        "2120608465307791473"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1461210087230525440",
+            "start": 0,
+            "username": "ph31666968"
+          },
+          {
+            "end": 24,
+            "id": "1194889317388374016",
+            "start": 12,
+            "username": "mattshumer_"
+          }
+        ]
+      },
+      "id": "2120608465307791473",
+      "in_reply_to_user_id": "1461210087230525440",
+      "lang": "en",
+      "note_tweet": {
+        "text": "Basically he told to use single agent but also mentioned that if one can add the self blind critique loop focused on one single component of the project and keep refining it , fable 5.2 works fine that way.\n\nHowever given the nature of how this model works , most time they tend to fight for which task will be handled by which sub agents and that messes things up.\n\nPersonally I have found single agent setup working great , if you put the hll instruction , rather than breaking down everything."
+      },
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120499186856841583",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ph31666968 @mattshumer_ Basically he told to use single agent but also mentioned that if one can add the self blind critique loop focused on one single component of the project and keep refining it , fable 5.2 works fine that way.\n\nHowever given the nature of how this model works , most time they tend",
+      "url": "https://x.com/devloperhs/status/2120608465307791473"
+    },
+    {
+      "author_id": "1792699261739786240",
+      "conversation_id": "2120396917016596552",
+      "created_at": "2026-11-11T17:58:16.000Z",
+      "edit_history_tweet_ids": [
+        "2120576862023758324"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1194889317388374016",
+            "start": 0,
+            "username": "mattshumer_"
+          }
+        ]
+      },
+      "id": "2120576862023758324",
+      "in_reply_to_user_id": "1194889317388374016",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120396917016596552",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mattshumer_ 400B tokens is insane lol\nwould love to know how many of those were simple steps a smaller model could have done. did u ever try routing the easy ones out?",
+      "url": "https://x.com/javibuildz/status/2120576862023758324"
+    },
+    {
+      "author_id": "803395061434224640",
+      "conversation_id": "2120396917016596552",
+      "created_at": "2026-11-11T16:23:37.000Z",
+      "edit_history_tweet_ids": [
+        "2120553041229189156"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1194889317388374016",
+            "start": 0,
+            "username": "mattshumer_"
+          }
+        ]
+      },
+      "id": "2120553041229189156",
+      "in_reply_to_user_id": "1194889317388374016",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120396917016596552",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mattshumer_ Useful timing for anyone still on claude-sonnet-4-5: it shuts down on Anthropic's platforms Nov 30, and the listed replacement is claude-sonnet-5-5, not Fable. Did any of your tricks carry over from 4.5-era prompts?",
+      "url": "https://x.com/NorthgateLabsHQ/status/2120553041229189156"
+    },
+    {
+      "author_id": "1860365493124616192",
+      "conversation_id": "2120396917016596552",
+      "created_at": "2026-11-11T15:43:53.000Z",
+      "edit_history_tweet_ids": [
+        "2120543041077600331"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1194889317388374016",
+            "start": 0,
+            "username": "mattshumer_"
+          }
+        ]
+      },
+      "id": "2120543041077600331",
+      "in_reply_to_user_id": "1194889317388374016",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120396917016596552",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mattshumer_ Which single trick changed your results the most? For long creative jobs, the thing that helped us most was giving the whole brief up front instead of steering turn by turn.",
+      "url": "https://x.com/CadabraAIfilms/status/2120543041077600331"
+    },
+    {
+      "author_id": "1988325881002291203",
+      "conversation_id": "2120396917016596552",
+      "created_at": "2026-11-11T15:15:17.000Z",
+      "edit_history_tweet_ids": [
+        "2120535841995198605"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1194889317388374016",
+            "start": 0,
+            "username": "mattshumer_"
+          }
+        ]
+      },
+      "id": "2120535841995198605",
+      "in_reply_to_user_id": "1194889317388374016",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120396917016596552",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mattshumer_ 400B tokens is a serious eval budget. Curious what single prompting change moved results most? In my client work, giving the model a concrete output example beats longer instructions almost every time.",
+      "url": "https://x.com/MdSiamHoss92361/status/2120535841995198605"
+    },
+    {
+      "author_id": "1445591169296060426",
+      "conversation_id": "2120396917016596552",
+      "created_at": "2026-11-11T14:51:22.000Z",
+      "edit_history_tweet_ids": [
+        "2120529824003551744"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1194889317388374016",
+            "start": 0,
+            "username": "mattshumer_"
+          }
+        ]
+      },
+      "id": "2120529824003551744",
+      "in_reply_to_user_id": "1194889317388374016",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120396917016596552",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mattshumer_ Seventeen minutes is a fair trade for that many tokens of trial and error. For someone opening Fable 5.2 for the first time today, which one trick would you tell them to try first?",
+      "url": "https://x.com/BrandonCoatesAI/status/2120529824003551744"
+    },
+    {
+      "author_id": "2119120224104648705",
+      "conversation_id": "2120396917016596552",
+      "created_at": "2026-11-11T14:32:32.000Z",
+      "edit_history_tweet_ids": [
+        "2120525083479519580"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1194889317388374016",
+            "start": 0,
+            "username": "mattshumer_"
+          }
+        ]
+      },
+      "id": "2120525083479519580",
+      "in_reply_to_user_id": "1194889317388374016",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120396917016596552",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mattshumer_ 400 billion tokens is a wild tuition fee for learning one tool. That number says more about how opaque Fable prompting still is than about your persistence. Which single trick in the video cut the most waste, the one you wish you had known on day one?",
+      "url": "https://x.com/AIGrowthHub09/status/2120525083479519580"
+    },
+    {
+      "author_id": "273825585",
+      "conversation_id": "2120396917016596552",
+      "created_at": "2026-11-11T14:22:47.000Z",
+      "edit_history_tweet_ids": [
+        "2120522632756072761"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1194889317388374016",
+            "start": 0,
+            "username": "mattshumer_"
+          }
+        ]
+      },
+      "id": "2120522632756072761",
+      "in_reply_to_user_id": "1194889317388374016",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 32,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120396917016596552",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mattshumer_ 400B tokens of learning squeezed into 17 mins is a solid deal...what's the one trick you wish you knew on day 1??",
+      "url": "https://x.com/ankeshdev/status/2120522632756072761"
+    },
+    {
+      "author_id": "1838558231590830080",
+      "conversation_id": "2120396917016596552",
+      "created_at": "2026-11-11T14:20:05.000Z",
+      "edit_history_tweet_ids": [
+        "2120521951261474913"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1194889317388374016",
+            "start": 0,
+            "username": "mattshumer_"
+          }
+        ]
+      },
+      "id": "2120521951261474913",
+      "in_reply_to_user_id": "1194889317388374016",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120396917016596552",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mattshumer_ 400B tokens of practice is wild. Which single trick changed your results most: better context, smaller tasks, or letting it plan first?",
+      "url": "https://x.com/Righteousbeing7/status/2120521951261474913"
+    },
+    {
+      "author_id": "368081941",
+      "conversation_id": "2120396917016596552",
+      "created_at": "2026-11-11T14:13:42.000Z",
+      "edit_history_tweet_ids": [
+        "2120520346688495903"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1194889317388374016",
+            "start": 0,
+            "username": "mattshumer_"
+          }
+        ]
+      },
+      "id": "2120520346688495903",
+      "in_reply_to_user_id": "1194889317388374016",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 141,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120396917016596552",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mattshumer_ What saved you the most time?",
+      "url": "https://x.com/Lucas__Stephens/status/2120520346688495903"
+    },
+    {
+      "author_id": "1744652452081610752",
+      "conversation_id": "2120396917016596552",
+      "created_at": "2026-11-11T14:07:56.000Z",
+      "edit_history_tweet_ids": [
+        "2120518895463497796"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1194889317388374016",
+            "start": 0,
+            "username": "mattshumer_"
+          }
+        ]
+      },
+      "id": "2120518895463497796",
+      "in_reply_to_user_id": "1194889317388374016",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 38,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120396917016596552",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mattshumer_ Bookmarked. Does any of it carry over to other  agent, or is it all Fable-specific?",
+      "url": "https://x.com/nana_ai_diary/status/2120518895463497796"
+    },
+    {
+      "author_id": "346711218",
+      "conversation_id": "2120396917016596552",
+      "created_at": "2026-11-11T13:34:54.000Z",
+      "edit_history_tweet_ids": [
+        "2120510583220875318"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1194889317388374016",
+            "start": 0,
+            "username": "mattshumer_"
+          }
+        ]
+      },
+      "id": "2120510583220875318",
+      "in_reply_to_user_id": "1194889317388374016",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 54,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120396917016596552",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mattshumer_ Curious how many of the tricks are really context tricks. Most of the ones I've learned were about what the model saw, not how I asked.",
+      "url": "https://x.com/seabatt/status/2120510583220875318"
+    },
+    {
+      "author_id": "1461210087230525440",
+      "conversation_id": "2120396917016596552",
+      "created_at": "2026-11-11T12:49:37.000Z",
+      "edit_history_tweet_ids": [
+        "2120499186856841583"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1194889317388374016",
+            "start": 0,
+            "username": "mattshumer_"
+          }
+        ]
+      },
+      "id": "2120499186856841583",
+      "in_reply_to_user_id": "1194889317388374016",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 105,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120396917016596552",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mattshumer_ I'm not understanding the part where you say we should have it split the work into sub-agents. You said earlier that it's best to have it as a single agent, so this sounds contradictory. Please clarify.",
+      "url": "https://x.com/ph31666968/status/2120499186856841583"
+    },
+    {
+      "author_id": "957859662547730432",
+      "conversation_id": "2120396917016596552",
+      "created_at": "2026-11-11T12:32:42.000Z",
+      "edit_history_tweet_ids": [
+        "2120494927067169182"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1194889317388374016",
+            "start": 0,
+            "username": "mattshumer_"
+          }
+        ]
+      },
+      "id": "2120494927067169182",
+      "in_reply_to_user_id": "1194889317388374016",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120396917016596552",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mattshumer_ 400B tokens to learn the prompting — and most users will never burn a fraction of that. That's the real story: the model that wins is the one that works before you've done the homework. Did anything in those 400B surprise you more than the RLI jump to 41.3%?",
+      "url": "https://x.com/kukukila0/status/2120494927067169182"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1194889317388374016",
+        "conversation_id": "2120396917016596552",
+        "created_at": "2026-11-11T06:03:14.000Z",
+        "edit_history_tweet_ids": [
+          "2120396917016596552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "I spent over 400 billion tokens on Fable 5.2 in a month. It’s a bea...",
+              "display_url": "youtube.com/watch?v=M--oC9…",
+              "end": 138,
+              "expanded_url": "https://www.youtube.com/watch?v=M--oC9_5HI8",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2120396920728494080/qrnBLtUS?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2120396920728494080/qrnBLtUS?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 115,
+              "status": 200,
+              "title": "You’re Prompting Fable 5.2 Wrong",
+              "unwound_url": "https://www.youtube.com/watch?v=M--oC9_5HI8",
+              "url": "https://t.co/9ekcEMjTWt"
+            }
+          ]
+        },
+        "id": "2120396917016596552",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 207,
+          "impression_count": 70676,
+          "like_count": 150,
+          "quote_count": 6,
+          "reply_count": 60,
+          "retweet_count": 4
+        },
+        "text": "I burned 400B+ tokens learning to use Fable 5.2.\n\nI packed every single trick I learned into one 17-minute video:\n\nhttps://t.co/9ekcEMjTWt"
+      },
+      {
+        "author_id": "1461210087230525440",
+        "conversation_id": "2120396917016596552",
+        "created_at": "2026-11-11T12:49:37.000Z",
+        "edit_history_tweet_ids": [
+          "2120499186856841583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1194889317388374016",
+              "start": 0,
+              "username": "mattshumer_"
+            }
+          ]
+        },
+        "id": "2120499186856841583",
+        "in_reply_to_user_id": "1194889317388374016",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120396917016596552",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@mattshumer_ I'm not understanding the part where you say we should have it split the work into sub-agents. You said earlier that it's best to have it as a single agent, so this sounds contradictory. Please clarify."
+      }
+    ],
+    "users": [
+      {
+        "id": "91763440",
+        "name": "Bijay Pandey",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616862051468468224/TEnhU7U9_normal.jpg",
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 1231,
+          "like_count": 68494,
+          "listed_count": 13,
+          "media_count": 66,
+          "tweet_count": 5590
+        },
+        "username": "bijaypandey",
+        "verified": false
+      },
+      {
+        "id": "1194889317388374016",
+        "name": "Matt Shumer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1490950574090571778/BtgOaqUP_normal.jpg",
+        "public_metrics": {
+          "followers_count": 403935,
+          "following_count": 1651,
+          "like_count": 10981,
+          "listed_count": 5030,
+          "media_count": 982,
+          "tweet_count": 11844
+        },
+        "username": "mattshumer_",
+        "verified": false
+      },
+      {
+        "id": "1763427814735265792",
+        "name": "harsh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074220713989513216/QMUGyl2x_normal.jpg",
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 390,
+          "like_count": 2904,
+          "listed_count": 7,
+          "media_count": 331,
+          "tweet_count": 6564
+        },
+        "username": "devloperhs",
+        "verified": false
+      },
+      {
+        "id": "1461210087230525440",
+        "name": "Tony Ph",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1461210222106746880/K8ckpQVM_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 5,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "ph31666968",
+        "verified": false
+      },
+      {
+        "id": "1792699261739786240",
+        "name": "Javi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792701888036831232/z_JJqlNN_normal.jpg",
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 260,
+          "like_count": 273,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 335
+        },
+        "username": "javibuildz",
+        "verified": false
+      },
+      {
+        "id": "803395061434224640",
+        "name": "Northgate Labs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117989400923504640/OiW6W2xK_normal.jpg",
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 82,
+          "like_count": 280,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 183
+        },
+        "username": "NorthgateLabsHQ",
+        "verified": false
+      },
+      {
+        "id": "1860365493124616192",
+        "name": "Cadabra AI 🪄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116849764595556352/prdg3Epp_normal.jpg",
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 208
+        },
+        "username": "CadabraAIfilms",
+        "verified": false
+      },
+      {
+        "id": "1988325881002291203",
+        "name": "MD SIAM HOSSAIN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988326021696024585/FETOU2WG_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 56,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 170
+        },
+        "username": "MdSiamHoss92361",
+        "verified": false
+      },
+      {
+        "id": "1445591169296060426",
+        "name": "Brandon | Useful AI Weekly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115159805895794688/etHqRY6O_normal.jpg",
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 2072,
+          "like_count": 10763,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 3368
+        },
+        "username": "BrandonCoatesAI",
+        "verified": false
+      },
+      {
+        "id": "2119120224104648705",
+        "name": "AI Growth Hub",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119122785289244673/U3LD2sNC_normal.jpg",
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 48,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 195
+        },
+        "username": "AIGrowthHub09",
+        "verified": false
+      },
+      {
+        "id": "273825585",
+        "name": "Ankesh | Thinking AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109506309678833664/VzRn-mEZ_normal.jpg",
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 171,
+          "like_count": 1318,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 1544
+        },
+        "username": "ankeshdev",
+        "verified": false
+      },
+      {
+        "id": "1838558231590830080",
+        "name": "Urbanwarrior79",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2112753219457662977/uiyXmbvm_normal.jpg",
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 3525,
+          "like_count": 3342,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 1681
+        },
+        "username": "Righteousbeing7",
+        "verified": false
+      },
+      {
+        "id": "368081941",
+        "name": "Lucas Stephens",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2114805480061353984/KM_O0bJO_normal.jpg",
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 969,
+          "like_count": 8805,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 3065
+        },
+        "username": "Lucas__Stephens",
+        "verified": false
+      },
+      {
+        "id": "1744652452081610752",
+        "name": "娜娜酱AI日记",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064014826524028928/DbUngQ-k_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3382,
+          "following_count": 3017,
+          "like_count": 2540,
+          "listed_count": 4,
+          "media_count": 248,
+          "tweet_count": 3242
+        },
+        "username": "nana_ai_diary",
+        "verified": false
+      },
+      {
+        "id": "346711218",
+        "name": "Chris Battis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120083064395034624/fslu69ld_normal.jpg",
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 740,
+          "like_count": 4648,
+          "listed_count": 55,
+          "media_count": 42,
+          "tweet_count": 8828
+        },
+        "username": "seabatt",
+        "verified": false
+      },
+      {
+        "id": "957859662547730432",
+        "name": "Kukukila",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025292632549982210/JdBc0gSU_normal.jpg",
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 1992,
+          "like_count": 897,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 2984
+        },
+        "username": "kukukila0",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120626711205417231",
+    "next_token": "b26v89c19zqg8o3juzovc6ez0tksj9lnoef69b9brdu9p",
+    "oldest_id": "2120494927067169182",
+    "result_count": 15
+  }
+}

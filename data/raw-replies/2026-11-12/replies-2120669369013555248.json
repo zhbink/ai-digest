@@ -1,0 +1,541 @@
+{
+  "data": [
+    {
+      "author_id": "1370419420292546562",
+      "conversation_id": "2120669369013555248",
+      "created_at": "2026-11-12T00:50:54.000Z",
+      "edit_history_tweet_ids": [
+        "2120680701544837303"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2120680701544837303",
+      "in_reply_to_user_id": "6782882",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120669369013555248",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge 三天写出来，性能跟 NVIDIA 版比怎么样？",
+      "url": "https://x.com/0x3108/status/2120680701544837303"
+    },
+    {
+      "author_id": "1996265669093216256",
+      "conversation_id": "2120669369013555248",
+      "created_at": "2026-11-12T00:42:50.000Z",
+      "edit_history_tweet_ids": [
+        "2120678673267507249"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2120678673267507249",
+      "in_reply_to_user_id": "6782882",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120669369013555248",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge 英伟达刚认购了 100 亿，看到这条估计心情复杂😂",
+      "url": "https://x.com/ermengzhu/status/2120678673267507249"
+    },
+    {
+      "author_id": "1254217568165888000",
+      "conversation_id": "2120669369013555248",
+      "created_at": "2026-11-12T00:41:05.000Z",
+      "edit_history_tweet_ids": [
+        "2120678232944939470"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2120678232944939470",
+      "in_reply_to_user_id": "6782882",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 16,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120669369013555248",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge 换芯片的门槛真能降下来 买卡时才更有议价空间",
+      "url": "https://x.com/zomeha38/status/2120678232944939470"
+    },
+    {
+      "author_id": "1786606847526584320",
+      "conversation_id": "2120669369013555248",
+      "created_at": "2026-11-12T00:38:17.000Z",
+      "edit_history_tweet_ids": [
+        "2120677527169712229"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2120677527169712229",
+      "in_reply_to_user_id": "6782882",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 16,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120669369013555248",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge 能标准化的活，时间最先被压缩掉。以前要一个团队磨几个月的底层工作，现在三天就能跑通。\n\n运营这边也是：活动说明和回访提醒，AI 可以先出草稿；但价格、期限和限制怎么写，这些需要经验类的还是得人过完再发出去。",
+      "url": "https://x.com/zhagsheng/status/2120677527169712229"
+    },
+    {
+      "author_id": "1855108185184403457",
+      "conversation_id": "2120669369013555248",
+      "created_at": "2026-11-12T00:23:27.000Z",
+      "edit_history_tweet_ids": [
+        "2120673796340498742"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2120673796340498742",
+      "in_reply_to_user_id": "6782882",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 34,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120669369013555248",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge 三天写内核 工程师看了沉默😳",
+      "url": "https://x.com/KaChengCA/status/2120673796340498742"
+    },
+    {
+      "author_id": "1572276696014782464",
+      "conversation_id": "2120669369013555248",
+      "created_at": "2026-11-12T00:21:32.000Z",
+      "edit_history_tweet_ids": [
+        "2120673312380788832"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2120673312380788832",
+      "in_reply_to_user_id": "6782882",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120669369013555248",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge 如果属实，这比刷榜有说服力多了。kernel 写得对不对、快不快，上机一跑就知道，没法靠背题。更大的意义是 A 社在摆脱只能用 CUDA 的绑定，算力能多一个供应商，成本和排队都会松一点。",
+      "url": "https://x.com/JY960516/status/2120673312380788832"
+    },
+    {
+      "author_id": "1694943359255957504",
+      "conversation_id": "2120669369013555248",
+      "created_at": "2026-11-12T00:20:49.000Z",
+      "edit_history_tweet_ids": [
+        "2120673130947682312"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          },
+          {
+            "end": 17,
+            "id": "6782882",
+            "start": 9,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2120673130947682312",
+      "in_reply_to_user_id": "6782882",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 52,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120669369013555248",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge @oran_ge 三天把内核写出来，这个速度确实狠。不过路演这段说的是，Anthropic 第一次把 AMD 的 GPU 接进自己这边，用 Mythos 把 Claude 跑起来。\n\n这是他们自己的算力接入。权重有没有交给客户的 AMD 机器，路演这段没有写。客户要的如果是「机房里的 AMD 也能跑 Claude」，今天这段路演覆盖不了。",
+      "url": "https://x.com/linxlbuilds/status/2120673130947682312"
+    },
+    {
+      "author_id": "5655712",
+      "conversation_id": "2120669369013555248",
+      "created_at": "2026-11-12T00:20:12.000Z",
+      "edit_history_tweet_ids": [
+        "2120672977742422371"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2120672977742422371",
+      "in_reply_to_user_id": "6782882",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120669369013555248",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge 几十人干几个月的活，AI 三天就干完了。以后想换家芯片，没那么吓人了。",
+      "url": "https://x.com/Asamoduo/status/2120672977742422371"
+    },
+    {
+      "author_id": "18405001",
+      "conversation_id": "2120669369013555248",
+      "created_at": "2026-11-12T00:12:16.000Z",
+      "edit_history_tweet_ids": [
+        "2120670978854514793"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2120670978854514793",
+      "in_reply_to_user_id": "6782882",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120669369013555248",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge 三天写出来我信，不过内核这种东西写完才算开个头吧。数值跟原来N卡上那版对不对得上，长上下文会不会掉速，这些是谁在测啊，以前那几十人几个月里估计有一大半就耗在这上面",
+      "url": "https://x.com/wzperson/status/2120670978854514793"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "6782882",
+        "conversation_id": "2120669369013555248",
+        "created_at": "2026-11-12T00:05:52.000Z",
+        "edit_history_tweet_ids": [
+          "2120669369013555248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AndrewCurran_/…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/AndrewCurran_/status/2120323074860179674",
+              "start": 82,
+              "url": "https://t.co/l7wVtaEIHn"
+            }
+          ]
+        },
+        "id": "2120669369013555248",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2770,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120323074860179674",
+            "type": "quoted"
+          }
+        ],
+        "text": "A 社路演爆料，他们已经开始用 AMD 的 GPU\nMythos 用了三天，就写出了 AMD 上跑 Claude 的内核。\n以前这需要数十名工程师花费数月的时间。 https://t.co/l7wVtaEIHn"
+      }
+    ],
+    "users": [
+      {
+        "id": "1370419420292546562",
+        "name": "KevinC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1554305667422228481/uFU1Ow81_normal.jpg",
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 317,
+          "like_count": 231,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 1090
+        },
+        "username": "0x3108",
+        "verified": false
+      },
+      {
+        "id": "6782882",
+        "name": "Orange AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760074488073629696/ceSsuVCY_normal.png",
+        "public_metrics": {
+          "followers_count": 189337,
+          "following_count": 629,
+          "like_count": 2797,
+          "listed_count": 2857,
+          "media_count": 6539,
+          "tweet_count": 137839
+        },
+        "username": "oran_ge",
+        "verified": false
+      },
+      {
+        "id": "1996265669093216256",
+        "name": "Austin 崔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095130611484925952/QKDIO-CH_normal.jpg",
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 919,
+          "like_count": 2000,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 2002
+        },
+        "username": "ermengzhu",
+        "verified": false
+      },
+      {
+        "id": "1254217568165888000",
+        "name": "打螺丝的Dave",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097562123257987072/NuaChaRL_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1130,
+          "following_count": 1482,
+          "like_count": 1300,
+          "listed_count": 0,
+          "media_count": 239,
+          "tweet_count": 3551
+        },
+        "username": "zomeha38",
+        "verified": false
+      },
+      {
+        "id": "1786606847526584320",
+        "name": "SHENG ZHANG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849660617826893824/GRaT9DgB_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2206,
+          "following_count": 2585,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 419
+        },
+        "username": "zhagsheng",
+        "verified": false
+      },
+      {
+        "id": "1855108185184403457",
+        "name": "卡城网 KaCheng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116009018821169152/2EHw28xJ_normal.png",
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 76,
+          "like_count": 1737,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 301
+        },
+        "username": "KaChengCA",
+        "verified": false
+      },
+      {
+        "id": "1572276696014782464",
+        "name": "Joe.Y",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2112425403017011200/glW4tKOc_normal.jpg",
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 66,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 280
+        },
+        "username": "JY960516",
+        "verified": false
+      },
+      {
+        "id": "1694943359255957504",
+        "name": "林小狼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102291443180306433/uo_aXFaS_normal.jpg",
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 178,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 270
+        },
+        "username": "linxlbuilds",
+        "verified": false
+      },
+      {
+        "id": "5655712",
+        "name": "Asa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101560168815484928/vU1MVNjD_normal.jpg",
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 134,
+          "like_count": 1376,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 442
+        },
+        "username": "Asamoduo",
+        "verified": false
+      },
+      {
+        "id": "18405001",
+        "name": "Raymond Wang｜用AI做出海App",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069056719028989952/O440HNAG_normal.jpg",
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 160,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 872
+        },
+        "username": "wzperson",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120680701544837303",
+    "next_token": "b26v89c19zqg8o3juzovcantkk9hqlf5cuq2rl0owagl9",
+    "oldest_id": "2120670978854514793",
+    "result_count": 9
+  }
+}

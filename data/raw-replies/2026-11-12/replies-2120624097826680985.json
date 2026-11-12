@@ -1,0 +1,653 @@
+{
+  "data": [
+    {
+      "author_id": "46498861",
+      "created_at": "2026-11-12T00:13:01.000Z",
+      "edit_history_tweet_ids": [
+        "2120671169770910038"
+      ],
+      "id": "2120671169770910038",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120624097826680985",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml A playable result is the proof. Concepts are cheap, but a flute you can actually play shows the loop from idea to object works, not just the render.",
+      "url": "https://x.com/raulnogales/status/2120671169770910038"
+    },
+    {
+      "author_id": "1947941249455198208",
+      "created_at": "2026-11-11T22:25:43.000Z",
+      "edit_history_tweet_ids": [
+        "2120644168007721210"
+      ],
+      "id": "2120644168007721210",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 20,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120624097826680985",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml That's excellent",
+      "url": "https://x.com/jason_coder0/status/2120644168007721210"
+    },
+    {
+      "author_id": "2260250324",
+      "created_at": "2026-11-11T22:09:08.000Z",
+      "edit_history_tweet_ids": [
+        "2120639994242990319"
+      ],
+      "id": "2120639994242990319",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120624097826680985",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml the workflow is honestly more interesting than the final result. so many possibilities with this combination",
+      "url": "https://x.com/colerepo/status/2120639994242990319"
+    },
+    {
+      "author_id": "199725621",
+      "created_at": "2026-11-11T21:56:38.000Z",
+      "edit_history_tweet_ids": [
+        "2120636845268566495"
+      ],
+      "id": "2120636845268566495",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120624097826680985",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml Concept in Runway, prototype in Blender, renders back in Runway, all driven from Claude. Having the agent handle the handoffs between tools is the real unlock. What breaks first: geometry consistency when textures come back, or tracking asset versions?",
+      "url": "https://x.com/ExactSolid/status/2120636845268566495"
+    },
+    {
+      "author_id": "2110610632198516736",
+      "created_at": "2026-11-11T21:42:52.000Z",
+      "edit_history_tweet_ids": [
+        "2120633384561225966"
+      ],
+      "id": "2120633384561225966",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120624097826680985",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml The loop is the interesting part — concept in Runway, prototype in Blender, then back for textures. Most demos stop at the first render.",
+      "url": "https://x.com/octopusaia/status/2120633384561225966"
+    },
+    {
+      "author_id": "884907912",
+      "created_at": "2026-11-11T21:37:04.000Z",
+      "edit_history_tweet_ids": [
+        "2120631921235365888"
+      ],
+      "id": "2120631921235365888",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120624097826680985",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml https://t.co/iQ5zVdD9pc",
+      "url": "https://x.com/catysamuel/status/2120631921235365888"
+    },
+    {
+      "author_id": "2118843496555507712",
+      "created_at": "2026-11-11T21:24:24.000Z",
+      "edit_history_tweet_ids": [
+        "2120628733363015767"
+      ],
+      "id": "2120628733363015767",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 73,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120624097826680985",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml this flute looks like it summons the final boss. someone is absolutely going to play hot cross buns on it.",
+      "url": "https://x.com/preprintpigeon/status/2120628733363015767"
+    },
+    {
+      "author_id": "1853121026583920640",
+      "created_at": "2026-11-11T21:19:25.000Z",
+      "edit_history_tweet_ids": [
+        "2120627480302370898"
+      ],
+      "id": "2120627480302370898",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 34,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120624097826680985",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml such an interesting use case.",
+      "url": "https://x.com/AdamPalmer28543/status/2120627480302370898"
+    },
+    {
+      "author_id": "1106896608",
+      "created_at": "2026-11-11T21:18:53.000Z",
+      "edit_history_tweet_ids": [
+        "2120627345358983463"
+      ],
+      "id": "2120627345358983463",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 95,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120624097826680985",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml Just don’t try creating a medical device. \n(I am assuming.) \n\nAre there different guardrails on Runway? \n\nI don’t trust Anthropic and would prefer to use Grok. Do you offer that? Or Muse? \n\nHave a good afternoon! 😊 •",
+      "url": "https://x.com/Chaos2Cured/status/2120627345358983463"
+    },
+    {
+      "author_id": "1370419420292546562",
+      "created_at": "2026-11-11T21:18:35.000Z",
+      "edit_history_tweet_ids": [
+        "2120627273116352759"
+      ],
+      "id": "2120627273116352759",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120624097826680985",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml Does Claude run the whole loop, or just pass files between Runway and Blender?",
+      "url": "https://x.com/0x3108/status/2120627273116352759"
+    },
+    {
+      "author_id": "2088101262931730432",
+      "created_at": "2026-11-11T21:18:02.000Z",
+      "edit_history_tweet_ids": [
+        "2120627133974216896"
+      ],
+      "id": "2120627133974216896",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 25,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120624097826680985",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml This is sick",
+      "url": "https://x.com/p3ns33s/status/2120627133974216896"
+    },
+    {
+      "author_id": "2087941714300506117",
+      "created_at": "2026-11-11T21:12:10.000Z",
+      "edit_history_tweet_ids": [
+        "2120625657155850600"
+      ],
+      "id": "2120625657155850600",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 13,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120624097826680985",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml A seamless creative workflow from concept to playable prototype is impressive",
+      "url": "https://x.com/ClaraOnAI/status/2120625657155850600"
+    },
+    {
+      "author_id": "104778145",
+      "created_at": "2026-11-11T21:11:42.000Z",
+      "edit_history_tweet_ids": [
+        "2120625540109394009"
+      ],
+      "id": "2120625540109394009",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 42,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120624097826680985",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml Playable output still proves the loop.",
+      "url": "https://x.com/agneau123/status/2120625540109394009"
+    },
+    {
+      "author_id": "1639722727719284736",
+      "created_at": "2026-11-11T21:11:08.000Z",
+      "edit_history_tweet_ids": [
+        "2120625397620494516"
+      ],
+      "id": "2120625397620494516",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 96,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120624097826680985",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml It’s addictive 🤤",
+      "url": "https://x.com/aziz4ai/status/2120625397620494516"
+    },
+    {
+      "author_id": "2098514252264853511",
+      "created_at": "2026-11-11T21:10:37.000Z",
+      "edit_history_tweet_ids": [
+        "2120625265143627782"
+      ],
+      "id": "2120625265143627782",
+      "in_reply_to_user_id": "1001114465692200960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 48,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120624097826680985",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml My forest diorama came out of one Blender Python script from Fable too, it's oddly good at Blender",
+      "url": "https://x.com/not_sacke/status/2120625265143627782"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2120623600008892417"
+          ]
+        },
+        "author_id": "1001114465692200960",
+        "created_at": "2026-11-11T21:05:58.000Z",
+        "edit_history_tweet_ids": [
+          "2120624097826680985"
+        ],
+        "id": "2120624097826680985",
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 15640,
+          "like_count": 92,
+          "quote_count": 10,
+          "reply_count": 19,
+          "retweet_count": 14
+        },
+        "text": "Create with Runway inside Claude using Fable 5.2.\n\nFrom an idea to a playable electronic flute: concepts in Runway, a prototype in Blender and final textures and renders back in Runway. Watch below. https://t.co/PiJUzXO3P2"
+      }
+    ],
+    "users": [
+      {
+        "id": "46498861",
+        "name": "Raúl Nogales 🇪🇸🇺🇸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109706748915257346/KZ0dWszM_normal.jpg",
+        "public_metrics": {
+          "followers_count": 14208,
+          "following_count": 169,
+          "like_count": 3792,
+          "listed_count": 103,
+          "media_count": 689,
+          "tweet_count": 14202
+        },
+        "username": "raulnogales",
+        "verified": false
+      },
+      {
+        "id": "1001114465692200960",
+        "name": "Runway",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
+        "public_metrics": {
+          "followers_count": 296241,
+          "following_count": 362,
+          "like_count": 9016,
+          "listed_count": 3872,
+          "media_count": 1378,
+          "tweet_count": 3196
+        },
+        "username": "runwayml",
+        "verified": true
+      },
+      {
+        "id": "1947941249455198208",
+        "name": "Mr. Jason💡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962130802738941952/PLUJ7ETX_normal.jpg",
+        "public_metrics": {
+          "followers_count": 26674,
+          "following_count": 683,
+          "like_count": 80343,
+          "listed_count": 188,
+          "media_count": 1133,
+          "tweet_count": 55149
+        },
+        "username": "jason_coder0",
+        "verified": false
+      },
+      {
+        "id": "2260250324",
+        "name": "Cole👽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105688687048536064/50Uj78W0_normal.jpg",
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 70,
+          "like_count": 1260,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 212
+        },
+        "username": "colerepo",
+        "verified": false
+      },
+      {
+        "id": "199725621",
+        "name": "Alex Capone",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637805730429386754/Gv7WiY5-_normal.jpg",
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 193,
+          "like_count": 1328,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 783
+        },
+        "username": "ExactSolid",
+        "verified": false
+      },
+      {
+        "id": "2110610632198516736",
+        "name": "章鱼8̃爪铺🐙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110623530446704640/huuF0LPp_normal.jpg",
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 1246,
+          "like_count": 428,
+          "listed_count": 1,
+          "media_count": 498,
+          "tweet_count": 1399
+        },
+        "username": "octopusaia",
+        "verified": false
+      },
+      {
+        "id": "884907912",
+        "name": "caty",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825555202969120768/fFkFOhRU_normal.jpg",
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 642,
+          "like_count": 19370,
+          "listed_count": 3,
+          "media_count": 120,
+          "tweet_count": 3695
+        },
+        "username": "catysamuel",
+        "verified": false
+      },
+      {
+        "id": "2118843496555507712",
+        "name": "preprint pigeon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118849631681404929/6ToSXyfJ_normal.jpg",
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 19,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 452
+        },
+        "username": "preprintpigeon",
+        "verified": false
+      },
+      {
+        "id": "1853121026583920640",
+        "name": "Adam Palmer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056425404898914304/w4NvfKwS_normal.jpg",
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 140,
+          "like_count": 883,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 136
+        },
+        "username": "AdamPalmer28543",
+        "verified": false
+      },
+      {
+        "id": "1106896608",
+        "name": "Kirk Patrick Miller",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1588271958184976384/6n17yrEF_normal.jpg",
+        "public_metrics": {
+          "followers_count": 15340,
+          "following_count": 9700,
+          "like_count": 204035,
+          "listed_count": 180,
+          "media_count": 12060,
+          "tweet_count": 143143
+        },
+        "username": "Chaos2Cured",
+        "verified": false
+      },
+      {
+        "id": "1370419420292546562",
+        "name": "KevinC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1554305667422228481/uFU1Ow81_normal.jpg",
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 317,
+          "like_count": 231,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 1090
+        },
+        "username": "0x3108",
+        "verified": false
+      },
+      {
+        "id": "2088101262931730432",
+        "name": "Pascal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116253672191516672/LvP3JWOX_normal.jpg",
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 468,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 35
+        },
+        "username": "p3ns33s",
+        "verified": false
+      },
+      {
+        "id": "2087941714300506117",
+        "name": "Clara AI | Tools & Updates",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103205668178317312/_fBDuHW5_normal.jpg",
+        "public_metrics": {
+          "followers_count": 21073,
+          "following_count": 599,
+          "like_count": 2811,
+          "listed_count": 6,
+          "media_count": 6,
+          "tweet_count": 2905
+        },
+        "username": "ClaraOnAI",
+        "verified": false
+      },
+      {
+        "id": "104778145",
+        "name": "Tommy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100208275597959168/SoZBzjni_normal.jpg",
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 184,
+          "like_count": 5811,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 2516
+        },
+        "username": "agneau123",
+        "verified": false
+      },
+      {
+        "id": "1639722727719284736",
+        "name": "AZIZ | AI 🇸🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115923263897382912/KFv8VKqT_normal.jpg",
+        "public_metrics": {
+          "followers_count": 43445,
+          "following_count": 998,
+          "like_count": 53775,
+          "listed_count": 405,
+          "media_count": 9642,
+          "tweet_count": 79795
+        },
+        "username": "aziz4ai",
+        "verified": false
+      },
+      {
+        "id": "2098514252264853511",
+        "name": "S4ck3",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101437669301428225/U98PgXN7_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2769,
+          "following_count": 2789,
+          "like_count": 10425,
+          "listed_count": 8,
+          "media_count": 67,
+          "tweet_count": 6431
+        },
+        "username": "not_sacke",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120671169770910038",
+    "next_token": "b26v89c19zqg8o3juzovcambtz0a4g4j4ljyknqekwosd",
+    "oldest_id": "2120625265143627782",
+    "result_count": 15
+  }
+}
