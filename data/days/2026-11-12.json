@@ -135,7 +135,130 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2120583966272983331",
+          "url": "https://x.com/Google/status/2120583966272983331",
+          "handle": "Google",
+          "display_name": "Google",
+          "avatar": "https://pbs.twimg.com/profile_images/2042749771337564160/AgOFPEL3_normal.jpg",
+          "verified": true,
+          "followers": 31900659,
+          "created_at": "2026-11-11T18:26:30.000Z",
+          "lang": null,
+          "text": "We're introducing the Gemini Decisions API in @GoogleAIStudio, powered by our new Gemini Decision 1 model.\n\nInstead of generating a text response token by token, Gemini Decision 1 evaluates your input (across text, images, audio, video, and PDFs) against up to 1,000 questions to https://t.co/PXz7CFRDgk",
+          "text_zh": "我们在 Google AI Studio 中推出了 Gemini Decisions API，背后是新的 Gemini Decision 1 模型。\n\n它不再逐个 Token 生成文字回答，而是把你的输入（文本、图片、音频、视频和 PDF）对照最多 1000 个问题来做判断。",
+          "summary_zh": "Google 官方账号宣布在 Google AI Studio 上线 Gemini Decisions API，由新模型 Gemini Decision 1 驱动，一次最多对照 1000 个问题做判断，而不逐字生成回答。",
+          "relation_zh": "母帖是 Logan 的产品发布说明，这条是 Google 官方账号的同步宣布，把产品放进 Google AI Studio 和 Decisions API 的正式语境里。",
+          "metrics": {
+            "likes": 1442,
+            "retweets": 125,
+            "replies": 66,
+            "quotes": 83,
+            "bookmarks": 656,
+            "views": 299466
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 2640,
+              "h": 1082,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HW3SSYyXEAEk6ru.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-12T02:50:05.959292+00:00"
+        },
+        {
+          "id": "2120582049522127205",
+          "url": "https://x.com/ArtificialAnlys/status/2120582049522127205",
+          "handle": "ArtificialAnlys",
+          "display_name": "Artificial Analysis",
+          "avatar": "https://pbs.twimg.com/profile_images/2042402069320290304/A8C1lP07_normal.jpg",
+          "verified": true,
+          "followers": 177472,
+          "created_at": "2026-11-11T18:18:53.000Z",
+          "lang": "en",
+          "text": "Google has released its first decision model, Gemini Decision 1, scoring 66 on the Artificial Analysis Decision Index and leading in knowledge and reasoning benchmarks\n\nGemini Decision 1 from @GoogleDeepMind scores 66 on the Artificial Analysis Decision Index v2.1, in line with Elephant 9B (@baselabs) and Jev 1.14 (@typesafeai), and 7 points behind leaders Drex Max v1.1 (@NaceAI) and GLiDE v1.2 (@fastinoAI), which both score 73. It is priced at $0.10 per 1M input tokens and costs $345 per 1M Tasks across the Index, around three times higher than Drex Max v1.1 ($103) due to its higher pricing\n\nKey results for Gemini Decision 1:\n\n➤ Not yet frontier on Decision Index: Gemini Decision 1 scores 66 on the Artificial Analysis Decision Index. It leads knowledge and reasoning benchmarks, scoring 66 on AA-Omniscience-Decision and 49 on HLE-MultiChoice. It trails on other evaluations, including our new proprietary classification and extraction benchmark AA-Paperclip, where it answers all 15 questions correctly on 33% of documents vs. 63% for Drex Max v1.1\n\n➤ More than 3x the Cost per Task of leading models: Gemini Decision 1 costs $345 per 1M Tasks, compared with $103 for Drex Max v1.1, $156 for Jev 1.14. This difference is driven by its token price of $0.10 per 1M input tokens vs. $0.03 for Drex Max v1.1. Gemini Decision 1 has a similar Cost per 1M Tasks to GPT-6 Luna (Decisions, $339)\n\n➤ Strong calibration for reasoning tasks: We measure calibration with the Brier score, the average squared gap between the probability a model assigns to its chosen answer and whether that answer was correct (lower is better). Gemini Decision 1 has a Brier score of 0.18 across the Index, between Drex Max v1.1 (0.16) and Jev 1.14 (0.19). Calibration varies by task. with its Brier score of 0.20 on HLE-MultiChoice among the lowest of all models in the Index, while its 0.14 on When2Call compares with 0.04 for Drex Max v1.1",
+          "text_zh": "Google 发布了首个决策模型 Gemini Decision 1，在 Artificial Analysis Decision Index 上得到 66 分，并在知识与推理基准中领先。\n\n来自 Google DeepMind 的 Gemini Decision 1 在 Artificial Analysis Decision Index v2.1 上得到 66 分，与 Baselabs 的 Elephant 9B、TypeSafe 的 Jev 1.14 相当，比领先的 NaceAI Drex Max v1.1 和 Fastino 的 GLiDE v1.2（均为 73 分）低 7 分。它的定价是每百万输入 Token 0.1 美元，在该榜单上每百万任务成本约 345 美元，大约是 Drex Max v1.1（103 美元）的三倍，主要因为单价更高。\n\n关键结果：\n\n➤ 综合尚未进入前沿：Decision Index 为 66 分。它在知识和推理相关基准上领先，AA-Omniscience-Decision 为 66、HLE-MultiChoice 为 49；但在其他评测上落后，包括新的分类与抽取基准 AA-Paperclip——它在 33% 的文档上 15 题全对，而 Drex Max v1.1 是 63%。\n\n➤ 单位任务成本超过领先模型的三倍：每百万任务约 345 美元，而 Drex Max v1.1 为 103 美元、Jev 1.14 为 156 美元。差距主要来自 Token 单价：每百万输入 Token 0.1 美元，对上 Drex Max v1.1 的 0.03 美元。它的单位任务成本和 GPT-6 Luna（Decisions，339 美元）接近。\n\n➤ 推理任务的校准较好：用 Brier 分数衡量校准（模型给出的概率与对错之间的均方差距，越低越好）。Gemini Decision 1 在总榜上的 Brier 分数是 0.18，介于 Drex Max v1.1 的 0.16 和 Jev 1.14 的 0.19 之间。分任务差异很大：它在 HLE-MultiChoice 上的 0.20 属于该榜较低（较好）的一档，但在 When2Call 上的 0.14，对比 Drex Max v1.1 的 0.04。",
+          "summary_zh": "Artificial Analysis 测得 Gemini Decision 1 的 Decision Index 为 66，知识与推理领先，但综合仍落后头部 73 分，且单位任务成本约为竞品三倍。",
+          "relation_zh": "母帖介绍了定价和能力，这条补上了独立评测：分数、短板和单位任务成本对比。",
+          "metrics": {
+            "likes": 475,
+            "retweets": 0,
+            "replies": 27,
+            "quotes": 16,
+            "bookmarks": 137,
+            "views": 47903
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 2464,
+              "h": 936,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HW3Rr1iWoAENDOb.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/ArtificialAnlys/status/2120582049522127205/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "GoogleDeepMind"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-12T02:50:05.959292+00:00"
+        },
+        {
+          "id": "2120647659388031454",
+          "url": "https://x.com/dotey/status/2120647659388031454",
+          "handle": "dotey",
+          "display_name": "宝玉",
+          "avatar": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+          "verified": true,
+          "followers": 268447,
+          "created_at": "2026-11-11T22:39:36.000Z",
+          "lang": "zh",
+          "text": "Google 推出 Gemini Decisions API：不写回答只做判断，一次最多问 1000 个问题，输入每百万 Token 0.1 美元、输出不收钱\n\nGoogle 今天在 Gemini API 里上线了 Decisions API，配套新模型 Gemini Decision 1。它不生成文字，只答题：给它一份输入和一组问题，它直接返回每道题的答案，外加一个“有多大把握”的置信度。\n\n【它解决什么问题】\n\n做 AI 应用时，很多调用其实只要一个判断：这条客服消息转给哪个组？这个问题交给便宜模型还是推理模型？这张图违不违规？以前只能让大模型写一段话，再从里面解析答案，慢，容易解析失败，还要为输出 Token 付钱。\n\nDecisions API 只有三种题型：是非题，返回“是”的概率；单选题，2 到 255 个选项，返回选中项和每个选项的概率；打分题，按你写的档位打分。每个答案带 0 到 1 的置信度，代码可以设门槛，比如高于 0.7 自动执行，低于就转人工。官方说这些概率是校准过的，意思是模型说 90% 的时候，大约十次里真对九次，所以置信度能直接拿来当门槛。\n\nGoogle 博客的例子：上传一张茶水间台面的照片，同时问三个问题。“有没有洒了的液体”答 0.95；“怎么处理”选“用抹布擦”，置信度 0.98；“脏乱程度按 0 到 2 打分”给 1.19，置信度 0.77。\n\n【多快、多便宜】\n\n一次请求的输入最多 256K Token，文字、JSON、图片、音频、视频、PDF 可以混着放，比如一段客服通话录音加账户信息。同一份输入上最多挂 1000 个问题，彼此互不影响。输入只计一次费，每多一个问题只多算这道题本身的字数。\n\nGoogle 称输入在 1.6 万 Token 以内时，端到端延迟 150 到 250 毫秒，问 1 个和问 100 个问题耗时差不多；同一批评测下，比用 Gemini 3.5 Flash-Lite 生成答案便宜近 5 倍。Gemini Notebook 已经用它给每个提问挑模型，日常问题延迟最多降了 40%。\n\n【谁能用】\n\n在 Google AI Studio 拿个 API Key 就能调，模型名 gemini-decision-1，走 v1beta 接口。有免费层，每分钟 200 次、每天 1 万次，免费层的数据会被 Google 用来改进产品，付费层不会。OpenRouter、LangChain、Vercel 等正在接入，Google Cloud 上的 Gemini 要稍后才支持。\n\n不支持上下文缓存和 Batch API，同一份大文档反复问，每次都按全价算输入；不能直接传 YouTube 链接；问题本身只能写文字。\n\n【跟 OpenAI 的同名产品比】\n\nOpenAI 早一个月做了同样的东西，名字也叫 Decisions API：10 月 6 日出测试版，10 月 22 日正式开放，用 GPT-6 Luna，同样每百万输入 Token 0.1 美元、输出不收费。区别是 OpenAI 一次最多 400 个问题，只收文字、图片和 JSON，不收音视频和 PDF；但它支持缓存，重复输入能打折，还能直接塞进对话历史和工具调用记录。\n\n创业公司 TypeSafe 的 Jev 1.14 也专做这类判断，在 OpenRouter 上每百万输入 Token 0.042 美元，只收文字和图片。\n\nGoogle 博客附的对比表里，Gemini Decision 1 在 9 项测试中 7 项第一（其中音频、视频两项只有它和 Flash-Lite 参测），校准误差 0.025，GPT-6 Luna 是 0.072；网页操作和“该不该调用工具”两项输给了 Jev 1.14。7 项共同评测的总花费，Jev 最低，0.68 美元，Gemini Decision 1 是 0.88 美元，GPT-6 Luna 0.93 美元。以上跑分都是 Google 自己测的。\n\nGoogle 博客：https://t.co/P5hlLj7fXN\n官方文档：https://t.co/WphCUZv5oT\nOpenAI Decisions API 文档：https://t.co/MGgS32OuNy",
+          "text_zh": "Google 推出 Gemini Decisions API：不写回答只做判断，一次最多问 1000 个问题，输入每百万 Token 0.1 美元、输出不收钱\n\nGoogle 今天在 Gemini API 里上线了 Decisions API，配套新模型 Gemini Decision 1。它不生成文字，只答题：给它一份输入和一组问题，它直接返回每道题的答案，外加一个“有多大把握”的置信度。\n\n【它解决什么问题】\n\n做 AI 应用时，很多调用其实只要一个判断：这条客服消息转给哪个组？这个问题交给便宜模型还是推理模型？这张图违不违规？以前只能让大模型写一段话，再从里面解析答案，慢，容易解析失败，还要为输出 Token 付钱。\n\nDecisions API 只有三种题型：是非题，返回“是”的概率；单选题，2 到 255 个选项，返回选中项和每个选项的概率；打分题，按你写的档位打分。每个答案带 0 到 1 的置信度，代码可以设门槛，比如高于 0.7 自动执行，低于就转人工。官方说这些概率是校准过的，意思是模型说 90% 的时候，大约十次里真对九次，所以置信度能直接拿来当门槛。\n\nGoogle 博客的例子：上传一张茶水间台面的照片，同时问三个问题。“有没有洒了的液体”答 0.95；“怎么处理”选“用抹布擦”，置信度 0.98；“脏乱程度按 0 到 2 打分”给 1.19，置信度 0.77。\n\n【多快、多便宜】\n\n一次请求的输入最多 256K Token，文字、JSON、图片、音频、视频、PDF 可以混着放，比如一段客服通话录音加账户信息。同一份输入上最多挂 1000 个问题，彼此互不影响。输入只计一次费，每多一个问题只多算这道题本身的字数。\n\nGoogle 称输入在 1.6 万 Token 以内时，端到端延迟 150 到 250 毫秒，问 1 个和问 100 个问题耗时差不多；同一批评测下，比用 Gemini 3.5 Flash-Lite 生成答案便宜近 5 倍。Gemini Notebook 已经用它给每个提问挑模型，日常问题延迟最多降了 40%。\n\n【谁能用】\n\n在 Google AI Studio 拿个 API Key 就能调，模型名 gemini-decision-1，走 v1beta 接口。有免费层，每分钟 200 次、每天 1 万次，免费层的数据会被 Google 用来改进产品，付费层不会。OpenRouter、LangChain、Vercel 等正在接入，Google Cloud 上的 Gemini 要稍后才支持。\n\n不支持上下文缓存和 Batch API，同一份大文档反复问，每次都按全价算输入；不能直接传 YouTube 链接；问题本身只能写文字。\n\n【跟 OpenAI 的同名产品比】\n\nOpenAI 早一个月做了同样的东西，名字也叫 Decisions API：10 月 6 日出测试版，10 月 22 日正式开放，用 GPT-6 Luna，同样每百万输入 Token 0.1 美元、输出不收费。区别是 OpenAI 一次最多 400 个问题，只收文字、图片和 JSON，不收音视频和 PDF；但它支持缓存，重复输入能打折，还能直接塞进对话历史和工具调用记录。\n\n创业公司 TypeSafe 的 Jev 1.14 也专做这类判断，在 OpenRouter 上每百万输入 Token 0.042 美元，只收文字和图片。\n\nGoogle 博客附的对比表里，Gemini Decision 1 在 9 项测试中 7 项第一（其中音频、视频两项只有它和 Flash-Lite 参测），校准误差 0.025，GPT-6 Luna 是 0.072；网页操作和“该不该调用工具”两项输给了 Jev 1.14。7 项共同评测的总花费，Jev 最低，0.68 美元，Gemini Decision 1 是 0.88 美元，GPT-6 Luna 0.93 美元。以上跑分都是 Google 自己测的。\n\nGoogle 博客：https://t.co/P5hlLj7fXN\n官方文档：https://t.co/WphCUZv5oT\nOpenAI Decisions API 文档：https://t.co/MGgS32OuNy",
+          "summary_zh": "宝玉用中文把 Gemini Decisions API 讲清楚：它不写长文、只做判断，一次最多 1000 题，并说明三种题型和适用场景。",
+          "relation_zh": "母帖是英文产品发布，这条给中文读者补上了它解决什么问题、三种题型，以及和逐字生成相比省在哪里。",
+          "metrics": {
+            "likes": 112,
+            "retweets": 0,
+            "replies": 101,
+            "quotes": 11,
+            "bookmarks": 95,
+            "views": 19248
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/sundarpichai/status/2120581155078729728"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2120581155078729728",
+          "article_title": null,
+          "attached_at": "2026-11-12T02:50:05.959292+00:00"
+        }
+      ]
     },
     {
       "id": "2120335993643684315",
@@ -259,7 +382,153 @@
       "external_url": null,
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "这条官方预告把 Qwen4 定位在更深的知识、更强的世界理解和更扎实的编程与 Agent 能力，并点名复杂编程、知识工作、前端构建和专业软件流程。目前先上线的是 Qwen4-Max 预览，入口在阿里 Token Plan。帖中没有给出参数量、基准分数或正式发布日期，仍属即将到来的一代模型预览，而不是最终版评测。"
+      "article_summary_zh": "这条官方预告把 Qwen4 定位在更深的知识、更强的世界理解和更扎实的编程与 Agent 能力，并点名复杂编程、知识工作、前端构建和专业软件流程。目前先上线的是 Qwen4-Max 预览，入口在阿里 Token Plan。帖中没有给出参数量、基准分数或正式发布日期，仍属即将到来的一代模型预览，而不是最终版评测。",
+      "attached_posts": [
+        {
+          "id": "2120528130599494031",
+          "url": "https://x.com/bozhou_ai/status/2120528130599494031",
+          "handle": "bozhou_ai",
+          "display_name": "泊舟",
+          "avatar": "https://pbs.twimg.com/profile_images/2040464227811590144/r1-3gG2y_normal.jpg",
+          "verified": true,
+          "followers": 33567,
+          "created_at": "2026-11-11T14:44:38.000Z",
+          "lang": "zh",
+          "text": "白墙黛瓦、满月当空，这座江南小院不是我在软件里一点点抠出来的，\n\n是 Qwen4-Max 预览版写 Python 脚本，直接驱动 Blender 搭出来的。\n\n没用现成资产包，工作流跟之前 GPT-6 Astra 徒手搓 3D 场景是同一套：模型写脚本，Blender 负责执行。这次提示词也是只有一句\n\n使用blender3D建模，制作一个国风的江南水乡庭院建筑。\n\n结果就是你视频里看到的这座院子。\n\n镜头绕着院子走了一圈，能看见马头墙的错落、四角亭的伞状顶、亮着的格子门和廊下灯笼，\n\n还有太湖石、池水、和特意设计的月洞门，以及门外的竹子和石桥。\n\n很多人觉得中式院子难，难在空间会挤、层次会乱，\n但这次前后关系是顺的，看起来它知道「庭院深深」在三维坐标里该怎么排布。\n\n就好比你只把院子的意思交给它，它自己用代码把空间立了起来。\n\n我很喜欢这种骨子里的中式审美，不是那种把瓦片和柱子堆齐。\n\n想自己试的，可以走千问 AI 平台 Token Plan：个人版 Lite 新客限时 19.5 元/月，每月 2 万 Credits。\n\n现在能调的是 qwen4-max-preview，预览期到 11 月 25 日 24:00，到期后这个模型 ID 会下线。\n\n19.5 元只卖给从未买过 Token Plan 个人版的账号，优惠到 11 月 30 日；活动期间 Credits 消耗低至 2 折，最终价格以结算页为准。千问办公、Qoder、千问 APP、QwenStudio 也可以第一时间体验。",
+          "text_zh": "白墙黛瓦、满月当空，这座江南小院不是我在软件里一点点抠出来的，\n\n是 Qwen4-Max 预览版写 Python 脚本，直接驱动 Blender 搭出来的。\n\n没用现成资产包，工作流跟之前 GPT-6 Astra 徒手搓 3D 场景是同一套：模型写脚本，Blender 负责执行。这次提示词也是只有一句\n\n使用blender3D建模，制作一个国风的江南水乡庭院建筑。\n\n结果就是你视频里看到的这座院子。\n\n镜头绕着院子走了一圈，能看见马头墙的错落、四角亭的伞状顶、亮着的格子门和廊下灯笼，\n\n还有太湖石、池水、和特意设计的月洞门，以及门外的竹子和石桥。\n\n很多人觉得中式院子难，难在空间会挤、层次会乱，\n但这次前后关系是顺的，看起来它知道「庭院深深」在三维坐标里该怎么排布。\n\n就好比你只把院子的意思交给它，它自己用代码把空间立了起来。\n\n我很喜欢这种骨子里的中式审美，不是那种把瓦片和柱子堆齐。\n\n想自己试的，可以走千问 AI 平台 Token Plan：个人版 Lite 新客限时 19.5 元/月，每月 2 万 Credits。\n\n现在能调的是 qwen4-max-preview，预览期到 11 月 25 日 24:00，到期后这个模型 ID 会下线。\n\n19.5 元只卖给从未买过 Token Plan 个人版的账号，优惠到 11 月 30 日；活动期间 Credits 消耗低至 2 折，最终价格以结算页为准。千问办公、Qoder、千问 APP、QwenStudio 也可以第一时间体验。",
+          "summary_zh": "有开发者只用一句提示，让 Qwen4-Max 预览版写 Python 驱动 Blender，搭出一座江南庭院三维场景。",
+          "relation_zh": "母帖预告 Qwen4 并开放 Qwen4-Max 预览，这条用一段庭院建模视频，直观展示它的编程和三维工作流能力。",
+          "metrics": {
+            "likes": 36,
+            "retweets": 0,
+            "replies": 27,
+            "quotes": 8,
+            "bookmarks": 14,
+            "views": 11248
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1280,
+              "h": 720,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2120527072565354496/vid/avc1/1280x720/9FPCc-YNRV0pIuQH.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2120527072565354496/img/rYtr2l_fi4D8Jqyj.jpg",
+              "duration_ms": 12000
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/bozhou_ai/status/2120528130599494031/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-12T02:50:05.959292+00:00"
+        },
+        {
+          "id": "2120421925407355012",
+          "url": "https://x.com/IshanJX/status/2120421925407355012",
+          "handle": "IshanJX",
+          "display_name": "Ishan",
+          "avatar": "https://pbs.twimg.com/profile_images/2112846601786097664/T5OuI10J_normal.jpg",
+          "verified": true,
+          "followers": 7,
+          "created_at": "2026-11-11T07:42:37.000Z",
+          "lang": "en",
+          "text": "Qwen4 Max Preview \n\n\"Make Qwen 4 Build An Insane 3D Animated Website In A Single HTML File.\" https://t.co/EX9NEEh2HH",
+          "text_zh": "有人给 Qwen4-Max 预览版下了一句提示：「让 Qwen 4 用单个 HTML 文件做出一个超炫的 3D 动画网站」，并配上了完整演示视频。",
+          "summary_zh": "有开发者演示用 Qwen4-Max 预览版，在单个 HTML 文件里生成带 3D 动画的网站。",
+          "relation_zh": "母帖强调编程和前端能力，这条用近一分钟的视频给出了一个可直接查看的前端成品。",
+          "metrics": {
+            "likes": 5,
+            "retweets": 0,
+            "replies": 2,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 974
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2120419641717932032/vid/avc1/1280x720/Ui7hcb1lDAzQcE9F.mp4?tag=14",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2120419641717932032/img/2MWSsx5gWqiEdT0t.jpg",
+              "duration_ms": 56842
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/IshanJX/status/2120421925407355012/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-12T02:50:05.959292+00:00"
+        },
+        {
+          "id": "2120404110348587294",
+          "url": "https://x.com/bebuu_ai/status/2120404110348587294",
+          "handle": "bebuu_ai",
+          "display_name": "bebu",
+          "avatar": "https://pbs.twimg.com/profile_images/2114595320608993280/eo5XiR7k_normal.jpg",
+          "verified": true,
+          "followers": 1531,
+          "created_at": "2026-11-11T06:31:49.000Z",
+          "lang": "en",
+          "text": "look closely at the first independent benchmark chart for Qwen-4-Max-Preview.\n\nOn the GameFeel RE benchmark (8,000+ game design and code feedback tasks), Qwen-4-Max-Preview only scored 10.3.\n\nThat is lower than Qwen-3.8-Max (12.1) and Qwen-3.8-Flash-Next (13.0).\n\nEven crazier, look at the two unreleased Qwen 4 models sitting to the right of it on the same chart:\n- Qwen-4-27B-Early (codenamed \"quDuck\"): 14.9 (beating Sonnet 5.5 XHigh at 14.3)\n- Qwen-4-Flash-Early (codenamed \"quHawk\"): 19.9 (beating Opus 5.5 Medium at 15.3)\n\nIt looks like the open-weight Qwen-4-27B and Qwen-4-Flash checkpoints are actually way stronger on reasoning than the early Qwen4-Max preview checkpoint they put up today.",
+          "text_zh": "仔细看看 Qwen4-Max 预览版的首份独立评测图。在 GameFeel RE 基准（超过 8000 道游戏设计和代码反馈题）上，Qwen4-Max 预览只拿到 10.3 分，低于 Qwen-3.8-Max 的 12.1 分和 Qwen-3.8-Flash-Next 的 13.0 分。\n\n更值得注意的是，同一张图右侧还有两个尚未发布的 Qwen 4 模型：代号 quDuck 的 Qwen-4-27B-Early 得到 14.9 分，超过 Sonnet 5.5 XHigh 的 14.3；代号 quHawk 的 Qwen-4-Flash-Early 得到 19.9 分，超过 Opus 5.5 Medium 的 15.3。看起来，开源权重的 Qwen-4-27B 和 Qwen-4-Flash 在推理上，可能比今天放出的 Qwen4-Max 早期预览检查点更强。",
+          "summary_zh": "一份独立的 GameFeel RE 测试里，Qwen4-Max 预览得分 10.3，低于 Qwen 3.8；图中两个尚未发布的 Qwen 4 早期检查点分数反而更高。",
+          "relation_zh": "母帖是官方预告和入口，这条补上了首批独立评测：预览版分数并不领先，未发布的 27B 和 Flash 早期版本反而更亮眼。",
+          "metrics": {
+            "likes": 17,
+            "retweets": 0,
+            "replies": 6,
+            "quotes": 1,
+            "bookmarks": 5,
+            "views": 11180
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1188,
+              "h": 668,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HW0wSP8aUAACKKV.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 1199,
+              "h": 669,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HW0wS4za8AA8ZY2.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo",
+            "photo"
+          ],
+          "links": [
+            "https://x.com/bebuu_ai/status/2120404110348587294/photo/1",
+            "https://x.com/bebuu_ai/status/2120404110348587294/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-12T02:50:05.959292+00:00"
+        }
+      ]
     },
     {
       "id": "2120532824465805749",
@@ -648,7 +917,128 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2120510691689857240",
+          "url": "https://x.com/0xjmori/status/2120510691689857240",
+          "handle": "0xjmori",
+          "display_name": "Mori",
+          "avatar": "https://pbs.twimg.com/profile_images/2096395098594615296/tycV6b2J_normal.jpg",
+          "verified": true,
+          "followers": 3648,
+          "created_at": "2026-11-11T13:35:20.000Z",
+          "lang": "en",
+          "text": "Holy f*ck... Elon Musk's team just made waiting for Black Friday useless\n\nMy Grok Bot got me $415 back on a Mac mini I'd already bought, and I never picked up the phone\n\nMatt Palmer from the Grok Bot team just showed calls and shopping deals in Monday's What's New video\n\nIt keeps your receipts, watches the price after you buy, says no to store credit and asks you before it accepts anything\n\n6 price-drop calls I'm never making again before Black Friday, and the exact line I say:\n\n→ Apple: \"My Mac mini dropped in price, get the difference back to my card\"\n→ Best Buy: \"The TV I bought went on sale, ask for the price adjustment\"\n→ Target: \"My order went on sale this week, get me the difference\"\n→ Costco: \"The price dropped within 30 days, get me the adjustment\"\n→ Macy's: \"Ask for the sale price on what I bought last week\"\n→ Delta: \"My holiday fare dropped, rebook me and keep the credit\"\n\nAdd one rule first: never take store credit instead of a refund without asking me\n\nHand it your receipts before Black Friday\n\nThen read how to build a whole team around one bot like this in the article below ↓",
+          "text_zh": "真没想到……马斯克团队这一下，让黑五都显得没那么必要了。\n\n我的 Grok Bot 帮我把已经买过的 Mac mini 拿回了 415 美元差价，而我自己连电话都没打。Grok Bot 团队的 Matt Palmer 在周一的 What's New 视频里刚演示过电话和购物优惠这类能力。\n\n它会留着你的小票，买完之后继续盯价格，拒绝只给店铺积分，而且在接受任何方案前都会先问你。\n\n黑五前我再也不用自己打的 6 个降价电话，以及我会让它说的原话：\n\n→ Apple：「我的 Mac mini 降价了，把差价退回我的卡里。」\n→ Best Buy：「我买的电视开始打折了，帮我申请差价。」\n→ Target：「我这周买的东西降价了，把差价拿回来。」\n→ Costco：「30 天内降价了，帮我申请调整。」\n→ Macy's：「把我上周买的东西改成现价。」\n→ Delta：「我的节日机票降价了，帮我改签并保留余额。」\n\n先加一条规则：未经我同意，不要用店铺积分代替退款。\n\n黑五前先把小票交给它。下面的文章还写了怎样围绕这样一个 Bot 搭一整支团队。",
+          "summary_zh": "Mori 演示用 Grok Bot 自动跟进已购买的 Mac mini，在自己没打电话的情况下拿回 415 美元差价，并给出可复用的降价沟通话术。",
+          "relation_zh": "母帖宣布 Grok Bot 1.0 可共享、更能协作，这条用购物差价退款的视频，展示 Bot 已经能替人打电话、盯价格并办成一件实事。",
+          "metrics": {
+            "likes": 61,
+            "retweets": 0,
+            "replies": 2,
+            "quotes": 0,
+            "bookmarks": 83,
+            "views": 9002
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1080,
+              "h": 1350,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2120510588434423808/vid/avc1/1080x1350/YvvE2GfBmyyu3hm2.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2120510588434423808/img/QtDJ7ob2bcNvjR0F.jpg",
+              "duration_ms": 22500
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/0xjmori/status/2120510691689857240/video/1",
+            "https://twitter.com/0xjmori/status/2101661510091034926"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2101661510091034926",
+          "article_title": null,
+          "attached_at": "2026-11-12T02:50:05.959292+00:00"
+        },
+        {
+          "id": "2120672857252573505",
+          "url": "https://x.com/0xlangeai/status/2120672857252573505",
+          "handle": "0xlangeai",
+          "display_name": "蓝哥AI",
+          "avatar": "https://pbs.twimg.com/profile_images/2108429130471776256/bVX57DM8_normal.png",
+          "verified": true,
+          "followers": 12727,
+          "created_at": "2026-11-12T00:19:44.000Z",
+          "lang": null,
+          "text": "Grok Bot 1.0 正式发布,  真正的数字员工时代来了。\n\n从个人助手 → 真正的团队 AI 同事\n\n三大核心升级：\n\n1. 多人协作\n可共享 Team Bot，整个团队共用\n接入 Slack、Microsoft Teams\n加入 Zoom / Meet / Teams 会议，会中回答、会后发总结\n从所有人学习，越用越懂团队\n\n2. 主动干活 https://t.co/biDLl4pIUq https://t.co/TWOuyQ9h0j",
+          "text_zh": "Grok Bot 1.0 正式发布，作者把它写成真正的「数字员工」时刻：从个人助手变成团队里的 AI 同事。\n\n三大核心升级包括：可共享 Team Bot，整个团队共用；接入 Slack、Microsoft Teams；还能加入 Zoom / Meet / Teams 会议，会中回答、会后发总结，并从大家的互动里学习，越用越懂团队。帖文后半还写到「主动干活」，并配了一张要点图。",
+          "summary_zh": "有人把 Grok Bot 1.0 归纳为从个人助手变成团队 AI 同事，并配图说明可共享 Team Bot、接入 Slack / Teams，以及参会和会后总结。",
+          "relation_zh": "母帖只说了可分享、协作更强，这条把 1.0 的团队共享、会议接入等具体能力写清楚了。",
+          "metrics": {
+            "likes": 6,
+            "retweets": 1,
+            "replies": 1,
+            "quotes": 1,
+            "bookmarks": 4,
+            "views": 1867
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 642,
+              "h": 298,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HW4jK4Pa4AAhFJH.png",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2120666667453976675",
+          "article_title": null,
+          "attached_at": "2026-11-12T02:50:05.959292+00:00"
+        },
+        {
+          "id": "2120644334894846460",
+          "url": "https://x.com/nanajiang8888/status/2120644334894846460",
+          "handle": "nanajiang8888",
+          "display_name": "Kristina娜娜酱",
+          "avatar": "https://pbs.twimg.com/profile_images/1991486657451945988/YDm0TG4D_normal.jpg",
+          "verified": true,
+          "followers": 2347,
+          "created_at": "2026-11-11T22:26:23.000Z",
+          "lang": null,
+          "text": "Grok Bot 1.0 发了，重点三个升级：\n\n一、团队共享\nBot 可以加入 Slack、Teams 和视频会议，记住团队知识和成员习惯，还能协同其他 Bot 工作。\n\n二、主动干活\n跟进项目进度、提醒截止日期、提前准备材料，遇到需要决策的事主动找人。\n\n三、执行力提升\n浏览器操作更稳定，文档和 PPT https://t.co/zmmxgNyCaK",
+          "text_zh": "Grok Bot 1.0 发布了，作者把重点归纳成三个升级：\n\n一、团队共享。Bot 可以加入 Slack、Teams 和视频会议，记住团队知识和成员习惯，还能和其他 Bot 协同工作。\n\n二、主动干活。能跟进项目进度、提醒截止日期、提前准备材料，遇到需要决策的事会主动找人。\n\n三、执行力提升。浏览器操作更稳定，文档和 PPT 相关能力也有加强。",
+          "summary_zh": "有中文帖把 Grok Bot 1.0 的升级概括为团队共享、主动跟进任务，以及更稳的浏览器和文档执行力。",
+          "relation_zh": "母帖是官方短视频发布，这条补上了中文读者更需要的三点能力拆解：共享、主动干活和执行力。",
+          "metrics": {
+            "likes": 9,
+            "retweets": 0,
+            "replies": 2,
+            "quotes": 0,
+            "bookmarks": 1,
+            "views": 1652
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2120582957782200586",
+          "article_title": null,
+          "attached_at": "2026-11-12T02:50:05.959292+00:00"
+        }
+      ]
     },
     {
       "id": "2120484246401777737",
@@ -3360,7 +3750,129 @@
       "external_url": null,
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "SemiAnalysis 现场观察恩维信银河园区：规划 800MW、以风电为主要电源，位于内蒙古乌兰察布，首期 120MW 大约一年完成从空地到交付。这提供了关于选址、绿电和交付速度的具体案例，但帖中还没有展开电价、上架率和客户结构等完整财务细节。"
+      "article_summary_zh": "SemiAnalysis 现场观察恩维信银河园区：规划 800MW、以风电为主要电源，位于内蒙古乌兰察布，首期 120MW 大约一年完成从空地到交付。这提供了关于选址、绿电和交付速度的具体案例，但帖中还没有展开电价、上架率和客户结构等完整财务细节。",
+      "attached_posts": [
+        {
+          "id": "2120218808262758887",
+          "url": "https://x.com/TripInChina/status/2120218808262758887",
+          "handle": "TripInChina",
+          "display_name": "Sharing Travel",
+          "avatar": "https://pbs.twimg.com/profile_images/1489636633180012544/HY9RWfzI_normal.jpg",
+          "verified": true,
+          "followers": 110255,
+          "created_at": "2026-11-10T18:15:30.000Z",
+          "lang": "en",
+          "text": "Ulanqab builds computing hubs for four strengths, 84 projects, over 500 billion yuan investment.\n \n1. Cool climate: average temp 4.3°C, nearly 10 months of natural cooling\n\n2. Green power: 67% green energy, electricity price 0.32–0.36 yuan/kWh\n​\n3. 240 km away from Beijing, ultra-low network latency\n​\n4. Stable geology, safe for computing facilities",
+          "text_zh": "乌兰察布正凭借四项优势建设算力枢纽，已有 84 个项目、投资超过 5000 亿元。\n\n1. 气候凉爽：年均气温 4.3°C，一年里有近 10 个月可以自然冷却。\n2. 绿电充足：绿电占比 67%，电价约 0.32–0.36 元/千瓦时。\n3. 距北京约 240 公里，网络延迟极低。\n4. 地质稳定，适合建设算力设施。",
+          "summary_zh": "有账号用视频介绍乌兰察布建设算力枢纽的四个条件：凉爽气候、绿电占比约 67%、距北京约 240 公里，以及已签约 84 个项目、投资超 5000 亿元。",
+          "relation_zh": "母帖讲的是远景银河园区这一处 800MW 风电数据中心，这条补上了乌兰察布作为算力基地的气候、电价和区位背景。",
+          "metrics": {
+            "likes": 147,
+            "retweets": 14,
+            "replies": 0,
+            "quotes": 3,
+            "bookmarks": 17,
+            "views": 57636
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1080,
+              "h": 1920,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2120148857422331904/vid/avc1/1080x1920/eKqEQMetGa5g_l2T.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2120148857422331904/img/pInMoNuQ4I0By7OA.jpg",
+              "duration_ms": 15069
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/TripInChina/status/2120218808262758887/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-12T02:50:05.959292+00:00"
+        },
+        {
+          "id": "2120309279152607522",
+          "url": "https://x.com/poezhao0605/status/2120309279152607522",
+          "handle": "poezhao0605",
+          "display_name": "Poe Zhao",
+          "avatar": "https://pbs.twimg.com/profile_images/1994020525732139008/yWxv0hlw_normal.jpg",
+          "verified": true,
+          "followers": 9804,
+          "created_at": "2026-11-11T00:15:00.000Z",
+          "lang": "en",
+          "text": "Galaxy's first 120MW phase was delivered within a year, at a fifth of US costs, SemiAnalysis says. Galaxy is the Ulanqab data center campus of Envision, a Chinese wind turbine and energy group. SemiAnalysis, a US chip research firm, calls it China's Stargate.\n\nEnvision builds its own wind farms and a dedicated power line to supply the campus, SemiAnalysis says.\n\nLast month I wrote about this campus: \"Direct supply may reduce reliance on the public grid. Public filings do not yet show whether the campus can run at full load without it.\" SemiAnalysis now adds a target. Envision aims to supply over 60% of the first two phases' power use from its own wind farms.\n\nThe speed was most likely paid for upstream, in wind capacity and batteries. Even so, the target is over 60%, not all of it.\n\nIn a calm week, where does the rest of the power come from?",
+          "text_zh": "SemiAnalysis 称，银河园区首期 120MW 一年内交付，造价约为美国的五分之一。银河是中国风电与能源集团远景在内蒙古乌兰察布的数据中心园区，SemiAnalysis 把它称作「中国的 Stargate」。\n\nSemiAnalysis 还说，远景自建风电场和专线为园区供电。作者上个月写过：直供或许能降低对公网的依赖，但公开材料还看不出园区能否在不靠公网的情况下满负荷运行。这次 SemiAnalysis 补充了一个目标：远景希望前两期用电中，超过 60% 来自自有风电。\n\n建设速度多半是在上游用风电装机和储能换来的。即便如此，目标也只是超过 60%，并不是全部自给。那么在风小的平静一周里，剩下的电从哪来？",
+          "summary_zh": "作者把 SemiAnalysis 探访补全为：造价约美国的 1/5，远景自建风电和专线，并瞄准前两期用电超 60% 来自自有风电，同时追问剩余电力从哪来。",
+          "relation_zh": "母帖只写了园区规模和一年交付，这条补上了造价对比、自建风电专线，以及「超过 60% 自供电」这一目标及其留白。",
+          "metrics": {
+            "likes": 3,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 576
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1200,
+              "h": 675,
+              "alt": "By the numbers, from SemiAnalysis's site report on Envision's Galaxy campus in Ulanqab: 420MW of installed wind capacity across two farms; 240MW data center load; over 60% own-wind target for the first two phases' power use. Hello China Tech.",
+              "orig": "https://pbs.twimg.com/media/HWuz-7saUAAjtmA.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/poezhao0605/status/2120309279152607522/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-12T02:50:05.959292+00:00"
+        },
+        {
+          "id": "2120148218059059649",
+          "url": "https://x.com/zhang_baoqing/status/2120148218059059649",
+          "handle": "zhang_baoqing",
+          "display_name": "一地鸡毛",
+          "avatar": "https://pbs.twimg.com/profile_images/1740203094364065792/nB0B0cGt_normal.jpg",
+          "verified": true,
+          "followers": 10641,
+          "created_at": "2026-11-10T13:35:00.000Z",
+          "lang": "zh",
+          "text": "今天的乌兰察布就是一个巨大的工地\n\n按现在签约的规模算\n到2030年前后\nIT电力负荷15GW\n标准机架400万架\n已签约项目总投资约2600亿元\n\n市委书记及永乾说\n到2030年乌兰察布会新增3万IT年轻人\n\n这要是做成了\n乌兰察布就是全球最大的算力集群\n\n宇宙的尽头是不是铁岭我不知道\n但全球算力的尽头很可能在乌兰察布",
+          "text_zh": "今天的乌兰察布就像一个巨大的工地。\n\n按现在签约的规模算，到 2030 年前后，IT 电力负荷约 15GW，标准机架约 400 万架，已签约项目总投资约 2600 亿元。市委书记及永乾说，到 2030 年乌兰察布会新增 3 万名 IT 年轻人。\n\n这要是做成了，乌兰察布就是全球最大的算力集群。宇宙的尽头是不是铁岭我不知道，但全球算力的尽头很可能在乌兰察布。",
+          "summary_zh": "作者根据签约规模估计，乌兰察布到 2030 年前后可达约 15GW IT 负荷、400 万标准机架，并称市委书记提到将新增 3 万名 IT 年轻人。",
+          "relation_zh": "母帖聚焦银河园区这一处 800MW 项目，这条把镜头拉到整座城市：签约规模、投资和人才目标，用来对照单园区探访。",
+          "metrics": {
+            "likes": 322,
+            "retweets": 21,
+            "replies": 54,
+            "quotes": 1,
+            "bookmarks": 69,
+            "views": 83576
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-12T02:50:05.959292+00:00"
+        }
+      ]
     },
     {
       "id": "2120532776403247464",
