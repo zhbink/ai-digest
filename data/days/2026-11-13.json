@@ -134,7 +134,142 @@
       "external_url": null,
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "Google DeepMind 把 Hydrogen 定位为 Gemini 4 系列里主打速度和效率的执行模型，补位更擅长长程推理的 Carbon 与 Argon。默认高思考档在 Artificial Analysis 智力指数上为 51，超过 Argon 的 50，最高 xhigh 档可到 54；相对 Gemini 3.8 Flash，默认高设置下完成任务约快 2.5 倍，Terminal-Bench 4.1 从 18.2% 提升到 57%，虚假声称下降超过 5 倍。定价在 100 万 Token 上下文内统一为输入每百万 $1.50、输出每百万 $7.50。Antigravity 还上线 Orchestrator，可在同一会话中在 Carbon 与 Hydrogen 之间切换，在 Terminal-Bench 4.0 上接近 Carbon 成功率的同时平均少耗 24% 配额、快 19%。Hydrogen 已在 AI Studio、Gemini API、Gemini 应用、Google 搜索，以及 Antigravity 的 Pro/Ultra 付费用户中推出。"
+      "article_summary_zh": "Google DeepMind 把 Hydrogen 定位为 Gemini 4 系列里主打速度和效率的执行模型，补位更擅长长程推理的 Carbon 与 Argon。默认高思考档在 Artificial Analysis 智力指数上为 51，超过 Argon 的 50，最高 xhigh 档可到 54；相对 Gemini 3.8 Flash，默认高设置下完成任务约快 2.5 倍，Terminal-Bench 4.1 从 18.2% 提升到 57%，虚假声称下降超过 5 倍。定价在 100 万 Token 上下文内统一为输入每百万 $1.50、输出每百万 $7.50。Antigravity 还上线 Orchestrator，可在同一会话中在 Carbon 与 Hydrogen 之间切换，在 Terminal-Bench 4.0 上接近 Carbon 成功率的同时平均少耗 24% 配额、快 19%。Hydrogen 已在 AI Studio、Gemini API、Gemini 应用、Google 搜索，以及 Antigravity 的 Pro/Ultra 付费用户中推出。",
+      "attached_posts": [
+        {
+          "id": "2120940683233984862",
+          "url": "https://x.com/GoogleAI/status/2120940683233984862",
+          "handle": "GoogleAI",
+          "display_name": "Google AI",
+          "avatar": "https://pbs.twimg.com/profile_images/2057682346074058752/zTpu89C1_normal.jpg",
+          "verified": true,
+          "followers": 2488778,
+          "created_at": "2026-11-12T18:03:58.000Z",
+          "lang": "en",
+          "text": "Today, we’re growing the Gemini 4 model series by introducing Gemini 4 Hydrogen.\n\nWhile Gemini 4 Carbon tackles your hardest problems, Hydrogen brings cutting-edge intelligence to everyone — with speed and efficiency for everyday coding and agentic workflows, surpassing Argon on https://t.co/Ace9xBG1Dk",
+          "text_zh": "今天，我们为 Gemini 4 模型系列增加了 Gemini 4 Hydrogen。\n\nGemini 4 Carbon 负责攻克最难的问题，Hydrogen 则把前沿智力带给更多人——为日常编程和智能体工作流提供速度和效率，并在相关评测上超过 Argon。",
+          "summary_zh": "Google AI 官方视频把 Gemini 4 系列的分工说清楚：Carbon 负责最难的问题，Hydrogen 则把前沿智力带到日常编程和智能体工作流，强调速度和效率，并称其表现超过 Argon。",
+          "relation_zh": "母帖是 DeepMind 的发布短讯，这条是 Google AI 的配套介绍，补上了 Carbon 与 Hydrogen 的定位分工。",
+          "metrics": {
+            "likes": 1386,
+            "retweets": 121,
+            "replies": 67,
+            "quotes": 36,
+            "bookmarks": 141,
+            "views": 64496
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2120939844440399873/vid/avc1/1920x1080/UdjxfjX9O8eqkkB4.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2120939844440399873/img/clqd-11nmofMTIxi.jpg",
+              "duration_ms": 40433
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/GoogleAI/status/2120940683233984862/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-13T02:11:10.439078+00:00"
+        },
+        {
+          "id": "2120941984148041901",
+          "url": "https://x.com/Google/status/2120941984148041901",
+          "handle": "Google",
+          "display_name": "Google",
+          "avatar": "https://pbs.twimg.com/profile_images/2042749771337564160/AgOFPEL3_normal.jpg",
+          "verified": true,
+          "followers": 31897968,
+          "created_at": "2026-11-12T18:09:08.000Z",
+          "lang": null,
+          "text": "Hydrogen gives you four thinking levels (low, medium, high, and a new xhigh tier) that scale intelligence, latency, and token use in a predictable progression — so you only wait and pay for the reasoning depth a task needs.\n\nAnd with Orchestrator in @Antigravity (available to https://t.co/9BXKnaelfT",
+          "text_zh": "Hydrogen 提供四档思维级别（低、中、高，以及新的 xhigh），让智力、延迟和 token 消耗按可预期的梯度变化，这样你只会为任务真正需要的推理深度等待和付费。\n\n在 Antigravity 的 Orchestrator 中也可以搭配使用。",
+          "summary_zh": "Google 官方介绍 Hydrogen 提供低、中、高和新增的 xhigh 四档思维级别，让智力、延迟和 token 消耗按任务需要递增，并提到可在 Antigravity 里与 Orchestrator 搭配使用。",
+          "relation_zh": "母帖只给了速度和评测对比，这条补上了四档思维级别，以及和 Antigravity Orchestrator 的组合方式。",
+          "metrics": {
+            "likes": 147,
+            "retweets": 4,
+            "replies": 2,
+            "quotes": 2,
+            "bookmarks": 8,
+            "views": 20820
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 3840,
+              "h": 2160,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2120940650426191872/vid/avc1/3840x2160/euU6_jkItAOm75JU.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2120940650426191872/img/RGSRgUl36wvtzmwK.jpg",
+              "duration_ms": 110276
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [
+            "antigravity"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-13T02:11:10.439078+00:00"
+        },
+        {
+          "id": "2120960715011883148",
+          "url": "https://x.com/Google/status/2120960715011883148",
+          "handle": "Google",
+          "display_name": "Google",
+          "avatar": "https://pbs.twimg.com/profile_images/2042749771337564160/AgOFPEL3_normal.jpg",
+          "verified": true,
+          "followers": 31897968,
+          "created_at": "2026-11-12T19:23:34.000Z",
+          "lang": null,
+          "text": "Google Search is getting its biggest model update yet with Gemini 4 Hydrogen — rolling out globally for all users today.\n\nHere’s what’s new in Search:\n\n🔍 Better understands intent: Ask nuanced, multi-part questions in your natural flow of thought — even with specific requests or https://t.co/zZkqcHl0G4",
+          "text_zh": "Google 搜索迎来迄今最大的一次模型升级，Gemini 4 Hydrogen 今天开始向全球所有用户推出。\n\n搜索里有这些变化：\n\n更能理解意图：你可以用更自然的思路提出细致、分多段的问题。",
+          "summary_zh": "Google 宣布搜索迎来据称最大的一次模型升级，开始在全球为所有用户上线 Gemini 4 Hydrogen，并强调能更好地理解意图、处理更自然的多段复杂问题。",
+          "relation_zh": "母帖讲的是模型本身，这条说明 Hydrogen 已经进入 Google 搜索，影响面从开发者工具扩到日常搜索。",
+          "metrics": {
+            "likes": 1432,
+            "retweets": 145,
+            "replies": 71,
+            "quotes": 39,
+            "bookmarks": 160,
+            "views": 119341
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1080,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2120959886766772224/vid/avc1/1080x1080/vBFxh1k58I9Lfa-B.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2120959886766772224/img/iUX24uHbZgMZ9UNA.jpg",
+              "duration_ms": 36266
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-13T02:11:10.439078+00:00"
+        }
+      ]
     },
     {
       "id": "2120876571829662014",
@@ -273,7 +408,146 @@
       "external_url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "英伟达董事会宣布，创始人黄仁勋立即辞去总裁、首席执行官及董事职务。现任执行副总裁兼 CFO Colette Kress 出任临时 CEO，并在正式继任者到位前继续兼任财务负责人。董事会同时任命长期担任董事的 Harvey C. Jones 为公司史上首位董事长，他曾出任 Synopsys CEO 和执行董事长。Kress 表示将与现有管理团队一起，在黄仁勋 33 年打下的基础上继续推进业务；公司仍按原计划于 11 月 17 日发布 2027 财年第三季度业绩。"
+      "article_summary_zh": "英伟达董事会宣布，创始人黄仁勋立即辞去总裁、首席执行官及董事职务。现任执行副总裁兼 CFO Colette Kress 出任临时 CEO，并在正式继任者到位前继续兼任财务负责人。董事会同时任命长期担任董事的 Harvey C. Jones 为公司史上首位董事长，他曾出任 Synopsys CEO 和执行董事长。Kress 表示将与现有管理团队一起，在黄仁勋 33 年打下的基础上继续推进业务；公司仍按原计划于 11 月 17 日发布 2027 财年第三季度业绩。",
+      "attached_posts": [
+        {
+          "id": "2120914807721250975",
+          "url": "https://x.com/WSJ/status/2120914807721250975",
+          "handle": "WSJ",
+          "display_name": "The Wall Street Journal",
+          "avatar": "https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg",
+          "verified": true,
+          "followers": 22284132,
+          "created_at": "2026-11-12T16:21:09.000Z",
+          "lang": "en",
+          "text": "WSJ’s Telis Demos explains what’s at stake for Nvidia and the entire AI industry after the resignation of its founder and longtime CEO Jensen Huang following two extramarital affairs.\n\nRead more: https://t.co/Kz0lickSqN https://t.co/WcgXqEuwYt",
+          "text_zh": "华尔街日报的 Telis Demos 解释：在创始人兼长期 CEO 黄仁勋因两段婚外关系辞职之后，英伟达乃至整个 AI 行业现在面临着什么。",
+          "summary_zh": "《华尔街日报》的 Telis Demos 用视频分析黄仁勋在两段婚外关系曝光后辞职，对英伟达乃至整个 AI 行业意味着什么。",
+          "relation_zh": "母帖只是公司发布的交接声明，这条提供了主流财经媒体对事件影响的解读。",
+          "metrics": {
+            "likes": 54,
+            "retweets": 21,
+            "replies": 30,
+            "quotes": 3,
+            "bookmarks": 24,
+            "views": 44148
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1080,
+              "h": 1920,
+              "alt": null,
+              "mp4": "https://video.twimg.com/ext_tw_video/2120914722199330817/pu/vid/avc1/720x1280/uK2QsDgaOuHW8noN.mp4?tag=12",
+              "poster": "https://pbs.twimg.com/ext_tw_video_thumb/2120914722199330817/pu/img/KDDg2tlwswx_ht5s.jpg",
+              "duration_ms": 88505
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad?mod=e2tw",
+            "https://x.com/WSJ/status/2120914807721250975/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-13T02:11:10.439078+00:00"
+        },
+        {
+          "id": "2120927099859108293",
+          "url": "https://x.com/Reuters/status/2120927099859108293",
+          "handle": "Reuters",
+          "display_name": "Reuters",
+          "avatar": "https://pbs.twimg.com/profile_images/1874154135869616128/nJDmubGJ_normal.jpg",
+          "verified": true,
+          "followers": 26448615,
+          "created_at": "2026-11-12T17:10:00.000Z",
+          "lang": "en",
+          "text": "Nvidia CEO Jensen Huang has never anointed a successor, but many analysts and investors see two people as particularly likely candidates: Nvidia's uber-engineer Ian Buck and Chief Financial Officer Colette Kress who is now interim CEO https://t.co/CjzPEiwyP0 https://t.co/fmQK0eYZvh",
+          "text_zh": "英伟达 CEO 黄仁勋从未指定过接班人，但许多分析师和投资者目前最看好两个人：英伟达的资深工程师 Ian Buck，以及现已出任临时 CEO 的首席财务官 Colette Kress。",
+          "summary_zh": "路透社指出黄仁勋从未指定接班人，分析师和投资者目前最常提到的两个人选是英伟达资深工程师 Ian Buck，以及已出任临时 CEO 的 CFO Colette Kress。",
+          "relation_zh": "母帖只宣布了临时 CEO，这条补充了外界对常任继任者的讨论，以及除 Kress 之外还提到 Ian Buck。",
+          "metrics": {
+            "likes": 80,
+            "retweets": 14,
+            "replies": 8,
+            "quotes": 3,
+            "bookmarks": 16,
+            "views": 47066
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2120886007356870656/vid/avc1/1920x1080/44zFEklMZo9dW8T0.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2120886007356870656/img/QoXj4XGNdZB8xCFn.jpg",
+              "duration_ms": 112709
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://www.reuters.com/technology/who-is-nvidia-interim-ceo-colette-kress-2026-11-12/?utm_source=Facebook&utm_medium=Social",
+            "https://x.com/Reuters/status/2120927099859108293/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-13T02:11:10.439078+00:00"
+        },
+        {
+          "id": "2120882703645995245",
+          "url": "https://x.com/AP/status/2120882703645995245",
+          "handle": "AP",
+          "display_name": "The Associated Press",
+          "avatar": "https://pbs.twimg.com/profile_images/1736863672029310976/gzIskvxa_normal.jpg",
+          "verified": true,
+          "followers": 16527033,
+          "created_at": "2026-11-12T14:13:35.000Z",
+          "lang": "en",
+          "text": "Nvidia CEO Jensen Huang resigns after his affair raised national security concerns. The company named Colette Kress as interim CEO. \n\nShares of Nvidia, one of the largest companies in the world, plunged 10% in premarket trading Thursday. https://t.co/0z66yR7ZPZ https://t.co/Lu0UIb0Z4Z",
+          "text_zh": "英伟达 CEO 黄仁勋辞职，美联社称其婚外关系引发了国家安全方面的担忧。公司任命 Colette Kress 为临时 CEO。\n\n作为全球最大公司之一，英伟达股价在周四盘前下跌了 10%。",
+          "summary_zh": "美联社报道黄仁勋辞职，称其婚外关系引发了国家安全方面的担忧；公司任命 CFO Colette Kress 为临时 CEO，英伟达股价在周四盘前一度下跌 10%。",
+          "relation_zh": "母帖没有说明市场反应和外界关注的原因，这条补上了盘前跌幅、临时 CEO 人选，以及美联社对国家安全疑虑的表述。",
+          "metrics": {
+            "likes": 1386,
+            "retweets": 597,
+            "replies": 257,
+            "quotes": 320,
+            "bookmarks": 122,
+            "views": 390598
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1080,
+              "h": 1350,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HW7jlI_WYAA9P_q.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f?taid=0484f946-8f17-45d5-8e03-b5673639e3cd&utm_campaign=TrueAnthem&utm_medium=AP&utm_source=Twitter",
+            "https://x.com/AP/status/2120882703645995245/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-13T02:11:10.439078+00:00"
+        }
+      ]
     },
     {
       "id": "2120841731302154708",
@@ -386,7 +660,147 @@
       "external_url": null,
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "Anthropic 在官网开启 IPO 路演，公司以公益公司身份申请公开发行 A 类普通股，股票拟在纳斯达克交易，代码为 ANT。路演自 11 月 10 日（美国东部时间）开始，在获得监管许可的前提下，发行价预计于 11 月 18 日确定，并于 11 月 19 日开始公开交易。投资者可通过参与经纪商提交申购。页面披露的 2026 年三季度要点包括：营收 170 亿美元、同比增幅超过 12 倍；过去十二个月收入不低于 10 万美元的客户超过 1.19 万家；调整后营业利润率 15%。净亏损 233 亿美元，其中约 219 亿为可转债、衍生负债和 SAFE 公允价值变动带来的非现金费用。"
+      "article_summary_zh": "Anthropic 在官网开启 IPO 路演，公司以公益公司身份申请公开发行 A 类普通股，股票拟在纳斯达克交易，代码为 ANT。路演自 11 月 10 日（美国东部时间）开始，在获得监管许可的前提下，发行价预计于 11 月 18 日确定，并于 11 月 19 日开始公开交易。投资者可通过参与经纪商提交申购。页面披露的 2026 年三季度要点包括：营收 170 亿美元、同比增幅超过 12 倍；过去十二个月收入不低于 10 万美元的客户超过 1.19 万家；调整后营业利润率 15%。净亏损 233 亿美元，其中约 219 亿为可转债、衍生负债和 SAFE 公允价值变动带来的非现金费用。",
+      "attached_posts": [
+        {
+          "id": "2120860648359817615",
+          "url": "https://x.com/johnAGI168/status/2120860648359817615",
+          "handle": "johnAGI168",
+          "display_name": "John",
+          "avatar": "https://pbs.twimg.com/profile_images/1905589492867854336/UBUMmQ1h_normal.jpg",
+          "verified": true,
+          "followers": 24212,
+          "created_at": "2026-11-12T12:45:56.000Z",
+          "lang": "zh",
+          "text": "Anthropic 上市路演视频 42 分钟，我剪成了 3 分钟精华版，配中英双语字幕 👇\n\n🔹 Dario：AI 将是人类历史上最有前景的技术，也是最需要正视风险的技术\n🔹 Opus 5.5：一位用户不到一天就完成了 68 万行代码迁移\n🔹 第三季度营收近 170 亿美元，是去年同期的 12 倍，毛利率 85%\n🔹 净收入留存率约 https://t.co/rSsPFO68RL",
+          "text_zh": "Anthropic 上市路演视频有 42 分钟，我剪成了 3 分钟精华版，配中英双语字幕。\n\n🔹 Dario：AI 将是人类历史上最有前景的技术，也是最需要正视风险的技术\n🔹 Opus 5.5：一位用户不到一天就完成了 68 万行代码迁移\n🔹 第三季度营收近 170 亿美元，是去年同期的 12 倍，毛利率 85%",
+          "summary_zh": "有账号把 Anthropic 约 42 分钟的上市路演剪成 3 分钟中英字幕精华，提到 Dario 强调 AI 既是前景最大的技术也必须正视风险，并转述路演中的例子：有用户不到一天完成约 68 万行代码迁移，以及第三季度营收近 170 亿美元、同比约 12 倍、毛利率 85%。",
+          "relation_zh": "母帖主要是上市公告和合规声明，这条把路演里外界最关心的业绩和技术案例做成了短视频摘要。",
+          "metrics": {
+            "likes": 8,
+            "retweets": 0,
+            "replies": 2,
+            "quotes": 0,
+            "bookmarks": 5,
+            "views": 932
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2120860262324416512/vid/avc1/1920x1080/4awbqrnDueSNomJH.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2120860262324416512/img/FhbHuuqJEQi1rPff.jpg",
+              "duration_ms": 166794
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/johnAGI168/status/2120860648359817615/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-13T02:11:10.439078+00:00"
+        },
+        {
+          "id": "2120925314633396585",
+          "url": "https://x.com/EvanLuthra/status/2120925314633396585",
+          "handle": "EvanLuthra",
+          "display_name": "Evan Luthra",
+          "avatar": "https://pbs.twimg.com/profile_images/2107319798027972608/CjnYJrRc_normal.jpg",
+          "verified": true,
+          "followers": 383911,
+          "created_at": "2026-11-12T17:02:54.000Z",
+          "lang": "en",
+          "text": "Anthropic made $386 million in all of 2024.\n\nThis summer it made $17 billion in 3 months.\n\nNow it's going public, and the founders still keep 50.1% of the vote.\n\nIts own IPO filing warns that AI could pose \"existential risks to humanity.\"\n\nEach co-founder is still selling about https://t.co/kSKYXDn17g https://t.co/ZZ1n5mehLL",
+          "text_zh": "Anthropic 2024 年全年营收是 3.86 亿美元。\n\n而今年夏天，它一个季度就做了 170 亿美元。\n\n现在要上市了，创始团队仍保留 50.1% 的投票权。\n\n它自己的招股文件还警告：AI 可能对人类构成「生存风险」。",
+          "summary_zh": "Evan Luthra 用视频梳理招股相关数字：称 Anthropic 2024 年全年营收 3.86 亿美元，而今年夏天一个季度就有 170 亿美元；创始团队仍保留 50.1% 投票权；招股文件也警告 AI 可能对人类构成「生存风险」。",
+          "relation_zh": "母帖是官方上市声明，这条补上了营收跃升、投票权安排，以及招股书里的风险披露，方便对照官方通告来看。",
+          "metrics": {
+            "likes": 163,
+            "retweets": 4,
+            "replies": 47,
+            "quotes": 0,
+            "bookmarks": 2,
+            "views": 31260
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1080,
+              "h": 608,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2120925271914373120/vid/avc1/1080x608/DH9-grQ0rRIjR2xb.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2120925271914373120/img/xAWjbD4ruAabaJS0.jpg",
+              "duration_ms": 12701
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/EvanLuthra/status/2120925314633396585/video/1",
+            "https://twitter.com/anthropicai/status/2120841731302154708"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2120841731302154708",
+          "article_title": null,
+          "attached_at": "2026-11-13T02:11:10.439078+00:00"
+        },
+        {
+          "id": "2120952417424445787",
+          "url": "https://x.com/eva_ados/status/2120952417424445787",
+          "handle": "eva_ados",
+          "display_name": "Eva Ados",
+          "avatar": "https://pbs.twimg.com/profile_images/1645856653982552082/dQfDbnnV_normal.jpg",
+          "verified": true,
+          "followers": 12029,
+          "created_at": "2026-11-12T18:50:36.000Z",
+          "lang": "en",
+          "text": "For every $1 Anthropic brought in last year, it spent about $1.60 on compute. Now it’s going public with nearly $900 billion in compute commitments.\n\nAI does not have a demand problem. It has a financing issue. \n\n$XOVR @ERShares https://t.co/T04Q3rEOnF",
+          "text_zh": "Anthropic 去年每收入 1 美元，大约就要在算力上花掉 1.6 美元。现在它带着近 9000 亿美元的算力承诺走向上市。\n\nAI 的问题不是需求，而是融资。",
+          "summary_zh": "Eva Ados 指出，按她的测算 Anthropic 去年每收入 1 美元大约要在算力上花 1.6 美元，如今又带着近 9000 亿美元的算力承诺走向上市，认为需求不是瓶颈，融资才是。",
+          "relation_zh": "母帖没有谈单位成本和长期算力合约，这条把上市背后的算力开支和融资压力点了出来。",
+          "metrics": {
+            "likes": 21,
+            "retweets": 5,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 2,
+            "views": 2847
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/ext_tw_video/2120952386948620288/pu/vid/avc1/1280x720/xQ2FLv4az9rFkpmw.mp4?tag=12",
+              "poster": "https://pbs.twimg.com/ext_tw_video_thumb/2120952386948620288/pu/img/ZYslTZii0RqLm84h.jpg",
+              "duration_ms": 68032
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/eva_ados/status/2120952417424445787/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "ERShares"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-13T02:11:10.439078+00:00"
+        }
+      ]
     },
     {
       "id": "2120944639633211619",
@@ -757,7 +1171,134 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2120998372861780123",
+          "url": "https://x.com/minchoi/status/2120998372861780123",
+          "handle": "minchoi",
+          "display_name": "Min Choi",
+          "avatar": "https://pbs.twimg.com/profile_images/1638359113221517312/CBZaJFyA_normal.jpg",
+          "verified": true,
+          "followers": 392461,
+          "created_at": "2026-11-12T21:53:12.000Z",
+          "lang": "en",
+          "text": "Anthropic just dropped Claude Meetings.\n\nClaude can now join your Google Meet calls and BUILD docs + whiteboards while you're still talking.\n\nIt takes notes, tracks action items, and remembers everything. 🤯 https://t.co/729RTfIGVH https://t.co/QnHFtkRmpq",
+          "text_zh": "Anthropic 刚刚推出 Claude Meetings。\n\n现在可以把 Claude 拉进 Google Meet，在你们还在讨论的时候就写出文档、画好白板。\n\n它会记笔记、跟踪待办，并把讨论内容记下来。",
+          "summary_zh": "Min Choi 用视频介绍 Claude Meetings：它可以加入 Google Meet，在会议还在进行时写文档、画白板，并记录笔记、跟进待办和记住讨论内容。",
+          "relation_zh": "母帖偏产品发布，这条把「能做什么」拆成笔记、待办和会中出文档，方便快速理解这项功能。",
+          "metrics": {
+            "likes": 60,
+            "retweets": 3,
+            "replies": 22,
+            "quotes": 0,
+            "bookmarks": 18,
+            "views": 8189
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2120998331769860096/vid/avc1/1920x1080/xSypkcG4priYIcBE.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2120998331769860096/img/iTLwWszmB9cRlurN.jpg",
+              "duration_ms": 47133
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/minchoi/status/2120998372861780123/video/1",
+            "https://twitter.com/claudeai/status/2120973994191094179"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2120973994191094179",
+          "article_title": null,
+          "attached_at": "2026-11-13T02:11:10.439078+00:00"
+        },
+        {
+          "id": "2120978304065040749",
+          "url": "https://x.com/IamKyros69/status/2120978304065040749",
+          "handle": "IamKyros69",
+          "display_name": "Kyros",
+          "avatar": "https://pbs.twimg.com/profile_images/1966745265416925184/FiYcR2Lv_normal.jpg",
+          "verified": true,
+          "followers": 10556,
+          "created_at": "2026-11-12T20:33:28.000Z",
+          "lang": "en",
+          "text": "anthropic just killed every AI meeting note-taker.\n\notter, fireflies, granola: they write notes after the meeting.\n\nclaude meetings builds the actual doc while you're still talking. https://t.co/pHssxMly76 https://t.co/TmH9xi7rej",
+          "text_zh": "Anthropic 这一下，把现有的 AI 会议记录工具都比下去了。\n\nOtter、Fireflies、Granola：会开完了再写纪要。\n\nClaude Meetings：你们还在开会，它就把文档写出来了。",
+          "summary_zh": "有账号用视频把 Claude Meetings 和 Otter、Fireflies、Granola 这类会后记笔记的工具对比：后者会后才出纪要，前者在大家还在开会时就直接写出文档。",
+          "relation_zh": "母帖强调边开会边出文档和白板，这条把它放进现有会议记录工具的竞争里，点出差异是「会中出成品」而不是「会后出笔记」。",
+          "metrics": {
+            "likes": 3,
+            "retweets": 0,
+            "replies": 2,
+            "quotes": 0,
+            "bookmarks": 1,
+            "views": 691
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1280,
+              "h": 720,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2120978274100891648/vid/avc1/1280x720/ug9i3VgybMl00EpP.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2120978274100891648/img/KZLGKyn77SDHPV-R.jpg",
+              "duration_ms": 21130
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/IamKyros69/status/2120978304065040749/video/1",
+            "https://twitter.com/claudeai/status/2120973994191094179"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2120973994191094179",
+          "article_title": null,
+          "attached_at": "2026-11-13T02:11:10.439078+00:00"
+        },
+        {
+          "id": "2120974000746582357",
+          "url": "https://x.com/claudeai/status/2120974000746582357",
+          "handle": "claudeai",
+          "display_name": "Claude",
+          "avatar": "https://pbs.twimg.com/profile_images/1950950107937185792/QOfEjFoJ_normal.jpg",
+          "verified": true,
+          "followers": 2069774,
+          "created_at": "2026-11-12T20:16:22.000Z",
+          "lang": "en",
+          "text": "Claude Meetings is starting with Google Meet, with support for other video conferencing platforms coming soon.\n\nLearn more: https://t.co/RcQpSG8Ub3",
+          "text_zh": "Claude Meetings 将先从 Google Meet 开始，其他视频会议平台的支持会很快到来。\n\n了解更多：https://claude.com/resources/articles/claude-meetings",
+          "summary_zh": "Claude 官方补充：Claude Meetings 先接入 Google Meet，其他视频会议平台会随后支持，并给出产品说明页面。",
+          "relation_zh": "母帖只说会加入团队视频会议，这条明确了首发平台是 Google Meet，以及其他会议软件还在后面。",
+          "metrics": {
+            "likes": 1022,
+            "retweets": 31,
+            "replies": 22,
+            "quotes": 14,
+            "bookmarks": 243,
+            "views": 165772
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://claude.com/resources/articles/claude-meetings"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-13T02:11:10.439078+00:00"
+        }
+      ]
     },
     {
       "id": "2120950020249895314",
@@ -883,7 +1424,123 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2120966861252960508",
+          "url": "https://x.com/ctatedev/status/2120966861252960508",
+          "handle": "ctatedev",
+          "display_name": "Chris Tate",
+          "avatar": "https://pbs.twimg.com/profile_images/1793812678462365696/rJGwsL4h_normal.jpg",
+          "verified": true,
+          "followers": 71924,
+          "created_at": "2026-11-12T19:48:00.000Z",
+          "lang": "en",
+          "text": "UI SDK: a library of behaviors for agents to build the next generation of UIs\n\n→ 50+ behaviors: popups, selection, typeahead, focus\n→ Components for React, Vue, Svelte, Solid, Web Components\n→ Easy for agents to build with, and for any agent to use\n\nWhat agents made with it ↓ https://t.co/9O2ZuuJSft https://t.co/qL3f3slMzl",
+          "text_zh": "UI SDK：一个让智能体搭建下一代界面的行为库。\n\n→ 50 多种行为：弹出层、选择、自动补全、焦点\n→ 支持 React、Vue、Svelte、Solid 和 Web Components 组件\n→ 既方便智能体来搭建，也方便任何智能体来使用\n\n下面是智能体用它做出来的效果。",
+          "summary_zh": "Chris Tate 用视频说明 UI SDK 是给智能体用的行为库：超过 50 种弹出、选择、自动补全和焦点等行为，并提供 React、Vue、Svelte、Solid 和 Web Components 组件，还展示了智能体做出来的界面。",
+          "relation_zh": "母帖是官方短视频发布，这条把「50 多种行为、多框架适配，以及智能体实际能搭出什么」补具体了。",
+          "metrics": {
+            "likes": 410,
+            "retweets": 20,
+            "replies": 22,
+            "quotes": 4,
+            "bookmarks": 276,
+            "views": 18937
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1080,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2120966763051397120/vid/avc1/1080x1080/cNr-CT9HauALVVW8.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2120966763051397120/img/_OH_Ys8xjin9O5e-.jpg",
+              "duration_ms": 30000
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/ctatedev/status/2120966861252960508/video/1",
+            "https://twitter.com/vercel/status/2120950020249895314"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2120950020249895314",
+          "article_title": null,
+          "attached_at": "2026-11-13T02:11:10.439078+00:00"
+        },
+        {
+          "id": "2120951116682682646",
+          "url": "https://x.com/shadcn/status/2120951116682682646",
+          "handle": "shadcn",
+          "display_name": "shadcn",
+          "avatar": "https://pbs.twimg.com/profile_images/1593304942210478080/TUYae5z7_normal.jpg",
+          "verified": true,
+          "followers": 248938,
+          "created_at": "2026-11-12T18:45:26.000Z",
+          "lang": "en",
+          "text": "Today we’re introducing UI SDK.\n\nAgents are becoming both the builders and the users of interfaces. So we asked ourselves: where should the abstraction live?\n\nTake a Select. There’s a popup, selection logic, keyboard navigation and focus management. Those same behaviors are https://t.co/boBhs2pspu",
+          "text_zh": "今天我们推出 UI SDK。\n\n智能体正同时成为界面的建造者和使用者。于是我们问自己：抽象应该放在哪一层？\n\n以 Select 为例，它包含弹出层、选择逻辑、键盘导航和焦点管理。这些同样的行为……",
+          "summary_zh": "shadcn 介绍 UI SDK：智能体既是界面的建造者，也是使用者，因此要把抽象放在弹出层、选择、键盘导航和焦点管理这些可复用的行为上，而不是现成组件目录。",
+          "relation_zh": "母帖只宣布了 UI SDK，这条是作者本人把设计问题讲清楚：为什么要把「行为」而不是成品组件作为智能体的接口层。",
+          "metrics": {
+            "likes": 2900,
+            "retweets": 141,
+            "replies": 129,
+            "quotes": 38,
+            "bookmarks": 2030,
+            "views": 98601
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/vercel/status/2120950020249895314"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2120950020249895314",
+          "article_title": null,
+          "attached_at": "2026-11-13T02:11:10.439078+00:00"
+        },
+        {
+          "id": "2120966768483262648",
+          "url": "https://x.com/rauchg/status/2120966768483262648",
+          "handle": "rauchg",
+          "display_name": "Guillermo Rauch",
+          "avatar": "https://pbs.twimg.com/profile_images/1783856060249595904/8TfcCN0r_normal.jpg",
+          "verified": true,
+          "followers": 919311,
+          "created_at": "2026-11-12T19:47:37.000Z",
+          "lang": "en",
+          "text": "What happens to frameworks in the agents era? to component libraries? to @shadcn? \n\nThe answer is: we need to drill deeper. Delete the part, optimize, accelerate, automate.\n\nUI SDK is like the x86 instruction set for agents to build new UI components spontaneously. \n\nAgents are https://t.co/g48EMN54AO",
+          "text_zh": "智能体时代，框架会怎样？组件库会怎样？shadcn 又会怎样？\n\n答案是：我们得往更底层钻。删掉多余的部分，优化、加速、自动化。\n\nUI SDK 就像智能体即兴搭建新界面组件时的 x86 指令集。",
+          "summary_zh": "Vercel CEO Guillermo Rauch 把 UI SDK 比作智能体即兴搭建新组件时的「x86 指令集」，认为进入智能体时代后，框架和组件库需要往更底层钻，删减、优化并实现加速和自动化。",
+          "relation_zh": "母帖没有解释 UI SDK 在技术栈里的位置，这条给出了官方的产品定位：它不是又一套组件库，而是智能体生成界面时的底层指令。",
+          "metrics": {
+            "likes": 775,
+            "retweets": 26,
+            "replies": 106,
+            "quotes": 7,
+            "bookmarks": 459,
+            "views": 39421
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/vercel/status/2120950020249895314"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "shadcn"
+          ],
+          "quoted_post_url": "https://x.com/i/status/2120950020249895314",
+          "article_title": null,
+          "attached_at": "2026-11-13T02:11:10.439078+00:00"
+        }
+      ]
     },
     {
       "id": "2120917039435198863",
