@@ -1,0 +1,199 @@
+{
+  "data": [
+    {
+      "author_id": "1855241751369551872",
+      "created_at": "2026-11-12T19:34:25.000Z",
+      "edit_history_tweet_ids": [
+        "2120963444656804061"
+      ],
+      "id": "2120963444656804061",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 17,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120773569588477995",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz This is the philosophy behind Human Directed Agentic Engineering and one that I'm keen on following \n\nLearning these concepts for the sake of learning them will hardly make them stick. It's actually when you encounter them in projects and actually make the effort to learn them",
+      "url": "https://x.com/KurryyKimber/status/2120963444656804061"
+    },
+    {
+      "author_id": "1616759126914396160",
+      "created_at": "2026-11-12T14:14:52.000Z",
+      "edit_history_tweet_ids": [
+        "2120883027916316861"
+      ],
+      "id": "2120883027916316861",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120773569588477995",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 系统设计还得考虑各组件之间怎么配合",
+      "url": "https://x.com/qing_labs/status/2120883027916316861"
+    },
+    {
+      "author_id": "1961861162682998784",
+      "created_at": "2026-11-12T10:51:32.000Z",
+      "edit_history_tweet_ids": [
+        "2120831858095370302"
+      ],
+      "id": "2120831858095370302",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 61,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120773569588477995",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 虽然是ai文，但还是很有启发",
+      "url": "https://x.com/Vv1K1n/status/2120831858095370302"
+    },
+    {
+      "author_id": "723515363476951040",
+      "created_at": "2026-11-12T09:04:46.000Z",
+      "edit_history_tweet_ids": [
+        "2120804989300015107"
+      ],
+      "id": "2120804989300015107",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 78,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120773569588477995",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 你列的坑里，「请求超时但供应商已经开始生成」最容易被当成网络问题重试。我的做法是每次提交带一个业务幂等键，任务表只认这个键；超时不直接判失败，先拿键查一次状态，再决定重试还是等。按次计费的视频接口，重试一次就是真金白银。",
+      "url": "https://x.com/VanceXin/status/2120804989300015107"
+    },
+    {
+      "author_id": "965707616843370497",
+      "created_at": "2026-11-12T07:21:39.000Z",
+      "edit_history_tweet_ids": [
+        "2120779040013644228"
+      ],
+      "id": "2120779040013644228",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 75,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120773569588477995",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 代码写得快，架构错了返工也快😅",
+      "url": "https://x.com/yikailu/status/2120779040013644228"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1878345967780646912",
+        "created_at": "2026-11-12T06:59:55.000Z",
+        "edit_history_tweet_ids": [
+          "2120773569588477995"
+        ],
+        "id": "2120773569588477995",
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 5166,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120011070081302689",
+            "type": "quoted"
+          }
+        ],
+        "text": "AI 正在让写代码变得越来越容易，但有一件事反而越来越难了，它就是系统设计。\n\n上面这份 System Design Roadmap 整理了整整 25 个章节，从计算机网络、数据库、缓存、消息队列，到分布式系统、微服务、可靠性、可观测性，基本覆盖了现代后端工程和系统架构的核心知识体系。 https://t.co/Z2mnPH2wvf"
+      }
+    ],
+    "users": [
+      {
+        "id": "1855241751369551872",
+        "name": "Kurryy Kimber",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2112638523564019712/uYNUhTxm_normal.jpg",
+        "username": "KurryyKimber",
+        "verified": false
+      },
+      {
+        "id": "1616759126914396160",
+        "name": "空青 Qing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616759308481597440/g8MenAw5_normal.jpg",
+        "username": "qing_labs",
+        "verified": false
+      },
+      {
+        "id": "1961861162682998784",
+        "name": "SunVik",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062857029262397440/OOVv0sUV_normal.jpg",
+        "username": "Vv1K1n",
+        "verified": false
+      },
+      {
+        "id": "723515363476951040",
+        "name": "Feifei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047345745901289472/Ch8w0Uqg_normal.jpg",
+        "username": "VanceXin",
+        "verified": false
+      },
+      {
+        "id": "965707616843370497",
+        "name": "yikailu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2113681630388998144/gSrbi_A8_normal.jpg",
+        "username": "yikailu",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120963444656804061",
+    "next_token": "b26v89c19zqg8o3juzovccsk3hwkm1fid2ru9o1te130d",
+    "oldest_id": "2120779040013644228",
+    "result_count": 5
+  }
+}

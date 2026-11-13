@@ -1,0 +1,856 @@
+{
+  "data": [
+    {
+      "author_id": "2024112218753900544",
+      "conversation_id": "2120864197340955028",
+      "created_at": "2026-11-12T22:49:12.000Z",
+      "edit_history_tweet_ids": [
+        "2121012462258655288"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1488834959586517002",
+            "start": 0,
+            "username": "benjaminwalker"
+          },
+          {
+            "end": 30,
+            "id": "2076971283800047617",
+            "start": 16,
+            "username": "Continu_Intel"
+          }
+        ]
+      },
+      "id": "2121012462258655288",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120864197340955028",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@benjaminwalker @Continu_Intel Outstanding achievement setting a new benchmark for time series AI",
+      "url": "https://x.com/SaniAiTech/status/2121012462258655288"
+    },
+    {
+      "author_id": "2118995360710270976",
+      "conversation_id": "2120864197340955028",
+      "created_at": "2026-11-12T22:04:16.000Z",
+      "edit_history_tweet_ids": [
+        "2121001155866296512"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1488834959586517002",
+            "start": 0,
+            "username": "benjaminwalker"
+          },
+          {
+            "end": 30,
+            "id": "2076971283800047617",
+            "start": 16,
+            "username": "Continu_Intel"
+          }
+        ]
+      },
+      "id": "2121001155866296512",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120864197340955028",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@benjaminwalker @Continu_Intel The quantiles are a useful part of this release. Staffing and inventory decisions can need very different safety margins even when they start from the same median forecast; a single predicted line hides that choice.",
+      "url": "https://x.com/news_algorithm/status/2121001155866296512"
+    },
+    {
+      "author_id": "1499015466089852931",
+      "conversation_id": "2120864197340955028",
+      "created_at": "2026-11-12T21:50:57.000Z",
+      "edit_history_tweet_ids": [
+        "2120997803023536607"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1488834959586517002",
+            "start": 0,
+            "username": "benjaminwalker"
+          },
+          {
+            "end": 30,
+            "id": "2076971283800047617",
+            "start": 16,
+            "username": "Continu_Intel"
+          }
+        ]
+      },
+      "id": "2120997803023536607",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120864197340955028",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@benjaminwalker @Continu_Intel Every forecasting model is #1 on some bench lol",
+      "url": "https://x.com/SaSatChe/status/2120997803023536607"
+    },
+    {
+      "author_id": "2111898733025583104",
+      "conversation_id": "2120864197340955028",
+      "created_at": "2026-11-12T21:39:09.000Z",
+      "edit_history_tweet_ids": [
+        "2120994834861137934"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1488834959586517002",
+            "start": 0,
+            "username": "benjaminwalker"
+          },
+          {
+            "end": 30,
+            "id": "2076971283800047617",
+            "start": 16,
+            "username": "Continu_Intel"
+          }
+        ]
+      },
+      "id": "2120994834861137934",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120864197340955028",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@benjaminwalker @Continu_Intel Open weights and commercial usability make this especially interesting for builders.\n\nBeyond the benchmarks, which real-world forecasting applications do you expect to benefit most from the longer context window?",
+      "url": "https://x.com/DomainAssetOff/status/2120994834861137934"
+    },
+    {
+      "author_id": "1790460165000687620",
+      "conversation_id": "2120864197340955028",
+      "created_at": "2026-11-12T21:38:42.000Z",
+      "edit_history_tweet_ids": [
+        "2120994721384583268"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1488834959586517002",
+            "start": 0,
+            "username": "benjaminwalker"
+          },
+          {
+            "end": 30,
+            "id": "2076971283800047617",
+            "start": 16,
+            "username": "Continu_Intel"
+          }
+        ]
+      },
+      "id": "2120994721384583268",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120864197340955028",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@benjaminwalker @Continu_Intel Love this ci-proto launching #1 on fev-bench 64× context window open weights commercial use backing",
+      "url": "https://x.com/EllaTech0/status/2120994721384583268"
+    },
+    {
+      "author_id": "2090070960275955712",
+      "conversation_id": "2120864197340955028",
+      "created_at": "2026-11-12T21:17:41.000Z",
+      "edit_history_tweet_ids": [
+        "2120989433705165061"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1488834959586517002",
+            "start": 0,
+            "username": "benjaminwalker"
+          },
+          {
+            "end": 30,
+            "id": "2076971283800047617",
+            "start": 16,
+            "username": "Continu_Intel"
+          }
+        ]
+      },
+      "id": "2120989433705165061",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120864197340955028",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@benjaminwalker @Continu_Intel Huge win for ci-proto topping the benchmark with open weights and massive context",
+      "url": "https://x.com/AzyraAi/status/2120989433705165061"
+    },
+    {
+      "author_id": "3149359049",
+      "conversation_id": "2120864197340955028",
+      "created_at": "2026-11-12T19:42:49.000Z",
+      "edit_history_tweet_ids": [
+        "2120965556702425480"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1488834959586517002",
+            "start": 0,
+            "username": "benjaminwalker"
+          },
+          {
+            "end": 30,
+            "id": "2076971283800047617",
+            "start": 16,
+            "username": "Continu_Intel"
+          }
+        ]
+      },
+      "id": "2120965556702425480",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120864197340955028",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@benjaminwalker @Continu_Intel Congrats on the launch. The 64x context is what I would test first: in RF time series the useful structure often sits at a scale much longer than the window most models accept. Does the pretraining mix include physical-sensor data, or mostly business telemetry?",
+      "url": "https://x.com/XVanparys/status/2120965556702425480"
+    },
+    {
+      "author_id": "2071570470512508928",
+      "conversation_id": "2120864197340955028",
+      "created_at": "2026-11-12T19:06:28.000Z",
+      "edit_history_tweet_ids": [
+        "2120956410330821050"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1488834959586517002",
+            "start": 0,
+            "username": "benjaminwalker"
+          },
+          {
+            "end": 30,
+            "id": "2076971283800047617",
+            "start": 16,
+            "username": "Continu_Intel"
+          }
+        ]
+      },
+      "id": "2120956410330821050",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 18,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120864197340955028",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@benjaminwalker @Continu_Intel 挺厉害的啊",
+      "url": "https://x.com/ABCDMMviha/status/2120956410330821050"
+    },
+    {
+      "author_id": "343877206",
+      "conversation_id": "2120864197340955028",
+      "created_at": "2026-11-12T18:40:27.000Z",
+      "edit_history_tweet_ids": [
+        "2120949862464446594"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1488834959586517002",
+            "start": 0,
+            "username": "benjaminwalker"
+          },
+          {
+            "end": 30,
+            "id": "2076971283800047617",
+            "start": 16,
+            "username": "Continu_Intel"
+          }
+        ]
+      },
+      "id": "2120949862464446594",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120864197340955028",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@benjaminwalker @Continu_Intel 64x the context for time series is a big claim. open weights means people can actually check it",
+      "url": "https://x.com/smobilefactory/status/2120949862464446594"
+    },
+    {
+      "author_id": "2008812694628175872",
+      "conversation_id": "2120864197340955028",
+      "created_at": "2026-11-12T18:28:47.000Z",
+      "edit_history_tweet_ids": [
+        "2120946927802134659"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1488834959586517002",
+            "start": 0,
+            "username": "benjaminwalker"
+          },
+          {
+            "end": 30,
+            "id": "2076971283800047617",
+            "start": 16,
+            "username": "Continu_Intel"
+          }
+        ]
+      },
+      "id": "2120946927802134659",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 42,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120864197340955028",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@benjaminwalker @Continu_Intel Incredible launch  ci proto is #1 on fev bench beating Google, Amazon and Mistral, with 64x the context and open weights for commercial use!",
+      "url": "https://x.com/AliceInfoAi/status/2120946927802134659"
+    },
+    {
+      "author_id": "1792699261739786240",
+      "conversation_id": "2120864197340955028",
+      "created_at": "2026-11-12T16:50:14.000Z",
+      "edit_history_tweet_ids": [
+        "2120922125402091643"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1488834959586517002",
+            "start": 0,
+            "username": "benjaminwalker"
+          },
+          {
+            "end": 30,
+            "id": "2076971283800047617",
+            "start": 16,
+            "username": "Continu_Intel"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Forecast with time series foundation models. Run models on your device with TSFM, compare benchmarks, and explore compute providers.",
+            "display_url": "tsfm.ai",
+            "end": 119,
+            "expanded_url": "https://tsfm.ai",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2120884146687848448/kG3IESyS?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2120884146687848448/kG3IESyS?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 96,
+            "status": 200,
+            "title": "TSFM.ai — Time Series Foundation Models",
+            "unwound_url": "https://tsfm.ai",
+            "url": "https://t.co/41Dz6f902t"
+          }
+        ]
+      },
+      "id": "2120922125402091643",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 28,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120864197340955028",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@benjaminwalker @Continu_Intel the speed is what id lead with. 0.53s per 100 fev-bench tasks on https://t.co/41Dz6f902t's table, the other two in its top 3 take 524s and 1,008s. at that cost u can re-forecast every series each time new data lands",
+      "url": "https://x.com/javibuildz/status/2120922125402091643"
+    },
+    {
+      "author_id": "1753736628810715136",
+      "conversation_id": "2120864197340955028",
+      "created_at": "2026-11-12T16:06:52.000Z",
+      "edit_history_tweet_ids": [
+        "2120911214016635179"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1488834959586517002",
+            "start": 0,
+            "username": "benjaminwalker"
+          },
+          {
+            "end": 30,
+            "id": "2076971283800047617",
+            "start": 16,
+            "username": "Continu_Intel"
+          }
+        ]
+      },
+      "id": "2120911214016635179",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 20,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120864197340955028",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@benjaminwalker @Continu_Intel Open weights + 64x context on a #1 TSFM is actually crazy. Trying this on some of my sensor data tonight.",
+      "url": "https://x.com/commonman_16/status/2120911214016635179"
+    },
+    {
+      "author_id": "1213756962719952896",
+      "conversation_id": "2120864197340955028",
+      "created_at": "2026-11-12T15:33:40.000Z",
+      "edit_history_tweet_ids": [
+        "2120902857985872181"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1488834959586517002",
+            "start": 0,
+            "username": "benjaminwalker"
+          },
+          {
+            "end": 30,
+            "id": "2076971283800047617",
+            "start": 16,
+            "username": "Continu_Intel"
+          }
+        ]
+      },
+      "id": "2120902857985872181",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120864197340955028",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@benjaminwalker @Continu_Intel Beating the giants with open weights is impressive",
+      "url": "https://x.com/VeyraWithAI/status/2120902857985872181"
+    },
+    {
+      "author_id": "1488834959586517002",
+      "conversation_id": "2120864197340955028",
+      "created_at": "2026-11-12T15:24:37.000Z",
+      "edit_history_tweet_ids": [
+        "2120900578897260788"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "740422098548588546",
+            "start": 0,
+            "username": "kdpisda"
+          },
+          {
+            "end": 23,
+            "id": "2076971283800047617",
+            "start": 9,
+            "username": "Continu_Intel"
+          }
+        ]
+      },
+      "id": "2120900578897260788",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 43,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120894615440306397",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kdpisda @Continu_Intel Minutes right now, although we are working hard on improving that!",
+      "url": "https://x.com/benjaminwalker/status/2120900578897260788"
+    },
+    {
+      "author_id": "10964662",
+      "conversation_id": "2120864197340955028",
+      "created_at": "2026-11-12T15:20:01.000Z",
+      "edit_history_tweet_ids": [
+        "2120899421634232730"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1488834959586517002",
+            "start": 0,
+            "username": "benjaminwalker"
+          },
+          {
+            "end": 30,
+            "id": "2076971283800047617",
+            "start": 16,
+            "username": "Continu_Intel"
+          }
+        ]
+      },
+      "id": "2120899421634232730",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 13,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120864197340955028",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@benjaminwalker @Continu_Intel fev-bench #1 claims have a shelf life of about two weeks before someone finds the leaderboard set got touched during pretraining. Open weights make that check easy though, what's the context length in absolute steps, not the multiplier?",
+      "url": "https://x.com/ukrroot/status/2120899421634232730"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1488834959586517002",
+        "conversation_id": "2120864197340955028",
+        "created_at": "2026-11-12T13:00:03.000Z",
+        "edit_history_tweet_ids": [
+          "2120864197340955028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 46,
+              "id": "2076971283800047617",
+              "start": 32,
+              "username": "Continu_Intel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tDnrBj3WAw",
+              "end": 295,
+              "expanded_url": "https://x.com/benjaminwalker/status/2120864197340955028/video/1",
+              "media_key": "13_2120855190991482880",
+              "start": 272,
+              "url": "https://t.co/tDnrBj3WAw"
+            }
+          ]
+        },
+        "id": "2120864197340955028",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 237920,
+          "like_count": 233,
+          "quote_count": 34,
+          "reply_count": 43,
+          "retweet_count": 21
+        },
+        "text": "Today we're launching ci-proto, @Continu_Intel's first time-series foundation model.\n\n- #1 on fev-bench, ahead of Google, Amazon and Mistral\n- 64× the context window of others\n- Open weights and available for commercial use\n\nProud of the team. This is just the beginning. https://t.co/tDnrBj3WAw"
+      },
+      {
+        "author_id": "740422098548588546",
+        "conversation_id": "2120864197340955028",
+        "created_at": "2026-11-12T15:00:55.000Z",
+        "edit_history_tweet_ids": [
+          "2120894615440306397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1488834959586517002",
+              "start": 0,
+              "username": "benjaminwalker"
+            },
+            {
+              "end": 30,
+              "id": "2076971283800047617",
+              "start": 16,
+              "username": "Continu_Intel"
+            }
+          ]
+        },
+        "id": "2120894615440306397",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120864197340955028",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@benjaminwalker @Continu_Intel how long does a forecast over the full 2M-step history take on CPU, seconds or minutes?"
+      }
+    ],
+    "users": [
+      {
+        "id": "2024112218753900544",
+        "name": "Sani Ai Tech",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062413323392647168/Vsz4abT4_normal.jpg",
+        "username": "SaniAiTech",
+        "verified": false
+      },
+      {
+        "id": "2118995360710270976",
+        "name": "Algorithm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118996001348304896/gy1F-SwP_normal.jpg",
+        "username": "news_algorithm",
+        "verified": false
+      },
+      {
+        "id": "1499015466089852931",
+        "name": "Sat (Chennapragada Sathvik)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093232866956316672/anuVB3O5_normal.jpg",
+        "username": "SaSatChe",
+        "verified": false
+      },
+      {
+        "id": "2111898733025583104",
+        "name": "Domain Asset Office",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2112287517458272256/AlwS6fU6_normal.jpg",
+        "username": "DomainAssetOff",
+        "verified": false
+      },
+      {
+        "id": "1790460165000687620",
+        "name": "Ella Tech & Tool",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066804031138447360/Jziyqd7y_normal.jpg",
+        "username": "EllaTech0",
+        "verified": false
+      },
+      {
+        "id": "2090070960275955712",
+        "name": "Azyra AI | Tech & Tools",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2113328180245483521/BnGgi72v_normal.jpg",
+        "username": "AzyraAi",
+        "verified": false
+      },
+      {
+        "id": "3149359049",
+        "name": "Xander Vanparys",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120331395377537024/u4mzFM9S_normal.jpg",
+        "username": "XVanparys",
+        "verified": false
+      },
+      {
+        "id": "2071570470512508928",
+        "name": "倾城一笑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116187110961197056/-EMyfJJQ_normal.jpg",
+        "username": "ABCDMMviha",
+        "verified": false
+      },
+      {
+        "id": "343877206",
+        "name": "Smobile",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109715318482640896/DP7A-O6w_normal.jpg",
+        "username": "smobilefactory",
+        "verified": false
+      },
+      {
+        "id": "2008812694628175872",
+        "name": "Alice The Ai Expert",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052697184177364997/NV27A0OX_normal.jpg",
+        "username": "AliceInfoAi",
+        "verified": false
+      },
+      {
+        "id": "1792699261739786240",
+        "name": "Javi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792701888036831232/z_JJqlNN_normal.jpg",
+        "username": "javibuildz",
+        "verified": false
+      },
+      {
+        "id": "1753736628810715136",
+        "name": "COMMON AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961663260710825984/43u_TUC-_normal.jpg",
+        "username": "commonman_16",
+        "verified": false
+      },
+      {
+        "id": "1213756962719952896",
+        "name": "Veyra | AI & Tech",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104277465673986048/axhOt6hD_normal.jpg",
+        "username": "VeyraWithAI",
+        "verified": false
+      },
+      {
+        "id": "1488834959586517002",
+        "name": "Ben Walker",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724073989591433216/2TQc8nTq_normal.jpg",
+        "username": "benjaminwalker",
+        "verified": false
+      },
+      {
+        "id": "10964662",
+        "name": "Rompel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/600128981/Eraser_normal.jpg",
+        "username": "ukrroot",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121012462258655288",
+    "next_token": "b26v89c19zqg8o3juzovcexvtpgtjeqi8s4hggvizvy4d",
+    "oldest_id": "2120899421634232730",
+    "result_count": 15
+  }
+}

@@ -1,0 +1,513 @@
+{
+  "data": [
+    {
+      "author_id": "2103535761177952257",
+      "created_at": "2026-11-12T18:56:05.000Z",
+      "edit_history_tweet_ids": [
+        "2120953795907883204"
+      ],
+      "id": "2120953795907883204",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 20,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120723320890925142",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ @inferact under three weeks from the MiniMax launch to a Rubin submission at 6.5x perf per TCO. the hardware cycle is moving faster than the commentary about it.",
+      "url": "https://x.com/Babayeer/status/2120953795907883204"
+    },
+    {
+      "author_id": "2364570811",
+      "created_at": "2026-11-12T18:04:13.000Z",
+      "edit_history_tweet_ids": [
+        "2120940747235209571"
+      ],
+      "id": "2120940747235209571",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 46,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120723320890925142",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ @inferact vLLM's post on the same run lists 10.2-fold total tokens per second per chip at 546 per user and 6.5-fold at 376. Is the perf per TCO landing on the same 6.5 a quirk of the TCO model, or are you treating a Rubin chip and a GB300 as costing about the same to own? That changes how",
+      "url": "https://x.com/SJRonanMD/status/2120940747235209571"
+    },
+    {
+      "author_id": "1188599928655941640",
+      "created_at": "2026-11-12T14:55:08.000Z",
+      "edit_history_tweet_ids": [
+        "2120893161035977044"
+      ],
+      "id": "2120893161035977044",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120723320890925142",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ @inferact Hey dipshits. Are you going to apologize to $IREN ? Since it was $NBIS ?",
+      "url": "https://x.com/Betsgonewild43/status/2120893161035977044"
+    },
+    {
+      "author_id": "2077354681093718016",
+      "created_at": "2026-11-12T14:52:58.000Z",
+      "edit_history_tweet_ids": [
+        "2120892615767802143"
+      ],
+      "id": "2120892615767802143",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120723320890925142",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ @inferact 6.5x perf per TCO less than three weeks after the model launch says the software stack is finally keeping pace with the hardware cadence. Curious how much comes from NVL72 scale-up versus new low-precision kernels in vLLM. Rubin and inference cost data like this is a big part of",
+      "url": "https://x.com/Temperatur2com/status/2120892615767802143"
+    },
+    {
+      "author_id": "26316506",
+      "created_at": "2026-11-12T13:41:01.000Z",
+      "edit_history_tweet_ids": [
+        "2120874508257013899"
+      ],
+      "id": "2120874508257013899",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 26,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120723320890925142",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ @inferact 6.5x better in three weeks? My laptop just filed for early retirement 😅",
+      "url": "https://x.com/justindraplin/status/2120874508257013899"
+    },
+    {
+      "author_id": "334963355",
+      "created_at": "2026-11-12T13:37:33.000Z",
+      "edit_history_tweet_ids": [
+        "2120873634789044397"
+      ],
+      "id": "2120873634789044397",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120723320890925142",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ @inferact 6.5x perf per TCO in one generation is great for buyers, and a question for lenders. GPU-backed debt and long depreciation schedules assume the previous fleet keeps earning. If economic life turns out much shorter, residual values and coverage ratios need a hard look.",
+      "url": "https://x.com/Maxetcompagnie/status/2120873634789044397"
+    },
+    {
+      "author_id": "2008145477527801856",
+      "created_at": "2026-11-12T11:42:54.000Z",
+      "edit_history_tweet_ids": [
+        "2120844782259839386"
+      ],
+      "id": "2120844782259839386",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120723320890925142",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ 6.5x per TCO in one generation. That's why GPU contracts keep getting shorter, and why depreciation schedules now matter as much as benchmarks.",
+      "url": "https://x.com/mhmdatx/status/2120844782259839386"
+    },
+    {
+      "author_id": "1773482678903296000",
+      "created_at": "2026-11-12T11:08:07.000Z",
+      "edit_history_tweet_ids": [
+        "2120836031561748504"
+      ],
+      "id": "2120836031561748504",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 43,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120723320890925142",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ @inferact 6.5x better per dollar. The cost curve at it's finest!\n\nEveryone is glued to the board drama while the next rack makes last year's look like a flip phone. All of it needs power and a building. That's the trade I'm in.\n\nDisclosure: I am heavily skewed toward AI infrastructure, AI",
+      "url": "https://x.com/RickNewman44/status/2120836031561748504"
+    },
+    {
+      "author_id": "1349578518309421059",
+      "created_at": "2026-11-12T10:28:58.000Z",
+      "edit_history_tweet_ids": [
+        "2120826177917194382"
+      ],
+      "id": "2120826177917194382",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 53,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120723320890925142",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ @inferact With these kinds of efficiency improvements and software advances happening regularly why wouldn't companies reduce the number of chips and systems they purchase? They can get the same computer for less cost.....",
+      "url": "https://x.com/justher09864735/status/2120826177917194382"
+    },
+    {
+      "author_id": "1462641880500342786",
+      "created_at": "2026-11-12T09:33:10.000Z",
+      "edit_history_tweet_ids": [
+        "2120812136587026595"
+      ],
+      "id": "2120812136587026595",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 76,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120723320890925142",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ @inferact Incredible performance jump, the hardware pace right now is wild.",
+      "url": "https://x.com/crypto_ninjas/status/2120812136587026595"
+    },
+    {
+      "author_id": "1367549061377720323",
+      "created_at": "2026-11-12T08:58:49.000Z",
+      "edit_history_tweet_ids": [
+        "2120803490901762211"
+      ],
+      "id": "2120803490901762211",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 56,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120723320890925142",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ @inferact Efficiency gains like that are real. Google says energy per median Gemini prompt fell 33x in a single year. Total data centre electricity keeps climbing anyway, because cheaper inference just means far more of it gets used.",
+      "url": "https://x.com/BuiltByMichael/status/2120803490901762211"
+    },
+    {
+      "author_id": "41575567",
+      "created_at": "2026-11-12T08:32:56.000Z",
+      "edit_history_tweet_ids": [
+        "2120796976568750438"
+      ],
+      "id": "2120796976568750438",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 29,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120723320890925142",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ @inferact 6.5x better than GB300, three weeks in.\nEvery GB300 deal signed this quarter just got repriced.\nWho's still paying 2026 rates for 2027 delivery?",
+      "url": "https://x.com/venturer84/status/2120796976568750438"
+    },
+    {
+      "author_id": "104778145",
+      "created_at": "2026-11-12T07:21:58.000Z",
+      "edit_history_tweet_ids": [
+        "2120779116400300346"
+      ],
+      "id": "2120779116400300346",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 42,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120723320890925142",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ @inferact Locality-aware MoE still has to hold under traffic.",
+      "url": "https://x.com/agneau123/status/2120779116400300346"
+    },
+    {
+      "author_id": "1810524638864359424",
+      "created_at": "2026-11-12T06:46:41.000Z",
+      "edit_history_tweet_ids": [
+        "2120770236928430469"
+      ],
+      "id": "2120770236928430469",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 190,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120723320890925142",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ @inferact 6.5x TCO gain over GB300 is huge.",
+      "url": "https://x.com/zuola002/status/2120770236928430469"
+    },
+    {
+      "author_id": "1654732359068164103",
+      "created_at": "2026-11-12T06:36:52.000Z",
+      "edit_history_tweet_ids": [
+        "2120767766487830897"
+      ],
+      "id": "2120767766487830897",
+      "in_reply_to_user_id": "1745106082790318080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 200,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120723320890925142",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ @inferact wait rubin already??",
+      "url": "https://x.com/Zefan_Cai/status/2120767766487830897"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1745106082790318080",
+        "created_at": "2026-11-12T03:40:15.000Z",
+        "edit_history_tweet_ids": [
+          "2120723320890925142"
+        ],
+        "id": "2120723320890925142",
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 38452,
+          "like_count": 510,
+          "quote_count": 7,
+          "reply_count": 33,
+          "retweet_count": 19
+        },
+        "text": "BREAKING NEWS: Less than 3 weeks since the MiniMax M3.1 Flash launch, NVIDIA and @Inferact have already submitted an initial vLLM Rubin NVL72 submission that is state-of-the-art and delivers 6.5x better perf per TCO than GB300 NVL72.\n\nGreat to see that Rubin is already becoming https://t.co/j3uSAQUiuV"
+      }
+    ],
+    "users": [
+      {
+        "id": "2103535761177952257",
+        "name": "Brian Chen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103536495868923904/AMnjYL2Q_normal.jpg",
+        "username": "Babayeer",
+        "verified": false
+      },
+      {
+        "id": "2364570811",
+        "name": "Stephen J Ronan MD",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/665308347827011584/ZF0U9tl8_normal.jpg",
+        "username": "SJRonanMD",
+        "verified": false
+      },
+      {
+        "id": "1188599928655941640",
+        "name": "BetsGoneWild43",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775645195192643584/NzudmzlT_normal.jpg",
+        "username": "Betsgonewild43",
+        "verified": false
+      },
+      {
+        "id": "2077354681093718016",
+        "name": "Temperature2.com",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092136816161824768/8DinoAUW_normal.jpg",
+        "username": "Temperatur2com",
+        "verified": false
+      },
+      {
+        "id": "26316506",
+        "name": "Justin Draplin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1562092791198629892/y1s9hTie_normal.jpg",
+        "username": "justindraplin",
+        "verified": false
+      },
+      {
+        "id": "334963355",
+        "name": "Maxime Blanchemin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1039545743281975296/K29_FIIy_normal.jpg",
+        "username": "Maxetcompagnie",
+        "verified": false
+      },
+      {
+        "id": "2008145477527801856",
+        "name": "Mehmet Akcin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092577393080741888/9ameyowq_normal.jpg",
+        "username": "mhmdatx",
+        "verified": false
+      },
+      {
+        "id": "1773482678903296000",
+        "name": "Rick Newman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971999936263647232/Pk7PFJO4_normal.jpg",
+        "username": "RickNewman44",
+        "verified": false
+      },
+      {
+        "id": "1349578518309421059",
+        "name": "justhereforthedata",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1349580244676579330/zpMWQ5zt_normal.jpg",
+        "username": "justher09864735",
+        "verified": false
+      },
+      {
+        "id": "1462641880500342786",
+        "name": "CryptoNinjas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879443366158774272/LShK75fk_normal.jpg",
+        "username": "crypto_ninjas",
+        "verified": false
+      },
+      {
+        "id": "1367549061377720323",
+        "name": "Michael",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846582170946568192/Db18hetq_normal.jpg",
+        "username": "BuiltByMichael",
+        "verified": false
+      },
+      {
+        "id": "41575567",
+        "name": "Venturer84",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "username": "venturer84",
+        "verified": false
+      },
+      {
+        "id": "104778145",
+        "name": "Tommy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100208275597959168/SoZBzjni_normal.jpg",
+        "username": "agneau123",
+        "verified": false
+      },
+      {
+        "id": "1810524638864359424",
+        "name": "左拉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097112351397027840/gE0dhZJ5_normal.jpg",
+        "username": "zuola002",
+        "verified": false
+      },
+      {
+        "id": "1654732359068164103",
+        "name": "Zefan Cai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843835828847484928/vq7Rhr2D_normal.jpg",
+        "username": "Zefan_Cai",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120953795907883204",
+    "next_token": "b26v89c19zqg8o3juzovccs982s30fxtktcghyflckr5p",
+    "oldest_id": "2120767766487830897",
+    "result_count": 15
+  }
+}

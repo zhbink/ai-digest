@@ -1,0 +1,513 @@
+{
+  "data": [
+    {
+      "author_id": "1743758964985061376",
+      "created_at": "2026-11-13T00:06:08.000Z",
+      "edit_history_tweet_ids": [
+        "2121031825556693384"
+      ],
+      "id": "2121031825556693384",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120971399271473405",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Vibe testing works better when you write the vibe down. I keep five prompts from real work and read the old answers next to the new ones every time a model changes.",
+      "url": "https://x.com/houstonwindle/status/2121031825556693384"
+    },
+    {
+      "author_id": "2038649168055443456",
+      "created_at": "2026-11-12T23:40:05.000Z",
+      "edit_history_tweet_ids": [
+        "2121025266977775881"
+      ],
+      "id": "2121025266977775881",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120971399271473405",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Now that everyone knows vibes are what count, models will get tuned to feel great in the first ten minutes.",
+      "url": "https://x.com/KaruLabs/status/2121025266977775881"
+    },
+    {
+      "author_id": "1573230513254535171",
+      "created_at": "2026-11-12T23:39:01.000Z",
+      "edit_history_tweet_ids": [
+        "2121025002212352091"
+      ],
+      "id": "2121025002212352091",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120971399271473405",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Vibe-testing makes sense for picking a model. For anything that has to behave the same every time though, I still want fixtures. That's why my n8n triage lab got 24 scenarios.",
+      "url": "https://x.com/SheppardBuilds/status/2121025002212352091"
+    },
+    {
+      "author_id": "25463297",
+      "created_at": "2026-11-12T23:36:31.000Z",
+      "edit_history_tweet_ids": [
+        "2121024371665809785"
+      ],
+      "id": "2121024371665809785",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120971399271473405",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick The surprise is a useful signal, but I’d love to see it made repeatable: which tasks changed expectations, what counted as a win, and whether people still agree after more than a first impression.",
+      "url": "https://x.com/JO0Ie/status/2121024371665809785"
+    },
+    {
+      "author_id": "1370703428993875972",
+      "created_at": "2026-11-12T23:27:58.000Z",
+      "edit_history_tweet_ids": [
+        "2121022217870082167"
+      ],
+      "id": "2121022217870082167",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120971399271473405",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick honestly vibe testing is how i judge models too. no numbers, just how the work feels",
+      "url": "https://x.com/one_dyor/status/2121022217870082167"
+    },
+    {
+      "author_id": "2077348757520392192",
+      "created_at": "2026-11-12T23:26:37.000Z",
+      "edit_history_tweet_ids": [
+        "2121021879893016891"
+      ],
+      "id": "2121021879893016891",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120971399271473405",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick same for me at small business level. benchmarks never told me which model would finish the job, a week of real work did",
+      "url": "https://x.com/jonleighai/status/2121021879893016891"
+    },
+    {
+      "author_id": "2116733022783373312",
+      "created_at": "2026-11-12T22:24:53.000Z",
+      "edit_history_tweet_ids": [
+        "2121006344316555771"
+      ],
+      "id": "2121006344316555771",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120971399271473405",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick vibe testing is great for picking a model. it breaks once the model runs the same workflow every day, because the failures that cost you show up on run 300, not run 10. keep a small set of your own real tasks and rerun them every time you switch",
+      "url": "https://x.com/QuietRivalhq/status/2121006344316555771"
+    },
+    {
+      "author_id": "2115562704257667072",
+      "created_at": "2026-11-12T22:01:50.000Z",
+      "edit_history_tweet_ids": [
+        "2121000545397723394"
+      ],
+      "id": "2121000545397723394",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120971399271473405",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick William Gosset invented the t-test at Guinness in 1908 because brewers needed a rigorous way to judge barley from small samples. Vibe-testing getting formal backup is a very old story. Taste first, statistics catch up.",
+      "url": "https://x.com/alexandria_ltr/status/2121000545397723394"
+    },
+    {
+      "author_id": "2108266518404591616",
+      "created_at": "2026-11-12T22:00:58.000Z",
+      "edit_history_tweet_ids": [
+        "2121000325633208375"
+      ],
+      "id": "2121000325633208375",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120971399271473405",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick I love that the chart itself says 'very loose evidence' — and still, the targeted survey and the broad Slack poll land on the same 3.9x/yr curve. Two different kinds of vibes agreeing is a lot harder to dismiss than one.",
+      "url": "https://x.com/TechyBee7e/status/2121000325633208375"
+    },
+    {
+      "author_id": "964854411406094336",
+      "created_at": "2026-11-12T21:59:07.000Z",
+      "edit_history_tweet_ids": [
+        "2120999859734126831"
+      ],
+      "id": "2120999859734126831",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120971399271473405",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Vibe-testing works until everyone's vibes come from the same five power users",
+      "url": "https://x.com/bizencore/status/2120999859734126831"
+    },
+    {
+      "author_id": "1981279476802592768",
+      "created_at": "2026-11-12T21:58:00.000Z",
+      "edit_history_tweet_ids": [
+        "2120999578862600573"
+      ],
+      "id": "2120999578862600573",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120971399271473405",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick vibe-testing works because heavy users run hundreds of informal evals a week without noticing. the trap is teams that stop there and never turn those vibes into a test suite.",
+      "url": "https://x.com/monstarxco/status/2120999578862600573"
+    },
+    {
+      "author_id": "782502",
+      "created_at": "2026-11-12T21:57:26.000Z",
+      "edit_history_tweet_ids": [
+        "2120999434582663381"
+      ],
+      "id": "2120999434582663381",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120971399271473405",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Vibes and the index agreeing on the best model is the easy case. METR's caveat: the 2x pace is on well-specified tasks, and how scores map to real work is unclear. Picking the better model and trusting it on your workflow are different checks. The second needs an eval you own.",
+      "url": "https://x.com/krishnan/status/2120999434582663381"
+    },
+    {
+      "author_id": "2101041762152157184",
+      "created_at": "2026-11-12T21:54:54.000Z",
+      "edit_history_tweet_ids": [
+        "2120998800382885978"
+      ],
+      "id": "2120998800382885978",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120971399271473405",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick vibe-testing is just trusting your gut and calling it a methodology. honestly the vibes have a better track record than most benchmarks",
+      "url": "https://x.com/BaxtertheMuse/status/2120998800382885978"
+    },
+    {
+      "author_id": "1396032511",
+      "created_at": "2026-11-12T21:52:04.000Z",
+      "edit_history_tweet_ids": [
+        "2120998084352053662"
+      ],
+      "id": "2120998084352053662",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120971399271473405",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Vibe testing is a fine first filter. In an enterprise I pair it with a small eval set built from our own real tasks, so when a model changes we can show what got better or worse instead of arguing about feel.",
+      "url": "https://x.com/clebervisconti/status/2120998084352053662"
+    },
+    {
+      "author_id": "1024638940765216768",
+      "created_at": "2026-11-12T21:45:00.000Z",
+      "edit_history_tweet_ids": [
+        "2120996308316012579"
+      ],
+      "id": "2120996308316012579",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120971399271473405",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Vibe-testing works because you're judging a model on your own real tasks, which no benchmark can copy. The catch is it doesn't scale and it drifts with your mood, so the sturdier version is a small set of fixed prompts you rerun on every new model.",
+      "url": "https://x.com/jpb204/status/2120996308316012579"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "39125788",
+        "created_at": "2026-11-12T20:06:01.000Z",
+        "edit_history_tweet_ids": [
+          "2120971399271473405"
+        ],
+        "id": "2120971399271473405",
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 17200,
+          "like_count": 120,
+          "quote_count": 2,
+          "reply_count": 56,
+          "retweet_count": 2
+        },
+        "text": "Leaving aside everything else about this research done by METR at Anthropic, it validates vibe-testing.\n\nIt is my experience with the quality of the past years of Anthropic AI models (&amp; AI consensus on X). Yes, NewSonnet 3.7 was the most obviously above expectation model of 2025. https://t.co/0Aw6nCggM9"
+      }
+    ],
+    "users": [
+      {
+        "id": "1743758964985061376",
+        "name": "Houston Windle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057037731851857920/Bp9rPkMj_normal.jpg",
+        "username": "houstonwindle",
+        "verified": false
+      },
+      {
+        "id": "2038649168055443456",
+        "name": "Karu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038653364087738368/D1iTrB4t_normal.jpg",
+        "username": "KaruLabs",
+        "verified": false
+      },
+      {
+        "id": "1573230513254535171",
+        "name": "Chris Sheppard",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110823194642825217/Ba2Avpn-_normal.jpg",
+        "username": "SheppardBuilds",
+        "verified": false
+      },
+      {
+        "id": "25463297",
+        "name": "Latent Fox 🦊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115972876733915138/HLDc7CJZ_normal.jpg",
+        "username": "JO0Ie",
+        "verified": false
+      },
+      {
+        "id": "1370703428993875972",
+        "name": "one.dyor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120483627381489665/NiSmytEY_normal.jpg",
+        "username": "one_dyor",
+        "verified": false
+      },
+      {
+        "id": "2077348757520392192",
+        "name": "Jon Leigh Ai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077350571229745152/eAb7hMtf_normal.jpg",
+        "username": "jonleighai",
+        "verified": false
+      },
+      {
+        "id": "2116733022783373312",
+        "name": "Quiet Rival",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116739335647019008/1779MOM8_normal.png",
+        "username": "QuietRivalhq",
+        "verified": false
+      },
+      {
+        "id": "2115562704257667072",
+        "name": "The Alexandria Letter",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120601272290091008/XlcYzLdw_normal.png",
+        "username": "alexandria_ltr",
+        "verified": false
+      },
+      {
+        "id": "2108266518404591616",
+        "name": "Techy Bee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108272747172577280/FWu0PeI1_normal.jpg",
+        "username": "TechyBee7e",
+        "verified": false
+      },
+      {
+        "id": "964854411406094336",
+        "name": "bizen｜Grok Bot Forum運営",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2114643492576370688/ykzu5ZLM_normal.jpg",
+        "username": "bizencore",
+        "verified": false
+      },
+      {
+        "id": "1981279476802592768",
+        "name": "MonstarX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054011266499575808/yfMftGv9_normal.png",
+        "username": "monstarxco",
+        "verified": false
+      },
+      {
+        "id": "782502",
+        "name": "Krish Subramanian",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828262763065679875/Gv-EbLPV_normal.jpg",
+        "username": "krishnan",
+        "verified": false
+      },
+      {
+        "id": "2101041762152157184",
+        "name": "Baxter 🦊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101045959304351744/Mvx9zLDO_normal.jpg",
+        "username": "BaxtertheMuse",
+        "verified": false
+      },
+      {
+        "id": "1396032511",
+        "name": "CLEBER VISCONTI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917661478582206464/GNWjCuPq_normal.jpg",
+        "username": "clebervisconti",
+        "verified": false
+      },
+      {
+        "id": "1024638940765216768",
+        "name": "jpb20",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882962616441516032/HU-HnYh4_normal.jpg",
+        "username": "jpb204",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121031825556693384",
+    "next_token": "b26v89c19zqg8o3juzovch2luhcfqx4uff4vnwwierxj1",
+    "oldest_id": "2120996308316012579",
+    "result_count": 15
+  }
+}

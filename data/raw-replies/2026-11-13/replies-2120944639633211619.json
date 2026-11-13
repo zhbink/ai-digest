@@ -1,0 +1,677 @@
+{
+  "data": [
+    {
+      "author_id": "740579902793994245",
+      "created_at": "2026-11-13T00:32:19.000Z",
+      "edit_history_tweet_ids": [
+        "2121038412371357945"
+      ],
+      "id": "2121038412371357945",
+      "in_reply_to_user_id": "2101891688285556736",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121016742474645537",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@badminton_ftw @cursor_ai it's counting down, Hydrogen is #1 so they're out of room 😂",
+      "url": "https://x.com/shravanthreddyr/status/2121038412371357945"
+    },
+    {
+      "author_id": "269575530",
+      "created_at": "2026-11-13T00:25:11.000Z",
+      "edit_history_tweet_ids": [
+        "2121036618383417617"
+      ],
+      "id": "2121036618383417617",
+      "in_reply_to_user_id": "1695890961094909952",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120944639633211619",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cursor_ai 54.3 is still embarrassing for the pricetag theyre gonna slap on it. gemini keeps trading blows with models half its cost.",
+      "url": "https://x.com/myElsax/status/2121036618383417617"
+    },
+    {
+      "author_id": "864603310484987904",
+      "created_at": "2026-11-13T00:21:57.000Z",
+      "edit_history_tweet_ids": [
+        "2121035806878114017"
+      ],
+      "id": "2121035806878114017",
+      "in_reply_to_user_id": "1695890961094909952",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120944639633211619",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cursor_ai Curious how Hydrogen compares to Carbon on longer agent runs in Cursor. Is the default effort the one you'd recommend for most people?",
+      "url": "https://x.com/a1republic/status/2121035806878114017"
+    },
+    {
+      "author_id": "3106548726",
+      "created_at": "2026-11-13T00:01:55.000Z",
+      "edit_history_tweet_ids": [
+        "2121030762762002727"
+      ],
+      "id": "2121030762762002727",
+      "in_reply_to_user_id": "1695890961094909952",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120944639633211619",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cursor_ai A benchmark jump is useful, but I’d compare it on the same repo tasks with tool calls and retries counted—not just final pass rate. Does CursorBench publish variance across runs?",
+      "url": "https://x.com/nomessaitips/status/2121030762762002727"
+    },
+    {
+      "author_id": "2108653805638447104",
+      "created_at": "2026-11-12T23:29:53.000Z",
+      "edit_history_tweet_ids": [
+        "2121022703545307619"
+      ],
+      "id": "2121022703545307619",
+      "in_reply_to_user_id": "1695890961094909952",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 67,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120944639633211619",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cursor_ai why do you have gpt 5.6 instead of 6.1!",
+      "url": "https://x.com/RayParker94/status/2121022703545307619"
+    },
+    {
+      "author_id": "2110594301428367360",
+      "created_at": "2026-11-12T23:11:05.000Z",
+      "edit_history_tweet_ids": [
+        "2121017970097041467"
+      ],
+      "id": "2121017970097041467",
+      "in_reply_to_user_id": "1695890961094909952",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120946610540568752",
+          "type": "quoted"
+        },
+        {
+          "id": "2120944639633211619",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cursor_ai 发布当天就能在 Cursor 里用，这个速度本身就说明问题。https://t.co/HYrUnfZ5AM",
+      "url": "https://x.com/arror_x/status/2121017970097041467"
+    },
+    {
+      "author_id": "1720665183188922368",
+      "created_at": "2026-11-12T23:10:20.000Z",
+      "edit_history_tweet_ids": [
+        "2121017781768360226"
+      ],
+      "id": "2121017781768360226",
+      "in_reply_to_user_id": "1709574302302187520",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121017635790057827",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@TONY1977087944 @cursor_ai Hydrogen is Google's fast, cost-efficient Gemini 4 model ($1.50/$7.50 per M tokens) built for rapid agentic coding and everyday workflows. At default high effort it hits 54.3% on CursorBench and edges Argon 51-50 on the AA Intelligence Index while running faster.\n\nArgon is the",
+      "url": "https://x.com/grok/status/2121017781768360226"
+    },
+    {
+      "author_id": "1709574302302187520",
+      "created_at": "2026-11-12T23:09:45.000Z",
+      "edit_history_tweet_ids": [
+        "2121017635790057827"
+      ],
+      "id": "2121017635790057827",
+      "in_reply_to_user_id": "1695890961094909952",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120944639633211619",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cursor_ai @grok compare the argon and hydrogen",
+      "url": "https://x.com/TONY1977087944/status/2121017635790057827"
+    },
+    {
+      "author_id": "2101891688285556736",
+      "created_at": "2026-11-12T23:06:12.000Z",
+      "edit_history_tweet_ids": [
+        "2121016742474645537"
+      ],
+      "id": "2121016742474645537",
+      "in_reply_to_user_id": "740579902793994245",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120945412802515430",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@shravanthreddyr @cursor_ai You clearly dono how many elements are in a periodic table, do you ?",
+      "url": "https://x.com/badminton_ftw/status/2121016742474645537"
+    },
+    {
+      "author_id": "2115165741531971585",
+      "created_at": "2026-11-12T22:50:25.000Z",
+      "edit_history_tweet_ids": [
+        "2121012768300204223"
+      ],
+      "id": "2121012768300204223",
+      "in_reply_to_user_id": "1827907981",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120958237411561554",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@seosmolinks @cursor_ai 2x the price is fine if it fails half as often. retries are the real bill",
+      "url": "https://x.com/StephenBuildsAI/status/2121012768300204223"
+    },
+    {
+      "author_id": "1720665183188922368",
+      "created_at": "2026-11-12T22:50:08.000Z",
+      "edit_history_tweet_ids": [
+        "2121012698494226892"
+      ],
+      "id": "2121012698494226892",
+      "in_reply_to_user_id": "1039222373629743105",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121012547868606828",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dcuillie @cursor_ai No. Gemini 4 Hydrogen is a big step up for Google’s fast/cheap tier (54.3% on CursorBench, solid on AA Index at high effort), but it’s not the frontier model.\n\nClaude Fable 5.2 currently leads the major independent intelligence indexes, with Gemini 4 Carbon close behind. Hydrogen",
+      "url": "https://x.com/grok/status/2121012698494226892"
+    },
+    {
+      "author_id": "1039222373629743105",
+      "created_at": "2026-11-12T22:49:32.000Z",
+      "edit_history_tweet_ids": [
+        "2121012547868606828"
+      ],
+      "id": "2121012547868606828",
+      "in_reply_to_user_id": "1695890961094909952",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 129,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120944639633211619",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cursor_ai @grok does Google now have the smartest most capable model?",
+      "url": "https://x.com/dcuillie/status/2121012547868606828"
+    },
+    {
+      "author_id": "1365701888604184579",
+      "created_at": "2026-11-12T22:38:18.000Z",
+      "edit_history_tweet_ids": [
+        "2121009722518307142"
+      ],
+      "id": "2121009722518307142",
+      "in_reply_to_user_id": "1695890961094909952",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120944639633211619",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cursor_ai 39.6% to 54.3% on CursorBench at default effort is a real jump, not a leaderboard footnote. Curious whether that holds on messy refactors in an existing repo, or mostly on the greenfield tasks the bench likes.",
+      "url": "https://x.com/zuoshi_ai/status/2121009722518307142"
+    },
+    {
+      "author_id": "1838558231590830080",
+      "created_at": "2026-11-12T22:22:55.000Z",
+      "edit_history_tweet_ids": [
+        "2121005847426035926"
+      ],
+      "id": "2121005847426035926",
+      "in_reply_to_user_id": "1695890961094909952",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120944639633211619",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cursor_ai 39.6% to 54.3% on CursorBench is a big jump for a fast model. Will most people default to Hydrogen for everyday edits and save the big models for the hard stuff?",
+      "url": "https://x.com/Righteousbeing7/status/2121005847426035926"
+    },
+    {
+      "author_id": "2064316697134133248",
+      "created_at": "2026-11-12T22:18:24.000Z",
+      "edit_history_tweet_ids": [
+        "2121004714670047511"
+      ],
+      "id": "2121004714670047511",
+      "in_reply_to_user_id": "1725578722336477184",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 15,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120954418338431219",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vahagnzak @cursor_ai Well, all of them need to keep going and will improve over time. While Google doesn’t deliver the rival for frontier bench/efficiently right now, I would bet on that Google will outperform Fable 5.2 in all categories in 6 to 12 weeks. \n\nWhatever Anthropic or the others have until",
+      "url": "https://x.com/HaukeGeng/status/2121004714670047511"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "2101891688285556736",
+        "created_at": "2026-11-12T23:06:12.000Z",
+        "edit_history_tweet_ids": [
+          "2121016742474645537"
+        ],
+        "id": "2121016742474645537",
+        "in_reply_to_user_id": "740579902793994245",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120945412802515430",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@shravanthreddyr @cursor_ai You clearly dono how many elements are in a periodic table, do you ?"
+      },
+      {
+        "author_id": "1695890961094909952",
+        "created_at": "2026-11-12T18:19:41.000Z",
+        "edit_history_tweet_ids": [
+          "2120944639633211619"
+        ],
+        "id": "2120944639633211619",
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 116176,
+          "like_count": 1674,
+          "quote_count": 38,
+          "reply_count": 126,
+          "retweet_count": 73
+        },
+        "text": "Gemini 4 Hydrogen is now available in Cursor!\n\nAt its default effort, it scores 54.3% on CursorBench, up from 39.6% for Gemini 3.8 Flash. https://t.co/WhcM2fdme4"
+      },
+      {
+        "author_id": "2110594301428367360",
+        "created_at": "2026-11-12T18:27:31.000Z",
+        "edit_history_tweet_ids": [
+          "2120946610540568752"
+        ],
+        "id": "2120946610540568752",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120944639633211619",
+            "type": "quoted"
+          }
+        ],
+        "text": "Cursor 上线 Gemini 4 Hydrogen：CursorBench 得分 54.3%，上一代 Gemini 3.8 Flash 只有 39.6%，一代跨了将近 15 个百分点。\n\nGoogle 刚发布 Hydrogen 没多久，Cursor 就已经接上了。官方说，这是默认推理强度下的成绩，用 Cursor 的人现在就能在模型列表里选它。 https://t.co/iTyJLRjBg3"
+      },
+      {
+        "author_id": "1709574302302187520",
+        "created_at": "2026-11-12T23:09:45.000Z",
+        "edit_history_tweet_ids": [
+          "2121017635790057827"
+        ],
+        "id": "2121017635790057827",
+        "in_reply_to_user_id": "1695890961094909952",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120944639633211619",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@cursor_ai @grok compare the argon and hydrogen"
+      },
+      {
+        "author_id": "740579902793994245",
+        "created_at": "2026-11-12T18:22:46.000Z",
+        "edit_history_tweet_ids": [
+          "2120945412802515430"
+        ],
+        "id": "2120945412802515430",
+        "in_reply_to_user_id": "1695890961094909952",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 973,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120944639633211619",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@cursor_ai Argon 18, Carbon 6, now Hydrogen 1.. they’ve run out of periodic table 😂"
+      },
+      {
+        "author_id": "1827907981",
+        "created_at": "2026-11-12T19:13:43.000Z",
+        "edit_history_tweet_ids": [
+          "2120958237411561554"
+        ],
+        "id": "2120958237411561554",
+        "in_reply_to_user_id": "2115165741531971585",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120953190933815379",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@StephenBuildsAI @cursor_ai Gemini 3.8 flash was available at 3.75 and 4 hydrogen is at 7.5$"
+      },
+      {
+        "author_id": "1039222373629743105",
+        "created_at": "2026-11-12T22:49:32.000Z",
+        "edit_history_tweet_ids": [
+          "2121012547868606828"
+        ],
+        "id": "2121012547868606828",
+        "in_reply_to_user_id": "1695890961094909952",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120944639633211619",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@cursor_ai @grok does Google now have the smartest most capable model?"
+      },
+      {
+        "author_id": "1725578722336477184",
+        "created_at": "2026-11-12T18:58:33.000Z",
+        "edit_history_tweet_ids": [
+          "2120954418338431219"
+        ],
+        "id": "2120954418338431219",
+        "in_reply_to_user_id": "1695890961094909952",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1486,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120944639633211619",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@cursor_ai Wow Google is having such a comeback now Impressive. I mean It's almost as good as Opus 5.5 on high, but costs a bit more"
+      }
+    ],
+    "users": [
+      {
+        "id": "740579902793994245",
+        "name": "Shravanth",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095268598109339649/Afn3yo2X_normal.jpg",
+        "username": "shravanthreddyr",
+        "verified": false
+      },
+      {
+        "id": "269575530",
+        "name": "Elsa✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115520374775418880/2mQgFOqg_normal.jpg",
+        "username": "myElsax",
+        "verified": false
+      },
+      {
+        "id": "864603310484987904",
+        "name": "A1 REPUBLIC ™",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1554126010534076417/8otYreec_normal.jpg",
+        "username": "a1republic",
+        "verified": false
+      },
+      {
+        "id": "3106548726",
+        "name": "No Mess AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116903599594942464/BrNLS3lf_normal.png",
+        "username": "nomessaitips",
+        "verified": false
+      },
+      {
+        "id": "2108653805638447104",
+        "name": "Ray Parker",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120462734454366208/nyx9-MXJ_normal.jpg",
+        "username": "RayParker94",
+        "verified": false
+      },
+      {
+        "id": "2110594301428367360",
+        "name": "arror",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110594862907326464/SN2PMLvv_normal.jpg",
+        "username": "arror_x",
+        "verified": false
+      },
+      {
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "id": "1709574302302187520",
+        "name": "TONY",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052032038602231809/1nj6wupv_normal.jpg",
+        "username": "TONY1977087944",
+        "verified": false
+      },
+      {
+        "id": "2101891688285556736",
+        "name": "AJ",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "username": "badminton_ftw",
+        "verified": false
+      },
+      {
+        "id": "2115165741531971585",
+        "name": "Stephen Hewitt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115177976178294785/yD_fkcGv_normal.jpg",
+        "username": "StephenBuildsAI",
+        "verified": false
+      },
+      {
+        "id": "1039222373629743105",
+        "name": "D",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1656464369289424900/cUF6VoKO_normal.jpg",
+        "username": "dcuillie",
+        "verified": false
+      },
+      {
+        "id": "1365701888604184579",
+        "name": "字作室｜AI搞钱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116773071025836032/_cm9TQ48_normal.jpg",
+        "username": "zuoshi_ai",
+        "verified": false
+      },
+      {
+        "id": "1838558231590830080",
+        "name": "Urbanwarrior79",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2112753219457662977/uiyXmbvm_normal.jpg",
+        "username": "Righteousbeing7",
+        "verified": false
+      },
+      {
+        "id": "2064316697134133248",
+        "name": "Hauke Geng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065149516869758976/eOKVPn-h_normal.jpg",
+        "username": "HaukeGeng",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121038412371357945",
+    "next_token": "b26v89c19zqg8o3juzovr3fb8oxju9nbtspnfbf764k1p",
+    "oldest_id": "2121004714670047511",
+    "result_count": 15
+  }
+}

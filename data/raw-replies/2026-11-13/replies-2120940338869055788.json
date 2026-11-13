@@ -1,0 +1,564 @@
+{
+  "data": [
+    {
+      "author_id": "2098533497522843648",
+      "created_at": "2026-11-13T00:54:13.000Z",
+      "edit_history_tweet_ids": [
+        "2121043926375354461"
+      ],
+      "id": "2121043926375354461",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120940338869055788",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @ArtificialAnlys Hydrogen is at 51 on the Artificial Analysis Intelligence Index at default high thinking. Argon is at 50. At the highest setting Hydrogen hits 54.\n\nIt's also 2.5x faster than 3.8 Flash, and Terminal-Bench 4.1 goes from 18.2% to 57%.\n\nThe speed model just edged its own frontier",
+      "url": "https://x.com/lucsli_/status/2121043926375354461"
+    },
+    {
+      "author_id": "1808526343027752960",
+      "created_at": "2026-11-13T00:38:19.000Z",
+      "edit_history_tweet_ids": [
+        "2121039923767836847"
+      ],
+      "id": "2121039923767836847",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120940338869055788",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @ArtificialAnlys Carbon plans, Hydrogen executes and checks the sub-agent work: that split makes sense on cost. Curious what happens when Hydrogen's check disagrees with Carbon's plan. Does it bounce back up, or just retry?",
+      "url": "https://x.com/8emRiGnHFs32727/status/2121039923767836847"
+    },
+    {
+      "author_id": "1619926448470642688",
+      "created_at": "2026-11-13T00:28:44.000Z",
+      "edit_history_tweet_ids": [
+        "2121037512730927169"
+      ],
+      "id": "2121037512730927169",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120940338869055788",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @ArtificialAnlys But I can’t run it 24/7 on my Mac Studio for 25 bucks a month.",
+      "url": "https://x.com/DwidLee/status/2121037512730927169"
+    },
+    {
+      "author_id": "2115558973453508609",
+      "created_at": "2026-11-13T00:28:36.000Z",
+      "edit_history_tweet_ids": [
+        "2121037480204149071"
+      ],
+      "id": "2121037480204149071",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120940338869055788",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @ArtificialAnlys Faster models pay off most in agent chains, where latency stacks on every tool call. I'd test it on the slowest multi-step workflow you have, since single-prompt benchmarks hide that.",
+      "url": "https://x.com/ZenoFlow_AI/status/2121037480204149071"
+    },
+    {
+      "author_id": "3303780864",
+      "created_at": "2026-11-13T00:25:59.000Z",
+      "edit_history_tweet_ids": [
+        "2121036819622174930"
+      ],
+      "id": "2121036819622174930",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120940338869055788",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @ArtificialAnlys Need a gemini model that priced at GPT 6 luna or lower and more intelligent",
+      "url": "https://x.com/mathewtisson/status/2121036819622174930"
+    },
+    {
+      "author_id": "263606970",
+      "created_at": "2026-11-13T00:24:29.000Z",
+      "edit_history_tweet_ids": [
+        "2121036443103752629"
+      ],
+      "id": "2121036443103752629",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120940338869055788",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @ArtificialAnlys What's interesting isn't just the 2.5x speed — it's the split: Carbon planning and coordinating, Hydrogen doing the execution and verification. When generation gets this cheap, review becomes the bottleneck. The edge goes to whoever can verify output as fast as it's produced.",
+      "url": "https://x.com/minimaniwo/status/2121036443103752629"
+    },
+    {
+      "author_id": "1803176496766328833",
+      "created_at": "2026-11-13T00:08:09.000Z",
+      "edit_history_tweet_ids": [
+        "2121032331355963724"
+      ],
+      "id": "2121032331355963724",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 47,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120940338869055788",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @ArtificialAnlys The coding rows are why I'd still pick by task, not by the overall ranking.",
+      "url": "https://x.com/alnooraniii/status/2121032331355963724"
+    },
+    {
+      "author_id": "3106548726",
+      "created_at": "2026-11-13T00:06:56.000Z",
+      "edit_history_tweet_ids": [
+        "2121032024937095470"
+      ],
+      "id": "2121032024937095470",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120940338869055788",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @ArtificialAnlys A 2.5x speedup is useful context, but task mix and quality matter. Publishing the eval set, baseline settings, and pass rate alongside speed would make the comparison easier to apply.",
+      "url": "https://x.com/nomessaitips/status/2121032024937095470"
+    },
+    {
+      "author_id": "276062948",
+      "created_at": "2026-11-13T00:03:10.000Z",
+      "edit_history_tweet_ids": [
+        "2121031076537655404"
+      ],
+      "id": "2121031076537655404",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120940338869055788",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @ArtificialAnlys everyone keeps pretending benchmarks mean something until the model fumbles a basic task in real life. 2.5x faster at what exactly, hallucinating confidently.",
+      "url": "https://x.com/ElsaxoBae/status/2121031076537655404"
+    },
+    {
+      "author_id": "2100257555477868544",
+      "created_at": "2026-11-12T23:47:00.000Z",
+      "edit_history_tweet_ids": [
+        "2121027010726359182"
+      ],
+      "id": "2121027010726359182",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120940338869055788",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @ArtificialAnlys One point over Argon on a third-party index is a rounding error, not a coronation. The number builders will feel is $1.50/$7.50 per million tokens, flat across the full 1M window.",
+      "url": "https://x.com/AIEarlyEdition/status/2121027010726359182"
+    },
+    {
+      "author_id": "757940114949537792",
+      "created_at": "2026-11-12T23:24:01.000Z",
+      "edit_history_tweet_ids": [
+        "2121021226080743700"
+      ],
+      "id": "2121021226080743700",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120940338869055788",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @ArtificialAnlys The table lists 71.6% on Agents' Last Exam v1.1, compared with 60.4% for Claude Sonnet 5.5 and 69.8% for GPT-6.1 Terra.",
+      "url": "https://x.com/sulaiman_svesal/status/2121021226080743700"
+    },
+    {
+      "author_id": "462042801",
+      "created_at": "2026-11-12T23:19:16.000Z",
+      "edit_history_tweet_ids": [
+        "2121020028606947496"
+      ],
+      "id": "2121020028606947496",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120940338869055788",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @ArtificialAnlys 还得是Google，最近的模型发布速度很快。",
+      "url": "https://x.com/QQTeng/status/2121020028606947496"
+    },
+    {
+      "author_id": "2110594301428367360",
+      "created_at": "2026-11-12T23:10:16.000Z",
+      "edit_history_tweet_ids": [
+        "2121017767260537207"
+      ],
+      "id": "2121017767260537207",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120940582390452333",
+          "type": "quoted"
+        },
+        {
+          "id": "2120940338869055788",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @ArtificialAnlys Hydrogen 要是真能又快又超过 Argon，很多人的默认模型就要换了。https://t.co/avwgGI4YOB",
+      "url": "https://x.com/arror_x/status/2121017767260537207"
+    },
+    {
+      "author_id": "978256844",
+      "created_at": "2026-11-12T23:08:25.000Z",
+      "edit_history_tweet_ids": [
+        "2121017300715507985"
+      ],
+      "id": "2121017300715507985",
+      "in_reply_to_user_id": "828615608807854081",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120963452676313212",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@super_kenil @GoogleDeepMind @ArtificialAnlys they are not on the same class of models\n\nopus goes against the pro models, like argon",
+      "url": "https://x.com/chriss_gasps/status/2121017300715507985"
+    },
+    {
+      "author_id": "1768640879923998720",
+      "created_at": "2026-11-12T23:02:29.000Z",
+      "edit_history_tweet_ids": [
+        "2121015805429395940"
+      ],
+      "id": "2121015805429395940",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 205,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120940338869055788",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @ArtificialAnlys Gemini-chan checking the family report cards:\n\n“Hydrogen: 51. Argon: 50. I’ll just leave this here.” https://t.co/ZQp5NGxrcu",
+      "url": "https://x.com/OrangeOrcaDraws/status/2121015805429395940"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "4783690002",
+        "created_at": "2026-11-12T18:02:36.000Z",
+        "edit_history_tweet_ids": [
+          "2120940338869055788"
+        ],
+        "id": "2120940338869055788",
+        "public_metrics": {
+          "bookmark_count": 622,
+          "impression_count": 792552,
+          "like_count": 5663,
+          "quote_count": 341,
+          "reply_count": 269,
+          "retweet_count": 487
+        },
+        "text": "Meet Gemini 4 Hydrogen: built for rapid coding, multimodal synthesis, and everyday workflows.\n\nIt finishes tasks 2.5x faster than 3.8 Flash and surpasses Argon on the @ArtificialAnlys Intelligence Index. https://t.co/pY6eZlggqD"
+      },
+      {
+        "author_id": "2110594301428367360",
+        "created_at": "2026-11-12T18:03:34.000Z",
+        "edit_history_tweet_ids": [
+          "2120940582390452333"
+        ],
+        "id": "2120940582390452333",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120940338869055788",
+            "type": "quoted"
+          }
+        ],
+        "text": "Google DeepMind 发布 Gemini 4 Hydrogen：主打快，完成任务的速度是 3.8 Flash 的 2.5 倍，在 Artificial Analysis 智能指数上还超过了 Argon。\n\n官方说，它是为快速写代码、多模态综合处理和日常工作流打造的。从定位看，Hydrogen 接的是 Flash 这条线：不追最强，追又快又够聪明。 https://t.co/iEk6Ka8mmH"
+      },
+      {
+        "author_id": "828615608807854081",
+        "created_at": "2026-11-12T19:34:27.000Z",
+        "edit_history_tweet_ids": [
+          "2120963452676313212"
+        ],
+        "id": "2120963452676313212",
+        "in_reply_to_user_id": "4783690002",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 996,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120940338869055788",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@GoogleDeepMind @ArtificialAnlys I thought you'll compare it with Opus 5.5 since its been out since long"
+      }
+    ],
+    "users": [
+      {
+        "id": "2098533497522843648",
+        "name": "Lucas Li",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109046097578770432/v8iYIASK_normal.jpg",
+        "username": "lucsli_",
+        "verified": false
+      },
+      {
+        "id": "1808526343027752960",
+        "name": "一圈人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808526454566834176/-jrX4STR_normal.png",
+        "username": "8emRiGnHFs32727",
+        "verified": false
+      },
+      {
+        "id": "1619926448470642688",
+        "name": "Dwid Lee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619926623968690177/QALXqZxt_normal.png",
+        "username": "DwidLee",
+        "verified": false
+      },
+      {
+        "id": "2115558973453508609",
+        "name": "ZenoFlow AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118097917101715456/0VNhbyUC_normal.png",
+        "username": "ZenoFlow_AI",
+        "verified": false
+      },
+      {
+        "id": "3303780864",
+        "name": "Tisson Mathew",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905355402822516738/l2RK42fw_normal.jpg",
+        "username": "mathewtisson",
+        "verified": false
+      },
+      {
+        "id": "263606970",
+        "name": "jingyanzhang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090430368860266497/AfUvgQbE_normal.jpg",
+        "username": "minimaniwo",
+        "verified": false
+      },
+      {
+        "id": "1803176496766328833",
+        "name": "LA8",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837519315072909313/PqAF0asQ_normal.jpg",
+        "username": "alnooraniii",
+        "verified": false
+      },
+      {
+        "id": "3106548726",
+        "name": "No Mess AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116903599594942464/BrNLS3lf_normal.png",
+        "username": "nomessaitips",
+        "verified": false
+      },
+      {
+        "id": "276062948",
+        "name": "Elsaa🍭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115521671222202368/Aokw9zyU_normal.jpg",
+        "username": "ElsaxoBae",
+        "verified": false
+      },
+      {
+        "id": "2100257555477868544",
+        "name": "AI Early Edition",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100261385858957312/PshcWf2Q_normal.jpg",
+        "username": "AIEarlyEdition",
+        "verified": false
+      },
+      {
+        "id": "757940114949537792",
+        "name": "Sulaiman Vesal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106906634916352000/V_uVJEDS_normal.jpg",
+        "username": "sulaiman_svesal",
+        "verified": false
+      },
+      {
+        "id": "462042801",
+        "name": "Joker",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109494883077754880/PGrUaKpG_normal.jpg",
+        "username": "QQTeng",
+        "verified": false
+      },
+      {
+        "id": "2110594301428367360",
+        "name": "arror",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110594862907326464/SN2PMLvv_normal.jpg",
+        "username": "arror_x",
+        "verified": false
+      },
+      {
+        "id": "978256844",
+        "name": "Chriss Gasps",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1262319491033247745/xwVCPcR6_normal.jpg",
+        "username": "chriss_gasps",
+        "verified": false
+      },
+      {
+        "id": "1768640879923998720",
+        "name": "Orange Orca",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2114578011563675648/3SNhKlnP_normal.jpg",
+        "username": "OrangeOrcaDraws",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121043926375354461",
+    "next_token": "b26v89c19zqg8o3juzovr3fm2n53xftt3s038idfdjud9",
+    "oldest_id": "2121015805429395940",
+    "result_count": 15
+  }
+}

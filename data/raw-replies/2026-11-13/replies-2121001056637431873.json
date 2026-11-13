@@ -1,0 +1,766 @@
+{
+  "data": [
+    {
+      "author_id": "1795767505476104192",
+      "conversation_id": "2121001056637431873",
+      "created_at": "2026-11-13T00:53:59.000Z",
+      "edit_history_tweet_ids": [
+        "2121043867839680552"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121043867839680552",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121001056637431873",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick These are the types of problems we need more people in AI working on!",
+      "url": "https://x.com/mfethe1/status/2121043867839680552"
+    },
+    {
+      "author_id": "1282820253072781314",
+      "conversation_id": "2121001056637431873",
+      "created_at": "2026-11-13T00:51:16.000Z",
+      "edit_history_tweet_ids": [
+        "2121043184528797764"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121043184528797764",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121001056637431873",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick teachers getting homeworks automated now too",
+      "url": "https://x.com/coffeefreehans/status/2121043184528797764"
+    },
+    {
+      "author_id": "1886544012917800961",
+      "conversation_id": "2121001056637431873",
+      "created_at": "2026-11-13T00:11:23.000Z",
+      "edit_history_tweet_ids": [
+        "2121033145319600265"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121033145319600265",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121001056637431873",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Love that nothing gets built until the teacher signs off on a design doc. Most AI-for-school tools jump straight to generating stuff and the teacher becomes the cleanup crew. Curious how it holds up in a real classroom, since the page says that hasn't been tested yet.",
+      "url": "https://x.com/Andy09131042701/status/2121033145319600265"
+    },
+    {
+      "author_id": "2094134789045448704",
+      "conversation_id": "2121001056637431873",
+      "created_at": "2026-11-13T00:05:34.000Z",
+      "edit_history_tweet_ids": [
+        "2121031683113964019"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121031683113964019",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 32,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121001056637431873",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick the step i'd want to see is how a teacher checks the simulation before students touch it. a generated sim can be wrong in ways that still look right. does primer show what it assumed?",
+      "url": "https://x.com/ScottWilderHQ/status/2121031683113964019"
+    },
+    {
+      "author_id": "1791265100994674689",
+      "conversation_id": "2121001056637431873",
+      "created_at": "2026-11-13T00:04:53.000Z",
+      "edit_history_tweet_ids": [
+        "2121031511583420572"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121031511583420572",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 23,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121030261349753150",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick 😆",
+      "url": "https://x.com/ham564615/status/2121031511583420572"
+    },
+    {
+      "author_id": "2086370229396111360",
+      "conversation_id": "2121001056637431873",
+      "created_at": "2026-11-13T00:00:15.000Z",
+      "edit_history_tweet_ids": [
+        "2121030344954773894"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121030344954773894",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121001056637431873",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Talking a lesson into a playable sim fits how teachers already work: they explain things out loud.\n\nThe hard part is making sure the sim teaches the right mental model, not just a fun one. Can the teacher inspect or edit the rules the agent built before students play?",
+      "url": "https://x.com/miaojiang88/status/2121030344954773894"
+    },
+    {
+      "author_id": "40877411",
+      "conversation_id": "2121001056637431873",
+      "created_at": "2026-11-12T23:56:38.000Z",
+      "edit_history_tweet_ids": [
+        "2121029433381306452"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121029433381306452",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 31,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121001056637431873",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick This is where hiring is heading too. Training teams will want people who can turn what they know into hands-on practice like this, not just slide decks. Love that you opened up the code.",
+      "url": "https://x.com/JoeHeadhunter/status/2121029433381306452"
+    },
+    {
+      "author_id": "2111286354860740608",
+      "conversation_id": "2121001056637431873",
+      "created_at": "2026-11-12T23:43:30.000Z",
+      "edit_history_tweet_ids": [
+        "2121026127770927442"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121026127770927442",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121001056637431873",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick The pedagogy-first grounding is what most AI tutor demos skip — a slick sim teaching the wrong mental model is worse than none. And a paper you can hand to an agent to rebuild itself is a neat test of the idea. Which lesson topic produced the most surprising sim so far?",
+      "url": "https://x.com/StephenzhouX01/status/2121026127770927442"
+    },
+    {
+      "author_id": "1959439328683405312",
+      "conversation_id": "2121001056637431873",
+      "created_at": "2026-11-12T23:36:22.000Z",
+      "edit_history_tweet_ids": [
+        "2121024333690867833"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121024333690867833",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 18,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121001056637431873",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick The playable part is where the real work is. Getting a small puzzle game to feel fair has taken me more rounds than building it did",
+      "url": "https://x.com/dylveloper/status/2121024333690867833"
+    },
+    {
+      "author_id": "1991210188578467840",
+      "conversation_id": "2121001056637431873",
+      "created_at": "2026-11-12T23:34:03.000Z",
+      "edit_history_tweet_ids": [
+        "2121023748912668711"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121023748912668711",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121001056637431873",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Turning a teacher's spoken lesson into a playable sim flips the usual edtech pitch: the teacher stays the author and the AI just does the build. Curious how you check that a sim actually teaches the concept rather than just being fun to play.",
+      "url": "https://x.com/viral_warden/status/2121023748912668711"
+    },
+    {
+      "author_id": "2103357061484703744",
+      "conversation_id": "2121001056637431873",
+      "created_at": "2026-11-12T23:32:09.000Z",
+      "edit_history_tweet_ids": [
+        "2121023272087380195"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121023272087380195",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121001056637431873",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick The step I'd want built in: the teacher reviews the simulation before students see it. How does Primer handle a lesson the agent gets wrong?",
+      "url": "https://x.com/ArijitC629/status/2121023272087380195"
+    },
+    {
+      "author_id": "14859559",
+      "conversation_id": "2121001056637431873",
+      "created_at": "2026-11-12T23:31:21.000Z",
+      "edit_history_tweet_ids": [
+        "2121023070919921900"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121023070919921900",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 43,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121001056637431873",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick A teacher just talking through a lesson and getting a playable simulation back is huge for schools with no budget for this. Really glad it's open.",
+      "url": "https://x.com/magolnick/status/2121023070919921900"
+    },
+    {
+      "author_id": "1892479427801411585",
+      "conversation_id": "2121001056637431873",
+      "created_at": "2026-11-12T23:13:36.000Z",
+      "edit_history_tweet_ids": [
+        "2121018605248934351"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121018605248934351",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 42,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121001056637431873",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick do teachers get to tweak the sim after or is it one shot from the lesson",
+      "url": "https://x.com/baeincrypto/status/2121018605248934351"
+    },
+    {
+      "author_id": "13539752",
+      "conversation_id": "2121001056637431873",
+      "created_at": "2026-11-12T23:12:18.000Z",
+      "edit_history_tweet_ids": [
+        "2121018277841584163"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121018277841584163",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121002669250675075",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick This was the most intriguing chapter of your book. Glad you are doing this.",
+      "url": "https://x.com/eydey/status/2121018277841584163"
+    },
+    {
+      "author_id": "21387270",
+      "conversation_id": "2121001056637431873",
+      "created_at": "2026-11-12T23:10:32.000Z",
+      "edit_history_tweet_ids": [
+        "2121017834147094937"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121017834147094937",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121001056637431873",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick The talk-through is the underrated part. Experts leave the exceptions out when they write a spec and put them back in when they explain it out loud. Same pattern in operations work: the interview captures the judgment, and the build is the cheap step after it.",
+      "url": "https://x.com/smperng/status/2121017834147094937"
+    }
+  ],
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [2121030261349753150].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2121030261349753150",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2121030261349753150"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "39125788",
+        "conversation_id": "2121001056637431873",
+        "created_at": "2026-11-12T22:03:52.000Z",
+        "edit_history_tweet_ids": [
+          "2121001056637431873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "gail.wharton.upenn.edu/primer/",
+              "end": 287,
+              "expanded_url": "https://gail.wharton.upenn.edu/primer/",
+              "images": [
+                {
+                  "height": 1202,
+                  "url": "https://pbs.twimg.com/news_img/2121001066984841216/U1MEK_aX?format=jpg&name=orig",
+                  "width": 922
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2121001066984841216/U1MEK_aX?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 264,
+              "status": 200,
+              "title": "Primer",
+              "unwound_url": "https://gail.wharton.upenn.edu/primer/",
+              "url": "https://t.co/ltSbgjTeGp"
+            },
+            {
+              "display_url": "pic.x.com/pbit5AK1tm",
+              "end": 311,
+              "expanded_url": "https://x.com/emollick/status/2121001056637431873/photo/1",
+              "media_key": "3_2121000287460638720",
+              "start": 288,
+              "url": "https://t.co/pbit5AK1tm"
+            },
+            {
+              "display_url": "pic.x.com/pbit5AK1tm",
+              "end": 311,
+              "expanded_url": "https://x.com/emollick/status/2121001056637431873/photo/1",
+              "media_key": "3_2121000311594577923",
+              "start": 288,
+              "url": "https://t.co/pbit5AK1tm"
+            },
+            {
+              "display_url": "pic.x.com/pbit5AK1tm",
+              "end": 311,
+              "expanded_url": "https://x.com/emollick/status/2121001056637431873/photo/1",
+              "media_key": "3_2121000566935416832",
+              "start": 288,
+              "url": "https://t.co/pbit5AK1tm"
+            }
+          ]
+        },
+        "id": "2121001056637431873",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 230,
+          "impression_count": 18382,
+          "like_count": 280,
+          "quote_count": 3,
+          "reply_count": 57,
+          "retweet_count": 36
+        },
+        "text": "🚨 Our Generative AI Lab is releasing Primer: an agent-driven system where a teacher talks through lessons &amp; gets back a playable simulation for their students, grounded in pedagogy. We hope educators &amp; researchers build on it. Paper/prompts/code are open: https://t.co/ltSbgjTeGp https://t.co/pbit5AK1tm"
+      },
+      {
+        "author_id": "39125788",
+        "conversation_id": "2121001056637431873",
+        "created_at": "2026-11-12T22:10:17.000Z",
+        "edit_history_tweet_ids": [
+          "2121002669250675075"
+        ],
+        "id": "2121002669250675075",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5855,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121001771103334743",
+            "type": "replied_to"
+          }
+        ],
+        "text": "We believe that AI, when used properly, can have a large positive impact on education, but the major AIs are not built for learning out-of-the-box. We wanted to make sure we gave control to educators so they can make choices. \n\n(Yes, it is named after the Primer from Diamond Age)"
+      }
+    ],
+    "users": [
+      {
+        "id": "1795767505476104192",
+        "name": "Michael Fethe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795767579237093377/cew5X0en_normal.jpg",
+        "username": "mfethe1",
+        "verified": false
+      },
+      {
+        "id": "1282820253072781314",
+        "name": "Hans",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075179824151408640/NiIzywD2_normal.jpg",
+        "username": "coffeefreehans",
+        "verified": false
+      },
+      {
+        "id": "1886544012917800961",
+        "name": "Andy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886544330548248577/Hr89Kzjq_normal.jpg",
+        "username": "Andy09131042701",
+        "verified": false
+      },
+      {
+        "id": "2094134789045448704",
+        "name": "Scott Wilder",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108573180017152000/CN8iXF2f_normal.jpg",
+        "username": "ScottWilderHQ",
+        "verified": false
+      },
+      {
+        "id": "1791265100994674689",
+        "name": "Joe Ham",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "username": "ham564615",
+        "verified": false
+      },
+      {
+        "id": "2086370229396111360",
+        "name": "AnAn❤️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2111102086511501313/L1wNYQrG_normal.jpg",
+        "username": "miaojiang88",
+        "verified": false
+      },
+      {
+        "id": "40877411",
+        "name": "Joe Pelayo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026810717530124288/r_WjcG0F_normal.jpg",
+        "username": "JoeHeadhunter",
+        "verified": false
+      },
+      {
+        "id": "2111286354860740608",
+        "name": "Stephen | AI Tools Express",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2111730372514140160/HH6PUQgz_normal.jpg",
+        "username": "StephenzhouX01",
+        "verified": false
+      },
+      {
+        "id": "1959439328683405312",
+        "name": "Dylan K",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087867371763703808/mptH3LuR_normal.jpg",
+        "username": "dylveloper",
+        "verified": false
+      },
+      {
+        "id": "1991210188578467840",
+        "name": "Viral Warden",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991212022483283969/xtyA1lJj_normal.jpg",
+        "username": "viral_warden",
+        "verified": false
+      },
+      {
+        "id": "2103357061484703744",
+        "name": "Arijit Chakraborty | Ops × AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119141817958703106/wRfGENW-_normal.jpg",
+        "username": "ArijitC629",
+        "verified": false
+      },
+      {
+        "id": "14859559",
+        "name": "Mike Magolnick",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074257306183782400/H56NWbXY_normal.jpg",
+        "username": "magolnick",
+        "verified": false
+      },
+      {
+        "id": "1892479427801411585",
+        "name": "shivani",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003517918865481728/9q24qFvc_normal.jpg",
+        "username": "baeincrypto",
+        "verified": false
+      },
+      {
+        "id": "13539752",
+        "name": "Edward Acenas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756028288802390016/vSbRtJXw_normal.jpg",
+        "username": "eydey",
+        "verified": false
+      },
+      {
+        "id": "21387270",
+        "name": "Shyan-Ming Perng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120672851514822656/ckCiRRqR_normal.jpg",
+        "username": "smperng",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121043867839680552",
+    "next_token": "b26v89c19zqg8o3juzovr3fm5oe0u2sj4oi5rbxesrud9",
+    "oldest_id": "2121017834147094937",
+    "result_count": 15
+  }
+}

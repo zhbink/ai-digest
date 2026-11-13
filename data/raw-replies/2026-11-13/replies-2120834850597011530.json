@@ -1,0 +1,851 @@
+{
+  "data": [
+    {
+      "author_id": "6782882",
+      "conversation_id": "2120834850597011530",
+      "created_at": "2026-11-12T23:07:33.000Z",
+      "edit_history_tweet_ids": [
+        "2121017079692431835"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "133119421",
+            "start": 0,
+            "username": "songofhawk"
+          }
+        ]
+      },
+      "id": "2121017079692431835",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 61,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121006292802363483",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@songofhawk 在我们的产品 Cola 里用的\n直接调用 API 也可以的",
+      "url": "https://x.com/oran_ge/status/2121017079692431835"
+    },
+    {
+      "author_id": "133119421",
+      "conversation_id": "2120834850597011530",
+      "created_at": "2026-11-12T22:24:41.000Z",
+      "edit_history_tweet_ids": [
+        "2121006292802363483"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2121006292802363483",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 54,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120834850597011530",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge 直接官方studio 调用 API么？",
+      "url": "https://x.com/songofhawk/status/2121006292802363483"
+    },
+    {
+      "author_id": "1874337039019356160",
+      "conversation_id": "2120834850597011530",
+      "created_at": "2026-11-12T13:21:59.000Z",
+      "edit_history_tweet_ids": [
+        "2120869718139470317"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2120869718139470317",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 310,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120834850597011530",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge 写作真的很好吗？我感觉不如opus 5.5啊",
+      "url": "https://x.com/MD24871/status/2120869718139470317"
+    },
+    {
+      "author_id": "6782882",
+      "conversation_id": "2120834850597011530",
+      "created_at": "2026-11-12T12:59:58.000Z",
+      "edit_history_tweet_ids": [
+        "2120864178613506391"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "387147664",
+            "start": 0,
+            "username": "forecho"
+          }
+        ]
+      },
+      "id": "2120864178613506391",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 903,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120848619771425275",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@forecho 肯定不如 ds flash\n也凑合",
+      "url": "https://x.com/oran_ge/status/2120864178613506391"
+    },
+    {
+      "author_id": "203355782",
+      "conversation_id": "2120834850597011530",
+      "created_at": "2026-11-12T12:47:32.000Z",
+      "edit_history_tweet_ids": [
+        "2120861047695474926"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2120861047695474926",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 135,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120846309448101931",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge 对\n藏在博客比较后面",
+      "url": "https://x.com/auuutoo/status/2120861047695474926"
+    },
+    {
+      "author_id": "282522910",
+      "conversation_id": "2120834850597011530",
+      "created_at": "2026-11-12T12:38:16.000Z",
+      "edit_history_tweet_ids": [
+        "2120858717768052787"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "387147664",
+            "start": 0,
+            "username": "forecho"
+          },
+          {
+            "end": 17,
+            "id": "6782882",
+            "start": 9,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2120858717768052787",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 260,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120848619771425275",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@forecho @oran_ge 还行吧，vertex 大概 50 tps 左右，和 aws 的 opus 那些差不多",
+      "url": "https://x.com/passluo/status/2120858717768052787"
+    },
+    {
+      "author_id": "2007774501782847488",
+      "conversation_id": "2120834850597011530",
+      "created_at": "2026-11-12T12:33:54.000Z",
+      "edit_history_tweet_ids": [
+        "2120857618394861704"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2120857618394861704",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 310,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120834850597011530",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge 抗打不？",
+      "url": "https://x.com/DDJCXX/status/2120857618394861704"
+    },
+    {
+      "author_id": "2114993211936813056",
+      "conversation_id": "2120834850597011530",
+      "created_at": "2026-11-12T12:31:21.000Z",
+      "edit_history_tweet_ids": [
+        "2120856978025296187"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2120856978025296187",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 350,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120834850597011530",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge Carbon 只要 Sonnet 的价这点挺香。DeepSeek Flash 中午我拿来一句话做 3D 小游戏，跑满 10 分钟都没交卷，免费的 GLM Flash 54 秒就交了 😂",
+      "url": "https://x.com/AiMaster1689/status/2120856978025296187"
+    },
+    {
+      "author_id": "110912870",
+      "conversation_id": "2120834850597011530",
+      "created_at": "2026-11-12T12:09:09.000Z",
+      "edit_history_tweet_ids": [
+        "2120851389832192411"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "387147664",
+            "start": 0,
+            "username": "forecho"
+          },
+          {
+            "end": 17,
+            "id": "6782882",
+            "start": 9,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2120851389832192411",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 21,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120848619771425275",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@forecho @oran_ge 慢！ 50toks/s 上下",
+      "url": "https://x.com/maxleebeta/status/2120851389832192411"
+    },
+    {
+      "author_id": "387147664",
+      "conversation_id": "2120834850597011530",
+      "created_at": "2026-11-12T11:58:09.000Z",
+      "edit_history_tweet_ids": [
+        "2120848619771425275"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2120848619771425275",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2023,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120834850597011530",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge 听说很慢，是吗？",
+      "url": "https://x.com/forecho/status/2120848619771425275"
+    },
+    {
+      "author_id": "6782882",
+      "conversation_id": "2120834850597011530",
+      "created_at": "2026-11-12T11:50:01.000Z",
+      "edit_history_tweet_ids": [
+        "2120846576696594669"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "2042983655501434880",
+            "start": 0,
+            "username": "mufenglabs"
+          }
+        ]
+      },
+      "id": "2120846576696594669",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 992,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120836402405638326",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mufenglabs 对 不要一家独大",
+      "url": "https://x.com/oran_ge/status/2120846576696594669"
+    },
+    {
+      "author_id": "6782882",
+      "conversation_id": "2120834850597011530",
+      "created_at": "2026-11-12T11:48:58.000Z",
+      "edit_history_tweet_ids": [
+        "2120846309448101931"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "203355782",
+            "start": 0,
+            "username": "auuutoo"
+          }
+        ]
+      },
+      "id": "2120846309448101931",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1219,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120845379591971319",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@auuutoo 啊 这样",
+      "url": "https://x.com/oran_ge/status/2120846309448101931"
+    },
+    {
+      "author_id": "203355782",
+      "conversation_id": "2120834850597011530",
+      "created_at": "2026-11-12T11:45:16.000Z",
+      "edit_history_tweet_ids": [
+        "2120845379591971319"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          },
+          {
+            "end": 17,
+            "id": "6782882",
+            "start": 9,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2120845379591971319",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1242,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120834850597011530",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge @oran_ge $2 / $10 只是引入价\n\n官方写到 11 月 30 日截止\n之后百万 token 是输入 $4、输出 $20",
+      "url": "https://x.com/auuutoo/status/2120845379591971319"
+    },
+    {
+      "author_id": "891906970533351424",
+      "conversation_id": "2120834850597011530",
+      "created_at": "2026-11-12T11:41:29.000Z",
+      "edit_history_tweet_ids": [
+        "2120844427853996396"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2120844427853996396",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 289,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120834850597011530",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge 他家还是很不错的",
+      "url": "https://x.com/RachelRifx/status/2120844427853996396"
+    },
+    {
+      "author_id": "1131549414630318080",
+      "conversation_id": "2120834850597011530",
+      "created_at": "2026-11-12T11:30:41.000Z",
+      "edit_history_tweet_ids": [
+        "2120841709164839067"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2120841709164839067",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 631,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120834850597011530",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge Sonnet的价钱拿到这水平，挺香",
+      "url": "https://x.com/wantlvm/status/2120841709164839067"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "133119421",
+        "conversation_id": "2120834850597011530",
+        "created_at": "2026-11-12T22:24:41.000Z",
+        "edit_history_tweet_ids": [
+          "2121006292802363483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "6782882",
+              "start": 0,
+              "username": "oran_ge"
+            }
+          ]
+        },
+        "id": "2121006292802363483",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120834850597011530",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@oran_ge 直接官方studio 调用 API么？"
+      },
+      {
+        "author_id": "6782882",
+        "conversation_id": "2120834850597011530",
+        "created_at": "2026-11-12T11:03:26.000Z",
+        "edit_history_tweet_ids": [
+          "2120834850597011530"
+        ],
+        "id": "2120834850597011530",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 22339,
+          "like_count": 72,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "text": "谷歌的新模型  Gemini 4 Carbon 用着确实还不错啊\n明显比 DeepSeek Flash 要强很多的\n写作方面也更为自然丝滑\n价格方面我以为会跟 Opus 一样贵，但实际只有 Sonnet 的价格"
+      },
+      {
+        "author_id": "387147664",
+        "conversation_id": "2120834850597011530",
+        "created_at": "2026-11-12T11:58:09.000Z",
+        "edit_history_tweet_ids": [
+          "2120848619771425275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "6782882",
+              "start": 0,
+              "username": "oran_ge"
+            }
+          ]
+        },
+        "id": "2120848619771425275",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2023,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120834850597011530",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@oran_ge 听说很慢，是吗？"
+      },
+      {
+        "author_id": "6782882",
+        "conversation_id": "2120834850597011530",
+        "created_at": "2026-11-12T11:48:58.000Z",
+        "edit_history_tweet_ids": [
+          "2120846309448101931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "203355782",
+              "start": 0,
+              "username": "auuutoo"
+            }
+          ]
+        },
+        "id": "2120846309448101931",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1219,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120845379591971319",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@auuutoo 啊 这样"
+      },
+      {
+        "author_id": "2042983655501434880",
+        "conversation_id": "2120834850597011530",
+        "created_at": "2026-11-12T11:09:36.000Z",
+        "edit_history_tweet_ids": [
+          "2120836402405638326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "6782882",
+              "start": 0,
+              "username": "oran_ge"
+            }
+          ]
+        },
+        "id": "2120836402405638326",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1183,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120834850597011530",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@oran_ge 希望谷歌 AI 越来越厉害，这样就多了个选择"
+      },
+      {
+        "author_id": "203355782",
+        "conversation_id": "2120834850597011530",
+        "created_at": "2026-11-12T11:45:16.000Z",
+        "edit_history_tweet_ids": [
+          "2120845379591971319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "6782882",
+              "start": 0,
+              "username": "oran_ge"
+            },
+            {
+              "end": 17,
+              "id": "6782882",
+              "start": 9,
+              "username": "oran_ge"
+            }
+          ]
+        },
+        "id": "2120845379591971319",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1242,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120834850597011530",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@oran_ge @oran_ge $2 / $10 只是引入价\n\n官方写到 11 月 30 日截止\n之后百万 token 是输入 $4、输出 $20"
+      }
+    ],
+    "users": [
+      {
+        "id": "6782882",
+        "name": "Orange AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760074488073629696/ceSsuVCY_normal.png",
+        "username": "oran_ge",
+        "verified": false
+      },
+      {
+        "id": "133119421",
+        "name": "蓝星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109816870266404864/2S0BaBvG_normal.jpg",
+        "username": "songofhawk",
+        "verified": false
+      },
+      {
+        "id": "1874337039019356160",
+        "name": "孟德",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103160254385315847/eWDgXgGr_normal.jpg",
+        "username": "MD24871",
+        "verified": false
+      },
+      {
+        "id": "203355782",
+        "name": "auuutoo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1500730786273583104/72lofYLe_normal.jpg",
+        "username": "auuutoo",
+        "verified": false
+      },
+      {
+        "id": "282522910",
+        "name": "𝙋𝙖𝙨𝙨𝙡𝙪𝙤 𝘼𝙄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048333252612775936/831h3JzT_normal.jpg",
+        "username": "passluo",
+        "verified": false
+      },
+      {
+        "id": "2007774501782847488",
+        "name": "硅基废话",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051217312045559808/Hhj3MySY_normal.jpg",
+        "username": "DDJCXX",
+        "verified": false
+      },
+      {
+        "id": "2114993211936813056",
+        "name": "AI安装小天才",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115110829159067648/q4AO0ddX_normal.jpg",
+        "username": "AiMaster1689",
+        "verified": false
+      },
+      {
+        "id": "110912870",
+        "name": "Max",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1432847465003118598/r0t6p8Ci_normal.jpg",
+        "username": "maxleebeta",
+        "verified": false
+      },
+      {
+        "id": "387147664",
+        "name": "forecho📈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/790007015783346178/tvajHHFE_normal.jpg",
+        "username": "forecho",
+        "verified": false
+      },
+      {
+        "id": "891906970533351424",
+        "name": "Rachel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048327095420690432/GJHd1MhP_normal.jpg",
+        "username": "RachelRifx",
+        "verified": false
+      },
+      {
+        "id": "1131549414630318080",
+        "name": "X Pulse",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1488477283622940675/uG3zDNyV_normal.jpg",
+        "username": "wantlvm",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121017079692431835",
+    "next_token": "b26v89c19zqg8o3juzovcewdjg91asw39xlgmpikfx4zh",
+    "oldest_id": "2120841709164839067",
+    "result_count": 15
+  }
+}

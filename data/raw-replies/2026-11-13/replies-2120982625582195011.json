@@ -1,0 +1,748 @@
+{
+  "data": [
+    {
+      "author_id": "1945980295221805056",
+      "conversation_id": "2120982625582195011",
+      "created_at": "2026-11-13T00:46:10.000Z",
+      "edit_history_tweet_ids": [
+        "2121041897741500532"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1891523745929732096",
+            "start": 0,
+            "username": "thinkymachines"
+          }
+        ]
+      },
+      "id": "2121041897741500532",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120982625582195011",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@thinkymachines at ~4.5 bits a weight (4-bit plus scales), 594B is ~334 GB, and each token reads only its 17B active, ~9.6 GB. so a 512 GB mac studio at 819 GB/s holds it and tops out near 85 tok/s for one chat.",
+      "url": "https://x.com/flowersengg/status/2121041897741500532"
+    },
+    {
+      "author_id": "1162983736553758720",
+      "conversation_id": "2120982625582195011",
+      "created_at": "2026-11-13T00:41:36.000Z",
+      "edit_history_tweet_ids": [
+        "2121040748657434634"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1891523745929732096",
+            "start": 0,
+            "username": "thinkymachines"
+          }
+        ]
+      },
+      "id": "2121040748657434634",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120982625582195011",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@thinkymachines Congratulations!",
+      "url": "https://x.com/captainsolana/status/2121040748657434634"
+    },
+    {
+      "author_id": "1881173355921108992",
+      "conversation_id": "2120982625582195011",
+      "created_at": "2026-11-13T00:41:04.000Z",
+      "edit_history_tweet_ids": [
+        "2121040614070562986"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1891523745929732096",
+            "start": 0,
+            "username": "thinkymachines"
+          }
+        ]
+      },
+      "id": "2121040614070562986",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 21,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120982625582195011",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@thinkymachines Apache 2.0 made me click download. I have skipped open weights before when the license was murky, and the models I actually built on were the ones I could ship without a lawyer in the room. A 594B model I can truly make my own is a different kind of release.",
+      "url": "https://x.com/harden_369741/status/2121040614070562986"
+    },
+    {
+      "author_id": "2072760318262919168",
+      "conversation_id": "2120982625582195011",
+      "created_at": "2026-11-13T00:40:07.000Z",
+      "edit_history_tweet_ids": [
+        "2121040377515770320"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1891523745929732096",
+            "start": 0,
+            "username": "thinkymachines"
+          }
+        ]
+      },
+      "id": "2121040377515770320",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120982625582195011",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@thinkymachines this product owner girl is really someone who just need others to develop something",
+      "url": "https://x.com/lienoit1/status/2121040377515770320"
+    },
+    {
+      "author_id": "436331862",
+      "conversation_id": "2120982625582195011",
+      "created_at": "2026-11-13T00:24:19.000Z",
+      "edit_history_tweet_ids": [
+        "2121036400661245980"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1891523745929732096",
+            "start": 0,
+            "username": "thinkymachines"
+          }
+        ]
+      },
+      "id": "2121036400661245980",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 20,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120982625582195011",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@thinkymachines open source ai is the only ai i trust anymore honestly",
+      "url": "https://x.com/yoxoElsa/status/2121036400661245980"
+    },
+    {
+      "author_id": "1345579002329669632",
+      "conversation_id": "2120982625582195011",
+      "created_at": "2026-11-13T00:23:36.000Z",
+      "edit_history_tweet_ids": [
+        "2121036218573918716"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1891523745929732096",
+            "start": 0,
+            "username": "thinkymachines"
+          }
+        ]
+      },
+      "id": "2121036218573918716",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 124,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120982625582195011",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@thinkymachines The post never mentions their acceptable use policy. It says you agree to be bound by it if you download the weights, unless otherwise agreed in writing.",
+      "url": "https://x.com/dwkim601/status/2121036218573918716"
+    },
+    {
+      "author_id": "1794324042733752320",
+      "conversation_id": "2120982625582195011",
+      "created_at": "2026-11-13T00:12:47.000Z",
+      "edit_history_tweet_ids": [
+        "2121033496865182107"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1891523745929732096",
+            "start": 0,
+            "username": "thinkymachines"
+          }
+        ]
+      },
+      "id": "2121033496865182107",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120982625582195011",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@thinkymachines Apache 2.0 啊，那今晚就有人把它魔改成各种形状了",
+      "url": "https://x.com/quebanboy/status/2121033496865182107"
+    },
+    {
+      "author_id": "1342430555032317954",
+      "conversation_id": "2120982625582195011",
+      "created_at": "2026-11-13T00:10:46.000Z",
+      "edit_history_tweet_ids": [
+        "2121032989278892068"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1891523745929732096",
+            "start": 0,
+            "username": "thinkymachines"
+          }
+        ]
+      },
+      "id": "2121032989278892068",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 31,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120982625582195011",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@thinkymachines 💙",
+      "url": "https://x.com/SeungjuHan3/status/2121032989278892068"
+    },
+    {
+      "author_id": "1598443663893450764",
+      "conversation_id": "2120982625582195011",
+      "created_at": "2026-11-13T00:08:52.000Z",
+      "edit_history_tweet_ids": [
+        "2121032510566228368"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1891523745929732096",
+            "start": 0,
+            "username": "thinkymachines"
+          }
+        ]
+      },
+      "id": "2121032510566228368",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 41,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120982625582195011",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@thinkymachines Will you be posting bf16 as well? 🙏",
+      "url": "https://x.com/justinn_builds/status/2121032510566228368"
+    },
+    {
+      "author_id": "2117252327241662464",
+      "conversation_id": "2120982625582195011",
+      "created_at": "2026-11-12T23:43:52.000Z",
+      "edit_history_tweet_ids": [
+        "2121026219693199721"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1891523745929732096",
+            "start": 0,
+            "username": "thinkymachines"
+          }
+        ]
+      },
+      "id": "2121026219693199721",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120982625582195011",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@thinkymachines Apache 2.0 is the part that matters here: no usage cap to negotiate. Does the release say anything about training-data provenance, or just the weights?",
+      "url": "https://x.com/lukasyin88/status/2121026219693199721"
+    },
+    {
+      "author_id": "2108719648577581057",
+      "conversation_id": "2120982625582195011",
+      "created_at": "2026-11-12T23:40:43.000Z",
+      "edit_history_tweet_ids": [
+        "2121025427305283878"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1891523745929732096",
+            "start": 0,
+            "username": "thinkymachines"
+          }
+        ]
+      },
+      "id": "2121025427305283878",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120982625582195011",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@thinkymachines Apache 2.0 + day-one vLLM/SGLang/Unsloth support is what makes this release matter — a 17B-active / 594B-total MoE is now testable by anyone, not just API users. The real test now is whether the 'learns faster at fine-tuning' claim from the Nov 5 blog holds up on real downstream",
+      "url": "https://x.com/knightleijun/status/2121025427305283878"
+    },
+    {
+      "author_id": "1419310321",
+      "conversation_id": "2120982625582195011",
+      "created_at": "2026-11-12T23:28:24.000Z",
+      "edit_history_tweet_ids": [
+        "2121022329450844581"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1891523745929732096",
+            "start": 0,
+            "username": "thinkymachines"
+          }
+        ]
+      },
+      "id": "2121022329450844581",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 41,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120982625582195011",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@thinkymachines Great work! we need more open models!  I have an inkling that we'll continue to see excellent things going forward",
+      "url": "https://x.com/haydonryan/status/2121022329450844581"
+    },
+    {
+      "author_id": "2054017291348828160",
+      "conversation_id": "2120982625582195011",
+      "created_at": "2026-11-12T23:27:51.000Z",
+      "edit_history_tweet_ids": [
+        "2121022188354748581"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1433560725562159110",
+            "start": 0,
+            "username": "NotaliaMateo"
+          },
+          {
+            "end": 29,
+            "id": "1891523745929732096",
+            "start": 14,
+            "username": "thinkymachines"
+          }
+        ]
+      },
+      "id": "2121022188354748581",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121015044813336881",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@NotaliaMateo @thinkymachines 😂",
+      "url": "https://x.com/Notfooled35/status/2121022188354748581"
+    },
+    {
+      "author_id": "2940464042",
+      "conversation_id": "2120982625582195011",
+      "created_at": "2026-11-12T23:20:26.000Z",
+      "edit_history_tweet_ids": [
+        "2121020323076391341"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1891523745929732096",
+            "start": 0,
+            "username": "thinkymachines"
+          }
+        ]
+      },
+      "id": "2121020323076391341",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120982625582195011",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@thinkymachines apache 2.0 weights on huggingface already, downloading inkling 2 small tonight",
+      "url": "https://x.com/mohsinyazdanii/status/2121020323076391341"
+    },
+    {
+      "author_id": "2064921163520987136",
+      "conversation_id": "2120982625582195011",
+      "created_at": "2026-11-12T23:15:56.000Z",
+      "edit_history_tweet_ids": [
+        "2121019189926433109"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1891523745929732096",
+            "start": 0,
+            "username": "thinkymachines"
+          }
+        ]
+      },
+      "id": "2121019189926433109",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 284,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120982625582195011",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@thinkymachines 🔥",
+      "url": "https://x.com/ornith_/status/2121019189926433109"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1891523745929732096",
+        "conversation_id": "2120982625582195011",
+        "created_at": "2026-11-12T20:50:38.000Z",
+        "edit_history_tweet_ids": [
+          "2120982625582195011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Image-Text-to-Text model with 383B parameters. Download, explore files and run it on Hugging Face.",
+              "display_url": "huggingface.co/thinkingmachin…",
+              "end": 149,
+              "expanded_url": "https://huggingface.co/thinkingmachines/Inkling-2-Small",
+              "images": [
+                {
+                  "height": 648,
+                  "url": "https://pbs.twimg.com/news_img/2120982637225627648/2aszQwMu?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2120982637225627648/2aszQwMu?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 126,
+              "status": 200,
+              "title": "thinkingmachines/Inkling-2-Small · Hugging Face",
+              "unwound_url": "https://huggingface.co/thinkingmachines/Inkling-2-Small",
+              "url": "https://t.co/KS5zd97XSd"
+            }
+          ]
+        },
+        "id": "2120982625582195011",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 323,
+          "impression_count": 151773,
+          "like_count": 1232,
+          "quote_count": 91,
+          "reply_count": 67,
+          "retweet_count": 196
+        },
+        "text": "Inkling 2 Small’s weights are now available for download on HuggingFace under an Apache 2.0 license. \n\nMake Inkling your own!\nhttps://t.co/KS5zd97XSd"
+      },
+      {
+        "author_id": "1433560725562159110",
+        "conversation_id": "2120982625582195011",
+        "created_at": "2026-11-12T22:59:27.000Z",
+        "edit_history_tweet_ids": [
+          "2121015044813336881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1891523745929732096",
+              "start": 0,
+              "username": "thinkymachines"
+            }
+          ]
+        },
+        "id": "2121015044813336881",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120982625582195011",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@thinkymachines Excellent! Thanks!"
+      }
+    ],
+    "users": [
+      {
+        "id": "1945980295221805056",
+        "name": "flowers.engg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067629049481195520/xxkejAlq_normal.jpg",
+        "username": "flowersengg",
+        "verified": false
+      },
+      {
+        "id": "1162983736553758720",
+        "name": "Captain",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1552372017621782528/H1mlATm7_normal.jpg",
+        "username": "captainsolana",
+        "verified": false
+      },
+      {
+        "id": "1881173355921108992",
+        "name": "E1ev3n.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006052852150722563/bbJ08g2B_normal.jpg",
+        "username": "harden_369741",
+        "verified": false
+      },
+      {
+        "id": "2072760318262919168",
+        "name": "Liane Miller",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072761558053105664/S0cVL_M8_normal.jpg",
+        "username": "lienoit1",
+        "verified": false
+      },
+      {
+        "id": "436331862",
+        "name": "Elsa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115519191553839104/7WUnshM-_normal.jpg",
+        "username": "yoxoElsa",
+        "verified": false
+      },
+      {
+        "id": "1345579002329669632",
+        "name": "동욱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110788418984656896/eE8X4EPm_normal.jpg",
+        "username": "dwkim601",
+        "verified": false
+      },
+      {
+        "id": "1794324042733752320",
+        "name": "C J",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110791475982381056/hfSelzBr_normal.jpg",
+        "username": "quebanboy",
+        "verified": false
+      },
+      {
+        "id": "1342430555032317954",
+        "name": "Seungju Han",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090328761262841856/dYZVYFqd_normal.jpg",
+        "username": "SeungjuHan3",
+        "verified": false
+      },
+      {
+        "id": "1598443663893450764",
+        "name": "Justin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091196339786801152/D_DZS6JU_normal.jpg",
+        "username": "justinn_builds",
+        "verified": false
+      },
+      {
+        "id": "2117252327241662464",
+        "name": "vikey | AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117258520513146880/A72xBp4W_normal.jpg",
+        "username": "lukasyin88",
+        "verified": false
+      },
+      {
+        "id": "2108719648577581057",
+        "name": "lei-knight",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2112444955851673600/NPQO7WnM_normal.jpg",
+        "username": "knightleijun",
+        "verified": false
+      },
+      {
+        "id": "1419310321",
+        "name": "Haydon Ryan 🇦🇺🇺🇸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/3693393825/7a92944278f064ec59807408bc5f6f55_normal.jpeg",
+        "username": "haydonryan",
+        "verified": false
+      },
+      {
+        "id": "2054017291348828160",
+        "name": "Just me",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117984002409938944/MKWTJYp3_normal.jpg",
+        "username": "Notfooled35",
+        "verified": false
+      },
+      {
+        "id": "2940464042",
+        "name": "穆辛·亚兹达尼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706424536470548480/uMYRZQOA_normal.jpg",
+        "username": "mohsinyazdanii",
+        "verified": false
+      },
+      {
+        "id": "2064921163520987136",
+        "name": "Ornith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067467120544456704/qYuod4O1_normal.jpg",
+        "username": "ornith_",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121041897741500532",
+    "next_token": "b26v89c19zqg8o3juzovr3fm8o588oewfvcvzl4fbmqv1",
+    "oldest_id": "2121019189926433109",
+    "result_count": 15
+  }
+}

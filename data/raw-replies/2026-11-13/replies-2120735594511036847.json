@@ -1,0 +1,230 @@
+{
+  "data": [
+    {
+      "author_id": "1516953126510727168",
+      "conversation_id": "2120735594511036847",
+      "created_at": "2026-11-13T00:54:04.000Z",
+      "edit_history_tweet_ids": [
+        "2121043886244274674"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1830956655892164613",
+            "start": 0,
+            "username": "Hailuo_AI"
+          }
+        ]
+      },
+      "id": "2121043886244274674",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120735594511036847",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Hailuo_AI I gotta try it",
+      "url": "https://x.com/Julianc_AI/status/2121043886244274674"
+    },
+    {
+      "author_id": "2071469540035506176",
+      "conversation_id": "2120735594511036847",
+      "created_at": "2026-11-13T00:04:42.000Z",
+      "edit_history_tweet_ids": [
+        "2121031462854209999"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1830956655892164613",
+            "start": 0,
+            "username": "Hailuo_AI"
+          },
+          {
+            "end": 33,
+            "id": "3222766946",
+            "start": 19,
+            "username": "aripratama293"
+          }
+        ]
+      },
+      "id": "2121031462854209999",
+      "lang": "in",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120735594511036847",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Hailuo_AI Selamat @aripratama293",
+      "url": "https://x.com/UtomoMongso/status/2121031462854209999"
+    },
+    {
+      "author_id": "1848791865539108864",
+      "conversation_id": "2120735594511036847",
+      "created_at": "2026-11-12T10:37:00.000Z",
+      "edit_history_tweet_ids": [
+        "2120828198065668132"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1830956655892164613",
+            "start": 0,
+            "username": "Hailuo_AI"
+          }
+        ]
+      },
+      "id": "2120828198065668132",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120735594511036847",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Hailuo_AI These look like loading screens from a game I'd actually buy. Wonder if it keeps the same world consistent from a different angle.",
+      "url": "https://x.com/neurohelperai/status/2120828198065668132"
+    },
+    {
+      "author_id": "1953622291478462464",
+      "conversation_id": "2120735594511036847",
+      "created_at": "2026-11-12T04:54:32.000Z",
+      "edit_history_tweet_ids": [
+        "2120742013444468945"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1830956655892164613",
+            "start": 0,
+            "username": "Hailuo_AI"
+          }
+        ]
+      },
+      "id": "2120742013444468945",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 28,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120735594511036847",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Hailuo_AI Creators keep pushing boundaries",
+      "url": "https://x.com/SimplyAnnisa/status/2120742013444468945"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1830956655892164613",
+        "conversation_id": "2120735594511036847",
+        "created_at": "2026-11-12T04:29:01.000Z",
+        "edit_history_tweet_ids": [
+          "2120735594511036847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aripratama293/…",
+              "end": 216,
+              "expanded_url": "https://twitter.com/aripratama293/status/2120477374232019091",
+              "start": 193,
+              "url": "https://t.co/jk9G4C5iSF"
+            }
+          ]
+        },
+        "id": "2120735594511036847",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 14054,
+          "like_count": 155,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120477374232019091",
+            "type": "quoted"
+          }
+        ],
+        "text": "We honestly didn’t expect H3-Image to handle AAA game worlds and 3D environments this well.\nIt’s always—always—our incredible creator community uncovering hidden treasures and surprising us. 💜 https://t.co/jk9G4C5iSF"
+      }
+    ],
+    "users": [
+      {
+        "id": "1516953126510727168",
+        "name": "𝕁𝕦𝕝𝕚𝕒𝕟 ℂ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115257382024388608/UTn1HmJ5_normal.jpg",
+        "username": "Julianc_AI",
+        "verified": false
+      },
+      {
+        "id": "2071469540035506176",
+        "name": "Lek Tomo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110225668189585409/ow74J3Yw_normal.jpg",
+        "username": "UtomoMongso",
+        "verified": false
+      },
+      {
+        "id": "1848791865539108864",
+        "name": "Neurohelper AI | Every AI. One Subscription.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848791911479279617/xMq3E_0Z_normal.png",
+        "username": "neurohelperai",
+        "verified": false
+      },
+      {
+        "id": "1953622291478462464",
+        "name": "Anissa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958119025436966912/XamzfdS7_normal.jpg",
+        "username": "SimplyAnnisa",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121043886244274674",
+    "next_token": "b26v89c19zqg8o3juzovccrnflf44qh10jbqvf3m6vgql",
+    "oldest_id": "2120742013444468945",
+    "result_count": 4
+  }
+}

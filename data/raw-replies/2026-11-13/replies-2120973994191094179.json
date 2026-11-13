@@ -1,0 +1,729 @@
+{
+  "data": [
+    {
+      "author_id": "1929795032816529408",
+      "conversation_id": "2120973994191094179",
+      "created_at": "2026-11-13T00:54:07.000Z",
+      "edit_history_tweet_ids": [
+        "2121043901821980816"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1943306828697550848",
+            "start": 0,
+            "username": "claudeai"
+          }
+        ]
+      },
+      "id": "2121043901821980816",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120973994191094179",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@claudeai anthropic really woke up and chose to delete an entire category of yc startups",
+      "url": "https://x.com/ziyadwael11/status/2121043901821980816"
+    },
+    {
+      "author_id": "2092968149389877248",
+      "conversation_id": "2120973994191094179",
+      "created_at": "2026-11-13T00:52:29.000Z",
+      "edit_history_tweet_ids": [
+        "2121043489504833871"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1943306828697550848",
+            "start": 0,
+            "username": "claudeai"
+          }
+        ]
+      },
+      "id": "2121043489504833871",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120973994191094179",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@claudeai Right when Teams Outlook crashed 🫡",
+      "url": "https://x.com/SanketKoli24/status/2121043489504833871"
+    },
+    {
+      "author_id": "2270798053",
+      "conversation_id": "2120973994191094179",
+      "created_at": "2026-11-13T00:50:45.000Z",
+      "edit_history_tweet_ids": [
+        "2121043054652240006"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1943306828697550848",
+            "start": 0,
+            "username": "claudeai"
+          }
+        ]
+      },
+      "id": "2121043054652240006",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120973994191094179",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@claudeai Turning live discussions into usable work in real time could make meetings far more productive.",
+      "url": "https://x.com/TruvalNetwork/status/2121043054652240006"
+    },
+    {
+      "author_id": "2027064700781973505",
+      "conversation_id": "2120973994191094179",
+      "created_at": "2026-11-13T00:49:10.000Z",
+      "edit_history_tweet_ids": [
+        "2121042655505252580"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1943306828697550848",
+            "start": 0,
+            "username": "claudeai"
+          }
+        ]
+      },
+      "id": "2121042655505252580",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120973994191094179",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@claudeai Cool",
+      "url": "https://x.com/MythTTw/status/2121042655505252580"
+    },
+    {
+      "author_id": "985571468355428353",
+      "conversation_id": "2120973994191094179",
+      "created_at": "2026-11-13T00:48:49.000Z",
+      "edit_history_tweet_ids": [
+        "2121042564417729017"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1943306828697550848",
+            "start": 0,
+            "username": "claudeai"
+          }
+        ]
+      },
+      "id": "2121042564417729017",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120973994191094179",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@claudeai This looks useful for cutting down on the usual post meeting scramble to turn the conversation into something concrete. Curious how well it keeps up when people start talking over each other or change direction mid call.",
+      "url": "https://x.com/nisalrenuja/status/2121042564417729017"
+    },
+    {
+      "author_id": "2118348312252424192",
+      "conversation_id": "2120973994191094179",
+      "created_at": "2026-11-13T00:48:22.000Z",
+      "edit_history_tweet_ids": [
+        "2121042454778614128"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1943306828697550848",
+            "start": 0,
+            "username": "claudeai"
+          }
+        ]
+      },
+      "id": "2121042454778614128",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120973994191094179",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@claudeai the actual test is whether it attributes 'we should probably rewrite this' to the person who said it, and then quietly drops it from the doc by morning",
+      "url": "https://x.com/NeilPointed/status/2121042454778614128"
+    },
+    {
+      "author_id": "1561023438797799424",
+      "conversation_id": "2120973994191094179",
+      "created_at": "2026-11-13T00:47:42.000Z",
+      "edit_history_tweet_ids": [
+        "2121042284670292269"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1943306828697550848",
+            "start": 0,
+            "username": "claudeai"
+          }
+        ]
+      },
+      "id": "2121042284670292269",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120973994191094179",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@claudeai 快跑， 抢饭碗的来了。",
+      "url": "https://x.com/r__o_n__/status/2121042284670292269"
+    },
+    {
+      "author_id": "1446191953398407168",
+      "conversation_id": "2120973994191094179",
+      "created_at": "2026-11-13T00:47:35.000Z",
+      "edit_history_tweet_ids": [
+        "2121042256626888926"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1943306828697550848",
+            "start": 0,
+            "username": "claudeai"
+          }
+        ]
+      },
+      "id": "2121042256626888926",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 22,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120973994191094179",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@claudeai 😂 If you are a company, Anthropic doesn't need to steal your code. They just have to hire some of your product &amp; engineers. For tech companies out there still laying off engineers for profit, making this talent acquisition challenge so easy, be careful or you are next 😂",
+      "url": "https://x.com/Robert_Topkifer/status/2121042256626888926"
+    },
+    {
+      "author_id": "1267237870399639559",
+      "conversation_id": "2120973994191094179",
+      "created_at": "2026-11-13T00:47:13.000Z",
+      "edit_history_tweet_ids": [
+        "2121042163492630982"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1943306828697550848",
+            "start": 0,
+            "username": "claudeai"
+          }
+        ]
+      },
+      "id": "2121042163492630982",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120973994191094179",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@claudeai So now they can still ideas at brainstorming stage and replace businesses even faster",
+      "url": "https://x.com/cfabetterworld/status/2121042163492630982"
+    },
+    {
+      "author_id": "2104597698578153472",
+      "conversation_id": "2120973994191094179",
+      "created_at": "2026-11-13T00:45:09.000Z",
+      "edit_history_tweet_ids": [
+        "2121041644934009016"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1943306828697550848",
+            "start": 0,
+            "username": "claudeai"
+          }
+        ]
+      },
+      "id": "2121041644934009016",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120973994191094179",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@claudeai Having an AI join as a visible participant instead of a silent recorder feels like the right direction — everyone can see what it builds and correct it live. The real question is how it handles disagreements in the room: does it pick a side, or just capture both?",
+      "url": "https://x.com/JulianLiu0414/status/2121041644934009016"
+    },
+    {
+      "author_id": "2119743331521683456",
+      "conversation_id": "2120973994191094179",
+      "created_at": "2026-11-13T00:44:11.000Z",
+      "edit_history_tweet_ids": [
+        "2121041399181382065"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1943306828697550848",
+            "start": 0,
+            "username": "claudeai"
+          }
+        ]
+      },
+      "id": "2121041399181382065",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120973994191094179",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@claudeai I would love to test it!!!!",
+      "url": "https://x.com/RerouteMJ/status/2121041399181382065"
+    },
+    {
+      "author_id": "2223301550",
+      "conversation_id": "2120973994191094179",
+      "created_at": "2026-11-13T00:42:25.000Z",
+      "edit_history_tweet_ids": [
+        "2121040957504442867"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1943306828697550848",
+            "start": 0,
+            "username": "claudeai"
+          }
+        ]
+      },
+      "id": "2121040957504442867",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120973994191094179",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@claudeai yeah i think claude will just stay and record my convos face to face too.. im having talks with people i then have to put into words again... again, im the bottleneck, we are...",
+      "url": "https://x.com/psyccotoxicc/status/2121040957504442867"
+    },
+    {
+      "author_id": "1446191953398407168",
+      "conversation_id": "2120973994191094179",
+      "created_at": "2026-11-13T00:41:58.000Z",
+      "edit_history_tweet_ids": [
+        "2121040843192873408"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1943306828697550848",
+            "start": 0,
+            "username": "claudeai"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/Robert_Topkife…",
+            "end": 70,
+            "expanded_url": "https://twitter.com/Robert_Topkifer/status/2061501106304307662",
+            "start": 47,
+            "url": "https://t.co/BzGoyLaDA9"
+          }
+        ]
+      },
+      "id": "2121040843192873408",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2061501106304307662",
+          "type": "quoted"
+        },
+        {
+          "id": "2120973994191094179",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@claudeai Building at the speed of thoughts 💯. https://t.co/BzGoyLaDA9",
+      "url": "https://x.com/Robert_Topkifer/status/2121040843192873408"
+    },
+    {
+      "author_id": "1548390333368528899",
+      "conversation_id": "2120973994191094179",
+      "created_at": "2026-11-13T00:40:31.000Z",
+      "edit_history_tweet_ids": [
+        "2121040477885550972"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1943306828697550848",
+            "start": 0,
+            "username": "claudeai"
+          }
+        ]
+      },
+      "id": "2121040477885550972",
+      "lang": "pt",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120973994191094179",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@claudeai Pisa mais que ta pouco",
+      "url": "https://x.com/aleticiiia/status/2121040477885550972"
+    },
+    {
+      "author_id": "57616647",
+      "conversation_id": "2120973994191094179",
+      "created_at": "2026-11-13T00:38:40.000Z",
+      "edit_history_tweet_ids": [
+        "2121040010464108780"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1943306828697550848",
+            "start": 0,
+            "username": "claudeai"
+          }
+        ]
+      },
+      "id": "2121040010464108780",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120973994191094179",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@claudeai diarization?",
+      "url": "https://x.com/andryangouw/status/2121040010464108780"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1943306828697550848",
+        "conversation_id": "2120973994191094179",
+        "created_at": "2026-11-12T20:16:20.000Z",
+        "edit_history_tweet_ids": [
+          "2120973994191094179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qlZYTcXBsC",
+              "end": 239,
+              "expanded_url": "https://x.com/claudeai/status/2120973994191094179/video/1",
+              "media_key": "13_2120970641876586497",
+              "start": 216,
+              "url": "https://t.co/qlZYTcXBsC"
+            }
+          ]
+        },
+        "id": "2120973994191094179",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 9966,
+          "impression_count": 2466674,
+          "like_count": 40968,
+          "quote_count": 2595,
+          "reply_count": 1140,
+          "retweet_count": 2335
+        },
+        "text": "Introducing Claude Meetings: add Claude to your team’s video call and it builds docs, whiteboards, and other artifacts with you while you’re still talking.\n\nStarting to roll out in beta on Team and Enterprise plans. https://t.co/qlZYTcXBsC"
+      },
+      {
+        "author_id": "1446191953398407168",
+        "conversation_id": "2061501106304307662",
+        "created_at": "2026-06-01T17:32:19.000Z",
+        "edit_history_tweet_ids": [
+          "2061501106304307662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b45TKrjMxY",
+              "end": 303,
+              "expanded_url": "https://x.com/Robert_Topkifer/status/2061501106304307662/video/1",
+              "media_key": "7_2061501035332452352",
+              "start": 280,
+              "url": "https://t.co/b45TKrjMxY"
+            }
+          ]
+        },
+        "id": "2061501106304307662",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "text": "Big hero 6 is the only reference I could think of to illustrate the current state of Al. And it is also the only one that teaches you the actual danger of AI... \"The hands\"  and the man behind the mask. \" If you can think it, you can build it. The only limit is your imagination\" https://t.co/b45TKrjMxY"
+      }
+    ],
+    "users": [
+      {
+        "id": "1929795032816529408",
+        "name": "Ziyad Wael",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120876913774206976/6mjzwePi_normal.jpg",
+        "username": "ziyadwael11",
+        "verified": false
+      },
+      {
+        "id": "2092968149389877248",
+        "name": "Sanket Koli",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109980213270507520/VzKkSBVu_normal.jpg",
+        "username": "SanketKoli24",
+        "verified": false
+      },
+      {
+        "id": "2270798053",
+        "name": "Truval",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116291917705297920/PK6HfPoT_normal.jpg",
+        "username": "TruvalNetwork",
+        "verified": false
+      },
+      {
+        "id": "2027064700781973505",
+        "name": "MythTTw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027065073689038848/RiHsH68R_normal.jpg",
+        "username": "MythTTw",
+        "verified": false
+      },
+      {
+        "id": "985571468355428353",
+        "name": "Nisal Renuja",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101035997165387776/f1vEPkTW_normal.jpg",
+        "username": "nisalrenuja",
+        "verified": false
+      },
+      {
+        "id": "2118348312252424192",
+        "name": "Neil Pointer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118353741997023232/WGSKZ6rG_normal.jpg",
+        "username": "NeilPointed",
+        "verified": false
+      },
+      {
+        "id": "1561023438797799424",
+        "name": "远卓达科技",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119690774233440256/SJR1mAzs_normal.jpg",
+        "username": "r__o_n__",
+        "verified": false
+      },
+      {
+        "id": "1446191953398407168",
+        "name": "Robert.tk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055375375710953472/zbYj_R2C_normal.jpg",
+        "username": "Robert_Topkifer",
+        "verified": false
+      },
+      {
+        "id": "1267237870399639559",
+        "name": "Hunt Ethan",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "username": "cfabetterworld",
+        "verified": false
+      },
+      {
+        "id": "2104597698578153472",
+        "name": "Julian Liu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107528844026748928/0XgP988M_normal.jpg",
+        "username": "JulianLiu0414",
+        "verified": false
+      },
+      {
+        "id": "2119743331521683456",
+        "name": "Martha Jimenez",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119752390727618560/S7yUgFeM_normal.jpg",
+        "username": "RerouteMJ",
+        "verified": false
+      },
+      {
+        "id": "2223301550",
+        "name": "Ciprian Titire",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106106988274880512/2IPmlmPn_normal.jpg",
+        "username": "psyccotoxicc",
+        "verified": false
+      },
+      {
+        "id": "1548390333368528899",
+        "name": "amanda",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006847391173902336/X_2HWLLs_normal.jpg",
+        "username": "aleticiiia",
+        "verified": false
+      },
+      {
+        "id": "57616647",
+        "name": "Andryan Gouw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1126872026/41477_774064438_3907_n_normal.jpg",
+        "username": "andryangouw",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121043901821980816",
+    "next_token": "b26v89c19zqg8o3juzovr3gi8ag406siv7jecmjqwqcfx",
+    "oldest_id": "2121040010464108780",
+    "result_count": 15
+  }
+}

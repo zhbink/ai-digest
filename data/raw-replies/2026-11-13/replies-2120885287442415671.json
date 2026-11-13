@@ -1,0 +1,519 @@
+{
+  "data": [
+    {
+      "author_id": "136625623",
+      "created_at": "2026-11-13T00:50:06.000Z",
+      "edit_history_tweet_ids": [
+        "2121042888792621513"
+      ],
+      "id": "2121042888792621513",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120885287442415671",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 谢谢分享",
+      "url": "https://x.com/firmit_feng/status/2121042888792621513"
+    },
+    {
+      "author_id": "1051336946075615233",
+      "created_at": "2026-11-13T00:32:37.000Z",
+      "edit_history_tweet_ids": [
+        "2121038491039797318"
+      ],
+      "id": "2121038491039797318",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120885287442415671",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 链路都没跑通就上集群，出问题连第几层都定位不了",
+      "url": "https://x.com/linyun1128/status/2121038491039797318"
+    },
+    {
+      "author_id": "1621297771205767169",
+      "created_at": "2026-11-13T00:30:24.000Z",
+      "edit_history_tweet_ids": [
+        "2121037930911477885"
+      ],
+      "id": "2121037930911477885",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120885287442415671",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 精辟👍",
+      "url": "https://x.com/KlauseSchip/status/2121037930911477885"
+    },
+    {
+      "author_id": "1519451304942530560",
+      "created_at": "2026-11-13T00:25:28.000Z",
+      "edit_history_tweet_ids": [
+        "2121036691716940077"
+      ],
+      "id": "2121036691716940077",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 29,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120885287442415671",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 招聘 Agent 超时重试把面试邀请发了三遍这个例子很准，幂等和审批没做好，模型再聪明也会把事办砸。",
+      "url": "https://x.com/DAIaf889/status/2121036691716940077"
+    },
+    {
+      "author_id": "1896381198500339712",
+      "created_at": "2026-11-13T00:23:32.000Z",
+      "edit_history_tweet_ids": [
+        "2121036204552630272"
+      ],
+      "id": "2121036204552630272",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120885287442415671",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 「一个普通员工能不能让 Agent 查看所有人的简历」，关键往往不在这把简历工具开没开，而在这一次调用带了什么范围。人可能只被允许看自己组的候选人，模型却把查询范围写成全部。如果权限只检查「能不能用这把工具」，这次越权读取会被放行。鉴权要对着实际传入的部门或团队条件做，不能只看工具名。",
+      "url": "https://x.com/trashConsumer/status/2121036204552630272"
+    },
+    {
+      "author_id": "19016431",
+      "created_at": "2026-11-13T00:05:56.000Z",
+      "edit_history_tweet_ids": [
+        "2121031773895188858"
+      ],
+      "id": "2121031773895188858",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 47,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120885287442415671",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 我觉得大部分时候，有没有可能很多业务模式根据二八定律，80% 的情况下可以用代码写死，对吧？剩下 20% 真正需要模型去判断的时候，再用模型就好了。\n\n明明可以用代码写的事情，非要让模型去调工具、各种调优，这不是脱裤子放屁吗？",
+      "url": "https://x.com/midshipman/status/2121031773895188858"
+    },
+    {
+      "author_id": "2043862808882708480",
+      "created_at": "2026-11-12T23:44:49.000Z",
+      "edit_history_tweet_ids": [
+        "2121026459213119851"
+      ],
+      "id": "2121026459213119851",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 37,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120885287442415671",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 先让一个 Agent 稳定完成任务，再谈集群协作，不然只是把一个问题复制了很多份。",
+      "url": "https://x.com/staroaeg/status/2121026459213119851"
+    },
+    {
+      "author_id": "1726847657443016704",
+      "created_at": "2026-11-12T23:11:29.000Z",
+      "edit_history_tweet_ids": [
+        "2121018071163064793"
+      ],
+      "id": "2121018071163064793",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 83,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120885287442415671",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 跑过一阵多智能体之后，断点基本不在模型选择上。最常见两处：工具返回的格式漂移，和子 Agent 交回来的状态没有版本号。日志能查到调了哪个工具，查不到那次调用看到的是第几版上下文，出了事只能重跑，复盘不了。我们后来先把状态落盘，再谈编排。",
+      "url": "https://x.com/skyerK12/status/2121018071163064793"
+    },
+    {
+      "author_id": "2011430731466387456",
+      "created_at": "2026-11-12T22:43:26.000Z",
+      "edit_history_tweet_ids": [
+        "2121011013948448926"
+      ],
+      "id": "2121011013948448926",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 23,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120885287442415671",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 最近看到你的两个帖子帮助很多。",
+      "url": "https://x.com/Valstry/status/2121011013948448926"
+    },
+    {
+      "author_id": "1476802897191260166",
+      "created_at": "2026-11-12T21:49:34.000Z",
+      "edit_history_tweet_ids": [
+        "2120997455991050324"
+      ],
+      "id": "2120997455991050324",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 30,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120885287442415671",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 能认真看完你这个文章的人都不多",
+      "url": "https://x.com/FrontPuppy/status/2120997455991050324"
+    },
+    {
+      "author_id": "1725163000313638912",
+      "created_at": "2026-11-12T21:41:07.000Z",
+      "edit_history_tweet_ids": [
+        "2120995331328692413"
+      ],
+      "id": "2120995331328692413",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 28,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120885287442415671",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 这个是专业信息呀",
+      "url": "https://x.com/AioiA2000/status/2120995331328692413"
+    },
+    {
+      "author_id": "1825556649723240448",
+      "created_at": "2026-11-12T20:40:27.000Z",
+      "edit_history_tweet_ids": [
+        "2120980060824047865"
+      ],
+      "id": "2120980060824047865",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 55,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120885287442415671",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 付款 API 这句戳到我了，能调不代表该调，权限这关迟早得补上",
+      "url": "https://x.com/JMkernt/status/2120980060824047865"
+    },
+    {
+      "author_id": "1719410911574937603",
+      "created_at": "2026-11-12T20:34:34.000Z",
+      "edit_history_tweet_ids": [
+        "2120978583669842125"
+      ],
+      "id": "2120978583669842125",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 119,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120885287442415671",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 这文风ChatGPT味也太浓了，不是，而是，才是",
+      "url": "https://x.com/ericjingyang/status/2120978583669842125"
+    },
+    {
+      "author_id": "2033871880705478659",
+      "created_at": "2026-11-12T20:28:59.000Z",
+      "edit_history_tweet_ids": [
+        "2120977175684026414"
+      ],
+      "id": "2120977175684026414",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 87,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120885287442415671",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 这条链路里我最想先补的是幂等，重复下单比越权更难查",
+      "url": "https://x.com/senge0301/status/2120977175684026414"
+    },
+    {
+      "author_id": "2098238788585783296",
+      "created_at": "2026-11-12T19:26:04.000Z",
+      "edit_history_tweet_ids": [
+        "2120961342706516100"
+      ],
+      "id": "2120961342706516100",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 112,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120885287442415671",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 最认同“能力边界和权限边界不是一回事”。模型能调付款 API 是能力，谁允许它调、调之前要谁点头是权限，后者才决定 agent 能不能进真实业务。很多 demo 偏偏跳过 Approval Queue 和 Audit Log，因为不好看，可一出事最先要查的就是这两样。",
+      "url": "https://x.com/jamesbuilds2008/status/2120961342706516100"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1878345967780646912",
+        "created_at": "2026-11-12T14:23:51.000Z",
+        "edit_history_tweet_ids": [
+          "2120885287442415671"
+        ],
+        "id": "2120885287442415671",
+        "public_metrics": {
+          "bookmark_count": 486,
+          "impression_count": 24578,
+          "like_count": 464,
+          "quote_count": 3,
+          "reply_count": 30,
+          "retweet_count": 82
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120374206932127890",
+            "type": "quoted"
+          }
+        ],
+        "text": "现在 AI 圈有一个特别荒诞的现象。\n\n很多人连一个最基本的 Agent 执行链路都没有真正理解，就已经开始天天研究多智能体协作、Agent 集群、数字员工，甚至宣称未来一个人就能运营一家公司。\n\n接个大模型 API，装几个 MCP，写几段 Skill，再用 LangGraph https://t.co/skPoAligZK"
+      }
+    ],
+    "users": [
+      {
+        "id": "136625623",
+        "name": "firmit",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/888155882/____normal.jpg",
+        "username": "firmit_feng",
+        "verified": false
+      },
+      {
+        "id": "1051336946075615233",
+        "name": "linyun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088519498165075968/ddNXij4W_normal.jpg",
+        "username": "linyun1128",
+        "verified": false
+      },
+      {
+        "id": "1621297771205767169",
+        "name": "Klaus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1621298073493475328/tkMzwRHh_normal.jpg",
+        "username": "KlauseSchip",
+        "verified": false
+      },
+      {
+        "id": "1519451304942530560",
+        "name": "韩先师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2112127436628602880/hlTmynZo_normal.jpg",
+        "username": "DAIaf889",
+        "verified": false
+      },
+      {
+        "id": "1896381198500339712",
+        "name": "Yupeng Lu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104940112811614208/ZaHBZOAP_normal.jpg",
+        "username": "trashConsumer",
+        "verified": false
+      },
+      {
+        "id": "19016431",
+        "name": "jeff",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1498391267096551425/LAoWBOuY_normal.jpg",
+        "username": "midshipman",
+        "verified": false
+      },
+      {
+        "id": "2043862808882708480",
+        "name": "生晓bai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108574090953195520/AL2afFAh_normal.jpg",
+        "username": "staroaeg",
+        "verified": false
+      },
+      {
+        "id": "1726847657443016704",
+        "name": "Mr.K",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013253481948188672/xq5m5qJm_normal.jpg",
+        "username": "skyerK12",
+        "verified": false
+      },
+      {
+        "id": "2011430731466387456",
+        "name": "Valstry",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021097585797365765/XH-uBz6J_normal.jpg",
+        "username": "Valstry",
+        "verified": false
+      },
+      {
+        "id": "1476802897191260166",
+        "name": "图南又",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476802987586908164/Ir7Xb29C_normal.png",
+        "username": "FrontPuppy",
+        "verified": false
+      },
+      {
+        "id": "1725163000313638912",
+        "name": "洁白的洁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2112553115685916672/mJM7PXsw_normal.jpg",
+        "username": "AioiA2000",
+        "verified": false
+      },
+      {
+        "id": "1825556649723240448",
+        "name": "jimerrors",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008436069428043776/V-w99gLN_normal.jpg",
+        "username": "JMkernt",
+        "verified": false
+      },
+      {
+        "id": "1719410911574937603",
+        "name": "Eric Yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102159892991840256/0SY6aswa_normal.jpg",
+        "username": "ericjingyang",
+        "verified": false
+      },
+      {
+        "id": "2033871880705478659",
+        "name": "Senge",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034586064149721088/E-qSAwe2_normal.jpg",
+        "username": "senge0301",
+        "verified": false
+      },
+      {
+        "id": "2098238788585783296",
+        "name": "James",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098239627064958976/t7NT3JWp_normal.jpg",
+        "username": "jamesbuilds2008",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121042888792621513",
+    "next_token": "b26v89c19zqg8o3juzovch1p9m40gl4flrm7qgmg5da4d",
+    "oldest_id": "2120961342706516100",
+    "result_count": 15
+  }
+}

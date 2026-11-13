@@ -1,0 +1,744 @@
+{
+  "data": [
+    {
+      "author_id": "1754981009353822208",
+      "conversation_id": "2120883301833400668",
+      "created_at": "2026-11-13T00:15:45.000Z",
+      "edit_history_tweet_ids": [
+        "2121034246290628928"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1001114465692200960",
+            "start": 0,
+            "username": "runwayml"
+          }
+        ]
+      },
+      "id": "2121034246290628928",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 200,
+        "like_count": 31,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120883301833400668",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml nobody cares",
+      "url": "https://x.com/IsThisA3DModel/status/2121034246290628928"
+    },
+    {
+      "author_id": "1954757752909377536",
+      "conversation_id": "2120883301833400668",
+      "created_at": "2026-11-13T00:08:58.000Z",
+      "edit_history_tweet_ids": [
+        "2121032536189292554"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1001114465692200960",
+            "start": 0,
+            "username": "runwayml"
+          }
+        ]
+      },
+      "id": "2121032536189292554",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120883301833400668",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml That coin jumping from the shot into 3D is slick",
+      "url": "https://x.com/mikesaiforge/status/2121032536189292554"
+    },
+    {
+      "author_id": "1722179481144848384",
+      "conversation_id": "2120883301833400668",
+      "created_at": "2026-11-12T23:57:29.000Z",
+      "edit_history_tweet_ids": [
+        "2121029647316250869"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1001114465692200960",
+            "start": 0,
+            "username": "runwayml"
+          }
+        ]
+      },
+      "id": "2121029647316250869",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 62,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120883301833400668",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml The creative stack just gained another dimension!",
+      "url": "https://x.com/tripoai/status/2121029647316250869"
+    },
+    {
+      "author_id": "2077614505832714240",
+      "conversation_id": "2120883301833400668",
+      "created_at": "2026-11-12T23:52:34.000Z",
+      "edit_history_tweet_ids": [
+        "2121028410554405004"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1001114465692200960",
+            "start": 0,
+            "username": "runwayml"
+          }
+        ]
+      },
+      "id": "2121028410554405004",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120883301833400668",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml Let's make some magic!!",
+      "url": "https://x.com/TribooVast/status/2121028410554405004"
+    },
+    {
+      "author_id": "2017445675009773570",
+      "conversation_id": "2120883301833400668",
+      "created_at": "2026-11-12T21:00:36.000Z",
+      "edit_history_tweet_ids": [
+        "2120985132249350358"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1001114465692200960",
+            "start": 0,
+            "username": "runwayml"
+          }
+        ]
+      },
+      "id": "2120985132249350358",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120883304555831368",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml Please check DM 📥",
+      "url": "https://x.com/ZoraAi_X/status/2120985132249350358"
+    },
+    {
+      "author_id": "37666468",
+      "conversation_id": "2120883301833400668",
+      "created_at": "2026-11-12T20:48:56.000Z",
+      "edit_history_tweet_ids": [
+        "2120982195808751979"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1001114465692200960",
+            "start": 0,
+            "username": "runwayml"
+          }
+        ]
+      },
+      "id": "2120982195808751979",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 36,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120883301833400668",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml This is great!",
+      "url": "https://x.com/RichKleinAI/status/2120982195808751979"
+    },
+    {
+      "author_id": "154884299",
+      "conversation_id": "2120883301833400668",
+      "created_at": "2026-11-12T19:26:37.000Z",
+      "edit_history_tweet_ids": [
+        "2120961481672135145"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1001114465692200960",
+            "start": 0,
+            "username": "runwayml"
+          }
+        ]
+      },
+      "id": "2120961481672135145",
+      "lang": "und",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 30,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120883301833400668",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml Wow",
+      "url": "https://x.com/fabinrasheed/status/2120961481672135145"
+    },
+    {
+      "author_id": "1896668083101773824",
+      "conversation_id": "2120883301833400668",
+      "created_at": "2026-11-12T18:36:38.000Z",
+      "edit_history_tweet_ids": [
+        "2120948902090178985"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1001114465692200960",
+            "start": 0,
+            "username": "runwayml"
+          }
+        ]
+      },
+      "id": "2120948902090178985",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120883301833400668",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml Picking any angle of the generated 3D model as a reference for the next image is a sneaky good idea. Does the export keep clean topology, or is it more of a blob-to-mesh situation?",
+      "url": "https://x.com/AdamTestsAI/status/2120948902090178985"
+    },
+    {
+      "author_id": "1460242146896797706",
+      "conversation_id": "2120883301833400668",
+      "created_at": "2026-11-12T18:06:14.000Z",
+      "edit_history_tweet_ids": [
+        "2120941253647118820"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1001114465692200960",
+            "start": 0,
+            "username": "runwayml"
+          }
+        ]
+      },
+      "id": "2120941253647118820",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 39,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120883301833400668",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml This is good",
+      "url": "https://x.com/awatanation/status/2120941253647118820"
+    },
+    {
+      "author_id": "1760175449387511808",
+      "conversation_id": "2120883301833400668",
+      "created_at": "2026-11-12T17:06:33.000Z",
+      "edit_history_tweet_ids": [
+        "2120926233341182289"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1001114465692200960",
+            "start": 0,
+            "username": "runwayml"
+          }
+        ]
+      },
+      "id": "2120926233341182289",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120883301833400668",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml Can the selected camera pose and focal length travel with the exported model? Keeping those alongside the mesh would make it much easier to reproduce a shot in Blender, then compare whether an image or video generation preserves the intended geometry.",
+      "url": "https://x.com/cooolernemesis/status/2120926233341182289"
+    },
+    {
+      "author_id": "2043685291265851392",
+      "conversation_id": "2120883301833400668",
+      "created_at": "2026-11-12T17:01:02.000Z",
+      "edit_history_tweet_ids": [
+        "2120924846360317954"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1001114465692200960",
+            "start": 0,
+            "username": "runwayml"
+          }
+        ]
+      },
+      "id": "2120924846360317954",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 38,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120883301833400668",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml Being able to choose a camera angle from a 3D model could make visual continuity easier to explore. What export formats are supported, and how much control do creators have over the mesh and materials afterward?",
+      "url": "https://x.com/Dave_Joe_9377/status/2120924846360317954"
+    },
+    {
+      "author_id": "2116999620014280704",
+      "conversation_id": "2120883301833400668",
+      "created_at": "2026-11-12T16:53:16.000Z",
+      "edit_history_tweet_ids": [
+        "2120922888505262364"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1001114465692200960",
+            "start": 0,
+            "username": "runwayml"
+          }
+        ]
+      },
+      "id": "2120922888505262364",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120883301833400668",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml using a 3D model as the angle reference is huge for anime character consistency. finally no more redrawing the same face from every side",
+      "url": "https://x.com/baiyumod1/status/2120922888505262364"
+    },
+    {
+      "author_id": "858758334693945346",
+      "conversation_id": "2120883301833400668",
+      "created_at": "2026-11-12T16:44:17.000Z",
+      "edit_history_tweet_ids": [
+        "2120920630388236788"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1001114465692200960",
+            "start": 0,
+            "username": "runwayml"
+          }
+        ]
+      },
+      "id": "2120920630388236788",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120883301833400668",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml picking any angle of a 3D model and using it as a reference for the next shot is a neat touch. our inner tinkerers are already thinking of things to try 🧊",
+      "url": "https://x.com/sousa_brothers/status/2120920630388236788"
+    },
+    {
+      "author_id": "2109649135741587457",
+      "conversation_id": "2120883301833400668",
+      "created_at": "2026-11-12T16:21:37.000Z",
+      "edit_history_tweet_ids": [
+        "2120914925594067266"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1001114465692200960",
+            "start": 0,
+            "username": "runwayml"
+          }
+        ]
+      },
+      "id": "2120914925594067266",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120883301833400668",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml Tripo H3.1 under the hood makes this a wrapper question — the win is the angle lock and the export, not the model itself. The test: does the exported model actually work in Blender and Unity, or does it only look good inside Runway's own viewer?",
+      "url": "https://x.com/marginmints/status/2120914925594067266"
+    },
+    {
+      "author_id": "1370703428993875972",
+      "conversation_id": "2120883301833400668",
+      "created_at": "2026-11-12T15:54:34.000Z",
+      "edit_history_tweet_ids": [
+        "2120908118112751823"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1001114465692200960",
+            "start": 0,
+            "username": "runwayml"
+          }
+        ]
+      },
+      "id": "2120908118112751823",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120883301833400668",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@runwayml havent tried it, but a 3d reference could finally keep the same object looking the same from shot to shot",
+      "url": "https://x.com/one_dyor/status/2120908118112751823"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1001114465692200960",
+        "conversation_id": "2120883301833400668",
+        "created_at": "2026-11-12T14:15:57.000Z",
+        "edit_history_tweet_ids": [
+          "2120883301833400668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EfSN9UHvxl",
+              "end": 279,
+              "expanded_url": "https://x.com/runwayml/status/2120883301833400668/video/1",
+              "media_key": "13_2120882585928704000",
+              "start": 256,
+              "url": "https://t.co/EfSN9UHvxl"
+            }
+          ]
+        },
+        "id": "2120883301833400668",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 12918,
+          "like_count": 126,
+          "quote_count": 19,
+          "reply_count": 30,
+          "retweet_count": 19
+        },
+        "text": "3D is now supported in Runway.\n\nGenerate detailed 3D models from text or images with Tripo H3.1, or upload your own. Choose any angle and use it as a reference for your next image or video. Export your model to use in other 3D tools. Try it now in Runway. https://t.co/EfSN9UHvxl"
+      },
+      {
+        "author_id": "1001114465692200960",
+        "conversation_id": "2120883301833400668",
+        "created_at": "2026-11-12T14:15:58.000Z",
+        "edit_history_tweet_ids": [
+          "2120883304555831368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Everything you need to make anything you want.",
+              "display_url": "app.runway.com",
+              "end": 35,
+              "expanded_url": "https://app.runway.com/",
+              "images": [
+                {
+                  "height": 537,
+                  "url": "https://pbs.twimg.com/news_img/2118401553363259392/_gZzn6Id?format=jpg&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2118401553363259392/_gZzn6Id?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 12,
+              "status": 200,
+              "title": "Runway",
+              "unwound_url": "https://app.runway.com/",
+              "url": "https://t.co/8SmJnj6nTS"
+            }
+          ]
+        },
+        "id": "2120883304555831368",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2607,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120883301833400668",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Try it now: https://t.co/8SmJnj6nTS"
+      }
+    ],
+    "users": [
+      {
+        "id": "1754981009353822208",
+        "name": "Is this a 3D model?",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105838266251390976/-8doniqu_normal.jpg",
+        "username": "IsThisA3DModel",
+        "verified": false
+      },
+      {
+        "id": "1954757752909377536",
+        "name": "Mikeaiforge",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976909951525376000/IaRc3mzC_normal.jpg",
+        "username": "mikesaiforge",
+        "verified": false
+      },
+      {
+        "id": "1722179481144848384",
+        "name": "Tripo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116114775734366208/1Y0qQ_Lo_normal.jpg",
+        "username": "tripoai",
+        "verified": false
+      },
+      {
+        "id": "2077614505832714240",
+        "name": "Triboo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078003516925435904/tRmAYRxw_normal.jpg",
+        "username": "TribooVast",
+        "verified": false
+      },
+      {
+        "id": "2017445675009773570",
+        "name": "ZORA AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2112490715267670017/rrWAdy39_normal.jpg",
+        "username": "ZoraAi_X",
+        "verified": false
+      },
+      {
+        "id": "37666468",
+        "name": "Rich Klein",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749144407259992064/sCZ2saGU_normal.jpg",
+        "username": "RichKleinAI",
+        "verified": false
+      },
+      {
+        "id": "154884299",
+        "name": "Nurecas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2113107376001990656/7cHMhxsW_normal.jpg",
+        "username": "fabinrasheed",
+        "verified": false
+      },
+      {
+        "id": "1896668083101773824",
+        "name": "Byte | AI Tested",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115190213286760448/0_UtXZka_normal.jpg",
+        "username": "AdamTestsAI",
+        "verified": false
+      },
+      {
+        "id": "1460242146896797706",
+        "name": "awatanation",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2113576897892282368/hKryAnfq_normal.jpg",
+        "username": "awatanation",
+        "verified": false
+      },
+      {
+        "id": "1760175449387511808",
+        "name": "Faheem | FrontierMind AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765658961024372737/cizvygzB_normal.jpg",
+        "username": "cooolernemesis",
+        "verified": false
+      },
+      {
+        "id": "2043685291265851392",
+        "name": "🇰🇷Dave_Joe_9377🇦🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085022311615549440/fxRNGPKI_normal.jpg",
+        "username": "Dave_Joe_9377",
+        "verified": false
+      },
+      {
+        "id": "2116999620014280704",
+        "name": "Kai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120965087921893376/kDVDR7Kh_normal.jpg",
+        "username": "baiyumod1",
+        "verified": false
+      },
+      {
+        "id": "858758334693945346",
+        "name": "Sousa Brothers",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687196991455961091/YVuDA1-z_normal.jpg",
+        "username": "sousa_brothers",
+        "verified": false
+      },
+      {
+        "id": "2109649135741587457",
+        "name": "MarginMints — AI Tools, Tested",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110041350184095745/wPIXVxju_normal.jpg",
+        "username": "marginmints",
+        "verified": false
+      },
+      {
+        "id": "1370703428993875972",
+        "name": "one.dyor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120483627381489665/NiSmytEY_normal.jpg",
+        "username": "one_dyor",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121034246290628928",
+    "next_token": "b26v89c19zqg8o3juzovcgzwtnsh83auaepxs3i7l53lp",
+    "oldest_id": "2120908118112751823",
+    "result_count": 15
+  }
+}

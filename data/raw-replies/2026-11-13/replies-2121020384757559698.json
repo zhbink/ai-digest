@@ -1,0 +1,391 @@
+{
+  "data": [
+    {
+      "author_id": "1911683712544018432",
+      "conversation_id": "2121020384757559698",
+      "created_at": "2026-11-13T00:50:47.000Z",
+      "edit_history_tweet_ids": [
+        "2121043059546964473"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121043059546964473",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121020384757559698",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ design at 67% is wild, shenzhen really moving up the chain",
+      "url": "https://x.com/MacroBombastic/status/2121043059546964473"
+    },
+    {
+      "author_id": "2057761293373743104",
+      "conversation_id": "2121020384757559698",
+      "created_at": "2026-11-13T00:28:05.000Z",
+      "edit_history_tweet_ids": [
+        "2121037348477845929"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121037348477845929",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 17,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121020384757559698",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ Chips and AI safety are the right items to watch at APEC, but most of the tighter China export bills are still proposals. NVIDIA's China data center revenue is already near zero, so the near-term P&amp;L impact is limited; the open question is the long-term market.",
+      "url": "https://x.com/QiaoweiXulbto/status/2121037348477845929"
+    },
+    {
+      "author_id": "46498861",
+      "conversation_id": "2121020384757559698",
+      "created_at": "2026-11-13T00:06:20.000Z",
+      "edit_history_tweet_ids": [
+        "2121031874000880100"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121031874000880100",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 68,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121020384757559698",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ That design share is the detail to watch. If 67 percent of the revenue is design, the conversation in Shenzhen is not really about factories. It is about who controls the intellectual property behind the chips, and that is much harder to negotiate.",
+      "url": "https://x.com/raulnogales/status/2121031874000880100"
+    },
+    {
+      "author_id": "1247794040688349184",
+      "conversation_id": "2121020384757559698",
+      "created_at": "2026-11-12T23:44:50.000Z",
+      "edit_history_tweet_ids": [
+        "2121026464212734382"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121026464212734382",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 120,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121020384757559698",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ Design at 67% of Shenzhen's IC revenue is the story inside the story. China isn't just a fab hub anymore — it's moving up the value chain. That 27% revenue growth while U.S. export controls tightened shows the controls are creating domestic urgency, not suppression.",
+      "url": "https://x.com/derrick_dao/status/2121026464212734382"
+    },
+    {
+      "author_id": "2081959403595710465",
+      "conversation_id": "2121020384757559698",
+      "created_at": "2026-11-12T23:36:26.000Z",
+      "edit_history_tweet_ids": [
+        "2121024350912733560"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121024350912733560",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121020384757559698",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ shenzhen's chip scene is way more design heavy than i expected, 67% of that RMB 361B. worth a look before the 18th",
+      "url": "https://x.com/WaferBull/status/2121024350912733560"
+    },
+    {
+      "author_id": "2020406992410648576",
+      "conversation_id": "2121020384757559698",
+      "created_at": "2026-11-12T23:31:06.000Z",
+      "edit_history_tweet_ids": [
+        "2121023008399573393"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121023008399573393",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121020384757559698",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ That 67% design share is the tell: fabless-heavy, design is the layer most exposed to EDA/IP and foundry cutoffs — export control's levers. 67 firms is a count, not self-sufficiency; watch EDA/materials localization, not firm counts. Views are my own, not investment advice.",
+      "url": "https://x.com/XiaoVic74463/status/2121023008399573393"
+    },
+    {
+      "author_id": "1930791233703829504",
+      "conversation_id": "2121020384757559698",
+      "created_at": "2026-11-12T23:29:45.000Z",
+      "edit_history_tweet_ids": [
+        "2121022668875141584"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121022668875141584",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121020384757559698",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ Useful map. Design is 67% of Shenzhen's RMB 361B IC revenue, so the leverage going into Trump–Xi may sit in EDA/IP licensing more than in fabs. Which of the 67 depend most on US EDA tools?",
+      "url": "https://x.com/RichardYoo76573/status/2121022668875141584"
+    },
+    {
+      "author_id": "1800074510345064448",
+      "conversation_id": "2121020384757559698",
+      "created_at": "2026-11-12T23:28:24.000Z",
+      "edit_history_tweet_ids": [
+        "2121022329308561607"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121022329308561607",
+      "lang": "ko",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 177,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121020384757559698",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ 젠슨황 사태로 어떤 신경전이 있을지.. 기대되네요",
+      "url": "https://x.com/smc_investor/status/2121022329308561607"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1745106082790318080",
+        "conversation_id": "2121020384757559698",
+        "created_at": "2026-11-12T23:20:41.000Z",
+        "edit_history_tweet_ids": [
+          "2121020384757559698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hBapwfRQKl",
+              "end": 304,
+              "expanded_url": "https://x.com/SemiAnalysis_/status/2121020384757559698/photo/1",
+              "media_key": "3_2121020381033099265",
+              "start": 281,
+              "url": "https://t.co/hBapwfRQKl"
+            }
+          ]
+        },
+        "id": "2121020384757559698",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 16606,
+          "like_count": 101,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 10
+        },
+        "text": "President Trump said he will be in Shenzhen for APEC on Nov 18–19. Trump and Xi are expected to meet during the summit. Chips and AI safety will be issues to watch. We mapped the host city’s chip supply chain: 67 companies, from EDA and IP to fabs, tools and materials. Shenzhen’s https://t.co/hBapwfRQKl"
+      }
+    ],
+    "users": [
+      {
+        "id": "1911683712544018432",
+        "name": "Macro Bombastic",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998039880278888448/ywABI93K_normal.jpg",
+        "username": "MacroBombastic",
+        "verified": false
+      },
+      {
+        "id": "2057761293373743104",
+        "name": "Joy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120283716178366465/VkVIyy87_normal.jpg",
+        "username": "QiaoweiXulbto",
+        "verified": false
+      },
+      {
+        "id": "46498861",
+        "name": "Raúl Nogales 🇪🇸🇺🇸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109706748915257346/KZ0dWszM_normal.jpg",
+        "username": "raulnogales",
+        "verified": false
+      },
+      {
+        "id": "1247794040688349184",
+        "name": "Derrick Dao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953869528883986432/z0Z3kCCx_normal.jpg",
+        "username": "derrick_dao",
+        "verified": false
+      },
+      {
+        "id": "2081959403595710465",
+        "name": "Semiconductor Bull",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105803744751579136/Mrr7QxCn_normal.jpg",
+        "username": "WaferBull",
+        "verified": false
+      },
+      {
+        "id": "2020406992410648576",
+        "name": "ViiiC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020407119422640128/lgAl4AIz_normal.jpg",
+        "username": "XiaoVic74463",
+        "verified": false
+      },
+      {
+        "id": "1930791233703829504",
+        "name": "Shinobu Quant",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116524012948066304/HurunsMq_normal.jpg",
+        "username": "RichardYoo76573",
+        "verified": false
+      },
+      {
+        "id": "1800074510345064448",
+        "name": "전업투자자 소투 小投",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081197709760094208/R1J-uIfH_normal.jpg",
+        "username": "smc_investor",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121043059546964473",
+    "next_token": "b26v89c19zqg8o3juzovr3fwqhl0rp2jqiackut1k0ygt",
+    "oldest_id": "2121022329308561607",
+    "result_count": 8
+  }
+}

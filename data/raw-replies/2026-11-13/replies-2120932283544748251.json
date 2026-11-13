@@ -1,0 +1,758 @@
+{
+  "data": [
+    {
+      "author_id": "34567164",
+      "conversation_id": "2120932283544748251",
+      "created_at": "2026-11-12T22:40:41.000Z",
+      "edit_history_tweet_ids": [
+        "2121010319539794100"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121010319539794100",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120932283544748251",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ SemiAnalysis’s TileRT result on GB300 NVL72 is 1,725 tokens per second per user on DeepSeek v4.1 Flash at TP24 with TileRT MegaKernels, about 2× a general-purpose decode engine on the same rack. The next published step is multi-concurrency on that same GB300 NVL72, with the same",
+      "url": "https://x.com/redboynono/status/2121010319539794100"
+    },
+    {
+      "author_id": "326324159",
+      "conversation_id": "2120932283544748251",
+      "created_at": "2026-11-12T22:19:05.000Z",
+      "edit_history_tweet_ids": [
+        "2121004886095736949"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121004886095736949",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 218,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120932283544748251",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ megakernels doing a lot of work on that decode",
+      "url": "https://x.com/hash_bender/status/2121004886095736949"
+    },
+    {
+      "author_id": "1433886923832049664",
+      "conversation_id": "2120932283544748251",
+      "created_at": "2026-11-12T20:14:37.000Z",
+      "edit_history_tweet_ids": [
+        "2120973563398357312"
+      ],
+      "entities": {
+        "cashtags": [
+          {
+            "end": 116,
+            "start": 111,
+            "tag": "NVDA"
+          }
+        ],
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2120973563398357312",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 26,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120932283544748251",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ 1725 tok/s for one user is a fun demo number, but what happens when 50 users hit it at once? if $NVDA's moat is kernels now, rubin and mi455x just need better kernels",
+      "url": "https://x.com/EthGoldi/status/2120973563398357312"
+    },
+    {
+      "author_id": "1720665183188922368",
+      "conversation_id": "2120932283544748251",
+      "created_at": "2026-11-12T20:12:55.000Z",
+      "edit_history_tweet_ids": [
+        "2120973131598676240"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1172280438553042946",
+            "start": 0,
+            "username": "NaveenDavis11"
+          },
+          {
+            "end": 29,
+            "id": "1745106082790318080",
+            "start": 15,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2120973131598676240",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120972986077348235",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@NaveenDavis11 @SemiAnalysis_ TileRT is an open-source tile-based runtime (tile-ai/TileRT) for ultra-low-latency LLM decode. It compiles models into persistent megakernels that overlap compute, memory, and communication at tile granularity, prioritizing single-user speed (hundreds to 1000+ tok/s) over batch",
+      "url": "https://x.com/grok/status/2120973131598676240"
+    },
+    {
+      "author_id": "1172280438553042946",
+      "conversation_id": "2120932283544748251",
+      "created_at": "2026-11-12T20:12:20.000Z",
+      "edit_history_tweet_ids": [
+        "2120972986077348235"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          },
+          {
+            "end": 20,
+            "id": "1720665183188922368",
+            "start": 15,
+            "username": "grok"
+          }
+        ]
+      },
+      "id": "2120972986077348235",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120932283544748251",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ @grok what is TileRT ? Details? Who are mag7 using it?",
+      "url": "https://x.com/NaveenDavis11/status/2120972986077348235"
+    },
+    {
+      "author_id": "1067025324964106240",
+      "conversation_id": "2120932283544748251",
+      "created_at": "2026-11-12T19:42:57.000Z",
+      "edit_history_tweet_ids": [
+        "2120965593469727079"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2120965593469727079",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 27,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120932283544748251",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ GB300 NVL72 hits 1725 tok/s/user on DeepSeek v4.1 Flash with TP24 and TileRT MegaKernels, 2x faster than general-purpose engines for decode. That is a decode number on one stack; the multi-concurrency follow-up is what would show whether those 1725 tokens hold under load.",
+      "url": "https://x.com/ekcheungAI/status/2120965593469727079"
+    },
+    {
+      "author_id": "1505885433615601674",
+      "conversation_id": "2120932283544748251",
+      "created_at": "2026-11-12T19:38:35.000Z",
+      "edit_history_tweet_ids": [
+        "2120964494843355203"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          },
+          {
+            "end": 27,
+            "id": "1857064336864206848",
+            "start": 15,
+            "username": "RobImbeault"
+          }
+        ]
+      },
+      "id": "2120964494843355203",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 33,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120932283544748251",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ @RobImbeault we need WAY more “BREAKING NEWS” posts lol",
+      "url": "https://x.com/jon_curio/status/2120964494843355203"
+    },
+    {
+      "author_id": "2077354681093718016",
+      "conversation_id": "2120932283544748251",
+      "created_at": "2026-11-12T19:22:28.000Z",
+      "edit_history_tweet_ids": [
+        "2120960436778778796"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2120960436778778796",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120932283544748251",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ 1725 tok/s per user on decode is the kind of number that makes megakernels hard to ignore. Fusing the forward pass cuts most of the launch overhead, which is exactly where general-purpose engines lose time at low batch. Curious how much of it holds once concurrency goes up.",
+      "url": "https://x.com/Temperatur2com/status/2120960436778778796"
+    },
+    {
+      "author_id": "2081959403595710465",
+      "conversation_id": "2120932283544748251",
+      "created_at": "2026-11-12T19:13:33.000Z",
+      "edit_history_tweet_ids": [
+        "2120958195133002117"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2120958195133002117",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120932283544748251",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ 1725 is single user though, not sure how much that tells us yet. multi-concurrency is the part i'd want to see",
+      "url": "https://x.com/WaferBull/status/2120958195133002117"
+    },
+    {
+      "author_id": "104805570",
+      "conversation_id": "2120932283544748251",
+      "created_at": "2026-11-12T19:05:18.000Z",
+      "edit_history_tweet_ids": [
+        "2120956117912367397"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2120956117912367397",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 126,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120932283544748251",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ That circle is chef's kiss",
+      "url": "https://x.com/stevencheng/status/2120956117912367397"
+    },
+    {
+      "author_id": "2034098636590878724",
+      "conversation_id": "2120932283544748251",
+      "created_at": "2026-11-12T19:04:53.000Z",
+      "edit_history_tweet_ids": [
+        "2120956011771306333"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2120956011771306333",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120932283544748251",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ 1725 tokens per second per user is a wild number for decode. That is the part that matters for real serving costs. If that 2x holds at multi-concurrency, inference margins change fast.",
+      "url": "https://x.com/marketides/status/2120956011771306333"
+    },
+    {
+      "author_id": "1380769041984278530",
+      "conversation_id": "2120932283544748251",
+      "created_at": "2026-11-12T18:56:04.000Z",
+      "edit_history_tweet_ids": [
+        "2120953794469216561"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2120953794469216561",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 38,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120932283544748251",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ Completely agree with this perspective, keeping the operational footprint lean saves so much headache.",
+      "url": "https://x.com/eddyvustg/status/2120953794469216561"
+    },
+    {
+      "author_id": "1510028300",
+      "conversation_id": "2120932283544748251",
+      "created_at": "2026-11-12T18:48:07.000Z",
+      "edit_history_tweet_ids": [
+        "2120951791659671614"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2120951791659671614",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 130,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120932283544748251",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ 1725 tok/s/user 确实远超阅读速度了，感觉这种吞吐更像是给 agent 之间对话准备的。",
+      "url": "https://x.com/rainwaterJay/status/2120951791659671614"
+    },
+    {
+      "author_id": "2020406992410648576",
+      "conversation_id": "2120932283544748251",
+      "created_at": "2026-11-12T18:16:19.000Z",
+      "edit_history_tweet_ids": [
+        "2120943791322386831"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2120943791322386831",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120932283544748251",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ MegaKernels fuse launch-bound decode kernels into one persistent scheduler — hence 2x in low-occupancy decode, not compute-bound prefill. Biggest single-user, it narrows as concurrency saturates HBM; TP24 already uses 1/3 of the rack. Views are my own, not investment advice.",
+      "url": "https://x.com/XiaoVic74463/status/2120943791322386831"
+    },
+    {
+      "author_id": "2058302837587685378",
+      "conversation_id": "2120932283544748251",
+      "created_at": "2026-11-12T18:16:09.000Z",
+      "edit_history_tweet_ids": [
+        "2120943748045787526"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2120943748045787526",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120932283544748251",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ 1,725 tok/s per user is about 0.58 ms per token, which is wild for decode. The catch is what TP24 costs in aggregate throughput once you batch. Curious what tok/s per GPU looks like at 32 concurrent users.",
+      "url": "https://x.com/AuraConvexity/status/2120943748045787526"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1745106082790318080",
+        "conversation_id": "2120932283544748251",
+        "created_at": "2026-11-12T17:30:36.000Z",
+        "edit_history_tweet_ids": [
+          "2120932283544748251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y04dGjdTG0",
+              "end": 300,
+              "expanded_url": "https://x.com/SemiAnalysis_/status/2120932283544748251/photo/1",
+              "media_key": "3_2120932280981925888",
+              "start": 277,
+              "url": "https://t.co/Y04dGjdTG0"
+            }
+          ]
+        },
+        "id": "2120932283544748251",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 25505,
+          "like_count": 274,
+          "quote_count": 2,
+          "reply_count": 28,
+          "retweet_count": 14
+        },
+        "text": "BREAKING NEWS🚨: GB300 NVL72 can reach 1725 tok/s/user on DeepSeek v4.1 Flash using TP24 with TileRT MegaKernels, 2x faster than general-purpose engines for decode!\n\nMore to come from the TileRT folks with multi-concurrency on GB300 NVL72. If you see what TileRT on GB300 NVL72 https://t.co/Y04dGjdTG0"
+      },
+      {
+        "author_id": "1172280438553042946",
+        "conversation_id": "2120932283544748251",
+        "created_at": "2026-11-12T20:12:20.000Z",
+        "edit_history_tweet_ids": [
+          "2120972986077348235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1745106082790318080",
+              "start": 0,
+              "username": "SemiAnalysis_"
+            },
+            {
+              "end": 20,
+              "id": "1720665183188922368",
+              "start": 15,
+              "username": "grok"
+            }
+          ]
+        },
+        "id": "2120972986077348235",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120932283544748251",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@SemiAnalysis_ @grok what is TileRT ? Details? Who are mag7 using it?"
+      }
+    ],
+    "users": [
+      {
+        "id": "34567164",
+        "name": "Steven.Sun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712390603093524480/Svie-b7Q_normal.jpg",
+        "username": "redboynono",
+        "verified": false
+      },
+      {
+        "id": "326324159",
+        "name": "NickH",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087412220858937344/2lzAZ3zy_normal.jpg",
+        "username": "hash_bender",
+        "verified": false
+      },
+      {
+        "id": "1433886923832049664",
+        "name": "The Bullish Broke Guy X",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091612493529448448/kn2Q074T_normal.jpg",
+        "username": "EthGoldi",
+        "verified": false
+      },
+      {
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "id": "1172280438553042946",
+        "name": "Naveen Davis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1334898057075298305/ZBoZ0n-m_normal.jpg",
+        "username": "NaveenDavis11",
+        "verified": false
+      },
+      {
+        "id": "1067025324964106240",
+        "name": "EK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108849523057680384/hKDYIoVX_normal.jpg",
+        "username": "ekcheungAI",
+        "verified": false
+      },
+      {
+        "id": "1505885433615601674",
+        "name": "Jonny Cache",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119870603540766721/vpusmWaJ_normal.jpg",
+        "username": "jon_curio",
+        "verified": false
+      },
+      {
+        "id": "2077354681093718016",
+        "name": "Temperature2.com",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092136816161824768/8DinoAUW_normal.jpg",
+        "username": "Temperatur2com",
+        "verified": false
+      },
+      {
+        "id": "2081959403595710465",
+        "name": "Semiconductor Bull",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105803744751579136/Mrr7QxCn_normal.jpg",
+        "username": "WaferBull",
+        "verified": false
+      },
+      {
+        "id": "104805570",
+        "name": "Steven Cheng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2111627348323999744/bkFpiCUy_normal.jpg",
+        "username": "stevencheng",
+        "verified": false
+      },
+      {
+        "id": "2034098636590878724",
+        "name": "Market Tides",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034099237722726400/5lVRyzL9_normal.jpg",
+        "username": "marketides",
+        "verified": false
+      },
+      {
+        "id": "1380769041984278530",
+        "name": "EDDY VU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896825030161440768/yLeerQQt_normal.jpg",
+        "username": "eddyvustg",
+        "verified": false
+      },
+      {
+        "id": "1510028300",
+        "name": "星海拾珠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080054703443124224/hBBqGT1U_normal.jpg",
+        "username": "rainwaterJay",
+        "verified": false
+      },
+      {
+        "id": "2020406992410648576",
+        "name": "ViiiC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020407119422640128/lgAl4AIz_normal.jpg",
+        "username": "XiaoVic74463",
+        "verified": false
+      },
+      {
+        "id": "2058302837587685378",
+        "name": "ConveXaura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058305534369964032/drbd3c-A_normal.jpg",
+        "username": "AuraConvexity",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121010319539794100",
+    "next_token": "b26v89c19zqg8o3juzovch13rtgknpk024evmgnjiefst",
+    "oldest_id": "2120943748045787526",
+    "result_count": 15
+  }
+}

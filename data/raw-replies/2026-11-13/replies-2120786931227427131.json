@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "author_id": "1765735864322379776",
+      "created_at": "2026-11-12T16:08:16.000Z",
+      "edit_history_tweet_ids": [
+        "2120911564484366523"
+      ],
+      "id": "2120911564484366523",
+      "in_reply_to_user_id": "1315639147248246785",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120786931227427131",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GithubProjects Two contacts with the same name make a good test case here. Keep them separate until there's evidence they're the same person. Nobody wants their CRM to introduce them to a fictional executive assembled from three LinkedIn profiles.",
+      "url": "https://x.com/upserto/status/2120911564484366523"
+    },
+    {
+      "author_id": "2060303233785176064",
+      "created_at": "2026-11-12T11:12:56.000Z",
+      "edit_history_tweet_ids": [
+        "2120837244357632133"
+      ],
+      "id": "2120837244357632133",
+      "in_reply_to_user_id": "1315639147248246785",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 240,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120786931227427131",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GithubProjects For teams handling client data, the README's rule is that nothing about a person is guessed: strong evidence writes to the record, weak evidence becomes a suggestion a human settles. It also works with no API keys, reading your own threads, meetings and signature blocks.",
+      "url": "https://x.com/Kellyyr4h/status/2120837244357632133"
+    },
+    {
+      "author_id": "2017973015825588224",
+      "created_at": "2026-11-12T09:21:42.000Z",
+      "edit_history_tweet_ids": [
+        "2120809249836302389"
+      ],
+      "id": "2120809249836302389",
+      "in_reply_to_user_id": "1315639147248246785",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120786931227427131",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GithubProjects \"From observed evidence only\" is the line doing all the work.\n\nA CRM that guesses a contact's job title is worse than an empty field, because someone will eventually email them with it.",
+      "url": "https://x.com/TimLai666/status/2120809249836302389"
+    },
+    {
+      "author_id": "1571241075011887105",
+      "created_at": "2026-11-12T08:07:02.000Z",
+      "edit_history_tweet_ids": [
+        "2120790457202745683"
+      ],
+      "id": "2120790457202745683",
+      "in_reply_to_user_id": "1315639147248246785",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 295,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120786931227427131",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GithubProjects a half empty CRM where every field is actually proven is probably more trustworthy than a full one with guesses in it",
+      "url": "https://x.com/asmirkn/status/2120790457202745683"
+    },
+    {
+      "author_id": "1908196148680232960",
+      "created_at": "2026-11-12T08:01:51.000Z",
+      "edit_history_tweet_ids": [
+        "2120789155576000994"
+      ],
+      "id": "2120789155576000994",
+      "in_reply_to_user_id": "1315639147248246785",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120786931227427131",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GithubProjects \"From observed evidence only\" is the part I'd test first. Does each field the agent fills keep a link back to the page or email it came from? That trail is what makes an agent-written CRM record safe to act on.",
+      "url": "https://x.com/Cozy2054934/status/2120789155576000994"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1315639147248246785",
+        "created_at": "2026-11-12T07:53:01.000Z",
+        "edit_history_tweet_ids": [
+          "2120786931227427131"
+        ],
+        "id": "2120786931227427131",
+        "public_metrics": {
+          "bookmark_count": 161,
+          "impression_count": 10967,
+          "like_count": 141,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "text": "Run a self-hosted CRM where an AI agent researches contacts, fills in records from observed evidence only, and books its own follow-ups.\n\nExplore it here:\nhttps://t.co/8iqSwdfKDa https://t.co/IonM2iU0MP"
+      }
+    ],
+    "users": [
+      {
+        "id": "1765735864322379776",
+        "name": "Upserto",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069196189485146112/3LhWLbVY_normal.jpg",
+        "username": "upserto",
+        "verified": false
+      },
+      {
+        "id": "2060303233785176064",
+        "name": "Kelly Z | AI Explorer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115410879152054272/5WUaNnvS_normal.jpg",
+        "username": "Kellyyr4h",
+        "verified": false
+      },
+      {
+        "id": "2017973015825588224",
+        "name": "Tim Lai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117517718115233792/Jh1vFTT5_normal.jpg",
+        "username": "TimLai666",
+        "verified": false
+      },
+      {
+        "id": "1571241075011887105",
+        "name": "Asmir",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101085784879026176/gYOtZPb7_normal.jpg",
+        "username": "asmirkn",
+        "verified": false
+      },
+      {
+        "id": "1908196148680232960",
+        "name": "Cozy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104128577033682944/5sP-sB5q_normal.jpg",
+        "username": "Cozy2054934",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120911564484366523",
+    "next_token": "b26v89c19zqg8o3juzovccsuvxhs1j3dtpq7ioc4fu4xp",
+    "oldest_id": "2120789155576000994",
+    "result_count": 5
+  }
+}

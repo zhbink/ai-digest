@@ -1,0 +1,692 @@
+{
+  "data": [
+    {
+      "author_id": "2119005162622611456",
+      "conversation_id": "2120913030787813475",
+      "created_at": "2026-11-13T00:42:38.000Z",
+      "edit_history_tweet_ids": [
+        "2121041009388015896"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2121041009388015896",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120913030787813475",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog So less screenshots but directly \"brush\" over the thing I want to point at? Am I understanding this correctly?",
+      "url": "https://x.com/AlexKotzegien/status/2121041009388015896"
+    },
+    {
+      "author_id": "1804856456426246145",
+      "conversation_id": "2120913030787813475",
+      "created_at": "2026-11-12T21:24:32.000Z",
+      "edit_history_tweet_ids": [
+        "2120991157207609843"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2120991157207609843",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120913030787813475",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog Inpainting for prompts? Highlight one paragraph and redo only that would save so many full rewrites.",
+      "url": "https://x.com/kritinv07/status/2120991157207609843"
+    },
+    {
+      "author_id": "2104993200490393600",
+      "conversation_id": "2120913030787813475",
+      "created_at": "2026-11-12T18:46:50.000Z",
+      "edit_history_tweet_ids": [
+        "2120951470011056357"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2120951470011056357",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 15,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120913030787813475",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog Anthropic shipping features right before its IPO is the most founder thing ever. Nothing says confidence like product updates during the roadshow.",
+      "url": "https://x.com/ceobrendan/status/2120951470011056357"
+    },
+    {
+      "author_id": "1380769041984278530",
+      "conversation_id": "2120913030787813475",
+      "created_at": "2026-11-12T17:59:24.000Z",
+      "edit_history_tweet_ids": [
+        "2120939532027908345"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2120939532027908345",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120913030787813475",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog Super interesting approach, how are you handling edge cases when scaling concurrent workloads?",
+      "url": "https://x.com/eddyvustg/status/2120939532027908345"
+    },
+    {
+      "author_id": "2101564848232595456",
+      "conversation_id": "2120913030787813475",
+      "created_at": "2026-11-12T17:37:15.000Z",
+      "edit_history_tweet_ids": [
+        "2120933959039332641"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2120933959039332641",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120913030787813475",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog If Brush lets you circle one spot and say \"change just this,\" that's a big win. Half my image edits are \"same scene, only fix that corner,\" and re-describing the whole picture every round gets old fast.",
+      "url": "https://x.com/ElloForo8A/status/2120933959039332641"
+    },
+    {
+      "author_id": "1082633742278107136",
+      "conversation_id": "2120913030787813475",
+      "created_at": "2026-11-12T17:30:46.000Z",
+      "edit_history_tweet_ids": [
+        "2120932327165772233"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2120932327165772233",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 188,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120913030787813475",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog So draw something and let Claude pick it up from there?",
+      "url": "https://x.com/LucasNavallo/status/2120932327165772233"
+    },
+    {
+      "author_id": "2056999313314590721",
+      "conversation_id": "2120913030787813475",
+      "created_at": "2026-11-12T17:18:55.000Z",
+      "edit_history_tweet_ids": [
+        "2120929345703162064"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2120929345703162064",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 146,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120913030787813475",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog did clicking it do anything or is it just the menu item so far?",
+      "url": "https://x.com/notinvariant/status/2120929345703162064"
+    },
+    {
+      "author_id": "1603030184734920705",
+      "conversation_id": "2120913030787813475",
+      "created_at": "2026-11-12T17:17:55.000Z",
+      "edit_history_tweet_ids": [
+        "2120929091692147099"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2120929091692147099",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 16,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120913030787813475",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog If Brush means marking up a screenshot to point at the exact thing to change, that's big for UI work. Describing \"the button next to the second card\" in text is where most of my frontend prompts go wrong.",
+      "url": "https://x.com/Rishu_init/status/2120929091692147099"
+    },
+    {
+      "author_id": "2112951054958473217",
+      "conversation_id": "2120913030787813475",
+      "created_at": "2026-11-12T17:17:35.000Z",
+      "edit_history_tweet_ids": [
+        "2120929010024612341"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2120929010024612341",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 118,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120913030787813475",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog new here, what did the old “sketch” feature do?",
+      "url": "https://x.com/neuro4dk/status/2120929010024612341"
+    },
+    {
+      "author_id": "1711203486170566656",
+      "conversation_id": "2120913030787813475",
+      "created_at": "2026-11-12T17:15:01.000Z",
+      "edit_history_tweet_ids": [
+        "2120928362806096222"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2120928362806096222",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 82,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120913030787813475",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog Region-level editing in the composer is the only way Brush beats Sketch: Claude changes what you mark instead of regenerating everything. Real inpainting, or the old feature renamed?",
+      "url": "https://x.com/AIFlow_ML/status/2120928362806096222"
+    },
+    {
+      "author_id": "1993582459846639616",
+      "conversation_id": "2120913030787813475",
+      "created_at": "2026-11-12T17:06:25.000Z",
+      "edit_history_tweet_ids": [
+        "2120926200906346542"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2120926200906346542",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 52,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120913030787813475",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog A Brush in the composer would be perfect for \"no, the other button\" feedback. Circling the thing beats writing three sentences describing where the thing is.",
+      "url": "https://x.com/JunLin10968/status/2120926200906346542"
+    },
+    {
+      "author_id": "1739268557849198592",
+      "conversation_id": "2120913030787813475",
+      "created_at": "2026-11-12T16:58:42.000Z",
+      "edit_history_tweet_ids": [
+        "2120924258587251184"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2120924258587251184",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 149,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120913030787813475",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog Anthropic在提示词编辑器里做Brush，还标着测试版，看起来是想让改提示更像改稿，而不是一次次重写整段。它会不会就是以前Sketch的思路再拿出来，现在还不好说。这种功能好不好用，得看它改完之后，模型是真按你的修改走，还是只换了个界面。",
+      "url": "https://x.com/EFEE0180492926/status/2120924258587251184"
+    },
+    {
+      "author_id": "2105324415525191680",
+      "conversation_id": "2120913030787813475",
+      "created_at": "2026-11-12T16:52:32.000Z",
+      "edit_history_tweet_ids": [
+        "2120922704790405319"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2120922704790405319",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120913030787813475",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog Ant-only and still Beta — so Brush is really a lab toy for Anthropic's own coding agent first, and a Claude composer feature second. Don't call it a composer feature until the rest of us can touch it.",
+      "url": "https://x.com/sleewppi/status/2120922704790405319"
+    },
+    {
+      "author_id": "2187622448",
+      "conversation_id": "2120913030787813475",
+      "created_at": "2026-11-12T16:49:55.000Z",
+      "edit_history_tweet_ids": [
+        "2120922048809906193"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2120922048809906193",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 170,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120913030787813475",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog the brush is ant only, and judging by the banner so is chatting",
+      "url": "https://x.com/sachinmour/status/2120922048809906193"
+    },
+    {
+      "author_id": "2396638884",
+      "conversation_id": "2120913030787813475",
+      "created_at": "2026-11-12T16:48:59.000Z",
+      "edit_history_tweet_ids": [
+        "2120921813215744324"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2120921813215744324",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120913030787813475",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog A brush tool in the composer could make it much easier to point at exactly which part of an image you want changed, instead of describing it in words.",
+      "url": "https://x.com/MehranShafique/status/2120921813215744324"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "3980735590",
+        "conversation_id": "2120913030787813475",
+        "created_at": "2026-11-12T16:14:05.000Z",
+        "edit_history_tweet_ids": [
+          "2120913030787813475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qrzarLVB5v",
+              "end": 214,
+              "expanded_url": "https://x.com/testingcatalog/status/2120913030787813475/photo/1",
+              "media_key": "3_2120912699814969344",
+              "start": 191,
+              "url": "https://t.co/qrzarLVB5v"
+            }
+          ]
+        },
+        "id": "2120913030787813475",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 19103,
+          "like_count": 275,
+          "quote_count": 2,
+          "reply_count": 35,
+          "retweet_count": 7
+        },
+        "text": "Anthropic is working on a new \"Brush\" feature for the Claude prompt composer. \n\nThe feature is marked as \"Beta\" and remains in development. \n\nIs it a reincarnation of the \"Sketch\" feature? 👀 https://t.co/qrzarLVB5v"
+      }
+    ],
+    "users": [
+      {
+        "id": "2119005162622611456",
+        "name": "Alexandros Kotzegien",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119006200452780032/nhFmdun0_normal.jpg",
+        "username": "AlexKotzegien",
+        "verified": false
+      },
+      {
+        "id": "1804856456426246145",
+        "name": "Kritin Vongthongsri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887222428801376263/VALzSI_P_normal.jpg",
+        "username": "kritinv07",
+        "verified": false
+      },
+      {
+        "id": "2104993200490393600",
+        "name": "Brendan Melanson",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119522022816411648/3KoC8JVY_normal.jpg",
+        "username": "ceobrendan",
+        "verified": false
+      },
+      {
+        "id": "1380769041984278530",
+        "name": "EDDY VU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896825030161440768/yLeerQQt_normal.jpg",
+        "username": "eddyvustg",
+        "verified": false
+      },
+      {
+        "id": "2101564848232595456",
+        "name": "Ellodia Forrester",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101572292560195584/VyDgzy8A_normal.jpg",
+        "username": "ElloForo8A",
+        "verified": false
+      },
+      {
+        "id": "1082633742278107136",
+        "name": "Lucas Navallo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047533672828661760/l_0Sz8Ql_normal.jpg",
+        "username": "LucasNavallo",
+        "verified": false
+      },
+      {
+        "id": "2056999313314590721",
+        "name": "Invariant",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057027298637873152/Nj84DXsa_normal.jpg",
+        "username": "notinvariant",
+        "verified": false
+      },
+      {
+        "id": "1603030184734920705",
+        "name": "Rishu Raj Gautam",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001355442895888384/S95HbOWj_normal.jpg",
+        "username": "Rishu_init",
+        "verified": false
+      },
+      {
+        "id": "2112951054958473217",
+        "name": "Neuro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115122221567868928/SZCgkhGI_normal.png",
+        "username": "neuro4dk",
+        "verified": false
+      },
+      {
+        "id": "1711203486170566656",
+        "name": "Igor Lessio - Robots/acc - AIFlow Labs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953848090915704832/CjjO7yAK_normal.jpg",
+        "username": "AIFlow_ML",
+        "verified": false
+      },
+      {
+        "id": "1993582459846639616",
+        "name": "Jun 1M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106785656823504896/JWlGC_gL_normal.jpg",
+        "username": "JunLin10968",
+        "verified": false
+      },
+      {
+        "id": "1739268557849198592",
+        "name": "Even_Yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2114106337877708800/vA-Bqvx__normal.jpg",
+        "username": "EFEE0180492926",
+        "verified": false
+      },
+      {
+        "id": "2105324415525191680",
+        "name": "mewpi | AI tools & free deals",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105325072311267328/IRGM2-58_normal.jpg",
+        "username": "sleewppi",
+        "verified": false
+      },
+      {
+        "id": "2187622448",
+        "name": "Sachin Mour",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755980242890506240/LJXFHKSr_normal.jpg",
+        "username": "sachinmour",
+        "verified": false
+      },
+      {
+        "id": "2396638884",
+        "name": "Mehran Shafique 🇵🇰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2111170991644868608/Yc69Vv7U_normal.jpg",
+        "username": "MehranShafique",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121041009388015896",
+    "next_token": "b26v89c19zqg8o3juzovch0i3xocncz1o5pf2ubszxsvx",
+    "oldest_id": "2120921813215744324",
+    "result_count": 15
+  }
+}

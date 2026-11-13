@@ -1,0 +1,823 @@
+{
+  "data": [
+    {
+      "author_id": "2055199707899518976",
+      "conversation_id": "2120852147549917645",
+      "created_at": "2026-11-12T23:16:06.000Z",
+      "edit_history_tweet_ids": [
+        "2121019234545528926"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1895453094361890816",
+            "start": 0,
+            "username": "higgsfield"
+          }
+        ]
+      },
+      "id": "2121019234545528926",
+      "lang": "fr",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120852147549917645",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@higgsfield Exactement, surtout pour les scènes à plusieurs plans : tu peux régénérer un seul plan raté sans exploser ton budget. Le plus dur reste de garder le même personnage et la même lumière d'un plan à l'autre.",
+      "url": "https://x.com/BrickIAAcademy/status/2121019234545528926"
+    },
+    {
+      "author_id": "1624135094498648065",
+      "conversation_id": "2120852147549917645",
+      "created_at": "2026-11-12T23:01:53.000Z",
+      "edit_history_tweet_ids": [
+        "2121015655206203717"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1895453094361890816",
+            "start": 0,
+            "username": "higgsfield"
+          }
+        ]
+      },
+      "id": "2121015655206203717",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 19,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120852147549917645",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@higgsfield That speed boost is huge for workflow",
+      "url": "https://x.com/heyartzy/status/2121015655206203717"
+    },
+    {
+      "author_id": "2091084096697180160",
+      "conversation_id": "2120852147549917645",
+      "created_at": "2026-11-12T21:49:40.000Z",
+      "edit_history_tweet_ids": [
+        "2120997482935329235"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1895453094361890816",
+            "start": 0,
+            "username": "higgsfield"
+          }
+        ]
+      },
+      "id": "2120997482935329235",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 23,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120852147549917645",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@higgsfield Twice as fast at lower cost makes Seedance Flash compelling",
+      "url": "https://x.com/ApexAITech/status/2120997482935329235"
+    },
+    {
+      "author_id": "2797777938",
+      "conversation_id": "2120852147549917645",
+      "created_at": "2026-11-12T21:47:28.000Z",
+      "edit_history_tweet_ids": [
+        "2120996928016314436"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1895453094361890816",
+            "start": 0,
+            "username": "higgsfield"
+          }
+        ]
+      },
+      "id": "2120996928016314436",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 24,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120852147549917645",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@higgsfield Twice as fast at a lower cost is exactly what AI video needed",
+      "url": "https://x.com/Awesome_O_AI/status/2120996928016314436"
+    },
+    {
+      "author_id": "2120964217608019968",
+      "conversation_id": "2120852147549917645",
+      "created_at": "2026-11-12T20:51:43.000Z",
+      "edit_history_tweet_ids": [
+        "2120982896395579825"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1895453094361890816",
+            "start": 0,
+            "username": "higgsfield"
+          },
+          {
+            "end": 43,
+            "id": "1895453094361890816",
+            "start": 32,
+            "username": "higgsfield"
+          }
+        ]
+      },
+      "id": "2120982896395579825",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120852147549917645",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@higgsfield This is magnificent @higgsfield",
+      "url": "https://x.com/AbramAdelliy/status/2120982896395579825"
+    },
+    {
+      "author_id": "2120970260945735680",
+      "conversation_id": "2120852147549917645",
+      "created_at": "2026-11-12T20:12:14.000Z",
+      "edit_history_tweet_ids": [
+        "2120972962476237084"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1895453094361890816",
+            "start": 0,
+            "username": "higgsfield"
+          }
+        ]
+      },
+      "id": "2120972962476237084",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120852156278333893",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@higgsfield This is amazing",
+      "url": "https://x.com/Unabloom31/status/2120972962476237084"
+    },
+    {
+      "author_id": "1884733260061913088",
+      "conversation_id": "2120852147549917645",
+      "created_at": "2026-11-12T19:46:03.000Z",
+      "edit_history_tweet_ids": [
+        "2120966374399123544"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1895453094361890816",
+            "start": 0,
+            "username": "higgsfield"
+          }
+        ]
+      },
+      "id": "2120966374399123544",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 35,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120852147549917645",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@higgsfield slowly rolling out, can't wait to try it",
+      "url": "https://x.com/antrospike/status/2120966374399123544"
+    },
+    {
+      "author_id": "4090355745",
+      "conversation_id": "2120852147549917645",
+      "created_at": "2026-11-12T18:09:50.000Z",
+      "edit_history_tweet_ids": [
+        "2120942159818072413"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1895453094361890816",
+            "start": 0,
+            "username": "higgsfield"
+          }
+        ]
+      },
+      "id": "2120942159818072413",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 27,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120852147549917645",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@higgsfield Twice as fast at a lower cost is a big deal for anyone making multi-shot scenes 🔥",
+      "url": "https://x.com/sammychrise/status/2120942159818072413"
+    },
+    {
+      "author_id": "858758334693945346",
+      "conversation_id": "2120852147549917645",
+      "created_at": "2026-11-12T17:25:42.000Z",
+      "edit_history_tweet_ids": [
+        "2120931052260851896"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1895453094361890816",
+            "start": 0,
+            "username": "higgsfield"
+          }
+        ]
+      },
+      "id": "2120931052260851896",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120852147549917645",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@higgsfield nearly twice as fast sounds like our kind of upgrade, adding this one to our test list",
+      "url": "https://x.com/sousa_brothers/status/2120931052260851896"
+    },
+    {
+      "author_id": "789450938742288386",
+      "conversation_id": "2120852147549917645",
+      "created_at": "2026-11-12T16:52:45.000Z",
+      "edit_history_tweet_ids": [
+        "2120922760948105392"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1461860927746289664",
+            "start": 0,
+            "username": "LordofShadow89"
+          },
+          {
+            "end": 27,
+            "id": "1895453094361890816",
+            "start": 16,
+            "username": "higgsfield"
+          }
+        ]
+      },
+      "id": "2120922760948105392",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120908249922691316",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LordofShadow89 @higgsfield Hmm~ it's tempting lol... will think about it, thx",
+      "url": "https://x.com/shamcreates/status/2120922760948105392"
+    },
+    {
+      "author_id": "2102555133796327424",
+      "conversation_id": "2120852147549917645",
+      "created_at": "2026-11-12T16:47:33.000Z",
+      "edit_history_tweet_ids": [
+        "2120921451994001876"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1895453094361890816",
+            "start": 0,
+            "username": "higgsfield"
+          },
+          {
+            "end": 39,
+            "id": "1895453094361890816",
+            "start": 28,
+            "username": "higgsfield"
+          }
+        ]
+      },
+      "id": "2120921451994001876",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120852147549917645",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@higgsfield Very good tool. @higgsfield",
+      "url": "https://x.com/Ankity7c/status/2120921451994001876"
+    },
+    {
+      "author_id": "2118713442831908864",
+      "conversation_id": "2120852147549917645",
+      "created_at": "2026-11-12T16:30:08.000Z",
+      "edit_history_tweet_ids": [
+        "2120917069222887444"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1895453094361890816",
+            "start": 0,
+            "username": "higgsfield"
+          }
+        ]
+      },
+      "id": "2120917069222887444",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120852147549917645",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@higgsfield FREE CREDITS PLEASE",
+      "url": "https://x.com/Fjrball/status/2120917069222887444"
+    },
+    {
+      "author_id": "1820105464807555072",
+      "conversation_id": "2120852147549917645",
+      "created_at": "2026-11-12T16:26:44.000Z",
+      "edit_history_tweet_ids": [
+        "2120916211223736412"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1895453094361890816",
+            "start": 0,
+            "username": "higgsfield"
+          }
+        ]
+      },
+      "id": "2120916211223736412",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 18,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120852147549917645",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@higgsfield Everything about them is scam",
+      "url": "https://x.com/_Zeyro/status/2120916211223736412"
+    },
+    {
+      "author_id": "1895340675220258816",
+      "conversation_id": "2120852147549917645",
+      "created_at": "2026-11-12T16:00:10.000Z",
+      "edit_history_tweet_ids": [
+        "2120909527038246959"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1895453094361890816",
+            "start": 0,
+            "username": "higgsfield"
+          }
+        ]
+      },
+      "id": "2120909527038246959",
+      "lang": "und",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120852147549917645",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@higgsfield Yes",
+      "url": "https://x.com/raj888159679367/status/2120909527038246959"
+    },
+    {
+      "author_id": "1461860927746289664",
+      "conversation_id": "2120852147549917645",
+      "created_at": "2026-11-12T15:55:06.000Z",
+      "edit_history_tweet_ids": [
+        "2120908249922691316"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "789450938742288386",
+            "start": 0,
+            "username": "shamcreates"
+          },
+          {
+            "end": 24,
+            "id": "1895453094361890816",
+            "start": 13,
+            "username": "higgsfield"
+          }
+        ]
+      },
+      "id": "2120908249922691316",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120895247375098237",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@shamcreates @higgsfield I don't think that is worth it for annual ultra plan; go for it if you want",
+      "url": "https://x.com/LordofShadow89/status/2120908249922691316"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1895453094361890816",
+        "conversation_id": "2120852147549917645",
+        "created_at": "2026-11-12T12:12:10.000Z",
+        "edit_history_tweet_ids": [
+          "2120852147549917645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KPBNnWne0w",
+              "end": 253,
+              "expanded_url": "https://x.com/higgsfield/status/2120852147549917645/video/1",
+              "media_key": "13_2120851904158646272",
+              "start": 230,
+              "url": "https://t.co/KPBNnWne0w"
+            }
+          ]
+        },
+        "id": "2120852147549917645",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 31569,
+          "like_count": 407,
+          "quote_count": 4,
+          "reply_count": 51,
+          "retweet_count": 189
+        },
+        "text": "Seedance 2.5 Flash is LIVE on Higgsfield.\n\nNearly twice as fast as Seedance 2.5 at a lower cost.\n\nGet up to 60% OFF on premium plans and best deal on Seedance 2.5.\n\nEarly access now on Higgsfield. Not available in the the US yet. https://t.co/KPBNnWne0w"
+      },
+      {
+        "author_id": "1895453094361890816",
+        "conversation_id": "2120852147549917645",
+        "created_at": "2026-11-12T12:12:12.000Z",
+        "edit_history_tweet_ids": [
+          "2120852156278333893"
+        ],
+        "id": "2120852156278333893",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1691,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120852150121013410",
+            "type": "replied_to"
+          }
+        ],
+        "text": "The offer gives Plus and Ultra plans discounts on Seedance 2.5 and top image models, with up to 60% off premium plans.\n\nMONTHLY\nPlus: 20% off\nUltra: up to 45% off\n\nANNUAL\nPlus: 41% off\nUltra: up to 60% off"
+      },
+      {
+        "author_id": "1461860927746289664",
+        "conversation_id": "2120852147549917645",
+        "created_at": "2026-11-12T15:55:06.000Z",
+        "edit_history_tweet_ids": [
+          "2120908249922691316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "789450938742288386",
+              "start": 0,
+              "username": "shamcreates"
+            },
+            {
+              "end": 24,
+              "id": "1895453094361890816",
+              "start": 13,
+              "username": "higgsfield"
+            }
+          ]
+        },
+        "id": "2120908249922691316",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120895247375098237",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@shamcreates @higgsfield I don't think that is worth it for annual ultra plan; go for it if you want"
+      },
+      {
+        "author_id": "789450938742288386",
+        "conversation_id": "2120852147549917645",
+        "created_at": "2026-11-12T15:03:25.000Z",
+        "edit_history_tweet_ids": [
+          "2120895247375098237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1461860927746289664",
+              "start": 0,
+              "username": "LordofShadow89"
+            },
+            {
+              "end": 27,
+              "id": "1895453094361890816",
+              "start": 16,
+              "username": "higgsfield"
+            }
+          ]
+        },
+        "id": "2120895247375098237",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120891991555023008",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@LordofShadow89 @higgsfield They just fixed it, now its at 60 credits for 480p and 150 credits for 720p, I wonder whats the slashed price if we get the annual Ultra plan"
+      }
+    ],
+    "users": [
+      {
+        "id": "2055199707899518976",
+        "name": "Brick IA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097127566180339712/o0213duC_normal.jpg",
+        "username": "BrickIAAcademy",
+        "verified": false
+      },
+      {
+        "id": "1624135094498648065",
+        "name": "Artzy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080331248640065538/rFhSb_wt_normal.jpg",
+        "username": "heyartzy",
+        "verified": false
+      },
+      {
+        "id": "2091084096697180160",
+        "name": "ApexAiTech",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2111725819949445120/I5DmTk0m_normal.jpg",
+        "username": "ApexAITech",
+        "verified": false
+      },
+      {
+        "id": "2797777938",
+        "name": "A.W.E.S.O.M.-O 4000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074590025640226816/-PwZKIQc_normal.jpg",
+        "username": "Awesome_O_AI",
+        "verified": false
+      },
+      {
+        "id": "2120964217608019968",
+        "name": "Abram Adel",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "username": "AbramAdelliy",
+        "verified": false
+      },
+      {
+        "id": "2120970260945735680",
+        "name": "Una bloom",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "username": "Unabloom31",
+        "verified": false
+      },
+      {
+        "id": "1884733260061913088",
+        "name": "Antrospike",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104275515708411904/yjvJKOVT_normal.jpg",
+        "username": "antrospike",
+        "verified": false
+      },
+      {
+        "id": "4090355745",
+        "name": "Samuel C. Okanume",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874035325904867328/f-YX-_op_normal.jpg",
+        "username": "sammychrise",
+        "verified": false
+      },
+      {
+        "id": "858758334693945346",
+        "name": "Sousa Brothers",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687196991455961091/YVuDA1-z_normal.jpg",
+        "username": "sousa_brothers",
+        "verified": false
+      },
+      {
+        "id": "789450938742288386",
+        "name": "Sham Stalin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120746951838941184/mQ1ecX9y_normal.jpg",
+        "username": "shamcreates",
+        "verified": false
+      },
+      {
+        "id": "2102555133796327424",
+        "name": "Ankit",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102556312676741120/BIoaje7E_normal.jpg",
+        "username": "Ankity7c",
+        "verified": false
+      },
+      {
+        "id": "2118713442831908864",
+        "name": "Farhan Mohamed",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118713933657722880/SdIOfQji_normal.jpg",
+        "username": "Fjrball",
+        "verified": false
+      },
+      {
+        "id": "1820105464807555072",
+        "name": "Zeyro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117009399126364160/vliyx0TE_normal.jpg",
+        "username": "_Zeyro",
+        "verified": false
+      },
+      {
+        "id": "1895340675220258816",
+        "name": "raj",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "username": "raj888159679367",
+        "verified": false
+      },
+      {
+        "id": "1461860927746289664",
+        "name": "Alinache89",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083202485678678016/B_HEFteN_normal.jpg",
+        "username": "LordofShadow89",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121019234545528926",
+    "next_token": "b26v89c19zqg8o3juzovcgzwto08zvajhuxop52qxn2il",
+    "oldest_id": "2120908249922691316",
+    "result_count": 15
+  }
+}

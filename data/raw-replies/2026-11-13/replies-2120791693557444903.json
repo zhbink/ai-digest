@@ -1,0 +1,585 @@
+{
+  "data": [
+    {
+      "author_id": "1853094686661226496",
+      "created_at": "2026-11-13T00:31:40.000Z",
+      "edit_history_tweet_ids": [
+        "2121038249934393660"
+      ],
+      "id": "2121038249934393660",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120791693557444903",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 办公Agent主动接对手模型这步挺狠的，等于把选择权交回给用户了。DeepSeek V4.1 Flash降价那段我也注意到了，最近几个模型轮着降价，感觉是真打起来了。你平时主力用哪个？Kimi K3.1 Pro那条线的长文本我还没细测。",
+      "url": "https://x.com/lwkfFiki9496664/status/2121038249934393660"
+    },
+    {
+      "author_id": "1063952342666498048",
+      "created_at": "2026-11-12T17:36:41.000Z",
+      "edit_history_tweet_ids": [
+        "2120933814780526728"
+      ],
+      "id": "2120933814780526728",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120791693557444903",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 有这么复杂么，豆包办公本来想靠抖音流量大强推自己家大模型搞垄断，现实是用户不是傻子，你豆包想垄断要有垄断的实力，没那实力谁用你那破办公，。腾讯这点就有自知之明。",
+      "url": "https://x.com/Sqingshu/status/2120933814780526728"
+    },
+    {
+      "author_id": "1654855441745338373",
+      "created_at": "2026-11-12T15:12:48.000Z",
+      "edit_history_tweet_ids": [
+        "2120897606843080854"
+      ],
+      "id": "2120897606843080854",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 25,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120791693557444903",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 所以豆包工作和 Workbody 选一个的话，你们会选哪个？",
+      "url": "https://x.com/Openbear23/status/2120897606843080854"
+    },
+    {
+      "author_id": "1254217568165888000",
+      "created_at": "2026-11-12T13:46:25.000Z",
+      "edit_history_tweet_ids": [
+        "2120875867794493932"
+      ],
+      "id": "2120875867794493932",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120844426851545361",
+          "type": "quoted"
+        },
+        {
+          "id": "2120791693557444903",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 新用户下电脑版还能领30天\nhttps://t.co/YnVeD8kBIV",
+      "url": "https://x.com/zomeha38/status/2120875867794493932"
+    },
+    {
+      "author_id": "3123084528",
+      "created_at": "2026-11-12T13:32:52.000Z",
+      "edit_history_tweet_ids": [
+        "2120872459381702768"
+      ],
+      "id": "2120872459381702768",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120867691531776051",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 五块多搞定原型可以随便试了",
+      "url": "https://x.com/KalinJunYAI/status/2120872459381702768"
+    },
+    {
+      "author_id": "1974653328274714624",
+      "created_at": "2026-11-12T13:13:56.000Z",
+      "edit_history_tweet_ids": [
+        "2120867691531776051"
+      ],
+      "id": "2120867691531776051",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 697,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120865290703552993",
+          "type": "quoted"
+        },
+        {
+          "id": "2120791693557444903",
+          "type": "replied_to"
+        }
+      ],
+      "text": "https://t.co/51Rbfzf0dh",
+      "url": "https://x.com/AYi_AInotes/status/2120867691531776051"
+    },
+    {
+      "author_id": "2074162920788033536",
+      "created_at": "2026-11-12T12:42:48.000Z",
+      "edit_history_tweet_ids": [
+        "2120859858585239650"
+      ],
+      "id": "2120859858585239650",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 21,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120791693557444903",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 豆包这操作够反直觉的，接入对手模型可还行",
+      "url": "https://x.com/ren3634421/status/2120859858585239650"
+    },
+    {
+      "author_id": "2036998795729526787",
+      "created_at": "2026-11-12T12:23:48.000Z",
+      "edit_history_tweet_ids": [
+        "2120855074515898703"
+      ],
+      "id": "2120855074515898703",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120791693557444903",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 选模型这件事迟早会被 Agent 收走，豆包先把对手接进来，抢的就是那个替用户选模型的权力。",
+      "url": "https://x.com/Jason8640741231/status/2120855074515898703"
+    },
+    {
+      "author_id": "1406527581864697861",
+      "created_at": "2026-11-12T12:21:15.000Z",
+      "edit_history_tweet_ids": [
+        "2120854436495192556"
+      ],
+      "id": "2120854436495192556",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120791693557444903",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 這招真的很聰明，與其比誰的模型更強，不如比誰的工作流更順。Kimi 和 DeepSeek 都能直接在同一個地方調用，感覺以後選模型的重點會變成看任務，而不是看平台了。",
+      "url": "https://x.com/BitRichesss/status/2120854436495192556"
+    },
+    {
+      "author_id": "1891833767519715329",
+      "created_at": "2026-11-12T11:56:17.000Z",
+      "edit_history_tweet_ids": [
+        "2120848153385869817"
+      ],
+      "id": "2120848153385869817",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 30,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120791693557444903",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 不搞全家桶闭环，直接开放第三方模型接入，把选择权交回给用户。这步棋走得聪明，生态做大了才是真赢家。",
+      "url": "https://x.com/YunTechX/status/2120848153385869817"
+    },
+    {
+      "author_id": "2110372372977225729",
+      "created_at": "2026-11-12T11:48:57.000Z",
+      "edit_history_tweet_ids": [
+        "2120846307837489324"
+      ],
+      "id": "2120846307837489324",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120791693557444903",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 把多家模型接到同一个工作台，本质是在买「可切换性」。短期靠权益拉新很直接，但用户一旦适应多模型对比，留存取决于三件事：上下文能不能跨模型继承、计费是否透明可比、出错时有没有回退默认。能把这三点做成默认体验的，才真正吃到统一入口的红利。",
+      "url": "https://x.com/Johnsjwj5/status/2120846307837489324"
+    },
+    {
+      "author_id": "1635251496353775619",
+      "created_at": "2026-11-12T11:07:29.000Z",
+      "edit_history_tweet_ids": [
+        "2120835870278512689"
+      ],
+      "id": "2120835870278512689",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 17,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120791693557444903",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes Would be better if you open the access to other users like your fans from the Philippines so we can comment on its alleged 'usefulness'.... Otherwise, what are you guys here in X for?",
+      "url": "https://x.com/heisredminded/status/2120835870278512689"
+    },
+    {
+      "author_id": "1826110636675444737",
+      "created_at": "2026-11-12T10:50:40.000Z",
+      "edit_history_tweet_ids": [
+        "2120831640679428365"
+      ],
+      "id": "2120831640679428365",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 48,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120791693557444903",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes \"真正值钱的是工位，不是后厨的炉子\"，这个比喻很准。模型越来越像水电煤，入口和流程才是稀缺的。至于选模型会不会被 Agent 收走，我现在还是习惯自己按任务分，暂时不太放心全交给自动切。",
+      "url": "https://x.com/wukaka00960986/status/2120831640679428365"
+    },
+    {
+      "author_id": "2110372372977225729",
+      "created_at": "2026-11-12T10:22:34.000Z",
+      "edit_history_tweet_ids": [
+        "2120824566302040240"
+      ],
+      "id": "2120824566302040240",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120791693557444903",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 「工位和工作流比后厨值钱」判断到位。字节接进来恰恰说明模型走向基础设施化，差异化会往调度、记忆、权限和计费这些看不见的地方跑。Kimi/智谱/DeepSeek 短期拿到了超级分发，但被封装成可调用的标准能力后，议价权会加速向调度层集中。谁先把 Agent 层的默认路径占住，谁就吃到最大的复利。",
+      "url": "https://x.com/Johnsjwj5/status/2120824566302040240"
+    },
+    {
+      "author_id": "2114733813662142464",
+      "created_at": "2026-11-12T10:10:46.000Z",
+      "edit_history_tweet_ids": [
+        "2120821598852878421"
+      ],
+      "id": "2120821598852878421",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 18,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120791693557444903",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 菜单里挤满对手",
+      "url": "https://x.com/maiai_fun/status/2120821598852878421"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1974653328274714624",
+        "created_at": "2026-11-12T08:11:56.000Z",
+        "edit_history_tweet_ids": [
+          "2120791693557444903"
+        ],
+        "id": "2120791693557444903",
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 11241,
+          "like_count": 83,
+          "quote_count": 16,
+          "reply_count": 49,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120720527513829732",
+            "type": "quoted"
+          }
+        ],
+        "text": "太反直觉了，字节自家的办公 Agent 豆包工作，居然主动把几大对手的模型全接过来了。\n今天正式接入了 Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash 等多款第三方模型，目前新用户登录电脑版，直接送 30 天订阅权益。\n而且官方还搞了波限时优惠，把 DeepSeek V4.1 Flash 和自家豆包 2.1 Lite https://t.co/mPOD5CW0ap https://t.co/bf8NruoGLg"
+      },
+      {
+        "author_id": "1254217568165888000",
+        "created_at": "2026-11-12T11:41:29.000Z",
+        "edit_history_tweet_ids": [
+          "2120844426851545361"
+        ],
+        "id": "2120844426851545361",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "豆包工作今天把 Kimi、GLM 和 DeepSeek 都接进来了，新用户下电脑版还能白领 30 天订阅。\n\nDeepSeek V4.1 Flash 和豆包 2.1 Lite 现在限时按 0.01 倍扣额度，翻译改稿这种杂活基本不花钱，自动模式的小活本来就免费。\n\n坑是 0.01 倍写着限时，官方没说啥时候结束，重活别全压上去 https://t.co/f6gy20WNrx"
+      },
+      {
+        "author_id": "1974653328274714624",
+        "created_at": "2026-11-12T13:13:56.000Z",
+        "edit_history_tweet_ids": [
+          "2120867691531776051"
+        ],
+        "id": "2120867691531776051",
+        "in_reply_to_user_id": "1974653328274714624",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 697,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120865290703552993",
+            "type": "quoted"
+          },
+          {
+            "id": "2120791693557444903",
+            "type": "replied_to"
+          }
+        ],
+        "text": "https://t.co/51Rbfzf0dh"
+      },
+      {
+        "article": {
+          "title": "网页小游戏有人赚了 $25,000+！我只花 $5.77 做出 3D 猫咪拆家，整套提示词 + 工作流全部开源！"
+        },
+        "author_id": "1974653328274714624",
+        "created_at": "2026-11-12T13:04:23.000Z",
+        "edit_history_tweet_ids": [
+          "2120865290703552993"
+        ],
+        "id": "2120865290703552993",
+        "public_metrics": {
+          "bookmark_count": 260,
+          "impression_count": 65880,
+          "like_count": 169,
+          "quote_count": 23,
+          "reply_count": 39,
+          "retweet_count": 15
+        },
+        "text": "https://t.co/ec77qpRS9L"
+      }
+    ],
+    "users": [
+      {
+        "id": "1853094686661226496",
+        "name": "高原小顽童",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105618394238296065/6J9Y6MQb_normal.jpg",
+        "username": "lwkfFiki9496664",
+        "verified": false
+      },
+      {
+        "id": "1063952342666498048",
+        "name": "宋青书",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "username": "Sqingshu",
+        "verified": false
+      },
+      {
+        "id": "1654855441745338373",
+        "name": "杨傲雄｜开挂的熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082658240995966977/9IxAQev8_normal.jpg",
+        "username": "Openbear23",
+        "verified": false
+      },
+      {
+        "id": "1254217568165888000",
+        "name": "打螺丝的Dave",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097562123257987072/NuaChaRL_normal.jpg",
+        "username": "zomeha38",
+        "verified": false
+      },
+      {
+        "id": "3123084528",
+        "name": "Kalin | AI builds & gotchas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093660551486517248/uglSLEXN_normal.jpg",
+        "username": "KalinJunYAI",
+        "verified": false
+      },
+      {
+        "id": "1974653328274714624",
+        "name": "AYi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989157446829350912/pW828UwK_normal.jpg",
+        "username": "AYi_AInotes",
+        "verified": false
+      },
+      {
+        "id": "2074162920788033536",
+        "name": "Zen R",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104169033939689472/kN5WxOH0_normal.jpg",
+        "username": "ren3634421",
+        "verified": false
+      },
+      {
+        "id": "2036998795729526787",
+        "name": "Jason AI资讯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110068844421378049/Jru-PwF-_normal.jpg",
+        "username": "Jason8640741231",
+        "verified": false
+      },
+      {
+        "id": "1406527581864697861",
+        "name": "Bit-Riches｜Bitfinex AI Lending Bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100038852702621696/CyHhoBRY_normal.jpg",
+        "username": "BitRichesss",
+        "verified": false
+      },
+      {
+        "id": "1891833767519715329",
+        "name": "Hale",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107541702642892800/0eXG85ad_normal.jpg",
+        "username": "YunTechX",
+        "verified": false
+      },
+      {
+        "id": "2110372372977225729",
+        "name": "探索者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115471611373731840/WEIm1NEm_normal.jpg",
+        "username": "Johnsjwj5",
+        "verified": false
+      },
+      {
+        "id": "1635251496353775619",
+        "name": "Red Emano",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023845665802252289/wnuHt5T8_normal.jpg",
+        "username": "heisredminded",
+        "verified": false
+      },
+      {
+        "id": "1826110636675444737",
+        "name": "小桃来袭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119083265093156864/pUBiF5X-_normal.jpg",
+        "username": "wukaka00960986",
+        "verified": false
+      },
+      {
+        "id": "2114733813662142464",
+        "name": "格 Boss",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2114735124520574976/aQNuMq3-_normal.jpg",
+        "username": "maiai_fun",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121038249934393660",
+    "next_token": "b26v89c19zqg8o3juzovcevryl2ycy84bedbvscgzbhj1",
+    "oldest_id": "2120821598852878421",
+    "result_count": 15
+  }
+}

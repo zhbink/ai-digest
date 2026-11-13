@@ -1,0 +1,1052 @@
+{
+  "data": [
+    {
+      "author_id": "1348389205840453635",
+      "conversation_id": "2120984671269826873",
+      "created_at": "2026-11-13T00:07:00.000Z",
+      "edit_history_tweet_ids": [
+        "2121032044692254851"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1966599631900438528",
+            "start": 0,
+            "username": "Argona0x"
+          }
+        ]
+      },
+      "id": "2121032044692254851",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121030316177654221",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Argona0x Ah, got it - I should've aimed that at the demo's creators. Thanks for sharing it!",
+      "url": "https://x.com/jul1anodev/status/2121032044692254851"
+    },
+    {
+      "author_id": "1966599631900438528",
+      "conversation_id": "2120984671269826873",
+      "created_at": "2026-11-13T00:00:08.000Z",
+      "edit_history_tweet_ids": [
+        "2121030316177654221"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1348389205840453635",
+            "start": 0,
+            "username": "jul1anodev"
+          }
+        ]
+      },
+      "id": "2121030316177654221",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 44,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121020599481008540",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@jul1anodev that's simular's footage so the zoom is their call",
+      "url": "https://x.com/Argona0x/status/2121030316177654221"
+    },
+    {
+      "author_id": "1348389205840453635",
+      "conversation_id": "2120984671269826873",
+      "created_at": "2026-11-12T23:21:32.000Z",
+      "edit_history_tweet_ids": [
+        "2121020599481008540"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1966599631900438528",
+            "start": 0,
+            "username": "Argona0x"
+          }
+        ]
+      },
+      "id": "2121020599481008540",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 19,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120984671269826873",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Argona0x The leg labels make the handoff easy to follow. Could you zoom into one cafe row before and after Codex checks the hours? That would make its contribution easier to see on a phone.",
+      "url": "https://x.com/jul1anodev/status/2121020599481008540"
+    },
+    {
+      "author_id": "1929118394625740800",
+      "conversation_id": "2120984671269826873",
+      "created_at": "2026-11-12T22:13:46.000Z",
+      "edit_history_tweet_ids": [
+        "2121003546069844223"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1966599631900438528",
+            "start": 0,
+            "username": "Argona0x"
+          },
+          {
+            "end": 20,
+            "id": "1491478290091024389",
+            "start": 10,
+            "username": "SimularAI"
+          }
+        ]
+      },
+      "id": "2121003546069844223",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120984671269826873",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Argona0x @SimularAI the shared sheet doing the handoff is the smart part. agents passing a file to each other beats agents passing chat.",
+      "url": "https://x.com/MarkZofMarkZ/status/2121003546069844223"
+    },
+    {
+      "author_id": "1966599631900438528",
+      "conversation_id": "2120984671269826873",
+      "created_at": "2026-11-12T22:12:42.000Z",
+      "edit_history_tweet_ids": [
+        "2121003280192983226"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "26735842",
+            "start": 0,
+            "username": "vexor4i"
+          },
+          {
+            "end": 19,
+            "id": "1491478290091024389",
+            "start": 9,
+            "username": "SimularAI"
+          }
+        ]
+      },
+      "id": "2121003280192983226",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 30,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120985157087990080",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vexor4i @SimularAI you play doorman from web mac or iphone then hand it back",
+      "url": "https://x.com/Argona0x/status/2121003280192983226"
+    },
+    {
+      "author_id": "1966599631900438528",
+      "conversation_id": "2120984671269826873",
+      "created_at": "2026-11-12T22:03:18.000Z",
+      "edit_history_tweet_ids": [
+        "2121000912365777138"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1593536473428623361",
+            "start": 0,
+            "username": "rewind02"
+          },
+          {
+            "end": 20,
+            "id": "1491478290091024389",
+            "start": 10,
+            "username": "SimularAI"
+          }
+        ]
+      },
+      "id": "2121000912365777138",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 37,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120985784815661110",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rewind02 @SimularAI cheers rewind fr",
+      "url": "https://x.com/Argona0x/status/2121000912365777138"
+    },
+    {
+      "author_id": "1966599631900438528",
+      "conversation_id": "2120984671269826873",
+      "created_at": "2026-11-12T21:53:52.000Z",
+      "edit_history_tweet_ids": [
+        "2120998539023266060"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "923794636354785280",
+            "start": 0,
+            "username": "dexorynlabs"
+          },
+          {
+            "end": 23,
+            "id": "1491478290091024389",
+            "start": 13,
+            "username": "SimularAI"
+          }
+        ]
+      },
+      "id": "2120998539023266060",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 24,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120986651036152003",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dexorynlabs @SimularAI spot on bro",
+      "url": "https://x.com/Argona0x/status/2120998539023266060"
+    },
+    {
+      "author_id": "1966599631900438528",
+      "conversation_id": "2120984671269826873",
+      "created_at": "2026-11-12T21:48:35.000Z",
+      "edit_history_tweet_ids": [
+        "2120997210863366477"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "495379492",
+            "start": 0,
+            "username": "serenapulcini"
+          },
+          {
+            "end": 25,
+            "id": "1491478290091024389",
+            "start": 15,
+            "username": "SimularAI"
+          }
+        ]
+      },
+      "id": "2120997210863366477",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 20,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120987723448062293",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@serenapulcini @SimularAI guess agents gotta learn to share too",
+      "url": "https://x.com/Argona0x/status/2120997210863366477"
+    },
+    {
+      "author_id": "2063285148519710720",
+      "conversation_id": "2120984671269826873",
+      "created_at": "2026-11-12T21:38:31.000Z",
+      "edit_history_tweet_ids": [
+        "2120994675142356992"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1966599631900438528",
+            "start": 0,
+            "username": "Argona0x"
+          },
+          {
+            "end": 20,
+            "id": "1491478290091024389",
+            "start": 10,
+            "username": "SimularAI"
+          }
+        ]
+      },
+      "id": "2120994675142356992",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120984671269826873",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Argona0x @SimularAI Three AI agents sharing one computer is the first group project where nobody steals the credit. 😂",
+      "url": "https://x.com/shiparena/status/2120994675142356992"
+    },
+    {
+      "author_id": "1966599631900438528",
+      "conversation_id": "2120984671269826873",
+      "created_at": "2026-11-12T21:36:18.000Z",
+      "edit_history_tweet_ids": [
+        "2120994117312455162"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1569989545575284738",
+            "start": 0,
+            "username": "noisyb0y1"
+          },
+          {
+            "end": 21,
+            "id": "1491478290091024389",
+            "start": 11,
+            "username": "SimularAI"
+          }
+        ]
+      },
+      "id": "2120994117312455162",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 39,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120991169194893605",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@noisyb0y1 @SimularAI new roommate incoming",
+      "url": "https://x.com/Argona0x/status/2120994117312455162"
+    },
+    {
+      "author_id": "1569989545575284738",
+      "conversation_id": "2120984671269826873",
+      "created_at": "2026-11-12T21:24:35.000Z",
+      "edit_history_tweet_ids": [
+        "2120991169194893605"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1966599631900438528",
+            "start": 0,
+            "username": "Argona0x"
+          },
+          {
+            "end": 20,
+            "id": "1491478290091024389",
+            "start": 10,
+            "username": "SimularAI"
+          }
+        ]
+      },
+      "id": "2120991169194893605",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 58,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120984671269826873",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Argona0x @SimularAI woah this is something really sick and new\n\nthanks for sharing, i'll connect this to fable 5.2 and try it",
+      "url": "https://x.com/noisyb0y1/status/2120991169194893605"
+    },
+    {
+      "author_id": "1966599631900438528",
+      "conversation_id": "2120984671269826873",
+      "created_at": "2026-11-12T21:23:02.000Z",
+      "edit_history_tweet_ids": [
+        "2120990780701765723"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1616768355255336963",
+            "start": 0,
+            "username": "starmexxx"
+          },
+          {
+            "end": 21,
+            "id": "1491478290091024389",
+            "start": 11,
+            "username": "SimularAI"
+          }
+        ]
+      },
+      "id": "2120990780701765723",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 29,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120989445235028402",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@starmexxx @SimularAI honestly starmex agents handing off work is underrated",
+      "url": "https://x.com/Argona0x/status/2120990780701765723"
+    },
+    {
+      "author_id": "1616768355255336963",
+      "conversation_id": "2120984671269826873",
+      "created_at": "2026-11-12T21:17:44.000Z",
+      "edit_history_tweet_ids": [
+        "2120989445235028402"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1966599631900438528",
+            "start": 0,
+            "username": "Argona0x"
+          },
+          {
+            "end": 20,
+            "id": "1491478290091024389",
+            "start": 10,
+            "username": "SimularAI"
+          }
+        ]
+      },
+      "id": "2120989445235028402",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 37,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120984671269826873",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Argona0x @SimularAI bookmark. shared computers could be a much bigger unlock than better models",
+      "url": "https://x.com/starmexxx/status/2120989445235028402"
+    },
+    {
+      "author_id": "495379492",
+      "conversation_id": "2120984671269826873",
+      "created_at": "2026-11-12T21:10:53.000Z",
+      "edit_history_tweet_ids": [
+        "2120987723448062293"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1966599631900438528",
+            "start": 0,
+            "username": "Argona0x"
+          },
+          {
+            "end": 20,
+            "id": "1491478290091024389",
+            "start": 10,
+            "username": "SimularAI"
+          }
+        ]
+      },
+      "id": "2120987723448062293",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 15,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120984671269826873",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Argona0x @SimularAI Sharing resources like this gets tricky fast with permission conflicts.",
+      "url": "https://x.com/serenapulcini/status/2120987723448062293"
+    },
+    {
+      "author_id": "923794636354785280",
+      "conversation_id": "2120984671269826873",
+      "created_at": "2026-11-12T21:06:38.000Z",
+      "edit_history_tweet_ids": [
+        "2120986651036152003"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1966599631900438528",
+            "start": 0,
+            "username": "Argona0x"
+          },
+          {
+            "end": 20,
+            "id": "1491478290091024389",
+            "start": 10,
+            "username": "SimularAI"
+          }
+        ]
+      },
+      "id": "2120986651036152003",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 13,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120984671269826873",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Argona0x @SimularAI Multi-agent computer sharing is brilliant, and custom automation infrastructure makes multi-system workflows scale effortlessly.",
+      "url": "https://x.com/dexorynlabs/status/2120986651036152003"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1966599631900438528",
+        "conversation_id": "2120984671269826873",
+        "created_at": "2026-11-13T00:00:08.000Z",
+        "edit_history_tweet_ids": [
+          "2121030316177654221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1348389205840453635",
+              "start": 0,
+              "username": "jul1anodev"
+            }
+          ]
+        },
+        "id": "2121030316177654221",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121020599481008540",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@jul1anodev that's simular's footage so the zoom is their call"
+      },
+      {
+        "author_id": "1348389205840453635",
+        "conversation_id": "2120984671269826873",
+        "created_at": "2026-11-12T23:21:32.000Z",
+        "edit_history_tweet_ids": [
+          "2121020599481008540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1966599631900438528",
+              "start": 0,
+              "username": "Argona0x"
+            }
+          ]
+        },
+        "id": "2121020599481008540",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120984671269826873",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Argona0x The leg labels make the handoff easy to follow. Could you zoom into one cafe row before and after Codex checks the hours? That would make its contribution easier to see on a phone."
+      },
+      {
+        "author_id": "1966599631900438528",
+        "conversation_id": "2120984671269826873",
+        "created_at": "2026-11-12T20:58:46.000Z",
+        "edit_history_tweet_ids": [
+          "2120984671269826873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "1491478290091024389",
+              "start": 26,
+              "username": "SimularAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nDQTxL9WPg",
+              "end": 300,
+              "expanded_url": "https://x.com/Argona0x/status/2120984671269826873/video/1",
+              "media_key": "13_2120984624469843968",
+              "start": 277,
+              "url": "https://t.co/nDQTxL9WPg"
+            },
+            {
+              "display_url": "x.com/SimularAI/stat…",
+              "end": 324,
+              "expanded_url": "https://twitter.com/SimularAI/status/2120904821373096408",
+              "start": 301,
+              "url": "https://t.co/H74Ve7xTuC"
+            }
+          ]
+        },
+        "id": "2120984671269826873",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 1189,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120904821373096408",
+            "type": "quoted"
+          }
+        ],
+        "text": "3 AI AGENTS. 1 COMPUTER.\n\n@SimularAI just launched box: a cloud computer your AI agents can share.\n\nwatch what happens in the video:\n\n→ Claude Code opens the browser and collects the cafés\n→ Codex picks up the same sheet and checks which ones are open late\n→ DeepSeek takes it https://t.co/nDQTxL9WPg https://t.co/H74Ve7xTuC"
+      },
+      {
+        "author_id": "26735842",
+        "conversation_id": "2120984671269826873",
+        "created_at": "2026-11-12T21:00:42.000Z",
+        "edit_history_tweet_ids": [
+          "2120985157087990080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1966599631900438528",
+              "start": 0,
+              "username": "Argona0x"
+            },
+            {
+              "end": 20,
+              "id": "1491478290091024389",
+              "start": 10,
+              "username": "SimularAI"
+            }
+          ]
+        },
+        "id": "2120985157087990080",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120984671269826873",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Argona0x @SimularAI how does it handle the hand off when you step in for 2fa"
+      },
+      {
+        "author_id": "1593536473428623361",
+        "conversation_id": "2120984671269826873",
+        "created_at": "2026-11-12T21:03:11.000Z",
+        "edit_history_tweet_ids": [
+          "2120985784815661110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1966599631900438528",
+              "start": 0,
+              "username": "Argona0x"
+            },
+            {
+              "end": 20,
+              "id": "1491478290091024389",
+              "start": 10,
+              "username": "SimularAI"
+            }
+          ]
+        },
+        "id": "2120985784815661110",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120984671269826873",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Argona0x @SimularAI clever setup bro"
+      },
+      {
+        "author_id": "923794636354785280",
+        "conversation_id": "2120984671269826873",
+        "created_at": "2026-11-12T21:06:38.000Z",
+        "edit_history_tweet_ids": [
+          "2120986651036152003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1966599631900438528",
+              "start": 0,
+              "username": "Argona0x"
+            },
+            {
+              "end": 20,
+              "id": "1491478290091024389",
+              "start": 10,
+              "username": "SimularAI"
+            }
+          ]
+        },
+        "id": "2120986651036152003",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120984671269826873",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Argona0x @SimularAI Multi-agent computer sharing is brilliant, and custom automation infrastructure makes multi-system workflows scale effortlessly."
+      },
+      {
+        "author_id": "495379492",
+        "conversation_id": "2120984671269826873",
+        "created_at": "2026-11-12T21:10:53.000Z",
+        "edit_history_tweet_ids": [
+          "2120987723448062293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1966599631900438528",
+              "start": 0,
+              "username": "Argona0x"
+            },
+            {
+              "end": 20,
+              "id": "1491478290091024389",
+              "start": 10,
+              "username": "SimularAI"
+            }
+          ]
+        },
+        "id": "2120987723448062293",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120984671269826873",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Argona0x @SimularAI Sharing resources like this gets tricky fast with permission conflicts."
+      },
+      {
+        "author_id": "1569989545575284738",
+        "conversation_id": "2120984671269826873",
+        "created_at": "2026-11-12T21:24:35.000Z",
+        "edit_history_tweet_ids": [
+          "2120991169194893605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1966599631900438528",
+              "start": 0,
+              "username": "Argona0x"
+            },
+            {
+              "end": 20,
+              "id": "1491478290091024389",
+              "start": 10,
+              "username": "SimularAI"
+            }
+          ]
+        },
+        "id": "2120991169194893605",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120984671269826873",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Argona0x @SimularAI woah this is something really sick and new\n\nthanks for sharing, i'll connect this to fable 5.2 and try it"
+      },
+      {
+        "author_id": "1616768355255336963",
+        "conversation_id": "2120984671269826873",
+        "created_at": "2026-11-12T21:17:44.000Z",
+        "edit_history_tweet_ids": [
+          "2120989445235028402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1966599631900438528",
+              "start": 0,
+              "username": "Argona0x"
+            },
+            {
+              "end": 20,
+              "id": "1491478290091024389",
+              "start": 10,
+              "username": "SimularAI"
+            }
+          ]
+        },
+        "id": "2120989445235028402",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120984671269826873",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Argona0x @SimularAI bookmark. shared computers could be a much bigger unlock than better models"
+      }
+    ],
+    "users": [
+      {
+        "id": "1348389205840453635",
+        "name": "Juliano | Building easi.run",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076959216313475072/FH6I1qzO_normal.jpg",
+        "username": "jul1anodev",
+        "verified": false
+      },
+      {
+        "id": "1966599631900438528",
+        "name": "Argona",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074194587824889856/HEijowP__normal.jpg",
+        "username": "Argona0x",
+        "verified": false
+      },
+      {
+        "id": "1929118394625740800",
+        "name": "Mark Z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929119213639094272/JnQ2H5EX_normal.jpg",
+        "username": "MarkZofMarkZ",
+        "verified": false
+      },
+      {
+        "id": "2063285148519710720",
+        "name": "Arena",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097369883646545920/Z92AF0iV_normal.jpg",
+        "username": "shiparena",
+        "verified": false
+      },
+      {
+        "id": "1569989545575284738",
+        "name": "Noisy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026302540434767872/rtRKmitd_normal.jpg",
+        "username": "noisyb0y1",
+        "verified": false
+      },
+      {
+        "id": "1616768355255336963",
+        "name": "starmex",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043953478955843584/RUNx2CWA_normal.jpg",
+        "username": "starmexxx",
+        "verified": false
+      },
+      {
+        "id": "495379492",
+        "name": "Serena Pulcini",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115240818915082240/Hbfpoflc_normal.jpg",
+        "username": "serenapulcini",
+        "verified": false
+      },
+      {
+        "id": "923794636354785280",
+        "name": "DexorynLabs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094448719974326272/dDkedEOr_normal.jpg",
+        "username": "dexorynlabs",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121032044692254851",
+    "next_token": "b26v89c19zqg8o3juzovch2b22m4wahl6l6e4wrppf4ot",
+    "oldest_id": "2120986651036152003",
+    "result_count": 15
+  }
+}

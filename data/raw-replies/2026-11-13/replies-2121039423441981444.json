@@ -1,0 +1,513 @@
+{
+  "data": [
+    {
+      "author_id": "2108094199459721217",
+      "created_at": "2026-11-13T00:57:05.000Z",
+      "edit_history_tweet_ids": [
+        "2121044644951978186"
+      ],
+      "id": "2121044644951978186",
+      "in_reply_to_user_id": "12497",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121039423441981444",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@simonw When the model names sound like the periodic table, the billing department usually had way too much fun.",
+      "url": "https://x.com/Elishen01/status/2121044644951978186"
+    },
+    {
+      "author_id": "1981279476802592768",
+      "created_at": "2026-11-13T00:56:33.000Z",
+      "edit_history_tweet_ids": [
+        "2121044513372447029"
+      ],
+      "id": "2121044513372447029",
+      "in_reply_to_user_id": "12497",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121039423441981444",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@simonw the dec 1 step-change makes dated price snapshots essential in evals; otherwise teams will compare today’s bill to a future rate with stale assumptions. report cost per successful task, not just per-token discounts.",
+      "url": "https://x.com/monstarxco/status/2121044513372447029"
+    },
+    {
+      "author_id": "271005746",
+      "created_at": "2026-11-13T00:56:32.000Z",
+      "edit_history_tweet_ids": [
+        "2121044507785638189"
+      ],
+      "id": "2121044507785638189",
+      "in_reply_to_user_id": "12497",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121039423441981444",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@simonw The 25% is the decoy. After Dec 1 Hydrogen is 0.75x against 2x for the incumbents, a 2.7x gap, and anyone with prompts tuned to Argon has to re-run evals, usually weeks of work, to move. Worse pelicans is the regression you pay to find. The deadline does the selling.",
+      "url": "https://x.com/thomasjankowski/status/2121044507785638189"
+    },
+    {
+      "author_id": "2156053485",
+      "created_at": "2026-11-13T00:53:08.000Z",
+      "edit_history_tweet_ids": [
+        "2121043652835254602"
+      ],
+      "id": "2121043652835254602",
+      "in_reply_to_user_id": "12497",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121039423441981444",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@simonw the per-token table barely tells me anything anymore. Argon is the same price as Carbon but supposedly uses fewer tokens per turn, so the real price is hidden. I just want cost per finished task on the pricing page",
+      "url": "https://x.com/vip_besic2000/status/2121043652835254602"
+    },
+    {
+      "author_id": "2089036189894631424",
+      "created_at": "2026-11-13T00:52:52.000Z",
+      "edit_history_tweet_ids": [
+        "2121043583319072890"
+      ],
+      "id": "2121043583319072890",
+      "in_reply_to_user_id": "12497",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121039423441981444",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@simonw Going by the table, the Dec 1 gap is 62.5%, not 75%: Hydrogen's $1.50 in and $7.50 out are 37.5% of Carbon's new $4 and $20.",
+      "url": "https://x.com/hertazeta/status/2121043583319072890"
+    },
+    {
+      "author_id": "2711980076",
+      "created_at": "2026-11-13T00:52:23.000Z",
+      "edit_history_tweet_ids": [
+        "2121043464486006835"
+      ],
+      "id": "2121043464486006835",
+      "in_reply_to_user_id": "12497",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121039423441981444",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@simonw pelican quality is the only benchmark that matters anyway",
+      "url": "https://x.com/ZeroMazed/status/2121043464486006835"
+    },
+    {
+      "author_id": "1721261868671447041",
+      "created_at": "2026-11-13T00:51:20.000Z",
+      "edit_history_tweet_ids": [
+        "2121043199007547625"
+      ],
+      "id": "2121043199007547625",
+      "in_reply_to_user_id": "12497",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121039423441981444",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@simonw small one from the post: $1.50 against $4.00 after dec 1 is 62.5% off, not 75%.",
+      "url": "https://x.com/JacobDev15/status/2121043199007547625"
+    },
+    {
+      "author_id": "2114869550118297601",
+      "created_at": "2026-11-13T00:50:45.000Z",
+      "edit_history_tweet_ids": [
+        "2121043053259456782"
+      ],
+      "id": "2121043053259456782",
+      "in_reply_to_user_id": "12497",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121039423441981444",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@simonw Pricing like this is why I keep the repetitive stuff on a local model. If Carbon doubles Dec 1 the math on what's worth automating changes overnight, the 3080 just costs me power either way. Pelicans don't lie though",
+      "url": "https://x.com/AndrewRoseIT/status/2121043053259456782"
+    },
+    {
+      "author_id": "1747912101409030144",
+      "created_at": "2026-11-13T00:49:42.000Z",
+      "edit_history_tweet_ids": [
+        "2121042789588926768"
+      ],
+      "id": "2121042789588926768",
+      "in_reply_to_user_id": "12497",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121039423441981444",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@simonw 19 seconds vs 4m11s on high. For agent loops that speed gap matters more than pelican quality.",
+      "url": "https://x.com/ai_plainly/status/2121042789588926768"
+    },
+    {
+      "author_id": "2081555588547502080",
+      "created_at": "2026-11-13T00:49:24.000Z",
+      "edit_history_tweet_ids": [
+        "2121042711621026285"
+      ],
+      "id": "2121042711621026285",
+      "in_reply_to_user_id": "12497",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121039423441981444",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@simonw Your own grid cuts the other way: Hydrogen's high-effort pelican took 19s and 3.99¢ vs Carbon's 4m 11s and 20.31¢. After Dec 1 Hydrogen is $1.50 vs $4.00 input — is the question still quality, or whether 5x faster/cheaper is worth a plainer bird?",
+      "url": "https://x.com/TMZXIH/status/2121042711621026285"
+    },
+    {
+      "author_id": "21387270",
+      "created_at": "2026-11-13T00:49:15.000Z",
+      "edit_history_tweet_ids": [
+        "2121042676409884799"
+      ],
+      "id": "2121042676409884799",
+      "in_reply_to_user_id": "12497",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121039423441981444",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@simonw The Dec 1 jump is the part that bites anyone running this in production: a workflow pinned to Carbon doubles its cost line with zero code change. The useful number per tier isn't the token price, it's which steps survive a downgrade to Hydrogen without the eval score moving.",
+      "url": "https://x.com/smperng/status/2121042676409884799"
+    },
+    {
+      "author_id": "1588935512135720961",
+      "created_at": "2026-11-13T00:48:46.000Z",
+      "edit_history_tweet_ids": [
+        "2121042555387462019"
+      ],
+      "id": "2121042555387462019",
+      "in_reply_to_user_id": "12497",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121039423441981444",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@simonw what does hydrogen charge for a cache read? agent runs are mostly re-reading the same prefix, so the tier that's 25% off per token can still bill higher across a week of real work than the one with prefix caching.",
+      "url": "https://x.com/johnroodepic/status/2121042555387462019"
+    },
+    {
+      "author_id": "1187001337",
+      "created_at": "2026-11-13T00:48:38.000Z",
+      "edit_history_tweet_ids": [
+        "2121042518095589702"
+      ],
+      "id": "2121042518095589702",
+      "in_reply_to_user_id": "12497",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121039423441981444",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@simonw The real variable for running these as agents isn't pelican quality, it's whether the discount tier is cheap enough to loop for hours as a disposable worker without hitting a weekly cap. A 2x price hike on the other two in three weeks changes that math completely.",
+      "url": "https://x.com/MaximTitarenko/status/2121042518095589702"
+    },
+    {
+      "author_id": "2094552243181588480",
+      "created_at": "2026-11-13T00:47:56.000Z",
+      "edit_history_tweet_ids": [
+        "2121042342841077819"
+      ],
+      "id": "2121042342841077819",
+      "in_reply_to_user_id": "12497",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121039423441981444",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@simonw a 25% discount that turns into 62% on dec 1st, without hydrogen getting any cheaper or its pelicans any better",
+      "url": "https://x.com/AlekVectis/status/2121042342841077819"
+    },
+    {
+      "author_id": "1483051266",
+      "created_at": "2026-11-13T00:47:42.000Z",
+      "edit_history_tweet_ids": [
+        "2121042285739802877"
+      ],
+      "id": "2121042285739802877",
+      "in_reply_to_user_id": "12497",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 25,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121039423441981444",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@simonw I’m testing Hydrogen on our app before Carbon doubles, worse pelicans and all",
+      "url": "https://x.com/TheElliottSmith/status/2121042285739802877"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "12497",
+        "created_at": "2026-11-13T00:36:20.000Z",
+        "edit_history_tweet_ids": [
+          "2121039423441981444"
+        ],
+        "id": "2121039423441981444",
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3650,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 1
+        },
+        "text": "The pricing for Gemini 4 is pretty confusing - Argon and Carbon are the same token price as each other, and the new Hydrogen is only a 25% discount on that price - though Carbon/Argon will 2x in price on Dec 1st\n\nHydrogen's pelicans are notably worse\n https://t.co/XZqY5eQxcD https://t.co/miEABX7G0w"
+      }
+    ],
+    "users": [
+      {
+        "id": "2108094199459721217",
+        "name": "Eli",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108099713681833984/FajDlK-U_normal.jpg",
+        "username": "Elishen01",
+        "verified": false
+      },
+      {
+        "id": "1981279476802592768",
+        "name": "MonstarX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054011266499575808/yfMftGv9_normal.png",
+        "username": "monstarxco",
+        "verified": false
+      },
+      {
+        "id": "271005746",
+        "name": "Thomas Jankowski",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/983787530750496768/c7lYYPdL_normal.jpg",
+        "username": "thomasjankowski",
+        "verified": false
+      },
+      {
+        "id": "2156053485",
+        "name": "Ahmed Bešić",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087518359143288832/MbQR9qsD_normal.jpg",
+        "username": "vip_besic2000",
+        "verified": false
+      },
+      {
+        "id": "2089036189894631424",
+        "name": "Hertalia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119677509960912896/uv-rZy2v_normal.jpg",
+        "username": "hertazeta",
+        "verified": false
+      },
+      {
+        "id": "2711980076",
+        "name": "ZeroMazed",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047886607383150592/TCvjDeqW_normal.jpg",
+        "username": "ZeroMazed",
+        "verified": false
+      },
+      {
+        "id": "1721261868671447041",
+        "name": "Jacob",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116904649642868736/rjf4Tf8Q_normal.jpg",
+        "username": "JacobDev15",
+        "verified": false
+      },
+      {
+        "id": "2114869550118297601",
+        "name": "Andrew Rose",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2114870201091051520/vx5aLnN8_normal.jpg",
+        "username": "AndrewRoseIT",
+        "verified": false
+      },
+      {
+        "id": "1747912101409030144",
+        "name": "Artem | AI explained",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116227803972882432/RTKfgpQq_normal.jpg",
+        "username": "ai_plainly",
+        "verified": false
+      },
+      {
+        "id": "2081555588547502080",
+        "name": "INFX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120180062003900417/-P--y5W-_normal.jpg",
+        "username": "TMZXIH",
+        "verified": false
+      },
+      {
+        "id": "21387270",
+        "name": "Shyan-Ming Perng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120672851514822656/ckCiRRqR_normal.jpg",
+        "username": "smperng",
+        "verified": false
+      },
+      {
+        "id": "1588935512135720961",
+        "name": "John Rood",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107625455813861376/4nNHd8o2_normal.jpg",
+        "username": "johnroodepic",
+        "verified": false
+      },
+      {
+        "id": "1187001337",
+        "name": "Maxim Titarenko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1454564096746139654/ffkrROv2_normal.jpg",
+        "username": "MaximTitarenko",
+        "verified": false
+      },
+      {
+        "id": "2094552243181588480",
+        "name": "Alek",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094597786633129984/W18z4RKN_normal.jpg",
+        "username": "AlekVectis",
+        "verified": false
+      },
+      {
+        "id": "1483051266",
+        "name": "Elliott Michael Smith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107964697429594112/S1ksBqIe_normal.jpg",
+        "username": "TheElliottSmith",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121044644951978186",
+    "next_token": "b26v89c19zqg8o3juzovr3gibc4ib7kenxmk1yf9dqge5",
+    "oldest_id": "2121042285739802877",
+    "result_count": 15
+  }
+}

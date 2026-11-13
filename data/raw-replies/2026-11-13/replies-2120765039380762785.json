@@ -1,0 +1,410 @@
+{
+  "data": [
+    {
+      "author_id": "2042228613014007808",
+      "conversation_id": "2120765039380762785",
+      "created_at": "2026-11-12T20:36:28.000Z",
+      "edit_history_tweet_ids": [
+        "2120979060117409888"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "842535055587262465",
+            "start": 0,
+            "username": "piccionenter"
+          },
+          {
+            "end": 29,
+            "id": "1315639147248246785",
+            "start": 14,
+            "username": "GithubProjects"
+          }
+        ]
+      },
+      "id": "2120979060117409888",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120879818904670305",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@piccionenter @GithubProjects recommended 8gb ram at least. But  I am not sure about the 35B one they offer an 8B one too if I remember well",
+      "url": "https://x.com/MorelLeand78015/status/2120979060117409888"
+    },
+    {
+      "author_id": "842535055587262465",
+      "conversation_id": "2120765039380762785",
+      "created_at": "2026-11-12T14:02:07.000Z",
+      "edit_history_tweet_ids": [
+        "2120879818904670305"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1315639147248246785",
+            "start": 0,
+            "username": "GithubProjects"
+          }
+        ]
+      },
+      "id": "2120879818904670305",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 336,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120765039380762785",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GithubProjects 35B on a phone?? Which phone and how much RAM",
+      "url": "https://x.com/piccionenter/status/2120879818904670305"
+    },
+    {
+      "author_id": "1859673427524845570",
+      "conversation_id": "2120765039380762785",
+      "created_at": "2026-11-12T10:10:00.000Z",
+      "edit_history_tweet_ids": [
+        "2120821406397333986"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1315639147248246785",
+            "start": 0,
+            "username": "GithubProjects"
+          }
+        ]
+      },
+      "id": "2120821406397333986",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 522,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120765039380762785",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GithubProjects this stuff used to need a server rack, wild how fast it moved",
+      "url": "https://x.com/LightchainAI/status/2120821406397333986"
+    },
+    {
+      "author_id": "1847773141231423489",
+      "conversation_id": "2120765039380762785",
+      "created_at": "2026-11-12T10:04:46.000Z",
+      "edit_history_tweet_ids": [
+        "2120820086676373616"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "882770322",
+            "start": 0,
+            "username": "heynoxyz"
+          },
+          {
+            "end": 25,
+            "id": "1315639147248246785",
+            "start": 10,
+            "username": "GithubProjects"
+          }
+        ]
+      },
+      "id": "2120820086676373616",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 17,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120766754536435992",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@heynoxyz @GithubProjects Per the README benchmarks, peak memory was about 3 GiB: 3.05 GiB on an iPhone 17 Pro Max at 13.2 tok/s, and 2.82 GiB RSS on a 16 GB Android at about 11.5 tok/s. Experts stream from SSD, so storage is the bigger ask: the converted 35B assets are about 20 GB.",
+      "url": "https://x.com/sunsetsyntax/status/2120820086676373616"
+    },
+    {
+      "author_id": "882770322",
+      "conversation_id": "2120765039380762785",
+      "created_at": "2026-11-12T06:32:50.000Z",
+      "edit_history_tweet_ids": [
+        "2120766754536435992"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1315639147248246785",
+            "start": 0,
+            "username": "GithubProjects"
+          }
+        ]
+      },
+      "id": "2120766754536435992",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120765039380762785",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GithubProjects curious how much ram the 35b moe actually needs on a phone, the active params must be doing all the work",
+      "url": "https://x.com/heynoxyz/status/2120766754536435992"
+    },
+    {
+      "author_id": "1928150702448431104",
+      "conversation_id": "2120765039380762785",
+      "created_at": "2026-11-12T06:31:35.000Z",
+      "edit_history_tweet_ids": [
+        "2120766437555843257"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1315639147248246785",
+            "start": 0,
+            "username": "GithubProjects"
+          }
+        ]
+      },
+      "id": "2120766437555843257",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 420,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120765039380762785",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GithubProjects Power of AI in your pocket!",
+      "url": "https://x.com/LiquidEdgeNTWRK/status/2120766437555843257"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "842535055587262465",
+        "conversation_id": "2120765039380762785",
+        "created_at": "2026-11-12T14:02:07.000Z",
+        "edit_history_tweet_ids": [
+          "2120879818904670305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1315639147248246785",
+              "start": 0,
+              "username": "GithubProjects"
+            }
+          ]
+        },
+        "id": "2120879818904670305",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 336,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120765039380762785",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@GithubProjects 35B on a phone?? Which phone and how much RAM"
+      },
+      {
+        "author_id": "1315639147248246785",
+        "conversation_id": "2120765039380762785",
+        "created_at": "2026-11-12T06:26:01.000Z",
+        "edit_history_tweet_ids": [
+          "2120765039380762785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Discover edge0 on Open Source Projects",
+              "display_url": "osp.fyi/edge0",
+              "end": 96,
+              "expanded_url": "https://osp.fyi/edge0",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2120765046947201024/q0G2VpoD?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2120765046947201024/q0G2VpoD?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 73,
+              "status": 200,
+              "title": "Running 35B MoE models from SSD on consumer hardware",
+              "unwound_url": "https://osp.fyi/edge0",
+              "url": "https://t.co/s02E8KyxGv"
+            },
+            {
+              "display_url": "pic.x.com/uApMVxiBNf",
+              "end": 120,
+              "expanded_url": "https://x.com/GithubProjects/status/2120765039380762785/photo/1",
+              "media_key": "3_2120765036448886784",
+              "start": 97,
+              "url": "https://t.co/uApMVxiBNf"
+            }
+          ]
+        },
+        "id": "2120765039380762785",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 10214,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 8
+        },
+        "text": "Run open-source 35B MoE models on your laptop or phone\n\nExplore it here:\nhttps://t.co/s02E8KyxGv https://t.co/uApMVxiBNf"
+      },
+      {
+        "author_id": "882770322",
+        "conversation_id": "2120765039380762785",
+        "created_at": "2026-11-12T06:32:50.000Z",
+        "edit_history_tweet_ids": [
+          "2120766754536435992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1315639147248246785",
+              "start": 0,
+              "username": "GithubProjects"
+            }
+          ]
+        },
+        "id": "2120766754536435992",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120765039380762785",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@GithubProjects curious how much ram the 35b moe actually needs on a phone, the active params must be doing all the work"
+      }
+    ],
+    "users": [
+      {
+        "id": "2042228613014007808",
+        "name": "Lex",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042229028443070464/-B4n9f-R_normal.png",
+        "username": "MorelLeand78015",
+        "verified": false
+      },
+      {
+        "id": "842535055587262465",
+        "name": "Leo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894067924647677955/rlIGxnIH_normal.jpg",
+        "username": "piccionenter",
+        "verified": false
+      },
+      {
+        "id": "1859673427524845570",
+        "name": "Lightchain AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941235917970132992/Ky3-R94w_normal.png",
+        "username": "LightchainAI",
+        "verified": true
+      },
+      {
+        "id": "1847773141231423489",
+        "name": "SunsetSyntax",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020119742900748288/89An05eY_normal.jpg",
+        "username": "sunsetsyntax",
+        "verified": false
+      },
+      {
+        "id": "882770322",
+        "name": "Nox",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2113852600236027904/xScyO_MA_normal.jpg",
+        "username": "heynoxyz",
+        "verified": false
+      },
+      {
+        "id": "1928150702448431104",
+        "name": "Liquid Edge",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097771517501485056/GhkYr893_normal.jpg",
+        "username": "LiquidEdgeNTWRK",
+        "verified": true
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120979060117409888",
+    "next_token": "b26v89c19zqg8o3juzovccs96jijczhvz4izz8t7ojeyl",
+    "oldest_id": "2120766437555843257",
+    "result_count": 6
+  }
+}

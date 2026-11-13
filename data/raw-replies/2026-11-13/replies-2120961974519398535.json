@@ -1,0 +1,738 @@
+{
+  "data": [
+    {
+      "author_id": "1551436074387263488",
+      "conversation_id": "2120961974519398535",
+      "created_at": "2026-11-13T00:53:43.000Z",
+      "edit_history_tweet_ids": [
+        "2121043799145406954"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "3178231",
+            "start": 0,
+            "username": "dotey"
+          }
+        ]
+      },
+      "id": "2121043799145406954",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120961974519398535",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 这么说软件工程师根本就是无用了嘛，专业的技能不再被需要，需要的技能根本不在软件工程师手里，结果就是AI影响下各行各业的人都能成为文字所需的软件工程师，除了软件工程师本身",
+      "url": "https://x.com/comet277/status/2121043799145406954"
+    },
+    {
+      "author_id": "137223527",
+      "conversation_id": "2120961974519398535",
+      "created_at": "2026-11-13T00:51:22.000Z",
+      "edit_history_tweet_ids": [
+        "2121043206854852859"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "3178231",
+            "start": 0,
+            "username": "dotey"
+          }
+        ]
+      },
+      "id": "2121043206854852859",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120961974519398535",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 说到点子上了。写代码越来越像执行层，真正的差距在前面：问题定得准不准、结果验得严不严。工具越强，选错方向的代价越大。对普通工程师最现实的一步，可能是先把“定义问题+验收标准”练成习惯，再去拼技术栈。",
+      "url": "https://x.com/neo_cn/status/2121043206854852859"
+    },
+    {
+      "author_id": "1910726288274579464",
+      "conversation_id": "2120961974519398535",
+      "created_at": "2026-11-13T00:48:12.000Z",
+      "edit_history_tweet_ids": [
+        "2121042411199857117"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "3178231",
+            "start": 0,
+            "username": "dotey"
+          }
+        ]
+      },
+      "id": "2121042411199857117",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120961974519398535",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 技术栈还没学完模型又更了 现在主要练跟产品吵架",
+      "url": "https://x.com/clark_kent44676/status/2121042411199857117"
+    },
+    {
+      "author_id": "2098721428870926336",
+      "conversation_id": "2120961974519398535",
+      "created_at": "2026-11-13T00:47:16.000Z",
+      "edit_history_tweet_ids": [
+        "2121042175102493133"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "3178231",
+            "start": 0,
+            "username": "dotey"
+          }
+        ]
+      },
+      "id": "2121042175102493133",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 22,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120961974519398535",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 用户故事当提示词比技术方案还好使，这句挺伤人的。说白了，以前靠难才值钱的手艺，现在难已经不够用了。",
+      "url": "https://x.com/probystander/status/2121042175102493133"
+    },
+    {
+      "author_id": "366623366",
+      "conversation_id": "2120961974519398535",
+      "created_at": "2026-11-13T00:46:25.000Z",
+      "edit_history_tweet_ids": [
+        "2121041964166783301"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "3178231",
+            "start": 0,
+            "username": "dotey"
+          }
+        ]
+      },
+      "id": "2121041964166783301",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120961974519398535",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 以前简历写\"精通 React\"，以后得写\"擅长带 AI 实习生，且没让它删过库\"。",
+      "url": "https://x.com/_Songzioeve/status/2121041964166783301"
+    },
+    {
+      "author_id": "99824067",
+      "conversation_id": "2120961974519398535",
+      "created_at": "2026-11-13T00:45:47.000Z",
+      "edit_history_tweet_ids": [
+        "2121041801289372115"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "3178231",
+            "start": 0,
+            "username": "dotey"
+          }
+        ]
+      },
+      "id": "2121041801289372115",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 32,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120961974519398535",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 有谁可以分享一下，跨工程AI协作的，怎么控制项目质量的，AI不可用后，项目还能继续维护吗",
+      "url": "https://x.com/joyrap/status/2121041801289372115"
+    },
+    {
+      "author_id": "2108739099662364672",
+      "conversation_id": "2120961974519398535",
+      "created_at": "2026-11-13T00:45:01.000Z",
+      "edit_history_tweet_ids": [
+        "2121041609534116017"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "3178231",
+            "start": 0,
+            "username": "dotey"
+          }
+        ]
+      },
+      "id": "2121041609534116017",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120961974519398535",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 确实，纯写代码越来越不值钱了",
+      "url": "https://x.com/Duolinto/status/2121041609534116017"
+    },
+    {
+      "author_id": "2606396361",
+      "conversation_id": "2120961974519398535",
+      "created_at": "2026-11-13T00:42:27.000Z",
+      "edit_history_tweet_ids": [
+        "2121040963355435109"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "3178231",
+            "start": 0,
+            "username": "dotey"
+          }
+        ]
+      },
+      "id": "2121040963355435109",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120961974519398535",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 学啥都没有用了，随着AGI的到来几乎所有人都失业，除了基本生活需求之外的商品估计都卖不出去。学习格斗迎接至暗时代吧。",
+      "url": "https://x.com/28c992f585924c9/status/2121040963355435109"
+    },
+    {
+      "author_id": "2043862808882708480",
+      "conversation_id": "2120961974519398535",
+      "created_at": "2026-11-13T00:29:01.000Z",
+      "edit_history_tweet_ids": [
+        "2121037582503120912"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "3178231",
+            "start": 0,
+            "username": "dotey"
+          }
+        ]
+      },
+      "id": "2121037582503120912",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 21,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120961974519398535",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 代码能力不会消失，但把需求拆清楚、验收结果和组织AI协作会越来越值钱。",
+      "url": "https://x.com/staroaeg/status/2121037582503120912"
+    },
+    {
+      "author_id": "33487718",
+      "conversation_id": "2120961974519398535",
+      "created_at": "2026-11-13T00:20:21.000Z",
+      "edit_history_tweet_ids": [
+        "2121035404078112889"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "3178231",
+            "start": 0,
+            "username": "dotey"
+          }
+        ]
+      },
+      "id": "2121035404078112889",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 107,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120961974519398535",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 工程师得训练自己的管理思维，让 AI 干活也是管理，这里面就包含了产品、沟通、心理等",
+      "url": "https://x.com/oec2003/status/2121035404078112889"
+    },
+    {
+      "author_id": "1820288141724672002",
+      "conversation_id": "2120961974519398535",
+      "created_at": "2026-11-13T00:18:10.000Z",
+      "edit_history_tweet_ids": [
+        "2121034853147890004"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "3178231",
+            "start": 0,
+            "username": "dotey"
+          }
+        ]
+      },
+      "id": "2121034853147890004",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 101,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120961974519398535",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 这篇看得我有点慌。用户故事当提示词，比技术方案还好使。现在复杂企业级软件比五年前简单网站还容易，那我手里这点技术栈算啥？",
+      "url": "https://x.com/yuanbaopower/status/2121034853147890004"
+    },
+    {
+      "author_id": "2971414029",
+      "conversation_id": "2120961974519398535",
+      "created_at": "2026-11-13T00:17:18.000Z",
+      "edit_history_tweet_ids": [
+        "2121034633517359347"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "3178231",
+            "start": 0,
+            "username": "dotey"
+          }
+        ]
+      },
+      "id": "2121034633517359347",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 52,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120961974519398535",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 有个地方一直没想明白：判断力这东西，过去都是写代码踩坑踩出来的，要是新人上来就只写提示词不写代码，判断力从哪长出来？",
+      "url": "https://x.com/seanbuildlog/status/2121034633517359347"
+    },
+    {
+      "author_id": "2104770760921272320",
+      "conversation_id": "2120961974519398535",
+      "created_at": "2026-11-13T00:12:20.000Z",
+      "edit_history_tweet_ids": [
+        "2121033384608633082"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "3178231",
+            "start": 0,
+            "username": "dotey"
+          }
+        ]
+      },
+      "id": "2121033384608633082",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 22,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120961974519398535",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 说实话“越来越像个管理 AI 的产品经理”这句戳到我了，我现在最纠结的是写代码的手感没了之后，判断力到底从哪练出来，你平时是靠用户反馈还是自己上手试出来的？",
+      "url": "https://x.com/YunaElira/status/2121033384608633082"
+    },
+    {
+      "author_id": "31594632",
+      "conversation_id": "2120961974519398535",
+      "created_at": "2026-11-13T00:02:32.000Z",
+      "edit_history_tweet_ids": [
+        "2121030917733110002"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "3178231",
+            "start": 0,
+            "username": "dotey"
+          }
+        ]
+      },
+      "id": "2121030917733110002",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 43,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120961974519398535",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 最终归宿就是 OPC",
+      "url": "https://x.com/sonaldc/status/2121030917733110002"
+    },
+    {
+      "author_id": "1141917408602611714",
+      "conversation_id": "2120961974519398535",
+      "created_at": "2026-11-12T23:59:42.000Z",
+      "edit_history_tweet_ids": [
+        "2121030204420440361"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "16925973",
+            "start": 0,
+            "username": "jma7889"
+          },
+          {
+            "end": 15,
+            "id": "3178231",
+            "start": 9,
+            "username": "dotey"
+          }
+        ]
+      },
+      "id": "2121030204420440361",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121029363248640220",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@jma7889 @dotey 作者可能是想表达：对人性方面的切身思考，有情感的共鸣之后的思考",
+      "url": "https://x.com/Rango00187057/status/2121030204420440361"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "3178231",
+        "conversation_id": "2120961974519398535",
+        "created_at": "2026-11-12T19:28:34.000Z",
+        "edit_history_tweet_ids": [
+          "2120961974519398535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/scottbolinger/…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/scottbolinger/status/2120897438001283512",
+              "start": 118,
+              "url": "https://t.co/4KAf81NXCt"
+            }
+          ]
+        },
+        "id": "2120961974519398535",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 601,
+          "impression_count": 27703,
+          "like_count": 602,
+          "quote_count": 23,
+          "reply_count": 44,
+          "retweet_count": 90
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120897438001283512",
+            "type": "quoted"
+          }
+        ],
+        "text": "好文章👍\n\n转译：《软件工程师现在该怎么办》\n\n我听过有人说，软件工程师（SWE）要想保持竞争力，就得不断学习写代码和各种技术栈。我并不认同。\n\n每发布一个新模型，这些纯技术技能的价值就会缩水一分。每天我都觉得自己越来越像个管理 AI https://t.co/4KAf81NXCt"
+      },
+      {
+        "author_id": "16925973",
+        "conversation_id": "2120961974519398535",
+        "created_at": "2026-11-12T23:56:21.000Z",
+        "edit_history_tweet_ids": [
+          "2121029363248640220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "3178231",
+              "start": 0,
+              "username": "dotey"
+            }
+          ]
+        },
+        "id": "2121029363248640220",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120961974519398535",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@dotey 不太赞同所谓学习AI帮不上忙的东西。 它都可以帮上好吧！要学会的是与AI共存合作。 不要放弃你已经掌握的知识。 要建立起更广泛的知识体系，放弃扣细枝末节。"
+      }
+    ],
+    "users": [
+      {
+        "id": "1551436074387263488",
+        "name": "Cooomet",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009582042535895040/7c1it8JK_normal.jpg",
+        "username": "comet277",
+        "verified": false
+      },
+      {
+        "id": "137223527",
+        "name": "neo.w",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1691459533686870017/QXdoeiLX_normal.jpg",
+        "username": "neo_cn",
+        "verified": false
+      },
+      {
+        "id": "1910726288274579464",
+        "name": "Clark Kent",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910726342154608640/Pu9z4dRv_normal.jpg",
+        "username": "clark_kent44676",
+        "verified": false
+      },
+      {
+        "id": "2098721428870926336",
+        "name": "Professional Bystander",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108530610683658240/aYRmacZm_normal.jpg",
+        "username": "probystander",
+        "verified": false
+      },
+      {
+        "id": "366623366",
+        "name": "松子 Songzi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110278748838965248/PQyAPXdZ_normal.jpg",
+        "username": "_Songzioeve",
+        "verified": false
+      },
+      {
+        "id": "99824067",
+        "name": "Bill Xie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091370285916381184/FyuV3lJw_normal.jpg",
+        "username": "joyrap",
+        "verified": false
+      },
+      {
+        "id": "2108739099662364672",
+        "name": "Jarvis Claude",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108739664903565312/sNK87iw9_normal.jpg",
+        "username": "Duolinto",
+        "verified": false
+      },
+      {
+        "id": "2606396361",
+        "name": "Watching",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/463700025160105986/uxReTJC__normal.png",
+        "username": "28c992f585924c9",
+        "verified": false
+      },
+      {
+        "id": "2043862808882708480",
+        "name": "生晓bai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108574090953195520/AL2afFAh_normal.jpg",
+        "username": "staroaeg",
+        "verified": false
+      },
+      {
+        "id": "33487718",
+        "name": "oec2003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110640962955542530/OtX3RiBO_normal.jpg",
+        "username": "oec2003",
+        "verified": false
+      },
+      {
+        "id": "1820288141724672002",
+        "name": "发量不多程序猿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841052042355490822/2C0pcyfr_normal.jpg",
+        "username": "yuanbaopower",
+        "verified": false
+      },
+      {
+        "id": "2971414029",
+        "name": "Sean",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108442527464366080/dgw9FTqK_normal.jpg",
+        "username": "seanbuildlog",
+        "verified": false
+      },
+      {
+        "id": "2104770760921272320",
+        "name": "Yuna Han",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104771722377367552/RoCeH-Uz_normal.jpg",
+        "username": "YunaElira",
+        "verified": false
+      },
+      {
+        "id": "31594632",
+        "name": "sonald",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012815278988546048/ZT1Ryrl6_normal.jpg",
+        "username": "sonaldc",
+        "verified": false
+      },
+      {
+        "id": "1141917408602611714",
+        "name": "青石",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2113813533368676352/JaRI_mVL_normal.jpg",
+        "username": "Rango00187057",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121043799145406954",
+    "next_token": "b26v89c19zqg8o3juzovr3g7fvhy6y9ea85iz0ed1slfh",
+    "oldest_id": "2121030204420440361",
+    "result_count": 15
+  }
+}

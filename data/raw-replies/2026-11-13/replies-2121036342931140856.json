@@ -1,0 +1,206 @@
+{
+  "data": [
+    {
+      "author_id": "1625643075790942210",
+      "conversation_id": "2121036342931140856",
+      "created_at": "2026-11-13T00:40:26.000Z",
+      "edit_history_tweet_ids": [
+        "2121040456528412954"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1650159466032271360",
+            "start": 0,
+            "username": "pika_labs"
+          }
+        ]
+      },
+      "id": "2121040456528412954",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121036342931140856",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@pika_labs The level of detail and camera consistency in Seedance 2.5 is impressive. Native 4K continuous shots take AI video generation to another level!",
+      "url": "https://x.com/jji1jj/status/2121040456528412954"
+    },
+    {
+      "author_id": "22986498",
+      "conversation_id": "2121036342931140856",
+      "created_at": "2026-11-13T00:26:44.000Z",
+      "edit_history_tweet_ids": [
+        "2121037006650442156"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1650159466032271360",
+            "start": 0,
+            "username": "pika_labs"
+          }
+        ]
+      },
+      "id": "2121037006650442156",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121036342931140856",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@pika_labs Hitchcock hid the cuts in Rope by pushing into the backs of jackets. The perfect one-take was always a trick. Now there isn't even a camera to hide.",
+      "url": "https://x.com/ChrisArvan/status/2121037006650442156"
+    },
+    {
+      "author_id": "1650159466032271360",
+      "conversation_id": "2121036342931140856",
+      "created_at": "2026-11-13T00:24:06.000Z",
+      "edit_history_tweet_ids": [
+        "2121036344575345008"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Turn an idea into a story with Seedance 2.5 on Pika. Generate videos with multiple shots and sound, guided by your text and media references.",
+            "display_url": "create.pika.art/apps/seedance-…",
+            "end": 58,
+            "expanded_url": "https://create.pika.art/apps/seedance-2-5?utm_source=x&utm_medium=caption&utm_campaign=261111-seedance_2_5_4k&utm_content=pika_labs&utm_term=post&utm_id=d5bde071-03de-42eb-83fb-1366b37ceb1a",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2120551891230961664/y4U30SSY?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2120551891230961664/y4U30SSY?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 35,
+            "status": 200,
+            "title": "Seedance 2.5 AI Video Generator | Pika",
+            "unwound_url": "https://create.pika.art/apps/seedance-2-5?utm_source=x&utm_medium=caption&utm_campaign=261111-seedance_2_5_4k&utm_content=pika_labs&utm_term=post&utm_id=d5bde071-03de-42eb-83fb-1366b37ceb1a",
+            "url": "https://t.co/zYVOFmANHp"
+          }
+        ]
+      },
+      "id": "2121036344575345008",
+      "lang": "et",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 376,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121036342931140856",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Try Seedance 2.5 in 4K on Pika now\nhttps://t.co/zYVOFmANHp",
+      "url": "https://x.com/pika_labs/status/2121036344575345008"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1650159466032271360",
+        "conversation_id": "2121036342931140856",
+        "created_at": "2026-11-13T00:24:05.000Z",
+        "edit_history_tweet_ids": [
+          "2121036342931140856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5kh6EGGOZ4",
+              "end": 212,
+              "expanded_url": "https://x.com/pika_labs/status/2121036342931140856/video/1",
+              "media_key": "13_2121036022968672256",
+              "start": 189,
+              "url": "https://t.co/5kh6EGGOZ4"
+            },
+            {
+              "display_url": "x.com/pika_labs/stat…",
+              "end": 236,
+              "expanded_url": "https://twitter.com/pika_labs/status/2120551877486215348",
+              "start": 213,
+              "url": "https://t.co/Pu1mXhtskv"
+            }
+          ]
+        },
+        "id": "2121036342931140856",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1446,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120551877486215348",
+            "type": "quoted"
+          }
+        ],
+        "text": "Seedance 2.5 on Pika can hold one continuous take in Native 4K, keeping every shard, droplet and thread exactly in place while the camera flies through them. The level of detail is unreal. https://t.co/5kh6EGGOZ4 https://t.co/Pu1mXhtskv"
+      }
+    ],
+    "users": [
+      {
+        "id": "1625643075790942210",
+        "name": "MR ANDERSON",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048076773976657920/yKCRQh88_normal.jpg",
+        "username": "jji1jj",
+        "verified": false
+      },
+      {
+        "id": "22986498",
+        "name": "Chris Arvan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033365735821783040/HpZ8SMVd_normal.jpg",
+        "username": "ChrisArvan",
+        "verified": false
+      },
+      {
+        "id": "1650159466032271360",
+        "name": "Pika",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084681725800861696/_N_l4Le5_normal.jpg",
+        "username": "pika_labs",
+        "verified": true
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121040456528412954",
+    "next_token": "b26v89c19zqg8o3juzovr3g7ozg81uslgc1wrt3tsc2gt",
+    "oldest_id": "2121036344575345008",
+    "result_count": 3
+  }
+}

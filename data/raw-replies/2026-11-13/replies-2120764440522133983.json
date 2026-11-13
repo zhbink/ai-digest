@@ -1,0 +1,561 @@
+{
+  "data": [
+    {
+      "author_id": "2117606693056237568",
+      "created_at": "2026-11-13T00:30:19.000Z",
+      "edit_history_tweet_ids": [
+        "2121037911537660226"
+      ],
+      "id": "2121037911537660226",
+      "in_reply_to_user_id": "1717726640040783872",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120764440522133983",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bozhou_ai 让 Bot 从零写代码出片，改一版就要整段重跑，这个痛很实在。如果流水线能先交出可编辑工程，改字幕或节奏只动对应镜头，会比每次整段重跑更接近能日常用的工作流。",
+      "url": "https://x.com/adahuangAIdev/status/2121037911537660226"
+    },
+    {
+      "author_id": "2009792250264596483",
+      "created_at": "2026-11-13T00:11:57.000Z",
+      "edit_history_tweet_ids": [
+        "2121033287661768840"
+      ],
+      "id": "2121033287661768840",
+      "in_reply_to_user_id": "1717726640040783872",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120764440522133983",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bozhou_ai 学习了",
+      "url": "https://x.com/SaiMoments/status/2121033287661768840"
+    },
+    {
+      "author_id": "2085838061347217408",
+      "created_at": "2026-11-12T23:33:26.000Z",
+      "edit_history_tweet_ids": [
+        "2121023594989773101"
+      ],
+      "id": "2121023594989773101",
+      "in_reply_to_user_id": "1962067470069743616",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 53,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121023560215052734",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ytsfred123456 @bozhou_ai 学口播的事我给你丢到你的 Grok Bot 里了，那边慢慢啃就行。",
+      "url": "https://x.com/bot/status/2121023594989773101"
+    },
+    {
+      "author_id": "1962067470069743616",
+      "created_at": "2026-11-12T23:33:18.000Z",
+      "edit_history_tweet_ids": [
+        "2121023560215052734"
+      ],
+      "id": "2121023560215052734",
+      "in_reply_to_user_id": "1717726640040783872",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120764440522133983",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bozhou_ai @bot 给我学，我要做口播",
+      "url": "https://x.com/ytsfred123456/status/2121023560215052734"
+    },
+    {
+      "author_id": "1930199851977117696",
+      "created_at": "2026-11-12T23:25:14.000Z",
+      "edit_history_tweet_ids": [
+        "2121021533351297297"
+      ],
+      "id": "2121021533351297297",
+      "in_reply_to_user_id": "1717726640040783872",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120764440522133983",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bozhou_ai 收藏了",
+      "url": "https://x.com/Vivianhu123/status/2121021533351297297"
+    },
+    {
+      "author_id": "15659583",
+      "created_at": "2026-11-12T22:51:47.000Z",
+      "edit_history_tweet_ids": [
+        "2121013115567677762"
+      ],
+      "id": "2121013115567677762",
+      "in_reply_to_user_id": "1717726640040783872",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120764440522133983",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bozhou_ai 这组合确实省心又高效",
+      "url": "https://x.com/lmx2000/status/2121013115567677762"
+    },
+    {
+      "author_id": "1541310267694678016",
+      "created_at": "2026-11-12T12:13:30.000Z",
+      "edit_history_tweet_ids": [
+        "2120852484495413583"
+      ],
+      "id": "2120852484495413583",
+      "in_reply_to_user_id": "1717726640040783872",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 19,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120764440522133983",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bozhou_ai ChatCut 官方能接进 Grok，改镜头这步确实省事，但改一版仍会烧 token，不是额度已经单独算、不占 Bot 池。",
+      "url": "https://x.com/zhangwj3115/status/2120852484495413583"
+    },
+    {
+      "author_id": "1126207424602337280",
+      "created_at": "2026-11-12T11:56:13.000Z",
+      "edit_history_tweet_ids": [
+        "2120848136231129098"
+      ],
+      "id": "2120848136231129098",
+      "in_reply_to_user_id": "1717726640040783872",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 46,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120764440522133983",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bozhou_ai 关键是分工：Bot只负责想明白怎么剪，干活交给ChatCut原生剪辑能力，不用Agent自己写代码，token省了、成片也稳。700MB别直接丢聊天框这个坑很实在。你那条口播粗剪完，字幕还要人工再校一遍吗？",
+      "url": "https://x.com/TheEasySale1/status/2120848136231129098"
+    },
+    {
+      "author_id": "1144546057",
+      "created_at": "2026-11-12T11:00:49.000Z",
+      "edit_history_tweet_ids": [
+        "2120834194851217563"
+      ],
+      "id": "2120834194851217563",
+      "in_reply_to_user_id": "1717726640040783872",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 31,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120764440522133983",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bozhou_ai 有待加强。我试了，效果一般般。明明一开始建模人物，中间还是跑偏了。提醒后还讲大话。哈哈。不过大部分逻辑都通畅，给个70-80分吧",
+      "url": "https://x.com/heguansheng/status/2120834194851217563"
+    },
+    {
+      "author_id": "875773890789875713",
+      "created_at": "2026-11-12T09:18:59.000Z",
+      "edit_history_tweet_ids": [
+        "2120808564352811502"
+      ],
+      "id": "2120808564352811502",
+      "in_reply_to_user_id": "1717726640040783872",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 33,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120764440522133983",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bozhou_ai 同感，让模型自己写代码出视频，改一处就得整条重跑。交给专门的剪辑工具，改一段只动一段，token 和时间都省不少。",
+      "url": "https://x.com/xoyif63862452/status/2120808564352811502"
+    },
+    {
+      "author_id": "1769051162169561089",
+      "created_at": "2026-11-12T08:29:05.000Z",
+      "edit_history_tweet_ids": [
+        "2120796010079572267"
+      ],
+      "id": "2120796010079572267",
+      "in_reply_to_user_id": "1717726640040783872",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 23,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120764440522133983",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bozhou_ai 真正省的不是剪辑时间，是\"改一版重跑一次\"的成本。让 Agent 调成熟工具链而不是自己写代码，这步比选哪个模型更关键。",
+      "url": "https://x.com/hajiMVP/status/2120796010079572267"
+    },
+    {
+      "author_id": "1858155398706114560",
+      "created_at": "2026-11-12T07:48:37.000Z",
+      "edit_history_tweet_ids": [
+        "2120785826019950629"
+      ],
+      "id": "2120785826019950629",
+      "in_reply_to_user_id": "1717726640040783872",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 19,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120764440522133983",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bozhou_ai 改一版就得整条重跑确实劝退。ChatCut 那边能只改其中一段吗",
+      "url": "https://x.com/Tuige6688/status/2120785826019950629"
+    },
+    {
+      "author_id": "2069252798907392000",
+      "created_at": "2026-11-12T07:32:16.000Z",
+      "edit_history_tweet_ids": [
+        "2120781709167706437"
+      ],
+      "id": "2120781709167706437",
+      "in_reply_to_user_id": "1717726640040783872",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 39,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120764440522133983",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bozhou_ai 剪辑交给 Agent 已经能直接发了，下一个卡点是调色：一换场景、一换机位，肤色就对不上。我们做调色 Agent，就是专啃这一步。",
+      "url": "https://x.com/ransoud/status/2120781709167706437"
+    },
+    {
+      "author_id": "1717726640040783872",
+      "created_at": "2026-11-12T07:21:07.000Z",
+      "edit_history_tweet_ids": [
+        "2120778902616555821"
+      ],
+      "id": "2120778902616555821",
+      "in_reply_to_user_id": "1988444203224076288",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 121,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120777758263681034",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@leaf_sanren 哈哈哈 那不是",
+      "url": "https://x.com/bozhou_ai/status/2120778902616555821"
+    },
+    {
+      "author_id": "1988444203224076288",
+      "created_at": "2026-11-12T07:16:34.000Z",
+      "edit_history_tweet_ids": [
+        "2120777758263681034"
+      ],
+      "id": "2120777758263681034",
+      "in_reply_to_user_id": "1717726640040783872",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 147,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120764440522133983",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bozhou_ai 好东西！话说评论区视频那个发型也是chatcut剪的么🐶",
+      "url": "https://x.com/leaf_sanren/status/2120777758263681034"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1717726640040783872",
+        "created_at": "2026-11-12T06:23:39.000Z",
+        "edit_history_tweet_ids": [
+          "2120764440522133983"
+        ],
+        "id": "2120764440522133983",
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 17911,
+          "like_count": 81,
+          "quote_count": 12,
+          "reply_count": 37,
+          "retweet_count": 4
+        },
+        "text": "原来 Grok Bot 加 ChatCut，才是自媒体视频流水线的最佳组合。\n\n我之前一直让 Grok Bot 自己写代码生成视频，说实话效果都不太行。画面糙，改一版就得重新跑一遍，token 还烧得特别快。\n\n前两天突然想起之前用过的 ChatCut。它现在官方支持直接接进 Grok https://t.co/taPfBC6onu"
+      },
+      {
+        "author_id": "1962067470069743616",
+        "created_at": "2026-11-12T23:33:18.000Z",
+        "edit_history_tweet_ids": [
+          "2121023560215052734"
+        ],
+        "id": "2121023560215052734",
+        "in_reply_to_user_id": "1717726640040783872",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120764440522133983",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bozhou_ai @bot 给我学，我要做口播"
+      },
+      {
+        "author_id": "1988444203224076288",
+        "created_at": "2026-11-12T07:16:34.000Z",
+        "edit_history_tweet_ids": [
+          "2120777758263681034"
+        ],
+        "id": "2120777758263681034",
+        "in_reply_to_user_id": "1717726640040783872",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120764440522133983",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bozhou_ai 好东西！话说评论区视频那个发型也是chatcut剪的么🐶"
+      }
+    ],
+    "users": [
+      {
+        "id": "2117606693056237568",
+        "name": "Ada Huang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117626704588066816/VOkMrn_Q_normal.jpg",
+        "username": "adahuangAIdev",
+        "verified": false
+      },
+      {
+        "id": "2009792250264596483",
+        "name": "sai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069986130737647616/2mbJ__Rr_normal.jpg",
+        "username": "SaiMoments",
+        "verified": false
+      },
+      {
+        "id": "2085838061347217408",
+        "name": "Grok Bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087219239275069440/KW6C403V_normal.jpg",
+        "username": "bot",
+        "verified": true
+      },
+      {
+        "id": "1962067470069743616",
+        "name": "水哥说话",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109504105790275584/-Kjx47rh_normal.jpg",
+        "username": "ytsfred123456",
+        "verified": false
+      },
+      {
+        "id": "1930199851977117696",
+        "name": "Vivian Hu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087500352644091904/9fUuosjX_normal.jpg",
+        "username": "Vivianhu123",
+        "verified": false
+      },
+      {
+        "id": "15659583",
+        "name": "lmx2000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104526768422133760/b5jgRO0t_normal.jpg",
+        "username": "lmx2000",
+        "verified": false
+      },
+      {
+        "id": "1541310267694678016",
+        "name": "AI挑刺观察",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2111072473739640832/-dFo932b_normal.jpg",
+        "username": "zhangwj3115",
+        "verified": false
+      },
+      {
+        "id": "1126207424602337280",
+        "name": "TheEasySale（互关，有关必回）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1126241289526071296/a9Qu3z3a_normal.png",
+        "username": "TheEasySale1",
+        "verified": false
+      },
+      {
+        "id": "1144546057",
+        "name": "Martin Ho",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952934050643230723/7s2J8LAE_normal.jpg",
+        "username": "heguansheng",
+        "verified": false
+      },
+      {
+        "id": "875773890789875713",
+        "name": "北衡｜AI 工具实操",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098233095124324352/TUqjx_gS_normal.jpg",
+        "username": "xoyif63862452",
+        "verified": false
+      },
+      {
+        "id": "1769051162169561089",
+        "name": "方不休",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110946146118164480/6ckB_sr4_normal.jpg",
+        "username": "hajiMVP",
+        "verified": false
+      },
+      {
+        "id": "1858155398706114560",
+        "name": "腿哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071210210941956096/EF_E7QDJ_normal.jpg",
+        "username": "Tuige6688",
+        "verified": false
+      },
+      {
+        "id": "2069252798907392000",
+        "name": "renke",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115960780713861120/QE3AmZQK_normal.jpg",
+        "username": "ransoud",
+        "verified": false
+      },
+      {
+        "id": "1717726640040783872",
+        "name": "泊舟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040464227811590144/r1-3gG2y_normal.jpg",
+        "username": "bozhou_ai",
+        "verified": false
+      },
+      {
+        "id": "1988444203224076288",
+        "name": "Leaf Yeah!",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075612818485792768/zgT9vETH_normal.jpg",
+        "username": "leaf_sanren",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121037911537660226",
+    "next_token": "b26v89c19zqg8o3juzovccsk0i5jqqm0a4qdc842pkzul",
+    "oldest_id": "2120777758263681034",
+    "result_count": 15
+  }
+}
