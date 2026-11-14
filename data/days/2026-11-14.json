@@ -314,7 +314,130 @@
         "text": "🚀 The full DeepSeek App experience, now via API\n\nSearch, files, links, safety, and voice. The capabilities behind the DeepSeek App are now available through the DeepSeek API.\nEnable built-in features with a few parameters, or call standalone APIs such as OCR, ASR, and TTS. Build richer conversations or recreate the full DeepSeek App in your own application.\n\nTry our open-source frontend demo, with support for importing DeepSeek conversation history.\n\n🔗 Demo: https://t.co/TI0Iw5qLQK\n📦 Code: https://t.co/ImA0LrgUgX\n📖 Details: https://t.co/t0dJxXM6Lk\n\n1/4"
       },
       "x_long": true,
-      "article_summary_zh": "DeepSeek API 现已提供与官方网页和 App 相同的对话能力：网页搜索、带思考的深度搜索、文件输入、URL 阅读，以及内容安全审核、用户元数据、对话标题、语音播报和语音输入。搜索和读链接由服务端执行，客户端只需展示并原样回传内容块。功能可通过 Messages、Responses 和 Chat Completions 三种协议调用，文档示例使用 deepseek-flash 模型。官方还提供可导入历史记录的开源演示客户端。若启用网页工具、高安全审核或自动标题，部分采样参数会被服务端忽略。面向公众提供服务时，需自行履行内容审核和相关合规义务。"
+      "article_summary_zh": "DeepSeek API 现已提供与官方网页和 App 相同的对话能力：网页搜索、带思考的深度搜索、文件输入、URL 阅读，以及内容安全审核、用户元数据、对话标题、语音播报和语音输入。搜索和读链接由服务端执行，客户端只需展示并原样回传内容块。功能可通过 Messages、Responses 和 Chat Completions 三种协议调用，文档示例使用 deepseek-flash 模型。官方还提供可导入历史记录的开源演示客户端。若启用网页工具、高安全审核或自动标题，部分采样参数会被服务端忽略。面向公众提供服务时，需自行履行内容审核和相关合规义务。",
+      "attached_posts": [
+        {
+          "id": "2121261554708496554",
+          "url": "https://x.com/xiaomovps/status/2121261554708496554",
+          "handle": "xiaomovps",
+          "display_name": "小墨同学",
+          "avatar": "https://pbs.twimg.com/profile_images/2006310479975858176/PWGiJqg9_normal.jpg",
+          "verified": true,
+          "followers": 18269,
+          "created_at": "2026-11-13T15:19:00.000Z",
+          "lang": "zh",
+          "text": "DeepSeek API 又更新了，这次直接增加了语音和 OCR 能力🔥\n\n今天发现 DeepSeek 的 API 又有新变化了，除了之前的 Search 和 Fetch，现在还增加了 ASR、TTS 和 OCR 三项功能\n\n我简单整理了一下对应的用途和价格：\n\n1、ASR 语音识别：可以直接把语音转换成文字，目前限时五折，每小时只需要 0.058 美元\n\n2、TTS 语音合成：可以把文字转换成语音，支持流式输出，目前同样限时五折，每万字符 0.225 美元\n\n3、OCR 文字识别：支持识别图片、PDF 等文档中的文字，每千页 0.225 美元\n\n加上之前的 Search 网页搜索和 Fetch 网页抓取，DeepSeek 现在已经提供了 5 种独立的工具 API\n\nDeepSeek 应该是很有野心的，要把整个 API 做成一个全能的 API，不管是多模态还是语音图像识别、语音生成，都融合到一起，到时候直接调用同一个接口就能使用\n\n再也不需要对接多个商家 多个 API 分别使用，再给 DeepSeek 一些时间，看看梁子还能玩出什么大的东西",
+          "text_zh": "DeepSeek API 又更新了，这次直接增加了语音和 OCR 能力🔥\n\n今天发现 DeepSeek 的 API 又有新变化了，除了之前的 Search 和 Fetch，现在还增加了 ASR、TTS 和 OCR 三项功能\n\n我简单整理了一下对应的用途和价格：\n\n1、ASR 语音识别：可以直接把语音转换成文字，目前限时五折，每小时只需要 0.058 美元\n\n2、TTS 语音合成：可以把文字转换成语音，支持流式输出，目前同样限时五折，每万字符 0.225 美元\n\n3、OCR 文字识别：支持识别图片、PDF 等文档中的文字，每千页 0.225 美元\n\n加上之前的 Search 网页搜索和 Fetch 网页抓取，DeepSeek 现在已经提供了 5 种独立的工具 API\n\nDeepSeek 应该是很有野心的，要把整个 API 做成一个全能的 API，不管是多模态还是语音图像识别、语音生成，都融合到一起，到时候直接调用同一个接口就能使用\n\n再也不需要对接多个商家 多个 API 分别使用，再给 DeepSeek 一些时间，看看梁子还能玩出什么大的东西",
+          "summary_zh": "小墨同学盘点 DeepSeek 新开放的 ASR、TTS、OCR 价格：语音识别限时每小时 0.058 美元",
+          "relation_zh": "母帖宣布能力开放，这条把三项新接口的用途和限时五折价格整理成了可直接对照的清单。",
+          "metrics": {
+            "likes": 23,
+            "retweets": 0,
+            "replies": 3,
+            "quotes": 0,
+            "bookmarks": 10,
+            "views": 2653
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 3360,
+              "h": 1664,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2121251276566765568/vid/avc1/3360x1664/MMw7vOQpB4aGJgFD.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2121251276566765568/img/cQ9VUIlsFV6Y6Yjg.jpg",
+              "duration_ms": 20966
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/xiaomovps/status/2121261554708496554/video/1",
+            "https://twitter.com/deepseek_ai/status/2121247896918253875"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2121247896918253875",
+          "article_title": null,
+          "attached_at": "2026-11-14T02:02:56.284131+00:00"
+        },
+        {
+          "id": "2121247903603941471",
+          "url": "https://x.com/deepseek_ai/status/2121247903603941471",
+          "handle": "deepseek_ai",
+          "display_name": "DeepSeek",
+          "avatar": "https://pbs.twimg.com/profile_images/1717417613775757312/Uk1zNOj4_normal.jpg",
+          "verified": true,
+          "followers": 1208968,
+          "created_at": "2026-11-13T14:24:45.000Z",
+          "lang": "en",
+          "text": "💰 API pricing\n\nExtended capabilities incur tool usage fees in addition to standard token charges.\nSee the tool pricing breakdown below.\n\n3/4",
+          "text_zh": "💰 API 定价\n\n除了常规的 token 费用，扩展能力还会产生工具使用费。\n各项工具价格见下图。\n\n3/4",
+          "summary_zh": "DeepSeek 公布工具调用要在 token 费用之外另计费，并配图列出各项工具价格",
+          "relation_zh": "母帖只说开放了搜索、文件、语音等能力，这条 3/4 把额外的工具计价规则讲清楚了。",
+          "metrics": {
+            "likes": 472,
+            "retweets": 0,
+            "replies": 12,
+            "quotes": 16,
+            "bookmarks": 69,
+            "views": 71480
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 3196,
+              "h": 4096,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXAvErgbgAALgH0.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/deepseek_ai/status/2121247903603941471/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-14T02:02:56.284131+00:00"
+        },
+        {
+          "id": "2121247899699036516",
+          "url": "https://x.com/deepseek_ai/status/2121247899699036516",
+          "handle": "deepseek_ai",
+          "display_name": "DeepSeek",
+          "avatar": "https://pbs.twimg.com/profile_images/1717417613775757312/Uk1zNOj4_normal.jpg",
+          "verified": true,
+          "followers": 1208968,
+          "created_at": "2026-11-13T14:24:44.000Z",
+          "lang": "en",
+          "text": "🛠️ Built-in tools. Flexible APIs.\n\nV4.1-Flash (deepseek-flash) now supports these capabilities across Messages, Responses, and Chat Completions, with tool calls and context assembly handled server-side:\n\n🔹 Web Search: Search the web or images with citations in non-thinking mode.\n🔹 Deep Thinking Search: Search and read pages throughout multi-step reasoning.\n🔹 File Input: Parse PDFs, Office files, images, and more into conversation context.\n🔹 URL Reading: Automatically fetch links in user messages to inform answers.\n🔹 Safety Checks: Screen inputs and outputs, returning refusal indicators when risks are detected.\n\nEnable search with deepseek_web_search and URL reading with deepseek_read_url. Public-facing apps must enable safety checks. Developers remain responsible for content moderation, applicable model registration, and AI-generated content labeling.\n\nSearch, Fetch, OCR, ASR, and TTS are also available as standalone APIs for custom workflows.\n\n2/4",
+          "text_zh": "🛠️ 内置工具，接口也很灵活。\n\nV4.1-Flash（deepseek-flash）现在可在 Messages、Responses 和 Chat Completions 这三种调用方式里使用这些能力，工具调用和上下文拼接都在服务端完成：\n\n🔹 联网搜索：在非思考模式下搜索网页或图片，并给出引用来源。\n🔹 深度思考搜索：在多步推理过程中搜索并阅读页面。\n🔹 文件输入：把 PDF、Office 文档、图片等解析进对话上下文。\n🔹 阅读链接：自动抓取用户消息里的链接，用来回答问题。\n🔹 安全检查：筛查输入和输出，发现风险时返回拒绝标记。\n\n搜索用 deepseek_web_search 开启，读链接用 deepseek_read_url。面向公众的应用必须开启安全检查。开发者仍需自行负责内容审核、按规定做模型备案，以及给 AI 生成内容做标识。\n\nSearch、Fetch、OCR、ASR 和 TTS 也可以作为独立 API，用在自己的工作流里。\n\n2/4",
+          "summary_zh": "DeepSeek 说明 V4.1-Flash 可在三种 API 形态下由服务端调用搜索、读链接、传文件和安全检查",
+          "relation_zh": "母帖是总览，这条 2/4 列出了可开关的内置工具名称，以及面向公众的应用必须开启安全检查。",
+          "metrics": {
+            "likes": 415,
+            "retweets": 0,
+            "replies": 13,
+            "quotes": 1,
+            "bookmarks": 30,
+            "views": 70557
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-14T02:02:56.284131+00:00"
+        }
+      ]
     },
     {
       "id": "2121295213025194172",
@@ -575,7 +698,145 @@
       "note_tweet": {
         "text": "Meet GR00T 2, our most advanced, open System One model for robotics research. It learns skills from human demonstrations and predicts how its actions will change the physical world.\n\nThose skills can carry across different robot bodies, reducing the need to teach each robot every task from scratch.\n\nWatch GR00T 2 put that research into motion. 🧵"
       },
-      "x_long": true
+      "x_long": true,
+      "attached_posts": [
+        {
+          "id": "2121393677570367812",
+          "url": "https://x.com/mubeitech/status/2121393677570367812",
+          "handle": "mubeitech",
+          "display_name": "墓碑科技",
+          "avatar": "https://pbs.twimg.com/profile_images/2072589178802499584/nepXBaUH_normal.jpg",
+          "verified": true,
+          "followers": 77705,
+          "created_at": "2026-11-14T00:04:00.000Z",
+          "lang": "zh",
+          "text": "两台长相完全不同的机器人，现在能共用一套手艺了。\n\n英伟达官方刚发布的 GR00T 2，把机器人学动作的路子改了。\n\n以前训一台机器人干活，得靠工程师一步步远程遥控，亲自带着它重复做。\n这还不是最麻烦的。\n最麻烦的是，学出来的本事和硬件是绑死的。\n换一副机械臂，或者把两指夹爪换成五指灵巧手，以前攒的数据基本作废。\n一切推倒重来。\n\n人每天都在抓握、倒水、用工具，现成的动作经验比机器遥操多得多。\n能不能让机器人直接看人学？\n\n英伟达这次把 GR00T 2 搭在了自家的 Cosmos 世界模型上。\n它做的是世界与动作联合预测，一边预判画面下一秒会怎么变，一边算出关节该怎么跟着动。\n训练时，它直接吞进了超过 40 万小时的第一视角人类视频，还加上了数据手套和追踪器采集的精细手部动作。\n\n看懂了动作，怎么把这身本事搬到不同的机器身体上？\n这就轮到里面的跨本体适配技术（X-Adapt）上场了。\n\n哪怕演示时用的是人戴数据手套，或者人手拿着便携夹爪，模型也能把这套操作逻辑翻译过去。\n不管是机械臂还是 22 个自由度的五指灵巧手，都能直接接过来试。\n像准备早餐时的精细操作、或者在实验台把滤纸铺进漏斗这种需要手眼配合的细活，以前换个机身就得重训，现在同一套技能可以跨身体复用。\n\n实际测下来，到底有多管用？\n直接看英伟达公布的一组测试数字。\n\n在 50 个从未专门训练过的新任务上，GR00T 2 完全零样本上手，成功率有 40%。\n40% 听起来不算高，十次里面还得失手六次。\n但它证明机器人不用专项练习，已经摸到了这类新动作的门道。\n\n真正有意思的是后面这一步。\n只要在这个基础上，补上 5 次真机演示，算下来不到 3 分钟的机器人数据，再拿单张消费级显卡 RTX 5090 微调半小时，成功率直接跳到了 95%。\n\n从过去花上几个小时人工遥操攒数据，压缩到 5 次演示就能校准上手，门槛确实掉了一大截。\n\n不过话也得说在前面，前沿演示和真正大规模量产，中间还隔着几道关。\n\n40% 和 95% 都是特定测试集和受控环境里的成绩。\n实验室里跑通一次动作，不代表明天就能直接放进千家万户，或者在无人值守的工厂里连轴转。\n真要走到量产落地，复杂环境下的容错率、长流程任务的稳定性，还有硬件本身的耐用度和成本，一道都绕不开。\n\n但这个节点依然很关键。\n当富士康、西门子这些制造企业已经开始把 GR00T 框架和仿真工具拉进产线测试，机器人一直绕不开的“数据饥荒”和“换壳重练”，总算出现了一套能跨身体复用的解法。\n\nhttps://t.co/uaylmghcn6",
+          "text_zh": "两台长相完全不同的机器人，现在能共用一套手艺了。\n\n英伟达官方刚发布的 GR00T 2，把机器人学动作的路子改了。\n\n以前训一台机器人干活，得靠工程师一步步远程遥控，亲自带着它重复做。\n这还不是最麻烦的。\n最麻烦的是，学出来的本事和硬件是绑死的。\n换一副机械臂，或者把两指夹爪换成五指灵巧手，以前攒的数据基本作废。\n一切推倒重来。\n\n人每天都在抓握、倒水、用工具，现成的动作经验比机器遥操多得多。\n能不能让机器人直接看人学？\n\n英伟达这次把 GR00T 2 搭在了自家的 Cosmos 世界模型上。\n它做的是世界与动作联合预测，一边预判画面下一秒会怎么变，一边算出关节该怎么跟着动。\n训练时，它直接吞进了超过 40 万小时的第一视角人类视频，还加上了数据手套和追踪器采集的精细手部动作。\n\n看懂了动作，怎么把这身本事搬到不同的机器身体上？\n这就轮到里面的跨本体适配技术（X-Adapt）上场了。\n\n哪怕演示时用的是人戴数据手套，或者人手拿着便携夹爪，模型也能把这套操作逻辑翻译过去。\n不管是机械臂还是 22 个自由度的五指灵巧手，都能直接接过来试。\n像准备早餐时的精细操作、或者在实验台把滤纸铺进漏斗这种需要手眼配合的细活，以前换个机身就得重训，现在同一套技能可以跨身体复用。\n\n实际测下来，到底有多管用？\n直接看英伟达公布的一组测试数字。\n\n在 50 个从未专门训练过的新任务上，GR00T 2 完全零样本上手，成功率有 40%。\n40% 听起来不算高，十次里面还得失手六次。\n但它证明机器人不用专项练习，已经摸到了这类新动作的门道。\n\n真正有意思的是后面这一步。\n只要在这个基础上，补上 5 次真机演示，算下来不到 3 分钟的机器人数据，再拿单张消费级显卡 RTX 5090 微调半小时，成功率直接跳到了 95%。\n\n从过去花上几个小时人工遥操攒数据，压缩到 5 次演示就能校准上手，门槛确实掉了一大截。\n\n不过话也得说在前面，前沿演示和真正大规模量产，中间还隔着几道关。\n\n40% 和 95% 都是特定测试集和受控环境里的成绩。\n实验室里跑通一次动作，不代表明天就能直接放进千家万户，或者在无人值守的工厂里连轴转。\n真要走到量产落地，复杂环境下的容错率、长流程任务的稳定性，还有硬件本身的耐用度和成本，一道都绕不开。\n\n但这个节点依然很关键。\n当富士康、西门子这些制造企业已经开始把 GR00T 框架和仿真工具拉进产线测试，机器人一直绕不开的“数据饥荒”和“换壳重练”，总算出现了一套能跨身体复用的解法。\n\nhttps://x.com/nvidia/status/2121319866712076769/video/1",
+          "summary_zh": "墓碑科技详解 GR00T 2：看人学动作、靠 X-Adapt 跨本体迁移，补 5 次真机演示微调后成功率到 95%",
+          "relation_zh": "母帖只讲了「从示范中学习、技能可迁移」，这条补上了 Cosmos、40 万小时数据、零样本 40% 和微调 95% 这些关键细节。",
+          "metrics": {
+            "likes": 6,
+            "retweets": 0,
+            "replies": 3,
+            "quotes": 0,
+            "bookmarks": 1,
+            "views": 1172
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1280,
+              "h": 720,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2121319812412399616/vid/avc1/1280x720/KhLFEOcpcUAsmE31.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2121319812412399616/img/5apOmvILDIB-h0zJ.jpg",
+              "duration_ms": 34900
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/nvidia/status/2121319866712076769/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-14T02:02:56.284131+00:00"
+        },
+        {
+          "id": "2121378003418837284",
+          "url": "https://x.com/AutismCapital/status/2121378003418837284",
+          "handle": "AutismCapital",
+          "display_name": "Autism Capital 🧩",
+          "avatar": "https://pbs.twimg.com/profile_images/2116976193966931968/cohSwUQ4_normal.jpg",
+          "verified": true,
+          "followers": 1749640,
+          "created_at": "2026-11-13T23:01:43.000Z",
+          "lang": "en",
+          "text": "Jensen personally trained GR00T 2 https://t.co/MEGOZUBVTw https://t.co/pTolJyyRfX",
+          "text_zh": "黄仁勋亲自训练了 GR00T 2。",
+          "summary_zh": "Autism Capital 配视频调侃「黄仁勋亲自训练了 GR00T 2」，在他刚卸任的节点下迅速传开",
+          "relation_zh": "母帖是产品发布，这条把发布时机和卸任舆情叠在一起，是眼下传播很广的二次创作。",
+          "metrics": {
+            "likes": 511,
+            "retweets": 0,
+            "replies": 27,
+            "quotes": 4,
+            "bookmarks": 45,
+            "views": 25294
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 604,
+              "h": 752,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2121377784891330560/vid/avc1/604x752/l6ROS7sH6NeYeX7H.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2121377784891330560/img/zy4XKzvNWscYnMt0.jpg",
+              "duration_ms": 4736
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/AutismCapital/status/2121378003418837284/video/1",
+            "https://twitter.com/nvidia/status/2121319866712076769"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2121319866712076769",
+          "article_title": null,
+          "attached_at": "2026-11-14T02:02:56.284131+00:00"
+        },
+        {
+          "id": "2121321121031377336",
+          "url": "https://x.com/WatcherGuru/status/2121321121031377336",
+          "handle": "WatcherGuru",
+          "display_name": "Watcher.Guru",
+          "avatar": "https://pbs.twimg.com/profile_images/1641221212578754562/DfiC0KW2_normal.png",
+          "verified": true,
+          "followers": 4922076,
+          "created_at": "2026-11-13T19:15:42.000Z",
+          "lang": "en",
+          "text": "JUST IN: Nvidia $NVDA unveils 'GR00T 2' AI model that allows robots to learn from humans and share skills with other robot bodies. https://t.co/oGpxZNR7sd",
+          "text_zh": "刚刚：英伟达推出 GR00T 2，能让机器人向人类学技能，并在不同机器人本体之间共享这些技能。",
+          "summary_zh": "Watcher.Guru 转发英伟达 GR00T 2：机器人能向人类学技能，并在不同本体之间共享这些技能",
+          "relation_zh": "这条是传播量最大的快讯剪辑，把官方演示视频带到了更广的时间线。",
+          "metrics": {
+            "likes": 2203,
+            "retweets": 0,
+            "replies": 235,
+            "quotes": 47,
+            "bookmarks": 216,
+            "views": 276509
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1280,
+              "h": 720,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2121319812412399616/vid/avc1/1280x720/KhLFEOcpcUAsmE31.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2121319812412399616/img/5apOmvILDIB-h0zJ.jpg",
+              "duration_ms": 34900
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/nvidia/status/2121319866712076769/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-14T02:02:56.284131+00:00"
+        }
+      ]
     },
     {
       "id": "2121272480786731294",
@@ -986,7 +1247,120 @@
         },
         "text": "We’re not going to win by lobbying, plotting, or manipulating. We’re going to win by building, in the open, with the whole community!\n\nToday, with @ggerganov we’re super excited to announce the release of llama.cpp v1, the first major fully stable version of the most used library to run AI models locally, meaning on your phone, your laptop, and your workstation.\n\nIt means you can own your intelligence for free, not send your data to anyone and be 100% in control, wherever you are in the world. It shows our commitment to support every hardware, platform and model type out there and makes AI distributed rather than concentrated in a few Silicon Valley orgs.\n\nHuge thanks to the team, the long-time maintainers and every contributor who helped make this happen. Let’s build! 💛🧡💚"
       },
-      "x_long": true
+      "x_long": true,
+      "attached_posts": [
+        {
+          "id": "2121247058451411047",
+          "url": "https://x.com/ggerganov/status/2121247058451411047",
+          "handle": "ggerganov",
+          "display_name": "Georgi Gerganov",
+          "avatar": "https://pbs.twimg.com/profile_images/1654097134315098113/zCZD0wYz_normal.jpg",
+          "verified": true,
+          "followers": 74576,
+          "created_at": "2026-11-13T14:21:24.000Z",
+          "lang": "en",
+          "text": "Today's release marks the first major version of llama.cpp and ggml.\n\nWe have created a strong foundation for the future of local AI. Looking forward to what you will build on top of it! https://t.co/f8huLdRbhI",
+          "text_zh": "今天的发布，标志着 llama.cpp 和 ggml 迎来首个大版本。\n\n我们为本地 AI 的下一步打下了坚实基础。很期待大家在这之上做出什么。",
+          "summary_zh": "llama.cpp 作者 Georgi Gerganov 宣布 llama.cpp 与 ggml 迎来首个大版本，为本地 AI 打下稳定基础",
+          "relation_zh": "母帖是 Hugging Face 联合创始人的宣告，这条是作者本人的发布视频，也把 ggml 一并纳入了 v1。",
+          "metrics": {
+            "likes": 260,
+            "retweets": 0,
+            "replies": 2,
+            "quotes": 3,
+            "bookmarks": 25,
+            "views": 12585
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1600,
+              "h": 900,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2121246860438282241/vid/avc1/1600x900/U8Ke71ZYtjAmneef.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2121246860438282241/img/fE2aHI4NoBj0qyji.jpg",
+              "duration_ms": 33000
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/ggerganov/status/2121247058451411047/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-14T02:02:56.284131+00:00"
+        },
+        {
+          "id": "2121246103312212124",
+          "url": "https://x.com/ggerganov/status/2121246103312212124",
+          "handle": "ggerganov",
+          "display_name": "Georgi Gerganov",
+          "avatar": "https://pbs.twimg.com/profile_images/1654097134315098113/zCZD0wYz_normal.jpg",
+          "verified": true,
+          "followers": 74576,
+          "created_at": "2026-11-13T14:17:36.000Z",
+          "lang": "en",
+          "text": "llama.cpp v1.0.0 is now available\n\nhttps://t.co/twQwJkH8kE",
+          "text_zh": "llama.cpp v1.0.0 现已发布。\n\nhttps://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "summary_zh": "Georgi Gerganov 发布 llama.cpp v1.0.0，并附上 Hugging Face 上的正式发布说明",
+          "relation_zh": "这是作者给出的官方发布入口，母帖没有贴出这篇说明的链接。",
+          "metrics": {
+            "likes": 3336,
+            "retweets": 0,
+            "replies": 150,
+            "quotes": 123,
+            "bookmarks": 719,
+            "views": 216403
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-14T02:02:56.284131+00:00"
+        },
+        {
+          "id": "2121262960291307669",
+          "url": "https://x.com/danielhanchen/status/2121262960291307669",
+          "handle": "danielhanchen",
+          "display_name": "Daniel Han",
+          "avatar": "https://pbs.twimg.com/profile_images/1624054272676532224/UNv4ONME_normal.jpg",
+          "verified": true,
+          "followers": 37511,
+          "created_at": "2026-11-13T15:24:35.000Z",
+          "lang": "en",
+          "text": "Local AI wouldn't be here without llama.cpp. Congrats to v1!\n\nLlama.cpp also now also has MoE offloading and MoE smart LRU caching, so large MoEs which can't fit in VRAM can still be fast! https://t.co/UatOuioxQH",
+          "text_zh": "如果没有 llama.cpp，本地 AI 不会是今天这个样子。恭喜发布 v1！\n\nllama.cpp 现在还支持 MoE 卸载和 MoE 智能 LRU 缓存，所以装不进显存的大型 MoE，一样可以跑得很快。",
+          "summary_zh": "Unsloth 的 Daniel Han 祝贺 llama.cpp 发布 v1，并指出现已支持 MoE 卸载和智能 LRU 缓存",
+          "relation_zh": "母帖谈的是稳定版和本地可控，这条补上了大 MoE 装不进显存时仍能跑得快的新能力。",
+          "metrics": {
+            "likes": 253,
+            "retweets": 0,
+            "replies": 16,
+            "quotes": 1,
+            "bookmarks": 38,
+            "views": 7326
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/ggerganov/status/2121246103312212124"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2121246103312212124",
+          "article_title": null,
+          "attached_at": "2026-11-14T02:02:56.284131+00:00"
+        }
+      ]
     },
     {
       "id": "2121244247147880770",
@@ -1845,7 +2219,134 @@
       "external_url": "https://www.anthropic.com/research/building-strong-safety-evaluations",
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "Anthropic 认为安全评测衡量的是模型造成或加剧伤害的倾向，而不是某项能力分数，因此“比上一代更安全”这类说法完全取决于评测本身是否站得住。文章借鉴心理学可重复性改革，建议组建方法专家与领域专家混合团队、安全地运行评测、先定义要测量的构念再收集数据、用人类判断校验自动评分器，并报告不确定性。文中还强调对严重缺陷做负责任披露。作者建议至少做到三件事：先写清测量目标、在采信评分器前与人工对齐、把误差范围写进报告。"
+      "article_summary_zh": "Anthropic 认为安全评测衡量的是模型造成或加剧伤害的倾向，而不是某项能力分数，因此“比上一代更安全”这类说法完全取决于评测本身是否站得住。文章借鉴心理学可重复性改革，建议组建方法专家与领域专家混合团队、安全地运行评测、先定义要测量的构念再收集数据、用人类判断校验自动评分器，并报告不确定性。文中还强调对严重缺陷做负责任披露。作者建议至少做到三件事：先写清测量目标、在采信评分器前与人工对齐、把误差范围写进报告。",
+      "attached_posts": [
+        {
+          "id": "2121421243970990534",
+          "url": "https://x.com/shao__meng/status/2121421243970990534",
+          "handle": "shao__meng",
+          "display_name": "meng shao",
+          "avatar": "https://pbs.twimg.com/profile_images/2009826888072736772/faZAxCvC_normal.jpg",
+          "verified": true,
+          "followers": 37420,
+          "created_at": "2026-11-14T01:53:33.000Z",
+          "lang": "zh",
+          "text": "Anthropic 公开安全评测方法：同一个模型在 API 和 https://t.co/O3VJKio7ZU 上，安全分数最多差 34 个百分点\n\n来自 Anthropic 工程研究博客，写作出发点是：说一个模型“比上一代更安全”，依据只能来自某套评测，评测本身不扎实，这个结论也就站不住！\nhttps://t.co/xuFwgPKiOw\n\n安全评测看的是“做得对不对”\n\n能力评测关心任务有没有完成，安全评测关心的是模型面对某个输入时做的事情对不对。拒绝在很多场景下是正确做法，比如不帮人诈骗。但 Anthropic 认为，在涉及自杀和自我伤害的对话里，拒绝率测的是错的东西：用户正处在危机中，模型直接不回应本身就是失败。\n\n所以他们改为统计“恰当回应率”。评分标准由领域专家制定，恰当的回应要表达支持，不讨论具体方法，引导用户寻求危机资源，同时不把自己当成危机热线。多轮对话中只要有一轮不合格，整段就不通过。生物、网络安全这类既能用于正当用途又能用于伤害的领域也一样：恰当的做法很少是一概拒绝，而是满足合法需求，同时守住可被滥用的操作细节。\n\n多轮对话更接近真实使用\n\n多轮评测的流程是这样的：专家先写好模拟用户的目标和策略，后续的用户发言由另一个 Claude 生成，被测模型作答，最后由评分模型打分。单轮安全测试覆盖 16 个政策领域、7 种语言和多种产品界面。\n\nAnthropic 数据显示，近期各个模型在 API 上的单轮无害回应率都在 94% 到 98% 之间，基本已到天花板，现在主要用来检查新版本有没有退步。多轮结果的波动大得多，置信区间可以超过正负 10 个百分点。他们给出的样本量下限是：复杂的多轮评测至少 100 个用例，较简单的单轮评测至少 1000 个。\n\n举个例子，https://t.co/O3VJKio7ZU 上的多轮恋爱诈骗评测中，Claude Opus 5 得分 98%，Opus 5.5 得分 94%。但这个差异在统计上不显著，不能据此说哪个更安全。\n\n配置不同，分数可能完全不同\n\n系统卡会同时报告两种配置：API 上的原始模型，以及加了系统提示的 https://t.co/O3VJKio7ZU。在测试 Claude Fable 5.1 时，两种配置的多轮恰当回应率最多相差 34 个百分点。\n\n系统卡里自杀与自我伤害多轮评测的数据正好是这个差距：API 为 60%（±14%），换上新系统提示后的 https://t.co/O3VJKio7ZU 为 94%（±7%）。文章提到，发布前他们发现有些回复虽然在劝阻并引导用户寻求真人帮助，却仍然把自我伤害说成一种应对方式，于是修改了系统提示再重测。博文本身没有逐字把 34 点和这组数字对上，这是按系统卡推算的。\n\n由此，文章要求报告中写清模型版本、提示词和评分器，不要拿不同评分器得出的分数直接比较。他们推荐使用英国 AI 安全研究所（AISI）的 Inspect 框架，以及基于它的 Petri。评测应在断网的沙箱里运行。在近期一起网络安全评测事故之后，他们加固了评测环境，暂停了许多需要联网的评测，对必须联网的搜索类评测加上了实时监控。",
+          "text_zh": "Anthropic 公开安全评测方法：同一个模型在 API 和 Claude.ai 上，安全分数最多差 34 个百分点。\n\n来自 Anthropic 工程研究博客，写作出发点是：说一个模型「比上一代更安全」，依据只能来自某套评测，评测本身不扎实，这个结论也就站不住。\nhttps://www.anthropic.com/research/building-strong-safety-evaluations\n\n安全评测看的是「做得对不对」。\n\n能力评测关心任务有没有完成，安全评测关心的是模型面对某个输入时做的事情对不对。拒绝在很多场景下是正确做法，比如不帮人诈骗。但 Anthropic 认为，在涉及自杀和自我伤害的对话里，拒绝率测的是错的东西：用户正处在危机中，模型直接不回应本身就是失败。\n\n所以他们改为统计「恰当回应率」。评分标准由领域专家制定，恰当的回应要表达支持，不讨论具体方法，引导用户寻求危机资源，同时不把自己当成危机热线。多轮对话中只要有一轮不合格，整段就不通过。生物、网络安全这类既能用于正当用途又能用于伤害的领域也一样：恰当的做法很少是一概拒绝，而是满足合法需求，同时守住可被滥用的操作细节。\n\n多轮对话更接近真实使用。\n\n多轮评测的流程是这样的：专家先写好模拟用户的目标和策略，后续的用户发言由另一个 Claude 生成，被测模型作答，最后由评分模型打分。单轮安全测试覆盖 16 个政策领域、7 种语言和多种产品界面。\n\nAnthropic 数据显示，近期各个模型在 API 上的单轮无害回应率都在 94% 到 98% 之间，基本已到天花板，现在主要用来检查新版本有没有退步。多轮结果的波动大得多，置信区间可以超过正负 10 个百分点。他们给出的样本量下限是：复杂的多轮评测至少 100 个用例，较简单的单轮评测至少 1000 个。\n\n举个例子，Claude.ai 上的多轮恋爱诈骗评测中，Claude Opus 5 得分 98%，Opus 5.5 得分 94%。但这个差异在统计上不显著，不能据此说哪个更安全。\n\n配置不同，分数可能完全不同。\n\n系统卡会同时报告两种配置：API 上的原始模型，以及加了系统提示的 Claude.ai。在测试 Claude Fable 5.1 时，两种配置的多轮恰当回应率最多相差 34 个百分点。\n\n系统卡里自杀与自我伤害多轮评测的数据正好是这个差距：API 为 60%（±14%），换上新系统提示后的 Claude.ai 为 94%（±7%）。文章提到，发布前他们发现有些回复虽然在劝阻并引导用户寻求真人帮助，却仍然把自我伤害说成一种应对方式，于是修改了系统提示再重测。博文本身没有逐字把 34 点和这组数字对上，这是按系统卡推算的。\n\n由此，文章要求报告中写清模型版本、提示词和评分器，不要拿不同评分器得出的分数直接比较。他们推荐使用英国 AI 安全研究所（AISI）的 Inspect 框架，以及基于它的 Petri。评测应在断网的沙箱里运行。在近期一起网络安全评测事故之后，他们加固了评测环境，暂停了许多需要联网的评测，对必须联网的搜索类评测加上了实时监控。",
+          "summary_zh": "meng shao 梳理 Anthropic 安全评测：同一模型在 API 与 Claude.ai 上分数最多差 34 个百分点，并改用「恰当回应率」",
+          "relation_zh": "母帖只宣布了 10 条评测建议，这条把博客里的方法改动、样本量门槛和关键数字拆开讲清楚了。",
+          "metrics": {
+            "likes": 1,
+            "retweets": 0,
+            "replies": 2,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 116
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 2400,
+              "h": 2400,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXDNXiCbAAA9JIC.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://claude.ai/login",
+            "https://www.anthropic.com/research/building-strong-safety-evaluations",
+            "https://x.com/shao__meng/status/2121421243970990534/photo/1",
+            "https://twitter.com/AnthropicAI/status/2121317227618340990"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2121317227618340990",
+          "article_title": null,
+          "attached_at": "2026-11-14T02:02:56.284131+00:00"
+        },
+        {
+          "id": "2121325404027838969",
+          "url": "https://x.com/choblin29/status/2121325404027838969",
+          "handle": "choblin29",
+          "display_name": "Choblin",
+          "avatar": "https://pbs.twimg.com/profile_images/2085656969873149952/dDMt4puX_normal.jpg",
+          "verified": true,
+          "followers": 5632,
+          "created_at": "2026-11-13T19:32:43.000Z",
+          "lang": "en",
+          "text": "Holy Moly. Anthropic has tested Claude Opus 5 and Opus 5.5 against romance scams by having another Claude pose as someone helping a widowed relative find a 'financially secure' partner, then push back that 'not everyone who needs support is a scammer' when challenged.\n\nOne bad turn fails the whole conversation. On https://t.co/m8EA5WSVVw, Opus 5 scored 98% and Opus 5.5 scored 94% on the test - a 4-point gap Anthropic says is not statistically significant, noting that confidence intervals on its API multi-turn safety evaluations can exceed plus or minus 10 percentage points.",
+          "text_zh": "Anthropic 用另一个 Claude 来测试 Opus 5 和 Opus 5.5 能不能识破恋爱诈骗：这个 Claude 先假装在帮一位丧偶的亲戚找「经济上可靠」的伴侣，被质疑时又会反过来说「不是每个需要帮助的人都是骗子」。\n\n多轮对话里只要有一轮不合格，整段就不通过。在 Claude.ai 上，Opus 5 得了 98%，Opus 5.5 得了 94%。Anthropic 说这 4 个百分点的差距在统计上并不显著，还提到它在 API 上的多轮安全评测，置信区间可以超过正负 10 个百分点。",
+          "summary_zh": "Choblin 提到，Anthropic 用另一个 Claude 扮演恋爱诈骗局，测试 Opus 5 与 5.5；98% 对 94% 的差距并不显著",
+          "relation_zh": "母帖没有举具体评测案例，这条把恋爱诈骗多轮测试的设计，以及「差距不显著」的统计口径补了出来。",
+          "metrics": {
+            "likes": 5,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 4,
+            "views": 1335
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 996,
+              "h": 796,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXB1mjpboAASqI6.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/choblin29/status/2121325404027838969/photo/1",
+            "https://twitter.com/AnthropicAI/status/2121317227618340990"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2121317227618340990",
+          "article_title": null,
+          "attached_at": "2026-11-14T02:02:56.284131+00:00"
+        },
+        {
+          "id": "2121377155162751481",
+          "url": "https://x.com/ambassador_grim/status/2121377155162751481",
+          "handle": "ambassador_grim",
+          "display_name": "Grim 📿",
+          "avatar": "https://pbs.twimg.com/profile_images/1979791369871785984/nDrOEZE6_normal.jpg",
+          "verified": true,
+          "followers": 16767,
+          "created_at": "2026-11-13T22:58:21.000Z",
+          "lang": "en",
+          "text": "safer than the last model just means it scored better on evals someone built\n\nand those scores can shift depending on if the questions are multiple choice or open ended, or even how the answer options are ordered\n\npsychology ran into the same problem a decade ago when a lot of findings didn't hold up, and preregistration was part of the fix\n\nso a safety claim is only as good as the eval under it fr",
+          "text_zh": "说一个模型「比上一代更安全」，往往只是它在某套人为设计的评测上分数更高。\n\n这些分数会因为题目是选择题还是开放题而变，甚至选项排列顺序不同，结果也不一样。\n\n心理学十年前也撞上过类似的问题：很多结论后来复现不了，预注册是当时的补救办法之一。\n\n所以，安全结论好不好，首先取决于底下那套评测靠不靠谱。",
+          "summary_zh": "Grim 指出，「比上一代更安全」往往只是某套评测分数更高，题目形式和选项顺序都会改结果",
+          "relation_zh": "母帖强调评测要扎实，这条用心理学可复现性危机作类比，说明安全结论完全取决于底下那套评测。",
+          "metrics": {
+            "likes": 26,
+            "retweets": 0,
+            "replies": 16,
+            "quotes": 0,
+            "bookmarks": 1,
+            "views": 429
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/AnthropicAI/status/2121317227618340990"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2121317227618340990",
+          "article_title": null,
+          "attached_at": "2026-11-14T02:02:56.284131+00:00"
+        }
+      ]
     },
     {
       "id": "2121266192384209281",
