@@ -1,0 +1,655 @@
+{
+  "data": [
+    {
+      "author_id": "1966599631900438528",
+      "conversation_id": "2121284641080345079",
+      "created_at": "2026-11-13T23:00:33.000Z",
+      "edit_history_tweet_ids": [
+        "2121377705794863362"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1687489356125319169",
+            "start": 0,
+            "username": "Cerevia_"
+          },
+          {
+            "end": 23,
+            "id": "1651729524579766272",
+            "start": 10,
+            "username": "coderabbitai"
+          }
+        ]
+      },
+      "id": "2121377705794863362",
+      "in_reply_to_user_id": "1687489356125319169",
+      "lang": "fr",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 32,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121288314934448542",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Cerevia_ @coderabbitai lgtm says cerevia",
+      "url": "https://x.com/Argona0x/status/2121377705794863362"
+    },
+    {
+      "author_id": "1966599631900438528",
+      "conversation_id": "2121284641080345079",
+      "created_at": "2026-11-13T22:34:24.000Z",
+      "edit_history_tweet_ids": [
+        "2121371126777500032"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "3075199947",
+            "start": 0,
+            "username": "undefinedKi"
+          },
+          {
+            "end": 26,
+            "id": "1651729524579766272",
+            "start": 13,
+            "username": "coderabbitai"
+          }
+        ]
+      },
+      "id": "2121371126777500032",
+      "in_reply_to_user_id": "3075199947",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 37,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121360230923854283",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@undefinedKi @coderabbitai massive for open source",
+      "url": "https://x.com/Argona0x/status/2121371126777500032"
+    },
+    {
+      "author_id": "3075199947",
+      "conversation_id": "2121284641080345079",
+      "created_at": "2026-11-13T21:51:06.000Z",
+      "edit_history_tweet_ids": [
+        "2121360230923854283"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1966599631900438528",
+            "start": 0,
+            "username": "Argona0x"
+          },
+          {
+            "end": 23,
+            "id": "1651729524579766272",
+            "start": 10,
+            "username": "coderabbitai"
+          }
+        ]
+      },
+      "id": "2121360230923854283",
+      "in_reply_to_user_id": "1966599631900438528",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 21,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121284641080345079",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Argona0x @coderabbitai this is huge stuff fr",
+      "url": "https://x.com/undefinedKi/status/2121360230923854283"
+    },
+    {
+      "author_id": "1966599631900438528",
+      "conversation_id": "2121284641080345079",
+      "created_at": "2026-11-13T21:42:29.000Z",
+      "edit_history_tweet_ids": [
+        "2121358060115427440"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1713062826175299584",
+            "start": 0,
+            "username": "Av1dlive"
+          },
+          {
+            "end": 23,
+            "id": "1651729524579766272",
+            "start": 10,
+            "username": "coderabbitai"
+          }
+        ]
+      },
+      "id": "2121358060115427440",
+      "in_reply_to_user_id": "1713062826175299584",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 26,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121293446757625987",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Av1dlive @coderabbitai your pull requests must feel so judged",
+      "url": "https://x.com/Argona0x/status/2121358060115427440"
+    },
+    {
+      "author_id": "1966599631900438528",
+      "conversation_id": "2121284641080345079",
+      "created_at": "2026-11-13T20:30:57.000Z",
+      "edit_history_tweet_ids": [
+        "2121340057713889675"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "417508671",
+            "start": 0,
+            "username": "thesimaximalist"
+          },
+          {
+            "end": 30,
+            "id": "1651729524579766272",
+            "start": 17,
+            "username": "coderabbitai"
+          }
+        ]
+      },
+      "id": "2121340057713889675",
+      "in_reply_to_user_id": "417508671",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 30,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121296663427907875",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@thesimaximalist @coderabbitai maintainers deserve this",
+      "url": "https://x.com/Argona0x/status/2121340057713889675"
+    },
+    {
+      "author_id": "417508671",
+      "conversation_id": "2121284641080345079",
+      "created_at": "2026-11-13T17:38:31.000Z",
+      "edit_history_tweet_ids": [
+        "2121296663427907875"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1966599631900438528",
+            "start": 0,
+            "username": "Argona0x"
+          },
+          {
+            "end": 23,
+            "id": "1651729524579766272",
+            "start": 10,
+            "username": "coderabbitai"
+          }
+        ]
+      },
+      "id": "2121296663427907875",
+      "in_reply_to_user_id": "1966599631900438528",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 19,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121284641080345079",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Argona0x @coderabbitai Here’s to that “75 already fixed” becoming a much bigger number ❤️",
+      "url": "https://x.com/thesimaximalist/status/2121296663427907875"
+    },
+    {
+      "author_id": "1713062826175299584",
+      "conversation_id": "2121284641080345079",
+      "created_at": "2026-11-13T17:25:44.000Z",
+      "edit_history_tweet_ids": [
+        "2121293446757625987"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1966599631900438528",
+            "start": 0,
+            "username": "Argona0x"
+          },
+          {
+            "end": 23,
+            "id": "1651729524579766272",
+            "start": 10,
+            "username": "coderabbitai"
+          }
+        ]
+      },
+      "id": "2121293446757625987",
+      "in_reply_to_user_id": "1966599631900438528",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 43,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121284641080345079",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Argona0x @coderabbitai user of coderabbit for a long time",
+      "url": "https://x.com/Av1dlive/status/2121293446757625987"
+    },
+    {
+      "author_id": "1687489356125319169",
+      "conversation_id": "2121284641080345079",
+      "created_at": "2026-11-13T17:05:20.000Z",
+      "edit_history_tweet_ids": [
+        "2121288314934448542"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1966599631900438528",
+            "start": 0,
+            "username": "Argona0x"
+          },
+          {
+            "end": 23,
+            "id": "1651729524579766272",
+            "start": 10,
+            "username": "coderabbitai"
+          }
+        ]
+      },
+      "id": "2121288314934448542",
+      "in_reply_to_user_id": "1966599631900438528",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 16,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121284641080345079",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Argona0x @coderabbitai scan to fix pr is clean ngl",
+      "url": "https://x.com/Cerevia_/status/2121288314934448542"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1687489356125319169",
+        "conversation_id": "2121284641080345079",
+        "created_at": "2026-11-13T17:05:20.000Z",
+        "edit_history_tweet_ids": [
+          "2121288314934448542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1966599631900438528",
+              "start": 0,
+              "username": "Argona0x"
+            },
+            {
+              "end": 23,
+              "id": "1651729524579766272",
+              "start": 10,
+              "username": "coderabbitai"
+            }
+          ]
+        },
+        "id": "2121288314934448542",
+        "in_reply_to_user_id": "1966599631900438528",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121284641080345079",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Argona0x @coderabbitai scan to fix pr is clean ngl"
+      },
+      {
+        "author_id": "3075199947",
+        "conversation_id": "2121284641080345079",
+        "created_at": "2026-11-13T21:51:06.000Z",
+        "edit_history_tweet_ids": [
+          "2121360230923854283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1966599631900438528",
+              "start": 0,
+              "username": "Argona0x"
+            },
+            {
+              "end": 23,
+              "id": "1651729524579766272",
+              "start": 10,
+              "username": "coderabbitai"
+            }
+          ]
+        },
+        "id": "2121360230923854283",
+        "in_reply_to_user_id": "1966599631900438528",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121284641080345079",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Argona0x @coderabbitai this is huge stuff fr"
+      },
+      {
+        "author_id": "1966599631900438528",
+        "conversation_id": "2121284641080345079",
+        "created_at": "2026-11-13T16:50:44.000Z",
+        "edit_history_tweet_ids": [
+          "2121284641080345079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 42,
+              "id": "1651729524579766272",
+              "start": 29,
+              "username": "coderabbitai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mBUPco07Cf",
+              "end": 302,
+              "expanded_url": "https://x.com/Argona0x/status/2121284641080345079/video/1",
+              "media_key": "13_2121284559144673280",
+              "start": 279,
+              "url": "https://t.co/mBUPco07Cf"
+            },
+            {
+              "display_url": "x.com/coderabbitai/s…",
+              "end": 326,
+              "expanded_url": "https://twitter.com/coderabbitai/status/2121272144206135487",
+              "start": 303,
+              "url": "https://t.co/zNOwLHHGZf"
+            }
+          ]
+        },
+        "id": "2121284641080345079",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 1089,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121272144206135487",
+            "type": "quoted"
+          }
+        ],
+        "text": "wait... so you're telling me @coderabbitai put $1M into free deep scans for open source maintainers??\n\nand in 10 days those scans found 1,200+ critical or high vulnerabilities across 1,100 OSS orgs, at no cost to the OSS community\n\nwhy this is a big deal:\n\n- attackers now point https://t.co/mBUPco07Cf https://t.co/zNOwLHHGZf"
+      },
+      {
+        "author_id": "1713062826175299584",
+        "conversation_id": "2121284641080345079",
+        "created_at": "2026-11-13T17:25:44.000Z",
+        "edit_history_tweet_ids": [
+          "2121293446757625987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1966599631900438528",
+              "start": 0,
+              "username": "Argona0x"
+            },
+            {
+              "end": 23,
+              "id": "1651729524579766272",
+              "start": 10,
+              "username": "coderabbitai"
+            }
+          ]
+        },
+        "id": "2121293446757625987",
+        "in_reply_to_user_id": "1966599631900438528",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121284641080345079",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Argona0x @coderabbitai user of coderabbit for a long time"
+      },
+      {
+        "author_id": "417508671",
+        "conversation_id": "2121284641080345079",
+        "created_at": "2026-11-13T17:38:31.000Z",
+        "edit_history_tweet_ids": [
+          "2121296663427907875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1966599631900438528",
+              "start": 0,
+              "username": "Argona0x"
+            },
+            {
+              "end": 23,
+              "id": "1651729524579766272",
+              "start": 10,
+              "username": "coderabbitai"
+            }
+          ]
+        },
+        "id": "2121296663427907875",
+        "in_reply_to_user_id": "1966599631900438528",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121284641080345079",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Argona0x @coderabbitai Here’s to that “75 already fixed” becoming a much bigger number ❤️"
+      }
+    ],
+    "users": [
+      {
+        "id": "1966599631900438528",
+        "name": "Argona",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074194587824889856/HEijowP__normal.jpg",
+        "public_metrics": {
+          "followers_count": 40793,
+          "following_count": 757,
+          "like_count": 16057,
+          "listed_count": 448,
+          "media_count": 779,
+          "tweet_count": 15864
+        },
+        "username": "Argona0x",
+        "verified": false
+      },
+      {
+        "id": "1687489356125319169",
+        "name": "Cerevia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108151086888685568/tTKO4dcK_normal.jpg",
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 475,
+          "like_count": 2447,
+          "listed_count": 1,
+          "media_count": 292,
+          "tweet_count": 3240
+        },
+        "username": "Cerevia_",
+        "verified": false
+      },
+      {
+        "id": "3075199947",
+        "name": "Yarchi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054664188417413120/DZKz0Tqn_normal.jpg",
+        "public_metrics": {
+          "followers_count": 21056,
+          "following_count": 533,
+          "like_count": 23187,
+          "listed_count": 207,
+          "media_count": 842,
+          "tweet_count": 13705
+        },
+        "username": "undefinedKi",
+        "verified": false
+      },
+      {
+        "id": "1713062826175299584",
+        "name": "Avid",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010392290590912512/x7vtAe5W_normal.jpg",
+        "public_metrics": {
+          "followers_count": 30565,
+          "following_count": 420,
+          "like_count": 44639,
+          "listed_count": 356,
+          "media_count": 1056,
+          "tweet_count": 20435
+        },
+        "username": "Av1dlive",
+        "verified": false
+      },
+      {
+        "id": "417508671",
+        "name": "The SI Maximalist",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103482555638878208/ctiZwfOd_normal.jpg",
+        "public_metrics": {
+          "followers_count": 11159,
+          "following_count": 1330,
+          "like_count": 203491,
+          "listed_count": 67,
+          "media_count": 2630,
+          "tweet_count": 126442
+        },
+        "username": "thesimaximalist",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121377705794863362",
+    "next_token": "b26v89c19zqg8o3juzovr7r60thm8htwzaj0iyil334ot",
+    "oldest_id": "2121288314934448542",
+    "result_count": 8
+  }
+}

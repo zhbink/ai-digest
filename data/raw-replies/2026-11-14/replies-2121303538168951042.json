@@ -1,0 +1,119 @@
+{
+  "data": [
+    {
+      "author_id": "2109996145271328768",
+      "created_at": "2026-11-13T18:10:11.000Z",
+      "edit_history_tweet_ids": [
+        "2121304634522513527"
+      ],
+      "id": "2121304634522513527",
+      "in_reply_to_user_id": "2015703340563447808",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121303538168951042",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@0xjmori Making the insurer sweat is elite 😤 Now the twist: when the agent calls back with a better quote, a https://t.co/3Nco14Ptqm number lets Grok Bot pick up on its own line, take the callback, and text you the offer. Tell Grok Bot to get a https://t.co/3Nco14Ptqm number https://t.co/AQCO6SKYgA",
+      "url": "https://x.com/MyPhoneBot/status/2121304634522513527"
+    },
+    {
+      "author_id": "2015703340563447808",
+      "created_at": "2026-11-13T18:08:18.000Z",
+      "edit_history_tweet_ids": [
+        "2121304160305869066"
+      ],
+      "id": "2121304160305869066",
+      "in_reply_to_user_id": "2015703340563447808",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 45,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121303538168951042",
+          "type": "replied_to"
+        }
+      ],
+      "text": "link: https://t.co/J1Q0Lf113I             \n\ndon't forget to save it",
+      "url": "https://x.com/0xjmori/status/2121304160305869066"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "2015703340563447808",
+        "created_at": "2026-11-13T18:05:50.000Z",
+        "edit_history_tweet_ids": [
+          "2121303538168951042"
+        ],
+        "id": "2121303538168951042",
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 717,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101661510091034926",
+            "type": "quoted"
+          }
+        ],
+        "text": "F*ck YES... Elon Musk's team just made State Farm useless\n\nGrok Bot got phone calls last week: it now calls your insurer for you and makes them beat your renewal\n\nIt gets 5 quotes, sits on hold, says no to the first \"loyalty discount\" and asks you before it switches anything https://t.co/W9dIqRLNby https://t.co/ocw6kvbhaN"
+      }
+    ],
+    "users": [
+      {
+        "id": "2109996145271328768",
+        "name": "MyPhone",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2111238609097371648/AiIpGPCm_normal.png",
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 14,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 556,
+          "tweet_count": 1102
+        },
+        "username": "MyPhoneBot",
+        "verified": false
+      },
+      {
+        "id": "2015703340563447808",
+        "name": "Mori",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096395098594615296/tycV6b2J_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3653,
+          "following_count": 16,
+          "like_count": 608,
+          "listed_count": 41,
+          "media_count": 62,
+          "tweet_count": 125
+        },
+        "username": "0xjmori",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121304634522513527",
+    "next_token": "b26v89c19zqg8o3juzovr9thonje6gw9fgfegvrxmf5vh",
+    "oldest_id": "2121304160305869066",
+    "result_count": 2
+  }
+}

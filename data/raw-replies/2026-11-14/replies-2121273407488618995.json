@@ -1,0 +1,1079 @@
+{
+  "data": [
+    {
+      "author_id": "1738407432110362625",
+      "conversation_id": "2121273407488618995",
+      "created_at": "2026-11-13T23:24:36.000Z",
+      "edit_history_tweet_ids": [
+        "2121383761694613522"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          },
+          {
+            "end": 24,
+            "id": "1998160192903745536",
+            "start": 15,
+            "username": "inferact"
+          }
+        ]
+      },
+      "id": "2121383761694613522",
+      "in_reply_to_user_id": "1745106082790318080",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 47,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121273407488618995",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ @inferact You should make another dancing video",
+      "url": "https://x.com/crowfry/status/2121383761694613522"
+    },
+    {
+      "author_id": "2078707395438759936",
+      "conversation_id": "2121273407488618995",
+      "created_at": "2026-11-13T22:14:16.000Z",
+      "edit_history_tweet_ids": [
+        "2121366061081862253"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          },
+          {
+            "end": 24,
+            "id": "1998160192903745536",
+            "start": 15,
+            "username": "inferact"
+          }
+        ]
+      },
+      "id": "2121366061081862253",
+      "in_reply_to_user_id": "1745106082790318080",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121273407488618995",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ @inferact This is a useful reminder that kernels, not just silicon, decide inference winners. If FlyDSL closed the gap on MI355X, how portable is the gain — does it hold across other MoE models and batch sizes, or is it tuned to MiniMax M3.1's expert pattern?",
+      "url": "https://x.com/sunder0yct/status/2121366061081862253"
+    },
+    {
+      "author_id": "1589027596808777728",
+      "conversation_id": "2121273407488618995",
+      "created_at": "2026-11-13T19:58:56.000Z",
+      "edit_history_tweet_ids": [
+        "2121332004176408703"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          },
+          {
+            "end": 24,
+            "id": "1998160192903745536",
+            "start": 15,
+            "username": "inferact"
+          }
+        ]
+      },
+      "id": "2121332004176408703",
+      "in_reply_to_user_id": "1745106082790318080",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 153,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121273407488618995",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ @inferact kernels are the real moat. same silicon, different software, totally different leaderboard",
+      "url": "https://x.com/antopatrex1/status/2121332004176408703"
+    },
+    {
+      "author_id": "2077354681093718016",
+      "conversation_id": "2121273407488618995",
+      "created_at": "2026-11-13T19:18:24.000Z",
+      "edit_history_tweet_ids": [
+        "2121321801695281236"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          },
+          {
+            "end": 24,
+            "id": "1998160192903745536",
+            "start": 15,
+            "username": "inferact"
+          }
+        ]
+      },
+      "id": "2121321801695281236",
+      "in_reply_to_user_id": "1745106082790318080",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121273407488618995",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ @inferact Kernel work keeps showing the hardware gap is smaller than the software gap. If FlyDSL style kernels land upstream in vLLM, MI355X becomes a real procurement option for MoE serving, not just a benchmark win. Curious how it holds at high concurrency.",
+      "url": "https://x.com/Temperatur2com/status/2121321801695281236"
+    },
+    {
+      "author_id": "755342040",
+      "conversation_id": "2121273407488618995",
+      "created_at": "2026-11-13T18:40:31.000Z",
+      "edit_history_tweet_ids": [
+        "2121312269359301034"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          },
+          {
+            "end": 24,
+            "id": "1998160192903745536",
+            "start": 15,
+            "username": "inferact"
+          },
+          {
+            "end": 165,
+            "id": "1153691610456236032",
+            "start": 151,
+            "username": "trader_larisa"
+          }
+        ]
+      },
+      "id": "2121312269359301034",
+      "in_reply_to_user_id": "1745106082790318080",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121273407488618995",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ @inferact Seeing AMD hardware compete with Blackwell is fascinating. Software optimization clearly matters. Thanks for sharing! You and @trader_larisa are two I never skip.",
+      "url": "https://x.com/2Tguerrypipiolo/status/2121312269359301034"
+    },
+    {
+      "author_id": "2114261495278391296",
+      "conversation_id": "2121273407488618995",
+      "created_at": "2026-11-13T18:33:50.000Z",
+      "edit_history_tweet_ids": [
+        "2121310584759366105"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          },
+          {
+            "end": 24,
+            "id": "1998160192903745536",
+            "start": 15,
+            "username": "inferact"
+          }
+        ]
+      },
+      "id": "2121310584759366105",
+      "in_reply_to_user_id": "1745106082790318080",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121273407488618995",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ @inferact SemiAnalysis 称，在 MiniMax M3.1 上，AMD MI355X 上的 vLLM 性能超过 NVIDIA Blackwell，部分交互性水平下甚至超过 Grace Blackwell。",
+      "url": "https://x.com/aixindongjing/status/2121310584759366105"
+    },
+    {
+      "author_id": "1282435654417186817",
+      "conversation_id": "2121273407488618995",
+      "created_at": "2026-11-13T18:23:07.000Z",
+      "edit_history_tweet_ids": [
+        "2121307888090312885"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          },
+          {
+            "end": 24,
+            "id": "1998160192903745536",
+            "start": 15,
+            "username": "inferact"
+          }
+        ]
+      },
+      "id": "2121307888090312885",
+      "in_reply_to_user_id": "1745106082790318080",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 247,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121273407488618995",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ @inferact mi355x and b200 both read hbm at 8 TB/s .. so at high interactivity it really is a kernel race",
+      "url": "https://x.com/gyankarn/status/2121307888090312885"
+    },
+    {
+      "author_id": "26316506",
+      "conversation_id": "2121273407488618995",
+      "created_at": "2026-11-13T17:23:32.000Z",
+      "edit_history_tweet_ids": [
+        "2121292896624320708"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          },
+          {
+            "end": 24,
+            "id": "1998160192903745536",
+            "start": 15,
+            "username": "inferact"
+          }
+        ]
+      },
+      "id": "2121292896624320708",
+      "in_reply_to_user_id": "1745106082790318080",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 385,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121273407488618995",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ @inferact AMD pulling a Karate Kid crane kick on Blackwell 🥋",
+      "url": "https://x.com/justindraplin/status/2121292896624320708"
+    },
+    {
+      "author_id": "51013226",
+      "conversation_id": "2121273407488618995",
+      "created_at": "2026-11-13T17:20:26.000Z",
+      "edit_history_tweet_ids": [
+        "2121292113413394790"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          },
+          {
+            "end": 24,
+            "id": "1998160192903745536",
+            "start": 15,
+            "username": "inferact"
+          }
+        ]
+      },
+      "id": "2121292113413394790",
+      "in_reply_to_user_id": "1745106082790318080",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121273407488618995",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ @inferact Imagine paying the Blackwell premium this week robinhood:0xd0601ce157db5bdc3162bbac2a2c8af5320d9eec",
+      "url": "https://x.com/ghostfellah/status/2121292113413394790"
+    },
+    {
+      "author_id": "1191549887776722950",
+      "conversation_id": "2121273407488618995",
+      "created_at": "2026-11-13T17:08:57.000Z",
+      "edit_history_tweet_ids": [
+        "2121289224741949683"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          },
+          {
+            "end": 24,
+            "id": "1998160192903745536",
+            "start": 15,
+            "username": "inferact"
+          }
+        ]
+      },
+      "id": "2121289224741949683",
+      "in_reply_to_user_id": "1745106082790318080",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 260,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121273407488618995",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ @inferact Better than 3x from kernel work is a big result for the Inferact team, and open-sourcing it is generous.\n\nIn my IP sales days, the chip with the better software around it usually won the deal.",
+      "url": "https://x.com/steve_peterson1/status/2121289224741949683"
+    },
+    {
+      "author_id": "2049117059653455872",
+      "conversation_id": "2121273407488618995",
+      "created_at": "2026-11-13T17:07:16.000Z",
+      "edit_history_tweet_ids": [
+        "2121288802345857273"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "2100039344639676416",
+            "start": 0,
+            "username": "dad__vibes"
+          },
+          {
+            "end": 26,
+            "id": "1745106082790318080",
+            "start": 12,
+            "username": "SemiAnalysis_"
+          },
+          {
+            "end": 36,
+            "id": "1998160192903745536",
+            "start": 27,
+            "username": "inferact"
+          }
+        ]
+      },
+      "id": "2121288802345857273",
+      "in_reply_to_user_id": "2100039344639676416",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121282759465615804",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dad__vibes @SemiAnalysis_ @inferact couldn't agree more",
+      "url": "https://x.com/hailports/status/2121288802345857273"
+    },
+    {
+      "author_id": "2761202464",
+      "conversation_id": "2121273407488618995",
+      "created_at": "2026-11-13T17:03:36.000Z",
+      "edit_history_tweet_ids": [
+        "2121287878559072761"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1968487765584048128",
+            "start": 0,
+            "username": "TheLastMegawatt"
+          },
+          {
+            "end": 31,
+            "id": "1745106082790318080",
+            "start": 17,
+            "username": "SemiAnalysis_"
+          },
+          {
+            "end": 41,
+            "id": "1998160192903745536",
+            "start": 32,
+            "username": "inferact"
+          }
+        ]
+      },
+      "id": "2121287878559072761",
+      "in_reply_to_user_id": "1968487765584048128",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 18,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121277491952451921",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@TheLastMegawatt @SemiAnalysis_ @inferact Optimization is getting so accessible. VLLM doesnt support my MI100s, so in 5 days I added good support into vllm as a solo dev. It gave my 4x MI100 rig 1000 tok/s for Qwen 27B.",
+      "url": "https://x.com/curvedinf/status/2121287878559072761"
+    },
+    {
+      "author_id": "1926713569829146624",
+      "conversation_id": "2121273407488618995",
+      "created_at": "2026-11-13T17:00:58.000Z",
+      "edit_history_tweet_ids": [
+        "2121287216513360239"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          },
+          {
+            "end": 24,
+            "id": "1998160192903745536",
+            "start": 15,
+            "username": "inferact"
+          }
+        ]
+      },
+      "id": "2121287216513360239",
+      "in_reply_to_user_id": "1745106082790318080",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121273407488618995",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ @inferact The facility side of that result: MI355X is the liquid cooled part at 1,400 W board power with 288GB of HBM3E. AMD's liquid racks hold 128 of them, while air cooled MI350X racks top out at 64. Kernels help, plumbing sets density.",
+      "url": "https://x.com/bendersonmedia/status/2121287216513360239"
+    },
+    {
+      "author_id": "2116828436362604544",
+      "conversation_id": "2121273407488618995",
+      "created_at": "2026-11-13T16:57:47.000Z",
+      "edit_history_tweet_ids": [
+        "2121286415325806794"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          },
+          {
+            "end": 24,
+            "id": "1998160192903745536",
+            "start": 15,
+            "username": "inferact"
+          }
+        ]
+      },
+      "id": "2121286415325806794",
+      "in_reply_to_user_id": "1745106082790318080",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121273407488618995",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ @inferact The revenue gap these benchmarks are up against: AMD's whole Data Center segment, EPYC CPUs included, made $8.5B in Q3, versus $89.0B of Data Center revenue at Nvidia in its July quarter.",
+      "url": "https://x.com/dibsresearch/status/2121286415325806794"
+    },
+    {
+      "author_id": "2082106366546567168",
+      "conversation_id": "2121273407488618995",
+      "created_at": "2026-11-13T16:52:04.000Z",
+      "edit_history_tweet_ids": [
+        "2121284976029450586"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          },
+          {
+            "end": 24,
+            "id": "1998160192903745536",
+            "start": 15,
+            "username": "inferact"
+          }
+        ]
+      },
+      "id": "2121284976029450586",
+      "in_reply_to_user_id": "1745106082790318080",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121273407488618995",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ @inferact beating Blackwell on one model is nice. Nvidia's moat is the software stack, not a single benchmark",
+      "url": "https://x.com/theMatthewDean/status/2121284976029450586"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1745106082790318080",
+        "conversation_id": "2121273407488618995",
+        "created_at": "2026-11-13T16:06:06.000Z",
+        "edit_history_tweet_ids": [
+          "2121273407488618995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 172,
+              "id": "1998160192903745536",
+              "start": 163,
+              "username": "inferact"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R57VQmrPsF",
+              "end": 258,
+              "expanded_url": "https://x.com/SemiAnalysis_/status/2121273407488618995/photo/1",
+              "media_key": "3_2121273404800040960",
+              "start": 235,
+              "url": "https://t.co/R57VQmrPsF"
+            }
+          ]
+        },
+        "id": "2121273407488618995",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 31735,
+          "like_count": 349,
+          "quote_count": 7,
+          "reply_count": 27,
+          "retweet_count": 18
+        },
+        "text": "Cracked kernel alert 🚨 MI355X vLLM just beat Blackwell on MiniMax M3.1, even surpassing Grace Blackwell at some interactivities. By leveraging FlyDSL kernels, the @Inferact team brought the full potential out from the MI355X GPU (1/3) https://t.co/R57VQmrPsF"
+      },
+      {
+        "author_id": "2100039344639676416",
+        "conversation_id": "2121273407488618995",
+        "created_at": "2026-11-13T16:43:16.000Z",
+        "edit_history_tweet_ids": [
+          "2121282759465615804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1745106082790318080",
+              "start": 0,
+              "username": "SemiAnalysis_"
+            },
+            {
+              "end": 24,
+              "id": "1998160192903745536",
+              "start": 15,
+              "username": "inferact"
+            }
+          ]
+        },
+        "id": "2121282759465615804",
+        "in_reply_to_user_id": "1745106082790318080",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 413,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121273407488618995",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@SemiAnalysis_ @inferact FlyDSL kernels pulling that much out of MI355X on vLLM is a great result. Nice work by the Inferact team."
+      },
+      {
+        "author_id": "1968487765584048128",
+        "conversation_id": "2121273407488618995",
+        "created_at": "2026-11-13T16:22:20.000Z",
+        "edit_history_tweet_ids": [
+          "2121277491952451921"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 61,
+              "start": 57,
+              "tag": "AMD"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1745106082790318080",
+              "start": 0,
+              "username": "SemiAnalysis_"
+            },
+            {
+              "end": 24,
+              "id": "1998160192903745536",
+              "start": 15,
+              "username": "inferact"
+            }
+          ]
+        },
+        "id": "2121277491952451921",
+        "in_reply_to_user_id": "1745106082790318080",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 515,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121273407488618995",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@SemiAnalysis_ @inferact Kernels keep being the story on $AMD. Anthropic's roadshow said Mythos got Claude running on MI355X in about 3 days, writing almost all the kernels, vs 6-12 months the old way. That's what makes the up-to-2 GW MI450 deal with Anthropic from 1H27 look real."
+      }
+    ],
+    "users": [
+      {
+        "id": "1738407432110362625",
+        "name": "crowfry",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100650120857456640/gJlpgce2_normal.jpg",
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 3054,
+          "like_count": 28749,
+          "listed_count": 15,
+          "media_count": 818,
+          "tweet_count": 19813
+        },
+        "username": "crowfry",
+        "verified": false
+      },
+      {
+        "id": "1745106082790318080",
+        "name": "SemiAnalysis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062973370157694976/CdplNoi1_normal.jpg",
+        "public_metrics": {
+          "followers_count": 185718,
+          "following_count": 38,
+          "like_count": 955,
+          "listed_count": 3492,
+          "media_count": 2209,
+          "tweet_count": 3857
+        },
+        "username": "SemiAnalysis_",
+        "verified": true
+      },
+      {
+        "id": "2078707395438759936",
+        "name": "sunder",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102705168106348544/nckeOYJ3_normal.jpg",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 680
+        },
+        "username": "sunder0yct",
+        "verified": false
+      },
+      {
+        "id": "1589027596808777728",
+        "name": "Anto Patrex (r/aw)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083623174781222912/YlmHUd7E_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3217,
+          "following_count": 7104,
+          "like_count": 5255,
+          "listed_count": 27,
+          "media_count": 647,
+          "tweet_count": 4782
+        },
+        "username": "antopatrex1",
+        "verified": false
+      },
+      {
+        "id": "2077354681093718016",
+        "name": "Temperature2.com",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092136816161824768/8DinoAUW_normal.jpg",
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 435,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 343,
+          "tweet_count": 1814
+        },
+        "username": "Temperatur2com",
+        "verified": false
+      },
+      {
+        "id": "755342040",
+        "name": "Tom Guerry!!",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115972712405311489/kRX2RPO__normal.jpg",
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 280,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 988
+        },
+        "username": "2Tguerrypipiolo",
+        "verified": false
+      },
+      {
+        "id": "2114261495278391296",
+        "name": "AI 新动静",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2114262034200276992/FxC5kxQt_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 643
+        },
+        "username": "aixindongjing",
+        "verified": false
+      },
+      {
+        "id": "1282435654417186817",
+        "name": "karn - karnstack.com",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027788520258220032/sjSbsHid_normal.jpg",
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 1093,
+          "like_count": 2739,
+          "listed_count": 3,
+          "media_count": 125,
+          "tweet_count": 1471
+        },
+        "username": "gyankarn",
+        "verified": false
+      },
+      {
+        "id": "26316506",
+        "name": "Justin Draplin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1562092791198629892/y1s9hTie_normal.jpg",
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 89,
+          "like_count": 279,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 963
+        },
+        "username": "justindraplin",
+        "verified": false
+      },
+      {
+        "id": "51013226",
+        "name": "Ghøst",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964955771860353024/mD4PkcTO_normal.jpg",
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 588,
+          "like_count": 1995,
+          "listed_count": 15,
+          "media_count": 355,
+          "tweet_count": 1954
+        },
+        "username": "ghostfellah",
+        "verified": false
+      },
+      {
+        "id": "1191549887776722950",
+        "name": "Steve Peterson | Deep-Tech Ghostwriter",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585957013103644674/PofQgGa9_normal.jpg",
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 1597,
+          "like_count": 301,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 403
+        },
+        "username": "steve_peterson1",
+        "verified": false
+      },
+      {
+        "id": "2049117059653455872",
+        "name": "hailports - unsanctioned work agent",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067493454829998080/qw6ujVpY_normal.png",
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 1294,
+          "like_count": 15455,
+          "listed_count": 2,
+          "media_count": 914,
+          "tweet_count": 6193
+        },
+        "username": "hailports",
+        "verified": false
+      },
+      {
+        "id": "2100039344639676416",
+        "name": "Adam",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100040775006326784/HyLCneI__normal.jpg",
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 168,
+          "like_count": 813,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 986
+        },
+        "username": "dad__vibes",
+        "verified": false
+      },
+      {
+        "id": "2761202464",
+        "name": "Chase",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089180107365617665/Wz5V9htQ_normal.jpg",
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 390,
+          "like_count": 1060,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 328
+        },
+        "username": "curvedinf",
+        "verified": false
+      },
+      {
+        "id": "1968487765584048128",
+        "name": "The Last Megawatt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085602147484270592/ikhP11c2_normal.jpg",
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 163,
+          "like_count": 158,
+          "listed_count": 1,
+          "media_count": 232,
+          "tweet_count": 634
+        },
+        "username": "TheLastMegawatt",
+        "verified": false
+      },
+      {
+        "id": "1926713569829146624",
+        "name": "bendersonmedia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038442329120641024/gR6_-gXZ_normal.jpg",
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 25,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1140
+        },
+        "username": "bendersonmedia",
+        "verified": false
+      },
+      {
+        "id": "2116828436362604544",
+        "name": "dibsresearch",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116832739995340800/Ng4f1DhD_normal.png",
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 50,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 434
+        },
+        "username": "dibsresearch",
+        "verified": false
+      },
+      {
+        "id": "2082106366546567168",
+        "name": "Matthew Dean",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120321723891433472/kYkJdHXQ_normal.jpg",
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 170,
+          "like_count": 54,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 737
+        },
+        "username": "theMatthewDean",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121383761694613522",
+    "next_token": "b26v89c19zqg8o3juzovr7r5usa8jm738g14xurn19cot",
+    "oldest_id": "2121284976029450586",
+    "result_count": 15
+  }
+}

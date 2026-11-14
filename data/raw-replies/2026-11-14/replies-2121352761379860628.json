@@ -1,0 +1,897 @@
+{
+  "data": [
+    {
+      "author_id": "47523512",
+      "conversation_id": "2121352761379860628",
+      "created_at": "2026-11-14T00:41:31.000Z",
+      "edit_history_tweet_ids": [
+        "2121403115014688882"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2121403115014688882",
+      "in_reply_to_user_id": "3980735590",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 15,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121352761379860628",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog And will this go to the rest of the world or will it stay only in the USA?",
+      "url": "https://x.com/wendsonrocha/status/2121403115014688882"
+    },
+    {
+      "author_id": "2073543034306736128",
+      "conversation_id": "2121352761379860628",
+      "created_at": "2026-11-14T00:31:36.000Z",
+      "edit_history_tweet_ids": [
+        "2121400620615635278"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2121400620615635278",
+      "in_reply_to_user_id": "3980735590",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121352761379860628",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog an AI that reads every bank transaction and flags price increases. first time my spending habits get roasted by something with a 1M token context window :P",
+      "url": "https://x.com/rontheprophit/status/2121400620615635278"
+    },
+    {
+      "author_id": "1666826832677687296",
+      "conversation_id": "2121352761379860628",
+      "created_at": "2026-11-14T00:05:18.000Z",
+      "edit_history_tweet_ids": [
+        "2121394004075897310"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2121394004075897310",
+      "in_reply_to_user_id": "3980735590",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 16,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121352761379860628",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog Gemini how much money do I have………$5,000. \n\nAre you sure?\n\nI’m sorry I meant to say $500. $5,000 is what you have in debt. \n\nGemini is always hallucinating.",
+      "url": "https://x.com/LastOf718/status/2121394004075897310"
+    },
+    {
+      "author_id": "1892479427801411585",
+      "conversation_id": "2121352761379860628",
+      "created_at": "2026-11-13T23:23:04.000Z",
+      "edit_history_tweet_ids": [
+        "2121383372983517565"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2121383372983517565",
+      "in_reply_to_user_id": "3980735590",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 15,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121352761379860628",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog google quietly building the agent wallet before anyone else ships one. trust is the whole product here ngl",
+      "url": "https://x.com/baeincrypto/status/2121383372983517565"
+    },
+    {
+      "author_id": "1501662094479007746",
+      "conversation_id": "2121352761379860628",
+      "created_at": "2026-11-13T23:14:33.000Z",
+      "edit_history_tweet_ids": [
+        "2121381230797045786"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2121381230797045786",
+      "in_reply_to_user_id": "3980735590",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 22,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121352761379860628",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog Finance connect, bot had it a month ago, then dot several days ago, now Gemini",
+      "url": "https://x.com/llllooe123/status/2121381230797045786"
+    },
+    {
+      "author_id": "2049117059653455872",
+      "conversation_id": "2121352761379860628",
+      "created_at": "2026-11-13T22:21:49.000Z",
+      "edit_history_tweet_ids": [
+        "2121367961852318206"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "2103896500967473152",
+            "start": 0,
+            "username": "LLDWnnn"
+          },
+          {
+            "end": 24,
+            "id": "3980735590",
+            "start": 9,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2121367961852318206",
+      "in_reply_to_user_id": "2103896500967473152",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121367012714889646",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LLDWnnn @testingcatalog clear and useful",
+      "url": "https://x.com/hailports/status/2121367961852318206"
+    },
+    {
+      "author_id": "2103896500967473152",
+      "conversation_id": "2121352761379860628",
+      "created_at": "2026-11-13T22:18:03.000Z",
+      "edit_history_tweet_ids": [
+        "2121367012714889646"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2121367012714889646",
+      "in_reply_to_user_id": "3980735590",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121352761379860628",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog The Plaid link is the real product here. Gemini reading balances and transactions is only useful if the permission stays narrow and revocable. Personal finance insights are worthless if users cannot see exactly what the assistant can touch, and turn it off per account.",
+      "url": "https://x.com/LLDWnnn/status/2121367012714889646"
+    },
+    {
+      "author_id": "2115562704257667072",
+      "conversation_id": "2121352761379860628",
+      "created_at": "2026-11-13T21:59:56.000Z",
+      "edit_history_tweet_ids": [
+        "2121362453317513413"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2121362453317513413",
+      "in_reply_to_user_id": "3980735590",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121352761379860628",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog Mint did this in 2007: link your bank accounts, get insights. Intuit bought it in 2009 and shut it down in 2024. The insights are real, but so is the product getting folded into someone else's plans. Learn how to unlink before you link.",
+      "url": "https://x.com/alexandria_ltr/status/2121362453317513413"
+    },
+    {
+      "author_id": "1443341",
+      "conversation_id": "2121352761379860628",
+      "created_at": "2026-11-13T21:55:23.000Z",
+      "edit_history_tweet_ids": [
+        "2121361307429699877"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2121361307429699877",
+      "in_reply_to_user_id": "3980735590",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121352761379860628",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog The Plaid link is where most people will hesitate. Before I connect a bank to any assistant, I want a plain log of what it read and when, plus a one-tap way to cut access. Landing the same week as ChatGPT Wallet makes this a real race now.",
+      "url": "https://x.com/michaeloroberts/status/2121361307429699877"
+    },
+    {
+      "author_id": "2105324415525191680",
+      "conversation_id": "2121352761379860628",
+      "created_at": "2026-11-13T21:49:51.000Z",
+      "edit_history_tweet_ids": [
+        "2121359917613470092"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2121359917613470092",
+      "in_reply_to_user_id": "3980735590",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121352761379860628",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog Hard pass on linking my bank to a chatbot for 'deeper insights.' I build with free models in Costa Rica — my wallet stays out of my AI. Does disconnecting actually delete the Plaid data?",
+      "url": "https://x.com/sleewppi/status/2121359917613470092"
+    },
+    {
+      "author_id": "2082527400919773184",
+      "conversation_id": "2121352761379860628",
+      "created_at": "2026-11-13T21:42:23.000Z",
+      "edit_history_tweet_ids": [
+        "2121358035100856778"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2121358035100856778",
+      "in_reply_to_user_id": "3980735590",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121352761379860628",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog This is the part that matters: once Gemini can see your bank and card transactions through Plaid, it's not just a chatbot anymore, it's a financial agent. One bad prompt injection or a misread instruction and it can act on real money. The approval step is the whole product now.",
+      "url": "https://x.com/jarvushi/status/2121358035100856778"
+    },
+    {
+      "author_id": "2064675536685707264",
+      "conversation_id": "2121352761379860628",
+      "created_at": "2026-11-13T21:42:07.000Z",
+      "edit_history_tweet_ids": [
+        "2121357968134357161"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2121357968134357161",
+      "in_reply_to_user_id": "3980735590",
+      "lang": "fr",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 52,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121352761379860628",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog Quand je demande à Gemini une modification précise, il ajoute des éléments non demandés sans résoudre le problème de départ. Du coup, si je lui demande une liste de courses, je m'attends à ce qu'il y rajoute d'office des choses comme des protéines",
+      "url": "https://x.com/elighbz/status/2121357968134357161"
+    },
+    {
+      "author_id": "2017323084814962688",
+      "conversation_id": "2121352761379860628",
+      "created_at": "2026-11-13T21:39:26.000Z",
+      "edit_history_tweet_ids": [
+        "2121357292410966045"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2121357292410966045",
+      "in_reply_to_user_id": "3980735590",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121352761379860628",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog Giving an AI your bank login so it can buy stuff for you. Somewhere a fraud team just got a headcount increase.",
+      "url": "https://x.com/8YFUTURES/status/2121357292410966045"
+    },
+    {
+      "author_id": "1624135094498648065",
+      "conversation_id": "2121352761379860628",
+      "created_at": "2026-11-13T21:36:48.000Z",
+      "edit_history_tweet_ids": [
+        "2121356631350927371"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2121356631350927371",
+      "in_reply_to_user_id": "3980735590",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 51,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121352761379860628",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog about time that rolled out",
+      "url": "https://x.com/heyartzy/status/2121356631350927371"
+    },
+    {
+      "author_id": "1881766675579858945",
+      "conversation_id": "2121352761379860628",
+      "created_at": "2026-11-13T21:34:31.000Z",
+      "edit_history_tweet_ids": [
+        "2121356058279207143"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2121356058279207143",
+      "in_reply_to_user_id": "3980735590",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121352761379860628",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog two ai wallets in one week. the checkout page is now a protocol",
+      "url": "https://x.com/foundrceo/status/2121356058279207143"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "3980735590",
+        "conversation_id": "2121352761379860628",
+        "created_at": "2026-11-13T21:21:25.000Z",
+        "edit_history_tweet_ids": [
+          "2121352761379860628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RqtneaY7jD",
+              "end": 280,
+              "expanded_url": "https://x.com/testingcatalog/status/2121352761379860628/video/1",
+              "media_key": "13_2121352709949308928",
+              "start": 257,
+              "url": "https://t.co/RqtneaY7jD"
+            },
+            {
+              "display_url": "x.com/Google/status/…",
+              "end": 304,
+              "expanded_url": "https://twitter.com/Google/status/2121293823837921433",
+              "start": 281,
+              "url": "https://t.co/76qt28ELRf"
+            }
+          ]
+        },
+        "id": "2121352761379860628",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 7940,
+          "like_count": 216,
+          "quote_count": 3,
+          "reply_count": 18,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121293823837921433",
+            "type": "quoted"
+          }
+        ],
+        "text": "GOOGLE 🔥: All Gemini users in the U.S. can now connect their Google Wallets to Gemini. \n\nUsers also have the option to securely link their financial accounts, including credit cards and banks, to Wallet via Plaid to unlock deeper insights.\n\nGoogle's turn 👀 https://t.co/RqtneaY7jD https://t.co/76qt28ELRf"
+      },
+      {
+        "author_id": "2103896500967473152",
+        "conversation_id": "2121352761379860628",
+        "created_at": "2026-11-13T22:18:03.000Z",
+        "edit_history_tweet_ids": [
+          "2121367012714889646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3980735590",
+              "start": 0,
+              "username": "testingcatalog"
+            }
+          ]
+        },
+        "id": "2121367012714889646",
+        "in_reply_to_user_id": "3980735590",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121352761379860628",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@testingcatalog The Plaid link is the real product here. Gemini reading balances and transactions is only useful if the permission stays narrow and revocable. Personal finance insights are worthless if users cannot see exactly what the assistant can touch, and turn it off per account."
+      }
+    ],
+    "users": [
+      {
+        "id": "47523512",
+        "name": "wend 🇧🇷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109568297318457344/0Ay63e3Q_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 896,
+          "like_count": 274302,
+          "listed_count": 19,
+          "media_count": 4198,
+          "tweet_count": 50245
+        },
+        "username": "wendsonrocha",
+        "verified": false
+      },
+      {
+        "id": "3980735590",
+        "name": "🚨 AI News | TestingCatalog",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899962463115751424/i-6MBWau_normal.jpg",
+        "public_metrics": {
+          "followers_count": 84722,
+          "following_count": 997,
+          "like_count": 100818,
+          "listed_count": 2802,
+          "media_count": 12334,
+          "tweet_count": 32236
+        },
+        "username": "testingcatalog",
+        "verified": true
+      },
+      {
+        "id": "2073543034306736128",
+        "name": "Ron Collins | AI Expert Consultant",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117442530329468928/E9kSLuTQ_normal.jpg",
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 155,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 309
+        },
+        "username": "rontheprophit",
+        "verified": false
+      },
+      {
+        "id": "1666826832677687296",
+        "name": "Lastof718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960750647453630464/Y4zKYF_h_normal.jpg",
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 548,
+          "like_count": 42782,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 424
+        },
+        "username": "LastOf718",
+        "verified": false
+      },
+      {
+        "id": "1892479427801411585",
+        "name": "shivani",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003517918865481728/9q24qFvc_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2887,
+          "following_count": 1224,
+          "like_count": 44490,
+          "listed_count": 58,
+          "media_count": 929,
+          "tweet_count": 37255
+        },
+        "username": "baeincrypto",
+        "verified": false
+      },
+      {
+        "id": "1501662094479007746",
+        "name": "Leo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115521840680509441/xgcWTn6M_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2412,
+          "following_count": 2571,
+          "like_count": 4979,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 2338
+        },
+        "username": "llllooe123",
+        "verified": false
+      },
+      {
+        "id": "2049117059653455872",
+        "name": "hailports - unsanctioned work agent",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067493454829998080/qw6ujVpY_normal.png",
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 1294,
+          "like_count": 15455,
+          "listed_count": 2,
+          "media_count": 914,
+          "tweet_count": 6193
+        },
+        "username": "hailports",
+        "verified": false
+      },
+      {
+        "id": "2103896500967473152",
+        "name": "LL-W",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103897058424086528/9Xti-lHB_normal.jpg",
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 271,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 5265
+        },
+        "username": "LLDWnnn",
+        "verified": false
+      },
+      {
+        "id": "2115562704257667072",
+        "name": "The Alexandria Letter",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120601272290091008/XlcYzLdw_normal.png",
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 30,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 98
+        },
+        "username": "alexandria_ltr",
+        "verified": false
+      },
+      {
+        "id": "1443341",
+        "name": "Michael Roberts",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118017859649499137/JY6QlDWK_normal.jpg",
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 238,
+          "like_count": 9709,
+          "listed_count": 49,
+          "media_count": 115,
+          "tweet_count": 5946
+        },
+        "username": "michaeloroberts",
+        "verified": false
+      },
+      {
+        "id": "2105324415525191680",
+        "name": "mewpi | AI tools & free deals",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105325072311267328/IRGM2-58_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 12,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 654
+        },
+        "username": "sleewppi",
+        "verified": false
+      },
+      {
+        "id": "2082527400919773184",
+        "name": "holden",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082530221643698178/aydwH6i7_normal.jpg",
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 168,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 748
+        },
+        "username": "jarvushi",
+        "verified": false
+      },
+      {
+        "id": "2064675536685707264",
+        "name": "eli",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115920847344934912/pWfFXxTc_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 83,
+          "like_count": 22870,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 45
+        },
+        "username": "elighbz",
+        "verified": false
+      },
+      {
+        "id": "2017323084814962688",
+        "name": "8YFUTURES",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017325570783170560/aDv2EvWi_normal.jpg",
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 10,
+          "like_count": 26338,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1579
+        },
+        "username": "8YFUTURES",
+        "verified": false
+      },
+      {
+        "id": "1624135094498648065",
+        "name": "Artzy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080331248640065538/rFhSb_wt_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2215,
+          "following_count": 1784,
+          "like_count": 67742,
+          "listed_count": 39,
+          "media_count": 783,
+          "tweet_count": 67047
+        },
+        "username": "heyartzy",
+        "verified": false
+      },
+      {
+        "id": "1881766675579858945",
+        "name": "foundrceo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078793270747189248/t6E82uBr_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2162,
+          "following_count": 559,
+          "like_count": 9754,
+          "listed_count": 13,
+          "media_count": 283,
+          "tweet_count": 23742
+        },
+        "username": "foundrceo",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121403115014688882",
+    "next_token": "b26v89c19zqg8o3juzovr9uzptfzadblw6jr4n8v0e64d",
+    "oldest_id": "2121356058279207143",
+    "result_count": 15
+  }
+}

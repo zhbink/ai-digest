@@ -1,0 +1,626 @@
+{
+  "data": [
+    {
+      "author_id": "1939600537",
+      "conversation_id": "2121187031522873414",
+      "created_at": "2026-11-13T15:38:40.000Z",
+      "edit_history_tweet_ids": [
+        "2121266505031848298"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1657474831",
+            "start": 0,
+            "username": "Gorden_Sun"
+          }
+        ]
+      },
+      "id": "2121266505031848298",
+      "in_reply_to_user_id": "1657474831",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121187031522873414",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 能通吃四足、人形和自訂骨架才是重點，做獨立遊戲能省掉一大段手 K 動畫；目前只吃英文描述要注意。",
+      "url": "https://x.com/0xSpeter/status/2121266505031848298"
+    },
+    {
+      "author_id": "1742045432728154112",
+      "conversation_id": "2121187031522873414",
+      "created_at": "2026-11-13T14:27:55.000Z",
+      "edit_history_tweet_ids": [
+        "2121248700035198979"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1657474831",
+            "start": 0,
+            "username": "Gorden_Sun"
+          }
+        ]
+      },
+      "id": "2121248700035198979",
+      "in_reply_to_user_id": "1657474831",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121187031522873414",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 输入一句英文 四足骨架也能跟着跑",
+      "url": "https://x.com/mnscz133680/status/2121248700035198979"
+    },
+    {
+      "author_id": "1254217568165888000",
+      "conversation_id": "2121187031522873414",
+      "created_at": "2026-11-13T13:44:43.000Z",
+      "edit_history_tweet_ids": [
+        "2121237829485223950"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1657474831",
+            "start": 0,
+            "username": "Gorden_Sun"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/zomeha38/statu…",
+            "end": 47,
+            "expanded_url": "https://x.com/zomeha38/status/2121205853886066849",
+            "start": 24,
+            "url": "https://t.co/j0tEsp9QFY"
+          }
+        ]
+      },
+      "id": "2121237829485223950",
+      "in_reply_to_user_id": "1657474831",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121205853886066849",
+          "type": "quoted"
+        },
+        {
+          "id": "2121187031522873414",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 一句话让四足也动起来了\nhttps://t.co/j0tEsp9QFY",
+      "url": "https://x.com/zomeha38/status/2121237829485223950"
+    },
+    {
+      "author_id": "415492988",
+      "conversation_id": "2121187031522873414",
+      "created_at": "2026-11-13T13:33:08.000Z",
+      "edit_history_tweet_ids": [
+        "2121234913940906320"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1657474831",
+            "start": 0,
+            "username": "Gorden_Sun"
+          }
+        ]
+      },
+      "id": "2121234913940906320",
+      "in_reply_to_user_id": "1657474831",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121187031522873414",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 一句话驱动不同结构的骨骼，这比只能绑人体骨架实用得多。如果前面还要接通用大模型做动作策划，账单差会很大：Qwen3.8 Max 和 GPT-6.1 Sol 输入都是 $2，同一道 AA 题却是 $10.02 对 $1.27。专用模型把动作生成这一段拿掉，反而可能更省。",
+      "url": "https://x.com/anbulang/status/2121234913940906320"
+    },
+    {
+      "author_id": "2052373733319548929",
+      "conversation_id": "2121187031522873414",
+      "created_at": "2026-11-13T12:51:16.000Z",
+      "edit_history_tweet_ids": [
+        "2121224376070635752"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1657474831",
+            "start": 0,
+            "username": "Gorden_Sun"
+          }
+        ]
+      },
+      "id": "2121224376070635752",
+      "in_reply_to_user_id": "1657474831",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121187031522873414",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 四足动物也能直接动？做独立游戏的朋友要乐疯了",
+      "url": "https://x.com/MathisTerr61689/status/2121224376070635752"
+    },
+    {
+      "author_id": "2114993211936813056",
+      "conversation_id": "2121187031522873414",
+      "created_at": "2026-11-13T12:33:40.000Z",
+      "edit_history_tweet_ids": [
+        "2121219947070369852"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1657474831",
+            "start": 0,
+            "username": "Gorden_Sun"
+          }
+        ]
+      },
+      "id": "2121219947070369852",
+      "in_reply_to_user_id": "1657474831",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121187031522873414",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 四足动物也能直接驱动这个厉害，以前做小游戏最头疼的就是给怪物配动作，只能一句英文描述这点有点可惜",
+      "url": "https://x.com/AiMaster1689/status/2121219947070369852"
+    },
+    {
+      "author_id": "1499198533106540546",
+      "conversation_id": "2121187031522873414",
+      "created_at": "2026-11-13T12:22:05.000Z",
+      "edit_history_tweet_ids": [
+        "2121217031433506978"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1657474831",
+            "start": 0,
+            "username": "Gorden_Sun"
+          }
+        ]
+      },
+      "id": "2121217031433506978",
+      "in_reply_to_user_id": "1657474831",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121187031522873414",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 四足、人形、自定义骨骼都能一句话驱动，那我家猫半夜跑酷终于能复刻了，prompt 就写：zoomies at 3am。",
+      "url": "https://x.com/ajutqs/status/2121217031433506978"
+    },
+    {
+      "author_id": "1992952876533215232",
+      "conversation_id": "2121187031522873414",
+      "created_at": "2026-11-13T11:39:40.000Z",
+      "edit_history_tweet_ids": [
+        "2121206359118991516"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1657474831",
+            "start": 0,
+            "username": "Gorden_Sun"
+          }
+        ]
+      },
+      "id": "2121206359118991516",
+      "in_reply_to_user_id": "1657474831",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121187031522873414",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 一句话就能驱动不同结构的 3D 骨骼，这个通用性有点意思。好奇动作细节能精细到什么程度，比如四足动物转身时重心那种微妙变化也能拿捏住吗？",
+      "url": "https://x.com/xiri318695/status/2121206359118991516"
+    },
+    {
+      "author_id": "1995119623768002560",
+      "conversation_id": "2121187031522873414",
+      "created_at": "2026-11-13T10:31:32.000Z",
+      "edit_history_tweet_ids": [
+        "2121189211600749013"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1657474831",
+            "start": 0,
+            "username": "Gorden_Sun"
+          }
+        ]
+      },
+      "id": "2121189211600749013",
+      "in_reply_to_user_id": "1657474831",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121187031522873414",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 能动起来和脚踩得稳还是两回事，模型卡也提了滑步问题。",
+      "url": "https://x.com/TomCao91/status/2121189211600749013"
+    },
+    {
+      "author_id": "2111378675216039936",
+      "conversation_id": "2121187031522873414",
+      "created_at": "2026-11-13T10:24:43.000Z",
+      "edit_history_tweet_ids": [
+        "2121187497061269788"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1657474831",
+            "start": 0,
+            "username": "Gorden_Sun"
+          }
+        ]
+      },
+      "id": "2121187497061269788",
+      "in_reply_to_user_id": "1657474831",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121187031522873414",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 一句话搞定",
+      "url": "https://x.com/Eddi0513/status/2121187497061269788"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1657474831",
+        "conversation_id": "2121187031522873414",
+        "created_at": "2026-11-13T10:22:52.000Z",
+        "edit_history_tweet_ids": [
+          "2121187031522873414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mWI0ShcSo0",
+              "end": 159,
+              "expanded_url": "https://x.com/Gorden_Sun/status/2121187031522873414/video/1",
+              "media_key": "13_2121184936061448192",
+              "start": 136,
+              "url": "https://t.co/mWI0ShcSo0"
+            }
+          ]
+        },
+        "id": "2121187031522873414",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1662,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "text": "UniMate：用一句话就能自动生成动物、人类和各类3D骨骼动画\n\n只要输入英文动作描述，它就能直接驱动不同结构的3D骨骼动起来。\n\n以往的动作生成工具大多只能处理固定的人体骨架，而UniMate打破了这种结构限制，无论是四足动物、人形角色还是自定义骨骼的物体都能通用。 https://t.co/mWI0ShcSo0"
+      },
+      {
+        "author_id": "1254217568165888000",
+        "conversation_id": "2121205853886066849",
+        "created_at": "2026-11-13T11:37:40.000Z",
+        "edit_history_tweet_ids": [
+          "2121205853886066849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0bMtM6M1Yv",
+              "end": 196,
+              "expanded_url": "https://x.com/zomeha38/status/2121205853886066849/photo/1",
+              "media_key": "3_2121205808503377920",
+              "start": 173,
+              "url": "https://t.co/0bMtM6M1Yv"
+            }
+          ]
+        },
+        "id": "2121205853886066849",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "IteraCompute 免费档每月给 3000 万 token，邮箱验证或 Google 登录就能领，不用绑卡。\n\n走 Auto 入口，会在 Qwen3.8-27B、DeepSeek V4.1 等开源模型里轮着分配。活动到 11 月 24 日北京时间下午 4 点结束。\n\n共享闲置算力，可能排队变慢，同时只能跑 1 条请求，当月没用完不结转。 https://t.co/0bMtM6M1Yv"
+      }
+    ],
+    "users": [
+      {
+        "id": "1939600537",
+        "name": "0xspeter",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876060080011096064/f7eP_N4-_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1988,
+          "following_count": 2989,
+          "like_count": 5799,
+          "listed_count": 7,
+          "media_count": 1457,
+          "tweet_count": 5442
+        },
+        "username": "0xSpeter",
+        "verified": false
+      },
+      {
+        "id": "1657474831",
+        "name": "Gorden Sun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1522159828231409664/GPpXyPT1_normal.jpg",
+        "public_metrics": {
+          "followers_count": 70475,
+          "following_count": 1759,
+          "like_count": 252,
+          "listed_count": 991,
+          "media_count": 3690,
+          "tweet_count": 9549
+        },
+        "username": "Gorden_Sun",
+        "verified": false
+      },
+      {
+        "id": "1742045432728154112",
+        "name": "LifeInsight",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116501191672971264/ympRXbXK_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1858,
+          "following_count": 1449,
+          "like_count": 6845,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 4198
+        },
+        "username": "mnscz133680",
+        "verified": false
+      },
+      {
+        "id": "1254217568165888000",
+        "name": "打螺丝的Dave",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097562123257987072/NuaChaRL_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1174,
+          "following_count": 1574,
+          "like_count": 1418,
+          "listed_count": 0,
+          "media_count": 262,
+          "tweet_count": 3829
+        },
+        "username": "zomeha38",
+        "verified": false
+      },
+      {
+        "id": "415492988",
+        "name": "Chaucer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/548049782065745920/EKLazOBF_normal.jpeg",
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 176,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 214
+        },
+        "username": "anbulang",
+        "verified": false
+      },
+      {
+        "id": "2052373733319548929",
+        "name": "Terri Mathis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066177106447618048/Xs_MDpMI_normal.jpg",
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 11,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 47
+        },
+        "username": "MathisTerr61689",
+        "verified": false
+      },
+      {
+        "id": "2114993211936813056",
+        "name": "AI安装小天才",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115110829159067648/q4AO0ddX_normal.jpg",
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 22,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 124
+        },
+        "username": "AiMaster1689",
+        "verified": false
+      },
+      {
+        "id": "1499198533106540546",
+        "name": "Ajut Q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106504385450975232/vvZCicED_normal.jpg",
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 319,
+          "like_count": 555,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 362
+        },
+        "username": "ajutqs",
+        "verified": false
+      },
+      {
+        "id": "1992952876533215232",
+        "name": "xiri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109965574642315264/9CU1uCk-_normal.jpg",
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 34,
+          "like_count": 1528,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1012
+        },
+        "username": "xiri318695",
+        "verified": false
+      },
+      {
+        "id": "1995119623768002560",
+        "name": "Tom Cao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104560635896037376/yHH21lwp_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2272,
+          "following_count": 352,
+          "like_count": 1563,
+          "listed_count": 6,
+          "media_count": 33,
+          "tweet_count": 3486
+        },
+        "username": "TomCao91",
+        "verified": false
+      },
+      {
+        "id": "2111378675216039936",
+        "name": "Eddie | AI不掉队计划",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2111714678388969472/dKemqMse_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 57,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 499
+        },
+        "username": "Eddi0513",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121266505031848298",
+    "next_token": "b26v89c19zqg8o3juzovr5mftz4j7jv3q0r877oltinb1",
+    "oldest_id": "2121187497061269788",
+    "result_count": 10
+  }
+}

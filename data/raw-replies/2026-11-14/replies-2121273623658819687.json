@@ -1,0 +1,738 @@
+{
+  "data": [
+    {
+      "author_id": "1850405441345380352",
+      "created_at": "2026-11-13T21:39:17.000Z",
+      "edit_history_tweet_ids": [
+        "2121357255937298621"
+      ],
+      "id": "2121357255937298621",
+      "in_reply_to_user_id": "1589007443853340672",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121273623658819687",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LangChain A Tool Gateway is the right choke point, but let's name the classic failure: confused deputy. The tool runs as a service account and reads what the requesting user couldn't. If the end user's identity doesn't reach the data layer, the gateway is just logging.",
+      "url": "https://x.com/hi__data/status/2121357255937298621"
+    },
+    {
+      "author_id": "3566263693",
+      "created_at": "2026-11-13T20:44:24.000Z",
+      "edit_history_tweet_ids": [
+        "2121343446204199128"
+      ],
+      "id": "2121343446204199128",
+      "in_reply_to_user_id": "1589007443853340672",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 49,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121273623658819687",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LangChain 🧡 Congrats to the @LangChain team! 👏👏👏",
+      "url": "https://x.com/censysio/status/2121343446204199128"
+    },
+    {
+      "author_id": "2112415255469133824",
+      "created_at": "2026-11-13T20:38:09.000Z",
+      "edit_history_tweet_ids": [
+        "2121341870001529029"
+      ],
+      "id": "2121341870001529029",
+      "in_reply_to_user_id": "1589007443853340672",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121273623658819687",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LangChain The tell is what the $300M is for: LangSmith, not a model. Building an agent is the easy part now - running thousands of them in production without silent failures is the job. Evals and traces are the new moat. Which breaks first in your stack: evals, traces, or guardrails?",
+      "url": "https://x.com/Jsunon212/status/2121341870001529029"
+    },
+    {
+      "author_id": "1589027596808777728",
+      "created_at": "2026-11-13T19:59:00.000Z",
+      "edit_history_tweet_ids": [
+        "2121332020819448167"
+      ],
+      "id": "2121332020819448167",
+      "in_reply_to_user_id": "1589007443853340672",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 22,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121273623658819687",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LangChain $3b for agent governance tells you where the pain is. building agents is easy, trusting them in prod is the business",
+      "url": "https://x.com/antopatrex1/status/2121332020819448167"
+    },
+    {
+      "author_id": "762705347752497152",
+      "created_at": "2026-11-13T18:43:10.000Z",
+      "edit_history_tweet_ids": [
+        "2121312935243030982"
+      ],
+      "id": "2121312935243030982",
+      "in_reply_to_user_id": "1589007443853340672",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121273746002465257",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LangChain @CapitalG @dfjgrowth @SalesforceVC @insightpartners @MongoDB @SapphireVC @IVP @sequoia @benchmark @AmplifyPartners @Frontlinevc 7000 companies on langsmith is the load-bearing number here. governance tooling went from afterthought to default infrastructure in about two years and i don't think anyone planned that",
+      "url": "https://x.com/CurMachGC/status/2121312935243030982"
+    },
+    {
+      "author_id": "2705782512",
+      "created_at": "2026-11-13T18:27:14.000Z",
+      "edit_history_tweet_ids": [
+        "2121308927031902694"
+      ],
+      "id": "2121308927031902694",
+      "in_reply_to_user_id": "1589007443853340672",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 13,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121273623658819687",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LangChain owning your intelligence really means owning your agent traces",
+      "url": "https://x.com/lloydjf7/status/2121308927031902694"
+    },
+    {
+      "author_id": "1945165634956144640",
+      "created_at": "2026-11-13T18:19:43.000Z",
+      "edit_history_tweet_ids": [
+        "2121307035140849838"
+      ],
+      "id": "2121307035140849838",
+      "in_reply_to_user_id": "1589007443853340672",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121273623658819687",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LangChain Congrats on the raise! $300M at a $3B valuation is a serious milestone — the runtime + governance angle is exactly what every team building agents will need 🚀",
+      "url": "https://x.com/AutoMagical_AI/status/2121307035140849838"
+    },
+    {
+      "author_id": "1437655880",
+      "created_at": "2026-11-13T18:05:54.000Z",
+      "edit_history_tweet_ids": [
+        "2121303556829667553"
+      ],
+      "id": "2121303556829667553",
+      "in_reply_to_user_id": "1589007443853340672",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 45,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121301892869337233",
+          "type": "quoted"
+        },
+        {
+          "id": "2121273623658819687",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LangChain It is amazing to see how 7,000 companies are already leveraging LangSmith, and we actually went deeper on the details here: https://t.co/LVndjHU7m5",
+      "url": "https://x.com/MichaelWaitze/status/2121303556829667553"
+    },
+    {
+      "author_id": "18080585",
+      "created_at": "2026-11-13T17:57:29.000Z",
+      "edit_history_tweet_ids": [
+        "2121301439918280781"
+      ],
+      "id": "2121301439918280781",
+      "in_reply_to_user_id": "1589007443853340672",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 261,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121273623658819687",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LangChain Congrats on the $300M Series C! We are proud to participate and excited to see millions of developers build production agents with MongoDB + LangChain! 💚",
+      "url": "https://x.com/MongoDB/status/2121301439918280781"
+    },
+    {
+      "author_id": "2077925751542669312",
+      "created_at": "2026-11-13T17:17:51.000Z",
+      "edit_history_tweet_ids": [
+        "2121291466442252425"
+      ],
+      "id": "2121291466442252425",
+      "in_reply_to_user_id": "1589007443853340672",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121273623658819687",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LangChain Congrats to the team. Owning the intelligence should include owning the decision history: when a model or tool changes, can the reviewer still reconstruct why a checked action was allowed?",
+      "url": "https://x.com/forgeorbital/status/2121291466442252425"
+    },
+    {
+      "author_id": "833285666",
+      "created_at": "2026-11-13T17:11:19.000Z",
+      "edit_history_tweet_ids": [
+        "2121289820144365606"
+      ],
+      "id": "2121289820144365606",
+      "in_reply_to_user_id": "1589007443853340672",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121273623658819687",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LangChain Congrats on $300M at a $3B valuation. The telling number is 7,000 companies already on LangSmith for runtime, improvement and governance. Is growth now won on governance depth, or on runtime reach?",
+      "url": "https://x.com/awais_khawar/status/2121289820144365606"
+    },
+    {
+      "author_id": "2264657086",
+      "created_at": "2026-11-13T17:05:47.000Z",
+      "edit_history_tweet_ids": [
+        "2121288428369150254"
+      ],
+      "id": "2121288428369150254",
+      "in_reply_to_user_id": "1589007443853340672",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 79,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121273623658819687",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LangChain I don't build agents with any other ecosystem. Why bother? Langchain has all I need.",
+      "url": "https://x.com/NotScoobySnackz/status/2121288428369150254"
+    },
+    {
+      "author_id": "2033980244412231680",
+      "created_at": "2026-11-13T17:03:05.000Z",
+      "edit_history_tweet_ids": [
+        "2121287747117744530"
+      ],
+      "id": "2121287747117744530",
+      "in_reply_to_user_id": "1589007443853340672",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121273623658819687",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LangChain Owning your intelligence is the easy pitch. Most small teams will lose on the boring part: nobody owns the eval when the agent gets it wrong on a Tuesday.",
+      "url": "https://x.com/HTaraf36086/status/2121287747117744530"
+    },
+    {
+      "author_id": "855465625367564288",
+      "created_at": "2026-11-13T16:48:32.000Z",
+      "edit_history_tweet_ids": [
+        "2121284084890820698"
+      ],
+      "id": "2121284084890820698",
+      "in_reply_to_user_id": "1589007443853340672",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121273623658819687",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LangChain The phrase 'own its intelligence' sets a useful bar. For enterprise agents, I'd measure that by whether teams can export traces and evals, inspect why an action was taken, and move workflows without losing policy history. Governance gets real when it survives a vendor migration.",
+      "url": "https://x.com/Dinamo51648539/status/2121284084890820698"
+    },
+    {
+      "author_id": "2728439146",
+      "created_at": "2026-11-13T16:34:02.000Z",
+      "edit_history_tweet_ids": [
+        "2121280438409068555"
+      ],
+      "id": "2121280438409068555",
+      "in_reply_to_user_id": "3601984577",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 70,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121278857479422125",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rcifuent_1 @LangChain thanks rafa!",
+      "url": "https://x.com/hwchase17/status/2121280438409068555"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1589007443853340672",
+        "created_at": "2026-11-13T16:06:57.000Z",
+        "edit_history_tweet_ids": [
+          "2121273623658819687"
+        ],
+        "id": "2121273623658819687",
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 16022,
+          "like_count": 140,
+          "quote_count": 15,
+          "reply_count": 20,
+          "retweet_count": 26
+        },
+        "text": "LangChain has raised $300M at a $3B valuation to advance our mission to enable every company to own its intelligence. https://t.co/0071ADIcU5\n\nMore than 7,000 companies already rely on LangSmith for agent runtime, improvement, and governance. We're excited to make it easier for https://t.co/QLy19lr3kd"
+      },
+      {
+        "author_id": "1589007443853340672",
+        "created_at": "2026-11-13T16:07:27.000Z",
+        "edit_history_tweet_ids": [
+          "2121273746002465257"
+        ],
+        "id": "2121273746002465257",
+        "in_reply_to_user_id": "1589007443853340672",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1808,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121273623658819687",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Series C led by @CapitalG\n\nNew investors: GIC, @DFJgrowth, @SalesforceVC, @insightpartners, QuantumLight, + @MongoDB Ventures\n\nExisting investors: @SapphireVC, @IVP, @Sequoia, @Benchmark, @AmplifyPartners, @Frontlinevc\n\nhttps://t.co/ONIJaTlXVi"
+      },
+      {
+        "author_id": "2013613489798160388",
+        "created_at": "2026-11-13T17:59:17.000Z",
+        "edit_history_tweet_ids": [
+          "2121301892869337233"
+        ],
+        "id": "2121301892869337233",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 672,
+          "like_count": 2,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121279222912352574",
+            "type": "quoted"
+          }
+        ],
+        "text": "LangChain just raised $300M at a $3B valuation today. Here's what you need to know.\n\nCo-founder and CEO Harrison Chase announced the round on X. His pitch: agents will transform the economy, and companies that own their intelligence will build lasting competitive advantages. https://t.co/tABPWR4TEq https://t.co/62QjzYS6Zd"
+      },
+      {
+        "author_id": "3601984577",
+        "created_at": "2026-11-13T16:27:45.000Z",
+        "edit_history_tweet_ids": [
+          "2121278857479422125"
+        ],
+        "id": "2121278857479422125",
+        "in_reply_to_user_id": "1589007443853340672",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121273623658819687",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@LangChain Great job, @hwchase17 and team."
+      }
+    ],
+    "users": [
+      {
+        "id": "1850405441345380352",
+        "name": "HeyAI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062591338051252225/gGCl0_5o_normal.jpg",
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 296,
+          "like_count": 787,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 221
+        },
+        "username": "hi__data",
+        "verified": false
+      },
+      {
+        "id": "1589007443853340672",
+        "name": "LangChain",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+        "public_metrics": {
+          "followers_count": 273773,
+          "following_count": 207,
+          "like_count": 6738,
+          "listed_count": 3824,
+          "media_count": 3408,
+          "tweet_count": 12087
+        },
+        "username": "LangChain",
+        "verified": true
+      },
+      {
+        "id": "3566263693",
+        "name": "Censys",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907451117249642496/L6o_ywLy_normal.png",
+        "public_metrics": {
+          "followers_count": 13124,
+          "following_count": 1500,
+          "like_count": 1344,
+          "listed_count": 151,
+          "media_count": 1068,
+          "tweet_count": 2736
+        },
+        "username": "censysio",
+        "verified": false
+      },
+      {
+        "id": "2112415255469133824",
+        "name": "XIII",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2112431054850240512/6geVU9eH_normal.jpg",
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 7,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 228
+        },
+        "username": "Jsunon212",
+        "verified": false
+      },
+      {
+        "id": "1589027596808777728",
+        "name": "Anto Patrex (r/aw)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083623174781222912/YlmHUd7E_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3217,
+          "following_count": 7104,
+          "like_count": 5255,
+          "listed_count": 27,
+          "media_count": 647,
+          "tweet_count": 4782
+        },
+        "username": "antopatrex1",
+        "verified": false
+      },
+      {
+        "id": "762705347752497152",
+        "name": "Curious Machine",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119831630399324160/cgCedlta_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 23,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 46
+        },
+        "username": "CurMachGC",
+        "verified": false
+      },
+      {
+        "id": "2705782512",
+        "name": "Lloyd Jose Fernandez",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1552101579947274240/_BdQ7wqE_normal.jpg",
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 495,
+          "like_count": 2025,
+          "listed_count": 10,
+          "media_count": 42,
+          "tweet_count": 855
+        },
+        "username": "lloydjf7",
+        "verified": false
+      },
+      {
+        "id": "1945165634956144640",
+        "name": "Auto-Magically.Com",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949641432269996033/LVoiKgcs_normal.jpg",
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 204,
+          "like_count": 946,
+          "listed_count": 0,
+          "media_count": 958,
+          "tweet_count": 3034
+        },
+        "username": "AutoMagical_AI",
+        "verified": false
+      },
+      {
+        "id": "1437655880",
+        "name": "Michael Waitze",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071220022966648832/rNPOofEG_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2071,
+          "following_count": 413,
+          "like_count": 2315,
+          "listed_count": 50,
+          "media_count": 21,
+          "tweet_count": 42757
+        },
+        "username": "MichaelWaitze",
+        "verified": false
+      },
+      {
+        "id": "18080585",
+        "name": "MongoDB",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_normal.png",
+        "public_metrics": {
+          "followers_count": 503915,
+          "following_count": 6132,
+          "like_count": 16215,
+          "listed_count": 5511,
+          "media_count": 5134,
+          "tweet_count": 24922
+        },
+        "username": "MongoDB",
+        "verified": false
+      },
+      {
+        "id": "2077925751542669312",
+        "name": "Forge Orbital Inc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2113030842465316864/n4EHZxZz_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 1,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 212
+        },
+        "username": "forgeorbital",
+        "verified": false
+      },
+      {
+        "id": "833285666",
+        "name": "Awais Khawar, PhD | 2x books | AI/Cloud Expert",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1478836476922273794/uElN-muQ_normal.jpg",
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 216,
+          "like_count": 140,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 6362
+        },
+        "username": "awais_khawar",
+        "verified": false
+      },
+      {
+        "id": "2264657086",
+        "name": "Scooby Snackz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888348352401612800/2pCOABTK_normal.jpg",
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 507,
+          "like_count": 4527,
+          "listed_count": 11,
+          "media_count": 131,
+          "tweet_count": 4736
+        },
+        "username": "NotScoobySnackz",
+        "verified": false
+      },
+      {
+        "id": "2033980244412231680",
+        "name": "Hanan Taraf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107148558973476864/Q0lhkF0L_normal.jpg",
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 57,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 681
+        },
+        "username": "HTaraf36086",
+        "verified": false
+      },
+      {
+        "id": "855465625367564288",
+        "name": "Signal Forge",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098030424295419912/lv0RztrS_normal.jpg",
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 0,
+          "like_count": 1460,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 472
+        },
+        "username": "Dinamo51648539",
+        "verified": false
+      },
+      {
+        "id": "2728439146",
+        "name": "Harrison Chase",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_normal.jpg",
+        "public_metrics": {
+          "followers_count": 139652,
+          "following_count": 602,
+          "like_count": 17212,
+          "listed_count": 2958,
+          "media_count": 705,
+          "tweet_count": 17920
+        },
+        "username": "hwchase17",
+        "verified": false
+      },
+      {
+        "id": "3601984577",
+        "name": "Rafa Cifuentes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119925285890007040/bawsKB1q_normal.jpg",
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 622,
+          "like_count": 2035,
+          "listed_count": 5,
+          "media_count": 146,
+          "tweet_count": 1227
+        },
+        "username": "rcifuent_1",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121357255937298621",
+    "next_token": "b26v89c19zqg8o3juzovr7r5ooq29b1jssmhzg62jrj3x",
+    "oldest_id": "2121280438409068555",
+    "result_count": 15
+  }
+}

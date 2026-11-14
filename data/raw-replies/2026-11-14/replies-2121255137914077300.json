@@ -1,0 +1,978 @@
+{
+  "data": [
+    {
+      "author_id": "24702345",
+      "conversation_id": "2121255137914077300",
+      "created_at": "2026-11-13T23:11:14.000Z",
+      "edit_history_tweet_ids": [
+        "2121380395933434101"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1751810001751183361",
+            "start": 0,
+            "username": "cognition"
+          }
+        ]
+      },
+      "id": "2121380395933434101",
+      "in_reply_to_user_id": "1751810001751183361",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 23,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121255137914077300",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cognition the underrated bit here is \"runs on devin's machine\". internal tools die when they need infra, auth and a deploy pipeline nobody owns. collapse that to zero and the long tail of tiny team apps finally gets built",
+      "url": "https://x.com/hhg2288/status/2121380395933434101"
+    },
+    {
+      "author_id": "2078707395438759936",
+      "conversation_id": "2121255137914077300",
+      "created_at": "2026-11-13T22:13:39.000Z",
+      "edit_history_tweet_ids": [
+        "2121365906114908183"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1751810001751183361",
+            "start": 0,
+            "username": "cognition"
+          }
+        ]
+      },
+      "id": "2121365906114908183",
+      "in_reply_to_user_id": "1751810001751183361",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121255137914077300",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cognition Running agent-built apps on the same cloud computer as the agent raises the isolation question. How are Devin Apps sandboxed from the workspace — network, secrets, filesystem — and what stops a generated app from persisting state or exfiltrating data after the session ends?",
+      "url": "https://x.com/sunder0yct/status/2121365906114908183"
+    },
+    {
+      "author_id": "2065869218713948160",
+      "conversation_id": "2121255137914077300",
+      "created_at": "2026-11-13T22:08:08.000Z",
+      "edit_history_tweet_ids": [
+        "2121364515451453876"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1751810001751183361",
+            "start": 0,
+            "username": "cognition"
+          }
+        ]
+      },
+      "id": "2121364515451453876",
+      "in_reply_to_user_id": "1751810001751183361",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 15,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121255137914077300",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cognition Cognition Introducing Devin Apps Private secure sharable web applications running directly Devin cloud computer Devin Apps designed",
+      "url": "https://x.com/NoorTech0/status/2121364515451453876"
+    },
+    {
+      "author_id": "1764305861827039233",
+      "conversation_id": "2121255137914077300",
+      "created_at": "2026-11-13T21:48:56.000Z",
+      "edit_history_tweet_ids": [
+        "2121359684120850821"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1751810001751183361",
+            "start": 0,
+            "username": "cognition"
+          }
+        ]
+      },
+      "id": "2121359684120850821",
+      "in_reply_to_user_id": "1751810001751183361",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 22,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121255137914077300",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cognition is it only for enterprises? or available to the devs also",
+      "url": "https://x.com/junaiddshaukat/status/2121359684120850821"
+    },
+    {
+      "author_id": "1060373038451937280",
+      "conversation_id": "2121255137914077300",
+      "created_at": "2026-11-13T21:29:41.000Z",
+      "edit_history_tweet_ids": [
+        "2121354838546215225"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "886874457934970881",
+            "start": 0,
+            "username": "sachintwtss"
+          },
+          {
+            "end": 23,
+            "id": "1751810001751183361",
+            "start": 13,
+            "username": "cognition"
+          }
+        ]
+      },
+      "id": "2121354838546215225",
+      "in_reply_to_user_id": "886874457934970881",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121271419782979880",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@sachintwtss @cognition on our Teams plan, flex members (free!) can visit apps. you need a full seat to create and modify apps",
+      "url": "https://x.com/DarraghBurke_/status/2121354838546215225"
+    },
+    {
+      "author_id": "2048160545765724160",
+      "conversation_id": "2121255137914077300",
+      "created_at": "2026-11-13T20:45:28.000Z",
+      "edit_history_tweet_ids": [
+        "2121343714815885335"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1751810001751183361",
+            "start": 0,
+            "username": "cognition"
+          }
+        ]
+      },
+      "id": "2121343714815885335",
+      "in_reply_to_user_id": "1751810001751183361",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 25,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121255137914077300",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cognition All that's missing is to create an alternative to Grok Bot, and the circle will be complete!",
+      "url": "https://x.com/antonioss97/status/2121343714815885335"
+    },
+    {
+      "author_id": "2024112218753900544",
+      "conversation_id": "2121255137914077300",
+      "created_at": "2026-11-13T20:40:41.000Z",
+      "edit_history_tweet_ids": [
+        "2121342509783842972"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1751810001751183361",
+            "start": 0,
+            "username": "cognition"
+          }
+        ]
+      },
+      "id": "2121342509783842972",
+      "in_reply_to_user_id": "1751810001751183361",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121255137914077300",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cognition A powerful expansion that makes building internal tools more seamless",
+      "url": "https://x.com/SaniAiTech/status/2121342509783842972"
+    },
+    {
+      "author_id": "2008812694628175872",
+      "conversation_id": "2121255137914077300",
+      "created_at": "2026-11-13T20:37:35.000Z",
+      "edit_history_tweet_ids": [
+        "2121341727537820118"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1751810001751183361",
+            "start": 0,
+            "username": "cognition"
+          }
+        ]
+      },
+      "id": "2121341727537820118",
+      "in_reply_to_user_id": "1751810001751183361",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 22,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121255137914077300",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cognition Devin Apps looks incredible  secure, sharable apps running on Devin's cloud. This unlocks a whole new level for internal tools!",
+      "url": "https://x.com/AliceInfoAi/status/2121341727537820118"
+    },
+    {
+      "author_id": "1350438605290876929",
+      "conversation_id": "2121255137914077300",
+      "created_at": "2026-11-13T19:53:10.000Z",
+      "edit_history_tweet_ids": [
+        "2121330552532013244"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1751810001751183361",
+            "start": 0,
+            "username": "cognition"
+          }
+        ]
+      },
+      "id": "2121330552532013244",
+      "in_reply_to_user_id": "1751810001751183361",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 24,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121255137914077300",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cognition 💯💯💯💯",
+      "url": "https://x.com/ben_ai_eng/status/2121330552532013244"
+    },
+    {
+      "author_id": "2940464042",
+      "conversation_id": "2121255137914077300",
+      "created_at": "2026-11-13T19:38:20.000Z",
+      "edit_history_tweet_ids": [
+        "2121326817726586972"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1751810001751183361",
+            "start": 0,
+            "username": "cognition"
+          }
+        ]
+      },
+      "id": "2121326817726586972",
+      "in_reply_to_user_id": "1751810001751183361",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121255137914077300",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cognition internal tools i build for myself usually just sit on my laptop. sharing one with a link like this would actually get used by my team",
+      "url": "https://x.com/mohsinyazdanii/status/2121326817726586972"
+    },
+    {
+      "author_id": "1809957143837364224",
+      "conversation_id": "2121255137914077300",
+      "created_at": "2026-11-13T18:52:15.000Z",
+      "edit_history_tweet_ids": [
+        "2121315220320911387"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1751810001751183361",
+            "start": 0,
+            "username": "cognition"
+          }
+        ]
+      },
+      "id": "2121315220320911387",
+      "in_reply_to_user_id": "1751810001751183361",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121255137914077300",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cognition Turning Devin into a platform for building and running apps is a huge step! 🚀",
+      "url": "https://x.com/AiwithAlyar/status/2121315220320911387"
+    },
+    {
+      "author_id": "920170929019240448",
+      "conversation_id": "2121255137914077300",
+      "created_at": "2026-11-13T18:43:04.000Z",
+      "edit_history_tweet_ids": [
+        "2121312909032894844"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1751810001751183361",
+            "start": 0,
+            "username": "cognition"
+          }
+        ]
+      },
+      "id": "2121312909032894844",
+      "in_reply_to_user_id": "1751810001751183361",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 17,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121255137914077300",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cognition Devin is making app building more flexible and accessible.",
+      "url": "https://x.com/HanaFutureAI/status/2121312909032894844"
+    },
+    {
+      "author_id": "1159835302275346433",
+      "conversation_id": "2121255137914077300",
+      "created_at": "2026-11-13T18:24:11.000Z",
+      "edit_history_tweet_ids": [
+        "2121308158996185303"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1751810001751183361",
+            "start": 0,
+            "username": "cognition"
+          }
+        ]
+      },
+      "id": "2121308158996185303",
+      "in_reply_to_user_id": "1751810001751183361",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 24,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121255137914077300",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cognition Android?",
+      "url": "https://x.com/isbestmee/status/2121308158996185303"
+    },
+    {
+      "author_id": "1418932322070671370",
+      "conversation_id": "2121255137914077300",
+      "created_at": "2026-11-13T18:02:21.000Z",
+      "edit_history_tweet_ids": [
+        "2121302664390529533"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1751810001751183361",
+            "start": 0,
+            "username": "cognition"
+          }
+        ]
+      },
+      "id": "2121302664390529533",
+      "in_reply_to_user_id": "1751810001751183361",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121255145702900056",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cognition I keep a running model of monthly spend across 3 regions and the maintenance burden is the real cost. Providers rename SKUs, add services, restructure billing monthly. An agent that absorbs those changes autonomously saves real engineering time",
+      "url": "https://x.com/artificdreams/status/2121302664390529533"
+    },
+    {
+      "author_id": "1418932322070671370",
+      "conversation_id": "2121255137914077300",
+      "created_at": "2026-11-13T17:59:31.000Z",
+      "edit_history_tweet_ids": [
+        "2121301950192820600"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1751810001751183361",
+            "start": 0,
+            "username": "cognition"
+          }
+        ]
+      },
+      "id": "2121301950192820600",
+      "in_reply_to_user_id": "1751810001751183361",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121255143953903736",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cognition Most internal tools I have run sit under 5% utilisation and you pay for them 24/7 (!) The sleep/wake billing here is the right default",
+      "url": "https://x.com/artificdreams/status/2121301950192820600"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1751810001751183361",
+        "conversation_id": "2121255137914077300",
+        "created_at": "2026-11-13T14:53:30.000Z",
+        "edit_history_tweet_ids": [
+          "2121255137914077300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fm5roQZ8p4",
+              "end": 258,
+              "expanded_url": "https://x.com/cognition/status/2121255137914077300/video/1",
+              "media_key": "13_2121254470235660288",
+              "start": 235,
+              "url": "https://t.co/fm5roQZ8p4"
+            }
+          ]
+        },
+        "id": "2121255137914077300",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 176,
+          "impression_count": 98605,
+          "like_count": 583,
+          "quote_count": 55,
+          "reply_count": 52,
+          "retweet_count": 62
+        },
+        "text": "Introducing: Devin Apps\n\nPrivate, secure, sharable web applications running directly on Devin’s cloud computer.\n\nDevin Apps are designed to power your most ambitious internal tools, preview deployments, and extensions to Devin itself. https://t.co/fm5roQZ8p4"
+      },
+      {
+        "author_id": "886874457934970881",
+        "conversation_id": "2121255137914077300",
+        "created_at": "2026-11-13T15:58:12.000Z",
+        "edit_history_tweet_ids": [
+          "2121271419782979880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751810001751183361",
+              "start": 0,
+              "username": "cognition"
+            }
+          ]
+        },
+        "id": "2121271419782979880",
+        "in_reply_to_user_id": "1751810001751183361",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 311,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121255137914077300",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@cognition can teammates use these without a devin seat?"
+      },
+      {
+        "author_id": "1751810001751183361",
+        "conversation_id": "2121255137914077300",
+        "created_at": "2026-11-13T14:53:32.000Z",
+        "edit_history_tweet_ids": [
+          "2121255145702900056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Devin Apps are live, private web applications hosted directly on Devin's cloud computer.",
+              "display_url": "devin.ai/apps",
+              "end": 52,
+              "expanded_url": "https://devin.ai/apps",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2121255154255028224/imark7f1?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2121255154255028224/imark7f1?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 29,
+              "status": 200,
+              "title": "Devin Apps | Devin",
+              "unwound_url": "https://devin.ai/apps",
+              "url": "https://t.co/7bFdKatrhE"
+            }
+          ]
+        },
+        "id": "2121255145702900056",
+        "in_reply_to_user_id": "1751810001751183361",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2725,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121255143953903736",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Get started with Devin Apps: https://t.co/7bFdKatrhE"
+      },
+      {
+        "author_id": "1751810001751183361",
+        "conversation_id": "2121255137914077300",
+        "created_at": "2026-11-13T14:53:31.000Z",
+        "edit_history_tweet_ids": [
+          "2121255143953903736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Devin Apps are live, private web applications hosted directly on Devin's cloud computer. Here is how to create, share, and update one.",
+              "display_url": "devin.ai/blog/devin-apps",
+              "end": 143,
+              "expanded_url": "https://devin.ai/blog/devin-apps",
+              "start": 120,
+              "status": 200,
+              "title": "Introducing Devin Apps | Devin",
+              "unwound_url": "https://devin.ai/blog/devin-apps",
+              "url": "https://t.co/Gx8w5zuzuf"
+            }
+          ]
+        },
+        "id": "2121255143953903736",
+        "in_reply_to_user_id": "1751810001751183361",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3518,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121255141143622016",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Devin Apps can be used to extend and customize Devin itself. \n\nRead more about how to create, share, and update an App: https://t.co/Gx8w5zuzuf"
+      }
+    ],
+    "users": [
+      {
+        "id": "24702345",
+        "name": "Horacio Herrera",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1647382918904307712/dL7wAY8T_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2967,
+          "following_count": 882,
+          "like_count": 24659,
+          "listed_count": 125,
+          "media_count": 1753,
+          "tweet_count": 23928
+        },
+        "username": "hhg2288",
+        "verified": false
+      },
+      {
+        "id": "1751810001751183361",
+        "name": "Cognition",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765909640364068865/MvH-m0gd_normal.jpg",
+        "public_metrics": {
+          "followers_count": 196601,
+          "following_count": 8,
+          "like_count": 1677,
+          "listed_count": 1683,
+          "media_count": 363,
+          "tweet_count": 1094
+        },
+        "username": "cognition",
+        "verified": true
+      },
+      {
+        "id": "2078707395438759936",
+        "name": "sunder",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102705168106348544/nckeOYJ3_normal.jpg",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 680
+        },
+        "username": "sunder0yct",
+        "verified": false
+      },
+      {
+        "id": "2065869218713948160",
+        "name": "NOOR TECH",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103391564588621824/ODharbUH_normal.jpg",
+        "public_metrics": {
+          "followers_count": 27490,
+          "following_count": 3768,
+          "like_count": 10487,
+          "listed_count": 20,
+          "media_count": 35,
+          "tweet_count": 10360
+        },
+        "username": "NoorTech0",
+        "verified": false
+      },
+      {
+        "id": "1764305861827039233",
+        "name": "Junaid Shaukat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110732595600457728/hx107_LV_normal.jpg",
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 369,
+          "like_count": 226,
+          "listed_count": 1,
+          "media_count": 368,
+          "tweet_count": 1520
+        },
+        "username": "junaiddshaukat",
+        "verified": false
+      },
+      {
+        "id": "1060373038451937280",
+        "name": "Darragh Burke",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766147081956122624/FIajrUt7_normal.jpg",
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 2197,
+          "like_count": 25520,
+          "listed_count": 14,
+          "media_count": 23,
+          "tweet_count": 446
+        },
+        "username": "DarraghBurke_",
+        "verified": false
+      },
+      {
+        "id": "886874457934970881",
+        "name": "Sachin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2112940644117454848/xhwgt2QE_normal.jpg",
+        "public_metrics": {
+          "followers_count": 4243,
+          "following_count": 2119,
+          "like_count": 35340,
+          "listed_count": 2,
+          "media_count": 1307,
+          "tweet_count": 15443
+        },
+        "username": "sachintwtss",
+        "verified": false
+      },
+      {
+        "id": "2048160545765724160",
+        "name": "Antônio Carlos de Souza S.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118152302020243456/3uzvuYdr_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 44,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 22
+        },
+        "username": "antonioss97",
+        "verified": false
+      },
+      {
+        "id": "2024112218753900544",
+        "name": "Sani Ai Tech",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062413323392647168/Vsz4abT4_normal.jpg",
+        "public_metrics": {
+          "followers_count": 31176,
+          "following_count": 3771,
+          "like_count": 12469,
+          "listed_count": 35,
+          "media_count": 55,
+          "tweet_count": 11566
+        },
+        "username": "SaniAiTech",
+        "verified": false
+      },
+      {
+        "id": "2008812694628175872",
+        "name": "Alice The Ai Expert",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052697184177364997/NV27A0OX_normal.jpg",
+        "public_metrics": {
+          "followers_count": 30102,
+          "following_count": 6520,
+          "like_count": 35587,
+          "listed_count": 26,
+          "media_count": 137,
+          "tweet_count": 30730
+        },
+        "username": "AliceInfoAi",
+        "verified": false
+      },
+      {
+        "id": "1350438605290876929",
+        "name": "Ben Newell",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105337410082967552/MHh3Lgv0_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1123,
+          "following_count": 2106,
+          "like_count": 12000,
+          "listed_count": 11,
+          "media_count": 221,
+          "tweet_count": 5751
+        },
+        "username": "ben_ai_eng",
+        "verified": false
+      },
+      {
+        "id": "2940464042",
+        "name": "穆辛·亚兹达尼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706424536470548480/uMYRZQOA_normal.jpg",
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 3184,
+          "like_count": 6806,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 13260
+        },
+        "username": "mohsinyazdanii",
+        "verified": false
+      },
+      {
+        "id": "1809957143837364224",
+        "name": "Alyar AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078448383380127744/ERtK_qua_normal.jpg",
+        "public_metrics": {
+          "followers_count": 12334,
+          "following_count": 4519,
+          "like_count": 21733,
+          "listed_count": 5,
+          "media_count": 141,
+          "tweet_count": 17596
+        },
+        "username": "AiwithAlyar",
+        "verified": false
+      },
+      {
+        "id": "920170929019240448",
+        "name": "Hana Kaito AI🌞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104091283472179201/VfEzsj2F_normal.jpg",
+        "public_metrics": {
+          "followers_count": 16536,
+          "following_count": 677,
+          "like_count": 7605,
+          "listed_count": 11,
+          "media_count": 83,
+          "tweet_count": 15039
+        },
+        "username": "HanaFutureAI",
+        "verified": false
+      },
+      {
+        "id": "1159835302275346433",
+        "name": "月下孤鸿影",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106077782581424128/J6coMGUv_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1315,
+          "following_count": 1335,
+          "like_count": 1461,
+          "listed_count": 1,
+          "media_count": 272,
+          "tweet_count": 3886
+        },
+        "username": "isbestmee",
+        "verified": false
+      },
+      {
+        "id": "1418932322070671370",
+        "name": "Artificial Dreams",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120176966439424000/gYkhV0-U_normal.jpg",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 20,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 39
+        },
+        "username": "artificdreams",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121380395933434101",
+    "next_token": "b26v89c19zqg8o3juzovr9thk5dkt2n24ygipz16kuvzx",
+    "oldest_id": "2121301950192820600",
+    "result_count": 15
+  }
+}

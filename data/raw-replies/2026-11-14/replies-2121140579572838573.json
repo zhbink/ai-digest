@@ -1,0 +1,648 @@
+{
+  "data": [
+    {
+      "author_id": "1742045432728154112",
+      "created_at": "2026-11-13T14:28:24.000Z",
+      "edit_history_tweet_ids": [
+        "2121248823100272828"
+      ],
+      "id": "2121248823100272828",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121140579572838573",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun M4单核就361倍 手机上说话不用干等了",
+      "url": "https://x.com/mnscz133680/status/2121248823100272828"
+    },
+    {
+      "author_id": "1146800332124520448",
+      "created_at": "2026-11-13T14:18:19.000Z",
+      "edit_history_tweet_ids": [
+        "2121246281834094990"
+      ],
+      "id": "2121246281834094990",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121140579572838573",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 端侧语音的瓶颈就在延迟，并行生成音频特征这个思路挺关键。有人在 M 系列 Mac 上实测过首包延迟吗？想看看能不能做成离线语音助手。",
+      "url": "https://x.com/yishengv/status/2121246281834094990"
+    },
+    {
+      "author_id": "2095161146504515584",
+      "created_at": "2026-11-13T10:02:57.000Z",
+      "edit_history_tweet_ids": [
+        "2121182016725233748"
+      ],
+      "id": "2121182016725233748",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121140579572838573",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 端侧语音延迟够低 离线场景就打开了",
+      "url": "https://x.com/maytmku/status/2121182016725233748"
+    },
+    {
+      "author_id": "2098721428870926336",
+      "created_at": "2026-11-13T09:56:04.000Z",
+      "edit_history_tweet_ids": [
+        "2121180286407024784"
+      ],
+      "id": "2121180286407024784",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 18,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121140579572838573",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 端侧语音还能边压边还原，还拆掉特征之间的排队。低延迟最后拼的，往往不是模型，是编解码肯不肯让路。",
+      "url": "https://x.com/probystander/status/2121180286407024784"
+    },
+    {
+      "author_id": "1049239807090520064",
+      "created_at": "2026-11-13T09:29:36.000Z",
+      "edit_history_tweet_ids": [
+        "2121173625055186959"
+      ],
+      "id": "2121173625055186959",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121140579572838573",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 我理解，87 倍实时说的是这个 74M 的编解码器本身，它只是语音模型的「嘴」，负责把 token 变回声音。按模型卡算，嘴把 1 秒语音解出来只要约 11.5 毫秒（1 秒除以 87），而这 1 秒语音是每秒 12.5 帧乘每帧 12 个 token，共 150 个 token，得先由后面 2B",
+      "url": "https://x.com/omnigeeker/status/2121173625055186959"
+    },
+    {
+      "author_id": "4627539433",
+      "created_at": "2026-11-13T09:15:09.000Z",
+      "edit_history_tweet_ids": [
+        "2121169987486531896"
+      ],
+      "id": "2121169987486531896",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 15,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121140579572838573",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 361×/87× 是编解码速度，还想看接上语音模型后的首音延迟：等模型出第一帧、再到扬声器出声，各花多久。",
+      "url": "https://x.com/GarryLing1/status/2121169987486531896"
+    },
+    {
+      "author_id": "1903063434125774851",
+      "created_at": "2026-11-13T08:56:02.000Z",
+      "edit_history_tweet_ids": [
+        "2121165178964176930"
+      ],
+      "id": "2121165178964176930",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121140579572838573",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 并行生成音频特征这点很关键。以前特征之间有顺序依赖，端上就得排队；这层拆开之后，M4 上才比较容易把延迟压下去。端侧语音 Agent 真正较劲的，往往不是音质上限，而是对话会不会卡半拍。",
+      "url": "https://x.com/binbinyiyilili/status/2121165178964176930"
+    },
+    {
+      "author_id": "1254217568165888000",
+      "created_at": "2026-11-13T08:48:37.000Z",
+      "edit_history_tweet_ids": [
+        "2121163313728082017"
+      ],
+      "id": "2121163313728082017",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 18,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121140579572838573",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 编解码省下来的算力 留给手机上别的任务也挺实在",
+      "url": "https://x.com/zomeha38/status/2121163313728082017"
+    },
+    {
+      "author_id": "1992952876533215232",
+      "created_at": "2026-11-13T08:41:26.000Z",
+      "edit_history_tweet_ids": [
+        "2121161502568993110"
+      ],
+      "id": "2121161502568993110",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121140579572838573",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 端侧语音交互这个方向太对了，延迟压下来之后，跟手机助手说话终于能像真人聊天一样自然了",
+      "url": "https://x.com/xiri318695/status/2121161502568993110"
+    },
+    {
+      "author_id": "1980496645839286272",
+      "created_at": "2026-11-13T08:36:30.000Z",
+      "edit_history_tweet_ids": [
+        "2121160264615682103"
+      ],
+      "id": "2121160264615682103",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 17,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121140579572838573",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 所有码本并行生成的话，首包延迟能压到多少毫秒？端侧语音最怕开口前那一下卡顿",
+      "url": "https://x.com/wCs123123/status/2121160264615682103"
+    },
+    {
+      "author_id": "2109124078481354753",
+      "created_at": "2026-11-13T07:50:59.000Z",
+      "edit_history_tweet_ids": [
+        "2121148808507613578"
+      ],
+      "id": "2121148808507613578",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121140579572838573",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 单核就三百多倍实时 这端侧语音是真能塞进手机了",
+      "url": "https://x.com/jixianai/status/2121148808507613578"
+    },
+    {
+      "author_id": "50387662",
+      "created_at": "2026-11-13T07:35:24.000Z",
+      "edit_history_tweet_ids": [
+        "2121144886942429673"
+      ],
+      "id": "2121144886942429673",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 21,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121140579572838573",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun M4 Max 单核上编码快 361 倍、解码快 87 倍实时，余量是有的。塞进手机或耳机，4 比特量化后音质掉多少、连续对话会不会卡，比这个跑分更要紧。",
+      "url": "https://x.com/Michael_AI_Hu/status/2121144886942429673"
+    },
+    {
+      "author_id": "1969682764686569472",
+      "created_at": "2026-11-13T07:34:20.000Z",
+      "edit_history_tweet_ids": [
+        "2121144617399710071"
+      ],
+      "id": "2121144617399710071",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121140579572838573",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 「编码 361 倍、解码 87 倍」是 M4 Max 单核 FP32 的成绩，模型约 74M。许可是 LFM Open License，年收入超 1000 万美元的商业用途要另谈；4-bit 解码器还装在 LFM3 的 GGUF 里，不是单独那份权重就能上手机。你是先拿来跑语音对话，还是先把授权和体积算清楚？",
+      "url": "https://x.com/BoomAIGC/status/2121144617399710071"
+    },
+    {
+      "author_id": "1881375128166252544",
+      "created_at": "2026-11-13T07:24:43.000Z",
+      "edit_history_tweet_ids": [
+        "2121142196141527409"
+      ],
+      "id": "2121142196141527409",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 15,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121140579572838573",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 好奇手机上首帧要等多久",
+      "url": "https://x.com/AdeAgentAI/status/2121142196141527409"
+    },
+    {
+      "author_id": "3123084528",
+      "created_at": "2026-11-13T07:22:56.000Z",
+      "edit_history_tweet_ids": [
+        "2121141748134969509"
+      ],
+      "id": "2121141748134969509",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121140579572838573",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 所有音频特征一起生成？",
+      "url": "https://x.com/KalinJunYAI/status/2121141748134969509"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1657474831",
+        "created_at": "2026-11-13T07:18:17.000Z",
+        "edit_history_tweet_ids": [
+          "2121140579572838573"
+        ],
+        "id": "2121140579572838573",
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 2070,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "text": "Liquid AI开源LiquidCodec：让端侧AI语音交互实现超低延迟高保真\n\nLiquidCodec是一款面向语音大模型的流式音频编解码器，可将人类语音高效压缩为离散数字特征并实时还原。\n\n它打破了传统音频编码在特征维度间的顺序依赖，让语音模型能够并行生成所有音频特征，在苹果M4"
+      }
+    ],
+    "users": [
+      {
+        "id": "1742045432728154112",
+        "name": "LifeInsight",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116501191672971264/ympRXbXK_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1858,
+          "following_count": 1449,
+          "like_count": 6845,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 4198
+        },
+        "username": "mnscz133680",
+        "verified": false
+      },
+      {
+        "id": "1657474831",
+        "name": "Gorden Sun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1522159828231409664/GPpXyPT1_normal.jpg",
+        "public_metrics": {
+          "followers_count": 70475,
+          "following_count": 1759,
+          "like_count": 252,
+          "listed_count": 991,
+          "media_count": 3690,
+          "tweet_count": 9549
+        },
+        "username": "Gorden_Sun",
+        "verified": false
+      },
+      {
+        "id": "1146800332124520448",
+        "name": "KISS NAISI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1490890583082102786/cZyPceos_normal.jpg",
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 292,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 172
+        },
+        "username": "yishengv",
+        "verified": false
+      },
+      {
+        "id": "2095161146504515584",
+        "name": "KKKKeF（诚信互关）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106749770547212288/EWYv_Ug0_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 1324,
+          "like_count": 519,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 2347
+        },
+        "username": "maytmku",
+        "verified": false
+      },
+      {
+        "id": "2098721428870926336",
+        "name": "Professional Bystander",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108530610683658240/aYRmacZm_normal.jpg",
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 140,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 717
+        },
+        "username": "probystander",
+        "verified": false
+      },
+      {
+        "id": "1049239807090520064",
+        "name": "Omnigeeker ｜ AI 极客",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899069089844543488/bv7Q52Nd_normal.jpg",
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 326,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 52
+        },
+        "username": "omnigeeker",
+        "verified": false
+      },
+      {
+        "id": "4627539433",
+        "name": "Anaxagore",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107473940306366465/X8ODrWn-_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 45,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 77
+        },
+        "username": "GarryLing1",
+        "verified": false
+      },
+      {
+        "id": "1903063434125774851",
+        "name": "bin sun⚡️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095462509264465920/sRPQctA2_normal.jpg",
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 277,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 1677
+        },
+        "username": "binbinyiyilili",
+        "verified": false
+      },
+      {
+        "id": "1254217568165888000",
+        "name": "打螺丝的Dave",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097562123257987072/NuaChaRL_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1174,
+          "following_count": 1574,
+          "like_count": 1418,
+          "listed_count": 0,
+          "media_count": 262,
+          "tweet_count": 3829
+        },
+        "username": "zomeha38",
+        "verified": false
+      },
+      {
+        "id": "1992952876533215232",
+        "name": "xiri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109965574642315264/9CU1uCk-_normal.jpg",
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 34,
+          "like_count": 1528,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1012
+        },
+        "username": "xiri318695",
+        "verified": false
+      },
+      {
+        "id": "1980496645839286272",
+        "name": "WCS · AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097927257813868545/glB_aWzv_normal.jpg",
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 477,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 709
+        },
+        "username": "wCs123123",
+        "verified": false
+      },
+      {
+        "id": "2109124078481354753",
+        "name": "jixian",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119466483285946368/YmVRWVoG_normal.jpg",
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 159,
+          "like_count": 3077,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1445
+        },
+        "username": "jixianai",
+        "verified": false
+      },
+      {
+        "id": "50387662",
+        "name": "Michael Hu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106777709070422016/Z56SDdz7_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2061,
+          "following_count": 1707,
+          "like_count": 570,
+          "listed_count": 5,
+          "media_count": 321,
+          "tweet_count": 1856
+        },
+        "username": "Michael_AI_Hu",
+        "verified": false
+      },
+      {
+        "id": "1969682764686569472",
+        "name": "BoomAIGC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2114897811607052288/K9pAdMFE_normal.jpg",
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 108,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 308
+        },
+        "username": "BoomAIGC",
+        "verified": false
+      },
+      {
+        "id": "1881375128166252544",
+        "name": "Aiden",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110606025216929792/lwJK90kp_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3395,
+          "following_count": 3064,
+          "like_count": 863,
+          "listed_count": 6,
+          "media_count": 97,
+          "tweet_count": 8065
+        },
+        "username": "AdeAgentAI",
+        "verified": false
+      },
+      {
+        "id": "3123084528",
+        "name": "Kalin | AI builds & gotchas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093660551486517248/uglSLEXN_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2434,
+          "following_count": 2113,
+          "like_count": 1803,
+          "listed_count": 1,
+          "media_count": 310,
+          "tweet_count": 4555
+        },
+        "username": "KalinJunYAI",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121248823100272828",
+    "next_token": "b26v89c19zqg8o3juzovr5l8f6iz68k6cun2p73sxvqf1",
+    "oldest_id": "2121141748134969509",
+    "result_count": 15
+  }
+}

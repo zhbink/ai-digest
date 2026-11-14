@@ -1,0 +1,334 @@
+{
+  "data": [
+    {
+      "author_id": "1694943359255957504",
+      "created_at": "2026-11-13T14:24:10.000Z",
+      "edit_history_tweet_ids": [
+        "2121247756966908191"
+      ],
+      "id": "2121247756966908191",
+      "in_reply_to_user_id": "431617343",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 88,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121235974336520383",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@berryxia @lydiahallie 补一个更新日志里的细节。后来又改了一版，报告会把过期路径、过期命令和互相打架的指令文件排在最前面。Claude Code 文档里写过的思考关键词会保留，不会被当成旧写法删掉。\n\n另外 claude-api 那个 skill 也加了 prompt-audit 子命令，查的是你自己 agent 里的提示词和工具描述。做 agent",
+      "url": "https://x.com/linxlbuilds/status/2121247756966908191"
+    },
+    {
+      "author_id": "1887786807234048000",
+      "created_at": "2026-11-13T14:02:16.000Z",
+      "edit_history_tweet_ids": [
+        "2121242244346720746"
+      ],
+      "id": "2121242244346720746",
+      "in_reply_to_user_id": "431617343",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 35,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121235974336520383",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@berryxia @lydiahallie 提示词会过期，这件事其实不新鲜。\n企业里的操作手册也是，写完没人改，半年后就在教一套已经不存在的流程。\nAI 只是把这事变得更快、更丢人：你还按上个月的说明在下指令。\n能自己体检，比再写一版更重要。",
+      "url": "https://x.com/pandcoder/status/2121242244346720746"
+    },
+    {
+      "author_id": "1555775763936313351",
+      "created_at": "2026-11-13T13:55:54.000Z",
+      "edit_history_tweet_ids": [
+        "2121240642185752766"
+      ],
+      "id": "2121240642185752766",
+      "in_reply_to_user_id": "431617343",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 22,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121235974336520383",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@berryxia @lydiahallie 今天我就是执行这个命令后跳kyc",
+      "url": "https://x.com/lohannes15/status/2121240642185752766"
+    },
+    {
+      "author_id": "1623799167075389440",
+      "created_at": "2026-11-13T13:51:40.000Z",
+      "edit_history_tweet_ids": [
+        "2121239577893433550"
+      ],
+      "id": "2121239577893433550",
+      "in_reply_to_user_id": "431617343",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121235974336520383",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@berryxia @lydiahallie CLAUDE.md 写完就长期不改，确实很容易和新版本、新技能对不上。提示词、skills 和 agents 配置会过期，这个提醒很及时。我会把 /doctor prompt-audit 当成定期体检，尤其是加了新技能或改过工作流之后。你准备多久跑一次，是固定每周，还是只在规则明显失灵时再查？",
+      "url": "https://x.com/mclongwu/status/2121239577893433550"
+    },
+    {
+      "author_id": "51694337",
+      "created_at": "2026-11-13T13:45:33.000Z",
+      "edit_history_tweet_ids": [
+        "2121238036449243195"
+      ],
+      "id": "2121238036449243195",
+      "in_reply_to_user_id": "431617343",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 24,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121235974336520383",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@berryxia @lydiahallie 旧路径、旧命令这类可以先清；当初为了解决什么问题加的规则，最好留个原因。否则今天看着多余删掉，下次同一个坑又踩回来。",
+      "url": "https://x.com/hugo263/status/2121238036449243195"
+    },
+    {
+      "author_id": "3123084528",
+      "created_at": "2026-11-13T13:41:05.000Z",
+      "edit_history_tweet_ids": [
+        "2121236911721525442"
+      ],
+      "id": "2121236911721525442",
+      "in_reply_to_user_id": "431617343",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 36,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121235974336520383",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@berryxia @lydiahallie 一查全是给老模型打的补丁",
+      "url": "https://x.com/KalinJunYAI/status/2121236911721525442"
+    },
+    {
+      "author_id": "2111401131247349760",
+      "created_at": "2026-11-13T13:38:56.000Z",
+      "edit_history_tweet_ids": [
+        "2121236371855851915"
+      ],
+      "id": "2121236371855851915",
+      "in_reply_to_user_id": "431617343",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 41,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121235974336520383",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@berryxia @lydiahallie 三类里互相打架的最难查，全局一份、项目一份说法不一样。",
+      "url": "https://x.com/zeraygk6m/status/2121236371855851915"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "431617343",
+        "created_at": "2026-11-13T13:37:21.000Z",
+        "edit_history_tweet_ids": [
+          "2121235974336520383"
+        ],
+        "id": "2121235974336520383",
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 2606,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121011733699633613",
+            "type": "quoted"
+          }
+        ],
+        "text": "用 Claude Code 的都去跑一下 /doctor prompt-audit！\n\n这是 Claude Code 团队的 @lydiahallie 刚发的提醒，24 万多人看过了。\n\n很多人觉得 CLAUDE.md 写好一次就能一直用。其实提示词也会过期。\n\n这个命令是 Claude Code 2.1.283 加的。\n\n官方更新日志的原话是：检查你的 CLAUDE.md、skills、agents https://t.co/kieLz19ReA"
+      }
+    ],
+    "users": [
+      {
+        "id": "1694943359255957504",
+        "name": "林小狼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102291443180306433/uo_aXFaS_normal.jpg",
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 179,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 315
+        },
+        "username": "linxlbuilds",
+        "verified": false
+      },
+      {
+        "id": "431617343",
+        "name": "Berryxia.AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016043556964605952/Tqi9KA2r_normal.jpg",
+        "public_metrics": {
+          "followers_count": 53801,
+          "following_count": 779,
+          "like_count": 8181,
+          "listed_count": 732,
+          "media_count": 2231,
+          "tweet_count": 11505
+        },
+        "username": "berryxia",
+        "verified": false
+      },
+      {
+        "id": "1887786807234048000",
+        "name": "PandaCoder",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072508417701535744/eKT6YY5-_normal.jpg",
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 87,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 214
+        },
+        "username": "pandcoder",
+        "verified": false
+      },
+      {
+        "id": "1555775763936313351",
+        "name": "Lohannes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974717072124035072/YRiAbMUf_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2422,
+          "following_count": 5901,
+          "like_count": 4968,
+          "listed_count": 3,
+          "media_count": 31,
+          "tweet_count": 281
+        },
+        "username": "lohannes15",
+        "verified": false
+      },
+      {
+        "id": "1623799167075389440",
+        "name": "Mcdark",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1623799354053255168/_XnZNZgh_normal.jpg",
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 49,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 325
+        },
+        "username": "mclongwu",
+        "verified": false
+      },
+      {
+        "id": "51694337",
+        "name": "XiaoK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117641331350855681/wTI2BE4w_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1168,
+          "following_count": 1232,
+          "like_count": 183,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 703
+        },
+        "username": "hugo263",
+        "verified": false
+      },
+      {
+        "id": "3123084528",
+        "name": "Kalin | AI builds & gotchas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093660551486517248/uglSLEXN_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2434,
+          "following_count": 2113,
+          "like_count": 1803,
+          "listed_count": 1,
+          "media_count": 310,
+          "tweet_count": 4555
+        },
+        "username": "KalinJunYAI",
+        "verified": false
+      },
+      {
+        "id": "2111401131247349760",
+        "name": "Lira",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2111441113672519680/N3MFRStX_normal.jpg",
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 468,
+          "like_count": 2931,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 1274
+        },
+        "username": "zeraygk6m",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121247756966908191",
+    "next_token": "b26v89c19zqg8o3juzovr7pnzndi0tomdnjpm8klpxegt",
+    "oldest_id": "2121236371855851915",
+    "result_count": 7
+  }
+}

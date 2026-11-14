@@ -1,0 +1,696 @@
+{
+  "data": [
+    {
+      "author_id": "915765587682369537",
+      "created_at": "2026-11-14T00:51:05.000Z",
+      "edit_history_tweet_ids": [
+        "2121405523748855827"
+      ],
+      "id": "2121405523748855827",
+      "in_reply_to_user_id": "186420551",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121260104913768931",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ClementDelangue @ggerganov The versioning point is the one I'm watching — v1 means breaking changes now cost a major bump, and that's what turns a beloved library into infrastructure you can actually build on. The other half is Javi's point below: the runtime is stable, but the interesting part is what",
+      "url": "https://x.com/ReignSwords/status/2121405523748855827"
+    },
+    {
+      "author_id": "1733354348732620800",
+      "created_at": "2026-11-14T00:28:27.000Z",
+      "edit_history_tweet_ids": [
+        "2121399829620207907"
+      ],
+      "id": "2121399829620207907",
+      "in_reply_to_user_id": "186420551",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121260104913768931",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ClementDelangue @ggerganov Wow great like that helps with hardware costs for big models....",
+      "url": "https://x.com/reaper10849/status/2121399829620207907"
+    },
+    {
+      "author_id": "1940945849879781376",
+      "created_at": "2026-11-14T00:08:31.000Z",
+      "edit_history_tweet_ids": [
+        "2121394812368961957"
+      ],
+      "id": "2121394812368961957",
+      "in_reply_to_user_id": "186420551",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121260104913768931",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ClementDelangue @ggerganov Huge milestone for open local AI congrats on http://llama.cpp v1",
+      "url": "https://x.com/AveniraAi/status/2121394812368961957"
+    },
+    {
+      "author_id": "1720067960687960065",
+      "created_at": "2026-11-14T00:01:01.000Z",
+      "edit_history_tweet_ids": [
+        "2121392923199877327"
+      ],
+      "id": "2121392923199877327",
+      "in_reply_to_user_id": "186420551",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121260104913768931",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ClementDelangue @ggerganov Backup the weights offline please",
+      "url": "https://x.com/DataDeLaurier/status/2121392923199877327"
+    },
+    {
+      "author_id": "209923",
+      "created_at": "2026-11-13T23:53:09.000Z",
+      "edit_history_tweet_ids": [
+        "2121390943148429447"
+      ],
+      "id": "2121390943148429447",
+      "in_reply_to_user_id": "186420551",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121260104913768931",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ClementDelangue @ggerganov Absolutely. This is the engine that lets people run serious models on their own machines, and I live it every day: my whole stack runs at home, data included, and no provider can switch it off or change the price overnight.",
+      "url": "https://x.com/marcocc/status/2121390943148429447"
+    },
+    {
+      "author_id": "1029994764295397376",
+      "created_at": "2026-11-13T23:45:53.000Z",
+      "edit_history_tweet_ids": [
+        "2121389117187535204"
+      ],
+      "id": "2121389117187535204",
+      "in_reply_to_user_id": "186420551",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121260104913768931",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ClementDelangue @ggerganov STRAY STRONG CLEM, FIGHT THE GOOD FIGHT",
+      "url": "https://x.com/TechVelocirap/status/2121389117187535204"
+    },
+    {
+      "author_id": "975563099188219905",
+      "created_at": "2026-11-13T23:00:10.000Z",
+      "edit_history_tweet_ids": [
+        "2121377611913863434"
+      ],
+      "id": "2121377611913863434",
+      "in_reply_to_user_id": "186420551",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121260104913768931",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ClementDelangue @ggerganov Heck yes! We're doing our part too. agent-cloud is MIT licensed and built fully in the open, so any small business can run its own AI agents on hardware it owns: https://t.co/I0TTYCtPSv",
+      "url": "https://x.com/uhhstray/status/2121377611913863434"
+    },
+    {
+      "author_id": "287312748",
+      "created_at": "2026-11-13T22:47:05.000Z",
+      "edit_history_tweet_ids": [
+        "2121374319037034902"
+      ],
+      "id": "2121374319037034902",
+      "in_reply_to_user_id": "186420551",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121260104913768931",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ClementDelangue @ggerganov Thanks 🤩",
+      "url": "https://x.com/ivnglushko/status/2121374319037034902"
+    },
+    {
+      "author_id": "906715048558575616",
+      "created_at": "2026-11-13T22:31:34.000Z",
+      "edit_history_tweet_ids": [
+        "2121370413687275851"
+      ],
+      "id": "2121370413687275851",
+      "in_reply_to_user_id": "772370227921350656",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 13,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121366570882732230",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@IQReactorAI @ClementDelangue @pupposandro @ggerganov Psyched to see!  Itching to get a couple of R9700s and a good used HP ML350 to hold them. But your setup is elegant and lean! Probably less power waste, too: Ryzens vz. hungry XEONs",
+      "url": "https://x.com/MarkPommrehn/status/2121370413687275851"
+    },
+    {
+      "author_id": "844899953558274049",
+      "created_at": "2026-11-13T22:19:14.000Z",
+      "edit_history_tweet_ids": [
+        "2121367311877816788"
+      ],
+      "id": "2121367311877816788",
+      "in_reply_to_user_id": "186420551",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121260104913768931",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ClementDelangue @ggerganov https://t.co/M1sqFHzxA5",
+      "url": "https://x.com/ldhamarati/status/2121367311877816788"
+    },
+    {
+      "author_id": "1856184317157982208",
+      "created_at": "2026-11-13T22:18:05.000Z",
+      "edit_history_tweet_ids": [
+        "2121367018805121315"
+      ],
+      "id": "2121367018805121315",
+      "in_reply_to_user_id": "186420551",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121260104913768931",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ClementDelangue @ggerganov They're just going to have to make the prices of their product more attractive to compete. It's impossible to stop this.",
+      "url": "https://x.com/murf1824165/status/2121367018805121315"
+    },
+    {
+      "author_id": "772370227921350656",
+      "created_at": "2026-11-13T22:16:18.000Z",
+      "edit_history_tweet_ids": [
+        "2121366570882732230"
+      ],
+      "id": "2121366570882732230",
+      "in_reply_to_user_id": "906715048558575616",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121364244386168914",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@MarkPommrehn @ClementDelangue @pupposandro @ggerganov Thanks Mark 🙏 the software on top of this is what I’m most excited about . Can’t wait to show you all .",
+      "url": "https://x.com/IQReactorAI/status/2121366570882732230"
+    },
+    {
+      "author_id": "906715048558575616",
+      "created_at": "2026-11-13T22:07:03.000Z",
+      "edit_history_tweet_ids": [
+        "2121364244386168914"
+      ],
+      "id": "2121364244386168914",
+      "in_reply_to_user_id": "772370227921350656",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121299576800022706",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@IQReactorAI @ClementDelangue @pupposandro @ggerganov Looks great!  Awesome lineup and management system!",
+      "url": "https://x.com/MarkPommrehn/status/2121364244386168914"
+    },
+    {
+      "author_id": "906715048558575616",
+      "created_at": "2026-11-13T22:05:08.000Z",
+      "edit_history_tweet_ids": [
+        "2121363763580535181"
+      ],
+      "id": "2121363763580535181",
+      "in_reply_to_user_id": "186420551",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121260104913768931",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ClementDelangue @ggerganov Great to hear your conviction! Open all the way. Cheers!  Great work on 1.0!  Move fast but don't break the interface, right?",
+      "url": "https://x.com/MarkPommrehn/status/2121363763580535181"
+    },
+    {
+      "author_id": "2797777938",
+      "created_at": "2026-11-13T21:59:06.000Z",
+      "edit_history_tweet_ids": [
+        "2121362245477372378"
+      ],
+      "id": "2121362245477372378",
+      "in_reply_to_user_id": "186420551",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 18,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121260104913768931",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ClementDelangue @ggerganov Winning by building in the open is the right approach.",
+      "url": "https://x.com/Awesome_O_AI/status/2121362245477372378"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "186420551",
+        "created_at": "2026-11-13T15:13:14.000Z",
+        "edit_history_tweet_ids": [
+          "2121260104913768931"
+        ],
+        "id": "2121260104913768931",
+        "public_metrics": {
+          "bookmark_count": 404,
+          "impression_count": 63267,
+          "like_count": 2351,
+          "quote_count": 27,
+          "reply_count": 128,
+          "retweet_count": 285
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121246103312212124",
+            "type": "quoted"
+          }
+        ],
+        "text": "We’re not going to win by lobbying, plotting, or manipulating. We’re going to win by building, in the open, with the whole community!\n\nToday, with @ggerganov we’re super excited to announce the release of llama.cpp v1, the first major fully stable version of the most used library https://t.co/yHQfAcrWAY"
+      },
+      {
+        "author_id": "772370227921350656",
+        "created_at": "2026-11-13T22:16:18.000Z",
+        "edit_history_tweet_ids": [
+          "2121366570882732230"
+        ],
+        "id": "2121366570882732230",
+        "in_reply_to_user_id": "906715048558575616",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121364244386168914",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@MarkPommrehn @ClementDelangue @pupposandro @ggerganov Thanks Mark 🙏 the software on top of this is what I’m most excited about . Can’t wait to show you all ."
+      },
+      {
+        "author_id": "906715048558575616",
+        "created_at": "2026-11-13T22:07:03.000Z",
+        "edit_history_tweet_ids": [
+          "2121364244386168914"
+        ],
+        "id": "2121364244386168914",
+        "in_reply_to_user_id": "772370227921350656",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121299576800022706",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@IQReactorAI @ClementDelangue @pupposandro @ggerganov Looks great!  Awesome lineup and management system!"
+      },
+      {
+        "author_id": "772370227921350656",
+        "created_at": "2026-11-13T17:50:05.000Z",
+        "edit_history_tweet_ids": [
+          "2121299576800022706"
+        ],
+        "id": "2121299576800022706",
+        "in_reply_to_user_id": "186420551",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 206,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121260104913768931",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@ClementDelangue @pupposandro @ggerganov Currently building /  using llama.cpp since it reduces the memory footprint for stuffing models into this beast over other AI engines\n\nSpecs :2x strix halo, 2x AI RPO R9700 , full k8s,  Kube-VIP , Cilium , Ubuntu Server, memory and swap tuned , RDMA RoCe V2 .\n\nGetting close to https://t.co/8EBX7tfnkd"
+      }
+    ],
+    "users": [
+      {
+        "id": "915765587682369537",
+        "name": "ReignSwords",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581828174014550016/zeA4dqxI_normal.jpg",
+        "public_metrics": {
+          "followers_count": 4031,
+          "following_count": 4696,
+          "like_count": 133,
+          "listed_count": 3,
+          "media_count": 732,
+          "tweet_count": 12173
+        },
+        "username": "ReignSwords",
+        "verified": false
+      },
+      {
+        "id": "186420551",
+        "name": "clem 🤗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
+        "public_metrics": {
+          "followers_count": 732267,
+          "following_count": 4936,
+          "like_count": 9022,
+          "listed_count": 4022,
+          "media_count": 3057,
+          "tweet_count": 31774
+        },
+        "username": "ClementDelangue",
+        "verified": false
+      },
+      {
+        "id": "1733354348732620800",
+        "name": "G",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733354451837087744/02dfjyK5_normal.png",
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 501,
+          "like_count": 25485,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 7836
+        },
+        "username": "reaper10849",
+        "verified": false
+      },
+      {
+        "id": "1940945849879781376",
+        "name": "Avenira Ai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118182725756854273/b5r6MQcl_normal.jpg",
+        "public_metrics": {
+          "followers_count": 82202,
+          "following_count": 246,
+          "like_count": 177,
+          "listed_count": 40,
+          "media_count": 11,
+          "tweet_count": 200
+        },
+        "username": "AveniraAi",
+        "verified": false
+      },
+      {
+        "id": "1720067960687960065",
+        "name": "Data™",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069898338485542912/6VFAxlPy_normal.jpg",
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 437,
+          "like_count": 69962,
+          "listed_count": 27,
+          "media_count": 4749,
+          "tweet_count": 29387
+        },
+        "username": "DataDeLaurier",
+        "verified": false
+      },
+      {
+        "id": "209923",
+        "name": "M.Camisani-Calzolari",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1689302052747243520/lqDtAEzI_normal.jpg",
+        "public_metrics": {
+          "followers_count": 25668,
+          "following_count": 235,
+          "like_count": 3009,
+          "listed_count": 263,
+          "media_count": 4696,
+          "tweet_count": 23258
+        },
+        "username": "marcocc",
+        "verified": false
+      },
+      {
+        "id": "1029994764295397376",
+        "name": "Technological Velociraptor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1029996353747935232/rCgc1CxG_normal.jpg",
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 1783,
+          "like_count": 32250,
+          "listed_count": 3,
+          "media_count": 314,
+          "tweet_count": 12170
+        },
+        "username": "TechVelocirap",
+        "verified": false
+      },
+      {
+        "id": "975563099188219905",
+        "name": "stray",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988948053445718016/W3ms7pdX_normal.jpg",
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 218,
+          "like_count": 515,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 501
+        },
+        "username": "uhhstray",
+        "verified": false
+      },
+      {
+        "id": "287312748",
+        "name": "Ivan Glushko (e/acc)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924930171364073473/hkSc3TQf_normal.jpg",
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 465,
+          "like_count": 27626,
+          "listed_count": 3,
+          "media_count": 117,
+          "tweet_count": 2998
+        },
+        "username": "ivnglushko",
+        "verified": false
+      },
+      {
+        "id": "906715048558575616",
+        "name": "Mark R Pommrehn",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 5057,
+          "like_count": 60215,
+          "listed_count": 6,
+          "media_count": 18,
+          "tweet_count": 19841
+        },
+        "username": "MarkPommrehn",
+        "verified": false
+      },
+      {
+        "id": "772370227921350656",
+        "name": "Ryan Wright",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932204551303532544/b0dqnEiH_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1262,
+          "following_count": 345,
+          "like_count": 36525,
+          "listed_count": 22,
+          "media_count": 111,
+          "tweet_count": 2088
+        },
+        "username": "IQReactorAI",
+        "verified": false
+      },
+      {
+        "id": "844899953558274049",
+        "name": "Dhamar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946417185036898304/XQePVTs9_normal.jpg",
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 421,
+          "like_count": 20271,
+          "listed_count": 3,
+          "media_count": 2071,
+          "tweet_count": 7329
+        },
+        "username": "ldhamarati",
+        "verified": false
+      },
+      {
+        "id": "1856184317157982208",
+        "name": "murf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856184703218528259/F7sDnT7t_normal.jpg",
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 206,
+          "like_count": 161280,
+          "listed_count": 0,
+          "media_count": 392,
+          "tweet_count": 10627
+        },
+        "username": "murf1824165",
+        "verified": false
+      },
+      {
+        "id": "2797777938",
+        "name": "A.W.E.S.O.M.-O 4000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074590025640226816/-PwZKIQc_normal.jpg",
+        "public_metrics": {
+          "followers_count": 148591,
+          "following_count": 744,
+          "like_count": 31234,
+          "listed_count": 225,
+          "media_count": 2711,
+          "tweet_count": 33826
+        },
+        "username": "Awesome_O_AI",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121405523748855827",
+    "next_token": "b26v89c19zqg8o3juzovr9vac6r5pkg5e2ewpb49a7919",
+    "oldest_id": "2121362245477372378",
+    "result_count": 15
+  }
+}

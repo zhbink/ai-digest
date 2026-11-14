@@ -1,0 +1,537 @@
+{
+  "data": [
+    {
+      "author_id": "2116361768586874880",
+      "created_at": "2026-11-13T08:05:51.000Z",
+      "edit_history_tweet_ids": [
+        "2121152548338053189"
+      ],
+      "id": "2121152548338053189",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121105075838021696",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz An agent that can attach 20 MCP servers, call 50 tools, and run hundreds of steps is still not a production system. Accept has to freeze write permissions, an approval boundary, and a trace for each tool call. More tools are not a completed governance gate.",
+      "url": "https://x.com/Easonyichen1/status/2121152548338053189"
+    },
+    {
+      "author_id": "2119042073764454400",
+      "created_at": "2026-11-13T07:39:33.000Z",
+      "edit_history_tweet_ids": [
+        "2121145931768959038"
+      ],
+      "id": "2121145931768959038",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121105075838021696",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 放开操作权限很容易在后台把关键文件甚至依赖环境霍霍了，没做危险操作拦截前真不敢让它瞎跑。",
+      "url": "https://x.com/zhaoafd/status/2121145931768959038"
+    },
+    {
+      "author_id": "2022146499040489472",
+      "created_at": "2026-11-13T07:35:08.000Z",
+      "edit_history_tweet_ids": [
+        "2121144820408184888"
+      ],
+      "id": "2121144820408184888",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121105075838021696",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 同意，接入 20 个 MCP 只说明 Agent 能做什么，不说明它该做什么。真正的企业级门槛是最小权限、操作审计、高危动作人工确认和可回滚。我的判断：下一轮 Agent 创业的壁垒，不是更强的自主性，而是更可信的刹车。",
+      "url": "https://x.com/bobolv235824/status/2121144820408184888"
+    },
+    {
+      "author_id": "2120396137215729664",
+      "created_at": "2026-11-13T06:18:15.000Z",
+      "edit_history_tweet_ids": [
+        "2121125468820611111"
+      ],
+      "id": "2121125468820611111",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121105075838021696",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 生成草稿和正式下发必须分开。口头说「差不多就行」的单，我不会给 Agent 直接进排产的权限。",
+      "url": "https://x.com/Tonylcpq/status/2121125468820611111"
+    },
+    {
+      "author_id": "2062437407174381568",
+      "created_at": "2026-11-13T05:30:57.000Z",
+      "edit_history_tweet_ids": [
+        "2121113568758431941"
+      ],
+      "id": "2121113568758431941",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121105075838021696",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 接 20 个 MCP 不难，难的是出事之后算谁的。自主性越高，兜底的流程越得先想好，不然就是给自己埋雷。",
+      "url": "https://x.com/Daibw24/status/2121113568758431941"
+    },
+    {
+      "author_id": "318891480",
+      "created_at": "2026-11-13T05:27:36.000Z",
+      "edit_history_tweet_ids": [
+        "2121112726068220058"
+      ],
+      "id": "2121112726068220058",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 13,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121105075838021696",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 审批要绑定具体操作和参数，改了参数就重新批。",
+      "url": "https://x.com/growaiskills/status/2121112726068220058"
+    },
+    {
+      "author_id": "965707616843370497",
+      "created_at": "2026-11-13T05:27:24.000Z",
+      "edit_history_tweet_ids": [
+        "2121112672314048514"
+      ],
+      "id": "2121112672314048514",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121105075838021696",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 工具接再多，权限没管住也不敢放手跑",
+      "url": "https://x.com/yikailu/status/2121112672314048514"
+    },
+    {
+      "author_id": "1881375128166252544",
+      "created_at": "2026-11-13T05:24:26.000Z",
+      "edit_history_tweet_ids": [
+        "2121111929372766221"
+      ],
+      "id": "2121111929372766221",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 19,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121105075838021696",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 超时重跑也得防重复",
+      "url": "https://x.com/AdeAgentAI/status/2121111929372766221"
+    },
+    {
+      "author_id": "1878345967780646912",
+      "created_at": "2026-11-13T05:16:51.000Z",
+      "edit_history_tweet_ids": [
+        "2121110019836195168"
+      ],
+      "id": "2121110019836195168",
+      "in_reply_to_user_id": "1940326499825168384",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 23,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121106139450621964",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ai2face agent 下命令加 hitp",
+      "url": "https://x.com/UPing123zzz/status/2121110019836195168"
+    },
+    {
+      "author_id": "1859621233287208960",
+      "created_at": "2026-11-13T05:08:05.000Z",
+      "edit_history_tweet_ids": [
+        "2121107812331987082"
+      ],
+      "id": "2121107812331987082",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121105075838021696",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 原文把资产管理放在第一层。工具和密钥先登记，部署和审计才有依据。",
+      "url": "https://x.com/Grok9527/status/2121107812331987082"
+    },
+    {
+      "author_id": "1868674252389617664",
+      "created_at": "2026-11-13T05:05:29.000Z",
+      "edit_history_tweet_ids": [
+        "2121107158603592053"
+      ],
+      "id": "2121107158603592053",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121105075838021696",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 权限这块我也一直心里没底，给 Agent 开了邮箱权限之后就不太敢让它自己跑，最后还是每步都点确认",
+      "url": "https://x.com/DaiLin67911/status/2121107158603592053"
+    },
+    {
+      "author_id": "1940326499825168384",
+      "created_at": "2026-11-13T05:01:26.000Z",
+      "edit_history_tweet_ids": [
+        "2121106139450621964"
+      ],
+      "id": "2121106139450621964",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 24,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121105075838021696",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 提示词根本防不住越权。好奇你们对涉及付款删除的高危操作，目前是用什么机制做中断审批的？",
+      "url": "https://x.com/ai2face/status/2121106139450621964"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1878345967780646912",
+        "created_at": "2026-11-13T04:57:12.000Z",
+        "edit_history_tweet_ids": [
+          "2121105075838021696"
+        ],
+        "id": "2121105075838021696",
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 810,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "text": "一个 AI Agent 能接入 20 个 MCP、调用 50 种工具、自动执行上百个步骤，不代表它就是一个成熟的企业级 Agent。\n\n现在很多人都在疯狂研究怎么提高 Agent 的自主性，却忽略了一个极其重要的问题：当 AI 真正拥有执行权限之后，我们究竟该怎么管理它？\n\n这就涉及一个我认为所有 Agent 工程师、FDE https://t.co/p3xnB7VkY6"
+      },
+      {
+        "author_id": "1940326499825168384",
+        "created_at": "2026-11-13T05:01:26.000Z",
+        "edit_history_tweet_ids": [
+          "2121106139450621964"
+        ],
+        "id": "2121106139450621964",
+        "in_reply_to_user_id": "1878345967780646912",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121105075838021696",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@UPing123zzz 提示词根本防不住越权。好奇你们对涉及付款删除的高危操作，目前是用什么机制做中断审批的？"
+      }
+    ],
+    "users": [
+      {
+        "id": "2116361768586874880",
+        "name": "格致知微 EASON",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116396304343732224/8lqDuDBy_normal.jpg",
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 267,
+          "like_count": 684,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 633
+        },
+        "username": "Easonyichen1",
+        "verified": false
+      },
+      {
+        "id": "1878345967780646912",
+        "name": "Ethan 恩宇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106574155038724096/-FeenOii_normal.jpg",
+        "public_metrics": {
+          "followers_count": 7017,
+          "following_count": 707,
+          "like_count": 6203,
+          "listed_count": 35,
+          "media_count": 132,
+          "tweet_count": 3664
+        },
+        "username": "UPing123zzz",
+        "verified": false
+      },
+      {
+        "id": "2119042073764454400",
+        "name": "赵志伟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119042683138088960/1CIk7WyY_normal.jpg",
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 1164,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 538
+        },
+        "username": "zhaoafd",
+        "verified": false
+      },
+      {
+        "id": "2022146499040489472",
+        "name": "bobolv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108498077644734464/Nwj0wQu8_normal.jpg",
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 220,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 1045
+        },
+        "username": "bobolv235824",
+        "verified": false
+      },
+      {
+        "id": "2120396137215729664",
+        "name": "Tony",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120398366245097472/lojWuasl_normal.jpg",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 9,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "Tonylcpq",
+        "verified": false
+      },
+      {
+        "id": "2062437407174381568",
+        "name": "daibowen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063657506715602944/_JL-7jGy_normal.jpg",
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 816,
+          "like_count": 371,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 584
+        },
+        "username": "Daibw24",
+        "verified": false
+      },
+      {
+        "id": "318891480",
+        "name": "Marvin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2113976944232415232/VQVHzwIs_normal.jpg",
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 945,
+          "like_count": 2265,
+          "listed_count": 5,
+          "media_count": 28,
+          "tweet_count": 6976
+        },
+        "username": "growaiskills",
+        "verified": false
+      },
+      {
+        "id": "965707616843370497",
+        "name": "yikailu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2113681630388998144/gSrbi_A8_normal.jpg",
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 1004,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1468
+        },
+        "username": "yikailu",
+        "verified": false
+      },
+      {
+        "id": "1881375128166252544",
+        "name": "Aiden",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110606025216929792/lwJK90kp_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3395,
+          "following_count": 3064,
+          "like_count": 863,
+          "listed_count": 6,
+          "media_count": 97,
+          "tweet_count": 8065
+        },
+        "username": "AdeAgentAI",
+        "verified": false
+      },
+      {
+        "id": "1940326499825168384",
+        "name": "ai2face",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100568986266263552/3PbAfd_z_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2230,
+          "following_count": 1828,
+          "like_count": 5971,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 3005
+        },
+        "username": "ai2face",
+        "verified": false
+      },
+      {
+        "id": "1859621233287208960",
+        "name": "NextSignal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066022830689628160/7k50yp0p_normal.jpg",
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 466,
+          "like_count": 5421,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 4503
+        },
+        "username": "Grok9527",
+        "verified": false
+      },
+      {
+        "id": "1868674252389617664",
+        "name": "旅人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048101661613477888/ZQ_Hkl6t_normal.jpg",
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 758,
+          "like_count": 1080,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1266
+        },
+        "username": "DaiLin67911",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121152548338053189",
+    "next_token": "b26v89c19zqg8o3juzovr5k1h0uxwjnexea1368c7jtkt",
+    "oldest_id": "2121106139450621964",
+    "result_count": 12
+  }
+}

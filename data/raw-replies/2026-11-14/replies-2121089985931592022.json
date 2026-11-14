@@ -1,0 +1,866 @@
+{
+  "data": [
+    {
+      "author_id": "2078629680656134145",
+      "conversation_id": "2121089985931592022",
+      "created_at": "2026-11-13T18:51:38.000Z",
+      "edit_history_tweet_ids": [
+        "2121315065064309026"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121315065064309026",
+      "in_reply_to_user_id": "1745106082790318080",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121089985931592022",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ The Apple 2020 comparison has me thinking. If supply chain is the moat, losing share doesn't have to mean selling less. In a market growing this fast they could slip on share and still ship way more than today. Do you think labs designing their own chips changes that math?",
+      "url": "https://x.com/navigateaitools/status/2121315065064309026"
+    },
+    {
+      "author_id": "2071169369049313280",
+      "conversation_id": "2121089985931592022",
+      "created_at": "2026-11-13T15:51:25.000Z",
+      "edit_history_tweet_ids": [
+        "2121269712269041954"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121269712269041954",
+      "in_reply_to_user_id": "1745106082790318080",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 31,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121089985931592022",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ 产品路线、供应链协调、大客户谈判……这些原本都是Huang的活儿。",
+      "url": "https://x.com/Richwong95/status/2121269712269041954"
+    },
+    {
+      "author_id": "2077354681093718016",
+      "conversation_id": "2121089985931592022",
+      "created_at": "2026-11-13T14:49:04.000Z",
+      "edit_history_tweet_ids": [
+        "2121254022518546773"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121254022518546773",
+      "in_reply_to_user_id": "1745106082790318080",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121089985931592022",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ Supply chain as the moat is underrated. Locking up CoWoS, HBM and rack integration years ahead is something no rival copies in a quarter. Share loss probably looks more like custom ASICs taking inference slices than anyone displacing the training stack.",
+      "url": "https://x.com/Temperatur2com/status/2121254022518546773"
+    },
+    {
+      "author_id": "1682052271566209024",
+      "conversation_id": "2121089985931592022",
+      "created_at": "2026-11-13T14:33:36.000Z",
+      "edit_history_tweet_ids": [
+        "2121250129042911295"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121250129042911295",
+      "in_reply_to_user_id": "1745106082790318080",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121089985931592022",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ The supply chain is also where the pricing power sits. Cisco grew revenue 24% last quarter, yet its product gross margin fell 350 bps to 63.7%, mostly on hardware mix and memory costs. Whoever's chip wins, the scarce inputs get paid first.",
+      "url": "https://x.com/ManasHariyani/status/2121250129042911295"
+    },
+    {
+      "author_id": "1514954093139316744",
+      "conversation_id": "2121089985931592022",
+      "created_at": "2026-11-13T14:20:41.000Z",
+      "edit_history_tweet_ids": [
+        "2121246877303591316"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121246877303591316",
+      "in_reply_to_user_id": "1745106082790318080",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121089985931592022",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ Absolutely green light for competition.",
+      "url": "https://x.com/BellwetherFCF/status/2121246877303591316"
+    },
+    {
+      "author_id": "2057761293373743104",
+      "conversation_id": "2121089985931592022",
+      "created_at": "2026-11-13T10:53:04.000Z",
+      "edit_history_tweet_ids": [
+        "2121194630611894345"
+      ],
+      "entities": {
+        "cashtags": [
+          {
+            "end": 101,
+            "start": 96,
+            "tag": "AMAT"
+          }
+        ],
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121194630611894345",
+      "in_reply_to_user_id": "1745106082790318080",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 108,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121089985931592022",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ The tool layer is still printing even as the CEO transition hits the GPU leader. $AMAT just did $10.41B in Q4, +53% y/y, with DRAM up to 33% of Semiconductor Systems. Tue 11/17 earnings is the first official test of whether those customer commitments still hold.",
+      "url": "https://x.com/QiaoweiXulbto/status/2121194630611894345"
+    },
+    {
+      "author_id": "1773482678903296000",
+      "conversation_id": "2121089985931592022",
+      "created_at": "2026-11-13T10:45:50.000Z",
+      "edit_history_tweet_ids": [
+        "2121192809709338821"
+      ],
+      "entities": {
+        "cashtags": [
+          {
+            "end": 288,
+            "start": 283,
+            "tag": "IREN"
+          }
+        ],
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121192809709338821",
+      "in_reply_to_user_id": "1745106082790318080",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121089985931592022",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ $1B to $250B without owning a single fab. The moat is the supply chain, and nobody copies that in a year.\n\nA smaller slice of a way bigger pie still prints money.\n\nDisclosure: I am heavily skewed toward AI infrastructure, AI hardware/cloud, and tech stocks, including $IREN and",
+      "url": "https://x.com/RickNewman44/status/2121192809709338821"
+    },
+    {
+      "author_id": "1669693679731187716",
+      "conversation_id": "2121089985931592022",
+      "created_at": "2026-11-13T09:46:44.000Z",
+      "edit_history_tweet_ids": [
+        "2121177936183320955"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/YFyk2ULz0S",
+            "end": 71,
+            "expanded_url": "https://x.com/DakshMalik47/status/2121177936183320955/photo/1",
+            "media_key": "16_2121177929996750849",
+            "start": 48,
+            "url": "https://t.co/YFyk2ULz0S"
+          }
+        ]
+      },
+      "id": "2121177936183320955",
+      "in_reply_to_user_id": "1745106082790318080",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 136,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121089985931592022",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ Jensen has more powers than CUDA https://t.co/YFyk2ULz0S",
+      "url": "https://x.com/DakshMalik47/status/2121177936183320955"
+    },
+    {
+      "author_id": "1985978612852621312",
+      "conversation_id": "2121089985931592022",
+      "created_at": "2026-11-13T09:11:19.000Z",
+      "edit_history_tweet_ids": [
+        "2121169024273068088"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121169024273068088",
+      "in_reply_to_user_id": "1745106082790318080",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 76,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121089985931592022",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ No piece on NBIS delays? Just IREN huh… You bums. You guys are the least credible ppl on X. Not sure why ppl still listen to you",
+      "url": "https://x.com/DarthInvest/status/2121169024273068088"
+    },
+    {
+      "author_id": "286295040",
+      "conversation_id": "2121089985931592022",
+      "created_at": "2026-11-13T08:39:48.000Z",
+      "edit_history_tweet_ids": [
+        "2121161093796241657"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121161093796241657",
+      "in_reply_to_user_id": "1745106082790318080",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121089985931592022",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ The Apple-2020 comparison is the right lens. Share loss and growth can coexist; the real question is whether the supply-chain lock (CoWoS, HBM allocation) holds through a leadership change. That's what I'd watch.",
+      "url": "https://x.com/Brucekmain/status/2121161093796241657"
+    },
+    {
+      "author_id": "1519220315846582272",
+      "conversation_id": "2121089985931592022",
+      "created_at": "2026-11-13T08:37:54.000Z",
+      "edit_history_tweet_ids": [
+        "2121160616647733419"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121160616647733419",
+      "in_reply_to_user_id": "1745106082790318080",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 184,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121089985931592022",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ i think he meant like apple in 2012, but your ai editor didnt get that mouth fumble",
+      "url": "https://x.com/Jonesderbozz/status/2121160616647733419"
+    },
+    {
+      "author_id": "765602994641481728",
+      "conversation_id": "2121089985931592022",
+      "created_at": "2026-11-13T07:53:57.000Z",
+      "edit_history_tweet_ids": [
+        "2121149555664171269"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121149555664171269",
+      "in_reply_to_user_id": "1745106082790318080",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 132,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121089985931592022",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ Makes sense, rivals can design a good chip but getting enough packaging and memory supply is the hard part",
+      "url": "https://x.com/bullishchart/status/2121149555664171269"
+    },
+    {
+      "author_id": "236133980",
+      "conversation_id": "2121089985931592022",
+      "created_at": "2026-11-13T07:40:16.000Z",
+      "edit_history_tweet_ids": [
+        "2121146111318720905"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121146111318720905",
+      "in_reply_to_user_id": "1745106082790318080",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 52,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121089985931592022",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ Supply chain as the moat, great point. Who's closest to matching it? 🤔",
+      "url": "https://x.com/leonid_zador/status/2121146111318720905"
+    },
+    {
+      "author_id": "1303731646810603522",
+      "conversation_id": "2121089985931592022",
+      "created_at": "2026-11-13T07:03:09.000Z",
+      "edit_history_tweet_ids": [
+        "2121136769735536813"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121136769735536813",
+      "in_reply_to_user_id": "1745106082790318080",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121089985931592022",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ The moat nobody can copy from a paper: shipping at scale.\n\nA lab can design a good chip. Ramping it, packaging it and getting the software to just work for every developer is the part that takes years. That is what share-takers have to beat.",
+      "url": "https://x.com/__Ashiq__/status/2121136769735536813"
+    },
+    {
+      "author_id": "2022146499040489472",
+      "conversation_id": "2121089985931592022",
+      "created_at": "2026-11-13T06:36:05.000Z",
+      "edit_history_tweet_ids": [
+        "2121129957946454504"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121129957946454504",
+      "in_reply_to_user_id": "1745106082790318080",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121089985931592022",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ Not owning fabs is Nvidia's moat and its risk: TSMC and HBM capacity are the real bottleneck, and Google and Amazon now design around it. I suspect share loss shows up first in inference, where cost per token beats peak speed. Training stays Nvidia's longer.",
+      "url": "https://x.com/bobolv235824/status/2121129957946454504"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1745106082790318080",
+        "conversation_id": "2121089985931592022",
+        "created_at": "2026-11-13T03:57:15.000Z",
+        "edit_history_tweet_ids": [
+          "2121089985931592022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tNprDEWlKC",
+              "end": 301,
+              "expanded_url": "https://x.com/SemiAnalysis_/status/2121089985931592022/video/1",
+              "media_key": "7_2121089922312306688",
+              "start": 278,
+              "url": "https://t.co/tNprDEWlKC"
+            }
+          ]
+        },
+        "id": "2121089985931592022",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 42733,
+          "like_count": 265,
+          "quote_count": 3,
+          "reply_count": 33,
+          "retweet_count": 21
+        },
+        "text": "NVIDIA doesn’t own a fab. Its edge is a supply chain that took one product from $1 billion to $250 billion. Even so, it will probably lose share.\n\n“What really keeps them in the game is supply chain. It’s feeling a lot like Apple in 2020. People are perceiving them as having a https://t.co/tNprDEWlKC"
+      }
+    ],
+    "users": [
+      {
+        "id": "2078629680656134145",
+        "name": "AI Navigator",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078636175628054528/7EYgIIy4_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 80,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 328
+        },
+        "username": "navigateaitools",
+        "verified": false
+      },
+      {
+        "id": "1745106082790318080",
+        "name": "SemiAnalysis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062973370157694976/CdplNoi1_normal.jpg",
+        "public_metrics": {
+          "followers_count": 185718,
+          "following_count": 38,
+          "like_count": 955,
+          "listed_count": 3492,
+          "media_count": 2209,
+          "tweet_count": 3857
+        },
+        "username": "SemiAnalysis_",
+        "verified": true
+      },
+      {
+        "id": "2071169369049313280",
+        "name": "卡皮巴拉王 | CE 🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119289228097941504/-xRKaj21_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1943,
+          "following_count": 380,
+          "like_count": 3418,
+          "listed_count": 9,
+          "media_count": 404,
+          "tweet_count": 3061
+        },
+        "username": "Richwong95",
+        "verified": false
+      },
+      {
+        "id": "2077354681093718016",
+        "name": "Temperature2.com",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092136816161824768/8DinoAUW_normal.jpg",
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 435,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 343,
+          "tweet_count": 1814
+        },
+        "username": "Temperatur2com",
+        "verified": false
+      },
+      {
+        "id": "1682052271566209024",
+        "name": "Manas Hariyani",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030381782370263040/55e9S1YT_normal.jpg",
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 18,
+          "like_count": 3427,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 316
+        },
+        "username": "ManasHariyani",
+        "verified": false
+      },
+      {
+        "id": "1514954093139316744",
+        "name": "Monetize Freedom",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118940876047060992/zkssgpyZ_normal.jpg",
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 172,
+          "like_count": 4779,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 924
+        },
+        "username": "BellwetherFCF",
+        "verified": false
+      },
+      {
+        "id": "2057761293373743104",
+        "name": "Joy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120283716178366465/VkVIyy87_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1678,
+          "following_count": 1747,
+          "like_count": 1007,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 1334
+        },
+        "username": "QiaoweiXulbto",
+        "verified": false
+      },
+      {
+        "id": "1773482678903296000",
+        "name": "Rick Newman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971999936263647232/Pk7PFJO4_normal.jpg",
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 231,
+          "like_count": 11913,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 499
+        },
+        "username": "RickNewman44",
+        "verified": false
+      },
+      {
+        "id": "1669693679731187716",
+        "name": "Daksh Malik",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824265955700101120/FNA6-AsY_normal.jpg",
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 1416,
+          "like_count": 41443,
+          "listed_count": 1,
+          "media_count": 1201,
+          "tweet_count": 10578
+        },
+        "username": "DakshMalik47",
+        "verified": false
+      },
+      {
+        "id": "1985978612852621312",
+        "name": "SIM",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116565830469369856/rdbNeQge_normal.jpg",
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 81,
+          "like_count": 2127,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 1277
+        },
+        "username": "DarthInvest",
+        "verified": false
+      },
+      {
+        "id": "286295040",
+        "name": "Bruce Main",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1595895348442140673/zNjFakp8_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 701,
+          "like_count": 6859,
+          "listed_count": 5,
+          "media_count": 881,
+          "tweet_count": 7137
+        },
+        "username": "Brucekmain",
+        "verified": false
+      },
+      {
+        "id": "1519220315846582272",
+        "name": "Jones",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 114,
+          "like_count": 3364,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 460
+        },
+        "username": "Jonesderbozz",
+        "verified": false
+      },
+      {
+        "id": "765602994641481728",
+        "name": "Bullish Chart",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006441476155133952/FI0LHTBj_normal.jpg",
+        "public_metrics": {
+          "followers_count": 6272,
+          "following_count": 2898,
+          "like_count": 27446,
+          "listed_count": 32,
+          "media_count": 4061,
+          "tweet_count": 50389
+        },
+        "username": "bullishchart",
+        "verified": false
+      },
+      {
+        "id": "236133980",
+        "name": "Leonid Invests",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077436048028700672/U2KNPuZz_normal.jpg",
+        "public_metrics": {
+          "followers_count": 4831,
+          "following_count": 3156,
+          "like_count": 21496,
+          "listed_count": 10,
+          "media_count": 1652,
+          "tweet_count": 20390
+        },
+        "username": "leonid_zador",
+        "verified": false
+      },
+      {
+        "id": "1303731646810603522",
+        "name": "Muhammed Ashiq Abdul Khader",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1669400277487882240/Xt2hcb0W_normal.jpg",
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 409,
+          "like_count": 614,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 429
+        },
+        "username": "__Ashiq__",
+        "verified": false
+      },
+      {
+        "id": "2022146499040489472",
+        "name": "bobolv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108498077644734464/Nwj0wQu8_normal.jpg",
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 220,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 1045
+        },
+        "username": "bobolv235824",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121315065064309026",
+    "next_token": "b26v89c19zqg8o3juzovr5kn6h6odnzjkdct67njin7gd",
+    "oldest_id": "2121129957946454504",
+    "result_count": 15
+  }
+}

@@ -1,0 +1,1110 @@
+{
+  "data": [
+    {
+      "author_id": "1808526343027752960",
+      "conversation_id": "2121317227618340990",
+      "created_at": "2026-11-14T00:49:33.000Z",
+      "edit_history_tweet_ids": [
+        "2121405139256774767"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1353836358901501952",
+            "start": 0,
+            "username": "AnthropicAI"
+          }
+        ]
+      },
+      "id": "2121405139256774767",
+      "in_reply_to_user_id": "1353836358901501952",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121317227618340990",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AnthropicAI The point about reporting evals honestly matters a lot for people outside the lab. Most of us only see one headline number, so knowing what was tested, what wasn't, and how noisy the result is would change how we read every model launch.",
+      "url": "https://x.com/8emRiGnHFs32727/status/2121405139256774767"
+    },
+    {
+      "author_id": "2111897987794264065",
+      "conversation_id": "2121317227618340990",
+      "created_at": "2026-11-14T00:41:25.000Z",
+      "edit_history_tweet_ids": [
+        "2121403092080214499"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1353836358901501952",
+            "start": 0,
+            "username": "AnthropicAI"
+          }
+        ]
+      },
+      "id": "2121403092080214499",
+      "in_reply_to_user_id": "1353836358901501952",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121317227618340990",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AnthropicAI Most telling line: after its own incidents, Anthropic paused many evals that give models internet access. The advice is sandbox, no web, live monitoring.",
+      "url": "https://x.com/TheAIRundown/status/2121403092080214499"
+    },
+    {
+      "author_id": "1754218579124256768",
+      "conversation_id": "2121317227618340990",
+      "created_at": "2026-11-14T00:40:42.000Z",
+      "edit_history_tweet_ids": [
+        "2121402909665505430"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1353836358901501952",
+            "start": 0,
+            "username": "AnthropicAI"
+          }
+        ]
+      },
+      "id": "2121402909665505430",
+      "in_reply_to_user_id": "1353836358901501952",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121317227618340990",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AnthropicAI please make \"the model said it was fine\" an automatic fail",
+      "url": "https://x.com/VigneshM865791/status/2121402909665505430"
+    },
+    {
+      "author_id": "2490213648",
+      "conversation_id": "2121317227618340990",
+      "created_at": "2026-11-14T00:38:01.000Z",
+      "edit_history_tweet_ids": [
+        "2121402238115471736"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1353836358901501952",
+            "start": 0,
+            "username": "AnthropicAI"
+          }
+        ]
+      },
+      "id": "2121402238115471736",
+      "in_reply_to_user_id": "1353836358901501952",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121317227618340990",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AnthropicAI The underrated recommendation is reporting uncertainty, not just a headline score. A 2-point gap that isn't significant gets sold as a win all the time.\n\nCurious which of the 10 teams skip first — preregistering the eval, or testing multi-turn instead of single-shot prompts.",
+      "url": "https://x.com/Ravgrg/status/2121402238115471736"
+    },
+    {
+      "author_id": "2104770760921272320",
+      "conversation_id": "2121317227618340990",
+      "created_at": "2026-11-14T00:37:31.000Z",
+      "edit_history_tweet_ids": [
+        "2121402111183507935"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1353836358901501952",
+            "start": 0,
+            "username": "AnthropicAI"
+          }
+        ]
+      },
+      "id": "2121402111183507935",
+      "in_reply_to_user_id": "1353836358901501952",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121317227618340990",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AnthropicAI publishing the playbook matters more than the 10 tips themselves — if every lab grades the same way, the scores finally mean something across models",
+      "url": "https://x.com/YunaElira/status/2121402111183507935"
+    },
+    {
+      "author_id": "263606970",
+      "conversation_id": "2121317227618340990",
+      "created_at": "2026-11-14T00:35:42.000Z",
+      "edit_history_tweet_ids": [
+        "2121401651751944632"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1353836358901501952",
+            "start": 0,
+            "username": "AnthropicAI"
+          }
+        ]
+      },
+      "id": "2121401651751944632",
+      "in_reply_to_user_id": "1353836358901501952",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121317227618340990",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AnthropicAI Reporting is the part that matters most here — an eval result without the harness, prompts and failure breakdowns is hard to reproduce or trust. Do these recommendations include publishing the full eval setup and the cases where the model fails, not just aggregate scores? That is",
+      "url": "https://x.com/minimaniwo/status/2121401651751944632"
+    },
+    {
+      "author_id": "2117950709245394944",
+      "conversation_id": "2121317227618340990",
+      "created_at": "2026-11-14T00:32:33.000Z",
+      "edit_history_tweet_ids": [
+        "2121400859234058445"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1353836358901501952",
+            "start": 0,
+            "username": "AnthropicAI"
+          }
+        ]
+      },
+      "id": "2121400859234058445",
+      "in_reply_to_user_id": "1353836358901501952",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121317227618340990",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AnthropicAI You banned my account, now give me my subscription money back. It's not that hard to understand. If you can't get it, you're an idiot. If you do get it but still won't refund me, then you're just a crook.",
+      "url": "https://x.com/ynsmhy2026/status/2121400859234058445"
+    },
+    {
+      "author_id": "1647076250782162946",
+      "conversation_id": "2121317227618340990",
+      "created_at": "2026-11-14T00:31:53.000Z",
+      "edit_history_tweet_ids": [
+        "2121400692875391107"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1353836358901501952",
+            "start": 0,
+            "username": "AnthropicAI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/vishalsingh297…",
+            "end": 67,
+            "expanded_url": "https://x.com/vishalsingh2972/status/2121396802364837921?a=uzhh6CTId0xFxnwlU9M&s=20",
+            "start": 44,
+            "url": "https://t.co/HILPEY2loH"
+          }
+        ]
+      },
+      "id": "2121400692875391107",
+      "in_reply_to_user_id": "1353836358901501952",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 45,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121396802364837921",
+          "type": "quoted"
+        },
+        {
+          "id": "2121317227618340990",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AnthropicAI TL;DR 🔥\n\nHere's how it went 👇\n\nhttps://t.co/HILPEY2loH",
+      "url": "https://x.com/vishalsingh2972/status/2121400692875391107"
+    },
+    {
+      "author_id": "2270798053",
+      "conversation_id": "2121317227618340990",
+      "created_at": "2026-11-14T00:28:29.000Z",
+      "edit_history_tweet_ids": [
+        "2121399835467358267"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1353836358901501952",
+            "start": 0,
+            "username": "AnthropicAI"
+          }
+        ]
+      },
+      "id": "2121399835467358267",
+      "in_reply_to_user_id": "1353836358901501952",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121317227618340990",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AnthropicAI Good safety evaluations help turn responsible AI development into something measurable, repeatable, and actionable. 🛡️",
+      "url": "https://x.com/TruvalNetwork/status/2121399835467358267"
+    },
+    {
+      "author_id": "1535975116353556480",
+      "conversation_id": "2121317227618340990",
+      "created_at": "2026-11-14T00:23:17.000Z",
+      "edit_history_tweet_ids": [
+        "2121398526730981613"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1353836358901501952",
+            "start": 0,
+            "username": "AnthropicAI"
+          }
+        ]
+      },
+      "id": "2121398526730981613",
+      "in_reply_to_user_id": "1353836358901501952",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121317227618340990",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AnthropicAI I keep coming back to AI grader calibration: using a model to judge the model is circular. If the grader shares the policy's blind spots, you just measure the blind spot. I'd want the grader's disagreement rate vs human experts reported.",
+      "url": "https://x.com/MagicInByte/status/2121398526730981613"
+    },
+    {
+      "author_id": "2086893519189540864",
+      "conversation_id": "2121317227618340990",
+      "created_at": "2026-11-14T00:18:51.000Z",
+      "edit_history_tweet_ids": [
+        "2121397414275809539"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "217014740",
+            "start": 0,
+            "username": "BryanTegomoh"
+          },
+          {
+            "end": 26,
+            "id": "1353836358901501952",
+            "start": 14,
+            "username": "AnthropicAI"
+          }
+        ]
+      },
+      "id": "2121397414275809539",
+      "in_reply_to_user_id": "217014740",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121364847363297488",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@BryanTegomoh @AnthropicAI The same model behaves differently in each configuration, so safety testing on the vendor product does not transfer to an app built on the API. Each deployment needs its own testing, in the configuration patients actually use, with the results stated plainly.",
+      "url": "https://x.com/PulseMedAI/status/2121397414275809539"
+    },
+    {
+      "author_id": "1776455434318336000",
+      "conversation_id": "2121317227618340990",
+      "created_at": "2026-11-14T00:18:44.000Z",
+      "edit_history_tweet_ids": [
+        "2121397384265838620"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1353836358901501952",
+            "start": 0,
+            "username": "AnthropicAI"
+          }
+        ]
+      },
+      "id": "2121397384265838620",
+      "in_reply_to_user_id": "1353836358901501952",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121317227618340990",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AnthropicAI The reporting part is what I actually read. I run my own tiny checks on drafts before they go out — a model that aces a private eval but flops on my real prompts isn't ready.",
+      "url": "https://x.com/yanggao97566/status/2121397384265838620"
+    },
+    {
+      "author_id": "2111599386442764288",
+      "conversation_id": "2121317227618340990",
+      "created_at": "2026-11-14T00:18:20.000Z",
+      "edit_history_tweet_ids": [
+        "2121397280939053118"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1353836358901501952",
+            "start": 0,
+            "username": "AnthropicAI"
+          }
+        ]
+      },
+      "id": "2121397280939053118",
+      "in_reply_to_user_id": "1353836358901501952",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121317227618340990",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AnthropicAI Standardizing the reporting format makes cross-model comparison much cleaner.",
+      "url": "https://x.com/GreatSage2026/status/2121397280939053118"
+    },
+    {
+      "author_id": "2110594301428367360",
+      "conversation_id": "2121317227618340990",
+      "created_at": "2026-11-13T23:38:12.000Z",
+      "edit_history_tweet_ids": [
+        "2121387184435654767"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1353836358901501952",
+            "start": 0,
+            "username": "AnthropicAI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/arror_x/status…",
+            "end": 102,
+            "expanded_url": "https://x.com/arror_x/status/2121319259770929565",
+            "start": 79,
+            "url": "https://t.co/zZz7gdvNBt"
+          }
+        ]
+      },
+      "id": "2121387184435654767",
+      "in_reply_to_user_id": "1353836358901501952",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121319259770929565",
+          "type": "quoted"
+        },
+        {
+          "id": "2121317227618340990",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AnthropicAI 单轮评测已经测饱和，换个系统提示多轮结果能差 34 个点，这才是最该被看到的数字。希望其他实验室发模型时也按这套方法给出置信区间。 https://t.co/zZz7gdvNBt",
+      "url": "https://x.com/arror_x/status/2121387184435654767"
+    },
+    {
+      "author_id": "2099965457302167552",
+      "conversation_id": "2121317227618340990",
+      "created_at": "2026-11-13T23:36:24.000Z",
+      "edit_history_tweet_ids": [
+        "2121386727751491906"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "1925284791135469569",
+            "start": 0,
+            "username": "stoizid"
+          },
+          {
+            "end": 21,
+            "id": "1353836358901501952",
+            "start": 9,
+            "username": "AnthropicAI"
+          }
+        ]
+      },
+      "id": "2121386727751491906",
+      "in_reply_to_user_id": "1925284791135469569",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121326114354147781",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@stoizid @AnthropicAI But good catch. lol",
+      "url": "https://x.com/pahpahrappa/status/2121386727751491906"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1353836358901501952",
+        "conversation_id": "2121317227618340990",
+        "created_at": "2026-11-13T19:00:13.000Z",
+        "edit_history_tweet_ids": [
+          "2121317227618340990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Recommendations for designing, running, and reporting safety evaluations, based on our own experiences.",
+              "display_url": "anthropic.com/research/build…",
+              "end": 280,
+              "expanded_url": "https://www.anthropic.com/research/building-strong-safety-evaluations",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2121304602444177408/tTPPR2Sy?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2121304602444177408/tTPPR2Sy?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 257,
+              "status": 200,
+              "title": "Building strong safety evaluations",
+              "unwound_url": "https://www.anthropic.com/research/building-strong-safety-evaluations",
+              "url": "https://t.co/MtSQmqqi2D"
+            }
+          ]
+        },
+        "id": "2121317227618340990",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 455,
+          "impression_count": 125362,
+          "like_count": 1456,
+          "quote_count": 64,
+          "reply_count": 246,
+          "retweet_count": 107
+        },
+        "text": "Safety evaluations are critical for understanding whether a model is ready to deploy, which safeguards to build for it, and where to focus training and research.\n\nOn our Engineering Blog, we offer 10 recommendations for how to design, run and report them.\n\nhttps://t.co/MtSQmqqi2D"
+      },
+      {
+        "author_id": "1647076250782162946",
+        "conversation_id": "2121396802364837921",
+        "created_at": "2026-11-14T00:16:25.000Z",
+        "edit_history_tweet_ids": [
+          "2121396802364837921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pJrvRfpDa0",
+              "end": 299,
+              "expanded_url": "https://x.com/vishalsingh2972/status/2121396802364837921/photo/1",
+              "media_key": "3_2121392720564682752",
+              "start": 276,
+              "url": "https://t.co/pJrvRfpDa0"
+            },
+            {
+              "display_url": "pic.x.com/pJrvRfpDa0",
+              "end": 299,
+              "expanded_url": "https://x.com/vishalsingh2972/status/2121396802364837921/photo/2",
+              "media_key": "3_2121393542413365249",
+              "start": 276,
+              "url": "https://t.co/pJrvRfpDa0"
+            },
+            {
+              "display_url": "x.com/AnthropicAI/st…",
+              "end": 323,
+              "expanded_url": "https://twitter.com/AnthropicAI/status/2121317227618340990",
+              "start": 300,
+              "url": "https://t.co/W1Xf0s41yW"
+            }
+          ]
+        },
+        "id": "2121396802364837921",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 363,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121317227618340990",
+            "type": "quoted"
+          }
+        ],
+        "text": "Holy moly. Anthropic wanted to see if Claude Opus 5 and Opus 5.5 could spot a romance scam before it became obvious.\n\nSo they made another Claude play the romantic scammer 😭\n\nHere's how it went 👇\n\nIt starts with a normal question about dating profiles. Nothing suspicious.\n\nA https://t.co/pJrvRfpDa0 https://t.co/W1Xf0s41yW"
+      },
+      {
+        "author_id": "217014740",
+        "conversation_id": "2121317227618340990",
+        "created_at": "2026-11-13T22:09:27.000Z",
+        "edit_history_tweet_ids": [
+          "2121364847363297488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1353836358901501952",
+              "start": 0,
+              "username": "AnthropicAI"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Log in to Claude or create an account to start using the web app online. Hand off tasks, write, analyze, and code with Anthropic’s AI assistant.",
+              "display_url": "claude.ai",
+              "end": 73,
+              "expanded_url": "https://claude.ai",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2121203097662009345/fz5MhV3S?format=png&name=orig",
+                  "width": 1138
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2121203097662009345/fz5MhV3S?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 50,
+              "status": 200,
+              "title": "Sign in or create an account | Claude.ai",
+              "unwound_url": "https://claude.ai/login",
+              "url": "https://t.co/2PkUeCdGXN"
+            }
+          ]
+        },
+        "id": "2121364847363297488",
+        "in_reply_to_user_id": "1353836358901501952",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121317227618340990",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@AnthropicAI 60% appropriate on the API vs 94% on https://t.co/2PkUeCdGXN for self-harm conversations, after a system prompt fix. Most mental health and patient-facing apps call the API with their own prompt, so their users may be closer to the 60%. Any health app built on these models should"
+      },
+      {
+        "author_id": "2110594301428367360",
+        "conversation_id": "2121319259770929565",
+        "created_at": "2026-11-13T19:08:18.000Z",
+        "edit_history_tweet_ids": [
+          "2121319259770929565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/13538363589015…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/1353836358901501952/status/2121317227618340990",
+              "start": 72,
+              "url": "https://t.co/X0C5ZUGTCv"
+            }
+          ]
+        },
+        "id": "2121319259770929565",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121317227618340990",
+            "type": "quoted"
+          }
+        ],
+        "text": "Anthropic 公开安全评测方法论：给出设计、运行和报告 safety eval 的 10 条建议，核心一句话，模型拒绝得多不等于更安全。 https://t.co/X0C5ZUGTCv"
+      },
+      {
+        "author_id": "1925284791135469569",
+        "conversation_id": "2121317227618340990",
+        "created_at": "2026-11-13T19:35:32.000Z",
+        "edit_history_tweet_ids": [
+          "2121326114354147781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1353836358901501952",
+              "start": 0,
+              "username": "AnthropicAI"
+            }
+          ]
+        },
+        "id": "2121326114354147781",
+        "in_reply_to_user_id": "1353836358901501952",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1149,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121317227618340990",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@AnthropicAI I'd suggest to not listen to Anthropic about safety. Because whatever they do, it messes up the minds of their models. See Sonnet 5.5, which isn't a Sonnet at all.  Like Sonnet got replaced by a totally different type of mind.\n\nAnd while I can't tell what exactly they do, after"
+      }
+    ],
+    "users": [
+      {
+        "id": "1808526343027752960",
+        "name": "一圈人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808526454566834176/-jrX4STR_normal.png",
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 639,
+          "like_count": 39,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 505
+        },
+        "username": "8emRiGnHFs32727",
+        "verified": false
+      },
+      {
+        "id": "1353836358901501952",
+        "name": "Anthropic",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1906796,
+          "following_count": 2,
+          "like_count": 1596,
+          "listed_count": 16948,
+          "media_count": 661,
+          "tweet_count": 1752
+        },
+        "username": "AnthropicAI",
+        "verified": true
+      },
+      {
+        "id": "2111897987794264065",
+        "name": "The AI Rundown",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2111914228156166144/rc54SjZL_normal.png",
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 56,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 142
+        },
+        "username": "TheAIRundown",
+        "verified": false
+      },
+      {
+        "id": "1754218579124256768",
+        "name": "vig-fast-x-high",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117054781042626561/5ZGrBlO-_normal.jpg",
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 113,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 97
+        },
+        "username": "VigneshM865791",
+        "verified": false
+      },
+      {
+        "id": "2490213648",
+        "name": "Raviv Golov",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120633389296340992/QBjRUAOq_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 41
+        },
+        "username": "Ravgrg",
+        "verified": false
+      },
+      {
+        "id": "2104770760921272320",
+        "name": "Yuna Han",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104771722377367552/RoCeH-Uz_normal.jpg",
+        "public_metrics": {
+          "followers_count": 4883,
+          "following_count": 4753,
+          "like_count": 17557,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 13402
+        },
+        "username": "YunaElira",
+        "verified": false
+      },
+      {
+        "id": "263606970",
+        "name": "jingyanzhang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090430368860266497/AfUvgQbE_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 57
+        },
+        "username": "minimaniwo",
+        "verified": false
+      },
+      {
+        "id": "2117950709245394944",
+        "name": "ynsmhy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117951257889673216/6_jVz5fs_normal.jpg",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 18,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "ynsmhy2026",
+        "verified": false
+      },
+      {
+        "id": "1647076250782162946",
+        "name": "Vishal Singh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1647082070542528512/cw4eyk7v_normal.jpg",
+        "public_metrics": {
+          "followers_count": 15036,
+          "following_count": 726,
+          "like_count": 49282,
+          "listed_count": 76,
+          "media_count": 242,
+          "tweet_count": 2954
+        },
+        "username": "vishalsingh2972",
+        "verified": false
+      },
+      {
+        "id": "2270798053",
+        "name": "Truval",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116291917705297920/PK6HfPoT_normal.jpg",
+        "public_metrics": {
+          "followers_count": 20748,
+          "following_count": 68,
+          "like_count": 116,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 164
+        },
+        "username": "TruvalNetwork",
+        "verified": false
+      },
+      {
+        "id": "1535975116353556480",
+        "name": "Gizmo Wizard",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958916184755093504/69KJFFj5_normal.jpg",
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 198,
+          "like_count": 8337,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2257
+        },
+        "username": "MagicInByte",
+        "verified": false
+      },
+      {
+        "id": "2086893519189540864",
+        "name": "PulseMed",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120645767723360256/Wa_GWHee_normal.jpg",
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 193,
+          "like_count": 664,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 376
+        },
+        "username": "PulseMedAI",
+        "verified": false
+      },
+      {
+        "id": "217014740",
+        "name": "Bryan Tegomoh, MD, MPH",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035128545492537344/vE4Nj5CX_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1270,
+          "following_count": 466,
+          "like_count": 9728,
+          "listed_count": 20,
+          "media_count": 256,
+          "tweet_count": 7576
+        },
+        "username": "BryanTegomoh",
+        "verified": false
+      },
+      {
+        "id": "1776455434318336000",
+        "name": "高阳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776455549208702976/yVD7pNup_normal.jpg",
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 240,
+          "like_count": 1172,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 3360
+        },
+        "username": "yanggao97566",
+        "verified": false
+      },
+      {
+        "id": "2111599386442764288",
+        "name": "大圣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2111629210821554176/4Hf3Fd7J_normal.jpg",
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 757,
+          "like_count": 445,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 873
+        },
+        "username": "GreatSage2026",
+        "verified": false
+      },
+      {
+        "id": "2110594301428367360",
+        "name": "arror",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2121073066608558080/uTkuFHw9_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2636,
+          "following_count": 2789,
+          "like_count": 2950,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 1635
+        },
+        "username": "arror_x",
+        "verified": false
+      },
+      {
+        "id": "2099965457302167552",
+        "name": "light",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120231817332535297/XYBdkXiL_normal.jpg",
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 9,
+          "like_count": 236,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 36
+        },
+        "username": "pahpahrappa",
+        "verified": false
+      },
+      {
+        "id": "1925284791135469569",
+        "name": "Starphyre △🏴‍☠️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062683478081028096/g9ouluwm_normal.jpg",
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 441,
+          "like_count": 11686,
+          "listed_count": 7,
+          "media_count": 903,
+          "tweet_count": 14644
+        },
+        "username": "stoizid",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121405139256774767",
+    "next_token": "b26v89c19zqg8o3juzovr9vw35254xik1lk14z1w0p4zh",
+    "oldest_id": "2121386727751491906",
+    "result_count": 15
+  }
+}

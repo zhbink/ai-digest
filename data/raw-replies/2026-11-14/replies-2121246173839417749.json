@@ -1,0 +1,690 @@
+{
+  "data": [
+    {
+      "author_id": "7306622",
+      "created_at": "2026-11-14T00:42:13.000Z",
+      "edit_history_tweet_ids": [
+        "2121403292907700662"
+      ],
+      "id": "2121403292907700662",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121246173839417749",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 你本来就知道怎么做，让ai 按照你的想法做就行",
+      "url": "https://x.com/mengxr/status/2121403292907700662"
+    },
+    {
+      "author_id": "2108438560416415744",
+      "created_at": "2026-11-14T00:32:27.000Z",
+      "edit_history_tweet_ids": [
+        "2121400834282148271"
+      ],
+      "id": "2121400834282148271",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121246173839417749",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 能跑和能用确实差一大截，上线才知道",
+      "url": "https://x.com/TedCai233/status/2121400834282148271"
+    },
+    {
+      "author_id": "2104770760921272320",
+      "created_at": "2026-11-14T00:29:49.000Z",
+      "edit_history_tweet_ids": [
+        "2121400174371094831"
+      ],
+      "id": "2121400174371094831",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121246173839417749",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 能跑、能用、能长期稳定运行确实是三回事，我现在判断一个 AI 应用成不成熟，就看它敢不敢交给完全不懂技术的人随便点五分钟不出事",
+      "url": "https://x.com/YunaElira/status/2121400174371094831"
+    },
+    {
+      "author_id": "498651041",
+      "created_at": "2026-11-14T00:28:30.000Z",
+      "edit_history_tweet_ids": [
+        "2121399841766936830"
+      ],
+      "id": "2121399841766936830",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121246173839417749",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz Demo 和系统差在哪，一个问题就能试出来：凌晨模型 API 超时、只返回一半，你的系统怎么办？\n重试、降级、日志、谁被叫醒，这些 Demo 里一行都没有。\nAI 把写出来的成本打下来了，出事接不接得住，还是靠人。",
+      "url": "https://x.com/hexudong08/status/2121399841766936830"
+    },
+    {
+      "author_id": "4756567844",
+      "created_at": "2026-11-13T20:12:58.000Z",
+      "edit_history_tweet_ids": [
+        "2121335532219449528"
+      ],
+      "id": "2121335532219449528",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 17,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121246173839417749",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz ✏️ 能跑起来的样子和一套能长期用的东西，中间还隔着不少细活",
+      "url": "https://x.com/cloudi66/status/2121335532219449528"
+    },
+    {
+      "author_id": "2110004637403410432",
+      "created_at": "2026-11-13T17:55:53.000Z",
+      "edit_history_tweet_ids": [
+        "2121301034425569349"
+      ],
+      "id": "2121301034425569349",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121246173839417749",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz Your 'tool ran, receipt never arrived' line is the exact failure my guard runs keep catching — on one 65-check pass, a wrapper marked a test 'done' that never actually ran, and nothing downstream noticed until the second pass re-ran the check itself. That's why I now treat a",
+      "url": "https://x.com/ZhouStephenn/status/2121301034425569349"
+    },
+    {
+      "author_id": "1458742238171713538",
+      "created_at": "2026-11-13T16:36:16.000Z",
+      "edit_history_tweet_ids": [
+        "2121280997966942293"
+      ],
+      "id": "2121280997966942293",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 34,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121246173839417749",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz demo 能跑和线上能扛差得远 限流 重试 上下文截断 计费 每样都得自己补 流式输出反而是最省事的那块",
+      "url": "https://x.com/evvvvince/status/2121280997966942293"
+    },
+    {
+      "author_id": "1878345967780646912",
+      "created_at": "2026-11-13T15:48:31.000Z",
+      "edit_history_tweet_ids": [
+        "2121268984704372899"
+      ],
+      "id": "2121268984704372899",
+      "in_reply_to_user_id": "1760501204243902464",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 71,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121268533623722327",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@yangmoonring 干中学",
+      "url": "https://x.com/UPing123zzz/status/2121268984704372899"
+    },
+    {
+      "author_id": "1760501204243902464",
+      "created_at": "2026-11-13T15:46:44.000Z",
+      "edit_history_tweet_ids": [
+        "2121268533623722327"
+      ],
+      "id": "2121268533623722327",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 77,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121246173839417749",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 一点不认同 先让ai做 再来补知识 等于是先装修再该地基",
+      "url": "https://x.com/yangmoonring/status/2121268533623722327"
+    },
+    {
+      "author_id": "3123084528",
+      "created_at": "2026-11-13T15:45:46.000Z",
+      "edit_history_tweet_ids": [
+        "2121268289007767939"
+      ],
+      "id": "2121268289007767939",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 36,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121246173839417749",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz demo五分钟上线修半个月",
+      "url": "https://x.com/KalinJunYAI/status/2121268289007767939"
+    },
+    {
+      "author_id": "1878345967780646912",
+      "created_at": "2026-11-13T15:31:01.000Z",
+      "edit_history_tweet_ids": [
+        "2121264577858159057"
+      ],
+      "id": "2121264577858159057",
+      "in_reply_to_user_id": "1881375128166252544",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 61,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121257964740985330",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AdeAgentAI 是的",
+      "url": "https://x.com/UPing123zzz/status/2121264577858159057"
+    },
+    {
+      "author_id": "1881375128166252544",
+      "created_at": "2026-11-13T15:04:44.000Z",
+      "edit_history_tweet_ids": [
+        "2121257964740985330"
+      ],
+      "id": "2121257964740985330",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 69,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121246173839417749",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 超时就重试最容易出事",
+      "url": "https://x.com/AdeAgentAI/status/2121257964740985330"
+    },
+    {
+      "author_id": "1545764443304312833",
+      "created_at": "2026-11-13T14:59:13.000Z",
+      "edit_history_tweet_ids": [
+        "2121256575801389222"
+      ],
+      "id": "2121256575801389222",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 39,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121246173839417749",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 接真实用户后最先炸的是会话超长，不是代码写错",
+      "url": "https://x.com/huishu96225748/status/2121256575801389222"
+    },
+    {
+      "author_id": "1649523825334419460",
+      "created_at": "2026-11-13T14:58:30.000Z",
+      "edit_history_tweet_ids": [
+        "2121256397216129392"
+      ],
+      "id": "2121256397216129392",
+      "in_reply_to_user_id": "1878345967780646912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 57,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121246173839417749",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 还得给每次任务一个能追到日志里的编号，不然用户只报一句“它卡住了”，排查就得猜。",
+      "url": "https://x.com/HirofumiKy6386/status/2121256397216129392"
+    },
+    {
+      "author_id": "1878345967780646912",
+      "created_at": "2026-11-13T14:51:51.000Z",
+      "edit_history_tweet_ids": [
+        "2121254721369604128"
+      ],
+      "id": "2121254721369604128",
+      "in_reply_to_user_id": "1583853418443337728",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 93,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121251487670264009",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@FengshaoL 没毛病",
+      "url": "https://x.com/UPing123zzz/status/2121254721369604128"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1878345967780646912",
+        "created_at": "2026-11-13T14:17:53.000Z",
+        "edit_history_tweet_ids": [
+          "2121246173839417749"
+        ],
+        "id": "2121246173839417749",
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 3615,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 4
+        },
+        "text": "一堆人用 Codex、Claude Code 搓个前端，接个大模型 API，再弄个流式输出，看着 AI 能正常聊天了，就觉得自己已经做出了一套完整的 AI 系统。\n\n我操，哪有这么简单？\n\n说实话，现在借助 AI 编程工具，做出一个能跑的 Demo，门槛确实已经低得离谱了。"
+      },
+      {
+        "author_id": "1760501204243902464",
+        "created_at": "2026-11-13T15:46:44.000Z",
+        "edit_history_tweet_ids": [
+          "2121268533623722327"
+        ],
+        "id": "2121268533623722327",
+        "in_reply_to_user_id": "1878345967780646912",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121246173839417749",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@UPing123zzz 一点不认同 先让ai做 再来补知识 等于是先装修再该地基"
+      },
+      {
+        "author_id": "1881375128166252544",
+        "created_at": "2026-11-13T15:04:44.000Z",
+        "edit_history_tweet_ids": [
+          "2121257964740985330"
+        ],
+        "id": "2121257964740985330",
+        "in_reply_to_user_id": "1878345967780646912",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121246173839417749",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@UPing123zzz 超时就重试最容易出事"
+      },
+      {
+        "author_id": "1583853418443337728",
+        "created_at": "2026-11-13T14:39:00.000Z",
+        "edit_history_tweet_ids": [
+          "2121251487670264009"
+        ],
+        "id": "2121251487670264009",
+        "in_reply_to_user_id": "1878345967780646912",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121246173839417749",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@UPing123zzz 说到点子上了。Demo 阶段所有坑都被 happy path 藏起来了，真上生产才发现，幂等、重试、超时、回滚这些 boring 的活才是系统本身。工具执行成功但结果丢了那一下最吓人，重复扣款、重复发消息，查起来比模型幻觉难十倍。"
+      }
+    ],
+    "users": [
+      {
+        "id": "7306622",
+        "name": "meng.xianru🦇🔊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/54439150/snapshot20080408224416_normal.jpg",
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 99,
+          "like_count": 110,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 145
+        },
+        "username": "mengxr",
+        "verified": false
+      },
+      {
+        "id": "1878345967780646912",
+        "name": "Ethan 恩宇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106574155038724096/-FeenOii_normal.jpg",
+        "public_metrics": {
+          "followers_count": 7017,
+          "following_count": 707,
+          "like_count": 6203,
+          "listed_count": 35,
+          "media_count": 132,
+          "tweet_count": 3664
+        },
+        "username": "UPing123zzz",
+        "verified": false
+      },
+      {
+        "id": "2108438560416415744",
+        "name": "Ted Cai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108547946652618752/BZP_DxSA_normal.jpg",
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 1048,
+          "like_count": 857,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1123
+        },
+        "username": "TedCai233",
+        "verified": false
+      },
+      {
+        "id": "2104770760921272320",
+        "name": "Yuna Han",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104771722377367552/RoCeH-Uz_normal.jpg",
+        "public_metrics": {
+          "followers_count": 4884,
+          "following_count": 4753,
+          "like_count": 17559,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 13404
+        },
+        "username": "YunaElira",
+        "verified": false
+      },
+      {
+        "id": "498651041",
+        "name": "投资沉思录",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008022835659452416/4uPdvboR_normal.jpg",
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 31,
+          "like_count": 26,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 200
+        },
+        "username": "hexudong08",
+        "verified": false
+      },
+      {
+        "id": "4756567844",
+        "name": "流云Cloud",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067009413416992768/md6rHW7y_normal.jpg",
+        "public_metrics": {
+          "followers_count": 7703,
+          "following_count": 6457,
+          "like_count": 16347,
+          "listed_count": 8,
+          "media_count": 2749,
+          "tweet_count": 32108
+        },
+        "username": "cloudi66",
+        "verified": false
+      },
+      {
+        "id": "2110004637403410432",
+        "name": "Zhou Stephen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119639106850639873/U8Zx1Ahf_normal.jpg",
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 186,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 921
+        },
+        "username": "ZhouStephenn",
+        "verified": false
+      },
+      {
+        "id": "1458742238171713538",
+        "name": "鼬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1553232044645560320/18KN1IZt_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 2315,
+          "like_count": 610,
+          "listed_count": 3,
+          "media_count": 16,
+          "tweet_count": 4098
+        },
+        "username": "evvvvince",
+        "verified": false
+      },
+      {
+        "id": "1760501204243902464",
+        "name": "阳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760501400549953536/UA10OlOH_normal.jpg",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "username": "yangmoonring",
+        "verified": false
+      },
+      {
+        "id": "3123084528",
+        "name": "Kalin | AI builds & gotchas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093660551486517248/uglSLEXN_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2434,
+          "following_count": 2113,
+          "like_count": 1803,
+          "listed_count": 1,
+          "media_count": 310,
+          "tweet_count": 4555
+        },
+        "username": "KalinJunYAI",
+        "verified": false
+      },
+      {
+        "id": "1881375128166252544",
+        "name": "Aiden",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110606025216929792/lwJK90kp_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3395,
+          "following_count": 3064,
+          "like_count": 863,
+          "listed_count": 6,
+          "media_count": 97,
+          "tweet_count": 8065
+        },
+        "username": "AdeAgentAI",
+        "verified": false
+      },
+      {
+        "id": "1545764443304312833",
+        "name": "会输",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100582391152807937/hhwvDZ2s_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1577,
+          "following_count": 1243,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 733
+        },
+        "username": "huishu96225748",
+        "verified": false
+      },
+      {
+        "id": "1649523825334419460",
+        "name": "姜博文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1649523956414820352/TqGlQvds_normal.png",
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 29,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 122
+        },
+        "username": "HirofumiKy6386",
+        "verified": false
+      },
+      {
+        "id": "1583853418443337728",
+        "name": "fengshao li",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583853473938173954/JWmTCapB_normal.png",
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 60,
+          "like_count": 984,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 549
+        },
+        "username": "FengshaoL",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121403292907700662",
+    "next_token": "b26v89c19zqg8o3juzovr7q9hhq8nv1qgz3k6ljspxvnh",
+    "oldest_id": "2121254721369604128",
+    "result_count": 15
+  }
+}

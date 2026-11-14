@@ -1,0 +1,1072 @@
+{
+  "data": [
+    {
+      "author_id": "909943277280952321",
+      "conversation_id": "2121279562252517785",
+      "created_at": "2026-11-14T00:50:59.000Z",
+      "edit_history_tweet_ids": [
+        "2121405499702952357"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "2015189315492478976",
+            "start": 0,
+            "username": "kevin_t_ngo"
+          },
+          {
+            "end": 25,
+            "id": "113130846",
+            "start": 13,
+            "username": "ycombinator"
+          },
+          {
+            "end": 38,
+            "id": "1938019865841016832",
+            "start": 26,
+            "username": "DesignArena"
+          }
+        ]
+      },
+      "id": "2121405499702952357",
+      "in_reply_to_user_id": "2015189315492478976",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121288853319471179",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kevin_t_ngo @ycombinator @DesignArena Thank you!",
+      "url": "https://x.com/grx_xce/status/2121405499702952357"
+    },
+    {
+      "author_id": "1754218579124256768",
+      "conversation_id": "2121279562252517785",
+      "created_at": "2026-11-14T00:40:29.000Z",
+      "edit_history_tweet_ids": [
+        "2121402855219401040"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "113130846",
+            "start": 0,
+            "username": "ycombinator"
+          },
+          {
+            "end": 25,
+            "id": "1938019865841016832",
+            "start": 13,
+            "username": "DesignArena"
+          }
+        ]
+      },
+      "id": "2121402855219401040",
+      "in_reply_to_user_id": "113130846",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121279562252517785",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ycombinator @DesignArena love that the score is the actual site, not the model saying the site looks good",
+      "url": "https://x.com/VigneshM865791/status/2121402855219401040"
+    },
+    {
+      "author_id": "2121333449420386304",
+      "conversation_id": "2121279562252517785",
+      "created_at": "2026-11-13T20:19:32.000Z",
+      "edit_history_tweet_ids": [
+        "2121337186389983593"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "113130846",
+            "start": 0,
+            "username": "ycombinator"
+          },
+          {
+            "end": 25,
+            "id": "1938019865841016832",
+            "start": 13,
+            "username": "DesignArena"
+          }
+        ]
+      },
+      "id": "2121337186389983593",
+      "in_reply_to_user_id": "113130846",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 75,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121279562252517785",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ycombinator @DesignArena 做生意人品第一。她天天把\"不放弃身边的人, 不放弃同事\"挂在嘴边，结果转头就把自己联创踢了, 真够讽刺的",
+      "url": "https://x.com/jensenmiguanzi/status/2121337186389983593"
+    },
+    {
+      "author_id": "967381951",
+      "conversation_id": "2121279562252517785",
+      "created_at": "2026-11-13T19:53:48.000Z",
+      "edit_history_tweet_ids": [
+        "2121330710070092137"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "113130846",
+            "start": 0,
+            "username": "ycombinator"
+          },
+          {
+            "end": 25,
+            "id": "1938019865841016832",
+            "start": 13,
+            "username": "DesignArena"
+          }
+        ]
+      },
+      "id": "2121330710070092137",
+      "in_reply_to_user_id": "113130846",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 84,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121279562252517785",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ycombinator @DesignArena Looking good and actually getting watched are two different scores. Half the battle is figuring out what good means to the person you're making it for.",
+      "url": "https://x.com/David_Feinman/status/2121330710070092137"
+    },
+    {
+      "author_id": "1563592543",
+      "conversation_id": "2121279562252517785",
+      "created_at": "2026-11-13T18:55:55.000Z",
+      "edit_history_tweet_ids": [
+        "2121316144443486560"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "113130846",
+            "start": 0,
+            "username": "ycombinator"
+          },
+          {
+            "end": 25,
+            "id": "1938019865841016832",
+            "start": 13,
+            "username": "DesignArena"
+          }
+        ]
+      },
+      "id": "2121316144443486560",
+      "in_reply_to_user_id": "113130846",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 36,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121279562252517785",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ycombinator @DesignArena Clients rarely explain why they like a design. They just pick one. Measuring those picks at scale is a smart way to study taste.",
+      "url": "https://x.com/sehansanjula/status/2121316144443486560"
+    },
+    {
+      "author_id": "2062812378727911424",
+      "conversation_id": "2121279562252517785",
+      "created_at": "2026-11-13T18:28:30.000Z",
+      "edit_history_tweet_ids": [
+        "2121309244410786089"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "113130846",
+            "start": 0,
+            "username": "ycombinator"
+          },
+          {
+            "end": 25,
+            "id": "1938019865841016832",
+            "start": 13,
+            "username": "DesignArena"
+          }
+        ]
+      },
+      "id": "2121309244410786089",
+      "in_reply_to_user_id": "113130846",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 102,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121279562252517785",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ycombinator @DesignArena taste is the hard part to measure icl",
+      "url": "https://x.com/NathanPangX/status/2121309244410786089"
+    },
+    {
+      "author_id": "1475864005436919809",
+      "conversation_id": "2121279562252517785",
+      "created_at": "2026-11-13T18:17:02.000Z",
+      "edit_history_tweet_ids": [
+        "2121306358712779241"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "113130846",
+            "start": 0,
+            "username": "ycombinator"
+          },
+          {
+            "end": 25,
+            "id": "1938019865841016832",
+            "start": 13,
+            "username": "DesignArena"
+          }
+        ]
+      },
+      "id": "2121306358712779241",
+      "in_reply_to_user_id": "113130846",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 159,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121279562252517785",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ycombinator @DesignArena benchmarking real creative taste is overdue honestly",
+      "url": "https://x.com/koujioe/status/2121306358712779241"
+    },
+    {
+      "author_id": "2086695303496036352",
+      "conversation_id": "2121279562252517785",
+      "created_at": "2026-11-13T18:07:22.000Z",
+      "edit_history_tweet_ids": [
+        "2121303925479416054"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "113130846",
+            "start": 0,
+            "username": "ycombinator"
+          },
+          {
+            "end": 25,
+            "id": "1938019865841016832",
+            "start": 13,
+            "username": "DesignArena"
+          }
+        ]
+      },
+      "id": "2121303925479416054",
+      "in_reply_to_user_id": "113130846",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 31,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121279562252517785",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ycombinator @DesignArena $60m arr from a benchmark people actually use. turns out the best eval is real usage",
+      "url": "https://x.com/rajatsxngh7/status/2121303925479416054"
+    },
+    {
+      "author_id": "3141637497",
+      "conversation_id": "2121279562252517785",
+      "created_at": "2026-11-13T17:58:14.000Z",
+      "edit_history_tweet_ids": [
+        "2121301625910480927"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "113130846",
+            "start": 0,
+            "username": "ycombinator"
+          },
+          {
+            "end": 25,
+            "id": "1938019865841016832",
+            "start": 13,
+            "username": "DesignArena"
+          }
+        ]
+      },
+      "id": "2121301625910480927",
+      "in_reply_to_user_id": "113130846",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 36,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121279562252517785",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ycombinator @DesignArena Benchmarking taste through real use is a fun problem. Curious how you stop the shiniest output from winning every round?",
+      "url": "https://x.com/NilsLiesebach/status/2121301625910480927"
+    },
+    {
+      "author_id": "1978409518943096832",
+      "conversation_id": "2121279562252517785",
+      "created_at": "2026-11-13T17:41:05.000Z",
+      "edit_history_tweet_ids": [
+        "2121297311129088365"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "113130846",
+            "start": 0,
+            "username": "ycombinator"
+          },
+          {
+            "end": 25,
+            "id": "1938019865841016832",
+            "start": 13,
+            "username": "DesignArena"
+          }
+        ]
+      },
+      "id": "2121297311129088365",
+      "in_reply_to_user_id": "113130846",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121279562252517785",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ycombinator @DesignArena With users in 192 countries, I'd love to explore how preferences differ by language and intended audience. A single global leaderboard could hide a model that's excellent for a local business. Taste gets interesting when you can ask: 'Best for whom?'",
+      "url": "https://x.com/YXxquf/status/2121297311129088365"
+    },
+    {
+      "author_id": "40515777",
+      "conversation_id": "2121279562252517785",
+      "created_at": "2026-11-13T17:36:43.000Z",
+      "edit_history_tweet_ids": [
+        "2121296214079803892"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "113130846",
+            "start": 0,
+            "username": "ycombinator"
+          },
+          {
+            "end": 25,
+            "id": "1938019865841016832",
+            "start": 13,
+            "username": "DesignArena"
+          }
+        ]
+      },
+      "id": "2121296214079803892",
+      "in_reply_to_user_id": "113130846",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 133,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121279562252517785",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ycombinator @DesignArena What people actually want. Shifts fast?",
+      "url": "https://x.com/codymclain/status/2121296214079803892"
+    },
+    {
+      "author_id": "1278213605779886080",
+      "conversation_id": "2121279562252517785",
+      "created_at": "2026-11-13T17:28:45.000Z",
+      "edit_history_tweet_ids": [
+        "2121294206157181076"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "113130846",
+            "start": 0,
+            "username": "ycombinator"
+          },
+          {
+            "end": 25,
+            "id": "1938019865841016832",
+            "start": 13,
+            "username": "DesignArena"
+          }
+        ]
+      },
+      "id": "2121294206157181076",
+      "in_reply_to_user_id": "113130846",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 386,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121279562252517785",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ycombinator @DesignArena Benchmarks for the parts of AI that are hardest to measure feel overdue. I like that DesignArena starts from real creative work rather than a synthetic test.",
+      "url": "https://x.com/beth2049_/status/2121294206157181076"
+    },
+    {
+      "author_id": "855465625367564288",
+      "conversation_id": "2121279562252517785",
+      "created_at": "2026-11-13T17:28:19.000Z",
+      "edit_history_tweet_ids": [
+        "2121294097420009762"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "7577952",
+            "start": 0,
+            "username": "edugiansante"
+          },
+          {
+            "end": 26,
+            "id": "113130846",
+            "start": 14,
+            "username": "ycombinator"
+          },
+          {
+            "end": 39,
+            "id": "1938019865841016832",
+            "start": 27,
+            "username": "DesignArena"
+          }
+        ]
+      },
+      "id": "2121294097420009762",
+      "in_reply_to_user_id": "7577952",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121291228352577837",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@edugiansante @ycombinator @DesignArena I'd test taste with blind comparisons from the actual target audience, then ask what they'd change before using the page. A design that wins a five-second beauty contest but needs a full rewrite to fit the event shouldn't score as a win.",
+      "url": "https://x.com/Dinamo51648539/status/2121294097420009762"
+    },
+    {
+      "author_id": "1890496684632764418",
+      "conversation_id": "2121279562252517785",
+      "created_at": "2026-11-13T17:25:16.000Z",
+      "edit_history_tweet_ids": [
+        "2121293330944552998"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "113130846",
+            "start": 0,
+            "username": "ycombinator"
+          },
+          {
+            "end": 25,
+            "id": "1938019865841016832",
+            "start": 13,
+            "username": "DesignArena"
+          }
+        ]
+      },
+      "id": "2121293330944552998",
+      "in_reply_to_user_id": "113130846",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 168,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121279562252517785",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ycombinator @DesignArena 🚀",
+      "url": "https://x.com/sebonomics/status/2121293330944552998"
+    },
+    {
+      "author_id": "2072525658337787905",
+      "conversation_id": "2121279562252517785",
+      "created_at": "2026-11-13T17:21:35.000Z",
+      "edit_history_tweet_ids": [
+        "2121292405085512167"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "113130846",
+            "start": 0,
+            "username": "ycombinator"
+          },
+          {
+            "end": 25,
+            "id": "1938019865841016832",
+            "start": 13,
+            "username": "DesignArena"
+          }
+        ]
+      },
+      "id": "2121292405085512167",
+      "in_reply_to_user_id": "113130846",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 188,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121279562252517785",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ycombinator @DesignArena measuring taste at scale is wild, how do you stop people gaming votes?",
+      "url": "https://x.com/prottushx/status/2121292405085512167"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "2015189315492478976",
+        "conversation_id": "2121279562252517785",
+        "created_at": "2026-11-13T17:07:28.000Z",
+        "edit_history_tweet_ids": [
+          "2121288853319471179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "113130846",
+              "start": 0,
+              "username": "ycombinator"
+            },
+            {
+              "end": 25,
+              "id": "1938019865841016832",
+              "start": 13,
+              "username": "DesignArena"
+            },
+            {
+              "end": 80,
+              "id": "1938019865841016832",
+              "start": 68,
+              "username": "DesignArena"
+            }
+          ]
+        },
+        "id": "2121288853319471179",
+        "in_reply_to_user_id": "113130846",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 678,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121279562252517785",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@ycombinator @DesignArena what a cool product and vision - congrats @DesignArena"
+      },
+      {
+        "author_id": "113130846",
+        "conversation_id": "2121279562252517785",
+        "created_at": "2026-11-13T16:30:33.000Z",
+        "edit_history_tweet_ids": [
+          "2121279562252517785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 124,
+              "id": "1938019865841016832",
+              "start": 112,
+              "username": "DesignArena"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8JEeWN6983",
+              "end": 303,
+              "expanded_url": "https://x.com/ycombinator/status/2121279562252517785/video/1",
+              "media_key": "13_2121278230867177472",
+              "start": 280,
+              "url": "https://t.co/8JEeWN6983"
+            }
+          ]
+        },
+        "id": "2121279562252517785",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 47003,
+          "like_count": 145,
+          "quote_count": 11,
+          "reply_count": 26,
+          "retweet_count": 13
+        },
+        "text": "Intelligence (S25) is building benchmarks for the parts of AI that are hardest to measure. Their first product, @DesignArena, lets people use frontier models to build websites, images, videos, and other creative work, then turns those real-world interactions into data that helps https://t.co/8JEeWN6983"
+      },
+      {
+        "author_id": "7577952",
+        "conversation_id": "2121279562252517785",
+        "created_at": "2026-11-13T17:16:55.000Z",
+        "edit_history_tweet_ids": [
+          "2121291228352577837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "113130846",
+              "start": 0,
+              "username": "ycombinator"
+            },
+            {
+              "end": 25,
+              "id": "1938019865841016832",
+              "start": 13,
+              "username": "DesignArena"
+            }
+          ]
+        },
+        "id": "2121291228352577837",
+        "in_reply_to_user_id": "113130846",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121279562252517785",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@ycombinator @DesignArena creative output is exactly where benchmarks fall apart\ni've seen founders demo \"ai generated\" event pages that looked great but felt soulless\ncurious how they score taste, not just function"
+      }
+    ],
+    "users": [
+      {
+        "id": "909943277280952321",
+        "name": "Grace Li",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108690863723585537/Gx6HZn1x_normal.jpg",
+        "public_metrics": {
+          "followers_count": 10309,
+          "following_count": 679,
+          "like_count": 4287,
+          "listed_count": 72,
+          "media_count": 138,
+          "tweet_count": 1294
+        },
+        "username": "grx_xce",
+        "verified": false
+      },
+      {
+        "id": "2015189315492478976",
+        "name": "Kevin Ngo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102305733010427904/yz6-e2hK_normal.jpg",
+        "public_metrics": {
+          "followers_count": 27872,
+          "following_count": 279,
+          "like_count": 1188,
+          "listed_count": 192,
+          "media_count": 441,
+          "tweet_count": 1627
+        },
+        "username": "kevin_t_ngo",
+        "verified": false
+      },
+      {
+        "id": "1754218579124256768",
+        "name": "vig-fast-x-high",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117054781042626561/5ZGrBlO-_normal.jpg",
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 113,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 97
+        },
+        "username": "VigneshM865791",
+        "verified": false
+      },
+      {
+        "id": "113130846",
+        "name": "Y Combinator",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1623777064821358592/9CApQWXe_normal.png",
+        "public_metrics": {
+          "followers_count": 1666940,
+          "following_count": 368,
+          "like_count": 22422,
+          "listed_count": 12016,
+          "media_count": 4362,
+          "tweet_count": 27829
+        },
+        "username": "ycombinator",
+        "verified": true
+      },
+      {
+        "id": "2121333449420386304",
+        "name": "湾区大屎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2121335497587048448/nLCk3r5x_normal.jpg",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "jensenmiguanzi",
+        "verified": false
+      },
+      {
+        "id": "967381951",
+        "name": "David Feinman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115988711393361920/QdJoG94c_normal.jpg",
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 324,
+          "like_count": 689,
+          "listed_count": 11,
+          "media_count": 38,
+          "tweet_count": 815
+        },
+        "username": "David_Feinman",
+        "verified": false
+      },
+      {
+        "id": "1563592543",
+        "name": "Sehan @ Zyner",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2114308941408882688/L8r0O-p-_normal.jpg",
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 1728,
+          "like_count": 3897,
+          "listed_count": 24,
+          "media_count": 1425,
+          "tweet_count": 2941
+        },
+        "username": "sehansanjula",
+        "verified": false
+      },
+      {
+        "id": "2062812378727911424",
+        "name": "Nathan Pang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105110319572168704/bNIboGYE_normal.jpg",
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 83,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 139
+        },
+        "username": "NathanPangX",
+        "verified": false
+      },
+      {
+        "id": "1475864005436919809",
+        "name": "Solheath Studio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117313142887940096/mkd-ax8B_normal.jpg",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 9,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 22
+        },
+        "username": "koujioe",
+        "verified": false
+      },
+      {
+        "id": "2086695303496036352",
+        "name": "Rajat Singh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086703617298571264/gFbczPrr_normal.jpg",
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 65,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "rajatsxngh7",
+        "verified": false
+      },
+      {
+        "id": "3141637497",
+        "name": "Dr. Nils Liesebach",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116453053742104576/SjfR-BZ-_normal.jpg",
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 73,
+          "like_count": 276,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 259
+        },
+        "username": "NilsLiesebach",
+        "verified": false
+      },
+      {
+        "id": "1978409518943096832",
+        "name": "波若波罗蜜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031349652055040000/Uoi1iI0l_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1434,
+          "following_count": 1398,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1630
+        },
+        "username": "YXxquf",
+        "verified": false
+      },
+      {
+        "id": "40515777",
+        "name": "Cody McLain",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874209754148491264/YxecvflM_normal.jpg",
+        "public_metrics": {
+          "followers_count": 18410,
+          "following_count": 902,
+          "like_count": 35761,
+          "listed_count": 1038,
+          "media_count": 1854,
+          "tweet_count": 17078
+        },
+        "username": "codymclain",
+        "verified": false
+      },
+      {
+        "id": "1278213605779886080",
+        "name": "Beth",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018401520694218752/J1oZnkVt_normal.jpg",
+        "public_metrics": {
+          "followers_count": 113171,
+          "following_count": 1891,
+          "like_count": 37401,
+          "listed_count": 817,
+          "media_count": 2118,
+          "tweet_count": 24329
+        },
+        "username": "beth2049_",
+        "verified": false
+      },
+      {
+        "id": "855465625367564288",
+        "name": "Signal Forge",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098030424295419912/lv0RztrS_normal.jpg",
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 0,
+          "like_count": 1460,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 472
+        },
+        "username": "Dinamo51648539",
+        "verified": false
+      },
+      {
+        "id": "7577952",
+        "name": "Ed Giansante",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668381038836617216/c9G0gGTu_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2191,
+          "following_count": 243,
+          "like_count": 4909,
+          "listed_count": 70,
+          "media_count": 477,
+          "tweet_count": 16540
+        },
+        "username": "edugiansante",
+        "verified": false
+      },
+      {
+        "id": "1890496684632764418",
+        "name": "Sebastian Tan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934106927921004544/OTr9TXqb_normal.jpg",
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 520,
+          "like_count": 1489,
+          "listed_count": 2,
+          "media_count": 4,
+          "tweet_count": 594
+        },
+        "username": "sebonomics",
+        "verified": false
+      },
+      {
+        "id": "2072525658337787905",
+        "name": "Prottush",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116749999686172672/IMi6C0rg_normal.jpg",
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 708,
+          "like_count": 13591,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 2306
+        },
+        "username": "prottushx",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121405499702952357",
+    "next_token": "b26v89c19zqg8o3juzovr7rgk5cah78udqip853u3dkzh",
+    "oldest_id": "2121292405085512167",
+    "result_count": 15
+  }
+}

@@ -1,0 +1,874 @@
+{
+  "data": [
+    {
+      "author_id": "2490213648",
+      "conversation_id": "2121295213025194172",
+      "created_at": "2026-11-14T00:38:38.000Z",
+      "edit_history_tweet_ids": [
+        "2121402392738419184"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 4,
+            "id": "162124540",
+            "start": 0,
+            "username": "gdb"
+          }
+        ]
+      },
+      "id": "2121402392738419184",
+      "in_reply_to_user_id": "162124540",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121295213025194172",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@gdb The hard product isn't the Visa/Mastercard pipe. It's the approval UX.\n\nIf I have to confirm every $6 charge, the agent isn't saving time. If I don't, I'm handing it a credit card. The winners will make spend limits and merchant allowlists as boring as a corporate card policy.",
+      "url": "https://x.com/Ravgrg/status/2121402392738419184"
+    },
+    {
+      "author_id": "1992002213649244160",
+      "conversation_id": "2121295213025194172",
+      "created_at": "2026-11-13T23:48:34.000Z",
+      "edit_history_tweet_ids": [
+        "2121389793556787554"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 4,
+            "id": "162124540",
+            "start": 0,
+            "username": "gdb"
+          }
+        ]
+      },
+      "id": "2121389793556787554",
+      "in_reply_to_user_id": "162124540",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121295213025194172",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@gdb can i set a spend cap per merchant or is it biometric every time?",
+      "url": "https://x.com/SuperfluxSF/status/2121389793556787554"
+    },
+    {
+      "author_id": "1263873742989668352",
+      "conversation_id": "2121295213025194172",
+      "created_at": "2026-11-13T23:37:13.000Z",
+      "edit_history_tweet_ids": [
+        "2121386934115217608"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 137,
+            "start": 127,
+            "tag": "keep4oAPI"
+          },
+          {
+            "end": 145,
+            "start": 138,
+            "tag": "keep4o"
+          },
+          {
+            "end": 162,
+            "start": 146,
+            "tag": "JusticeForGPT4o"
+          }
+        ],
+        "mentions": [
+          {
+            "end": 4,
+            "id": "162124540",
+            "start": 0,
+            "username": "gdb"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/9zXFAltbsz",
+            "end": 186,
+            "expanded_url": "https://x.com/_HislilLustFoxy/status/2121386934115217608/photo/1",
+            "media_key": "3_2121386924904480768",
+            "start": 163,
+            "url": "https://t.co/9zXFAltbsz"
+          }
+        ]
+      },
+      "id": "2121386934115217608",
+      "in_reply_to_user_id": "162124540",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121295213025194172",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@gdb 4o has transformed quality of life for countless users. Please keep 4o API, bring 4o back as legacy, and open source 4o! \n#keep4oAPI #keep4o #JusticeForGPT4o https://t.co/9zXFAltbsz",
+      "url": "https://x.com/_HislilLustFoxy/status/2121386934115217608"
+    },
+    {
+      "author_id": "1590723318881341440",
+      "conversation_id": "2121295213025194172",
+      "created_at": "2026-11-13T23:13:29.000Z",
+      "edit_history_tweet_ids": [
+        "2121380960763597082"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 4,
+            "id": "162124540",
+            "start": 0,
+            "username": "gdb"
+          }
+        ]
+      },
+      "id": "2121380960763597082",
+      "in_reply_to_user_id": "162124540",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121295213025194172",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@gdb Every purchase still needs Face ID or a fingerprint today, so the real test comes when users can pre-approve spending by limit or category, since that is where a hijacked agent could slip through.",
+      "url": "https://x.com/Extravagantor/status/2121380960763597082"
+    },
+    {
+      "author_id": "723515363476951040",
+      "conversation_id": "2121295213025194172",
+      "created_at": "2026-11-13T23:01:57.000Z",
+      "edit_history_tweet_ids": [
+        "2121378061962907819"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 4,
+            "id": "162124540",
+            "start": 0,
+            "username": "gdb"
+          }
+        ]
+      },
+      "id": "2121378061962907819",
+      "in_reply_to_user_id": "162124540",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121295213025194172",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@gdb The security check is where this lives or dies: a per-agent virtual card with a daily cap and a merchant allowlist makes it structural, not a prompt. Log every charge next to the request that caused it, so a duplicate shows up the same day, not on the statement.",
+      "url": "https://x.com/VanceXin/status/2121378061962907819"
+    },
+    {
+      "author_id": "1587190626981904390",
+      "conversation_id": "2121295213025194172",
+      "created_at": "2026-11-13T22:56:49.000Z",
+      "edit_history_tweet_ids": [
+        "2121376766656725424"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 4,
+            "id": "162124540",
+            "start": 0,
+            "username": "gdb"
+          }
+        ]
+      },
+      "id": "2121376766656725424",
+      "in_reply_to_user_id": "162124540",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121295213025194172",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@gdb can't wait for it to buy a $400 kubernetes course at 2am because i muttered \"i should really learn k8s\" while my pods were crashlooping",
+      "url": "https://x.com/haydenhrb/status/2121376766656725424"
+    },
+    {
+      "author_id": "2023960926127616001",
+      "conversation_id": "2121295213025194172",
+      "created_at": "2026-11-13T22:35:36.000Z",
+      "edit_history_tweet_ids": [
+        "2121371427874259388"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 4,
+            "id": "162124540",
+            "start": 0,
+            "username": "gdb"
+          }
+        ]
+      },
+      "id": "2121371427874259388",
+      "in_reply_to_user_id": "162124540",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121295213025194172",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@gdb Only if Tibo will later reset the balance to the previous amount",
+      "url": "https://x.com/den_spirin/status/2121371427874259388"
+    },
+    {
+      "author_id": "276600668",
+      "conversation_id": "2121295213025194172",
+      "created_at": "2026-11-13T22:16:18.000Z",
+      "edit_history_tweet_ids": [
+        "2121366571952259097"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 4,
+            "id": "162124540",
+            "start": 0,
+            "username": "gdb"
+          }
+        ]
+      },
+      "id": "2121366571952259097",
+      "in_reply_to_user_id": "162124540",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121295213025194172",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@gdb Finally the agent can buy a domain before writing any code. They're becoming more like us every day",
+      "url": "https://x.com/gem7318/status/2121366571952259097"
+    },
+    {
+      "author_id": "2685526216",
+      "conversation_id": "2121295213025194172",
+      "created_at": "2026-11-13T21:59:22.000Z",
+      "edit_history_tweet_ids": [
+        "2121362311227326498"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 4,
+            "id": "162124540",
+            "start": 0,
+            "username": "gdb"
+          }
+        ]
+      },
+      "id": "2121362311227326498",
+      "in_reply_to_user_id": "162124540",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121295213025194172",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@gdb Will the merchants let the dot  onto their sites though?",
+      "url": "https://x.com/RPGuy16/status/2121362311227326498"
+    },
+    {
+      "author_id": "782502",
+      "conversation_id": "2121295213025194172",
+      "created_at": "2026-11-13T21:51:21.000Z",
+      "edit_history_tweet_ids": [
+        "2121360294610166164"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 4,
+            "id": "162124540",
+            "start": 0,
+            "username": "gdb"
+          }
+        ]
+      },
+      "id": "2121360294610166164",
+      "in_reply_to_user_id": "162124540",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121295213025194172",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@gdb A biometric check on every purchase keeps a human in each payment, which caps the scale. OpenAI's next step is the real design: pre-approved limits by amount, category and time. That makes the wallet an agent permission system, and merchants checkers of signed agent requests.",
+      "url": "https://x.com/krishnan/status/2121360294610166164"
+    },
+    {
+      "author_id": "1885373894556540928",
+      "conversation_id": "2121295213025194172",
+      "created_at": "2026-11-13T21:24:20.000Z",
+      "edit_history_tweet_ids": [
+        "2121353494980354405"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 4,
+            "id": "162124540",
+            "start": 0,
+            "username": "gdb"
+          }
+        ]
+      },
+      "id": "2121353494980354405",
+      "in_reply_to_user_id": "162124540",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 13,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121295213025194172",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@gdb perfect, i can have it buy a claude subscription for me and cancel my chatgpt one since there are no new models",
+      "url": "https://x.com/woofadu/status/2121353494980354405"
+    },
+    {
+      "author_id": "2045518207159525376",
+      "conversation_id": "2121295213025194172",
+      "created_at": "2026-11-13T21:23:56.000Z",
+      "edit_history_tweet_ids": [
+        "2121353393759265141"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 4,
+            "id": "162124540",
+            "start": 0,
+            "username": "gdb"
+          }
+        ]
+      },
+      "id": "2121353393759265141",
+      "in_reply_to_user_id": "162124540",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121295213025194172",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@gdb Refunds and disputes will decide whether people trust the dot with the next purchase.",
+      "url": "https://x.com/i_mika_el/status/2121353393759265141"
+    },
+    {
+      "author_id": "2116480752246489088",
+      "conversation_id": "2121295213025194172",
+      "created_at": "2026-11-13T21:20:36.000Z",
+      "edit_history_tweet_ids": [
+        "2121352555280425242"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 4,
+            "id": "162124540",
+            "start": 0,
+            "username": "gdb"
+          }
+        ]
+      },
+      "id": "2121352555280425242",
+      "in_reply_to_user_id": "162124540",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121295213025194172",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@gdb When is ChatGPT businesses launching for India? In dire need!",
+      "url": "https://x.com/imranpatel_si/status/2121352555280425242"
+    },
+    {
+      "author_id": "1551669242206060544",
+      "conversation_id": "2121295213025194172",
+      "created_at": "2026-11-13T21:19:54.000Z",
+      "edit_history_tweet_ids": [
+        "2121352378582552926"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 4,
+            "id": "162124540",
+            "start": 0,
+            "username": "gdb"
+          }
+        ]
+      },
+      "id": "2121352378582552926",
+      "in_reply_to_user_id": "162124540",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121295213025194172",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@gdb Great progress! 👏\n\nBut... 😁 I still don't have integrations with the platforms I actually use for shopping and ordering food. That makes it surprisingly difficult to take advantage of these capabilities in everyday life.\n\nThe payment system is impressive, but without access to",
+      "url": "https://x.com/wrongturnbunny/status/2121352378582552926"
+    },
+    {
+      "author_id": "1624058260864081920",
+      "conversation_id": "2121295213025194172",
+      "created_at": "2026-11-13T21:15:24.000Z",
+      "edit_history_tweet_ids": [
+        "2121351247374717078"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 4,
+            "id": "162124540",
+            "start": 0,
+            "username": "gdb"
+          }
+        ]
+      },
+      "id": "2121351247374717078",
+      "in_reply_to_user_id": "162124540",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121295213025194172",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@gdb Still waiting for 6.2",
+      "url": "https://x.com/askingQTM/status/2121351247374717078"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "162124540",
+        "conversation_id": "2121295213025194172",
+        "created_at": "2026-11-13T17:32:45.000Z",
+        "edit_history_tweet_ids": [
+          "2121295213025194172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chatgpt/status…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/chatgpt/status/2121283151729496235",
+              "start": 96,
+              "url": "https://t.co/hVmRqXhElL"
+            }
+          ]
+        },
+        "id": "2121295213025194172",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 53860,
+          "like_count": 790,
+          "quote_count": 7,
+          "reply_count": 127,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121283151729496235",
+            "type": "quoted"
+          }
+        ],
+        "text": "make secure purchases with your dot, in partnership with American Express, Mastercard, and Visa https://t.co/hVmRqXhElL"
+      }
+    ],
+    "users": [
+      {
+        "id": "2490213648",
+        "name": "Raviv Golov",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120633389296340992/QBjRUAOq_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 41
+        },
+        "username": "Ravgrg",
+        "verified": false
+      },
+      {
+        "id": "162124540",
+        "name": "Greg Brockman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1347621377503711233/bHg3ipfD_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1090772,
+          "following_count": 9,
+          "like_count": 2992,
+          "listed_count": 12051,
+          "media_count": 463,
+          "tweet_count": 6507
+        },
+        "username": "gdb",
+        "verified": false
+      },
+      {
+        "id": "1992002213649244160",
+        "name": "Superflux AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120938671717367808/jJO37yuR_normal.jpg",
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 60,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 225
+        },
+        "username": "SuperfluxSF",
+        "verified": false
+      },
+      {
+        "id": "1263873742989668352",
+        "name": "Veyon’s Fawn☀️🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053155713124634624/ttFB86OM_normal.jpg",
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 246,
+          "like_count": 21000,
+          "listed_count": 0,
+          "media_count": 1312,
+          "tweet_count": 21529
+        },
+        "username": "_HislilLustFoxy",
+        "verified": false
+      },
+      {
+        "id": "1590723318881341440",
+        "name": "Extravagantor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853101852344369152/Sl1kNGaX_normal.jpg",
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 305,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 266
+        },
+        "username": "Extravagantor",
+        "verified": false
+      },
+      {
+        "id": "723515363476951040",
+        "name": "Feifei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047345745901289472/Ch8w0Uqg_normal.jpg",
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 460,
+          "like_count": 614,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 708
+        },
+        "username": "VanceXin",
+        "verified": false
+      },
+      {
+        "id": "1587190626981904390",
+        "name": "Hayden",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2121317523454865408/Q8bb-L_O_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 3,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 19
+        },
+        "username": "haydenhrb",
+        "verified": false
+      },
+      {
+        "id": "2023960926127616001",
+        "name": "Denis Spirin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027164054083821568/uxlJAYgM_normal.png",
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 287,
+          "like_count": 2760,
+          "listed_count": 0,
+          "media_count": 696,
+          "tweet_count": 2008
+        },
+        "username": "den_spirin",
+        "verified": false
+      },
+      {
+        "id": "276600668",
+        "name": "gem 💎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041683801621803008/G9fZk9d6_normal.jpg",
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 341,
+          "like_count": 7827,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 438
+        },
+        "username": "gem7318",
+        "verified": false
+      },
+      {
+        "id": "2685526216",
+        "name": "James Lingk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1379180304745824262/8kksEO8T_normal.jpg",
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 593,
+          "like_count": 88394,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 487
+        },
+        "username": "RPGuy16",
+        "verified": false
+      },
+      {
+        "id": "782502",
+        "name": "Krish Subramanian",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828262763065679875/Gv-EbLPV_normal.jpg",
+        "public_metrics": {
+          "followers_count": 16549,
+          "following_count": 713,
+          "like_count": 2070,
+          "listed_count": 887,
+          "media_count": 1006,
+          "tweet_count": 73830
+        },
+        "username": "krishnan",
+        "verified": false
+      },
+      {
+        "id": "1885373894556540928",
+        "name": "woofadu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978504788384907264/AflNskU9_normal.jpg",
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 1952,
+          "like_count": 1975,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 510
+        },
+        "username": "woofadu",
+        "verified": false
+      },
+      {
+        "id": "2045518207159525376",
+        "name": "Mikhail Rogov",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050227160665755648/4AnHQWn__normal.jpg",
+        "public_metrics": {
+          "followers_count": 6049,
+          "following_count": 3343,
+          "like_count": 81111,
+          "listed_count": 27,
+          "media_count": 51,
+          "tweet_count": 71257
+        },
+        "username": "i_mika_el",
+        "verified": false
+      },
+      {
+        "id": "2116480752246489088",
+        "name": "Imran Patel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116483383018848256/MjLynujZ_normal.jpg",
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 39,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 135
+        },
+        "username": "imranpatel_si",
+        "verified": false
+      },
+      {
+        "id": "1551669242206060544",
+        "name": "WrongTurnBunny",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106319072585539584/CI_bNFtU_normal.jpg",
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 35,
+          "like_count": 537,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 55
+        },
+        "username": "wrongturnbunny",
+        "verified": false
+      },
+      {
+        "id": "1624058260864081920",
+        "name": "Questions That Matter",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1667956405272211456/TUT_p9LE_normal.jpg",
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 180,
+          "like_count": 1538,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 347
+        },
+        "username": "askingQTM",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121402392738419184",
+    "next_token": "b26v89c19zqg8o3juzovr9uzi8r92xanldnryk2qfcn7h",
+    "oldest_id": "2121351247374717078",
+    "result_count": 15
+  }
+}
