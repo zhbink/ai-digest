@@ -149,7 +149,119 @@
         "text": "Keep Opus 5.5 as your coding default in Claude Code. On 52 coding tasks in Claude Code 2.1.322, Fable 5.2 solved about as many (82.7% vs 84.6%) but cost 2.80x as much per solved task.\n\nOpus already solves most of these tasks, though, so telling the two apart will take harder ones.\n\nhttps://t.co/SfIvr9pHNg"
       },
       "x_long": true,
-      "article_summary_zh": "Garry Tan 开源了 g-harness-evals 评测。在 Claude Code 2.1.322 的 52 个编程任务上，Fable 5.2 解题率约 82.7%，Opus 5.5 约 84.6%，但 Fable 每个解出任务的成本是 Opus 的 2.80 倍。由于这些题对 Opus 已经不够难，报告认为目前还不宜把 Fable 5.2 设成编程默认模型。"
+      "article_summary_zh": "Garry Tan 开源了 g-harness-evals 评测。在 Claude Code 2.1.322 的 52 个编程任务上，Fable 5.2 解题率约 82.7%，Opus 5.5 约 84.6%，但 Fable 每个解出任务的成本是 Opus 的 2.80 倍。由于这些题对 Opus 已经不够难，报告认为目前还不宜把 Fable 5.2 设成编程默认模型。",
+      "attached_posts": [
+        {
+          "id": "2121785290910208468",
+          "url": "https://x.com/howie_serious/status/2121785290910208468",
+          "handle": "howie_serious",
+          "display_name": "howie.serious",
+          "avatar": "https://pbs.twimg.com/profile_images/738174666309652480/UgeKnQOm_normal.jpg",
+          "verified": true,
+          "followers": 53336,
+          "created_at": "2026-11-15T02:00:08.000Z",
+          "lang": "zh",
+          "text": "尝试了 fable 5.2 ，然后还是用 opus 5.5 作为默认干活模型。\n\n二者的任务完成率接近（84.6% 对 82.7%），但 fable 5.2 单任务成本达 opus 5.5 的 2.80 倍\n\n何况，fable 模型带来的封号风险要大很多🤣 https://t.co/M9U5ArCdIC https://t.co/yrnwb5ePjE",
+          "text_zh": "尝试了 fable 5.2 ，然后还是用 opus 5.5 作为默认干活模型。\n二者的任务完成率接近（84.6% 对 82.7%），但 fable 5.2 单任务成本达 opus 5.5 的 2.80 倍\n何况，fable 模型带来的封号风险要大很多🤣",
+          "summary_zh": "howie.serious 试用后仍把 Opus 5.5 当默认干活模型，并补充 Fable 还带有更高的封号风险",
+          "relation_zh": "这条直接引用母帖的解题率和成本数字，又加上了一个评测里没写的实际顾虑：账号安全。",
+          "metrics": {
+            "likes": 11,
+            "retweets": 0,
+            "replies": 13,
+            "quotes": 1,
+            "bookmarks": 4,
+            "views": 4383
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1200,
+              "h": 675,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXIYeLMbsAAe0px.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/howie_serious/status/2121785290910208468/photo/1",
+            "https://twitter.com/garrytan/status/2121464508225053153"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2121464508225053153",
+          "article_title": null,
+          "attached_at": "2026-11-15T06:03:14.125Z"
+        },
+        {
+          "id": "2121732470118965298",
+          "url": "https://x.com/addyosmani/status/2121732470118965298",
+          "handle": "addyosmani",
+          "display_name": "Addy Osmani",
+          "avatar": "https://pbs.twimg.com/profile_images/2090232066021769216/IwGLjoSy_normal.jpg",
+          "verified": true,
+          "followers": 496091,
+          "created_at": "2026-11-14T22:30:15.000Z",
+          "lang": "en",
+          "text": "Opus 5.5 at medium is a great daily driver. \n\nIf it struggles, raise the effort before you switch models. Otherwise Fable 5.2 is good for the genuinely hard stuff (big migrations, long unattended runs).\n\nI wrote more about how to pick a model: https://t.co/vTCQAifmRq https://t.co/xJwopohyj2",
+          "text_zh": "Opus 5.5 开在 medium 上就是很好的日常主力。如果它卡住了，先提高 effort，再考虑换模型。Fable 5.2 更适合真正难的活（大迁移、长时间无人值守任务）。\n\n我另外写了一篇关于怎么选模型的文章。",
+          "summary_zh": "Addy Osmani 建议：日常把 Opus 5.5 开在 medium，卡住时先提高 effort，再把 Fable 5.2 留给大迁移和长时间无人值守任务",
+          "relation_zh": "他直接引用了 Garry 的评测，把「不要把 Fable 当默认」写成一套选模型顺序，并链到自己的选型文章。",
+          "metrics": {
+            "likes": 674,
+            "retweets": 0,
+            "replies": 110,
+            "quotes": 6,
+            "bookmarks": 268,
+            "views": 39391
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://claude.dev/blog/which-claude-model-should-you-build-with/",
+            "https://twitter.com/garrytan/status/2121464508225053153"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2121464508225053153",
+          "article_title": null,
+          "attached_at": "2026-11-15T06:03:14.125Z"
+        },
+        {
+          "id": "2121440332516913216",
+          "url": "https://x.com/TiagerBao/status/2121440332516913216",
+          "handle": "TiagerBao",
+          "display_name": "旺旺",
+          "avatar": "https://pbs.twimg.com/profile_images/1840689453582446592/Y77oEhBg_normal.jpg",
+          "verified": true,
+          "followers": 3629,
+          "created_at": "2026-11-14T03:09:24.000Z",
+          "lang": "zh",
+          "text": "Claude Code 不用全程跑最贵的模型，也能在关键时刻调用 Fable 5.2。\n\n发现一个配置：Fable 5.2 Advisor。\n\n思路很简单：主模型继续执行任务，遇到关键决策再请 Fable 5.2 提建议。\n\n主要用在三个场景：\n开始编码前，检查技术方案\n连续报错时，分析问题并调整方向\n任务完成前，检查是否遗漏关键问题\n\n安装命令：\nnpx claude-code-templates@latest --setting model/fable-5-2-advisor\n\nFable 只在被调用时单独计费，不需要每轮都使用它。\n\n但多一次模型调用就有额外成本，是否真正省钱，还得看返工率和总 Token 消耗。\n\n你更倾向于全程使用最强模型，还是普通模型执行、强模型负责关键决策？\n项目：https://t.co/6c8W4qvOfZ\n\n#ClaudeCode #AI #Agent",
+          "text_zh": "Claude Code 不用全程跑最贵的模型，也能在关键时刻调用 Fable 5.2。\n\n发现一个配置：Fable 5.2 Advisor。\n思路很简单：主模型继续执行任务，遇到关键决策再请 Fable 5.2 提建议。\n主要用在三个场景：\n开始编码前，检查技术方案\n连续报错时，分析问题并调整方向\n任务完成前，检查是否遗漏关键问题\n安装命令： npx claude-code-templates@latest --setting model/fable-5-2-advisor\nFable 只在被调用时单独计费，不需要每轮都使用它。\n但多一次模型调用就有额外成本，是否真正省钱，还得看返工率和总 Token 消耗。\n你更倾向于全程使用最强模型，还是普通模型执行、强模型负责关键决策？",
+          "summary_zh": "旺旺介绍 Fable 5.2 Advisor 配置：主模型继续干活，只在选定方案、连续报错和收尾检查时再调用 Fable",
+          "relation_zh": "母帖指出 Fable 每个解出任务的成本约为 Opus 的 2.80 倍，这条给出一种少付费、只在关键决策调用它的用法，也提醒多一次调用未必真省钱。",
+          "metrics": {
+            "likes": 526,
+            "retweets": 0,
+            "replies": 18,
+            "quotes": 2,
+            "bookmarks": 639,
+            "views": 33363
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-15T06:03:14.125Z"
+        }
+      ]
     },
     {
       "id": "2121613402846204253",
@@ -271,7 +383,145 @@
       "is_article": false,
       "external_url": "https://twitter.com/ceointerview/status/2121291797473468421",
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2121291797473468421",
+          "url": "https://x.com/CEOinterview/status/2121291797473468421",
+          "handle": "CEOinterview",
+          "display_name": "CEOInterviews.AI",
+          "avatar": "https://pbs.twimg.com/profile_images/2100965254432018434/4BoKTxvr_normal.jpg",
+          "verified": true,
+          "followers": 5919,
+          "created_at": "2026-11-13T17:19:10.000Z",
+          "lang": "en",
+          "text": "Dylan Patel says Jensen personally talked tiny suppliers into letting Nvidia buy up their supply, and with him gone Google is already begging them for capacity\n\n\"Jensen had complete foresight and understood the demand required and went to all of these executives, even of tiny companies where they only generate a few hundred million dollars of revenue but they have an important subcomponent.\"\n\n\"He convinced them to let him buy the supply and build it all out...\"\n\n\"And now with Jensen gone, these companies are looking around the market and it's like, well, Google's begging for more capacity from the whole supply chain.\"\n\n\"And without Jensen, can they maintain technology advantages given they're only a year ahead of their biggest competitors? It's not like the gap is massive.\"",
+          "text_zh": "Dylan Patel 说，黄仁勋曾亲自说服那些营收只有几亿美元、却握着关键零部件的小供应商，让英伟达买下并扩建这些产能；他离开后，谷歌已经在整条供应链上求产能。\n\n“黄仁勋有完整的预判，清楚未来需要多少需求，于是去找了所有这些高管，哪怕是营收只有几亿美元、却握着重要子部件的小公司。”\n\n“他说服他们把产能卖给他，并把产线建起来……”\n\n“现在黄仁勋不在了，这些公司环顾市场，发现谷歌正在向整条供应链求更多产能。”\n\n“没有黄仁勋，他们还能不能守住技术优势？毕竟领先最大的竞争对手大概只有一年，差距并没有那么大。”",
+          "summary_zh": "Dylan Patel 说，黄仁勋曾亲自说服营收仅数亿美元的小供应商把关键零部件产能卖给英伟达；他离开后，谷歌已在整条供应链上求产能",
+          "relation_zh": "这是马斯克转引的原视频。SemiAnalysis 的 Dylan Patel 把「握手成交」讲成了具体动作，并警告英伟达的技术领先可能只剩大约一年。",
+          "metrics": {
+            "likes": 3939,
+            "retweets": 0,
+            "replies": 122,
+            "quotes": 61,
+            "bookmarks": 875,
+            "views": 4372106
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1280,
+              "h": 720,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2121291724245106688/vid/avc1/1280x720/UZ64SYcVW5q_uaIP.mp4?tag=16",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2121291724245106688/img/nkPGD926C_3oLnx-.jpg",
+              "duration_ms": 90864
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/CEOinterview/status/2121291797473468421/video/1",
+            "https://twitter.com/1985918754040233984/status/2121227504472277409"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2121227504472277409",
+          "article_title": null,
+          "attached_at": "2026-11-15T06:03:14.124Z"
+        },
+        {
+          "id": "2121462524281282700",
+          "url": "https://x.com/SemiAnalysis_/status/2121462524281282700",
+          "handle": "SemiAnalysis_",
+          "display_name": "SemiAnalysis",
+          "avatar": "https://pbs.twimg.com/profile_images/2062973370157694976/CdplNoi1_normal.jpg",
+          "verified": true,
+          "followers": 186627,
+          "created_at": "2026-11-14T04:37:35.000Z",
+          "lang": "en",
+          "text": "“Jensen has been incredibly good at retaining talent. There are very few high-profile departures from the NVIDIA executive team.”\n“This is probably when the sharks are in the water. The VCs are going to come in and offer people billions of dollars to start their own chip companies, their own neolabs.”\n\n“If a year from now we’ve seen a bunch of departures from NVIDIA, I’m going to be really concerned about their future.”\n\n“Steve Jobs is a pure visionary, and Jensen is negotiating every supply chain contract.”\n“If there’s any manufacturing issues with Rubin, people are distracted and Jensen’s not there. Things get solved slower, things get solved by committees.”",
+          "text_zh": "“黄仁勋非常擅长留住人才。英伟达高管团队很少出现高调离职。”\n“现在大概就是鲨鱼入水的时候。风险投资会开出几十亿美元，请这些人去创办自己的芯片公司、自己的 neolab。”\n\n“如果一年后我们看到英伟达出现一批离职，我会非常担心它的未来。”\n\n“史蒂夫·乔布斯是纯粹的愿景型人物，而黄仁勋是在谈下每一份供应链合同。”\n“如果 Rubin 出现任何制造问题，大家又分心了，黄仁勋不在场，事情会解决得更慢，也会变成由委员会来解决。”",
+          "summary_zh": "SemiAnalysis：黄仁勋极擅长留住核心团队，他离开后风投会开出数十亿美元挖人去创办芯片公司和 neolab",
+          "relation_zh": "母帖担心供应链口头约定会流失，这条把风险从「订单」扩到「人」：黄仁勋既亲自谈妥供应链，也压住了高管离职；若明年出现一批出走，前景会更令人担心。",
+          "metrics": {
+            "likes": 1807,
+            "retweets": 0,
+            "replies": 69,
+            "quotes": 11,
+            "bookmarks": 229,
+            "views": 438814
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2121462183565438976/vid/avc1/1920x1080/ZY9_aVw5H45zb6aJ.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2121462183565438976/img/IZXPptNWiBV69-2H.jpg",
+              "duration_ms": 156416
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/SemiAnalysis_/status/2121462524281282700/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-15T06:03:14.125Z"
+        },
+        {
+          "id": "2121714696193483230",
+          "url": "https://x.com/EricLDaugh/status/2121714696193483230",
+          "handle": "EricLDaugh",
+          "display_name": "Eric Daugherty",
+          "avatar": "https://pbs.twimg.com/profile_images/1946702115037908992/NU6Ro1bl_normal.jpg",
+          "verified": true,
+          "followers": 1239989,
+          "created_at": "2026-11-14T21:19:37.000Z",
+          "lang": "en",
+          "text": "🚨 JUST IN: More than 115,000 people, including ELON MUSK, have signed a petition DEMANDING Nvidia bring back Jensen Huang\n\nOrganizers say the signers include 62,000+ shareholders and nearly 6,000 CURRENT Nvidia employees 🤯\n\nELON: \"Jensen drove supply chain brilliantly at Nvidia, but many of those deals were a handshake with Jensen, not a written contract.\"\n\n\"Without Jensen, at least some of those critical deals will be lost.\"\n\nIf not Nvidia, I hope Elon could bring him onboard for Terafab!",
+          "text_zh": "刚刚：已有超过 11.5 万人联署，要求英伟达请回黄仁勋，其中也包括埃隆·马斯克。\n\n组织方称，联署者中有 6.2 万名以上股东，以及近 6000 名英伟达在职员工。\n\n马斯克：“黄仁勋在英伟达把供应链驾驭得非常出色，但其中许多交易是跟他本人握手谈成的，并没有写成正式合同。”\n“没有黄仁勋，至少一部分关键交易会丢掉。”\n\n如果英伟达不请回，我希望马斯克能把他带到 Terafab！",
+          "summary_zh": "已有超过 11.5 万人联署要求英伟达请回黄仁勋，组织方称其中包括马斯克、6.2 万名股东和近 6000 名在职员工",
+          "relation_zh": "这条把马斯克的供应链警告放进正在发酵的请愿：他不仅发了那则帖子，还被算作联署者之一，并被呼吁若英伟达不请回，就把黄仁勋带到 Terafab。",
+          "metrics": {
+            "likes": 1842,
+            "retweets": 0,
+            "replies": 87,
+            "quotes": 18,
+            "bookmarks": 66,
+            "views": 55486
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1440,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2121714601028960256/vid/avc1/1440x1080/GaKLmis94RJ8OSaM.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2121714601028960256/img/IyceLUBTsucwcADL.jpg",
+              "duration_ms": 10066
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/EricLDaugh/status/2121714696193483230/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-15T06:03:14.125Z"
+        }
+      ]
     },
     {
       "id": "2121644169462681818",
@@ -1069,7 +1319,104 @@
       "external_url": "https://claude.com/resources/articles/building-always-on-agents",
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "Anthropic 这篇指南把「始终在线」写成一套工程结构，而不是让模型全天不停推理。核心包括：用事件收件箱缓冲外部请求、用定时器把到期任务重新投递进收件箱、用精简记忆和定期整理保证连续性，并在高风险动作上保留人工审批。对要做值班式 Agent 的团队，这是目前最清晰的官方蓝图之一。"
+      "article_summary_zh": "Anthropic 这篇指南把「始终在线」写成一套工程结构，而不是让模型全天不停推理。核心包括：用事件收件箱缓冲外部请求、用定时器把到期任务重新投递进收件箱、用精简记忆和定期整理保证连续性，并在高风险动作上保留人工审批。对要做值班式 Agent 的团队，这是目前最清晰的官方蓝图之一。",
+      "attached_posts": [
+        {
+          "id": "2121328737174388847",
+          "url": "https://x.com/TekonBurns/status/2121328737174388847",
+          "handle": "TekonBurns",
+          "display_name": "Tekon Burns",
+          "avatar": "https://pbs.twimg.com/profile_images/2115219941905625088/mfgFCATS_normal.jpg",
+          "verified": true,
+          "followers": 4000,
+          "created_at": "2026-11-13T19:45:57.000Z",
+          "lang": "en",
+          "text": "Anthropic just published an engineering guide on how to build always-on agents.\n\nThe biggest misconception: an always-on agent does NOT run 24/7. It sleeps almost all day, wakes up for short runs, saves state, and goes back to sleep.\n\nThe 5 core pieces I distilled:\n\n1. Event Inbox\nPut a database table between webhooks and your agent. Acknowledge webhooks fast, run only one active worker per user so runs never collide, and batch rapid messages together.\n\n2. Timers\nKeep timers in a separate table from the inbox. Split them into one-off follow-ups and recurring schedules. A background poller drops due timers into the inbox.\n\n3. Lean Memory + Dreaming\nOnly store what cannot be looked up again: user instructions, user notes, past messages, and task progress. Load a small index at wakeup, not every file. Run periodic dreaming passes to clean out stale facts.\n\n4. Unattended Permissions\nNever put raw API keys inside the agent sandbox — inject them through an outside proxy. Use Deferred Tool Calls to pause risky actions for approval without blocking the worker.\n\n5. Outbox\nQueue outgoing replies so your agent paces notifications instead of spamming users at 3 AM.\n\nhttps://t.co/1zew6WaRbE",
+          "text_zh": "Anthropic 刚发布了一份关于如何搭建始终在线 Agent 的工程指南。\n\n最大的误解是：始终在线的 Agent 并不是 24 小时一直跑。它几乎整天都在睡觉，只在短暂时段醒来干活，保存状态，然后再睡。\n\n我提炼出的 5 个核心部件：\n\n1. 事件收件箱\n在 webhook 和 Agent 之间加一张数据库表。先快速确认 webhook，每个用户同一时刻只跑一个活跃 worker，避免任务互相撞车，并把短时间内连续到来的消息合并处理。\n\n2. 定时器\n定时器要和收件箱分表存放，分成一次性跟进和周期性任务。后台轮询器把到期的定时器丢进收件箱。\n\n3. 精简记忆 + 「做梦」\n只存无法再查到的东西：用户指令、用户笔记、过往消息和任务进度。醒来时加载一份小索引，而不是把所有文件都装进来。定期做「做梦」整理，清掉过时事实。\n\n4. 无人值守权限\n不要把原始 API 密钥放进 Agent 沙箱，而是通过外部代理注入。用 Deferred Tool Calls，在不阻塞 worker 的情况下，把高风险动作暂停下来等人审批。\n\n5. 发件箱\n把对外回复先排队，让 Agent 控制通知节奏，而不是在凌晨三点把用户刷爆。",
+          "summary_zh": "Tekon Burns 把始终在线 Agent 拆成五块：事件收件箱、定时器、精简记忆与定期「做梦」清理、无人值守权限，以及控制通知节奏的发件箱",
+          "relation_zh": "母帖点到了收件箱、定时器和记忆，这条把官方指南写成可照着做的五条工程要点，并强调始终在线并不是让模型全天空转。",
+          "metrics": {
+            "likes": 3078,
+            "retweets": 0,
+            "replies": 69,
+            "quotes": 12,
+            "bookmarks": 5656,
+            "views": 227725
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-15T06:03:14.125Z"
+        },
+        {
+          "id": "2121427594260398327",
+          "url": "https://x.com/shao__meng/status/2121427594260398327",
+          "handle": "shao__meng",
+          "display_name": "meng shao",
+          "avatar": "https://pbs.twimg.com/profile_images/2009826888072736772/faZAxCvC_normal.jpg",
+          "verified": true,
+          "followers": 37658,
+          "created_at": "2026-11-14T02:18:47.000Z",
+          "lang": "zh",
+          "text": "Claude 团队发布了一份可以照着搭的架构说明\n\n收件箱、计时器、记忆、权限、发件箱单独看都不新，很多团队早已用队列加定时任务拼出过类似的东西\n\n它真正有价值的地方，是把每个部件的职责划清楚，并明确一点：始终在线是一种使用体验，并不是让模型一直挂在线上消耗 token https://t.co/C6j1v9BRwB",
+          "text_zh": "Claude 团队发布了一份可以照着搭的架构说明\n\n收件箱、计时器、记忆、权限、发件箱单独看都不新，很多团队早已用队列加定时任务拼出过类似的东西\n\n它真正有价值的地方，是把每个部件的职责划清楚，并明确一点：始终在线是一种使用体验，并不是让模型一直挂在线上消耗 token",
+          "summary_zh": "邵盟写明：收件箱、计时器、记忆、权限、发件箱单独看都不新，真正有价值的是职责划分，以及「始终在线是体验，不是让模型一直挂着烧 token」",
+          "relation_zh": "这是中文圈里传播最广的一篇解读，把母帖里的工程指南收成一句可执行的判断，并写成可点开的长文。",
+          "metrics": {
+            "likes": 992,
+            "retweets": 0,
+            "replies": 88,
+            "quotes": 19,
+            "bookmarks": 2547,
+            "views": 142378
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://x.com/i/article/2121421287063179264"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": "Anthropic 发布 7*24 在线 Agent 架构指南：用收件箱、计时器、记忆、权限和发件箱，无人值守也能持续工作",
+          "attached_at": "2026-11-15T06:03:14.125Z"
+        },
+        {
+          "id": "2121775188639437102",
+          "url": "https://x.com/Xudong07452910/status/2121775188639437102",
+          "handle": "Xudong07452910",
+          "display_name": "Xudong Han",
+          "avatar": "https://pbs.twimg.com/profile_images/1327292688736034816/vJTxjjLU_normal.jpg",
+          "verified": true,
+          "followers": 15621,
+          "created_at": "2026-11-15T01:20:00.000Z",
+          "lang": "zh",
+          "text": "Anthropic 新发布的《Building always-on agents》非常值得关注，刚好能和之前 DeepSeek 的 Super-agent、LangChain 的 Async Subagents 放在一起理解。\n\nDeepSeek 则通过 Router 接收 GitHub、飞书等事件，在授权规则内判断是否启动任务，再交给独立 Worker 执行。\n\nLangChain 让主 Agent 保持响应，长任务交给后台 Subagent 独立运行，还能随时查看进度、修改指令。\n\nAnthropic 这次把背后的架构拆得非常细。\n\nAgent 平时休眠，收到消息、Webhook 或定时触发才唤醒，执行一轮任务，保存状态后继续休眠。\n\n整个系统围绕 5 个核心组件设计：\n\nInbox 接收事件，负责去重和失败重试。\nTimer 定时唤醒 Agent，主动跟进任务。\nMemory 保存跨 Session 的记忆和任务进度。\nPermissions 管理权限、凭据和人工审批。\nOutbox 控制何时向用户发送消息。\n\n我个人比较喜欢 Deferred Tool Call 这个设计。需要人审批时，先保存 Session，释放 Worker，等用户回复后再恢复执行，不会一直卡在那里。\n\n这几篇文章放在一起看，感觉大家越来越关注 Agent 如何持续工作，以及怎么减少人的管理负担。\n\n想自己搭 Always-on Agent 的朋友，真可以系统性的学习这篇，很多设计都能直接参考。\n\n原文：https://t.co/UkSHChhLAv",
+          "text_zh": "Anthropic 新发布的《Building always-on agents》非常值得关注，刚好能和之前 DeepSeek 的 Super-agent、LangChain 的 Async Subagents 放在一起理解。\n\nDeepSeek 则通过 Router 接收 GitHub、飞书等事件，在授权规则内判断是否启动任务，再交给独立 Worker 执行。\n\nLangChain 让主 Agent 保持响应，长任务交给后台 Subagent 独立运行，还能随时查看进度、修改指令。\n\nAnthropic 这次把背后的架构拆得非常细。\n\nAgent 平时休眠，收到消息、Webhook 或定时触发才唤醒，执行一轮任务，保存状态后继续休眠。\n\n整个系统围绕 5 个核心组件设计：\n\nInbox 接收事件，负责去重和失败重试。\nTimer 定时唤醒 Agent，主动跟进任务。\nMemory 保存跨 Session 的记忆和任务进度。\nPermissions 管理权限、凭据和人工审批。\nOutbox 控制何时向用户发送消息。\n\n我个人比较喜欢 Deferred Tool Call 这个设计。需要人审批时，先保存 Session，释放 Worker，等用户回复后再恢复执行，不会一直卡在那里。\n\n这几篇文章放在一起看，感觉大家越来越关注 Agent 如何持续工作，以及怎么减少人的管理负担。\n\n想自己搭 Always-on Agent 的朋友，真可以系统性的学习这篇，很多设计都能直接参考。",
+          "summary_zh": "Xudong Han 把 Anthropic 指南与 DeepSeek Super-agent、LangChain Async Subagents 对照，并点出 Deferred Tool Call：等人审批时先释放 Worker，回复后再接着跑",
+          "relation_zh": "母帖介绍了官方基元，这条补上了和其他方案的对照，以及「需要人点头时不要把工人卡住」这个可直接借鉴的设计。",
+          "metrics": {
+            "likes": 172,
+            "retweets": 0,
+            "replies": 20,
+            "quotes": 1,
+            "bookmarks": 225,
+            "views": 13202
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-15T06:03:14.125Z"
+        }
+      ]
     },
     {
       "id": "2121702216880849338",
