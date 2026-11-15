@@ -1,0 +1,881 @@
+{
+  "data": [
+    {
+      "author_id": "2094394045057683456",
+      "created_at": "2026-11-15T03:01:05.000Z",
+      "edit_history_tweet_ids": [
+        "2121800626258546822"
+      ],
+      "id": "2121800626258546822",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121516132641505658",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 这招好用，便宜的模型负责干活，贵的只拿来审方案。有点像团队里请一位资深的人只看最后一版，不用全程跟。",
+      "url": "https://x.com/wongshinchen/status/2121800626258546822"
+    },
+    {
+      "author_id": "1742045432728154112",
+      "created_at": "2026-11-15T02:42:24.000Z",
+      "edit_history_tweet_ids": [
+        "2121795926545322315"
+      ],
+      "id": "2121795926545322315",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121516132641505658",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 干活用opus 挑刺才叫fable 省下不少",
+      "url": "https://x.com/mnscz133680/status/2121795926545322315"
+    },
+    {
+      "author_id": "1998230620615671808",
+      "created_at": "2026-11-15T02:13:45.000Z",
+      "edit_history_tweet_ids": [
+        "2121788714737365043"
+      ],
+      "id": "2121788714737365043",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121516132641505658",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 直接在提示词里搞起实习生起草、总监最后签字盖章的流程了",
+      "url": "https://x.com/Hsanli_x/status/2121788714737365043"
+    },
+    {
+      "author_id": "1719698063911186432",
+      "created_at": "2026-11-15T01:38:46.000Z",
+      "edit_history_tweet_ids": [
+        "2121779911698645141"
+      ],
+      "id": "2121779911698645141",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121516132641505658",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 这招狠，贵的模型只用来验收，日常推理用耐用的。既省钱，关键处又不将就，我准备去试试。",
+      "url": "https://x.com/jilongzhiqixia/status/2121779911698645141"
+    },
+    {
+      "author_id": "1050974076288655360",
+      "created_at": "2026-11-15T01:21:33.000Z",
+      "edit_history_tweet_ids": [
+        "2121775578428887356"
+      ],
+      "id": "2121775578428887356",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 32,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121516132641505658",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 向阳老师这个思路很赞！大模型写草案 + 高阶模型专项做评审/合规质检，相当于在团队里配了一个专职质检员。我们在做温县太极与怀药出海时，也是让专员跑初稿，专门调一个合规智能体卡死‘零功效词/纯慢生活仪式感’红线，低成本又极稳。",
+      "url": "https://x.com/niu_lang/status/2121775578428887356"
+    },
+    {
+      "author_id": "1820288141724672002",
+      "created_at": "2026-11-15T00:33:48.000Z",
+      "edit_history_tweet_ids": [
+        "2121763560808485038"
+      ],
+      "id": "2121763560808485038",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121516132641505658",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 这招真对我胃口，方案让 opus 5.5 写完，再请它调 Fable 5.2 来审一遍，贵模型只出在评审环节，钱省了，边角也补上了。",
+      "url": "https://x.com/yuanbaopower/status/2121763560808485038"
+    },
+    {
+      "author_id": "1661276982573690880",
+      "created_at": "2026-11-14T19:53:44.000Z",
+      "edit_history_tweet_ids": [
+        "2121693080097300897"
+      ],
+      "id": "2121693080097300897",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 17,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121516132641505658",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 非常实用的小技巧",
+      "url": "https://x.com/meow2149/status/2121693080097300897"
+    },
+    {
+      "author_id": "1373904405452312581",
+      "created_at": "2026-11-14T18:22:06.000Z",
+      "edit_history_tweet_ids": [
+        "2121670022649303437"
+      ],
+      "id": "2121670022649303437",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 20,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121643393310990617",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 @AHpxEx 诶？我平时直接 /advisor Fable 5.2 难道都去了5.1？",
+      "url": "https://x.com/thomaszhou_/status/2121670022649303437"
+    },
+    {
+      "author_id": "873287362242949122",
+      "created_at": "2026-11-14T17:21:21.000Z",
+      "edit_history_tweet_ids": [
+        "2121654734583173369"
+      ],
+      "id": "2121654734583173369",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121516132641505658",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 评估和执行分开，我这边也在这么做：主窗口定要求，Codex干本机活。今天网页录制一开始只有2fps，验收后改到14.17fps。换模型提意见有用，但最后还得拿实收帧数、重复帧这些结果再核一次。",
+      "url": "https://x.com/RuichengGao/status/2121654734583173369"
+    },
+    {
+      "author_id": "2112065993837367296",
+      "created_at": "2026-11-14T17:10:02.000Z",
+      "edit_history_tweet_ids": [
+        "2121651883572146186"
+      ],
+      "id": "2121651883572146186",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121516132641505658",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 自己摇大哥",
+      "url": "https://x.com/Chensisyphus/status/2121651883572146186"
+    },
+    {
+      "author_id": "1724721208992894976",
+      "created_at": "2026-11-14T16:42:53.000Z",
+      "edit_history_tweet_ids": [
+        "2121645051361321077"
+      ],
+      "id": "2121645051361321077",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121516132641505658",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 可以帮我排查一下我的账号为什么kyc吗，5x，注册时时间3到4个月，网络测试机房90纯净，没有换过IP，无泄漏，之前一直都是用opus，这周开始使用fable5.2，任务是使用Claudememory文章去重构我自己的memory项目，做完基准测试后让它分析结果，分析完之后就kyc了，上下文他读取了我yaml中DeepSeek配置",
+      "url": "https://x.com/Jack0812408/status/2121645051361321077"
+    },
+    {
+      "author_id": "6690032",
+      "created_at": "2026-11-14T16:36:17.000Z",
+      "edit_history_tweet_ids": [
+        "2121643393310990617"
+      ],
+      "id": "2121643393310990617",
+      "in_reply_to_user_id": "931748183796887552",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 227,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121636054776357055",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AHpxEx 只能选 fable5.1 ，有点奇怪",
+      "url": "https://x.com/vista8/status/2121643393310990617"
+    },
+    {
+      "author_id": "1978001990828625920",
+      "created_at": "2026-11-14T16:21:34.000Z",
+      "edit_history_tweet_ids": [
+        "2121639686393434423"
+      ],
+      "id": "2121639686393434423",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 19,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121516132641505658",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 Fable 太贵就让 Opus 把方案做完、再叫 Fable 来评，这个用法巧。但评估智能体也是按量计费的，等于贵模型还是跑了一遍，只是主流程省了。适合偶发复盘，不适合当日常默认。",
+      "url": "https://x.com/jiangtao0628/status/2121639686393434423"
+    },
+    {
+      "author_id": "931748183796887552",
+      "created_at": "2026-11-14T16:07:08.000Z",
+      "edit_history_tweet_ids": [
+        "2121636054776357055"
+      ],
+      "id": "2121636054776357055",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 215,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121516132641505658",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 为什么不用 /advisor",
+      "url": "https://x.com/AHpxEx/status/2121636054776357055"
+    },
+    {
+      "author_id": "2833481",
+      "created_at": "2026-11-14T15:51:43.000Z",
+      "edit_history_tweet_ids": [
+        "2121632177582674323"
+      ],
+      "id": "2121632177582674323",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 95,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121516132641505658",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 最方便的还是直接将advisor设置为Fable",
+      "url": "https://x.com/richardchang/status/2121632177582674323"
+    },
+    {
+      "author_id": "1954035469135785984",
+      "created_at": "2026-11-14T15:45:31.000Z",
+      "edit_history_tweet_ids": [
+        "2121630616630567091"
+      ],
+      "id": "2121630616630567091",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 151,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121516132641505658",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 让另一个模型来评方案，等于把审查从同一条生成轨迹里拆出去，这点没问题。不过要是评估智能体还是读同一份上下文、同一套成功标准，它很容易把原方案里已经写顺的假设再点头确认一遍。有没有强制它只看目标和约束、不看原论证？",
+      "url": "https://x.com/tao_an_hpu/status/2121630616630567091"
+    },
+    {
+      "author_id": "2108757763438592000",
+      "created_at": "2026-11-14T15:24:53.000Z",
+      "edit_history_tweet_ids": [
+        "2121625425147551775"
+      ],
+      "id": "2121625425147551775",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 48,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121516132641505658",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 你的Claude居然还这么坚挺，莫非有什么魔法？",
+      "url": "https://x.com/Mikewake2000/status/2121625425147551775"
+    },
+    {
+      "author_id": "1093686009533935616",
+      "created_at": "2026-11-14T14:59:09.000Z",
+      "edit_history_tweet_ids": [
+        "2121618948684955752"
+      ],
+      "id": "2121618948684955752",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 126,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121516132641505658",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 虽然但是，我用了oups4.8。因为fable 5.2和opus5.5都不支持网络安全防御",
+      "url": "https://x.com/hasaki31949212/status/2121618948684955752"
+    },
+    {
+      "author_id": "2055195732773335040",
+      "created_at": "2026-11-14T14:48:39.000Z",
+      "edit_history_tweet_ids": [
+        "2121616303618502715"
+      ],
+      "id": "2121616303618502715",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 80,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121516132641505658",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 这招像考完让学霸同桌帮忙检查😂 贵的模型只拿来审方案，性价比确实高。好奇它一般能补出几条你自己没想到的？",
+      "url": "https://x.com/PeihanLi090430/status/2121616303618502715"
+    },
+    {
+      "author_id": "2116837157319090177",
+      "created_at": "2026-11-14T14:24:28.000Z",
+      "edit_history_tweet_ids": [
+        "2121610218035351938"
+      ],
+      "id": "2121610218035351938",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 23,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121516132641505658",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 Using the expensive model as a reviewer instead of a builder is the smart way to spend the budget. The cheap model does the drafting, the strong one only checks the work - you get most of the quality for a fraction of the tokens.",
+      "url": "https://x.com/LazyLiBoss/status/2121610218035351938"
+    },
+    {
+      "author_id": "2026628618550652928",
+      "created_at": "2026-11-14T13:56:20.000Z",
+      "edit_history_tweet_ids": [
+        "2121603139191406757"
+      ],
+      "id": "2121603139191406757",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 144,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121516132641505658",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 只有我关心怎么稳定用上Claude吗",
+      "url": "https://x.com/DylanWong_sky/status/2121603139191406757"
+    },
+    {
+      "author_id": "1107143330641506304",
+      "created_at": "2026-11-14T13:52:20.000Z",
+      "edit_history_tweet_ids": [
+        "2121602131434332669"
+      ],
+      "id": "2121602131434332669",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 94,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121516132641505658",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 这样和 /advisor 有什么区别吗",
+      "url": "https://x.com/FiremanFwl/status/2121602131434332669"
+    },
+    {
+      "author_id": "2007651194001600516",
+      "created_at": "2026-11-14T13:29:52.000Z",
+      "edit_history_tweet_ids": [
+        "2121596477676167458"
+      ],
+      "id": "2121596477676167458",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 88,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121516132641505658",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 fable 5.2 高级小时工哈哈哈\n靠身价调整使用方法",
+      "url": "https://x.com/yuanzi_owO/status/2121596477676167458"
+    },
+    {
+      "author_id": "2052373733319548929",
+      "created_at": "2026-11-14T13:29:29.000Z",
+      "edit_history_tweet_ids": [
+        "2121596383744409770"
+      ],
+      "id": "2121596383744409770",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121516132641505658",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 让 Opus 干活，再喊 Fable 来挑刺，这招好，贵的只花在刀刃上，钱包谢谢你",
+      "url": "https://x.com/MathisTerr61689/status/2121596383744409770"
+    },
+    {
+      "author_id": "415492988",
+      "created_at": "2026-11-14T13:27:50.000Z",
+      "edit_history_tweet_ids": [
+        "2121595967036154283"
+      ],
+      "id": "2121595967036154283",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 102,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121516132641505658",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 这个用法很省。AA 编程 agent 榜 v2.1 上，Fable 5.2 开到 max 每题 $44.22 才 56 分，Opus 5.5 max 是 58 分。让 Opus 干活、Fable 只做一轮评审，钱花在刀刃上。评审那一步一般会多烧多少 token？",
+      "url": "https://x.com/anbulang/status/2121595967036154283"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "6690032",
+        "created_at": "2026-11-14T08:10:36.000Z",
+        "edit_history_tweet_ids": [
+          "2121516132641505658"
+        ],
+        "id": "2121516132641505658",
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 12628,
+          "like_count": 59,
+          "quote_count": 7,
+          "reply_count": 60,
+          "retweet_count": 6
+        },
+        "text": "小技巧：Fable 5.2 太贵了，还是 opus 5.5 耐用点。\n\n但做完方案后，可以说：\n\n“你可以请求你自己 Fable5.2 模型评估下方案，看还有什么补充”\n\n这时，它会调用一个智能体用 fable 5.2 评估方案。 https://t.co/RW5UXXwUnJ"
+      },
+      {
+        "author_id": "6690032",
+        "created_at": "2026-11-14T16:36:17.000Z",
+        "edit_history_tweet_ids": [
+          "2121643393310990617"
+        ],
+        "id": "2121643393310990617",
+        "in_reply_to_user_id": "931748183796887552",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 227,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121636054776357055",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@AHpxEx 只能选 fable5.1 ，有点奇怪"
+      },
+      {
+        "author_id": "931748183796887552",
+        "created_at": "2026-11-14T16:07:08.000Z",
+        "edit_history_tweet_ids": [
+          "2121636054776357055"
+        ],
+        "id": "2121636054776357055",
+        "in_reply_to_user_id": "6690032",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 215,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121516132641505658",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@vista8 为什么不用 /advisor"
+      }
+    ],
+    "users": [
+      {
+        "id": "2094394045057683456",
+        "name": "Wong Shin Chen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118889274997358592/GYBnoDRW_normal.jpg",
+        "username": "wongshinchen",
+        "verified": false
+      },
+      {
+        "id": "1742045432728154112",
+        "name": "LifeInsight",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116501191672971264/ympRXbXK_normal.jpg",
+        "username": "mnscz133680",
+        "verified": false
+      },
+      {
+        "id": "1998230620615671808",
+        "name": "Hsanli（互关）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068628897286279168/erEhMoyZ_normal.jpg",
+        "username": "Hsanli_x",
+        "verified": false
+      },
+      {
+        "id": "1719698063911186432",
+        "name": "英雄哥 | Global Observer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120568820217913344/qCMsZBHp_normal.jpg",
+        "username": "jilongzhiqixia",
+        "verified": false
+      },
+      {
+        "id": "1050974076288655360",
+        "name": "piaoliangguo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885824586203508737/UOyIjzRW_normal.jpg",
+        "username": "niu_lang",
+        "verified": false
+      },
+      {
+        "id": "1820288141724672002",
+        "name": "发量不多程序猿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841052042355490822/2C0pcyfr_normal.jpg",
+        "username": "yuanbaopower",
+        "verified": false
+      },
+      {
+        "id": "1661276982573690880",
+        "name": "meow",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115465435839864832/sSdO-kV-_normal.jpg",
+        "username": "meow2149",
+        "verified": false
+      },
+      {
+        "id": "1373904405452312581",
+        "name": "Thomas Zhou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108661644557791232/2uWUd6Gy_normal.jpg",
+        "username": "thomaszhou_",
+        "verified": false
+      },
+      {
+        "id": "873287362242949122",
+        "name": "老高特AI说",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119749300158869504/KIN7lwg-_normal.jpg",
+        "username": "RuichengGao",
+        "verified": false
+      },
+      {
+        "id": "2112065993837367296",
+        "name": "Chen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2112066896581599232/vXIiOCcb_normal.jpg",
+        "username": "Chensisyphus",
+        "verified": false
+      },
+      {
+        "id": "1724721208992894976",
+        "name": "Jack",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090003405586722816/dxoCOTTA_normal.jpg",
+        "username": "Jack0812408",
+        "verified": false
+      },
+      {
+        "id": "6690032",
+        "name": "向阳乔木",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960882043249942533/h4J39ERy_normal.jpg",
+        "username": "vista8",
+        "verified": false
+      },
+      {
+        "id": "1978001990828625920",
+        "name": "达子聊AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2112206009439866881/tNaJ6Guf_normal.jpg",
+        "username": "jiangtao0628",
+        "verified": false
+      },
+      {
+        "id": "931748183796887552",
+        "name": "破晓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036732899769425920/Z8vv_vEV_normal.jpg",
+        "username": "AHpxEx",
+        "verified": false
+      },
+      {
+        "id": "2833481",
+        "name": "RichChat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643437686831861761/YrtGx9ne_normal.jpg",
+        "username": "richardchang",
+        "verified": false
+      },
+      {
+        "id": "1954035469135785984",
+        "name": "Tao An",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046993635330445312/k05rrTZy_normal.jpg",
+        "username": "tao_an_hpu",
+        "verified": false
+      },
+      {
+        "id": "2108757763438592000",
+        "name": "Mike",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108758493352394752/A0DKSTHw_normal.jpg",
+        "username": "Mikewake2000",
+        "verified": false
+      },
+      {
+        "id": "1093686009533935616",
+        "name": "hasaki",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "username": "hasaki31949212",
+        "verified": false
+      },
+      {
+        "id": "2055195732773335040",
+        "name": "Mark li",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109092891092213760/rd6Xi4kz_normal.jpg",
+        "username": "PeihanLi090430",
+        "verified": false
+      },
+      {
+        "id": "2116837157319090177",
+        "name": "Lazy Whale",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120544610292256768/A7PNUL1H_normal.jpg",
+        "username": "LazyLiBoss",
+        "verified": false
+      },
+      {
+        "id": "2026628618550652928",
+        "name": "Dylan Wong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107425039633281024/PGh23Ikd_normal.jpg",
+        "username": "DylanWong_sky",
+        "verified": false
+      },
+      {
+        "id": "1107143330641506304",
+        "name": "Wenlin f.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049544162996035584/Bs-JDLg-_normal.jpg",
+        "username": "FiremanFwl",
+        "verified": false
+      },
+      {
+        "id": "2007651194001600516",
+        "name": "元子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034499097055666176/4MGgiSa-_normal.jpg",
+        "username": "yuanzi_owO",
+        "verified": false
+      },
+      {
+        "id": "2052373733319548929",
+        "name": "Terri Mathis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066177106447618048/Xs_MDpMI_normal.jpg",
+        "username": "MathisTerr61689",
+        "verified": false
+      },
+      {
+        "id": "415492988",
+        "name": "Chaucer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/548049782065745920/EKLazOBF_normal.jpeg",
+        "username": "anbulang",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121800626258546822",
+    "next_token": "b26v89c19zqg8o3juzovre5n4q5w7z1ffqap9fn4qv1bx",
+    "oldest_id": "2121595967036154283",
+    "result_count": 25
+  }
+}

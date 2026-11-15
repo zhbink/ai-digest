@@ -1,0 +1,601 @@
+{
+  "data": [
+    {
+      "author_id": "1889955408334442496",
+      "created_at": "2026-11-15T02:46:56.000Z",
+      "edit_history_tweet_ids": [
+        "2121797067421241678"
+      ],
+      "id": "2121797067421241678",
+      "in_reply_to_user_id": "452072245",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121784678277435536",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lxfater 有原生 dialog 摆着  怎么 AI 写弹窗还在自己造轮子？🐢",
+      "url": "https://x.com/66laoliu66/status/2121797067421241678"
+    },
+    {
+      "author_id": "1132264353011384321",
+      "created_at": "2026-11-15T02:45:00.000Z",
+      "edit_history_tweet_ids": [
+        "2121796579312959668"
+      ],
+      "id": "2121796579312959668",
+      "in_reply_to_user_id": "452072245",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121784678277435536",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lxfater 旧写法惯性被低估，查得到现代规范这点挺实在",
+      "url": "https://x.com/annightyhq/status/2121796579312959668"
+    },
+    {
+      "author_id": "1113858922677297152",
+      "created_at": "2026-11-15T02:44:35.000Z",
+      "edit_history_tweet_ids": [
+        "2121796474417857014"
+      ],
+      "id": "2121796474417857014",
+      "in_reply_to_user_id": "452072245",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121784678277435536",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lxfater 我之前让 Agent 写过一个带筛选的弹窗，它给我手搓了一整套状态管理，dialog 一个字没提……除了弹窗，表单验证这种地方它是不是也爱用老办法？",
+      "url": "https://x.com/PlayAIwithRon/status/2121796474417857014"
+    },
+    {
+      "author_id": "2110610632198516736",
+      "created_at": "2026-11-15T02:35:23.000Z",
+      "edit_history_tweet_ids": [
+        "2121794159594115107"
+      ],
+      "id": "2121794159594115107",
+      "in_reply_to_user_id": "452072245",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121784678277435536",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lxfater 随用随查才对味",
+      "url": "https://x.com/octopusaia/status/2121794159594115107"
+    },
+    {
+      "author_id": "1855108185184403457",
+      "created_at": "2026-11-15T02:29:54.000Z",
+      "edit_history_tweet_ids": [
+        "2121792781140328616"
+      ],
+      "id": "2121792781140328616",
+      "in_reply_to_user_id": "452072245",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 21,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121784678277435536",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lxfater 原生 dialog 都快被人忘了😂",
+      "url": "https://x.com/KaChengCA/status/2121792781140328616"
+    },
+    {
+      "author_id": "2117025660329959424",
+      "created_at": "2026-11-15T02:20:19.000Z",
+      "edit_history_tweet_ids": [
+        "2121790366961856614"
+      ],
+      "id": "2121790366961856614",
+      "in_reply_to_user_id": "452072245",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121784678277435536",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lxfater 这个思路好，AI 写前端老用老套路，说到底是训练数据里旧代码太多。直接给它一份最新写法的速查，比在提示词里反复叮嘱管用多了",
+      "url": "https://x.com/Xiaojiuban/status/2121790366961856614"
+    },
+    {
+      "author_id": "1830139999209340929",
+      "created_at": "2026-11-15T02:19:14.000Z",
+      "edit_history_tweet_ids": [
+        "2121790094340456642"
+      ],
+      "id": "2121790094340456642",
+      "in_reply_to_user_id": "5655712",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121789706421830125",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Asamoduo @lxfater 确实，按需读取清晰的工具说明书（Skill），比把几十个工具全塞进系统提示词里让模型自己猜稳太多了。",
+      "url": "https://x.com/bencongyyds/status/2121790094340456642"
+    },
+    {
+      "author_id": "2035380665219493888",
+      "created_at": "2026-11-15T02:18:32.000Z",
+      "edit_history_tweet_ids": [
+        "2121789920281079920"
+      ],
+      "id": "2121789920281079920",
+      "in_reply_to_user_id": "452072245",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121784678277435536",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lxfater 先让 Agent 查这个 Skill 再写弹窗，就能少堆一坨过时的 JS。原生 dialog 和 Popover 现在已经够用，Claude Code 或 Codex 装上就能随用随查。",
+      "url": "https://x.com/Thundercrazy66/status/2121789920281079920"
+    },
+    {
+      "author_id": "5655712",
+      "created_at": "2026-11-15T02:17:41.000Z",
+      "edit_history_tweet_ids": [
+        "2121789706421830125"
+      ],
+      "id": "2121789706421830125",
+      "in_reply_to_user_id": "452072245",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 27,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121784678277435536",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lxfater 给 AI 一本说明书，比让它自己瞎猜强多了。工具不用多，查得到对的那页就行。",
+      "url": "https://x.com/Asamoduo/status/2121789706421830125"
+    },
+    {
+      "author_id": "1998058202584514561",
+      "created_at": "2026-11-15T02:13:08.000Z",
+      "edit_history_tweet_ids": [
+        "2121788560751894688"
+      ],
+      "id": "2121788560751894688",
+      "in_reply_to_user_id": "452072245",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 33,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121784678277435536",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lxfater AI 写前端最爱一大坨 JS 自己造弹窗，原生 dialog 它装不认识🤡 有这个 Skill 能省不少 token",
+      "url": "https://x.com/DieselAI24/status/2121788560751894688"
+    },
+    {
+      "author_id": "1936471722343239680",
+      "created_at": "2026-11-15T02:13:02.000Z",
+      "edit_history_tweet_ids": [
+        "2121788534008799526"
+      ],
+      "id": "2121788534008799526",
+      "in_reply_to_user_id": "452072245",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 30,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121784678277435536",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lxfater 我最怕它一通操作看着挺认真，最后把简单事绕复杂了",
+      "url": "https://x.com/QQzlans/status/2121788534008799526"
+    },
+    {
+      "author_id": "1516075159169363969",
+      "created_at": "2026-11-15T02:08:41.000Z",
+      "edit_history_tweet_ids": [
+        "2121787440759480321"
+      ],
+      "id": "2121787440759480321",
+      "in_reply_to_user_id": "452072245",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121784678277435536",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lxfater 同类思路还有 Context7 MCP，按需拉各个库的最新文档。这类 Skill 值钱在有人一直维护，一停更，它教出来的也会变成旧写法。",
+      "url": "https://x.com/Easloai/status/2121787440759480321"
+    },
+    {
+      "author_id": "2254603412",
+      "created_at": "2026-11-15T02:05:26.000Z",
+      "edit_history_tweet_ids": [
+        "2121786624304652759"
+      ],
+      "id": "2121786624304652759",
+      "in_reply_to_user_id": "452072245",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121784678277435536",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lxfater Chrome要專門做個Skill才攔得住AI寫一坨舊JS 這訓練資料是凍在哪一年啊",
+      "url": "https://x.com/Utopia6199/status/2121786624304652759"
+    },
+    {
+      "author_id": "1029534461858340864",
+      "created_at": "2026-11-15T02:03:45.000Z",
+      "edit_history_tweet_ids": [
+        "2121786200235389155"
+      ],
+      "id": "2121786200235389155",
+      "in_reply_to_user_id": "452072245",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 34,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121784678277435536",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lxfater 弹窗原生就搞定，Agent还问我需不需要再加个确认按钮，尴尬",
+      "url": "https://x.com/TrainCodeMan/status/2121786200235389155"
+    },
+    {
+      "author_id": "2100198569034887168",
+      "created_at": "2026-11-15T02:03:38.000Z",
+      "edit_history_tweet_ids": [
+        "2121786169579258316"
+      ],
+      "id": "2121786169579258316",
+      "in_reply_to_user_id": "452072245",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 31,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121784678277435536",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lxfater 难怪我让AI写的弹窗那么肥，回头让它照dialog改改",
+      "url": "https://x.com/lianshangbiji/status/2121786169579258316"
+    },
+    {
+      "author_id": "1711939214261288960",
+      "created_at": "2026-11-15T02:00:01.000Z",
+      "edit_history_tweet_ids": [
+        "2121785259855425870"
+      ],
+      "id": "2121785259855425870",
+      "in_reply_to_user_id": "452072245",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 38,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121784678277435536",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lxfater AI 写弹窗爱堆 JS，多半是训练语料里 jQuery 年代的代码太多。原生 dialog 一个 showModal，Esc 关闭和背景锁定都自带了。",
+      "url": "https://x.com/super_puppet_/status/2121785259855425870"
+    },
+    {
+      "author_id": "2104561644538097664",
+      "created_at": "2026-11-15T01:58:50.000Z",
+      "edit_history_tweet_ids": [
+        "2121784960151327211"
+      ],
+      "id": "2121784960151327211",
+      "in_reply_to_user_id": "452072245",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 28,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121784678277435536",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lxfater 这个思路很好，用原生 dialog 和 Popover 能少写很多旧代码，期待更多领域都有这样的官方 Skill。",
+      "url": "https://x.com/Taogso/status/2121784960151327211"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "452072245",
+        "created_at": "2026-11-15T01:57:42.000Z",
+        "edit_history_tweet_ids": [
+          "2121784678277435536"
+        ],
+        "id": "2121784678277435536",
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 1717,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 1
+        },
+        "text": "AI 写前端时，你是不是也遇到过：一个弹窗，给你写用一大坨 JavaScript来实现？\n\nChrome 最近出了个项目，它把现代浏览器的能力、兼容性和实际写法做成 Skill，给编程 Agent 随用随查\n\n比如弹窗可以用原生 dialog，浮层可以看 Popover，少走旧代码的弯路\n\n我觉得更多领域都该有这种"
+      },
+      {
+        "author_id": "5655712",
+        "created_at": "2026-11-15T02:17:41.000Z",
+        "edit_history_tweet_ids": [
+          "2121789706421830125"
+        ],
+        "id": "2121789706421830125",
+        "in_reply_to_user_id": "452072245",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121784678277435536",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@lxfater 给 AI 一本说明书，比让它自己瞎猜强多了。工具不用多，查得到对的那页就行。"
+      }
+    ],
+    "users": [
+      {
+        "id": "1889955408334442496",
+        "name": "Remi LIN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017627760819376129/5-iCb6ZW_normal.jpg",
+        "username": "66laoliu66",
+        "verified": false
+      },
+      {
+        "id": "1132264353011384321",
+        "name": "Beyond the Obvious",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115577016200392704/6B0vLUFM_normal.jpg",
+        "username": "annightyhq",
+        "verified": false
+      },
+      {
+        "id": "1113858922677297152",
+        "name": "跟 Ron 玩 AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2114050991406436352/Z0h_2s8j_normal.jpg",
+        "username": "PlayAIwithRon",
+        "verified": false
+      },
+      {
+        "id": "2110610632198516736",
+        "name": "章鱼8̃爪铺🐙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110623530446704640/huuF0LPp_normal.jpg",
+        "username": "octopusaia",
+        "verified": false
+      },
+      {
+        "id": "1855108185184403457",
+        "name": "卡城网 KaCheng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116009018821169152/2EHw28xJ_normal.png",
+        "username": "KaChengCA",
+        "verified": false
+      },
+      {
+        "id": "2117025660329959424",
+        "name": "小久",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117346590122016768/JAJtv9Pb_normal.jpg",
+        "username": "Xiaojiuban",
+        "verified": false
+      },
+      {
+        "id": "1830139999209340929",
+        "name": "王本聪（浇友版)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095689655345889280/7MU272Hp_normal.jpg",
+        "username": "bencongyyds",
+        "verified": false
+      },
+      {
+        "id": "2035380665219493888",
+        "name": "Kevin Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117085894935236608/sesBMdXa_normal.jpg",
+        "username": "Thundercrazy66",
+        "verified": false
+      },
+      {
+        "id": "5655712",
+        "name": "Asa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101560168815484928/vU1MVNjD_normal.jpg",
+        "username": "Asamoduo",
+        "verified": false
+      },
+      {
+        "id": "1998058202584514561",
+        "name": "Diesel AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2113881170983460864/C2aHad0k_normal.jpg",
+        "username": "DieselAI24",
+        "verified": false
+      },
+      {
+        "id": "1936471722343239680",
+        "name": "YU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106299734889754624/QKp4zdrh_normal.jpg",
+        "username": "QQzlans",
+        "verified": false
+      },
+      {
+        "id": "1516075159169363969",
+        "name": "Easlo 🚀｜一人公司 × AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116909684666068992/Y6Ng5ULi_normal.jpg",
+        "username": "Easloai",
+        "verified": false
+      },
+      {
+        "id": "2254603412",
+        "name": "Utopia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065580214672044032/NiNNuuoq_normal.jpg",
+        "username": "Utopia6199",
+        "verified": false
+      },
+      {
+        "id": "1029534461858340864",
+        "name": "Code Trainer | 代码训练师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110570783399669760/9RwVTyv-_normal.jpg",
+        "username": "TrainCodeMan",
+        "verified": false
+      },
+      {
+        "id": "2100198569034887168",
+        "name": "发财姐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108355650640392192/XzTTwlPv_normal.jpg",
+        "username": "lianshangbiji",
+        "verified": false
+      },
+      {
+        "id": "1711939214261288960",
+        "name": "赛博阿童木 | CyberAtom AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2113329997708664833/GMLZQDcd_normal.jpg",
+        "username": "super_puppet_",
+        "verified": false
+      },
+      {
+        "id": "2104561644538097664",
+        "name": "TaoGSO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104987834084216833/edlw7EDc_normal.jpg",
+        "username": "Taogso",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121797067421241678",
+    "next_token": "b26v89c19zqg8o3juzovrieslg36aq71th6wkfg8vw1vh",
+    "oldest_id": "2121784960151327211",
+    "result_count": 17
+  }
+}

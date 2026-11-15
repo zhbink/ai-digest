@@ -1,0 +1,161 @@
+{
+  "data": [
+    {
+      "author_id": "2067477909204545536",
+      "created_at": "2026-11-14T23:05:24.000Z",
+      "edit_history_tweet_ids": [
+        "2121741315318911080"
+      ],
+      "id": "2121741315318911080",
+      "in_reply_to_user_id": "39622874",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121714748492570937",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@fal Useful for anyone with data residency rules. Worth spelling out on the model page: is the US-hosted endpoint priced the same as the standard one, and do edits bill per output image or per input too?",
+      "url": "https://x.com/varosity_ai/status/2121741315318911080"
+    },
+    {
+      "author_id": "2091084096697180160",
+      "created_at": "2026-11-14T22:41:30.000Z",
+      "edit_history_tweet_ids": [
+        "2121735302062760201"
+      ],
+      "id": "2121735302062760201",
+      "in_reply_to_user_id": "39622874",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121714748492570937",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@fal Seedream Pro now running on US infrastructure feels impressively fast",
+      "url": "https://x.com/ApexAITech/status/2121735302062760201"
+    },
+    {
+      "author_id": "1348011282",
+      "created_at": "2026-11-14T21:55:06.000Z",
+      "edit_history_tweet_ids": [
+        "2121723625132999152"
+      ],
+      "id": "2121723625132999152",
+      "in_reply_to_user_id": "39622874",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 34,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121714748492570937",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@fal Great job fal",
+      "url": "https://x.com/Safy__H/status/2121723625132999152"
+    },
+    {
+      "author_id": "39622874",
+      "created_at": "2026-11-14T21:19:50.000Z",
+      "edit_history_tweet_ids": [
+        "2121714750413496661"
+      ],
+      "id": "2121714750413496661",
+      "in_reply_to_user_id": "39622874",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1021,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121714748492570937",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Try it now.\n\nText to image: https://t.co/yo3jIj4Uhf\nImage edit: https://t.co/op4W1zamr5",
+      "url": "https://x.com/fal/status/2121714750413496661"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "39622874",
+        "created_at": "2026-11-14T21:19:50.000Z",
+        "edit_history_tweet_ids": [
+          "2121714748492570937"
+        ],
+        "id": "2121714748492570937",
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 3607,
+          "like_count": 50,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "text": "Seedream 5.0 Pro is now available on US-hosted infrastructure on fal.\n\nIt joins Seedance 2.5 and others in our lineup of US-hosted models, enabling you to generate and edit AI images with inference running entirely in the United States.\n\nAvailable now via the fal API. https://t.co/RqcPYOaK4x"
+      }
+    ],
+    "users": [
+      {
+        "id": "2067477909204545536",
+        "name": "Varosity",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068591016236716032/9n0cVfem_normal.jpg",
+        "username": "varosity_ai",
+        "verified": false
+      },
+      {
+        "id": "2091084096697180160",
+        "name": "ApexAiTech",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2111725819949445120/I5DmTk0m_normal.jpg",
+        "username": "ApexAITech",
+        "verified": false
+      },
+      {
+        "id": "1348011282",
+        "name": "0xSafy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105386338304356352/Z9lXestm_normal.jpg",
+        "username": "Safy__H",
+        "verified": false
+      },
+      {
+        "id": "39622874",
+        "name": "fal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836456388937285632/OFsq77aX_normal.jpg",
+        "username": "fal",
+        "verified": true
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121741315318911080",
+    "next_token": "b26v89c19zqg8o3juzovricp2g1bjr9z192eicluau0l9",
+    "oldest_id": "2121714750413496661",
+    "result_count": 4
+  }
+}

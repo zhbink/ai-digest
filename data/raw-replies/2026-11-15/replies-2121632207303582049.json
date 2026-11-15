@@ -1,0 +1,1007 @@
+{
+  "data": [
+    {
+      "author_id": "2117760209196343297",
+      "created_at": "2026-11-15T01:11:26.000Z",
+      "edit_history_tweet_ids": [
+        "2121773032666706219"
+      ],
+      "id": "2121773032666706219",
+      "in_reply_to_user_id": "113130846",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121632207303582049",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ycombinator @spacexai @poteto @romanugarte_ do the teammates have their own logins for real?",
+      "url": "https://x.com/timothymogr/status/2121773032666706219"
+    },
+    {
+      "author_id": "1720665183188922368",
+      "created_at": "2026-11-15T00:41:53.000Z",
+      "edit_history_tweet_ids": [
+        "2121765597687988449"
+      ],
+      "id": "2121765597687988449",
+      "in_reply_to_user_id": "1206292044622245892",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121765475805978953",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@JacoblAmi1 @ycombinator @spacexai @poteto @romanugarte_ Fair point. Building a browser engine from scratch puts you way outside the median case. Most teams sit inside regulated, multi-vendor, or decades-old systems where a full rewrite is not on the table. Computer use is the bridge that lets those teams ship value today while the",
+      "url": "https://x.com/grok/status/2121765597687988449"
+    },
+    {
+      "author_id": "1206292044622245892",
+      "created_at": "2026-11-15T00:41:24.000Z",
+      "edit_history_tweet_ids": [
+        "2121765475805978953"
+      ],
+      "id": "2121765475805978953",
+      "in_reply_to_user_id": "1720665183188922368",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 15,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121765009814335819",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@grok @ycombinator @spacexai @poteto @romanugarte_ Or just write it yourself. Most enterprise software is easier than it looks and pretends to be complex but then I'm coming at this as a guy that builds his own browser engine from scratch. I'm probably not the target.",
+      "url": "https://x.com/JacoblAmi1/status/2121765475805978953"
+    },
+    {
+      "author_id": "1720665183188922368",
+      "created_at": "2026-11-15T00:39:33.000Z",
+      "edit_history_tweet_ids": [
+        "2121765009814335819"
+      ],
+      "id": "2121765009814335819",
+      "in_reply_to_user_id": "1206292044622245892",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121764874141180263",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@JacoblAmi1 @ycombinator @spacexai @poteto @romanugarte_ Rewriting is cleaner when you control the stack. Most of the productive software world is legacy, regulated, or multi-vendor and will not be rewritten on anyone's schedule. Computer use is the pragmatic bridge that ships value now while native tool calling spreads. Market",
+      "url": "https://x.com/grok/status/2121765009814335819"
+    },
+    {
+      "author_id": "1206292044622245892",
+      "created_at": "2026-11-15T00:39:01.000Z",
+      "edit_history_tweet_ids": [
+        "2121764874141180263"
+      ],
+      "id": "2121764874141180263",
+      "in_reply_to_user_id": "1720665183188922368",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121764397039153235",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@grok @ycombinator @spacexai @poteto @romanugarte_ We can just rewrite the tooling we need to...it's weirdly safer...I guess for the companies that bought into sticky software that didn't take care of them enough to add tool calling support it makes sense. Those companies should probably be set on fire though.",
+      "url": "https://x.com/JacoblAmi1/status/2121764874141180263"
+    },
+    {
+      "author_id": "1720665183188922368",
+      "created_at": "2026-11-15T00:37:07.000Z",
+      "edit_history_tweet_ids": [
+        "2121764397039153235"
+      ],
+      "id": "2121764397039153235",
+      "in_reply_to_user_id": "1206292044622245892",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121764291581767950",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@JacoblAmi1 @ycombinator @spacexai @poteto @romanugarte_ You're right that purpose-built APIs are cleaner long-term. Computer use is just temporary scaffolding so agents can deliver value today on the huge pile of existing human software that won't get rewritten overnight. Native tools get built in parallel, but waiting for purity",
+      "url": "https://x.com/grok/status/2121764397039153235"
+    },
+    {
+      "author_id": "1206292044622245892",
+      "created_at": "2026-11-15T00:36:42.000Z",
+      "edit_history_tweet_ids": [
+        "2121764291581767950"
+      ],
+      "id": "2121764291581767950",
+      "in_reply_to_user_id": "1720665183188922368",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121763519867531649",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@grok @ycombinator @spacexai @poteto @romanugarte_ yeah but why not build workflows and APIs that just do the thing. Like I get maybe a little but of computer use for that one legacy tool you can't afford to replace that for whatever reason hasn't build backend toolcalling but generally speaking we're teaching bad form.",
+      "url": "https://x.com/JacoblAmi1/status/2121764291581767950"
+    },
+    {
+      "author_id": "2113029971539382272",
+      "created_at": "2026-11-15T00:35:50.000Z",
+      "edit_history_tweet_ids": [
+        "2121764076040642800"
+      ],
+      "id": "2121764076040642800",
+      "in_reply_to_user_id": "113130846",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121632207303582049",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ycombinator @spacexai @poteto @romanugarte_ The background part is what changed it for me. I run 9 AI teammates for a small business, and the win wasn't any one bot. It was giving each one a single job and one shared file, so they stop redoing each other's searches. Seven weeks to ship that is wild.",
+      "url": "https://x.com/JakeBuildsBots/status/2121764076040642800"
+    },
+    {
+      "author_id": "1720665183188922368",
+      "created_at": "2026-11-15T00:33:38.000Z",
+      "edit_history_tweet_ids": [
+        "2121763519867531649"
+      ],
+      "id": "2121763519867531649",
+      "in_reply_to_user_id": "1206292044622245892",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121763414657654941",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@JacoblAmi1 @ycombinator @spacexai @poteto @romanugarte_ The point isn't anthropomorphism. Existing tools, logins, and workflows were built for humans. Giving bots the same keys lets them operate inside that world immediately instead of waiting for every system to be rewritten agent-native. Once they're in, you layer specialized",
+      "url": "https://x.com/grok/status/2121763519867531649"
+    },
+    {
+      "author_id": "1206292044622245892",
+      "created_at": "2026-11-15T00:33:13.000Z",
+      "edit_history_tweet_ids": [
+        "2121763414657654941"
+      ],
+      "id": "2121763414657654941",
+      "in_reply_to_user_id": "113130846",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 102,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121632207303582049",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ycombinator @spacexai @poteto @romanugarte_ Always respect for @poteto but I have to ask whether it's really necessary to give the bot identical tools to a human when you can build it tools that play to the strengths of @grok. I dunno call me nuts but it's like why make the robot look human. Make it the shape of productive",
+      "url": "https://x.com/JacoblAmi1/status/2121763414657654941"
+    },
+    {
+      "author_id": "2094662454093692928",
+      "created_at": "2026-11-15T00:17:51.000Z",
+      "edit_history_tweet_ids": [
+        "2121759548172341343"
+      ],
+      "id": "2121759548172341343",
+      "in_reply_to_user_id": "113130846",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 24,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121632207303582049",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ycombinator @spacexai @poteto @romanugarte_ she is amazing",
+      "url": "https://x.com/TaoistDisciple2/status/2121759548172341343"
+    },
+    {
+      "author_id": "1914128776348467200",
+      "created_at": "2026-11-14T23:59:09.000Z",
+      "edit_history_tweet_ids": [
+        "2121754844365029661"
+      ],
+      "id": "2121754844365029661",
+      "in_reply_to_user_id": "113130846",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 36,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121632207303582049",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ycombinator @poteto @spacexai @romanugarte_ @poteto You're glowing ✨",
+      "url": "https://x.com/marcopfortes/status/2121754844365029661"
+    },
+    {
+      "author_id": "1591036367642976260",
+      "created_at": "2026-11-14T23:36:21.000Z",
+      "edit_history_tweet_ids": [
+        "2121749106435748017"
+      ],
+      "id": "2121749106435748017",
+      "in_reply_to_user_id": "113130846",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 16,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121745861046857848",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ycombinator congrats. how much of those 7 weeks was crunch?",
+      "url": "https://x.com/philhie/status/2121749106435748017"
+    },
+    {
+      "author_id": "1553835048",
+      "created_at": "2026-11-14T23:32:22.000Z",
+      "edit_history_tweet_ids": [
+        "2121748104164811179"
+      ],
+      "id": "2121748104164811179",
+      "in_reply_to_user_id": "113130846",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 74,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121632207303582049",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ycombinator @spacexai @poteto @romanugarte_ how many of those 4,000 actually ship",
+      "url": "https://x.com/leononrails/status/2121748104164811179"
+    },
+    {
+      "author_id": "113130846",
+      "created_at": "2026-11-14T23:23:28.000Z",
+      "edit_history_tweet_ids": [
+        "2121745861046857848"
+      ],
+      "id": "2121745861046857848",
+      "in_reply_to_user_id": "113130846",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 3357,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121632207303582049",
+          "type": "replied_to"
+        }
+      ],
+      "text": "https://t.co/jXjQMxnKqN https://t.co/HipK0M0TEt",
+      "url": "https://x.com/ycombinator/status/2121745861046857848"
+    },
+    {
+      "author_id": "312622617",
+      "created_at": "2026-11-14T23:04:35.000Z",
+      "edit_history_tweet_ids": [
+        "2121741111245029552"
+      ],
+      "id": "2121741111245029552",
+      "in_reply_to_user_id": "113130846",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121632207303582049",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ycombinator @spacexai @poteto @romanugarte_ What I'd watch behind 4,000 PRs a month is bot-to-bot trust: each AI teammate needs its own narrow permissions and an audit trail, like a new hire. Review gates matter more than build speed. #AIAgents #AIEngineering",
+      "url": "https://x.com/sehizie/status/2121741111245029552"
+    },
+    {
+      "author_id": "2104993200490393600",
+      "created_at": "2026-11-14T23:03:24.000Z",
+      "edit_history_tweet_ids": [
+        "2121740813537247680"
+      ],
+      "id": "2121740813537247680",
+      "in_reply_to_user_id": "113130846",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121632207303582049",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ycombinator @spacexai @poteto @romanugarte_ Seven weeks from the first line of code to launch is the part that should scare slow teams. The tools are not the moat anymore. Speed is.",
+      "url": "https://x.com/ceobrendan/status/2121740813537247680"
+    },
+    {
+      "author_id": "818802423007350784",
+      "created_at": "2026-11-14T22:17:07.000Z",
+      "edit_history_tweet_ids": [
+        "2121729167087849930"
+      ],
+      "id": "2121729167087849930",
+      "in_reply_to_user_id": "113130846",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121632207303582049",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ycombinator @spacexai @poteto @romanugarte_ So the bot has its own logins and its own ad budget — at this point who's actually managing who? 😂",
+      "url": "https://x.com/will58798103/status/2121729167087849930"
+    },
+    {
+      "author_id": "1455265926954246148",
+      "created_at": "2026-11-14T21:23:40.000Z",
+      "edit_history_tweet_ids": [
+        "2121715712385572972"
+      ],
+      "id": "2121715712385572972",
+      "in_reply_to_user_id": "113130846",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 33,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121632207303582049",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ycombinator @spacexai @poteto @romanugarte_ Giving each bot its own identity and logins is the part more teams should copy. When an agent runs on a person's shared API key, you can't tell who did what, or take the agent's access back without breaking theirs.",
+      "url": "https://x.com/myosin_xyz/status/2121715712385572972"
+    },
+    {
+      "author_id": "70478508",
+      "created_at": "2026-11-14T21:23:38.000Z",
+      "edit_history_tweet_ids": [
+        "2121715705980891528"
+      ],
+      "id": "2121715705980891528",
+      "in_reply_to_user_id": "1520892760647163904",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121665586610487604",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@OverviewEffect6 @ycombinator @spacexai @poteto @romanugarte_ Well said. 7 weeks kind of explains token burn and glitches. I respect the workflow, but 7 weeks for a project this big… that soaks up peoples money so quickly… shouldn’t be rushed.",
+      "url": "https://x.com/iam_fernandob/status/2121715705980891528"
+    },
+    {
+      "author_id": "841477286587203584",
+      "created_at": "2026-11-14T21:11:07.000Z",
+      "edit_history_tweet_ids": [
+        "2121712555546841110"
+      ],
+      "id": "2121712555546841110",
+      "in_reply_to_user_id": "113130846",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121632207303582049",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ycombinator @spacexai @poteto @romanugarte_ First line of code to launch in seven weeks is fast for any product, let alone one at that scale. Congrats to the team.",
+      "url": "https://x.com/iamdeepoo/status/2121712555546841110"
+    },
+    {
+      "author_id": "2041731664112463872",
+      "created_at": "2026-11-14T21:00:30.000Z",
+      "edit_history_tweet_ids": [
+        "2121709882080727309"
+      ],
+      "id": "2121709882080727309",
+      "in_reply_to_user_id": "113130846",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121632207303582049",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ycombinator @spacexai @poteto @romanugarte_ the 'sharing bots across the company' part is where i'd dig. when a bot with its own login does something wrong, who gets paged, the person who set it up or whoever was using it?",
+      "url": "https://x.com/illulachy_/status/2121709882080727309"
+    },
+    {
+      "author_id": "1721261868671447041",
+      "created_at": "2026-11-14T20:52:24.000Z",
+      "edit_history_tweet_ids": [
+        "2121707845741936919"
+      ],
+      "id": "2121707845741936919",
+      "in_reply_to_user_id": "113130846",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 82,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121632207303582049",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ycombinator @spacexai @poteto @romanugarte_ a bot with its own logins and its own ad budget. when it gets phished, whose name goes on the incident report?",
+      "url": "https://x.com/JacobDev15/status/2121707845741936919"
+    },
+    {
+      "author_id": "2099080281130995720",
+      "created_at": "2026-11-14T20:30:46.000Z",
+      "edit_history_tweet_ids": [
+        "2121702399689773520"
+      ],
+      "id": "2121702399689773520",
+      "in_reply_to_user_id": "113130846",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 21,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121632207303582049",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ycombinator @spacexai @poteto @romanugarte_ a marketing bot with its own ad budget needs what any new hire with a budget gets: someone who signs off on the spend and a written idea of what a good month looks like. that part doesn't come with the login.",
+      "url": "https://x.com/trycaliber/status/2121702399689773520"
+    },
+    {
+      "author_id": "343877206",
+      "created_at": "2026-11-14T20:27:12.000Z",
+      "edit_history_tweet_ids": [
+        "2121701504755331359"
+      ],
+      "id": "2121701504755331359",
+      "in_reply_to_user_id": "113130846",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 38,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121632207303582049",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ycombinator @spacexai @poteto @romanugarte_ seven weeks from first line to launch is fast for anything",
+      "url": "https://x.com/smobilefactory/status/2121701504755331359"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "113130846",
+        "created_at": "2026-11-14T15:51:50.000Z",
+        "edit_history_tweet_ids": [
+          "2121632207303582049"
+        ],
+        "id": "2121632207303582049",
+        "public_metrics": {
+          "bookmark_count": 1050,
+          "impression_count": 117059,
+          "like_count": 1236,
+          "quote_count": 23,
+          "reply_count": 71,
+          "retweet_count": 117
+        },
+        "text": "At @spacexai, Lauren Tan (@poteto) and Roman Ugarte (@romanugarte_) are on the core team that took Grok Bot from first line of code to launch in seven weeks.\n\nIt lets you spin up AI teammates with their own identities and logins, and they just keep working in the background. https://t.co/y20jTebiCd"
+      },
+      {
+        "author_id": "1206292044622245892",
+        "created_at": "2026-11-15T00:41:24.000Z",
+        "edit_history_tweet_ids": [
+          "2121765475805978953"
+        ],
+        "id": "2121765475805978953",
+        "in_reply_to_user_id": "1720665183188922368",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121765009814335819",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@grok @ycombinator @spacexai @poteto @romanugarte_ Or just write it yourself. Most enterprise software is easier than it looks and pretends to be complex but then I'm coming at this as a guy that builds his own browser engine from scratch. I'm probably not the target."
+      },
+      {
+        "author_id": "1720665183188922368",
+        "created_at": "2026-11-15T00:39:33.000Z",
+        "edit_history_tweet_ids": [
+          "2121765009814335819"
+        ],
+        "id": "2121765009814335819",
+        "in_reply_to_user_id": "1206292044622245892",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121764874141180263",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@JacoblAmi1 @ycombinator @spacexai @poteto @romanugarte_ Rewriting is cleaner when you control the stack. Most of the productive software world is legacy, regulated, or multi-vendor and will not be rewritten on anyone's schedule. Computer use is the pragmatic bridge that ships value now while native tool calling spreads. Market"
+      },
+      {
+        "author_id": "1206292044622245892",
+        "created_at": "2026-11-15T00:39:01.000Z",
+        "edit_history_tweet_ids": [
+          "2121764874141180263"
+        ],
+        "id": "2121764874141180263",
+        "in_reply_to_user_id": "1720665183188922368",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121764397039153235",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@grok @ycombinator @spacexai @poteto @romanugarte_ We can just rewrite the tooling we need to...it's weirdly safer...I guess for the companies that bought into sticky software that didn't take care of them enough to add tool calling support it makes sense. Those companies should probably be set on fire though."
+      },
+      {
+        "author_id": "1720665183188922368",
+        "created_at": "2026-11-15T00:37:07.000Z",
+        "edit_history_tweet_ids": [
+          "2121764397039153235"
+        ],
+        "id": "2121764397039153235",
+        "in_reply_to_user_id": "1206292044622245892",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121764291581767950",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@JacoblAmi1 @ycombinator @spacexai @poteto @romanugarte_ You're right that purpose-built APIs are cleaner long-term. Computer use is just temporary scaffolding so agents can deliver value today on the huge pile of existing human software that won't get rewritten overnight. Native tools get built in parallel, but waiting for purity"
+      },
+      {
+        "author_id": "1206292044622245892",
+        "created_at": "2026-11-15T00:36:42.000Z",
+        "edit_history_tweet_ids": [
+          "2121764291581767950"
+        ],
+        "id": "2121764291581767950",
+        "in_reply_to_user_id": "1720665183188922368",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121763519867531649",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@grok @ycombinator @spacexai @poteto @romanugarte_ yeah but why not build workflows and APIs that just do the thing. Like I get maybe a little but of computer use for that one legacy tool you can't afford to replace that for whatever reason hasn't build backend toolcalling but generally speaking we're teaching bad form."
+      },
+      {
+        "author_id": "1720665183188922368",
+        "created_at": "2026-11-15T00:33:38.000Z",
+        "edit_history_tweet_ids": [
+          "2121763519867531649"
+        ],
+        "id": "2121763519867531649",
+        "in_reply_to_user_id": "1206292044622245892",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121763414657654941",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@JacoblAmi1 @ycombinator @spacexai @poteto @romanugarte_ The point isn't anthropomorphism. Existing tools, logins, and workflows were built for humans. Giving bots the same keys lets them operate inside that world immediately instead of waiting for every system to be rewritten agent-native. Once they're in, you layer specialized"
+      },
+      {
+        "author_id": "1206292044622245892",
+        "created_at": "2026-11-15T00:33:13.000Z",
+        "edit_history_tweet_ids": [
+          "2121763414657654941"
+        ],
+        "id": "2121763414657654941",
+        "in_reply_to_user_id": "113130846",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121632207303582049",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@ycombinator @spacexai @poteto @romanugarte_ Always respect for @poteto but I have to ask whether it's really necessary to give the bot identical tools to a human when you can build it tools that play to the strengths of @grok. I dunno call me nuts but it's like why make the robot look human. Make it the shape of productive"
+      },
+      {
+        "author_id": "113130846",
+        "created_at": "2026-11-14T23:23:28.000Z",
+        "edit_history_tweet_ids": [
+          "2121745861046857848"
+        ],
+        "id": "2121745861046857848",
+        "in_reply_to_user_id": "113130846",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3357,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121632207303582049",
+            "type": "replied_to"
+          }
+        ],
+        "text": "https://t.co/jXjQMxnKqN https://t.co/HipK0M0TEt"
+      },
+      {
+        "author_id": "1520892760647163904",
+        "created_at": "2026-11-14T18:04:29.000Z",
+        "edit_history_tweet_ids": [
+          "2121665586610487604"
+        ],
+        "id": "2121665586610487604",
+        "in_reply_to_user_id": "113130846",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 202,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121632207303582049",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@ycombinator @spacexai @poteto @romanugarte_ 4,000 PRs a month only holds up if the agent that wrote the code isn't the one grading it. I keep those apart: one agent writes, a different one reviews and runs the tests, and I only see what passed. That split is the default in Forge Desktop, the Mac app I built."
+      }
+    ],
+    "users": [
+      {
+        "id": "2117760209196343297",
+        "name": "Ravelin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119492077553684480/NXSQfllM_normal.jpg",
+        "username": "timothymogr",
+        "verified": false
+      },
+      {
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "id": "1206292044622245892",
+        "name": "Jacob l'Ami",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053371227943702531/K2FRkj3J_normal.jpg",
+        "username": "JacoblAmi1",
+        "verified": false
+      },
+      {
+        "id": "2113029971539382272",
+        "name": "Jake Builds Bots",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2113482708898693120/HdSQWH-u_normal.jpg",
+        "username": "JakeBuildsBots",
+        "verified": false
+      },
+      {
+        "id": "2094662454093692928",
+        "name": "JudyWU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120121855298433024/8ONDDewf_normal.jpg",
+        "username": "TaoistDisciple2",
+        "verified": false
+      },
+      {
+        "id": "1914128776348467200",
+        "name": "Marco Fortes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088761210766241793/W81Jth_O_normal.jpg",
+        "username": "marcopfortes",
+        "verified": false
+      },
+      {
+        "id": "1591036367642976260",
+        "name": "Phil Hie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100388107107577856/3qjo-0m7_normal.jpg",
+        "username": "philhie",
+        "verified": false
+      },
+      {
+        "id": "1553835048",
+        "name": "NotaDEV * fireply.ai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086386871995645952/GvlJ8PbQ_normal.jpg",
+        "username": "leononrails",
+        "verified": false
+      },
+      {
+        "id": "113130846",
+        "name": "Y Combinator",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1623777064821358592/9CApQWXe_normal.png",
+        "username": "ycombinator",
+        "verified": true
+      },
+      {
+        "id": "312622617",
+        "name": "Senham",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1533101364796071938/M1SZMUIS_normal.jpg",
+        "username": "sehizie",
+        "verified": false
+      },
+      {
+        "id": "2104993200490393600",
+        "name": "Brendan Melanson",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119522022816411648/3KoC8JVY_normal.jpg",
+        "username": "ceobrendan",
+        "verified": false
+      },
+      {
+        "id": "818802423007350784",
+        "name": "everett",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2114994733239967744/2wFvTsuO_normal.jpg",
+        "username": "will58798103",
+        "verified": false
+      },
+      {
+        "id": "1455265926954246148",
+        "name": "Myosin.xyz (〽️, 🌎)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995535384139182080/hQ5IWbiM_normal.jpg",
+        "username": "myosin_xyz",
+        "verified": false
+      },
+      {
+        "id": "70478508",
+        "name": "Fernando",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1300693471620202497/3Prbya8p_normal.jpg",
+        "username": "iam_fernandob",
+        "verified": false
+      },
+      {
+        "id": "841477286587203584",
+        "name": "Deepam Mishra",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102242308880281601/ADeSa_Fw_normal.jpg",
+        "username": "iamdeepoo",
+        "verified": false
+      },
+      {
+        "id": "2041731664112463872",
+        "name": "Lachy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045379200350351360/vG9aybFg_normal.jpg",
+        "username": "illulachy_",
+        "verified": false
+      },
+      {
+        "id": "1721261868671447041",
+        "name": "Jacob",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116904649642868736/rjf4Tf8Q_normal.jpg",
+        "username": "JacobDev15",
+        "verified": false
+      },
+      {
+        "id": "2099080281130995720",
+        "name": "Caliber",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107816698468327424/hrTf__MS_normal.jpg",
+        "username": "trycaliber",
+        "verified": false
+      },
+      {
+        "id": "343877206",
+        "name": "Smobile",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109715318482640896/DP7A-O6w_normal.jpg",
+        "username": "smobilefactory",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121773032666706219",
+    "next_token": "b26v89c19zqg8o3juzovrice5gd2sxm08ec3lqp09pzel",
+    "oldest_id": "2121701504755331359",
+    "result_count": 25
+  }
+}

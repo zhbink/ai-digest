@@ -1,0 +1,832 @@
+{
+  "data": [
+    {
+      "author_id": "2043862808882708480",
+      "conversation_id": "2121510041597690205",
+      "created_at": "2026-11-15T01:40:05.000Z",
+      "edit_history_tweet_ids": [
+        "2121780242134286777"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1878345967780646912",
+            "start": 0,
+            "username": "UPing123zzz"
+          }
+        ]
+      },
+      "id": "2121780242134286777",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121510041597690205",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 企业怕的从来不是模型不聪明，是权限给出去后收不回来。",
+      "url": "https://x.com/staroaeg/status/2121780242134286777"
+    },
+    {
+      "author_id": "1975720803779158020",
+      "conversation_id": "2121510041597690205",
+      "created_at": "2026-11-15T00:48:18.000Z",
+      "edit_history_tweet_ids": [
+        "2121767210486235467"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1878345967780646912",
+            "start": 0,
+            "username": "UPing123zzz"
+          }
+        ]
+      },
+      "id": "2121767210486235467",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121510041597690205",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz Anthropic这块确实，真正跑过一轮的都知道坑在哪",
+      "url": "https://x.com/LFQ3524/status/2121767210486235467"
+    },
+    {
+      "author_id": "1878345967780646912",
+      "conversation_id": "2121510041597690205",
+      "created_at": "2026-11-15T00:04:07.000Z",
+      "edit_history_tweet_ids": [
+        "2121756094876066291"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "2053733184517677056",
+            "start": 0,
+            "username": "Rk1ngggg"
+          }
+        ]
+      },
+      "id": "2121756094876066291",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 15,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121674340081230222",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Rk1ngggg 对的",
+      "url": "https://x.com/UPing123zzz/status/2121756094876066291"
+    },
+    {
+      "author_id": "2053733184517677056",
+      "conversation_id": "2121510041597690205",
+      "created_at": "2026-11-14T18:39:16.000Z",
+      "edit_history_tweet_ids": [
+        "2121674340081230222"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1878345967780646912",
+            "start": 0,
+            "username": "UPing123zzz"
+          }
+        ]
+      },
+      "id": "2121674340081230222",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121510041597690205",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 企业里最怕工具权限没拆干净；自托管只是把边界收回来，后面还得接审批和回放日志",
+      "url": "https://x.com/Rk1ngggg/status/2121674340081230222"
+    },
+    {
+      "author_id": "1390955686142517249",
+      "conversation_id": "2121510041597690205",
+      "created_at": "2026-11-14T15:07:51.000Z",
+      "edit_history_tweet_ids": [
+        "2121621136576561284"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1878345967780646912",
+            "start": 0,
+            "username": "UPing123zzz"
+          }
+        ]
+      },
+      "id": "2121621136576561284",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121510041597690205",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 企业最想知道的不只是模型聪不聪明，还有哪些数据会离开系统、谁能批准操作。功能可用性要以官方说明和实际合同为准。",
+      "url": "https://x.com/KevinWeb3Nomad/status/2121621136576561284"
+    },
+    {
+      "author_id": "2107430607169216513",
+      "conversation_id": "2121510041597690205",
+      "created_at": "2026-11-14T09:02:08.000Z",
+      "edit_history_tweet_ids": [
+        "2121529100359614802"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1878345967780646912",
+            "start": 0,
+            "username": "UPing123zzz"
+          }
+        ]
+      },
+      "id": "2121529100359614802",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121510041597690205",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 能审计才敢放权限",
+      "url": "https://x.com/lovethelife2333/status/2121529100359614802"
+    },
+    {
+      "author_id": "2116725432901128192",
+      "conversation_id": "2121510041597690205",
+      "created_at": "2026-11-14T08:56:50.000Z",
+      "edit_history_tweet_ids": [
+        "2121527766294376547"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1878345967780646912",
+            "start": 0,
+            "username": "UPing123zzz"
+          }
+        ]
+      },
+      "id": "2121527766294376547",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121510041597690205",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 企业最怕的不是模型不够强，是数据出了门不回家",
+      "url": "https://x.com/StarsLu9527/status/2121527766294376547"
+    },
+    {
+      "author_id": "1634458321339179010",
+      "conversation_id": "2121510041597690205",
+      "created_at": "2026-11-14T08:38:24.000Z",
+      "edit_history_tweet_ids": [
+        "2121523129193525702"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1878345967780646912",
+            "start": 0,
+            "username": "UPing123zzz"
+          }
+        ]
+      },
+      "id": "2121523129193525702",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121510041597690205",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 说到点子上了，企业在意的不是模型多聪明，是数据和权限能不能留在自己手里。自托管这一步对落地很关键。",
+      "url": "https://x.com/daenbnb/status/2121523129193525702"
+    },
+    {
+      "author_id": "1825556649723240448",
+      "conversation_id": "2121510041597690205",
+      "created_at": "2026-11-14T08:31:49.000Z",
+      "edit_history_tweet_ids": [
+        "2121521471013167192"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1878345967780646912",
+            "start": 0,
+            "username": "UPing123zzz"
+          }
+        ]
+      },
+      "id": "2121521471013167192",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121510041597690205",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 自托管不等于模型本地跑这句点醒我了，沙箱和凭据自己管，采购才敢往下谈",
+      "url": "https://x.com/JMkernt/status/2121521471013167192"
+    },
+    {
+      "author_id": "965707616843370497",
+      "conversation_id": "2121510041597690205",
+      "created_at": "2026-11-14T08:25:30.000Z",
+      "edit_history_tweet_ids": [
+        "2121519880730181784"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1878345967780646912",
+            "start": 0,
+            "username": "UPing123zzz"
+          }
+        ]
+      },
+      "id": "2121519880730181784",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121510041597690205",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 数据不出内网这条，对企业采购比跑分好使多了",
+      "url": "https://x.com/yikailu/status/2121519880730181784"
+    },
+    {
+      "author_id": "149092132",
+      "conversation_id": "2121510041597690205",
+      "created_at": "2026-11-14T08:24:05.000Z",
+      "edit_history_tweet_ids": [
+        "2121519525220716861"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1878345967780646912",
+            "start": 0,
+            "username": "UPing123zzz"
+          }
+        ]
+      },
+      "id": "2121519525220716861",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121510041597690205",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 在企业里推 agent，最先被问的基本都是数据出不出内网、权限谁来收。self-hosted 这一步比多几分 benchmark 实在",
+      "url": "https://x.com/harisanthosh9/status/2121519525220716861"
+    },
+    {
+      "author_id": "1588935512135720961",
+      "conversation_id": "2121510041597690205",
+      "created_at": "2026-11-14T08:18:06.000Z",
+      "edit_history_tweet_ids": [
+        "2121518019814064481"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1878345967780646912",
+            "start": 0,
+            "username": "UPing123zzz"
+          }
+        ]
+      },
+      "id": "2121518019814064481",
+      "lang": "en",
+      "note_tweet": {
+        "text": "the runtime is the easy part to move. session history is the one item on that list with no export format, and after a year it is where all the value sits. the acceptance test is whether you can still read last month sessions after you cancel, not whether the sandbox runs in your vpc."
+      },
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121510041597690205",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz the runtime is the easy part to move. session history is the one item on that list with no export format, and after a year it is where all the value sits. the acceptance test is whether you can still read last month sessions after you cancel, not whether the sandbox runs in your",
+      "url": "https://x.com/johnroodepic/status/2121518019814064481"
+    },
+    {
+      "author_id": "1773034957377798151",
+      "conversation_id": "2121510041597690205",
+      "created_at": "2026-11-14T08:12:42.000Z",
+      "edit_history_tweet_ids": [
+        "2121516659961979369"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1878345967780646912",
+            "start": 0,
+            "username": "UPing123zzz"
+          }
+        ]
+      },
+      "id": "2121516659961979369",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121510041597690205",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 开放测试解决企业信任问题\n放心大胆试",
+      "url": "https://x.com/YY20070110/status/2121516659961979369"
+    },
+    {
+      "author_id": "2012635604274528256",
+      "conversation_id": "2121510041597690205",
+      "created_at": "2026-11-14T08:08:17.000Z",
+      "edit_history_tweet_ids": [
+        "2121515549649990006"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1878345967780646912",
+            "start": 0,
+            "username": "UPing123zzz"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Argo: open-source AI teammates, each with its own computer - Celaris-dev1/Argo",
+            "display_url": "github.com/celaris-dev1/a…",
+            "end": 154,
+            "expanded_url": "https://github.com/celaris-dev1/argo",
+            "images": [
+              {
+                "height": 600,
+                "url": "https://pbs.twimg.com/news_img/2120629986813956096/2FOdhfpe?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2120629986813956096/2FOdhfpe?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 131,
+            "status": 200,
+            "title": "GitHub - Celaris-dev1/Argo: Argo: open-source AI teammates, each with its own computer",
+            "unwound_url": "https://github.com/celaris-dev1/argo",
+            "url": "https://t.co/iCAX3TMonC"
+          }
+        ]
+      },
+      "id": "2121515549649990006",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121510041597690205",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz trust is the hard part with agents in enterprise. open source AI teammates each with its own computer, self host Argo https://t.co/iCAX3TMonC",
+      "url": "https://x.com/Prospernwo/status/2121515549649990006"
+    },
+    {
+      "author_id": "1017058535090393088",
+      "conversation_id": "2121510041597690205",
+      "created_at": "2026-11-14T07:53:49.000Z",
+      "edit_history_tweet_ids": [
+        "2121511909782385058"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1878345967780646912",
+            "start": 0,
+            "username": "UPing123zzz"
+          }
+        ]
+      },
+      "id": "2121511909782385058",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 20,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121510041597690205",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 自托管不等于数据不出域，这个区别太容易被部署图掩盖了。验收时把一次真实任务发给模型的内容也摊开看，才能知道边界到底守在哪。",
+      "url": "https://x.com/Wv3EcACHtizRjZK/status/2121511909782385058"
+    },
+    {
+      "author_id": "1458360775689453568",
+      "conversation_id": "2121510041597690205",
+      "created_at": "2026-11-14T07:52:34.000Z",
+      "edit_history_tweet_ids": [
+        "2121511595687719138"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1878345967780646912",
+            "start": 0,
+            "username": "UPing123zzz"
+          }
+        ]
+      },
+      "id": "2121511595687719138",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 23,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121510041597690205",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 从蒸馏角度看，自托管之后更现实的是细粒度权限隔离：同一沙箱里哪些工具调用必须人工复核，往往比换模型更影响交付稳定性。你们测试中最担心审计还是权限回收？",
+      "url": "https://x.com/ljl798/status/2121511595687719138"
+    },
+    {
+      "author_id": "3123084528",
+      "conversation_id": "2121510041597690205",
+      "created_at": "2026-11-14T07:48:07.000Z",
+      "edit_history_tweet_ids": [
+        "2121510474017919176"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1878345967780646912",
+            "start": 0,
+            "username": "UPing123zzz"
+          }
+        ]
+      },
+      "id": "2121510474017919176",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121510041597690205",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@UPing123zzz 真给写权限谁晚上敢合眼",
+      "url": "https://x.com/KalinJunYAI/status/2121510474017919176"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1878345967780646912",
+        "conversation_id": "2121510041597690205",
+        "created_at": "2026-11-14T07:46:24.000Z",
+        "edit_history_tweet_ids": [
+          "2121510041597690205"
+        ],
+        "id": "2121510041597690205",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "Anthropic 最近开放了 Self-hosted Claude Managed Agents 的私人测试，我觉得这条消息对于真正做企业 Agent 落地的人来说，价值可能比发布一个新模型还要大。\n\n因为它解决的是企业使用智能体时一个非常现实的问题：\n\n你的 Agent 可以很聪明，但企业凭什么放心把内部系统、业务数据、执行权限交给它？\n\n以前很多 Agent 平台都是云端托管的。模型能力很强，开发效率也很高，但涉及企业核心代码、账号凭据、客户数据和业务操作时，事情就没那么简单了。\n\n这次 Anthropic 允许企业把 Managed Agents 的运行服务部署到自己的云环境或者本地基础设施中。\n\n包括 Agent Harness、执行沙箱、凭据管理和会话历史等关键组件，都可以由企业自己控制。\n\n但这里有个容易误解的地方：自托管并不等于 Claude 模型本身完全在本地运行。模型请求仍然需要发送到企业选定的模型服务方或网关。\n\n真正发生变化的是企业对 Agent 运行环境和控制边界的掌握程度。\n\n我觉得这件事非常值得国内做 Agent 平台、AI 工作流和企业私有化项目的人关注。\n\n因为我们现在经常讨论的都是哪个模型更强、哪个 Agent 能自主执行更多步骤，却忽略了企业真正关心的问题。\n\n数据存在哪里？谁能访问？凭据怎样保护？Agent 执行了什么操作？出了问题能不能审计？系统能不能在企业自己的环境里持续运行？\n\n这些问题不解决，Demo 做得再漂亮，也很难真正进入关键业务。\n\n而且 Agent 的能力越强，这些问题只会越重要。\n\n当一个智能体开始拥有读写数据库、修改代码、调用内部 API 的权限，它就不再只是一个聊天机器人，而是一个真正会影响生产环境的软件系统。\n\n所以未来企业 Agent 工程师的竞争，很可能不只是模型调用能力的竞争。\n\n而是谁能在保证权限、安全、可控、可审计的前提下，让智能体持续稳定地创造业务价值。\n\n这才是从玩 Agent 到交付 Agent 的分水岭。"
+        },
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 792,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "text": "Anthropic 最近开放了 Self-hosted Claude Managed Agents 的私人测试，我觉得这条消息对于真正做企业 Agent 落地的人来说，价值可能比发布一个新模型还要大。\n\n因为它解决的是企业使用智能体时一个非常现实的问题：\n\n你的 Agent 可以很聪明，但企业凭什么放心把内部系统、业务数据、执行权限交给它？"
+      },
+      {
+        "author_id": "2053733184517677056",
+        "conversation_id": "2121510041597690205",
+        "created_at": "2026-11-14T18:39:16.000Z",
+        "edit_history_tweet_ids": [
+          "2121674340081230222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878345967780646912",
+              "start": 0,
+              "username": "UPing123zzz"
+            }
+          ]
+        },
+        "id": "2121674340081230222",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121510041597690205",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@UPing123zzz 企业里最怕工具权限没拆干净；自托管只是把边界收回来，后面还得接审批和回放日志"
+      }
+    ],
+    "users": [
+      {
+        "id": "2043862808882708480",
+        "name": "生晓bai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108574090953195520/AL2afFAh_normal.jpg",
+        "username": "staroaeg",
+        "verified": false
+      },
+      {
+        "id": "1975720803779158020",
+        "name": "StriveLiang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098804059012820992/k7Y312YS_normal.jpg",
+        "username": "LFQ3524",
+        "verified": false
+      },
+      {
+        "id": "1878345967780646912",
+        "name": "Ethan 恩宇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106574155038724096/-FeenOii_normal.jpg",
+        "username": "UPing123zzz",
+        "verified": false
+      },
+      {
+        "id": "2053733184517677056",
+        "name": "R&K",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109834365463298048/wLX8C-LE_normal.jpg",
+        "username": "Rk1ngggg",
+        "verified": false
+      },
+      {
+        "id": "1390955686142517249",
+        "name": "Kevin Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022656517410115584/N3oEB84j_normal.jpg",
+        "username": "KevinWeb3Nomad",
+        "verified": false
+      },
+      {
+        "id": "2107430607169216513",
+        "name": "大末",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107445578259140608/k-q1M_Z0_normal.jpg",
+        "username": "lovethelife2333",
+        "verified": false
+      },
+      {
+        "id": "2116725432901128192",
+        "name": "怀瑾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116726432751915008/XEKHgYhS_normal.jpg",
+        "username": "StarsLu9527",
+        "verified": false
+      },
+      {
+        "id": "1634458321339179010",
+        "name": "David大嗯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070319507969888256/yhWQ0L_i_normal.jpg",
+        "username": "daenbnb",
+        "verified": false
+      },
+      {
+        "id": "1825556649723240448",
+        "name": "jimerrors",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008436069428043776/V-w99gLN_normal.jpg",
+        "username": "JMkernt",
+        "verified": false
+      },
+      {
+        "id": "965707616843370497",
+        "name": "yikailu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2113681630388998144/gSrbi_A8_normal.jpg",
+        "username": "yikailu",
+        "verified": false
+      },
+      {
+        "id": "149092132",
+        "name": "Hari Santhosh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109098241740472320/wHbgYN-K_normal.jpg",
+        "username": "harisanthosh9",
+        "verified": false
+      },
+      {
+        "id": "1588935512135720961",
+        "name": "John Rood",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107625455813861376/4nNHd8o2_normal.jpg",
+        "username": "johnroodepic",
+        "verified": false
+      },
+      {
+        "id": "1773034957377798151",
+        "name": "TL 桃李园圣（互）（rebat）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119769927443992576/_nK8WImz_normal.jpg",
+        "username": "YY20070110",
+        "verified": false
+      },
+      {
+        "id": "2012635604274528256",
+        "name": "Prospernwo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117326749352579072/gAGxn7LZ_normal.png",
+        "username": "Prospernwo",
+        "verified": false
+      },
+      {
+        "id": "1017058535090393088",
+        "name": "大v（没互关就是在cd）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119628425153646592/aSk3Zy7b_normal.jpg",
+        "username": "Wv3EcACHtizRjZK",
+        "verified": false
+      },
+      {
+        "id": "1458360775689453568",
+        "name": "Ellen|Bird🕊️(AI模型 蒸馏）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1693832199697838080/7_GuskIF_normal.jpg",
+        "username": "ljl798",
+        "verified": false
+      },
+      {
+        "id": "3123084528",
+        "name": "Kalin | AI builds & gotchas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093660551486517248/uglSLEXN_normal.jpg",
+        "username": "KalinJunYAI",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121780242134286777",
+    "next_token": "b26v89c19zqg8o3juzovre38lozi2841bc3llsbrt470d",
+    "oldest_id": "2121510474017919176",
+    "result_count": 17
+  }
+}

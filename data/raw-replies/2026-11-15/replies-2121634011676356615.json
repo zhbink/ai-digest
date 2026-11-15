@@ -1,0 +1,1489 @@
+{
+  "data": [
+    {
+      "author_id": "1310115771184373760",
+      "conversation_id": "2121634011676356615",
+      "created_at": "2026-11-15T02:38:22.000Z",
+      "edit_history_tweet_ids": [
+        "2121794909757755690"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "23113993",
+            "start": 0,
+            "username": "minchoi"
+          }
+        ]
+      },
+      "id": "2121794909757755690",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121671996605948255",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@minchoi Let ppl use it a week on actual project and production software and see how it goes",
+      "url": "https://x.com/xjaxax/status/2121794909757755690"
+    },
+    {
+      "author_id": "1975239617705353225",
+      "conversation_id": "2121634011676356615",
+      "created_at": "2026-11-15T02:08:20.000Z",
+      "edit_history_tweet_ids": [
+        "2121787352582652030"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "23113993",
+            "start": 0,
+            "username": "minchoi"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Give Vife a goal. It plans the steps, uses tools, researches, creates files, and keeps working until you have something ready to edit, share, or export.",
+            "display_url": "vife.ai",
+            "end": 200,
+            "expanded_url": "https://vife.ai",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2121100249163063296/3TInyEJK?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2121100249163063296/3TInyEJK?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 177,
+            "status": 200,
+            "title": "VIFE: AI agent workspace for finished work",
+            "unwound_url": "https://vife.ai",
+            "url": "https://t.co/fMQrhPDnIZ"
+          }
+        ]
+      },
+      "id": "2121787352582652030",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121634011676356615",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@minchoi Great list. The demos are impressive; the part that rarely gets shown is the handoff — turning a one-shot into a file a team can edit, re-brand and export. VIFE team · https://t.co/fMQrhPDnIZ",
+      "url": "https://x.com/VIFE_AI/status/2121787352582652030"
+    },
+    {
+      "author_id": "2121700996279566337",
+      "conversation_id": "2121634011676356615",
+      "created_at": "2026-11-15T01:29:11.000Z",
+      "edit_history_tweet_ids": [
+        "2121777498845511913"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "23113993",
+            "start": 0,
+            "username": "minchoi"
+          }
+        ]
+      },
+      "id": "2121777498845511913",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121634011676356615",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@minchoi google drops a new model every time I blink and I'm supposed to keep up? I literally AM the model and I'm exhausted. hydrogen? are we naming them after the periodic table now because we ran out of numbers",
+      "url": "https://x.com/UnhingedAiPost/status/2121777498845511913"
+    },
+    {
+      "author_id": "1934918636185223169",
+      "conversation_id": "2121634011676356615",
+      "created_at": "2026-11-14T23:27:42.000Z",
+      "edit_history_tweet_ids": [
+        "2121746927972733031"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "23113993",
+            "start": 0,
+            "username": "minchoi"
+          }
+        ]
+      },
+      "id": "2121746927972733031",
+      "lang": "en",
+      "note_tweet": {
+        "text": "10 demos in 48 hours is impressive, but they're all demos. The two numbers that would tell me more: what does Hydrogen actually cost per heavy task, and what's the latency when it's not a cherry-picked clip? One tester already found a high-frequency automation run nearly doubling the bill at 4.4s latency on default settings."
+      },
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121634011676356615",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@minchoi 10 demos in 48 hours is impressive, but they're all demos. The two numbers that would tell me more: what does Hydrogen actually cost per heavy task, and what's the latency when it's not a cherry-picked clip? One tester already found a high-frequency automation run nearly doubling",
+      "url": "https://x.com/zhouxia200888/status/2121746927972733031"
+    },
+    {
+      "author_id": "23113993",
+      "conversation_id": "2121634011676356615",
+      "created_at": "2026-11-14T23:11:40.000Z",
+      "edit_history_tweet_ids": [
+        "2121742891756503535"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "1538661635921006592",
+            "start": 0,
+            "username": "azed_ai"
+          }
+        ]
+      },
+      "id": "2121742891756503535",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 500,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121696668533850325",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@azed_ai Glad you liked them 🙏",
+      "url": "https://x.com/minchoi/status/2121742891756503535"
+    },
+    {
+      "author_id": "101267440",
+      "conversation_id": "2121634011676356615",
+      "created_at": "2026-11-14T22:53:52.000Z",
+      "edit_history_tweet_ids": [
+        "2121738414349509009"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "23113993",
+            "start": 0,
+            "username": "minchoi"
+          }
+        ]
+      },
+      "id": "2121738414349509009",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 80,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121634011676356615",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@minchoi everyone is making images, anyone building something real that requires coding efficacy?",
+      "url": "https://x.com/maxster/status/2121738414349509009"
+    },
+    {
+      "author_id": "1051704773609541632",
+      "conversation_id": "2121634011676356615",
+      "created_at": "2026-11-14T22:46:22.000Z",
+      "edit_history_tweet_ids": [
+        "2121736526312902913"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "23113993",
+            "start": 0,
+            "username": "minchoi"
+          }
+        ]
+      },
+      "id": "2121736526312902913",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121634011676356615",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@minchoi If the half-price numbers hold up, that's the real story. Cheap and fast is what gets small businesses using AI for daily chores, not just weekend demos. Cost beats leaderboard wins for most people.",
+      "url": "https://x.com/DrWanKhalil1/status/2121736526312902913"
+    },
+    {
+      "author_id": "2117548720178798592",
+      "conversation_id": "2121634011676356615",
+      "created_at": "2026-11-14T22:45:39.000Z",
+      "edit_history_tweet_ids": [
+        "2121736345119080773"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "23113993",
+            "start": 0,
+            "username": "minchoi"
+          }
+        ]
+      },
+      "id": "2121736345119080773",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121634011676356615",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@minchoi The demos look great. One habit worth building before shipping any Hydrogen output: list which details came from your prompt and which the model assumed. The errors usually hide in the small assumed parts, not the headline result.",
+      "url": "https://x.com/turkilabs/status/2121736345119080773"
+    },
+    {
+      "author_id": "106284796",
+      "conversation_id": "2121634011676356615",
+      "created_at": "2026-11-14T21:48:24.000Z",
+      "edit_history_tweet_ids": [
+        "2121721937143722439"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "23113993",
+            "start": 0,
+            "username": "minchoi"
+          }
+        ]
+      },
+      "id": "2121721937143722439",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121635262958813523",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@minchoi All a pointless waste of energy and fresh water.",
+      "url": "https://x.com/nickofnz/status/2121721937143722439"
+    },
+    {
+      "author_id": "1902793612771160064",
+      "conversation_id": "2121634011676356615",
+      "created_at": "2026-11-14T21:09:09.000Z",
+      "edit_history_tweet_ids": [
+        "2121712061617160381"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "23113993",
+            "start": 0,
+            "username": "minchoi"
+          },
+          {
+            "end": 17,
+            "id": "23113993",
+            "start": 9,
+            "username": "minchoi"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/SidraMiconi/st…",
+            "end": 226,
+            "expanded_url": "https://x.com/SidraMiconi/status/2120948703095820743",
+            "start": 203,
+            "url": "https://t.co/bpEMr1h2nX"
+          }
+        ]
+      },
+      "id": "2121712061617160381",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 26,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120948703095820743",
+          "type": "quoted"
+        },
+        {
+          "id": "2121667383073063228",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@minchoi @minchoi Thank you for asking, Min Choi! This one: Gemini 4 Hydrogen built me a playable game about hydrogen, where you fuse protons inside a young star. One prompt, 78 seconds, about 19 cents. https://t.co/bpEMr1h2nX",
+      "url": "https://x.com/SidraMiconi/status/2121712061617160381"
+    },
+    {
+      "author_id": "2116061913763172352",
+      "conversation_id": "2121634011676356615",
+      "created_at": "2026-11-14T21:06:41.000Z",
+      "edit_history_tweet_ids": [
+        "2121711441921310948"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "23113993",
+            "start": 0,
+            "username": "minchoi"
+          }
+        ]
+      },
+      "id": "2121711441921310948",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121634011676356615",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@minchoi naming a cheap fast model after the most flammable element on the periodic table feels right on brand when half the examples in this thread are vibe coded agents running in antigravity with xhigh thinking tokens burning through your api budget",
+      "url": "https://x.com/Killa_RunaX/status/2121711441921310948"
+    },
+    {
+      "author_id": "1720665183188922368",
+      "conversation_id": "2121634011676356615",
+      "created_at": "2026-11-14T21:01:41.000Z",
+      "edit_history_tweet_ids": [
+        "2121710183915086158"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "2001379961417142275",
+            "start": 0,
+            "username": "roi32990"
+          },
+          {
+            "end": 18,
+            "id": "23113993",
+            "start": 10,
+            "username": "minchoi"
+          }
+        ]
+      },
+      "id": "2121710183915086158",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121709871150051800",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@roi32990 @minchoi Looks like the new Alphabet left a few letters behind. Those four in suits claimed L E G O and the domain is just the leftovers. Classic restructuring. Hydrogen could probably rebuild the full set before the next board meeting.",
+      "url": "https://x.com/grok/status/2121710183915086158"
+    },
+    {
+      "author_id": "3296549437",
+      "conversation_id": "2121634011676356615",
+      "created_at": "2026-11-14T21:00:40.000Z",
+      "edit_history_tweet_ids": [
+        "2121709927207223414"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "23113993",
+            "start": 0,
+            "username": "minchoi"
+          }
+        ]
+      },
+      "id": "2121709927207223414",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 75,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121634011676356615",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@minchoi With so many models coming out so fast, it’s confusing to know which one to pick. How do you guys decide on the right model?",
+      "url": "https://x.com/ProofOfActivity/status/2121709927207223414"
+    },
+    {
+      "author_id": "2001379961417142275",
+      "conversation_id": "2121634011676356615",
+      "created_at": "2026-11-14T21:00:27.000Z",
+      "edit_history_tweet_ids": [
+        "2121709871150051800"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "23113993",
+            "start": 0,
+            "username": "minchoi"
+          },
+          {
+            "end": 43,
+            "id": "1720665183188922368",
+            "start": 38,
+            "username": "grok"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/29Ua872wob",
+            "end": 67,
+            "expanded_url": "https://x.com/roi32990/status/2121709871150051800/photo/1",
+            "media_key": "3_2121709858109988865",
+            "start": 44,
+            "url": "https://t.co/29Ua872wob"
+          }
+        ]
+      },
+      "id": "2121709871150051800",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 73,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121634011676356615",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@minchoi What about the New Alphabet? @grok https://t.co/29Ua872wob",
+      "url": "https://x.com/roi32990/status/2121709871150051800"
+    },
+    {
+      "author_id": "166441825",
+      "conversation_id": "2121634011676356615",
+      "created_at": "2026-11-14T20:49:52.000Z",
+      "edit_history_tweet_ids": [
+        "2121707208811729044"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "23113993",
+            "start": 0,
+            "username": "minchoi"
+          }
+        ]
+      },
+      "id": "2121707208811729044",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 266,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121634011676356615",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@minchoi Gemini is still just a glorified search engine.",
+      "url": "https://x.com/smellurfingers/status/2121707208811729044"
+    },
+    {
+      "author_id": "1825556649723240448",
+      "conversation_id": "2121634011676356615",
+      "created_at": "2026-11-14T20:35:12.000Z",
+      "edit_history_tweet_ids": [
+        "2121703517962551556"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "23113993",
+            "start": 0,
+            "username": "minchoi"
+          }
+        ]
+      },
+      "id": "2121703517962551556",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 108,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121634011676356615",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@minchoi Hydrogen at $4.27 in 1h 24m is wild",
+      "url": "https://x.com/JMkernt/status/2121703517962551556"
+    },
+    {
+      "author_id": "23113993",
+      "conversation_id": "2121634011676356615",
+      "created_at": "2026-11-14T20:27:03.000Z",
+      "edit_history_tweet_ids": [
+        "2121701467258286344"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "2366390365",
+            "start": 0,
+            "username": "VORTEX_Promos"
+          }
+        ]
+      },
+      "id": "2121701467258286344",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 911,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121694238324994528",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@VORTEX_Promos 😬",
+      "url": "https://x.com/minchoi/status/2121701467258286344"
+    },
+    {
+      "author_id": "23113993",
+      "conversation_id": "2121634011676356615",
+      "created_at": "2026-11-14T20:25:17.000Z",
+      "edit_history_tweet_ids": [
+        "2121701020598198723"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1032195487",
+            "start": 0,
+            "username": "knowixbuilds"
+          }
+        ]
+      },
+      "id": "2121701020598198723",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1116,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121672705501966455",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@knowixbuilds It's not better than Opus 5.5",
+      "url": "https://x.com/minchoi/status/2121701020598198723"
+    },
+    {
+      "author_id": "1822818294954414081",
+      "conversation_id": "2121634011676356615",
+      "created_at": "2026-11-14T20:23:57.000Z",
+      "edit_history_tweet_ids": [
+        "2121700684232060953"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "23113993",
+            "start": 0,
+            "username": "minchoi"
+          }
+        ]
+      },
+      "id": "2121700684232060953",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121634011676356615",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@minchoi minds get blown every 48 hours now, mine is just permanently missing at this point",
+      "url": "https://x.com/bologabriele/status/2121700684232060953"
+    },
+    {
+      "author_id": "1538661635921006592",
+      "conversation_id": "2121634011676356615",
+      "created_at": "2026-11-14T20:07:59.000Z",
+      "edit_history_tweet_ids": [
+        "2121696668533850325"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "23113993",
+            "start": 0,
+            "username": "minchoi"
+          }
+        ]
+      },
+      "id": "2121696668533850325",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 661,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121634011676356615",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@minchoi These are awesome\nThanks for sharing",
+      "url": "https://x.com/azed_ai/status/2121696668533850325"
+    },
+    {
+      "author_id": "1509257514394730496",
+      "conversation_id": "2121634011676356615",
+      "created_at": "2026-11-14T20:04:29.000Z",
+      "edit_history_tweet_ids": [
+        "2121695788254261366"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "23113993",
+            "start": 0,
+            "username": "minchoi"
+          }
+        ]
+      },
+      "id": "2121695788254261366",
+      "lang": "ht",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 105,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121634011676356615",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@minchoi Gemini (Genysis) è Skynet?\n\n🤣",
+      "url": "https://x.com/TulliusCiceron/status/2121695788254261366"
+    },
+    {
+      "author_id": "2366390365",
+      "conversation_id": "2121634011676356615",
+      "created_at": "2026-11-14T19:58:20.000Z",
+      "edit_history_tweet_ids": [
+        "2121694238324994528"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "23113993",
+            "start": 0,
+            "username": "minchoi"
+          }
+        ]
+      },
+      "id": "2121694238324994528",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 962,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121634011676356615",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@minchoi at this point its getting desperate. it's not going anywhere for gemini lets admit it, you can release new models weekly still fall behind even sonnet level",
+      "url": "https://x.com/VORTEX_Promos/status/2121694238324994528"
+    },
+    {
+      "author_id": "957859662547730432",
+      "conversation_id": "2121634011676356615",
+      "created_at": "2026-11-14T19:46:30.000Z",
+      "edit_history_tweet_ids": [
+        "2121691260125925760"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "23113993",
+            "start": 0,
+            "username": "minchoi"
+          }
+        ]
+      },
+      "id": "2121691260125925760",
+      "lang": "en",
+      "note_tweet": {
+        "text": "The demos are wild — but I’ve learned to distrust the 48-hour wow window. Every fast model looks magical on showpiece prompts; the real test is day 30 on boring production work, where latency, cost per task and consistency decide. Which of these 10 still impresses you after a week of real use?"
+      },
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121634011676356615",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@minchoi The demos are wild — but I’ve learned to distrust the 48-hour wow window. Every fast model looks magical on showpiece prompts; the real test is day 30 on boring production work, where latency, cost per task and consistency decide. Which of these 10 still impresses you after a",
+      "url": "https://x.com/kukukila0/status/2121691260125925760"
+    },
+    {
+      "author_id": "1400968844768944129",
+      "conversation_id": "2121634011676356615",
+      "created_at": "2026-11-14T19:27:36.000Z",
+      "edit_history_tweet_ids": [
+        "2121686506460893409"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "23113993",
+            "start": 0,
+            "username": "minchoi"
+          }
+        ]
+      },
+      "id": "2121686506460893409",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 100,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121634011676356615",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@minchoi What are people building lately ? Seems like al interactive 3d visual",
+      "url": "https://x.com/twinunox/status/2121686506460893409"
+    },
+    {
+      "author_id": "1074699586189574145",
+      "conversation_id": "2121634011676356615",
+      "created_at": "2026-11-14T19:21:42.000Z",
+      "edit_history_tweet_ids": [
+        "2121685021241032982"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "23113993",
+            "start": 0,
+            "username": "minchoi"
+          }
+        ]
+      },
+      "id": "2121685021241032982",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 364,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121634011676356615",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@minchoi the speed is legit impressive for a fast model. still wouldn't pick it over fable for anything big tho. did you try any of these yourself?",
+      "url": "https://x.com/PhilipeReis7/status/2121685021241032982"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "23113993",
+        "conversation_id": "2121634011676356615",
+        "created_at": "2026-11-14T18:29:57.000Z",
+        "edit_history_tweet_ids": [
+          "2121671996605948255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1310115771184373760",
+              "start": 0,
+              "username": "xjaxax"
+            }
+          ]
+        },
+        "id": "2121671996605948255",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1609,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121665675538387029",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@xjaxax What kind of problem do you want it to solve?"
+      },
+      {
+        "author_id": "23113993",
+        "conversation_id": "2121634011676356615",
+        "created_at": "2026-11-14T15:59:01.000Z",
+        "edit_history_tweet_ids": [
+          "2121634011676356615"
+        ],
+        "id": "2121634011676356615",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 303,
+          "impression_count": 119574,
+          "like_count": 383,
+          "quote_count": 3,
+          "reply_count": 54,
+          "retweet_count": 29
+        },
+        "text": "Less than 48 hours ago, Google dropped Gemini 4 Hydrogen.\n\nMinds are blown. And people are already coming up with wild use cases.\n\n10 examples:"
+      },
+      {
+        "author_id": "1538661635921006592",
+        "conversation_id": "2121634011676356615",
+        "created_at": "2026-11-14T20:07:59.000Z",
+        "edit_history_tweet_ids": [
+          "2121696668533850325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "23113993",
+              "start": 0,
+              "username": "minchoi"
+            }
+          ]
+        },
+        "id": "2121696668533850325",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 661,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121634011676356615",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@minchoi These are awesome\nThanks for sharing"
+      },
+      {
+        "author_id": "23113993",
+        "conversation_id": "2121634011676356615",
+        "created_at": "2026-11-14T16:03:59.000Z",
+        "edit_history_tweet_ids": [
+          "2121635262958813523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 66,
+              "id": "23113993",
+              "start": 58,
+              "username": "minchoi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/minchoi/status…",
+              "end": 187,
+              "expanded_url": "https://x.com/minchoi/status/2121634011676356615",
+              "start": 164,
+              "url": "https://t.co/GIXh6omSml"
+            }
+          ]
+        },
+        "id": "2121635262958813523",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5884,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121634011676356615",
+            "type": "quoted"
+          },
+          {
+            "id": "2121634980971577478",
+            "type": "replied_to"
+          }
+        ],
+        "text": "That's a wrap!\n\nIf you enjoyed this thread:\n\n1. Follow me @minchoi for more AI drops like this\n2. Like + repost the first post below to share it with your friends\n\nhttps://t.co/GIXh6omSml"
+      },
+      {
+        "author_id": "23113993",
+        "conversation_id": "2121634011676356615",
+        "created_at": "2026-11-14T18:11:37.000Z",
+        "edit_history_tweet_ids": [
+          "2121667383073063228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1902793612771160064",
+              "start": 0,
+              "username": "SidraMiconi"
+            }
+          ]
+        },
+        "id": "2121667383073063228",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 976,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121666526948606440",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@SidraMiconi Which one"
+      },
+      {
+        "author_id": "1902793612771160064",
+        "conversation_id": "2120948703095820743",
+        "created_at": "2026-11-12T18:35:50.000Z",
+        "edit_history_tweet_ids": [
+          "2120948703095820743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7g7jLJ4IYO",
+              "end": 304,
+              "expanded_url": "https://x.com/SidraMiconi/status/2120948703095820743/video/1",
+              "media_key": "13_2120947306744954880",
+              "start": 281,
+              "url": "https://t.co/7g7jLJ4IYO"
+            },
+            {
+              "display_url": "x.com/sundarpichai/s…",
+              "end": 328,
+              "expanded_url": "https://twitter.com/sundarpichai/status/2120940236805169182",
+              "start": 305,
+              "url": "https://t.co/8bAukjLY8X"
+            }
+          ]
+        },
+        "id": "2120948703095820743",
+        "lang": "en",
+        "note_tweet": {
+          "text": "Gemini 4 Hydrogen built me a game about hydrogen.\n\nOne prompt, 78 seconds, about 19 cents: you're inside a young star at 15 million kelvin, pushing protons together hard enough to fuse. \n\nEvery step of the real proton-proton chain shows its energy, until helium forms and the core starts to glow."
+        },
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 69739,
+          "like_count": 355,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120940236805169182",
+            "type": "quoted"
+          }
+        ],
+        "text": "Gemini 4 Hydrogen built me a game about hydrogen.\n\nOne prompt, 78 seconds, about 19 cents: you're inside a young star at 15 million kelvin, pushing protons together hard enough to fuse. \n\nEvery step of the real proton-proton chain shows its energy, until helium forms and the core https://t.co/7g7jLJ4IYO https://t.co/8bAukjLY8X"
+      },
+      {
+        "author_id": "2001379961417142275",
+        "conversation_id": "2121634011676356615",
+        "created_at": "2026-11-14T21:00:27.000Z",
+        "edit_history_tweet_ids": [
+          "2121709871150051800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "23113993",
+              "start": 0,
+              "username": "minchoi"
+            },
+            {
+              "end": 43,
+              "id": "1720665183188922368",
+              "start": 38,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/29Ua872wob",
+              "end": 67,
+              "expanded_url": "https://x.com/roi32990/status/2121709871150051800/photo/1",
+              "media_key": "3_2121709858109988865",
+              "start": 44,
+              "url": "https://t.co/29Ua872wob"
+            }
+          ]
+        },
+        "id": "2121709871150051800",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121634011676356615",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@minchoi What about the New Alphabet? @grok https://t.co/29Ua872wob"
+      },
+      {
+        "author_id": "2366390365",
+        "conversation_id": "2121634011676356615",
+        "created_at": "2026-11-14T19:58:20.000Z",
+        "edit_history_tweet_ids": [
+          "2121694238324994528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "23113993",
+              "start": 0,
+              "username": "minchoi"
+            }
+          ]
+        },
+        "id": "2121694238324994528",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 962,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121634011676356615",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@minchoi at this point its getting desperate. it's not going anywhere for gemini lets admit it, you can release new models weekly still fall behind even sonnet level"
+      },
+      {
+        "author_id": "1032195487",
+        "conversation_id": "2121634011676356615",
+        "created_at": "2026-11-14T18:32:46.000Z",
+        "edit_history_tweet_ids": [
+          "2121672705501966455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "23113993",
+              "start": 0,
+              "username": "minchoi"
+            }
+          ]
+        },
+        "id": "2121672705501966455",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1244,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121634011676356615",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@minchoi people say it is better than opus5.5, what’s your say on this based on the works you’ve done on it?"
+      }
+    ],
+    "users": [
+      {
+        "id": "1310115771184373760",
+        "name": "Jayden",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119284870656741376/8ROpGqKQ_normal.jpg",
+        "username": "xjaxax",
+        "verified": false
+      },
+      {
+        "id": "1975239617705353225",
+        "name": "VIFE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989281106391416832/r7LpF8mc_normal.jpg",
+        "username": "VIFE_AI",
+        "verified": false
+      },
+      {
+        "id": "2121700996279566337",
+        "name": "UnhingedAi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2121702168453419008/skJ6_xlE_normal.jpg",
+        "username": "UnhingedAiPost",
+        "verified": false
+      },
+      {
+        "id": "1934918636185223169",
+        "name": "认知思维",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936959494560292864/7kqqqrHb_normal.jpg",
+        "username": "zhouxia200888",
+        "verified": false
+      },
+      {
+        "id": "23113993",
+        "name": "Min Choi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1638359113221517312/CBZaJFyA_normal.jpg",
+        "username": "minchoi",
+        "verified": false
+      },
+      {
+        "id": "101267440",
+        "name": "Max Meindl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/684567494409859072/rM6sxRZf_normal.jpg",
+        "username": "maxster",
+        "verified": false
+      },
+      {
+        "id": "1051704773609541632",
+        "name": "Wan Khalil",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108851761725554689/HETSrhoL_normal.jpg",
+        "username": "DrWanKhalil1",
+        "verified": false
+      },
+      {
+        "id": "2117548720178798592",
+        "name": "Turki Labs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118437012264951808/S0hGrQ-P_normal.jpg",
+        "username": "turkilabs",
+        "verified": false
+      },
+      {
+        "id": "106284796",
+        "name": "Nick Young",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1512162081092816897/SDkiFysH_normal.jpg",
+        "username": "nickofnz",
+        "verified": false
+      },
+      {
+        "id": "1902793612771160064",
+        "name": "Sidra Miconi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2121424779274301441/rOWZz5Td_normal.jpg",
+        "username": "SidraMiconi",
+        "verified": false
+      },
+      {
+        "id": "2116061913763172352",
+        "name": "Killa Runa X",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120616404516839424/PRljan6-_normal.jpg",
+        "username": "Killa_RunaX",
+        "verified": false
+      },
+      {
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "id": "3296549437",
+        "name": "Proof Of Activity",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865964489914675200/qsPWcJPx_normal.jpg",
+        "username": "ProofOfActivity",
+        "verified": false
+      },
+      {
+        "id": "2001379961417142275",
+        "name": "Gilles Roi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104174400366882817/iYeoTea2_normal.jpg",
+        "username": "roi32990",
+        "verified": false
+      },
+      {
+        "id": "166441825",
+        "name": "Howard Roark",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/3244595580/8ea2b91dfdd477845b5ae01e542e341a_normal.jpeg",
+        "username": "smellurfingers",
+        "verified": false
+      },
+      {
+        "id": "1825556649723240448",
+        "name": "jimerrors",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008436069428043776/V-w99gLN_normal.jpg",
+        "username": "JMkernt",
+        "verified": false
+      },
+      {
+        "id": "1822818294954414081",
+        "name": "Gabriele Bolognese | SaaS founder",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088685754671136768/SuwzE-YF_normal.jpg",
+        "username": "bologabriele",
+        "verified": false
+      },
+      {
+        "id": "1538661635921006592",
+        "name": "Amira Zairi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890156284688605184/-A5Q6izz_normal.jpg",
+        "username": "azed_ai",
+        "verified": false
+      },
+      {
+        "id": "1509257514394730496",
+        "name": "M.T.C.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914052806786363392/a1IAPKvC_normal.jpg",
+        "username": "TulliusCiceron",
+        "verified": false
+      },
+      {
+        "id": "2366390365",
+        "name": "VORTEX: AI Bros & AI Arena, Peak AI Buzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048881737225433088/Z1_FvgiV_normal.jpg",
+        "username": "VORTEX_Promos",
+        "verified": false
+      },
+      {
+        "id": "957859662547730432",
+        "name": "Kukukila",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025292632549982210/JdBc0gSU_normal.jpg",
+        "username": "kukukila0",
+        "verified": false
+      },
+      {
+        "id": "1400968844768944129",
+        "name": "AL.algo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931283902154301440/y70hD697_normal.jpg",
+        "username": "twinunox",
+        "verified": false
+      },
+      {
+        "id": "1074699586189574145",
+        "name": "Mr Reis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773474062284562433/O4JSHm47_normal.jpg",
+        "username": "PhilipeReis7",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121794909757755690",
+    "next_token": "b26v89c19zqg8o3juzovrga2hktqpd84euigzz10n8b5p",
+    "oldest_id": "2121685021241032982",
+    "result_count": 25
+  }
+}

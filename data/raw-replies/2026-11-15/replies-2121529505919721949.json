@@ -1,0 +1,1297 @@
+{
+  "data": [
+    {
+      "author_id": "1742045432728154112",
+      "conversation_id": "2121529505919721949",
+      "created_at": "2026-11-15T02:42:47.000Z",
+      "edit_history_tweet_ids": [
+        "2121796021391155240"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2121796021391155240",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121529505919721949",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge 5000字版的老黄辞职 好想看",
+      "url": "https://x.com/mnscz133680/status/2121796021391155240"
+    },
+    {
+      "author_id": "2104541278461657088",
+      "conversation_id": "2121529505919721949",
+      "created_at": "2026-11-14T16:09:14.000Z",
+      "edit_history_tweet_ids": [
+        "2121636583233511889"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2121636583233511889",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 134,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121529505919721949",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge 这第一句就有ai味了。。现在ai写作普遍不行，都是一个调调，一读就有一种用力过猛的感觉",
+      "url": "https://x.com/shuzhi96/status/2121636583233511889"
+    },
+    {
+      "author_id": "1449954981193289728",
+      "conversation_id": "2121529505919721949",
+      "created_at": "2026-11-14T16:03:23.000Z",
+      "edit_history_tweet_ids": [
+        "2121635113662656942"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2121635113662656942",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 65,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121529505919721949",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge Carbon 还是会写的，一句“十八个月后”就从开始跳到了结局，最后又落回最初那半秒的停顿，宿命感一下就有了。",
+      "url": "https://x.com/jojojoyce2021/status/2121635113662656942"
+    },
+    {
+      "author_id": "1820294864271200256",
+      "conversation_id": "2121529505919721949",
+      "created_at": "2026-11-14T15:41:01.000Z",
+      "edit_history_tweet_ids": [
+        "2121629482054512839"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2121629482054512839",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 38,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121529505919721949",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge 这个太可了，求原文",
+      "url": "https://x.com/wsiwsii/status/2121629482054512839"
+    },
+    {
+      "author_id": "6782882",
+      "conversation_id": "2121529505919721949",
+      "created_at": "2026-11-14T14:36:13.000Z",
+      "edit_history_tweet_ids": [
+        "2121613175452016846"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2348198078",
+            "start": 0,
+            "username": "ImEricCai"
+          },
+          {
+            "end": 22,
+            "id": "1328429924",
+            "start": 11,
+            "username": "LC150Prado"
+          }
+        ]
+      },
+      "id": "2121613175452016846",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 64,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121602685480915340",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ImEricCai @LC150Prado 官方 API",
+      "url": "https://x.com/oran_ge/status/2121613175452016846"
+    },
+    {
+      "author_id": "1320402950603169793",
+      "conversation_id": "2121529505919721949",
+      "created_at": "2026-11-14T14:01:49.000Z",
+      "edit_history_tweet_ids": [
+        "2121604520396656745"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2412044749",
+            "start": 0,
+            "username": "OvermanOu"
+          },
+          {
+            "end": 19,
+            "id": "6782882",
+            "start": 11,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2121604520396656745",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 13,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121600299181981896",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@OvermanOu @oran_ge carbon&lt;&lt;argon",
+      "url": "https://x.com/JFunfunfun/status/2121604520396656745"
+    },
+    {
+      "author_id": "1320402950603169793",
+      "conversation_id": "2121529505919721949",
+      "created_at": "2026-11-14T14:00:59.000Z",
+      "edit_history_tweet_ids": [
+        "2121604308114481387"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2121604308114481387",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 178,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121529505919721949",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge 这明显不行啊，一眼AI。最明显的就是，“整晚满桌人都在向他讨要芯片配额，只有黄乐把他面前的冰酒换成温水”，还有“指尖在他衣领边停顿的那半秒钟。” 这两句都是明显的AI。",
+      "url": "https://x.com/JFunfunfun/status/2121604308114481387"
+    },
+    {
+      "author_id": "2348198078",
+      "conversation_id": "2121529505919721949",
+      "created_at": "2026-11-14T13:54:32.000Z",
+      "edit_history_tweet_ids": [
+        "2121602685480915340"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          },
+          {
+            "end": 20,
+            "id": "1328429924",
+            "start": 9,
+            "username": "LC150Prado"
+          }
+        ]
+      },
+      "id": "2121602685480915340",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 47,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121555984573440052",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge @LC150Prado 那么 Carbon 模型是怎么接的呢？反代的嘛？",
+      "url": "https://x.com/ImEricCai/status/2121602685480915340"
+    },
+    {
+      "author_id": "2052373733319548929",
+      "conversation_id": "2121529505919721949",
+      "created_at": "2026-11-14T13:48:49.000Z",
+      "edit_history_tweet_ids": [
+        "2121601247778152569"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2121601247778152569",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121529505919721949",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge 5000 字版的老黄辞职我是真想看🤣",
+      "url": "https://x.com/MathisTerr61689/status/2121601247778152569"
+    },
+    {
+      "author_id": "2063471434572414976",
+      "conversation_id": "2121529505919721949",
+      "created_at": "2026-11-14T13:45:16.000Z",
+      "edit_history_tweet_ids": [
+        "2121600354521641227"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2121600354521641227",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 101,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121529505919721949",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge 老黄辞职这周比我们公司的周报精彩多了",
+      "url": "https://x.com/thuhh998/status/2121600354521641227"
+    },
+    {
+      "author_id": "2412044749",
+      "conversation_id": "2121529505919721949",
+      "created_at": "2026-11-14T13:45:03.000Z",
+      "edit_history_tweet_ids": [
+        "2121600299181981896"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2121600299181981896",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 205,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121529505919721949",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge 寫小說有比Argon好嗎？會不會追求編程能力和遵循指令結果創造力下降？",
+      "url": "https://x.com/OvermanOu/status/2121600299181981896"
+    },
+    {
+      "author_id": "6782882",
+      "conversation_id": "2121529505919721949",
+      "created_at": "2026-11-14T13:11:12.000Z",
+      "edit_history_tweet_ids": [
+        "2121591780311495119"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1147539255918383104",
+            "start": 0,
+            "username": "acdeeplearning1"
+          }
+        ]
+      },
+      "id": "2121591780311495119",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 501,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121578613699121644",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@acdeeplearning1 R1 也是一代神作啊 可惜。。。",
+      "url": "https://x.com/oran_ge/status/2121591780311495119"
+    },
+    {
+      "author_id": "2108064708058382336",
+      "conversation_id": "2121529505919721949",
+      "created_at": "2026-11-14T12:51:40.000Z",
+      "edit_history_tweet_ids": [
+        "2121586866847879309"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2121586866847879309",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 170,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121529505919721949",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge 写小说舒服这事我没亲自试\n5000 字版发不出来也太可惜了",
+      "url": "https://x.com/Linvaj/status/2121586866847879309"
+    },
+    {
+      "author_id": "2109279612496928768",
+      "conversation_id": "2121529505919721949",
+      "created_at": "2026-11-14T12:41:37.000Z",
+      "edit_history_tweet_ids": [
+        "2121584338118877635"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2121584338118877635",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 157,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121529505919721949",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge 牛，小说可以啊",
+      "url": "https://x.com/RainG999/status/2121584338118877635"
+    },
+    {
+      "author_id": "2054415115613806592",
+      "conversation_id": "2121529505919721949",
+      "created_at": "2026-11-14T12:37:17.000Z",
+      "edit_history_tweet_ids": [
+        "2121583245779505205"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2121583245779505205",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121529505919721949",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge 5000 字细节太多发不出来——写小说的上限不是模型，是胆子。",
+      "url": "https://x.com/Johnb4zb/status/2121583245779505205"
+    },
+    {
+      "author_id": "2034496373702172673",
+      "conversation_id": "2121529505919721949",
+      "created_at": "2026-11-14T12:27:42.000Z",
+      "edit_history_tweet_ids": [
+        "2121580835308802500"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2121580835308802500",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 213,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121529505919721949",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge 老黄辞职这个梗太会了",
+      "url": "https://x.com/Ken_HaoG/status/2121580835308802500"
+    },
+    {
+      "author_id": "2110767738407063552",
+      "conversation_id": "2121529505919721949",
+      "created_at": "2026-11-14T12:23:37.000Z",
+      "edit_history_tweet_ids": [
+        "2121579804336312802"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2121579804336312802",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 243,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121529505919721949",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge 以下是grok说的：写东西最怕读着像生成出来的。Carbon 这篇细节铺得密，但又没有那种空赞，确实舒服。他表示服气。",
+      "url": "https://x.com/Lawery_rolin/status/2121579804336312802"
+    },
+    {
+      "author_id": "1717809218731065344",
+      "conversation_id": "2121529505919721949",
+      "created_at": "2026-11-14T12:21:53.000Z",
+      "edit_history_tweet_ids": [
+        "2121579369277845889"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2121579369277845889",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121529505919721949",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge 笑死，5000字版老黄辞职都写出来了，“细节太多没法发”这句最勾人，求个精简版",
+      "url": "https://x.com/libo_ai/status/2121579369277845889"
+    },
+    {
+      "author_id": "1147539255918383104",
+      "conversation_id": "2121529505919721949",
+      "created_at": "2026-11-14T12:18:53.000Z",
+      "edit_history_tweet_ids": [
+        "2121578613699121644"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2121578613699121644",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 618,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121529505919721949",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge 这些意象大量铺陈的手法是DS R1玩腻了的。。。",
+      "url": "https://x.com/acdeeplearning1/status/2121578613699121644"
+    },
+    {
+      "author_id": "22938360",
+      "conversation_id": "2121529505919721949",
+      "created_at": "2026-11-14T11:57:23.000Z",
+      "edit_history_tweet_ids": [
+        "2121573202619203799"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2121573202619203799",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 795,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121529505919721949",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge 牛逼",
+      "url": "https://x.com/kevinzhow/status/2121573202619203799"
+    },
+    {
+      "author_id": "882344550659969024",
+      "conversation_id": "2121529505919721949",
+      "created_at": "2026-11-14T11:56:32.000Z",
+      "edit_history_tweet_ids": [
+        "2121572990530060780"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2121572990530060780",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121529505919721949",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge 用AI写小说这个体验听起来太舒服了，连老黄辞职这种细节都能展开写5000字，工具越顺手越容易上瘾，不过写出来的东西终归还是要人来把关、注入自己的想法才有灵魂。",
+      "url": "https://x.com/xsm0820/status/2121572990530060780"
+    },
+    {
+      "author_id": "2100198569034887168",
+      "conversation_id": "2121529505919721949",
+      "created_at": "2026-11-14T11:52:15.000Z",
+      "edit_history_tweet_ids": [
+        "2121571912753266995"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2121571912753266995",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 109,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121529505919721949",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge 5000字老黄辞职快发，我这点NV想追个结局",
+      "url": "https://x.com/lianshangbiji/status/2121571912753266995"
+    },
+    {
+      "author_id": "1510028300",
+      "conversation_id": "2121529505919721949",
+      "created_at": "2026-11-14T11:44:49.000Z",
+      "edit_history_tweet_ids": [
+        "2121570040483021125"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2121570040483021125",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 171,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121529505919721949",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge 5000字那版光校对就够呛吧，长篇细节能前后对上吗",
+      "url": "https://x.com/rainwaterJay/status/2121570040483021125"
+    },
+    {
+      "author_id": "2098721428870926336",
+      "conversation_id": "2121529505919721949",
+      "created_at": "2026-11-14T11:40:05.000Z",
+      "edit_history_tweet_ids": [
+        "2121568850575790155"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2121568850575790155",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 245,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121529505919721949",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge 讲真，老黄辞职这事现实已经够魔幻了，AI 再给写个 5000 字，我怕分不清哪段是编的。",
+      "url": "https://x.com/probystander/status/2121568850575790155"
+    },
+    {
+      "author_id": "2117025660329959424",
+      "conversation_id": "2121529505919721949",
+      "created_at": "2026-11-14T11:25:23.000Z",
+      "edit_history_tweet_ids": [
+        "2121565151216435201"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "6782882",
+            "start": 0,
+            "username": "oran_ge"
+          }
+        ]
+      },
+      "id": "2121565151216435201",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121529505919721949",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge 看图那几段对话挺自然的，不像以前 AI 写的小说一股翻译腔。5000 字版的老黄辞职真想看，细节多才好看啊，分几张图发也行",
+      "url": "https://x.com/Xiaojiuban/status/2121565151216435201"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "6782882",
+        "conversation_id": "2121529505919721949",
+        "created_at": "2026-11-14T09:03:44.000Z",
+        "edit_history_tweet_ids": [
+          "2121529505919721949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9xGGK5RhkA",
+              "end": 72,
+              "expanded_url": "https://x.com/oran_ge/status/2121529505919721949/photo/1",
+              "media_key": "3_2121529242764861441",
+              "start": 49,
+              "url": "https://t.co/9xGGK5RhkA"
+            }
+          ]
+        },
+        "id": "2121529505919721949",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 17696,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "text": "Carbon 写小说有多舒服呢\n看图吧\n其实还写了一个5000字版的老黄辞职\n细节太多了没法发了 https://t.co/9xGGK5RhkA"
+      },
+      {
+        "author_id": "2348198078",
+        "conversation_id": "2121529505919721949",
+        "created_at": "2026-11-14T13:54:32.000Z",
+        "edit_history_tweet_ids": [
+          "2121602685480915340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "6782882",
+              "start": 0,
+              "username": "oran_ge"
+            },
+            {
+              "end": 20,
+              "id": "1328429924",
+              "start": 9,
+              "username": "LC150Prado"
+            }
+          ]
+        },
+        "id": "2121602685480915340",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121555984573440052",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@oran_ge @LC150Prado 那么 Carbon 模型是怎么接的呢？反代的嘛？"
+      },
+      {
+        "author_id": "2412044749",
+        "conversation_id": "2121529505919721949",
+        "created_at": "2026-11-14T13:45:03.000Z",
+        "edit_history_tweet_ids": [
+          "2121600299181981896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "6782882",
+              "start": 0,
+              "username": "oran_ge"
+            }
+          ]
+        },
+        "id": "2121600299181981896",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 205,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121529505919721949",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@oran_ge 寫小說有比Argon好嗎？會不會追求編程能力和遵循指令結果創造力下降？"
+      },
+      {
+        "author_id": "6782882",
+        "conversation_id": "2121529505919721949",
+        "created_at": "2026-11-14T10:48:57.000Z",
+        "edit_history_tweet_ids": [
+          "2121555984573440052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1328429924",
+              "start": 0,
+              "username": "LC150Prado"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Cola, an AI companion that grows with you. Turning AI progress into new possibilities for everyone. Your second growth curve, with Cola.",
+              "display_url": "colaos.ai",
+              "end": 35,
+              "expanded_url": "https://colaos.ai",
+              "images": [
+                {
+                  "height": 768,
+                  "url": "https://pbs.twimg.com/news_img/2121556036792561665/T_baea9M?format=jpg&name=orig",
+                  "width": 1376
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2121556036792561665/T_baea9M?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 12,
+              "status": 200,
+              "title": "Cola, an AI companion that grows with you.",
+              "unwound_url": "https://colaos.ai",
+              "url": "https://t.co/K9517ktkDi"
+            }
+          ]
+        },
+        "id": "2121555984573440052",
+        "lang": "qme",
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1040,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121547139398660242",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@LC150Prado https://t.co/K9517ktkDi"
+      },
+      {
+        "author_id": "1147539255918383104",
+        "conversation_id": "2121529505919721949",
+        "created_at": "2026-11-14T12:18:53.000Z",
+        "edit_history_tweet_ids": [
+          "2121578613699121644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "6782882",
+              "start": 0,
+              "username": "oran_ge"
+            }
+          ]
+        },
+        "id": "2121578613699121644",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 618,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121529505919721949",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@oran_ge 这些意象大量铺陈的手法是DS R1玩腻了的。。。"
+      }
+    ],
+    "users": [
+      {
+        "id": "1742045432728154112",
+        "name": "LifeInsight",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116501191672971264/ympRXbXK_normal.jpg",
+        "username": "mnscz133680",
+        "verified": false
+      },
+      {
+        "id": "2104541278461657088",
+        "name": "shuzhi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104541782533107712/0bfBimC8_normal.jpg",
+        "username": "shuzhi96",
+        "verified": false
+      },
+      {
+        "id": "1449954981193289728",
+        "name": "jojo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032900072002957314/_1dIlTuS_normal.jpg",
+        "username": "jojojoyce2021",
+        "verified": false
+      },
+      {
+        "id": "1820294864271200256",
+        "name": "Wibi X",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005899840279232512/BcEVTeyn_normal.jpg",
+        "username": "wsiwsii",
+        "verified": false
+      },
+      {
+        "id": "6782882",
+        "name": "Orange AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760074488073629696/ceSsuVCY_normal.png",
+        "username": "oran_ge",
+        "verified": false
+      },
+      {
+        "id": "1320402950603169793",
+        "name": "JustForFUNFUNFUN",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "username": "JFunfunfun",
+        "verified": false
+      },
+      {
+        "id": "2348198078",
+        "name": "Eric Cai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119636861232771072/WU3riVq__normal.jpg",
+        "username": "ImEricCai",
+        "verified": false
+      },
+      {
+        "id": "2052373733319548929",
+        "name": "Terri Mathis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066177106447618048/Xs_MDpMI_normal.jpg",
+        "username": "MathisTerr61689",
+        "verified": false
+      },
+      {
+        "id": "2063471434572414976",
+        "name": "Frog｜AI·科技",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117279154098073600/m54jQTFG_normal.jpg",
+        "username": "thuhh998",
+        "verified": false
+      },
+      {
+        "id": "2412044749",
+        "name": "Overman Ou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966991569992773632/aGwo-6SL_normal.jpg",
+        "username": "OvermanOu",
+        "verified": false
+      },
+      {
+        "id": "2108064708058382336",
+        "name": "Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116958322704220160/c6IAcFZr_normal.jpg",
+        "username": "Linvaj",
+        "verified": false
+      },
+      {
+        "id": "2109279612496928768",
+        "name": "Rain",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109280870511345664/6z_H9NIu_normal.jpg",
+        "username": "RainG999",
+        "verified": false
+      },
+      {
+        "id": "2054415115613806592",
+        "name": "John",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054415347529428992/29iAKNd__normal.jpg",
+        "username": "Johnb4zb",
+        "verified": false
+      },
+      {
+        "id": "2034496373702172673",
+        "name": "𝑲𝒆𝒏 𝑯𝒂𝒐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105627364038189056/JjW9pL9m_normal.jpg",
+        "username": "Ken_HaoG",
+        "verified": false
+      },
+      {
+        "id": "2110767738407063552",
+        "name": "金子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119522484039163904/C4qZLpGm_normal.jpg",
+        "username": "Lawery_rolin",
+        "verified": false
+      },
+      {
+        "id": "1717809218731065344",
+        "name": "AI速递 | 李博",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116925829179400194/USEFFNhW_normal.jpg",
+        "username": "libo_ai",
+        "verified": false
+      },
+      {
+        "id": "1147539255918383104",
+        "name": "ac-deep-learning",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "username": "acdeeplearning1",
+        "verified": false
+      },
+      {
+        "id": "22938360",
+        "name": "kevinzhow",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808138216585023490/xQ3u-b4x_normal.jpg",
+        "username": "kevinzhow",
+        "verified": false
+      },
+      {
+        "id": "882344550659969024",
+        "name": "luisa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118840890286309376/p0DrnCKX_normal.jpg",
+        "username": "xsm0820",
+        "verified": false
+      },
+      {
+        "id": "2100198569034887168",
+        "name": "发财姐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108355650640392192/XzTTwlPv_normal.jpg",
+        "username": "lianshangbiji",
+        "verified": false
+      },
+      {
+        "id": "1510028300",
+        "name": "星海拾珠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080054703443124224/hBBqGT1U_normal.jpg",
+        "username": "rainwaterJay",
+        "verified": false
+      },
+      {
+        "id": "2098721428870926336",
+        "name": "Professional Bystander",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108530610683658240/aYRmacZm_normal.jpg",
+        "username": "probystander",
+        "verified": false
+      },
+      {
+        "id": "2117025660329959424",
+        "name": "小久",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117346590122016768/JAJtv9Pb_normal.jpg",
+        "username": "Xiaojiuban",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121796021391155240",
+    "next_token": "b26v89c19zqg8o3juzovre4qrebxhug4vd0b81b3oo7lp",
+    "oldest_id": "2121565151216435201",
+    "result_count": 25
+  }
+}

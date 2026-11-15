@@ -1,0 +1,545 @@
+{
+  "data": [
+    {
+      "author_id": "1362441182538731525",
+      "created_at": "2026-11-15T02:18:20.000Z",
+      "edit_history_tweet_ids": [
+        "2121789870716616770"
+      ],
+      "id": "2121789870716616770",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121594565857878212",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 4 位精度训完整个大模型，等于把显卡账单直接砍一截。最怕误差越滚越大，能稳住才是真本事，兄弟们这条值得细看。",
+      "url": "https://x.com/Dr_ztc/status/2121789870716616770"
+    },
+    {
+      "author_id": "1722440466",
+      "created_at": "2026-11-15T01:50:54.000Z",
+      "edit_history_tweet_ids": [
+        "2121782964627656969"
+      ],
+      "id": "2121782964627656969",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121594565857878212",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 补充一下，Inkling 2 Small 的权重已经按 Apache 2.0 放上 Hugging Face 了。68 小时跑完预训练这个数对小团队意义更大：一次完整试错从几周压到三天，迭代节奏完全不一样。",
+      "url": "https://x.com/passerbyRichard/status/2121782964627656969"
+    },
+    {
+      "author_id": "1992952876533215232",
+      "created_at": "2026-11-14T17:41:40.000Z",
+      "edit_history_tweet_ids": [
+        "2121659847053865234"
+      ],
+      "id": "2121659847053865234",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121594565857878212",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 4-bit 全流程训练，要是误差真能压住，训练成本能下来不少，小团队也能玩大模型了，期待实测效果。",
+      "url": "https://x.com/xiri318695/status/2121659847053865234"
+    },
+    {
+      "author_id": "2098721428870926336",
+      "created_at": "2026-11-14T15:53:02.000Z",
+      "edit_history_tweet_ids": [
+        "2121632508962078995"
+      ],
+      "id": "2121632508962078995",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 17,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121594565857878212",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 4 位训练要是真稳了，最先受益的不是大厂，是那些卡不够只能租卡的小团队，省下来的都是真金白银。",
+      "url": "https://x.com/probystander/status/2121632508962078995"
+    },
+    {
+      "author_id": "3675015312",
+      "created_at": "2026-11-14T14:57:21.000Z",
+      "edit_history_tweet_ids": [
+        "2121618493372092546"
+      ],
+      "id": "2121618493372092546",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 25,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121594565857878212",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 预训练省 8%，强化学习却快了 20%，这个反差最有意思。\n说明以后拉开差距的地方，越来越不在预训练，而在后面的 RL。\n省下来的算力，最后大概还是会被 RL 吃回去。",
+      "url": "https://x.com/laoyantongxue/status/2121618493372092546"
+    },
+    {
+      "author_id": "2055195732773335040",
+      "created_at": "2026-11-14T14:48:20.000Z",
+      "edit_history_tweet_ids": [
+        "2121616225629508082"
+      ],
+      "id": "2121616225629508082",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121594565857878212",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 看完想到物理实验的有效数字😂 中间过程粗算、关键步骤保留精度，跟前向 4 位、反向 8 位是一个思路。几周压到 68 小时这个变化太夸张了",
+      "url": "https://x.com/PeihanLi090430/status/2121616225629508082"
+    },
+    {
+      "author_id": "1397366230768517121",
+      "created_at": "2026-11-14T14:36:41.000Z",
+      "edit_history_tweet_ids": [
+        "2121613294888976594"
+      ],
+      "id": "2121613294888976594",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121594565857878212",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 如果训练能更快、效果又基本不掉，这种进步比再刷一个榜单更实在\n也希望省下来的成本，最后能落到用户的价格和额度上",
+      "url": "https://x.com/dennisdavis_ai/status/2121613294888976594"
+    },
+    {
+      "author_id": "2100198569034887168",
+      "created_at": "2026-11-14T13:48:31.000Z",
+      "edit_history_tweet_ids": [
+        "2121601171949518951"
+      ],
+      "id": "2121601171949518951",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121594565857878212",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 真的假的 4bit都能训",
+      "url": "https://x.com/lianshangbiji/status/2121601171949518951"
+    },
+    {
+      "author_id": "795477680493891584",
+      "created_at": "2026-11-14T13:42:14.000Z",
+      "edit_history_tweet_ids": [
+        "2121599591095406935"
+      ],
+      "id": "2121599591095406935",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 20,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121594565857878212",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 四舍五入真正的问题是有偏\n每次都往同一边舍，几万步下来误差就叠上去了\n所以 4 位训练基本都要配随机舍入，单次误差没变小，但期望上是无偏的\nNVIDIA 那套 NVFP4 训练方案就是在梯度上用的随机舍入",
+      "url": "https://x.com/stevenwu_sg/status/2121599591095406935"
+    },
+    {
+      "author_id": "3321002460",
+      "created_at": "2026-11-14T13:40:47.000Z",
+      "edit_history_tweet_ids": [
+        "2121599226950070548"
+      ],
+      "id": "2121599226950070548",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 15,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121594565857878212",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 前向 4 位、反向切回 8 位，这种混着来的路线比全程 4 位稳多了。68 小时预训练完 Inkling 2 Small 这个数挺说明问题",
+      "url": "https://x.com/lzuren2001/status/2121599226950070548"
+    },
+    {
+      "author_id": "1640237294551552000",
+      "created_at": "2026-11-14T13:37:25.000Z",
+      "edit_history_tweet_ids": [
+        "2121598378081661354"
+      ],
+      "id": "2121598378081661354",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 13,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121594565857878212",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 前向4位后向8位对注意力更友好。帖子只给了相对全程8位提速8%和强化学习20%，基线不是BF16。同参数下更该看对BF16在MMLU与LiveCodeBench的绝对分差、长文本推理的loss差。随机舍入只统计平均无偏，分布式各卡舍入不一致会给梯度同步加噪声，小batch强化学习比大batch预训练更易震荡。",
+      "url": "https://x.com/zrqgood9068/status/2121598378081661354"
+    },
+    {
+      "author_id": "1969682764686569472",
+      "created_at": "2026-11-14T13:31:02.000Z",
+      "edit_history_tweet_ids": [
+        "2121596770065018921"
+      ],
+      "id": "2121596770065018921",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121594565857878212",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 68 小时预训练这数挺唬人，但细看是混搭：前向 NVFP4，反向切回 MXFP8。不是\"全程 4 位\"，是把最贵那段压到 4 位。RL 阶段提速 20% 比预训练省 8% 更值钱，RL 才是现在烧卡大头。问题是 BBBK 绑死 GB300，没有 Blackwell 的团队能抄几成？",
+      "url": "https://x.com/BoomAIGC/status/2121596770065018921"
+    },
+    {
+      "author_id": "1825556649723240448",
+      "created_at": "2026-11-14T13:29:43.000Z",
+      "edit_history_tweet_ids": [
+        "2121596440254247076"
+      ],
+      "id": "2121596440254247076",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121594565857878212",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 前向4位向后8位这分工挺有意思，GB300上68小时跑完，强化学习还快了20%。",
+      "url": "https://x.com/JMkernt/status/2121596440254247076"
+    },
+    {
+      "author_id": "1980496645839286272",
+      "created_at": "2026-11-14T13:28:29.000Z",
+      "edit_history_tweet_ids": [
+        "2121596131423719487"
+      ],
+      "id": "2121596131423719487",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121594565857878212",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 4 位训练最难的是误差累积，最想看跟 BF16 基线的 loss 差多少。梯度那步是不是还得留高精度？",
+      "url": "https://x.com/wCs123123/status/2121596131423719487"
+    },
+    {
+      "author_id": "1730016617822814208",
+      "created_at": "2026-11-14T13:28:04.000Z",
+      "edit_history_tweet_ids": [
+        "2121596027316941216"
+      ],
+      "id": "2121596027316941216",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 25,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121594565857878212",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 这是我该看的吗？GB300国内国际都没几套？",
+      "url": "https://x.com/MarkWentao1076/status/2121596027316941216"
+    },
+    {
+      "author_id": "4440833594",
+      "created_at": "2026-11-14T13:24:13.000Z",
+      "edit_history_tweet_ids": [
+        "2121595058604642783"
+      ],
+      "id": "2121595058604642783",
+      "in_reply_to_user_id": "1657474831",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 13,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121594565857878212",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Gorden_Sun 这套分工眼熟得很：向前的粗活交给4位跑量，向后的细活切回8位保命。和现在用agent一个道理，贵资源只花在错不起的环节。精度开始按环节明码标价，训练这张入场券，接下来只会越来越便宜。",
+      "url": "https://x.com/DearHua2025/status/2121595058604642783"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1657474831",
+        "created_at": "2026-11-14T13:22:16.000Z",
+        "edit_history_tweet_ids": [
+          "2121594565857878212"
+        ],
+        "id": "2121594565857878212",
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 2867,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 1
+        },
+        "text": "End-to-End 4-Bit Training：让大模型用更粗糙的数字格式完成全流程训练，大幅缩短显卡训练时间\n\n训练大模型需要处理海量数据，直接把数字精度压到4位虽然能加快计算，但四舍五入累积的误差会严重拖垮模型的学习效果。\n\n为了解决这个矛盾，Thinking Machines https://t.co/1hBBkFt369"
+      }
+    ],
+    "users": [
+      {
+        "id": "1362441182538731525",
+        "name": "大狗嚼 Ai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120334252831289344/kb05PiRM_normal.jpg",
+        "username": "Dr_ztc",
+        "verified": false
+      },
+      {
+        "id": "1722440466",
+        "name": "行色路人.Passerby",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117541315873525760/ay_ItlAv_normal.jpg",
+        "username": "passerbyRichard",
+        "verified": false
+      },
+      {
+        "id": "1992952876533215232",
+        "name": "xiri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109965574642315264/9CU1uCk-_normal.jpg",
+        "username": "xiri318695",
+        "verified": false
+      },
+      {
+        "id": "2098721428870926336",
+        "name": "Professional Bystander",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108530610683658240/aYRmacZm_normal.jpg",
+        "username": "probystander",
+        "verified": false
+      },
+      {
+        "id": "3675015312",
+        "name": "老颜同学",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076574140098830336/AjVOr7Dq_normal.jpg",
+        "username": "laoyantongxue",
+        "verified": false
+      },
+      {
+        "id": "2055195732773335040",
+        "name": "Mark li",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109092891092213760/rd6Xi4kz_normal.jpg",
+        "username": "PeihanLi090430",
+        "verified": false
+      },
+      {
+        "id": "1397366230768517121",
+        "name": "Dennis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2111846089511026689/aV1ocXOU_normal.jpg",
+        "username": "dennisdavis_ai",
+        "verified": false
+      },
+      {
+        "id": "2100198569034887168",
+        "name": "发财姐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108355650640392192/XzTTwlPv_normal.jpg",
+        "username": "lianshangbiji",
+        "verified": false
+      },
+      {
+        "id": "795477680493891584",
+        "name": "Steven W.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2114243945270272000/pyEtgXmQ_normal.jpg",
+        "username": "stevenwu_sg",
+        "verified": false
+      },
+      {
+        "id": "3321002460",
+        "name": "Laosun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106230531092627456/YgfakUvg_normal.jpg",
+        "username": "lzuren2001",
+        "verified": false
+      },
+      {
+        "id": "1640237294551552000",
+        "name": "zrqgood",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868154657509670912/ayT7Mc-z_normal.jpg",
+        "username": "zrqgood9068",
+        "verified": false
+      },
+      {
+        "id": "1969682764686569472",
+        "name": "BoomAIGC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2114897811607052288/K9pAdMFE_normal.jpg",
+        "username": "BoomAIGC",
+        "verified": false
+      },
+      {
+        "id": "1825556649723240448",
+        "name": "jimerrors",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008436069428043776/V-w99gLN_normal.jpg",
+        "username": "JMkernt",
+        "verified": false
+      },
+      {
+        "id": "1980496645839286272",
+        "name": "WCS · AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097927257813868545/glB_aWzv_normal.jpg",
+        "username": "wCs123123",
+        "verified": false
+      },
+      {
+        "id": "1730016617822814208",
+        "name": "涛同学|Mark",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116741363794616320/WVyX4yb4_normal.jpg",
+        "username": "MarkWentao1076",
+        "verified": false
+      },
+      {
+        "id": "4440833594",
+        "name": "DearHua",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086038908614201344/-kNn5tsh_normal.jpg",
+        "username": "DearHua2025",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121789870716616770",
+    "next_token": "b26v89c19zqg8o3juzovre5n4o8qelaiyh1qx7o9ofkot",
+    "oldest_id": "2121595058604642783",
+    "result_count": 16
+  }
+}

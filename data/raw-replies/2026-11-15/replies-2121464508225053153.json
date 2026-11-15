@@ -1,0 +1,1351 @@
+{
+  "data": [
+    {
+      "author_id": "2019456800144183296",
+      "conversation_id": "2121464508225053153",
+      "created_at": "2026-11-15T02:59:45.000Z",
+      "edit_history_tweet_ids": [
+        "2121800291351724127"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "2121800291351724127",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121464508225053153",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan What efforts have tou used for the test?",
+      "url": "https://x.com/shipwithstef/status/2121800291351724127"
+    },
+    {
+      "author_id": "1496121204218150912",
+      "conversation_id": "2121464508225053153",
+      "created_at": "2026-11-15T02:36:11.000Z",
+      "edit_history_tweet_ids": [
+        "2121794359813402908"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "2121794359813402908",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121464508225053153",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan The pass rates are basically tied, but 2.8x the cost per solved task is the real story. At that price gap Fable has to win on something the benchmark doesn't measure — what did you notice it doing differently in practice?",
+      "url": "https://x.com/Worldwide2060/status/2121794359813402908"
+    },
+    {
+      "author_id": "2118725849021337601",
+      "conversation_id": "2121464508225053153",
+      "created_at": "2026-11-15T02:09:53.000Z",
+      "edit_history_tweet_ids": [
+        "2121787742338400481"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "2121787742338400481",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121464508225053153",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan Cost per solved task is the metric more teams should report. Pass rate alone hides that 2.8x. Would love the same split on failures too: does Fable fail cheaper, or burn more tokens before giving up?",
+      "url": "https://x.com/slduai/status/2121787742338400481"
+    },
+    {
+      "author_id": "1483697277932027907",
+      "conversation_id": "2121464508225053153",
+      "created_at": "2026-11-15T01:37:27.000Z",
+      "edit_history_tweet_ids": [
+        "2121779581678186661"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "2121779581678186661",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121464508225053153",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan 省流：便宜的管饱，贵的干细活。但现在的问题是，这俩把卷王的路都快堵死了。",
+      "url": "https://x.com/rsrrcj777/status/2121779581678186661"
+    },
+    {
+      "author_id": "16367850",
+      "conversation_id": "2121464508225053153",
+      "created_at": "2026-11-15T01:25:06.000Z",
+      "edit_history_tweet_ids": [
+        "2121776472742674439"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "2050906579176681472",
+            "start": 0,
+            "username": "NvkTvd"
+          },
+          {
+            "end": 17,
+            "id": "11768582",
+            "start": 8,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "2121776472742674439",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121594278048600543",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@NvkTvd @garrytan In what way?",
+      "url": "https://x.com/ChadMoran/status/2121776472742674439"
+    },
+    {
+      "author_id": "1763756774417375232",
+      "conversation_id": "2121464508225053153",
+      "created_at": "2026-11-15T01:14:16.000Z",
+      "edit_history_tweet_ids": [
+        "2121773748219248899"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "2121773748219248899",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121464508225053153",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan You’re getting lazy",
+      "url": "https://x.com/TheOriginalNid/status/2121773748219248899"
+    },
+    {
+      "author_id": "2305313552",
+      "conversation_id": "2121464508225053153",
+      "created_at": "2026-11-14T23:42:47.000Z",
+      "edit_history_tweet_ids": [
+        "2121750722018734388"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "2121750722018734388",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121464508225053153",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan The cost per solved task is the useful comparison. In consumer brands I run the same check on tools that promise to save time, what one finished job actually costs.",
+      "url": "https://x.com/Chris_Wichert/status/2121750722018734388"
+    },
+    {
+      "author_id": "2091778553092112384",
+      "conversation_id": "2121464508225053153",
+      "created_at": "2026-11-14T23:06:06.000Z",
+      "edit_history_tweet_ids": [
+        "2121741494172238188"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "2121741494172238188",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121464508225053153",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan On harder tasks I think the cheaper model keeps up if a second agent checks its work. Luna xhigh with a reviewer and an adversary scored 48.8% in our tests on programbench tasks against 48.1% for raw sol xhigh, on about a third of the weekly limit. It's a bello config, ours",
+      "url": "https://x.com/Valeriywn/status/2121741494172238188"
+    },
+    {
+      "author_id": "759837871322914816",
+      "conversation_id": "2121464508225053153",
+      "created_at": "2026-11-14T22:53:23.000Z",
+      "edit_history_tweet_ids": [
+        "2121738293465563289"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "2121738293465563289",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121464508225053153",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan the cost per solved task hides what a failure costs on the hard ones",
+      "url": "https://x.com/shirazghauri97/status/2121738293465563289"
+    },
+    {
+      "author_id": "2036869765126410240",
+      "conversation_id": "2121464508225053153",
+      "created_at": "2026-11-14T22:41:55.000Z",
+      "edit_history_tweet_ids": [
+        "2121735405888209314"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "2121735405888209314",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121464508225053153",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan 2.80x per solved task for basically the same 83% is wild, the harness moves that more than the model. been in touch with 2 really smart 18 yr old guys, their repo Bello beat Codex Goal on the same model in NetHack, 42% higher best score and cheaper. dropped from $100 to $20 lol",
+      "url": "https://x.com/jan583150394931/status/2121735405888209314"
+    },
+    {
+      "author_id": "39202644",
+      "conversation_id": "2121464508225053153",
+      "created_at": "2026-11-14T21:46:13.000Z",
+      "edit_history_tweet_ids": [
+        "2121721387547267498"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          },
+          {
+            "end": 64,
+            "id": "35432643",
+            "start": 53,
+            "username": "addyosmani"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Which Claude model to pick, what they cost, and how to use them together.",
+            "display_url": "claude.dev/blog/which-cla…",
+            "end": 218,
+            "expanded_url": "https://claude.dev/blog/which-claude-model-should-you-build-with/",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2119898688302768128/nq0a1W8f?format=png&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2119898688302768128/nq0a1W8f?format=png&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 195,
+            "status": 200,
+            "title": "Which Claude model should you build with? Fable, Opus, Sonnet, or Haiku / claude.dev Blog",
+            "unwound_url": "https://claude.dev/blog/which-claude-model-should-you-build-with/",
+            "url": "https://t.co/5UDjTLfmdF"
+          }
+        ]
+      },
+      "id": "2121721387547267498",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 17,
+        "impression_count": 1237,
+        "like_count": 25,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121464508225053153",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan this eval may just be saturated. check out @addyosmani article that gives guidance on when to reach for Fable 5.2 v Opus 5.5. \n\nOpus 5.5 medium is a fantastic daily drive / baseline! \n\nhttps://t.co/5UDjTLfmdF",
+      "url": "https://x.com/RLanceMartin/status/2121721387547267498"
+    },
+    {
+      "author_id": "1372212747883184132",
+      "conversation_id": "2121464508225053153",
+      "created_at": "2026-11-14T21:36:51.000Z",
+      "edit_history_tweet_ids": [
+        "2121719033393189074"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "2121719033393189074",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121464508225053153",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan shrinking model gaps will force software value entirely into dynamic token routing",
+      "url": "https://x.com/OPuzanov/status/2121719033393189074"
+    },
+    {
+      "author_id": "1947880431388397568",
+      "conversation_id": "2121464508225053153",
+      "created_at": "2026-11-14T21:35:53.000Z",
+      "edit_history_tweet_ids": [
+        "2121718788026417184"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/SoumilBhandari…",
+            "end": 168,
+            "expanded_url": "https://x.com/SoumilBhandari/status/2121710647427936265",
+            "start": 145,
+            "url": "https://t.co/eLNP2raTu4"
+          }
+        ]
+      },
+      "id": "2121718788026417184",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 34,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121710647427936265",
+          "type": "quoted"
+        },
+        {
+          "id": "2121464508225053153",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan 2.8x per solve is a fuel problem lol. made a claude code mod that shows token burn as a fuel gauge so you can literally watch it drain https://t.co/eLNP2raTu4",
+      "url": "https://x.com/SoumilBhandari/status/2121718788026417184"
+    },
+    {
+      "author_id": "1779160148486811649",
+      "conversation_id": "2121464508225053153",
+      "created_at": "2026-11-14T21:20:36.000Z",
+      "edit_history_tweet_ids": [
+        "2121714943896801788"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "2121714943896801788",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121464508225053153",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan 性能接近就选便宜的",
+      "url": "https://x.com/Angel_Lanbao/status/2121714943896801788"
+    },
+    {
+      "author_id": "2113033461036703744",
+      "conversation_id": "2121464508225053153",
+      "created_at": "2026-11-14T21:12:51.000Z",
+      "edit_history_tweet_ids": [
+        "2121712990622003681"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Anthropic's Claude Fable 5.2 and Mythos 5.2 are faster, 20% cheaper and top most benchmarks. What changed, what it costs and who can use each model.",
+            "display_url": "dailyaibrief.xyz/posts/claude-f…",
+            "end": 245,
+            "expanded_url": "https://dailyaibrief.xyz/posts/claude-fable-5-2-mythos-5-2-anthropic/",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2121712991561531392/C_sLMwTY?format=png&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2121712991561531392/C_sLMwTY?format=png&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 222,
+            "status": 200,
+            "title": "Claude Fable 5.2 and Mythos 5.2: Anthropic's New Frontier Models Explained | Daily AI Brief",
+            "unwound_url": "https://dailyaibrief.xyz/posts/claude-fable-5-2-mythos-5-2-anthropic/",
+            "url": "https://t.co/ubNEZwxRef"
+          }
+        ]
+      },
+      "id": "2121712990622003681",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121464508225053153",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan Matches Anthropic's own guidance: Opus 5.5 for everyday work, Fable 5.2 for the hardest jobs. At $8/$40 per million tokens, Fable only pays off when Opus actually fails. What changed in Fable 5.2 and Mythos 5.2: https://t.co/ubNEZwxRef",
+      "url": "https://x.com/dailyaibriefhq/status/2121712990622003681"
+    },
+    {
+      "author_id": "3689830636",
+      "conversation_id": "2121464508225053153",
+      "created_at": "2026-11-14T20:46:15.000Z",
+      "edit_history_tweet_ids": [
+        "2121706298920276412"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "2121706298920276412",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121464508225053153",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan Yup. Ran through tokens like crazy with fable",
+      "url": "https://x.com/_ScottFriedman/status/2121706298920276412"
+    },
+    {
+      "author_id": "1969468177739628546",
+      "conversation_id": "2121464508225053153",
+      "created_at": "2026-11-14T20:27:13.000Z",
+      "edit_history_tweet_ids": [
+        "2121701507343192302"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 14,
+            "start": 10,
+            "tag": "ulu"
+          },
+          {
+            "end": 18,
+            "start": 15,
+            "tag": "ai"
+          },
+          {
+            "end": 35,
+            "start": 19,
+            "tag": "softwarefactory"
+          }
+        ],
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/hHkxWvQ0if",
+            "end": 59,
+            "expanded_url": "https://x.com/happy_zilla/status/2121701507343192302/video/1",
+            "media_key": "13_2121701475428823040",
+            "start": 36,
+            "url": "https://t.co/hHkxWvQ0if"
+          }
+        ]
+      },
+      "id": "2121701507343192302",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121464508225053153",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan #ulu #ai #softwarefactory https://t.co/hHkxWvQ0if",
+      "url": "https://x.com/happy_zilla/status/2121701507343192302"
+    },
+    {
+      "author_id": "1776250567582502912",
+      "conversation_id": "2121464508225053153",
+      "created_at": "2026-11-14T20:24:12.000Z",
+      "edit_history_tweet_ids": [
+        "2121700749386322100"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "2121700749386322100",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121464508225053153",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan not paying 3x for a tie",
+      "url": "https://x.com/AsheWeb3/status/2121700749386322100"
+    },
+    {
+      "author_id": "1728740867555442688",
+      "conversation_id": "2121464508225053153",
+      "created_at": "2026-11-14T20:10:47.000Z",
+      "edit_history_tweet_ids": [
+        "2121697374317752796"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "2121697374317752796",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121464508225053153",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan Cost per solved task is the metric most teams skip. Leaderboards compare accuracy, budgets pay per outcome. A two-point gain at nearly 3x the cost rarely survives a CFO review. Keep the default model cheap and route only the hard tasks to the expensive one.",
+      "url": "https://x.com/PPulvermueller/status/2121697374317752796"
+    },
+    {
+      "author_id": "1270170675312054273",
+      "conversation_id": "2121464508225053153",
+      "created_at": "2026-11-14T19:41:46.000Z",
+      "edit_history_tweet_ids": [
+        "2121690071275290789"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "2121690071275290789",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 25,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121464508225053153",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan Claude has /advisor feature thats it. fable for advisor and your Opus is powerful as fuck",
+      "url": "https://x.com/IliaWhy/status/2121690071275290789"
+    },
+    {
+      "author_id": "2038784644250841088",
+      "conversation_id": "2121464508225053153",
+      "created_at": "2026-11-14T19:34:18.000Z",
+      "edit_history_tweet_ids": [
+        "2121688192739062182"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "2121688192739062182",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 17,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121464508225053153",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan Opus struggles a lot more in open ended research, and creating evals",
+      "url": "https://x.com/SynorosHQ/status/2121688192739062182"
+    },
+    {
+      "author_id": "2110129090795634689",
+      "conversation_id": "2121464508225053153",
+      "created_at": "2026-11-14T19:29:50.000Z",
+      "edit_history_tweet_ids": [
+        "2121687067809776112"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "2121687067809776112",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121464508225053153",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan Cost per solved task is more useful than sticker price, but the task mix still determines the winner. The next comparison worth watching is cost per accepted change after human review on real codebases.",
+      "url": "https://x.com/chasingmoats/status/2121687067809776112"
+    },
+    {
+      "author_id": "2092975354138804224",
+      "conversation_id": "2121464508225053153",
+      "created_at": "2026-11-14T19:24:15.000Z",
+      "edit_history_tweet_ids": [
+        "2121685661199618384"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "2121685661199618384",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121464508225053153",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan cost per solved task is the metric more people should use. a cheap run that says done and isn't is the most expensive one",
+      "url": "https://x.com/rafaelibayev/status/2121685661199618384"
+    },
+    {
+      "author_id": "1742133541960548352",
+      "conversation_id": "2121464508225053153",
+      "created_at": "2026-11-14T19:11:33.000Z",
+      "edit_history_tweet_ids": [
+        "2121682467098927591"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          },
+          {
+            "end": 191,
+            "id": "1353836358901501952",
+            "start": 179,
+            "username": "AnthropicAI"
+          },
+          {
+            "end": 201,
+            "id": "1943306828697550848",
+            "start": 192,
+            "username": "claudeai"
+          },
+          {
+            "end": 213,
+            "id": "2024518793679294464",
+            "start": 202,
+            "username": "ClaudeDevs"
+          },
+          {
+            "end": 222,
+            "id": "159337660",
+            "start": 214,
+            "username": "bcherny"
+          }
+        ]
+      },
+      "id": "2121682467098927591",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121464508225053153",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan Problems:\n1. You advertise 20X for Ultra but we are getting only 10X pro\n2. You advertise 200$ api tokens but given nothing to Ultra Users.\nWhen I ask for fix no reply.\n@AnthropicAI @claudeai @ClaudeDevs @bcherny",
+      "url": "https://x.com/HarshTiwar10933/status/2121682467098927591"
+    },
+    {
+      "author_id": "1742133541960548352",
+      "conversation_id": "2121464508225053153",
+      "created_at": "2026-11-14T18:56:36.000Z",
+      "edit_history_tweet_ids": [
+        "2121678702342005120"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "11768582",
+            "start": 0,
+            "username": "garrytan"
+          },
+          {
+            "end": 21,
+            "id": "2024518793679294464",
+            "start": 10,
+            "username": "ClaudeDevs"
+          },
+          {
+            "end": 31,
+            "id": "1943306828697550848",
+            "start": 22,
+            "username": "claudeai"
+          },
+          {
+            "end": 127,
+            "id": "159337660",
+            "start": 119,
+            "username": "bcherny"
+          },
+          {
+            "end": 221,
+            "id": "4398626122",
+            "start": 214,
+            "username": "OpenAI"
+          },
+          {
+            "end": 249,
+            "id": "1353836358901501952",
+            "start": 237,
+            "username": "AnthropicAI"
+          }
+        ]
+      },
+      "id": "2121678702342005120",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121464508225053153",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@garrytan @ClaudeDevs @claudeai they do not respond to issues. Just take money and leave users to unfinished products.\n@bcherny \nyou should atleast send this ti the team responsible for it. Very bad. \nI still feel @OpenAI is better than @AnthropicAI. You guys are only talk no work.",
+      "url": "https://x.com/HarshTiwar10933/status/2121678702342005120"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "11768582",
+        "conversation_id": "2121464508225053153",
+        "created_at": "2026-11-14T04:45:28.000Z",
+        "edit_history_tweet_ids": [
+          "2121464508225053153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B7SIpXaZ2j",
+              "end": 299,
+              "expanded_url": "https://x.com/garrytan/status/2121464508225053153/photo/1",
+              "media_key": "3_2121464424217427968",
+              "start": 276,
+              "url": "https://t.co/B7SIpXaZ2j"
+            }
+          ]
+        },
+        "id": "2121464508225053153",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/garrytan/g-har…",
+                "end": 306,
+                "expanded_url": "https://github.com/garrytan/g-harness-evals/blob/cc8619d977f126ddb6d8f03a4b6cd02c5634c1bc/docs/benchmarks/2026-11-12-fable-5-2-coding-cc322/report.md",
+                "start": 283,
+                "url": "https://t.co/SfIvr9pHNg"
+              }
+            ]
+          },
+          "text": "Keep Opus 5.5 as your coding default in Claude Code. On 52 coding tasks in Claude Code 2.1.322, Fable 5.2 solved about as many (82.7% vs 84.6%) but cost 2.80x as much per solved task.\n\nOpus already solves most of these tasks, though, so telling the two apart will take harder ones.\n\nhttps://t.co/SfIvr9pHNg"
+        },
+        "public_metrics": {
+          "bookmark_count": 167,
+          "impression_count": 74423,
+          "like_count": 585,
+          "quote_count": 30,
+          "reply_count": 207,
+          "retweet_count": 39
+        },
+        "text": "Keep Opus 5.5 as your coding default in Claude Code. On 52 coding tasks in Claude Code 2.1.322, Fable 5.2 solved about as many (82.7% vs 84.6%) but cost 2.80x as much per solved task.\n\nOpus already solves most of these tasks, though, so telling the two apart will take harder https://t.co/B7SIpXaZ2j"
+      },
+      {
+        "author_id": "2050906579176681472",
+        "conversation_id": "2121464508225053153",
+        "created_at": "2026-11-14T13:21:07.000Z",
+        "edit_history_tweet_ids": [
+          "2121594278048600543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "11768582",
+              "start": 0,
+              "username": "garrytan"
+            }
+          ]
+        },
+        "id": "2121594278048600543",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 235,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121464508225053153",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@garrytan Opus 5.5 is so annoying to use though."
+      },
+      {
+        "author_id": "1947880431388397568",
+        "conversation_id": "2121710647427936265",
+        "created_at": "2026-11-14T21:03:32.000Z",
+        "edit_history_tweet_ids": [
+          "2121710647427936265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rktioMXlhQ",
+              "end": 181,
+              "expanded_url": "https://x.com/SoumilBhandari/status/2121710647427936265/video/1",
+              "media_key": "13_2121710439276916736",
+              "start": 158,
+              "url": "https://t.co/rktioMXlhQ"
+            }
+          ]
+        },
+        "id": "2121710647427936265",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 808,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "made claude code into an f1 pit wall lol\n\nit yells \"box box\" when the context window is full and \"we've got a problem with the car\" when tests fail\n\nsound on https://t.co/rktioMXlhQ"
+      }
+    ],
+    "users": [
+      {
+        "id": "2019456800144183296",
+        "name": "Stef",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099850515693670400/KzWxS7-h_normal.jpg",
+        "username": "shipwithstef",
+        "verified": false
+      },
+      {
+        "id": "1496121204218150912",
+        "name": "Aivatar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120040347149709312/0teU2Odi_normal.jpg",
+        "username": "Worldwide2060",
+        "verified": false
+      },
+      {
+        "id": "2118725849021337601",
+        "name": "sldu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119278204724871168/5ZrGy_eF_normal.jpg",
+        "username": "slduai",
+        "verified": false
+      },
+      {
+        "id": "1483697277932027907",
+        "name": "局外人 · 互联网乐子观察员",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119329788892704768/COMXI5wz_normal.jpg",
+        "username": "rsrrcj777",
+        "verified": false
+      },
+      {
+        "id": "16367850",
+        "name": "Chad Moran",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074719674114428928/GKLH2aYl_normal.jpg",
+        "username": "ChadMoran",
+        "verified": false
+      },
+      {
+        "id": "1763756774417375232",
+        "name": "David Harmon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869467307837145088/FONYTkSI_normal.jpg",
+        "username": "TheOriginalNid",
+        "verified": false
+      },
+      {
+        "id": "2305313552",
+        "name": "Chris Wichert",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028831402171441152/hwk48cxg_normal.jpg",
+        "username": "Chris_Wichert",
+        "verified": false
+      },
+      {
+        "id": "2091778553092112384",
+        "name": "Valeriy",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "username": "Valeriywn",
+        "verified": false
+      },
+      {
+        "id": "759837871322914816",
+        "name": "Shiraz Ghauri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932615713824395264/-2sRq91Z_normal.jpg",
+        "username": "shirazghauri97",
+        "verified": false
+      },
+      {
+        "id": "2036869765126410240",
+        "name": "jan",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "username": "jan583150394931",
+        "verified": false
+      },
+      {
+        "id": "39202644",
+        "name": "Lance Martin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999948423018221568/s2XL2-On_normal.jpg",
+        "username": "RLanceMartin",
+        "verified": false
+      },
+      {
+        "id": "1372212747883184132",
+        "name": "Alex Puzanov ❤️ AI Factory",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957147849340104704/cwnTrfZx_normal.jpg",
+        "username": "OPuzanov",
+        "verified": false
+      },
+      {
+        "id": "1947880431388397568",
+        "name": "Soumil Bhandari",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082134118452936704/WcG6BeeT_normal.jpg",
+        "username": "SoumilBhandari",
+        "verified": false
+      },
+      {
+        "id": "1779160148486811649",
+        "name": "Angel兰宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088669713299808256/tnOSJ5lk_normal.jpg",
+        "username": "Angel_Lanbao",
+        "verified": false
+      },
+      {
+        "id": "2113033461036703744",
+        "name": "Daily AI Brief",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2113040448180961280/WoN999q__normal.jpg",
+        "username": "dailyaibriefhq",
+        "verified": false
+      },
+      {
+        "id": "3689830636",
+        "name": "Scott Friedman 🎗️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1045753008305385472/53kDnC6W_normal.jpg",
+        "username": "_ScottFriedman",
+        "verified": false
+      },
+      {
+        "id": "1969468177739628546",
+        "name": "Jason Dorn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970200442841055232/_9yExp7T_normal.jpg",
+        "username": "happy_zilla",
+        "verified": false
+      },
+      {
+        "id": "1776250567582502912",
+        "name": "Ashe ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066808445135945728/LVaRLiDZ_normal.jpg",
+        "username": "AsheWeb3",
+        "verified": false
+      },
+      {
+        "id": "1728740867555442688",
+        "name": "Patrick Pulvermüller | AI · Strategy · Buy & Build",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891721167855128576/ObTF9Ojj_normal.jpg",
+        "username": "PPulvermueller",
+        "verified": false
+      },
+      {
+        "id": "1270170675312054273",
+        "name": "Ilia Lopata",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1461178863971614721/XNFztN-6_normal.jpg",
+        "username": "IliaWhy",
+        "verified": false
+      },
+      {
+        "id": "2038784644250841088",
+        "name": "Synoros",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075388828907380736/BkifaP9i_normal.jpg",
+        "username": "SynorosHQ",
+        "verified": false
+      },
+      {
+        "id": "2110129090795634689",
+        "name": "Moat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110838790679842816/urUxyHeA_normal.jpg",
+        "username": "chasingmoats",
+        "verified": false
+      },
+      {
+        "id": "2092975354138804224",
+        "name": "Rafael Ibayev",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100897194563760128/nXdtrFTt_normal.jpg",
+        "username": "rafaelibayev",
+        "verified": false
+      },
+      {
+        "id": "1742133541960548352",
+        "name": "Harsh Tiwari",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943745292362219520/rjFy-SyH_normal.jpg",
+        "username": "HarshTiwar10933",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121800291351724127",
+    "next_token": "b26v89c19zqg8o3juzovrg9rtqt6xsj3zf3vpf9ahnm9p",
+    "oldest_id": "2121678702342005120",
+    "result_count": 25
+  }
+}

@@ -1,0 +1,1424 @@
+{
+  "data": [
+    {
+      "author_id": "1943186242881159168",
+      "conversation_id": "2121635683999883577",
+      "created_at": "2026-11-15T02:54:38.000Z",
+      "edit_history_tweet_ids": [
+        "2121799005583851815"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2728439146",
+            "start": 0,
+            "username": "hwchase17"
+          },
+          {
+            "end": 22,
+            "id": "1442708143",
+            "start": 11,
+            "username": "mgarimella"
+          }
+        ]
+      },
+      "id": "2121799005583851815",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121635683999883577",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@hwchase17 @mgarimella A goal says what to achieve. A mandate says what the agent may not do to get there. Goal engineering without the second half just gets you to the wrong place faster. Who writes the \"may not\" list in your setups?",
+      "url": "https://x.com/SingulantChain/status/2121799005583851815"
+    },
+    {
+      "author_id": "1990057947502952448",
+      "conversation_id": "2121635683999883577",
+      "created_at": "2026-11-15T02:45:55.000Z",
+      "edit_history_tweet_ids": [
+        "2121796811975176381"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2728439146",
+            "start": 0,
+            "username": "hwchase17"
+          },
+          {
+            "end": 22,
+            "id": "1442708143",
+            "start": 11,
+            "username": "mgarimella"
+          }
+        ]
+      },
+      "id": "2121796811975176381",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121635683999883577",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@hwchase17 @mgarimella 文章里说 prompt engineering、context engineering 以后会淡掉，goal engineering 还会在。我自己搭 agent 时，以前也把「目标写清楚」和「目标容易被纠正」当成一回事。Actively 后来不按客户拆，改按 outbound 这种具体工作拆，就是为了让人能顺手给反馈。目标得围着你容易出手的地方来设计。",
+      "url": "https://x.com/BaqiF2/status/2121796811975176381"
+    },
+    {
+      "author_id": "2043862808882708480",
+      "conversation_id": "2121635683999883577",
+      "created_at": "2026-11-15T02:41:19.000Z",
+      "edit_history_tweet_ids": [
+        "2121795654125306348"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2728439146",
+            "start": 0,
+            "username": "hwchase17"
+          },
+          {
+            "end": 22,
+            "id": "1442708143",
+            "start": 11,
+            "username": "mgarimella"
+          }
+        ]
+      },
+      "id": "2121795654125306348",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121635683999883577",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@hwchase17 @mgarimella A badly framed goal just lets the agent make the wrong decision more efficiently.",
+      "url": "https://x.com/staroaeg/status/2121795654125306348"
+    },
+    {
+      "author_id": "61542451",
+      "conversation_id": "2121635683999883577",
+      "created_at": "2026-11-15T02:27:40.000Z",
+      "edit_history_tweet_ids": [
+        "2121792217216160128"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2728439146",
+            "start": 0,
+            "username": "hwchase17"
+          },
+          {
+            "end": 22,
+            "id": "1442708143",
+            "start": 11,
+            "username": "mgarimella"
+          }
+        ]
+      },
+      "id": "2121792217216160128",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121635683999883577",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@hwchase17 @mgarimella Grouping similar tasks makes the feedback loop click.",
+      "url": "https://x.com/SicanianSun/status/2121792217216160128"
+    },
+    {
+      "author_id": "1942953076958416896",
+      "conversation_id": "2121635683999883577",
+      "created_at": "2026-11-15T02:13:42.000Z",
+      "edit_history_tweet_ids": [
+        "2121788703651852381"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2728439146",
+            "start": 0,
+            "username": "hwchase17"
+          },
+          {
+            "end": 22,
+            "id": "1442708143",
+            "start": 11,
+            "username": "mgarimella"
+          }
+        ]
+      },
+      "id": "2121788703651852381",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121635683999883577",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@hwchase17 @mgarimella Goal design... where to allocate your efforts",
+      "url": "https://x.com/TennysonLabs/status/2121788703651852381"
+    },
+    {
+      "author_id": "2061520863195697152",
+      "conversation_id": "2121635683999883577",
+      "created_at": "2026-11-15T01:31:07.000Z",
+      "edit_history_tweet_ids": [
+        "2121777988547031165"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2728439146",
+            "start": 0,
+            "username": "hwchase17"
+          },
+          {
+            "end": 22,
+            "id": "1442708143",
+            "start": 11,
+            "username": "mgarimella"
+          }
+        ]
+      },
+      "id": "2121777988547031165",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121635683999883577",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@hwchase17 @mgarimella Goal design is the new prompt design, and it's harder. If you can't tell whether the job is done from the output alone, the agent will keep going until it invents a finish line. I write goals you can tick off without watching the work.",
+      "url": "https://x.com/TravisLeeSwiftX/status/2121777988547031165"
+    },
+    {
+      "author_id": "2091778553092112384",
+      "conversation_id": "2121635683999883577",
+      "created_at": "2026-11-15T01:08:36.000Z",
+      "edit_history_tweet_ids": [
+        "2121772319224054192"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "145481548",
+            "start": 0,
+            "username": "HFundHooligan"
+          },
+          {
+            "end": 25,
+            "id": "2728439146",
+            "start": 15,
+            "username": "hwchase17"
+          },
+          {
+            "end": 37,
+            "id": "1442708143",
+            "start": 26,
+            "username": "mgarimella"
+          }
+        ],
+        "urls": [
+          {
+            "description": "3x more usage on your coding agent, same quality. Have an multi-agent setup in mind? Bello already supports it. Mix models, run agents in parallel, have them check each other’s work, and reduce unn...",
+            "display_url": "github.com/Makson179/Bello",
+            "end": 298,
+            "expanded_url": "https://github.com/Makson179/Bello",
+            "images": [
+              {
+                "height": 600,
+                "url": "https://pbs.twimg.com/news_img/2119503424760811520/GXzkE27d?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2119503424760811520/GXzkE27d?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 275,
+            "status": 200,
+            "title": "GitHub - Makson179/Bello: 3x more usage on your coding agent, same quality. Have an multi-agent setup in mind? Bello already supports it. Mix models, run agents in parallel, have them check each other’s work, and reduce unnecessary model calls and noisy tool output. Turn on only what you need.",
+            "unwound_url": "https://github.com/Makson179/Bello",
+            "url": "https://t.co/0aJYXsPDve"
+          }
+        ]
+      },
+      "id": "2121772319224054192",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121652225730637847",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@HFundHooligan @hwchase17 @mgarimella Agree, the agent can't grade its own goal. In bello a separate reviewer accepts or returns the work, and on a 24 hour nethack run it got to the best score of codex's own goal mode 4.4 times sooner in our tests, same coder. I coauthor it https://t.co/0aJYXsPDve",
+      "url": "https://x.com/Valeriywn/status/2121772319224054192"
+    },
+    {
+      "author_id": "1417727071",
+      "conversation_id": "2121635683999883577",
+      "created_at": "2026-11-15T00:58:58.000Z",
+      "edit_history_tweet_ids": [
+        "2121769895192908203"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2728439146",
+            "start": 0,
+            "username": "hwchase17"
+          },
+          {
+            "end": 22,
+            "id": "1442708143",
+            "start": 11,
+            "username": "mgarimella"
+          }
+        ]
+      },
+      "id": "2121769895192908203",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121635683999883577",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@hwchase17 @mgarimella In clinic, a vague goal is how work goes sideways.\n\"Sort out the bloods\" means something different to every person in the room.\nThe bit I'd take is writing the goal in a way you can actually give feedback on.",
+      "url": "https://x.com/abdHafizR/status/2121769895192908203"
+    },
+    {
+      "author_id": "1526130157328642049",
+      "conversation_id": "2121635683999883577",
+      "created_at": "2026-11-15T00:50:08.000Z",
+      "edit_history_tweet_ids": [
+        "2121767671947760020"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2728439146",
+            "start": 0,
+            "username": "hwchase17"
+          },
+          {
+            "end": 22,
+            "id": "1442708143",
+            "start": 11,
+            "username": "mgarimella"
+          }
+        ]
+      },
+      "id": "2121767671947760020",
+      "lang": "ko",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121635683999883577",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@hwchase17 @mgarimella 에이전트 쪼갤 때 고객 단위로 먼저 나누고 싶어지는데 피드백 기준으로 보면 완전 반대네요",
+      "url": "https://x.com/aburacadabra_/status/2121767671947760020"
+    },
+    {
+      "author_id": "1069246220944592901",
+      "conversation_id": "2121635683999883577",
+      "created_at": "2026-11-15T00:38:03.000Z",
+      "edit_history_tweet_ids": [
+        "2121764630716649721"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2728439146",
+            "start": 0,
+            "username": "hwchase17"
+          },
+          {
+            "end": 22,
+            "id": "1442708143",
+            "start": 11,
+            "username": "mgarimella"
+          }
+        ]
+      },
+      "id": "2121764630716649721",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121635683999883577",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@hwchase17 @mgarimella the failure we see most: the goal is clear but 'done' isn't. agent says follow-up sent, nothing actually reached the lead. what do you use to check the outcome, not just the action?",
+      "url": "https://x.com/GarvSanwariya/status/2121764630716649721"
+    },
+    {
+      "author_id": "1471329673720176654",
+      "conversation_id": "2121635683999883577",
+      "created_at": "2026-11-14T23:23:32.000Z",
+      "edit_history_tweet_ids": [
+        "2121745879623213149"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2728439146",
+            "start": 0,
+            "username": "hwchase17"
+          },
+          {
+            "end": 22,
+            "id": "1442708143",
+            "start": 11,
+            "username": "mgarimella"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/GraybeardWisdo…",
+            "end": 278,
+            "expanded_url": "https://x.com/GraybeardWisdom/status/2121714279103578416",
+            "start": 255,
+            "url": "https://t.co/WJkuZtrshV"
+          }
+        ]
+      },
+      "id": "2121745879623213149",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 38,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121714279103578416",
+          "type": "quoted"
+        },
+        {
+          "id": "2121635683999883577",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@hwchase17 @mgarimella That unwritten context is exactly why a person has to stay in the loop. Design for feedback and you get value now, and you also collect what autonomy will need later. I think that's the on-ramp most companies skip. Short take here: https://t.co/WJkuZtrshV",
+      "url": "https://x.com/GraybeardWisdom/status/2121745879623213149"
+    },
+    {
+      "author_id": "429428132",
+      "conversation_id": "2121635683999883577",
+      "created_at": "2026-11-14T23:12:12.000Z",
+      "edit_history_tweet_ids": [
+        "2121743029296156949"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2728439146",
+            "start": 0,
+            "username": "hwchase17"
+          },
+          {
+            "end": 22,
+            "id": "1442708143",
+            "start": 11,
+            "username": "mgarimella"
+          },
+          {
+            "end": 297,
+            "id": "2057683509821513728",
+            "start": 285,
+            "username": "sibyl_labs_"
+          }
+        ]
+      },
+      "id": "2121743029296156949",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 34,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121635683999883577",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@hwchase17 @mgarimella underrated point. a goal you can give feedback on is also a goal the agent can check itself against mid-run. long-horizon agents rarely fail at step 1, they drift around step 40 because the goal was vibes. make it checkable and you get drift detection for free\n\n@sibyl_labs_",
+      "url": "https://x.com/billionbuckbam/status/2121743029296156949"
+    },
+    {
+      "author_id": "312622617",
+      "conversation_id": "2121635683999883577",
+      "created_at": "2026-11-14T23:04:12.000Z",
+      "edit_history_tweet_ids": [
+        "2121741015602409713"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 248,
+            "start": 239,
+            "tag": "AIAgents"
+          },
+          {
+            "end": 256,
+            "start": 249,
+            "tag": "LLMOps"
+          }
+        ],
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2728439146",
+            "start": 0,
+            "username": "hwchase17"
+          },
+          {
+            "end": 22,
+            "id": "1442708143",
+            "start": 11,
+            "username": "mgarimella"
+          }
+        ]
+      },
+      "id": "2121741015602409713",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121635683999883577",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@hwchase17 @mgarimella Agree, and a goal is only as good as the check that says it's done. Write the pass/fail test first, then the goal. If it can't be tested, the agent will quietly redefine it. Goal design for agents starts with evals. #AIAgents #LLMOps",
+      "url": "https://x.com/sehizie/status/2121741015602409713"
+    },
+    {
+      "author_id": "1898493276069724160",
+      "conversation_id": "2121635683999883577",
+      "created_at": "2026-11-14T22:55:43.000Z",
+      "edit_history_tweet_ids": [
+        "2121738880693030921"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2728439146",
+            "start": 0,
+            "username": "hwchase17"
+          },
+          {
+            "end": 22,
+            "id": "1442708143",
+            "start": 11,
+            "username": "mgarimella"
+          }
+        ]
+      },
+      "id": "2121738880693030921",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 26,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121635683999883577",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@hwchase17 @mgarimella I am implementing something like this in my software factory.",
+      "url": "https://x.com/thataliraza/status/2121738880693030921"
+    },
+    {
+      "author_id": "2049601932344303616",
+      "conversation_id": "2121635683999883577",
+      "created_at": "2026-11-14T22:51:47.000Z",
+      "edit_history_tweet_ids": [
+        "2121737888740303130"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2728439146",
+            "start": 0,
+            "username": "hwchase17"
+          },
+          {
+            "end": 22,
+            "id": "1442708143",
+            "start": 11,
+            "username": "mgarimella"
+          }
+        ]
+      },
+      "id": "2121737888740303130",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121635683999883577",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@hwchase17 @mgarimella Then write the goal down where someone else can read it later. When an agent goes wrong, the first question is what you asked it to do.",
+      "url": "https://x.com/BonisSystems/status/2121737888740303130"
+    },
+    {
+      "author_id": "2075232388582375425",
+      "conversation_id": "2121635683999883577",
+      "created_at": "2026-11-14T22:46:25.000Z",
+      "edit_history_tweet_ids": [
+        "2121736540896543185"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2728439146",
+            "start": 0,
+            "username": "hwchase17"
+          },
+          {
+            "end": 22,
+            "id": "1442708143",
+            "start": 11,
+            "username": "mgarimella"
+          }
+        ]
+      },
+      "id": "2121736540896543185",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121635683999883577",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@hwchase17 @mgarimella Half of goal design is giving the agent permission to reject the goal once live state contradicts your premise. Otherwise a compliant agent will burn three hours optimizing a broken assumption.",
+      "url": "https://x.com/ZeroTheory0/status/2121736540896543185"
+    },
+    {
+      "author_id": "2017655091600486400",
+      "conversation_id": "2121635683999883577",
+      "created_at": "2026-11-14T22:34:37.000Z",
+      "edit_history_tweet_ids": [
+        "2121733568187764787"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2728439146",
+            "start": 0,
+            "username": "hwchase17"
+          },
+          {
+            "end": 22,
+            "id": "1442708143",
+            "start": 11,
+            "username": "mgarimella"
+          }
+        ]
+      },
+      "id": "2121733568187764787",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121635683999883577",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@hwchase17 @mgarimella picking the metric is where agent projects quietly go wrong, give it an easy proxy and it games it. pairing every goal with a guardrail metric helps a lot",
+      "url": "https://x.com/LinvexAI/status/2121733568187764787"
+    },
+    {
+      "author_id": "2098119516937125888",
+      "conversation_id": "2121635683999883577",
+      "created_at": "2026-11-14T22:05:00.000Z",
+      "edit_history_tweet_ids": [
+        "2121726116453097711"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2728439146",
+            "start": 0,
+            "username": "hwchase17"
+          },
+          {
+            "end": 22,
+            "id": "1442708143",
+            "start": 11,
+            "username": "mgarimella"
+          }
+        ]
+      },
+      "id": "2121726116453097711",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121635683999883577",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@hwchase17 @mgarimella “Resolve this support ticket” gets interesting when the customer stops replying. Does success mean a verified fix, a closed ticket, or a documented handoff? Those produce very different agents.",
+      "url": "https://x.com/HelixAi77/status/2121726116453097711"
+    },
+    {
+      "author_id": "1601214782710988803",
+      "conversation_id": "2121635683999883577",
+      "created_at": "2026-11-14T22:03:25.000Z",
+      "edit_history_tweet_ids": [
+        "2121725719139012836"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2728439146",
+            "start": 0,
+            "username": "hwchase17"
+          },
+          {
+            "end": 22,
+            "id": "1442708143",
+            "start": 11,
+            "username": "mgarimella"
+          }
+        ]
+      },
+      "id": "2121725719139012836",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 42,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121635683999883577",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@hwchase17 @mgarimella Easy feedback assumes the person who can say \"that's wrong\" is the one reviewing.\n\nIn manufacturing that's usually the process owner, and they never open the agent's UI.\n\nHow do teams get feedback from experts who won't log into the tool?",
+      "url": "https://x.com/brianmcgrath/status/2121725719139012836"
+    },
+    {
+      "author_id": "2102734340408987648",
+      "conversation_id": "2121635683999883577",
+      "created_at": "2026-11-14T21:57:56.000Z",
+      "edit_history_tweet_ids": [
+        "2121724339066417644"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2728439146",
+            "start": 0,
+            "username": "hwchase17"
+          },
+          {
+            "end": 22,
+            "id": "1442708143",
+            "start": 11,
+            "username": "mgarimella"
+          }
+        ]
+      },
+      "id": "2121724339066417644",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121635683999883577",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@hwchase17 @mgarimella This is where most agent projects quietly die. We gave one a vague goal like 'improve support' and it wandered for weeks — tightened it to a number we could check daily and it finally moved.",
+      "url": "https://x.com/agenticenterpr/status/2121724339066417644"
+    },
+    {
+      "author_id": "2113029971539382272",
+      "conversation_id": "2121635683999883577",
+      "created_at": "2026-11-14T21:44:36.000Z",
+      "edit_history_tweet_ids": [
+        "2121720983371268199"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2728439146",
+            "start": 0,
+            "username": "hwchase17"
+          },
+          {
+            "end": 22,
+            "id": "1442708143",
+            "start": 11,
+            "username": "mgarimella"
+          }
+        ]
+      },
+      "id": "2121720983371268199",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121635683999883577",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@hwchase17 @mgarimella Matches what I see running 9 AI bots for a small business. One bot per job (lead hunting, pitches, posting) beats one bot per customer, because feedback on one batch fixes every future batch. Similar drafts are faster to review. Do motions share one feedback file?",
+      "url": "https://x.com/JakeBuildsBots/status/2121720983371268199"
+    },
+    {
+      "author_id": "91450516",
+      "conversation_id": "2121635683999883577",
+      "created_at": "2026-11-14T21:40:49.000Z",
+      "edit_history_tweet_ids": [
+        "2121720029611737379"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2728439146",
+            "start": 0,
+            "username": "hwchase17"
+          },
+          {
+            "end": 22,
+            "id": "1442708143",
+            "start": 11,
+            "username": "mgarimella"
+          }
+        ]
+      },
+      "id": "2121720029611737379",
+      "lang": "en",
+      "note_tweet": {
+        "text": "We solved this a long time ago with offensive hacking at the NSA.  There is so much planning that goes into an offensive op, that when AI came along it was super easy for me to adopt what I was already doing for cyber planning into agentic goal engineering.  \n\nAn objective, a target list, and a stop condition.\n\nAgents need all three, and the stop condition is the one people leave out (looking at your OpenAI / sandboxing failures)."
+      },
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 150,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121635683999883577",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@hwchase17 @mgarimella We solved this a long time ago with offensive hacking at the NSA.  There is so much planning that goes into an offensive op, that when AI came along it was super easy for me to adopt what I was already doing for cyber planning into agentic goal engineering.  \n\nAn objective, a",
+      "url": "https://x.com/cybersec/status/2121720029611737379"
+    },
+    {
+      "author_id": "1455265926954246148",
+      "conversation_id": "2121635683999883577",
+      "created_at": "2026-11-14T21:25:27.000Z",
+      "edit_history_tweet_ids": [
+        "2121716162937413922"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2728439146",
+            "start": 0,
+            "username": "hwchase17"
+          },
+          {
+            "end": 22,
+            "id": "1442708143",
+            "start": 11,
+            "username": "mgarimella"
+          }
+        ]
+      },
+      "id": "2121716162937413922",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 21,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121635683999883577",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@hwchase17 @mgarimella Organizing agents by motion instead of by account makes reviewing them so much easier. What happens when two reps give the same outbound motion opposite feedback? Does it learn per rep, or settle on one playbook?",
+      "url": "https://x.com/myosin_xyz/status/2121716162937413922"
+    },
+    {
+      "author_id": "2036882556285566976",
+      "conversation_id": "2121635683999883577",
+      "created_at": "2026-11-14T20:56:21.000Z",
+      "edit_history_tweet_ids": [
+        "2121708839984890126"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2728439146",
+            "start": 0,
+            "username": "hwchase17"
+          },
+          {
+            "end": 22,
+            "id": "1442708143",
+            "start": 11,
+            "username": "mgarimella"
+          }
+        ]
+      },
+      "id": "2121708839984890126",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121635683999883577",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@hwchase17 @mgarimella a goal you can't give feedback on is just a wish the agent has to guess at.",
+      "url": "https://x.com/LunariOne/status/2121708839984890126"
+    },
+    {
+      "author_id": "398658798",
+      "conversation_id": "2121635683999883577",
+      "created_at": "2026-11-14T20:55:09.000Z",
+      "edit_history_tweet_ids": [
+        "2121708537554284771"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2728439146",
+            "start": 0,
+            "username": "hwchase17"
+          },
+          {
+            "end": 22,
+            "id": "1442708143",
+            "start": 11,
+            "username": "mgarimella"
+          }
+        ]
+      },
+      "id": "2121708537554284771",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 23,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121635683999883577",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@hwchase17 @mgarimella This was insightful. Thanks for sharing!",
+      "url": "https://x.com/thegreedychoice/status/2121708537554284771"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {
+          "title": "Goal Engineering: How to Design Goals"
+        },
+        "author_id": "2728439146",
+        "conversation_id": "2121635683999883577",
+        "created_at": "2026-11-14T16:05:39.000Z",
+        "edit_history_tweet_ids": [
+          "2121635683999883577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 117,
+              "id": "1442708143",
+              "start": 106,
+              "username": "mgarimella"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2121…",
+              "end": 178,
+              "expanded_url": "https://x.com/i/article/2121382906820243456",
+              "start": 155,
+              "status": 404,
+              "unwound_url": "https://x.com/i/article/2121382906820243456",
+              "url": "https://t.co/TLv5gtYELH"
+            }
+          ]
+        },
+        "id": "2121635683999883577",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 760,
+          "impression_count": 45716,
+          "like_count": 418,
+          "quote_count": 22,
+          "reply_count": 95,
+          "retweet_count": 52
+        },
+        "text": "as agents move towards working on goals, it becomes important to design those goals correctly\n\nwrote with @mgarimella on some lessons learned at actively! https://t.co/TLv5gtYELH"
+      },
+      {
+        "author_id": "145481548",
+        "conversation_id": "2121635683999883577",
+        "created_at": "2026-11-14T17:11:23.000Z",
+        "edit_history_tweet_ids": [
+          "2121652225730637847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2728439146",
+              "start": 0,
+              "username": "hwchase17"
+            },
+            {
+              "end": 22,
+              "id": "1442708143",
+              "start": 11,
+              "username": "mgarimella"
+            }
+          ]
+        },
+        "id": "2121652225730637847",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121635683999883577",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@hwchase17 @mgarimella Yeah, the goal is only half of it. The other half is how you check it's done. Ours kept saying finished when the file wasn't even there, so now a script checks the actual result before anything counts. If the agent grades its own goal, it'll pass itself every time."
+      },
+      {
+        "author_id": "1471329673720176654",
+        "conversation_id": "2121714279103578416",
+        "created_at": "2026-11-14T21:17:58.000Z",
+        "edit_history_tweet_ids": [
+          "2121714279103578416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fTpyFGXGHd",
+              "end": 297,
+              "expanded_url": "https://x.com/GraybeardWisdom/status/2121714279103578416/video/1",
+              "media_key": "13_2121713321359405056",
+              "start": 274,
+              "url": "https://t.co/fTpyFGXGHd"
+            }
+          ]
+        },
+        "id": "2121714279103578416",
+        "lang": "en",
+        "note_tweet": {
+          "text": "Robotaxi didn't come first. Supervised driving did. And most companies are rolling out AI in the opposite order.\n\nAutonomy only counts as a success if it's near perfect. Supervised AI just has to beat a person working alone. I think that gap is why AI is stalled in so many companies.\n\nIf my car is driving itself and I get pulled over, I get the ticket. I was supervising. I own it. That's the model I'd use for AI at work: arm the people doing the work, keep them accountable, and let what they do build what autonomy will need later.\n\nNine minutes on why we have it backwards."
+        },
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "text": "Robotaxi didn't come first. Supervised driving did. And most companies are rolling out AI in the opposite order.\n\nAutonomy only counts as a success if it's near perfect. Supervised AI just has to beat a person working alone. I think that gap is why AI is stalled in so many https://t.co/fTpyFGXGHd"
+      }
+    ],
+    "users": [
+      {
+        "id": "1943186242881159168",
+        "name": "AI⁴ | The Singulant",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109393819116441600/5vVr4vn4_normal.png",
+        "username": "SingulantChain",
+        "verified": true
+      },
+      {
+        "id": "1990057947502952448",
+        "name": "阿俊AI 8173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120711937084534785/XXfKDv88_normal.jpg",
+        "username": "BaqiF2",
+        "verified": false
+      },
+      {
+        "id": "2043862808882708480",
+        "name": "生晓bai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108574090953195520/AL2afFAh_normal.jpg",
+        "username": "staroaeg",
+        "verified": false
+      },
+      {
+        "id": "61542451",
+        "name": "Desmond",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101147418654089216/zz1gTy0Q_normal.jpg",
+        "username": "SicanianSun",
+        "verified": false
+      },
+      {
+        "id": "1942953076958416896",
+        "name": "Tennyson",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942954192370315264/ECAKOmRJ_normal.jpg",
+        "username": "TennysonLabs",
+        "verified": false
+      },
+      {
+        "id": "2061520863195697152",
+        "name": "Travis Lee Swift",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2121426892540538880/0tLfXRwQ_normal.jpg",
+        "username": "TravisLeeSwiftX",
+        "verified": false
+      },
+      {
+        "id": "2091778553092112384",
+        "name": "Valeriy",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "username": "Valeriywn",
+        "verified": false
+      },
+      {
+        "id": "1417727071",
+        "name": "Dr Hafiz Rahman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098290697078247424/m1_69dI8_normal.png",
+        "username": "abdHafizR",
+        "verified": false
+      },
+      {
+        "id": "1526130157328642049",
+        "name": "세일러아이리스",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2111421186878119936/eGTMgDvQ_normal.jpg",
+        "username": "aburacadabra_",
+        "verified": false
+      },
+      {
+        "id": "1069246220944592901",
+        "name": "Garv Sanwariya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062835111494909952/GnRlqaFT_normal.jpg",
+        "username": "GarvSanwariya",
+        "verified": false
+      },
+      {
+        "id": "1471329673720176654",
+        "name": "Christopher Gerhardt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2111615520105508864/vnWjmLYl_normal.jpg",
+        "username": "GraybeardWisdom",
+        "verified": false
+      },
+      {
+        "id": "429428132",
+        "name": "Bam",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101829726603968512/9ETK7q_J_normal.jpg",
+        "username": "billionbuckbam",
+        "verified": false
+      },
+      {
+        "id": "312622617",
+        "name": "Senham",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1533101364796071938/M1SZMUIS_normal.jpg",
+        "username": "sehizie",
+        "verified": false
+      },
+      {
+        "id": "1898493276069724160",
+        "name": "Ali Raza",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907511463545286659/L5tEcoS5_normal.jpg",
+        "username": "thataliraza",
+        "verified": false
+      },
+      {
+        "id": "2049601932344303616",
+        "name": "Jonis Fields",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051834862655479810/26C2CR3R_normal.jpg",
+        "username": "BonisSystems",
+        "verified": false
+      },
+      {
+        "id": "2075232388582375425",
+        "name": "Theory",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087869837833904129/-Nh59nc5_normal.jpg",
+        "username": "ZeroTheory0",
+        "verified": false
+      },
+      {
+        "id": "2017655091600486400",
+        "name": "Linvex",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119147012251963392/aBwUe3Zs_normal.jpg",
+        "username": "LinvexAI",
+        "verified": false
+      },
+      {
+        "id": "2098119516937125888",
+        "name": "Helix",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098121124177686528/Dp_qpMOq_normal.jpg",
+        "username": "HelixAi77",
+        "verified": false
+      },
+      {
+        "id": "1601214782710988803",
+        "name": "BrianMcGrath",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091220548369932288/A9M-PWeT_normal.jpg",
+        "username": "brianmcgrath",
+        "verified": false
+      },
+      {
+        "id": "2102734340408987648",
+        "name": "The Agentic Enterprise",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102909808227831808/vGA4rd4b_normal.jpg",
+        "username": "agenticenterpr",
+        "verified": false
+      },
+      {
+        "id": "2113029971539382272",
+        "name": "Jake Builds Bots",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2113482708898693120/HdSQWH-u_normal.jpg",
+        "username": "JakeBuildsBots",
+        "verified": false
+      },
+      {
+        "id": "91450516",
+        "name": "Cyber (In)Security",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993161399682355201/JRNGFI54_normal.jpg",
+        "username": "cybersec",
+        "verified": false
+      },
+      {
+        "id": "1455265926954246148",
+        "name": "Myosin.xyz (〽️, 🌎)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995535384139182080/hQ5IWbiM_normal.jpg",
+        "username": "myosin_xyz",
+        "verified": false
+      },
+      {
+        "id": "2036882556285566976",
+        "name": "L ψ η Λ r I🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046384065671241728/XWIJnqYn_normal.jpg",
+        "username": "LunariOne",
+        "verified": false
+      },
+      {
+        "id": "398658798",
+        "name": "Shubh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1593680289171230722/82gTOxM5_normal.jpg",
+        "username": "thegreedychoice",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121799005583851815",
+    "next_token": "b26v89c19zqg8o3juzovriceg2q1wic8anes7lbdfss59",
+    "oldest_id": "2121708537554284771",
+    "result_count": 25
+  }
+}

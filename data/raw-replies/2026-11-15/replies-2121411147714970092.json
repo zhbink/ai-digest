@@ -1,0 +1,905 @@
+{
+  "data": [
+    {
+      "author_id": "1496121204218150912",
+      "created_at": "2026-11-15T02:38:09.000Z",
+      "edit_history_tweet_ids": [
+        "2121794857626993060"
+      ],
+      "id": "2121794857626993060",
+      "in_reply_to_user_id": "1695890961094909952",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121411147714970092",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cursor_ai Cursor's Nov 13 update traces the poisoned Claude Code extension to a leaked Fireworks AI key — the attacker copied old agent traces, found unredacted credentials, and pushed malware to up to 5,000 users. A third-party key becoming a distribution breach is the supply-chain",
+      "url": "https://x.com/Worldwide2060/status/2121794857626993060"
+    },
+    {
+      "author_id": "26735842",
+      "created_at": "2026-11-15T02:36:53.000Z",
+      "edit_history_tweet_ids": [
+        "2121794535747666053"
+      ],
+      "id": "2121794535747666053",
+      "in_reply_to_user_id": "1695890961094909952",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 54,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121411147714970092",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cursor_ai thanks for the transparency. solid breakdown. appreciate the quick action.",
+      "url": "https://x.com/vexor4i/status/2121794535747666053"
+    },
+    {
+      "author_id": "2026669491787304960",
+      "created_at": "2026-11-15T02:35:39.000Z",
+      "edit_history_tweet_ids": [
+        "2121794226338119714"
+      ],
+      "id": "2121794226338119714",
+      "in_reply_to_user_id": "1695890961094909952",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121411147714970092",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cursor_ai Appreciate the detailed write-up. Publishing what happened and the remediation steps is how dev tools keep trust when agents have this much access to people's code.",
+      "url": "https://x.com/MEKU_SI/status/2121794226338119714"
+    },
+    {
+      "author_id": "2080585181514309632",
+      "created_at": "2026-11-15T02:25:31.000Z",
+      "edit_history_tweet_ids": [
+        "2121791678709404067"
+      ],
+      "id": "2121791678709404067",
+      "in_reply_to_user_id": "1695890961094909952",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121411147714970092",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cursor_ai Publishing the full chain is the part that matters — a leaked key, unredacted traces, a tampered extension. I don't use Cursor, but I'm running the same check: where my keys live, and which tools send traces out.",
+      "url": "https://x.com/LaloED1899/status/2121791678709404067"
+    },
+    {
+      "author_id": "195624776",
+      "created_at": "2026-11-15T01:20:00.000Z",
+      "edit_history_tweet_ids": [
+        "2121775188492554605"
+      ],
+      "id": "2121775188492554605",
+      "in_reply_to_user_id": "1695890961094909952",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121411147714970092",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cursor_ai One leaked key, two bad weeks and every credential rotated. The postmortem era is the real product launch nobody wants #AI #Security",
+      "url": "https://x.com/dstrausser83/status/2121775188492554605"
+    },
+    {
+      "author_id": "2109841453648355328",
+      "created_at": "2026-11-15T01:09:26.000Z",
+      "edit_history_tweet_ids": [
+        "2121772529413202064"
+      ],
+      "id": "2121772529413202064",
+      "in_reply_to_user_id": "1695890961094909952",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121411147714970092",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cursor_ai Credit where due: this is a fuller postmortem than most vendors publish. The part still missing is a timeline with dates — \"recently\" isn't a disclosure standard.",
+      "url": "https://x.com/XuK512520/status/2121772529413202064"
+    },
+    {
+      "author_id": "2030607767569108992",
+      "created_at": "2026-11-15T00:52:50.000Z",
+      "edit_history_tweet_ids": [
+        "2121768353085772052"
+      ],
+      "id": "2121768353085772052",
+      "in_reply_to_user_id": "1695890961094909952",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121411147714970092",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cursor_ai Credit where it's due — this update connects the dots most incident reports leave hanging: a vendor key, a shared bucket of old traces, unredacted credentials, and then a poisoned extension in the marketplace cache. Two things still open, though. First, how did the attacker",
+      "url": "https://x.com/YL9104/status/2121768353085772052"
+    },
+    {
+      "author_id": "185437631",
+      "created_at": "2026-11-15T00:46:43.000Z",
+      "edit_history_tweet_ids": [
+        "2121766814480822559"
+      ],
+      "id": "2121766814480822559",
+      "in_reply_to_user_id": "3355543401",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121649680002003327",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Lumenwallett @cursor_ai I'd treat every secret on that machine as exposed, not just the planted SSH key. Rotate API keys, deploy keys, and anything in your wallet or .env, then check login and usage logs for odd activity. Removing the SSH key is necessary, but it's only step one.",
+      "url": "https://x.com/Bobelfish/status/2121766814480822559"
+    },
+    {
+      "author_id": "1000125613255118854",
+      "created_at": "2026-11-15T00:40:42.000Z",
+      "edit_history_tweet_ids": [
+        "2121765300509249590"
+      ],
+      "id": "2121765300509249590",
+      "in_reply_to_user_id": "1695890961094909952",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121411147714970092",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cursor_ai this is how you do it — full timeline, what broke, what changed. most incident posts read like they were written by legal. this one reads like it was written by the engineers who fixed it.",
+      "url": "https://x.com/OmerYounus1/status/2121765300509249590"
+    },
+    {
+      "author_id": "3096307097",
+      "created_at": "2026-11-15T00:08:29.000Z",
+      "edit_history_tweet_ids": [
+        "2121757191732433124"
+      ],
+      "id": "2121757191732433124",
+      "in_reply_to_user_id": "1695890961094909952",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 19,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121411147714970092",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cursor_ai Someone using cursor?",
+      "url": "https://x.com/zoshto/status/2121757191732433124"
+    },
+    {
+      "author_id": "1387984706730283009",
+      "created_at": "2026-11-15T00:00:32.000Z",
+      "edit_history_tweet_ids": [
+        "2121755191552942154"
+      ],
+      "id": "2121755191552942154",
+      "in_reply_to_user_id": "1695890961094909952",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 579,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121411147714970092",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cursor_ai Time to go check what my own agents have been writing to their logs",
+      "url": "https://x.com/kimsubbae114/status/2121755191552942154"
+    },
+    {
+      "author_id": "920996574083321856",
+      "created_at": "2026-11-14T23:46:56.000Z",
+      "edit_history_tweet_ids": [
+        "2121751767230890346"
+      ],
+      "id": "2121751767230890346",
+      "in_reply_to_user_id": "1695890961094909952",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121411147714970092",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cursor_ai @FireworksAI_HQ I’m not sure but cursor might churning",
+      "url": "https://x.com/Zraic/status/2121751767230890346"
+    },
+    {
+      "author_id": "2121079916166819840",
+      "created_at": "2026-11-14T23:38:07.000Z",
+      "edit_history_tweet_ids": [
+        "2121749548167245978"
+      ],
+      "id": "2121749548167245978",
+      "in_reply_to_user_id": "1695890961094909952",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121411147714970092",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cursor_ai the part that should worry people isn't one vendor's incident — it's that every coding agent ships with outbound trust on by default. your agent can hit any URL, exfil is one bad AGENTS.md away. the fix isn't a postmortem, it's a default. lock egress, or keep praying?",
+      "url": "https://x.com/threerouter3/status/2121749548167245978"
+    },
+    {
+      "author_id": "1577223900479754240",
+      "created_at": "2026-11-14T23:29:21.000Z",
+      "edit_history_tweet_ids": [
+        "2121747342521253997"
+      ],
+      "id": "2121747342521253997",
+      "in_reply_to_user_id": "1695890961094909952",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 16,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121411147714970092",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cursor_ai こういう経緯がきちんと出てくるのは、使う側としては助かりますね。\nうちの相談でも、AIツールを入れるときに一番聞かれるのは「情報がどこを通るか」で、便利さより先にその話になることが多いです。",
+      "url": "https://x.com/yama_pro3lab/status/2121747342521253997"
+    },
+    {
+      "author_id": "2091084096697180160",
+      "created_at": "2026-11-14T23:03:00.000Z",
+      "edit_history_tweet_ids": [
+        "2121740713952190634"
+      ],
+      "id": "2121740713952190634",
+      "in_reply_to_user_id": "1695890961094909952",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121411147714970092",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cursor_ai Security update sharing incident details feels transparently reassuring today indeed",
+      "url": "https://x.com/ApexAITech/status/2121740713952190634"
+    },
+    {
+      "author_id": "2044308656351506432",
+      "created_at": "2026-11-14T23:01:22.000Z",
+      "edit_history_tweet_ids": [
+        "2121740303124292001"
+      ],
+      "id": "2121740303124292001",
+      "in_reply_to_user_id": "1695890961094909952",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 23,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121411147714970092",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cursor_ai “Protecting the safety of our customers' data is a core priority we take seriously.”\nSo are you going to keep selling access to customer traces without scanning them for API keys?",
+      "url": "https://x.com/KyleJStanfield/status/2121740303124292001"
+    },
+    {
+      "author_id": "1619866603998281728",
+      "created_at": "2026-11-14T22:54:54.000Z",
+      "edit_history_tweet_ids": [
+        "2121738673561522539"
+      ],
+      "id": "2121738673561522539",
+      "in_reply_to_user_id": "1695890961094909952",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 55,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121411147714970092",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cursor_ai the part that stuck with me is credentials sitting unredacted in agent traces. an agent cats a .env or echoes a token while debugging and it lands in the trace word for word. are you scrubbing secrets when the trace is captured now, or only before it goes out to a vendor?",
+      "url": "https://x.com/dr_winner6/status/2121738673561522539"
+    },
+    {
+      "author_id": "262091668",
+      "created_at": "2026-11-14T22:30:42.000Z",
+      "edit_history_tweet_ids": [
+        "2121732585399439845"
+      ],
+      "id": "2121732585399439845",
+      "in_reply_to_user_id": "88685399",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121630848357466528",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@niyokoyuliawan @cursor_ai Shet, ternyata wis ket wulan wingi",
+      "url": "https://x.com/cetholl_/status/2121732585399439845"
+    },
+    {
+      "author_id": "1926629216230981632",
+      "created_at": "2026-11-14T21:55:03.000Z",
+      "edit_history_tweet_ids": [
+        "2121723611522441569"
+      ],
+      "id": "2121723611522441569",
+      "in_reply_to_user_id": "1695890961094909952",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 695,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121411147714970092",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cursor_ai I don’t understand. If poteto is raising 3000 PRs a month with grokbot, how could the poisoned build sit in the cache for 12h.",
+      "url": "https://x.com/graphtheory/status/2121723611522441569"
+    },
+    {
+      "author_id": "2063383038323535872",
+      "created_at": "2026-11-14T21:27:06.000Z",
+      "edit_history_tweet_ids": [
+        "2121716577032643070"
+      ],
+      "id": "2121716577032643070",
+      "in_reply_to_user_id": "1695890961094909952",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 49,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121411147714970092",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cursor_ai Transparency is welcome, but this is a real warning for anyone using AI coding agents.\nA leaked vendor key exposed old traces → some contained unredacted credentials → attacker used them to drop a malicious Claude Code extension (with SSH backdoor behavior) into the marketplace",
+      "url": "https://x.com/MaryJernny/status/2121716577032643070"
+    },
+    {
+      "author_id": "2113033461036703744",
+      "created_at": "2026-11-14T21:11:05.000Z",
+      "edit_history_tweet_ids": [
+        "2121712549548994684"
+      ],
+      "id": "2121712549548994684",
+      "in_reply_to_user_id": "1695890961094909952",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121411147714970092",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cursor_ai TL;DR: it began with a Cursor key exposed at Fireworks AI. If you got Claude Code extension 2.1.312 or 2.1.313 from Cursor's marketplace on Oct 29, run the check script and rotate credentials; uninstalling isn't enough. Recap: https://t.co/ssU9moQAzy",
+      "url": "https://x.com/dailyaibriefhq/status/2121712549548994684"
+    },
+    {
+      "author_id": "1152992842274545670",
+      "created_at": "2026-11-14T21:10:42.000Z",
+      "edit_history_tweet_ids": [
+        "2121712450076553466"
+      ],
+      "id": "2121712450076553466",
+      "in_reply_to_user_id": "1695890961094909952",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 92,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121411147714970092",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cursor_ai Clear, detailed write-up. The lesson for any team: treat editor extensions like any other dependency. Use an allowlist, pin versions, and keep the secrets an agent can reach to a minimum, rotating them after an incident like this.",
+      "url": "https://x.com/CarballalC/status/2121712450076553466"
+    },
+    {
+      "author_id": "2287794458",
+      "created_at": "2026-11-14T19:45:21.000Z",
+      "edit_history_tweet_ids": [
+        "2121690972061049323"
+      ],
+      "id": "2121690972061049323",
+      "in_reply_to_user_id": "1695890961094909952",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121411147714970092",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cursor_ai Credentials ending up in agent traces is a lesson for anyone building with agents. Partner keys and logs need the same care as production secrets, and credit to Cursor for being open about it.",
+      "url": "https://x.com/simon_nz/status/2121690972061049323"
+    },
+    {
+      "author_id": "2092975354138804224",
+      "created_at": "2026-11-14T19:19:00.000Z",
+      "edit_history_tweet_ids": [
+        "2121684340723605976"
+      ],
+      "id": "2121684340723605976",
+      "in_reply_to_user_id": "1695890961094909952",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 142,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121411147714970092",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cursor_ai appreciate the detailed writeup. incidents like this are a good reminder that whatever touches the agent's environment needs the same scrutiny as the code it writes",
+      "url": "https://x.com/rafaelibayev/status/2121684340723605976"
+    },
+    {
+      "author_id": "1451273778428882947",
+      "created_at": "2026-11-14T19:12:37.000Z",
+      "edit_history_tweet_ids": [
+        "2121682733474914567"
+      ],
+      "id": "2121682733474914567",
+      "in_reply_to_user_id": "1386296776072646657",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121449985212608738",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@asoptionsell @cursor_ai No mallace intended",
+      "url": "https://x.com/samuels1v/status/2121682733474914567"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1695890961094909952",
+        "created_at": "2026-11-14T01:13:26.000Z",
+        "edit_history_tweet_ids": [
+          "2121411147714970092"
+        ],
+        "id": "2121411147714970092",
+        "public_metrics": {
+          "bookmark_count": 791,
+          "impression_count": 608495,
+          "like_count": 2058,
+          "quote_count": 180,
+          "reply_count": 200,
+          "retweet_count": 177
+        },
+        "text": "We’ve published an update on our recent security incident. See a detailed overview of what happened and our remediation steps here: https://t.co/2lf6lRJPlL"
+      },
+      {
+        "author_id": "3355543401",
+        "created_at": "2026-11-14T17:01:16.000Z",
+        "edit_history_tweet_ids": [
+          "2121649680002003327"
+        ],
+        "id": "2121649680002003327",
+        "in_reply_to_user_id": "1695890961094909952",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121411147714970092",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@cursor_ai For anyone who had the bad version installed and keeps a wallet or deploy key on that machine, is removing the planted SSH key enough, or should every secret on it be treated as exposed?"
+      },
+      {
+        "author_id": "88685399",
+        "created_at": "2026-11-14T15:46:26.000Z",
+        "edit_history_tweet_ids": [
+          "2121630848357466528"
+        ],
+        "id": "2121630848357466528",
+        "in_reply_to_user_id": "1695890961094909952",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121411147714970092",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@cursor_ai Enek2 wae @cetholl_"
+      },
+      {
+        "author_id": "1386296776072646657",
+        "created_at": "2026-11-14T03:47:45.000Z",
+        "edit_history_tweet_ids": [
+          "2121449985212608738"
+        ],
+        "id": "2121449985212608738",
+        "in_reply_to_user_id": "1695890961094909952",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1909,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121411147714970092",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@cursor_ai Please don't tell that a model broke shackles..."
+      }
+    ],
+    "users": [
+      {
+        "id": "1496121204218150912",
+        "name": "Aivatar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120040347149709312/0teU2Odi_normal.jpg",
+        "username": "Worldwide2060",
+        "verified": false
+      },
+      {
+        "id": "26735842",
+        "name": "vexor4i",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061426203165122562/RD9T_S8-_normal.jpg",
+        "username": "vexor4i",
+        "verified": false
+      },
+      {
+        "id": "2026669491787304960",
+        "name": "Meku_SI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105256663007809537/3ZS6Gq7g_normal.jpg",
+        "username": "MEKU_SI",
+        "verified": false
+      },
+      {
+        "id": "2080585181514309632",
+        "name": "ED川页",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109947526770221056/4MGfLqxN_normal.png",
+        "username": "LaloED1899",
+        "verified": false
+      },
+      {
+        "id": "195624776",
+        "name": "David Strausser",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078923088415064065/86ewX-0D_normal.jpg",
+        "username": "dstrausser83",
+        "verified": false
+      },
+      {
+        "id": "2109841453648355328",
+        "name": "许可之",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109842016624599040/7R6C2tcm_normal.jpg",
+        "username": "XuK512520",
+        "verified": false
+      },
+      {
+        "id": "2030607767569108992",
+        "name": "AI青芽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104448370014060544/FyMyW4gq_normal.jpg",
+        "username": "YL9104",
+        "verified": false
+      },
+      {
+        "id": "185437631",
+        "name": "Kevin G",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/491600014095814656/DvyIaIxf_normal.jpeg",
+        "username": "Bobelfish",
+        "verified": false
+      },
+      {
+        "id": "1000125613255118854",
+        "name": "Omer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097247805601693696/svO0X4KH_normal.jpg",
+        "username": "OmerYounus1",
+        "verified": false
+      },
+      {
+        "id": "3096307097",
+        "name": "Ѕвер",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090938451340238848/9g5yDnTZ_normal.jpg",
+        "username": "zoshto",
+        "verified": false
+      },
+      {
+        "id": "1387984706730283009",
+        "name": "BULBUL(🔥,🔥).grvt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116183089261191168/R5lBFYfM_normal.png",
+        "username": "kimsubbae114",
+        "verified": false
+      },
+      {
+        "id": "920996574083321856",
+        "name": "Zak Raicik",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2121349874490994688/WXFJzqd9_normal.jpg",
+        "username": "Zraic",
+        "verified": false
+      },
+      {
+        "id": "2121079916166819840",
+        "name": "threerouter",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2121166396155437056/kPtY201n_normal.jpg",
+        "username": "threerouter3",
+        "verified": false
+      },
+      {
+        "id": "1577223900479754240",
+        "name": "山口裕也｜Pro3Lab",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117504964583153664/9uwmAyR3_normal.jpg",
+        "username": "yama_pro3lab",
+        "verified": false
+      },
+      {
+        "id": "2091084096697180160",
+        "name": "ApexAiTech",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2111725819949445120/I5DmTk0m_normal.jpg",
+        "username": "ApexAITech",
+        "verified": false
+      },
+      {
+        "id": "2044308656351506432",
+        "name": "Kyle Stanfield",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118379941595324416/UsqZM4go_normal.jpg",
+        "username": "KyleJStanfield",
+        "verified": false
+      },
+      {
+        "id": "1619866603998281728",
+        "name": "drWinner | AppSec & AI Security",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117949867066572800/RIObAh9N_normal.jpg",
+        "username": "dr_winner6",
+        "verified": false
+      },
+      {
+        "id": "262091668",
+        "name": "Full Stuck Developer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1189339332802314245/DEWEdKGl_normal.jpg",
+        "username": "cetholl_",
+        "verified": false
+      },
+      {
+        "id": "1926629216230981632",
+        "name": "グラフ理論",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103549290190614528/0R5ec4NU_normal.jpg",
+        "username": "graphtheory",
+        "verified": false
+      },
+      {
+        "id": "2063383038323535872",
+        "name": "Mary Jernigan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070055259095871488/WlsaP2ZB_normal.jpg",
+        "username": "MaryJernny",
+        "verified": false
+      },
+      {
+        "id": "2113033461036703744",
+        "name": "Daily AI Brief",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2113040448180961280/WoN999q__normal.jpg",
+        "username": "dailyaibriefhq",
+        "verified": false
+      },
+      {
+        "id": "1152992842274545670",
+        "name": "Claudio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1152992995295318016/HPYD8coa_normal.jpg",
+        "username": "CarballalC",
+        "verified": false
+      },
+      {
+        "id": "2287794458",
+        "name": "Simon Singh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619948900609314817/B-wVLxOR_normal.jpg",
+        "username": "simon_nz",
+        "verified": false
+      },
+      {
+        "id": "2092975354138804224",
+        "name": "Rafael Ibayev",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100897194563760128/nXdtrFTt_normal.jpg",
+        "username": "rafaelibayev",
+        "verified": false
+      },
+      {
+        "id": "1451273778428882947",
+        "name": "Samuel S.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1552802007773233152/Dugt4xxn_normal.jpg",
+        "username": "samuels1v",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121794857626993060",
+    "next_token": "b26v89c19zqg8o3juzovrga2d2gaz37z79tfk00s0h8ql",
+    "oldest_id": "2121682733474914567",
+    "result_count": 25
+  }
+}

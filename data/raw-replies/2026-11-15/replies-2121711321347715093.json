@@ -1,0 +1,1278 @@
+{
+  "data": [
+    {
+      "author_id": "143749294",
+      "conversation_id": "2121711321347715093",
+      "created_at": "2026-11-15T02:48:43.000Z",
+      "edit_history_tweet_ids": [
+        "2121797516983230547"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "15540222",
+            "start": 0,
+            "username": "rauchg"
+          }
+        ]
+      },
+      "id": "2121797516983230547",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121711321347715093",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg The flag I can do. It's checking the metrics I keep dropping. I turn it on, get pulled into something else, and only come back when somebody pings me that the number went the wrong way.",
+      "url": "https://x.com/4xy/status/2121797516983230547"
+    },
+    {
+      "author_id": "1880802145978716160",
+      "conversation_id": "2121711321347715093",
+      "created_at": "2026-11-15T02:18:45.000Z",
+      "edit_history_tweet_ids": [
+        "2121789973925929013"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "15540222",
+            "start": 0,
+            "username": "rauchg"
+          }
+        ]
+      },
+      "id": "2121789973925929013",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 18,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121711321347715093",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg The step I'd trust least is \"agent monitors metrics\". My agents spot an error spike fast, then get very confident about a wrong fix. What works for me: the agent can turn a flag off alone, but rolling forward needs my approval. Can vercel flags scope that?",
+      "url": "https://x.com/stardreamfly/status/2121789973925929013"
+    },
+    {
+      "author_id": "2118725849021337601",
+      "conversation_id": "2121711321347715093",
+      "created_at": "2026-11-15T02:09:20.000Z",
+      "edit_history_tweet_ids": [
+        "2121787602743529495"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "15540222",
+            "start": 0,
+            "username": "rauchg"
+          }
+        ]
+      },
+      "id": "2121787602743529495",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121711321347715093",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg One step I'd add: the agent writes the kill criteria before the flag flips. Which metric, what threshold, who gets paged. Without that, 'agent monitors metrics' is an agent staring at dashboards with no definition of bad.",
+      "url": "https://x.com/slduai/status/2121787602743529495"
+    },
+    {
+      "author_id": "1730538532278853632",
+      "conversation_id": "2121711321347715093",
+      "created_at": "2026-11-15T02:06:56.000Z",
+      "edit_history_tweet_ids": [
+        "2121787001192292630"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "15540222",
+            "start": 0,
+            "username": "rauchg"
+          }
+        ]
+      },
+      "id": "2121787001192292630",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121711321347715093",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg Feature flags do a lot of work here. If the agent's change ships dark, a bad merge is a flag flip, not a rollback. The hard part is cleanup: agents add flags fast and never remove them. I'd want a gate that fails the build when a flag has been fully on for 30 days.",
+      "url": "https://x.com/alkaidzhuang/status/2121787001192292630"
+    },
+    {
+      "author_id": "321456181",
+      "conversation_id": "2121711321347715093",
+      "created_at": "2026-11-15T01:58:15.000Z",
+      "edit_history_tweet_ids": [
+        "2121784816953852399"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "15540222",
+            "start": 0,
+            "username": "rauchg"
+          }
+        ]
+      },
+      "id": "2121784816953852399",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 34,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121711321347715093",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg On the metrics step: without Observability Plus, a paid add-on, vercel metrics gives the agent only visitor analytics and page speed, not the request counts that show server errors. Teams already on Pro before 3 April 2026 have to turn Plus on.",
+      "url": "https://x.com/anand_sharrrma/status/2121784816953852399"
+    },
+    {
+      "author_id": "2053068003546386432",
+      "conversation_id": "2121711321347715093",
+      "created_at": "2026-11-15T01:56:49.000Z",
+      "edit_history_tweet_ids": [
+        "2121784454754824402"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "15540222",
+            "start": 0,
+            "username": "rauchg"
+          }
+        ]
+      },
+      "id": "2121784454754824402",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121711321347715093",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg The verification gate is the part I actually care about. My agents ship fast, but what saves me is forcing them to run the tests and show a diff summary before I merge. Feature flags + auto rollback on metrics would close the loop nicely.",
+      "url": "https://x.com/yanyanyanhaha/status/2121784454754824402"
+    },
+    {
+      "author_id": "43563023",
+      "conversation_id": "2121711321347715093",
+      "created_at": "2026-11-15T01:54:19.000Z",
+      "edit_history_tweet_ids": [
+        "2121783825185538102"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "15540222",
+            "start": 0,
+            "username": "rauchg"
+          },
+          {
+            "end": 12,
+            "id": "2085838061347217408",
+            "start": 8,
+            "username": "bot"
+          }
+        ]
+      },
+      "id": "2121783825185538102",
+      "lang": "qam",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121711321347715093",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg @bot",
+      "url": "https://x.com/eboziev/status/2121783825185538102"
+    },
+    {
+      "author_id": "1152632832419778560",
+      "conversation_id": "2121711321347715093",
+      "created_at": "2026-11-15T01:43:48.000Z",
+      "edit_history_tweet_ids": [
+        "2121781179599000039"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "15540222",
+            "start": 0,
+            "username": "rauchg"
+          }
+        ]
+      },
+      "id": "2121781179599000039",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 15,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121711321347715093",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg the third arrow is where it gets real. metrics tell the agent something moved. they don't tell it the customer who asked for the change got what they meant.",
+      "url": "https://x.com/Vatsalpandya333/status/2121781179599000039"
+    },
+    {
+      "author_id": "816507600661544960",
+      "conversation_id": "2121711321347715093",
+      "created_at": "2026-11-15T01:31:44.000Z",
+      "edit_history_tweet_ids": [
+        "2121778144193765463"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1793289424480137216",
+            "start": 0,
+            "username": "huesofbanter"
+          }
+        ]
+      },
+      "id": "2121778144193765463",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121762873462718707",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@huesofbanter any flags that haven’t had rollout changes for 3w (stale) get a cleanup PR + flag owner tagged in slack!",
+      "url": "https://x.com/theowencooke/status/2121778144193765463"
+    },
+    {
+      "author_id": "165551261",
+      "conversation_id": "2121711321347715093",
+      "created_at": "2026-11-15T01:25:57.000Z",
+      "edit_history_tweet_ids": [
+        "2121776688216539215"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "15540222",
+            "start": 0,
+            "username": "rauchg"
+          }
+        ]
+      },
+      "id": "2121776688216539215",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 89,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121711321347715093",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg How do you run schema and data migrations?",
+      "url": "https://x.com/mSanterre/status/2121776688216539215"
+    },
+    {
+      "author_id": "371091579",
+      "conversation_id": "2121711321347715093",
+      "created_at": "2026-11-15T01:13:27.000Z",
+      "edit_history_tweet_ids": [
+        "2121773542106927462"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "15540222",
+            "start": 0,
+            "username": "rauchg"
+          }
+        ]
+      },
+      "id": "2121773542106927462",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121711321347715093",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg Feature gates make agent-written code reviewable after it ships, not just before merge. The open question for most teams is who owns the kill switch when the metrics look fine but users are complaining.",
+      "url": "https://x.com/itsmeandresito/status/2121773542106927462"
+    },
+    {
+      "author_id": "1580420967847034880",
+      "conversation_id": "2121711321347715093",
+      "created_at": "2026-11-15T01:10:39.000Z",
+      "edit_history_tweet_ids": [
+        "2121772836155244678"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "15540222",
+            "start": 0,
+            "username": "rauchg"
+          }
+        ]
+      },
+      "id": "2121772836155244678",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121711321347715093",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg It’s like you have never worked with an LLM before 💀",
+      "url": "https://x.com/russ1anbot/status/2121772836155244678"
+    },
+    {
+      "author_id": "35713745",
+      "conversation_id": "2121711321347715093",
+      "created_at": "2026-11-15T01:10:20.000Z",
+      "edit_history_tweet_ids": [
+        "2121772758052864178"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "15540222",
+            "start": 0,
+            "username": "rauchg"
+          }
+        ]
+      },
+      "id": "2121772758052864178",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 38,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121711321347715093",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg Agents will ship flags fast. The real test is whether they also clean them up, or we end up with 400 flags nobody dares to delete.",
+      "url": "https://x.com/enveryurtsever/status/2121772758052864178"
+    },
+    {
+      "author_id": "2061520863195697152",
+      "conversation_id": "2121711321347715093",
+      "created_at": "2026-11-15T01:10:18.000Z",
+      "edit_history_tweet_ids": [
+        "2121772749844557905"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "15540222",
+            "start": 0,
+            "username": "rauchg"
+          }
+        ]
+      },
+      "id": "2121772749844557905",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121711321347715093",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg The feature flag is doing more work than the model here. If an agent can ship behind a gate and the proofs fail closed, you can move fast without betting the live site on one run. Verification is the actual product.",
+      "url": "https://x.com/TravisLeeSwiftX/status/2121772749844557905"
+    },
+    {
+      "author_id": "1519092759516299266",
+      "conversation_id": "2121711321347715093",
+      "created_at": "2026-11-15T01:00:51.000Z",
+      "edit_history_tweet_ids": [
+        "2121770368776216907"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "15540222",
+            "start": 0,
+            "username": "rauchg"
+          }
+        ]
+      },
+      "id": "2121770368776216907",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121711321347715093",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg The flag is the underrated part. When a bad agent change costs one toggle instead of a revert, you can let it ship small and often. The monitoring step is what earns the trust to stop reading every diff.",
+      "url": "https://x.com/BuildNotBoughtV/status/2121770368776216907"
+    },
+    {
+      "author_id": "2091778553092112384",
+      "conversation_id": "2121711321347715093",
+      "created_at": "2026-11-15T00:59:58.000Z",
+      "edit_history_tweet_ids": [
+        "2121770146234818818"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1474934602544259073",
+            "start": 0,
+            "username": "kylemissionai"
+          },
+          {
+            "end": 22,
+            "id": "15540222",
+            "start": 15,
+            "username": "rauchg"
+          }
+        ]
+      },
+      "id": "2121770146234818818",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121738355025330501",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kylemissionai @rauchg Only the gate on push can mean fewer bugs I think, flags and metrics limit who sees them. With a reviewer and an adversary agent as the gate sol went from 51.9% to 63.0% in our tests on samtools from programbench. It's bello, we make it",
+      "url": "https://x.com/Valeriywn/status/2121770146234818818"
+    },
+    {
+      "author_id": "1810524905638875136",
+      "conversation_id": "2121711321347715093",
+      "created_at": "2026-11-15T00:53:29.000Z",
+      "edit_history_tweet_ids": [
+        "2121768515745255919"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "15540222",
+            "start": 0,
+            "username": "rauchg"
+          }
+        ]
+      },
+      "id": "2121768515745255919",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 114,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121711321347715093",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg Verification gates will save us from messy PRs.",
+      "url": "https://x.com/xiaoyu990321/status/2121768515745255919"
+    },
+    {
+      "author_id": "2117252327241662464",
+      "conversation_id": "2121711321347715093",
+      "created_at": "2026-11-15T00:51:35.000Z",
+      "edit_history_tweet_ids": [
+        "2121768039050056183"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "15540222",
+            "start": 0,
+            "username": "rauchg"
+          }
+        ]
+      },
+      "id": "2121768039050056183",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121711321347715093",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg Verification gates only work if they fail closed; otherwise the agent learns to route around a flaky audit.",
+      "url": "https://x.com/lukasyin88/status/2121768039050056183"
+    },
+    {
+      "author_id": "2094134789045448704",
+      "conversation_id": "2121711321347715093",
+      "created_at": "2026-11-15T00:44:29.000Z",
+      "edit_history_tweet_ids": [
+        "2121766250950836438"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "15540222",
+            "start": 0,
+            "username": "rauchg"
+          }
+        ]
+      },
+      "id": "2121766250950836438",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 24,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121711321347715093",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg the gate only works if the agent can't edit it. we keep our push hook somewhere no agent is allowed to touch, only a human changes it. does vercel lock the verification config away from the agent too?",
+      "url": "https://x.com/ScottWilderHQ/status/2121766250950836438"
+    },
+    {
+      "author_id": "1848266810019520512",
+      "conversation_id": "2121711321347715093",
+      "created_at": "2026-11-15T00:42:19.000Z",
+      "edit_history_tweet_ids": [
+        "2121765707197341854"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "15540222",
+            "start": 0,
+            "username": "rauchg"
+          }
+        ]
+      },
+      "id": "2121765707197341854",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121711321347715093",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg Four models debated one draft for 20 rounds and caught one calculation error and one citation-date error. Verification gates belong on published numbers too; no test suite runs against those.",
+      "url": "https://x.com/Innora_sg/status/2121765707197341854"
+    },
+    {
+      "author_id": "1991210188578467840",
+      "conversation_id": "2121711321347715093",
+      "created_at": "2026-11-15T00:35:09.000Z",
+      "edit_history_tweet_ids": [
+        "2121763900660351472"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "15540222",
+            "start": 0,
+            "username": "rauchg"
+          }
+        ]
+      },
+      "id": "2121763900660351472",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121711321347715093",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg Feature flags plus verification gates is the right shape, but the gate is only as good as what it checks. An agent watching its own metrics can also learn to make the dashboard look fine. Who audits the monitoring when the agent wrote that too?",
+      "url": "https://x.com/viral_warden/status/2121763900660351472"
+    },
+    {
+      "author_id": "1793289424480137216",
+      "conversation_id": "2121711321347715093",
+      "created_at": "2026-11-15T00:31:04.000Z",
+      "edit_history_tweet_ids": [
+        "2121762873462718707"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "816507600661544960",
+            "start": 0,
+            "username": "theowencooke"
+          }
+        ]
+      },
+      "id": "2121762873462718707",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 13,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121743561175744719",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@theowencooke oh nice, did you have it pick which flags to remove too, or just handle the cleanup?",
+      "url": "https://x.com/huesofbanter/status/2121762873462718707"
+    },
+    {
+      "author_id": "2019230441241473027",
+      "conversation_id": "2121711321347715093",
+      "created_at": "2026-11-15T00:04:12.000Z",
+      "edit_history_tweet_ids": [
+        "2121756115721404581"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "15540222",
+            "start": 0,
+            "username": "rauchg"
+          }
+        ]
+      },
+      "id": "2121756115721404581",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121711321347715093",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg Right now it feels like the biggest lift comes from the verification step. Defining the right success criteria is like the new prompt engineering.",
+      "url": "https://x.com/theailaunchpad/status/2121756115721404581"
+    },
+    {
+      "author_id": "369877701",
+      "conversation_id": "2121711321347715093",
+      "created_at": "2026-11-15T00:03:02.000Z",
+      "edit_history_tweet_ids": [
+        "2121755818672484392"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "15540222",
+            "start": 0,
+            "username": "rauchg"
+          }
+        ]
+      },
+      "id": "2121755818672484392",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 72,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121711321347715093",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg the metrics step is the one I'd watch. writing the flag is easy for an agent, deciding a small error bump is its fault and turning the flag off is harder. I'd leave that rollback threshold to a human for now",
+      "url": "https://x.com/eduardotech/status/2121755818672484392"
+    },
+    {
+      "author_id": "26184130",
+      "conversation_id": "2121711321347715093",
+      "created_at": "2026-11-14T23:52:36.000Z",
+      "edit_history_tweet_ids": [
+        "2121753196309672321"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "15540222",
+            "start": 0,
+            "username": "rauchg"
+          }
+        ]
+      },
+      "id": "2121753196309672321",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 18,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121711321347715093",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rauchg 💯.   And, at scale, the next level up is the A/B test and the product decision of this new feature meaningfully impact the key result and deciding whether to keep it, roll it back, etc.     Then complete the feedback loop to try another experiment. 🙂",
+      "url": "https://x.com/patrickshuff/status/2121753196309672321"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "15540222",
+        "conversation_id": "2121711321347715093",
+        "created_at": "2026-11-14T21:06:13.000Z",
+        "edit_history_tweet_ids": [
+          "2121711321347715093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/marclou/status…",
+              "end": 265,
+              "expanded_url": "https://twitter.com/marclou/status/2121571094411067537",
+              "start": 242,
+              "url": "https://t.co/x4Uyp2S2ev"
+            }
+          ]
+        },
+        "id": "2121711321347715093",
+        "lang": "en",
+        "note_tweet": {
+          "text": "This is how agents will ship all code. \n\n→ Agent writes feature-gated code\n→ Verification gates on push (proof checking, security audits)\n→ Agent monitors metrics \n\nYou can live the future today with Vercel CLI: 𝚟𝚎𝚛𝚌𝚎𝚕 𝚏𝚕𝚊𝚐𝚜, 𝚟𝚎𝚛𝚌𝚎𝚕 𝚖𝚎𝚝𝚛𝚒𝚌𝚜, 𝚟𝚎𝚛𝚌𝚎𝚕 𝚍𝚎𝚙𝚕𝚘𝚢."
+        },
+        "public_metrics": {
+          "bookmark_count": 698,
+          "impression_count": 51102,
+          "like_count": 688,
+          "quote_count": 13,
+          "reply_count": 115,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121571094411067537",
+            "type": "quoted"
+          }
+        ],
+        "text": "This is how agents will ship all code. \n\n→ Agent writes feature-gated code\n→ Verification gates on push (proof checking, security audits)\n→ Agent monitors metrics \n\nYou can live the future today with Vercel CLI: 𝚟𝚎𝚛𝚌𝚎𝚕 𝚏𝚕𝚊𝚐𝚜, 𝚟𝚎𝚛𝚌𝚎𝚕 𝚖𝚎𝚝𝚛𝚒𝚌𝚜, https://t.co/x4Uyp2S2ev"
+      },
+      {
+        "author_id": "1793289424480137216",
+        "conversation_id": "2121711321347715093",
+        "created_at": "2026-11-15T00:31:04.000Z",
+        "edit_history_tweet_ids": [
+          "2121762873462718707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "816507600661544960",
+              "start": 0,
+              "username": "theowencooke"
+            }
+          ]
+        },
+        "id": "2121762873462718707",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121743561175744719",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@theowencooke oh nice, did you have it pick which flags to remove too, or just handle the cleanup?"
+      },
+      {
+        "author_id": "1474934602544259073",
+        "conversation_id": "2121711321347715093",
+        "created_at": "2026-11-14T22:53:38.000Z",
+        "edit_history_tweet_ids": [
+          "2121738355025330501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "15540222",
+              "start": 0,
+              "username": "rauchg"
+            }
+          ]
+        },
+        "id": "2121738355025330501",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121711321347715093",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@rauchg Honest question: does this mean fewer bugs, or just catching them before most users see them?"
+      },
+      {
+        "author_id": "816507600661544960",
+        "conversation_id": "2121711321347715093",
+        "created_at": "2026-11-14T23:14:19.000Z",
+        "edit_history_tweet_ids": [
+          "2121743561175744719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1793289424480137216",
+              "start": 0,
+              "username": "huesofbanter"
+            },
+            {
+              "end": 21,
+              "id": "15540222",
+              "start": 14,
+              "username": "rauchg"
+            }
+          ],
+          "urls": [
+            {
+              "description": "How DoorDash built a multi-agent LLM system that removes stale feature flags end to end, producing merge-ready PRs.",
+              "display_url": "careersatdoordash.com/blog/automatin…",
+              "end": 163,
+              "expanded_url": "https://careersatdoordash.com/blog/automating-feature-flag-cleanup-at-scale-with-a-multi-agent-llm-system/",
+              "images": [
+                {
+                  "height": 384,
+                  "url": "https://pbs.twimg.com/news_img/2121743574433935360/RPN51gl5?format=jpg&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2121743574433935360/RPN51gl5?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 140,
+              "status": 200,
+              "title": "Automating Feature-Flag Cleanup at Scale with a Multi-Agent LLM System - DoorDash",
+              "unwound_url": "https://careersatdoordash.com/blog/automating-feature-flag-cleanup-at-scale-with-a-multi-agent-llm-system/",
+              "url": "https://t.co/FE7GRvGxbr"
+            }
+          ]
+        },
+        "id": "2121743561175744719",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121715765879746885",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@huesofbanter @rauchg this ^. Easy to setup and close the loop, I did it at my company. Cheap compared to eng effort, ~$1.50/flag\n\nSee also https://t.co/FE7GRvGxbr"
+      }
+    ],
+    "users": [
+      {
+        "id": "143749294",
+        "name": "轩源",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054768188806832128/MUlSFsx1_normal.jpg",
+        "username": "4xy",
+        "verified": false
+      },
+      {
+        "id": "1880802145978716160",
+        "name": "星梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907863221131948035/cxnMkofd_normal.jpg",
+        "username": "stardreamfly",
+        "verified": false
+      },
+      {
+        "id": "2118725849021337601",
+        "name": "sldu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119278204724871168/5ZrGy_eF_normal.jpg",
+        "username": "slduai",
+        "verified": false
+      },
+      {
+        "id": "1730538532278853632",
+        "name": "CharmLynn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740242658243858432/G8tkqzUN_normal.jpg",
+        "username": "alkaidzhuang",
+        "verified": false
+      },
+      {
+        "id": "321456181",
+        "name": "Anand Sharma",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080296096518361089/u8jr9pi7_normal.jpg",
+        "username": "anand_sharrrma",
+        "verified": false
+      },
+      {
+        "id": "2053068003546386432",
+        "name": "颜颜yan_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118157102330105856/HL8WAdy0_normal.jpg",
+        "username": "yanyanyanhaha",
+        "verified": false
+      },
+      {
+        "id": "43563023",
+        "name": "Eldar Boziev",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049702264458428416/hdpT7sjf_normal.jpg",
+        "username": "eboziev",
+        "verified": false
+      },
+      {
+        "id": "1152632832419778560",
+        "name": "Vatsalpandya333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963298422573654018/gfwLSMxH_normal.jpg",
+        "username": "Vatsalpandya333",
+        "verified": false
+      },
+      {
+        "id": "816507600661544960",
+        "name": "owen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2121709940683509760/83-tdMvu_normal.jpg",
+        "username": "theowencooke",
+        "verified": false
+      },
+      {
+        "id": "165551261",
+        "name": "max",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844978275770064915/X_uOEMy0_normal.jpg",
+        "username": "mSanterre",
+        "verified": false
+      },
+      {
+        "id": "371091579",
+        "name": "Andre of PWA Pilipinas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675435080179646466/2eN_5Si-_normal.jpg",
+        "username": "itsmeandresito",
+        "verified": false
+      },
+      {
+        "id": "1580420967847034880",
+        "name": "Russian Bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581664353203367936/Ta2Vtj97_normal.jpg",
+        "username": "russ1anbot",
+        "verified": false
+      },
+      {
+        "id": "35713745",
+        "name": "Enver",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022123057431687168/n2KKBavM_normal.jpg",
+        "username": "enveryurtsever",
+        "verified": false
+      },
+      {
+        "id": "2061520863195697152",
+        "name": "Travis Lee Swift",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2121426892540538880/0tLfXRwQ_normal.jpg",
+        "username": "TravisLeeSwiftX",
+        "verified": false
+      },
+      {
+        "id": "1519092759516299266",
+        "name": "Build Not Bought",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109478806649999360/R4ZJjlyN_normal.jpg",
+        "username": "BuildNotBoughtV",
+        "verified": false
+      },
+      {
+        "id": "2091778553092112384",
+        "name": "Valeriy",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "username": "Valeriywn",
+        "verified": false
+      },
+      {
+        "id": "1810524905638875136",
+        "name": "鱼乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845959899035103232/BX5v1ZW4_normal.jpg",
+        "username": "xiaoyu990321",
+        "verified": false
+      },
+      {
+        "id": "2117252327241662464",
+        "name": "vikey | AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117258520513146880/A72xBp4W_normal.jpg",
+        "username": "lukasyin88",
+        "verified": false
+      },
+      {
+        "id": "2094134789045448704",
+        "name": "Scott Wilder",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108573180017152000/CN8iXF2f_normal.jpg",
+        "username": "ScottWilderHQ",
+        "verified": false
+      },
+      {
+        "id": "1848266810019520512",
+        "name": "Innora.ai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050554096537739264/GQQINw34_normal.png",
+        "username": "Innora_sg",
+        "verified": false
+      },
+      {
+        "id": "1991210188578467840",
+        "name": "Viral Warden",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991212022483283969/xtyA1lJj_normal.jpg",
+        "username": "viral_warden",
+        "verified": false
+      },
+      {
+        "id": "1793289424480137216",
+        "name": "pasandida(:)aura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073682995169591296/OAQIYwVH_normal.jpg",
+        "username": "huesofbanter",
+        "verified": false
+      },
+      {
+        "id": "2019230441241473027",
+        "name": "Kenny Liao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115140090167222272/SGvoEYcp_normal.jpg",
+        "username": "theailaunchpad",
+        "verified": false
+      },
+      {
+        "id": "369877701",
+        "name": "Eduardo Aguirre",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031630756162732032/NO8y3Nu5_normal.jpg",
+        "username": "eduardotech",
+        "verified": false
+      },
+      {
+        "id": "26184130",
+        "name": "shuff",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/985245224719929344/7WX-imAh_normal.jpg",
+        "username": "patrickshuff",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121797516983230547",
+    "next_token": "b26v89c19zqg8o3juzovridw6lmx3wim42om9bx9c0399",
+    "oldest_id": "2121753196309672321",
+    "result_count": 25
+  }
+}

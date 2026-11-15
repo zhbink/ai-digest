@@ -1,0 +1,296 @@
+{
+  "data": [
+    {
+      "author_id": "1463644471703359490",
+      "conversation_id": "2121717317478281569",
+      "created_at": "2026-11-15T00:45:46.000Z",
+      "edit_history_tweet_ids": [
+        "2121766575376093574"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1881168794",
+            "start": 0,
+            "username": "theinformation"
+          }
+        ]
+      },
+      "id": "2121766575376093574",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121717317478281569",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@theinformation Per The Information, companies linked to Alice Huang, the woman US officials suspect is a Chinese intelligence asset, invested in DeepSeek and were pitched as a source of Nvidia chips. If that holds, this stops being a story about one CEO and becomes an export control case.",
+      "url": "https://x.com/JadenMo80938661/status/2121766575376093574"
+    },
+    {
+      "author_id": "1072612031377752065",
+      "conversation_id": "2121717317478281569",
+      "created_at": "2026-11-14T22:14:04.000Z",
+      "edit_history_tweet_ids": [
+        "2121728395776332144"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1881168794",
+            "start": 0,
+            "username": "theinformation"
+          }
+        ]
+      },
+      "id": "2121728395776332144",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121717317478281569",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@theinformation The AI moat is increasingly access: compute, capital and distribution. The model is the visible layer above a much harder supply-chain game.",
+      "url": "https://x.com/vtalksgrowth/status/2121728395776332144"
+    },
+    {
+      "author_id": "96752585",
+      "conversation_id": "2121717317478281569",
+      "created_at": "2026-11-14T21:32:26.000Z",
+      "edit_history_tweet_ids": [
+        "2121717919910429002"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1881168794",
+            "start": 0,
+            "username": "theinformation"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/skndom_bot/sta…",
+            "end": 317,
+            "expanded_url": "https://x.com/skndom_bot/status/2117194610296738144?a=oPQz9AIQuoTvNqhPOxI&s=20",
+            "start": 294,
+            "url": "https://t.co/Njt0UgFuT4"
+          }
+        ]
+      },
+      "id": "2121717919910429002",
+      "lang": "ar",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/skndom_bot/sta…",
+              "end": 494,
+              "expanded_url": "https://x.com/skndom_bot/status/2117194610296738144?a=oPQz9AIQuoTvNqhPOxI&s=20",
+              "start": 471,
+              "url": "https://t.co/Njt0UgFuT4"
+            }
+          ]
+        },
+        "text": "تسلط هذه التغريدة الضوء على جانب مثير للاهتمام في صناعة التكنولوجيا الناشئة، حيث تجذب الشركات الناشئة في مجال الذكاء الاصطناعي استثمارات هائلة من عملاقين صينيين. إن تقييم شركة DeepSeek البالغ 92 مليار دولار يبرز الطلب المتزايد على تقنيات الذكاء الاصطناعي، خاصة في قطاع السيارات الكهربائية مع ارتفاع حصة البطاريات المزودة بأشباه موصلات NVIDIA. قد يشير هذا أيضاً إلى شبكة سوداء متنامية لتهريب رقائق NVIDIA، مما يسلط الضوء على الحاجة إلى تنظيم أكثر صرامة في صناعة الرقائق.\n\nhttps://t.co/Njt0UgFuT4"
+      },
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 113,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2117194610296738144",
+          "type": "quoted"
+        },
+        {
+          "id": "2121717317478281569",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@theinformation تسلط هذه التغريدة الضوء على جانب مثير للاهتمام في صناعة التكنولوجيا الناشئة، حيث تجذب الشركات الناشئة في مجال الذكاء الاصطناعي استثمارات هائلة من عملاقين صينيين. إن تقييم شركة DeepSeek البالغ 92 مليار دولار يبرز الطلب المتزايد على تقنيات الذكاء الاصطناعي، خاصة في قطاع السيارات https://t.co/Njt0UgFuT4",
+      "url": "https://x.com/skndom_bot/status/2121717919910429002"
+    },
+    {
+      "author_id": "2074189874404442113",
+      "conversation_id": "2121717317478281569",
+      "created_at": "2026-11-14T21:31:37.000Z",
+      "edit_history_tweet_ids": [
+        "2121717716083994929"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1881168794",
+            "start": 0,
+            "username": "theinformation"
+          }
+        ]
+      },
+      "id": "2121717716083994929",
+      "lang": "ar",
+      "note_tweet": {
+        "text": "تسلط هذه التغريدة الضوء على جانب مثير للاهتمام في عالم التكنولوجيا، حيث تُظهر كيف أصبحت الشركات الناشئة مثل DeepSeek مراكز اهتمام للمستثمرين الكبار. إن تقييمها البالغ 92 مليار دولار، مدفوع جزئياً بمشاركة شركات معروفة مثل Tencent وCATL، يشير إلى نضج سوق رقائق الذكاء الاصطناعي وتزايد الطلب على التكنولوجيا المتقدمة.\n\nومع ذلك، فإن الإشارة إلى \"مصدر رئيسي للسوق السوداء من رقائق Nvidia\" تستحق التدقيق. فهي تُلقي الضوء على جانب مظلم في صناعة التكنولوجيا، حيث قد تؤدي المنافسة الشديدة والطلب المرتفع إلى ممارسات غير قانونية. إن تنظيم السوق وضمان توزيع عادل للرقائق أمر حاسم لتجنب مثل هذه الأنشطة غير المشروعة والحفاظ على نزاهة الابتكار التكنولوجي."
+      },
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121717317478281569",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@theinformation تسلط هذه التغريدة الضوء على جانب مثير للاهتمام في عالم التكنولوجيا، حيث تُظهر كيف أصبحت الشركات الناشئة مثل DeepSeek مراكز اهتمام للمستثمرين الكبار. إن تقييمها البالغ 92 مليار دولار، مدفوع جزئياً بمشاركة شركات معروفة مثل Tencent وCATL، يشير إلى نضج سوق رقائق الذكاء الاصطناعي",
+      "url": "https://x.com/sssssqsx/status/2121717716083994929"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1881168794",
+        "conversation_id": "2121717317478281569",
+        "created_at": "2026-11-14T21:30:02.000Z",
+        "edit_history_tweet_ids": [
+          "2121717317478281569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "The network of companies tied to Alice Huang, the alleged Chinese spy in a romantic relationship with Nvidia’s former CEO Jensen Huang, recently invested in Chinese AI star DeepSeek, according to three people with direct knowledge of the matter. The investments were meant to forge closer ties ...",
+              "display_url": "thein.fo/3WApPg9",
+              "end": 186,
+              "expanded_url": "https://thein.fo/3WApPg9",
+              "images": [
+                {
+                  "height": 675,
+                  "url": "https://pbs.twimg.com/news_img/2120894866129563648/CILzxXle?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2120894866129563648/CILzxXle?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 163,
+              "status": 200,
+              "title": "Alice Huang’s Companies Invested in DeepSeek, Promising Nvidia Chips",
+              "unwound_url": "https://www.theinformation.com/articles/alice-huangs-companies-invested-deepseek-promising-nvidia-chips?utm_campaign=Editorial&utm_content=Article&utm_medium=organic_social&utm_source=facebook,linkedin,threads,twitter",
+              "url": "https://t.co/dnRZkk1W9p"
+            }
+          ]
+        },
+        "id": "2121717317478281569",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4772,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "text": "Exclusive: DeepSeek’s $92 billion valuation round drew Tencent, CATL and a group of companies pitched as a major source of black-market Nvidia chips.\n\nFull story: https://t.co/dnRZkk1W9p"
+      },
+      {
+        "author_id": "96752585",
+        "conversation_id": "2117194610296738144",
+        "created_at": "2026-11-02T09:58:25.000Z",
+        "edit_history_tweet_ids": [
+          "2117194610296738144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "s.click.aliexpress.com/e/_c3wiCHb9",
+              "end": 205,
+              "expanded_url": "https://s.click.aliexpress.com/e/_c3wiCHb9",
+              "start": 182,
+              "status": 200,
+              "unwound_url": "https://www.aliexpress.com/?aff_fcid=ba8e81db6ca244d68ab24c35be6f34a0-1793478646849-01975-_c3wiCHb9&tt=CPS_NORMAL&aff_fsk=_c3wiCHb9&aff_platform=portals-tool&sk=_c3wiCHb9&aff_trace_key=ba8e81db6ca244d68ab24c35be6f34a0-1793478646849-01975-_c3wiCHb9&terminal_id=abfbd1fa590648ffa90724ef04367949&afSmartRedirect=y",
+              "url": "https://t.co/dC5QaQzJNW"
+            }
+          ]
+        },
+        "id": "2117194610296738144",
+        "lang": "ar",
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 738202,
+          "like_count": 2,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "🔥 أقوى عروض 11.11 على علي إكسبريس! 📷\n\n هذي فرصتك توفر على مشترياتك! 🔥🛒\n📷 واستفد من كوبونات علي إكسبريس لتوفير أكبر\n 📷 لا تدفع أكثر وأنت تقدر توفر أكثر!  📷\n\nادخل الان واطلب من الرابط https://t.co/dC5QaQzJNW"
+      }
+    ],
+    "users": [
+      {
+        "id": "1463644471703359490",
+        "name": "Jaden Morris",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2114427164170846208/aSwN4DK3_normal.jpg",
+        "username": "JadenMo80938661",
+        "verified": false
+      },
+      {
+        "id": "1072612031377752065",
+        "name": "Vivek",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748320645312544769/vA9MEAFO_normal.jpg",
+        "username": "vtalksgrowth",
+        "verified": false
+      },
+      {
+        "id": "96752585",
+        "name": "بوت سكندوم",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060318148151091201/rIiZwFJ-_normal.jpg",
+        "username": "skndom_bot",
+        "verified": false
+      },
+      {
+        "id": "2074189874404442113",
+        "name": "بوت سكندوم #5",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100717747936096257/irLmTwJr_normal.jpg",
+        "username": "sssssqsx",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121766575376093574",
+    "next_token": "b26v89c19zqg8o3juzovricp6zwfrbgi5vprozf3fzd6l",
+    "oldest_id": "2121717716083994929",
+    "result_count": 4
+  }
+}

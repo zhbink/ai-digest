@@ -1,0 +1,231 @@
+{
+  "data": [
+    {
+      "author_id": "461857746",
+      "created_at": "2026-11-15T02:38:56.000Z",
+      "edit_history_tweet_ids": [
+        "2121795053110940052"
+      ],
+      "id": "2121795053110940052",
+      "in_reply_to_user_id": "1760502863854460928",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121574642234372531",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GeekCatX 我一直这么用 ：微信一句话 直接调用 onim tts 直接出片。封面 标题都配好。",
+      "url": "https://x.com/LVK6532/status/2121795053110940052"
+    },
+    {
+      "author_id": "1683170613693673473",
+      "created_at": "2026-11-15T02:21:18.000Z",
+      "edit_history_tweet_ids": [
+        "2121790618095730887"
+      ],
+      "id": "2121790618095730887",
+      "in_reply_to_user_id": "1760502863854460928",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121574642234372531",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GeekCatX 没有任何影视知识 如何学习制作那种美美skill 求解答",
+      "url": "https://x.com/Will_Will_WOW/status/2121790618095730887"
+    },
+    {
+      "author_id": "1111199288783048704",
+      "created_at": "2026-11-14T20:34:40.000Z",
+      "edit_history_tweet_ids": [
+        "2121703383195394548"
+      ],
+      "id": "2121703383195394548",
+      "in_reply_to_user_id": "1760502863854460928",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 23,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121574642234372531",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GeekCatX 把剪辑经验写进 skill，这种思路挺有意思。素材选择和节奏也想看看怎么控制。",
+      "url": "https://x.com/CryptoJiucaier/status/2121703383195394548"
+    },
+    {
+      "author_id": "711846444290875396",
+      "created_at": "2026-11-14T19:08:27.000Z",
+      "edit_history_tweet_ids": [
+        "2121681684336693613"
+      ],
+      "id": "2121681684336693613",
+      "in_reply_to_user_id": "1760502863854460928",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 79,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121574642234372531",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GeekCatX Google👍👍👍",
+      "url": "https://x.com/xinlingyidian/status/2121681684336693613"
+    },
+    {
+      "author_id": "882344550659969024",
+      "created_at": "2026-11-14T17:45:19.000Z",
+      "edit_history_tweet_ids": [
+        "2121660762858934732"
+      ],
+      "id": "2121660762858934732",
+      "in_reply_to_user_id": "1760502863854460928",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 109,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121574642234372531",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GeekCatX 关键确实在 skill 不在模型，有了剪辑思路和流程就能直接出片，没有就只能干瞪眼，这才是真正能复用的部分。",
+      "url": "https://x.com/xsm0820/status/2121660762858934732"
+    },
+    {
+      "author_id": "1827594807272992770",
+      "created_at": "2026-11-14T13:58:25.000Z",
+      "edit_history_tweet_ids": [
+        "2121603664603169121"
+      ],
+      "id": "2121603664603169121",
+      "in_reply_to_user_id": "1760502863854460928",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 119,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121574642234372531",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GeekCatX 赞同！同一个模型出片稳不稳，看 skill 里规矩写得细不细。我拼片子用 concat demuxer，音画最多漂 0.62 秒，换 concat filter 降到 0.069 秒，也都是实操出来的，然后沉淀到skill里自用",
+      "url": "https://x.com/rajesh_aigc/status/2121603664603169121"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1760502863854460928",
+        "created_at": "2026-11-14T12:03:06.000Z",
+        "edit_history_tweet_ids": [
+          "2121574642234372531"
+        ],
+        "id": "2121574642234372531",
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 4422,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121363868425306372",
+            "type": "quoted"
+          }
+        ],
+        "text": "Google 官方今天演示了一件我前天刚做过的事：一个 skill 加一句需求，AI 直接出成片。\n\n官方帖写的：\n- Gemini 4 Hydrogen 用一个自定义 skill 和一份简单需求\n- 自己找公版历史素材\n- 剪成一镜到底的片子，还配好旁白\n\n猫哥的判断：\n关键不在模型，在那个 skill。同一个模型，没有剪辑 skill https://t.co/72LcIX2O2p"
+      }
+    ],
+    "users": [
+      {
+        "id": "461857746",
+        "name": "lvk6532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/521311950693998592/DmVp0ifU_normal.jpeg",
+        "username": "LVK6532",
+        "verified": false
+      },
+      {
+        "id": "1683170613693673473",
+        "name": "罗斯福岛南",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922658389974503424/dk_i9uIM_normal.jpg",
+        "username": "Will_Will_WOW",
+        "verified": false
+      },
+      {
+        "id": "1111199288783048704",
+        "name": "CryptoLeek",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815279381897711616/ES344vt__normal.jpg",
+        "username": "CryptoJiucaier",
+        "verified": false
+      },
+      {
+        "id": "711846444290875396",
+        "name": "GOU HUANQIANG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1357318323944439808/gJZQB1sY_normal.jpg",
+        "username": "xinlingyidian",
+        "verified": false
+      },
+      {
+        "id": "882344550659969024",
+        "name": "luisa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118840890286309376/p0DrnCKX_normal.jpg",
+        "username": "xsm0820",
+        "verified": false
+      },
+      {
+        "id": "1827594807272992770",
+        "name": "Rajesh｜用 agent 做 AI 视频",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120350485970665472/fQZeXrOS_normal.jpg",
+        "username": "rajesh_aigc",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121795053110940052",
+    "next_token": "b26v89c19zqg8o3juzovrg7o35v63yp4cppu7n99wmge5",
+    "oldest_id": "2121603664603169121",
+    "result_count": 6
+  }
+}

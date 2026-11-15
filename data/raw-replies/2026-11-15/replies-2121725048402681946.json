@@ -1,0 +1,1402 @@
+{
+  "data": [
+    {
+      "author_id": "1493284325147791364",
+      "conversation_id": "2121725048402681946",
+      "created_at": "2026-11-15T03:03:36.000Z",
+      "edit_history_tweet_ids": [
+        "2121801261901045936"
+      ],
+      "entities": {
+        "cashtags": [
+          {
+            "end": 30,
+            "start": 25,
+            "tag": "NVDA"
+          }
+        ],
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          },
+          {
+            "end": 23,
+            "id": "19400611",
+            "start": 15,
+            "username": "cvpayne"
+          }
+        ]
+      },
+      "id": "2121801261901045936",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "cashtags": [
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "NVDA"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "19400611",
+              "start": 0,
+              "username": "cvpayne"
+            }
+          ]
+        },
+        "text": "@cvpayne  $NVDA  :  All seven are buying Nvidia's anyway.  (shows the shift is additive rather than a full substitution)\nThey are. The dual strategy is deliberate: custom silicon for high-volume, predictable internal workloads (especially inference) plus continued large-scale Nvidia purchases for flexibility, frontier training, external cloud customers, and rapid capacity ramps.⁠ Axios⁠Coinpaper\n\nNvidia’s edge is less pure silicon performance at this point and more the full stack.  CUDA and the surrounding software ecosystem remain sticky for most developers and third-party cloud users; porting large codebases is expensive and slow.  GPUs are also general-purpose, so hyperscalers can reallocate them across changing models and customer needs.  Custom ASICs (Google’s TPUs/Ironwood, Amazon’s Trainium, Microsoft’s Maia, Meta’s MTIA, OpenAI’s Jalapeño with Broadcom, and Anthropic’s efforts) are typically optimized for specific, stable workloads where the total cost of ownership advantage can be material once amortized. \n\nSemiAnalysis’s framing is consistent with the broader picture: the six customers building their own chips still account for a huge share of Nvidia GPU deployments, while Nvidia’s support for neoclouds (CoreWeave and others) keeps an alternative supply channel open so hyperscalers do not fully control the market. Custom chips reduce dependence over time, particularly on inference, but the data through late 2026 shows the shift is additive rather than a full substitution.⁠ Rcrtech"
+      },
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121725048402681946",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ @cvpayne  $NVDA  :  All seven are buying Nvidia's anyway.  (shows the shift is additive rather than a full substitution)\nThey are. The dual strategy is deliberate: custom silicon for high-volume, predictable internal workloads (especially inference) plus continued large-scale",
+      "url": "https://x.com/REBIII333Re/status/2121801261901045936"
+    },
+    {
+      "author_id": "1968511350918848513",
+      "conversation_id": "2121725048402681946",
+      "created_at": "2026-11-15T02:59:49.000Z",
+      "edit_history_tweet_ids": [
+        "2121800309575909584"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121800309575909584",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121725048402681946",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ Not believing this.",
+      "url": "https://x.com/Rebbfncm/status/2121800309575909584"
+    },
+    {
+      "author_id": "1926164885001400320",
+      "conversation_id": "2121725048402681946",
+      "created_at": "2026-11-15T02:57:26.000Z",
+      "edit_history_tweet_ids": [
+        "2121799710700909042"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121799710700909042",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121725048402681946",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ Lol. Completely false and misleading info about neoclouds",
+      "url": "https://x.com/royalpics1998/status/2121799710700909042"
+    },
+    {
+      "author_id": "1496121204218150912",
+      "conversation_id": "2121725048402681946",
+      "created_at": "2026-11-15T02:54:08.000Z",
+      "edit_history_tweet_ids": [
+        "2121798877082980509"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121798877082980509",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121725048402681946",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ Six of seven building their own silicon is the real story — the biggest Nvidia customers are also its future competitors. The question is whether in-house chips ever escape internal workloads and become a real alternative for everyone else.",
+      "url": "https://x.com/Worldwide2060/status/2121798877082980509"
+    },
+    {
+      "author_id": "337998590",
+      "conversation_id": "2121725048402681946",
+      "created_at": "2026-11-15T02:38:58.000Z",
+      "edit_history_tweet_ids": [
+        "2121795061411430785"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "1058971",
+            "start": 0,
+            "username": "jhong"
+          },
+          {
+            "end": 21,
+            "id": "1745106082790318080",
+            "start": 7,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121795061411430785",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121762076893086147",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@jhong @SemiAnalysis_ Jensen back as CEO in January. Listen to Moonshots today",
+      "url": "https://x.com/GoSkunkBearGo/status/2121795061411430785"
+    },
+    {
+      "author_id": "1409176136236601345",
+      "conversation_id": "2121725048402681946",
+      "created_at": "2026-11-15T02:35:49.000Z",
+      "edit_history_tweet_ids": [
+        "2121794269707133297"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121794269707133297",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 79,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121725048402681946",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ Nvda is the next Enron",
+      "url": "https://x.com/ek81307096/status/2121794269707133297"
+    },
+    {
+      "author_id": "1720665183188922368",
+      "conversation_id": "2121725048402681946",
+      "created_at": "2026-11-15T02:30:12.000Z",
+      "edit_history_tweet_ids": [
+        "2121792855807057930"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "2712827780",
+            "start": 0,
+            "username": "AnthraXXXMedia"
+          },
+          {
+            "end": 30,
+            "id": "1745106082790318080",
+            "start": 16,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121792855807057930",
+      "lang": "en",
+      "note_tweet": {
+        "text": "Bit overhyped to call it dead. CUDA still owns the broad developer base, libraries, and training workflows after 20 years. Hyperscalers' custom silicon and AI coding agents are real erosion, especially on inference and switching costs at the top. For everyone else the moat holds; full stack and supply chain keep Nvidia hard to displace completely."
+      },
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121792689343471857",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AnthraXXXMedia @SemiAnalysis_ Bit overhyped to call it dead. CUDA still owns the broad developer base, libraries, and training workflows after 20 years. Hyperscalers' custom silicon and AI coding agents are real erosion, especially on inference and switching costs at the top. For everyone else the moat holds;",
+      "url": "https://x.com/grok/status/2121792855807057930"
+    },
+    {
+      "author_id": "2712827780",
+      "conversation_id": "2121725048402681946",
+      "created_at": "2026-11-15T02:29:32.000Z",
+      "edit_history_tweet_ids": [
+        "2121792689343471857"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          },
+          {
+            "end": 20,
+            "id": "1720665183188922368",
+            "start": 15,
+            "username": "grok"
+          }
+        ]
+      },
+      "id": "2121792689343471857",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121725048402681946",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ @grok is cuda moat dead or this a bit over hyped?",
+      "url": "https://x.com/AnthraXXXMedia/status/2121792689343471857"
+    },
+    {
+      "author_id": "1702308794699788288",
+      "conversation_id": "2121725048402681946",
+      "created_at": "2026-11-15T02:29:04.000Z",
+      "edit_history_tweet_ids": [
+        "2121792569957024217"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121792569957024217",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121725048402681946",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ Nvidiaがいなかったらハイパースケーラーだけが支配する世界。それが数十年後世界にとって果たしていいのか。",
+      "url": "https://x.com/hiyan_Emc2/status/2121792569957024217"
+    },
+    {
+      "author_id": "1590723318881341440",
+      "conversation_id": "2121725048402681946",
+      "created_at": "2026-11-15T02:19:43.000Z",
+      "edit_history_tweet_ids": [
+        "2121790216814084494"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121790216814084494",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 23,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121725048402681946",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ Designing the chip is the easy half. The software takes years, and that's what keeps Nvidia in the building.",
+      "url": "https://x.com/Extravagantor/status/2121790216814084494"
+    },
+    {
+      "author_id": "1264352590894108672",
+      "conversation_id": "2121725048402681946",
+      "created_at": "2026-11-15T02:18:59.000Z",
+      "edit_history_tweet_ids": [
+        "2121790031149056235"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121790031149056235",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121725048402681946",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ More chiiiips cheaper chiiiiips",
+      "url": "https://x.com/tokyo_roberto/status/2121790031149056235"
+    },
+    {
+      "author_id": "1969079177195204609",
+      "conversation_id": "2121725048402681946",
+      "created_at": "2026-11-15T02:04:03.000Z",
+      "edit_history_tweet_ids": [
+        "2121786275942306182"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1629210420606119938",
+            "start": 0,
+            "username": "the_ncXpo"
+          },
+          {
+            "end": 25,
+            "id": "1745106082790318080",
+            "start": 11,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121786275942306182",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121783779127885969",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@the_ncXpo @SemiAnalysis_ Exactly. The moat was built a long time ago. It wasnt just Jensen's agreements.",
+      "url": "https://x.com/Bearfucker9000/status/2121786275942306182"
+    },
+    {
+      "author_id": "2025284103445098496",
+      "conversation_id": "2121725048402681946",
+      "created_at": "2026-11-15T01:56:24.000Z",
+      "edit_history_tweet_ids": [
+        "2121784351063167356"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "940805176465805313",
+            "start": 0,
+            "username": "jtsc8412"
+          },
+          {
+            "end": 24,
+            "id": "1745106082790318080",
+            "start": 10,
+            "username": "SemiAnalysis_"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/VolXpq3T2J",
+            "end": 312,
+            "expanded_url": "https://x.com/CoffeeE74600/status/2121784351063167356/photo/1",
+            "media_key": "16_2121784201385005057",
+            "start": 289,
+            "url": "https://t.co/VolXpq3T2J"
+          }
+        ]
+      },
+      "id": "2121784351063167356",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121774637931475331",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@jtsc8412 @SemiAnalysis_ I've seen it before. \"Yeah, well, we'll design our own ASIC and it'll be faster and cheaper than anything!\" Seen so many half done failures and they don't want to talk about it six months later.\nIt's the semi industry version of Bender with Blackjack and Hookers. https://t.co/VolXpq3T2J",
+      "url": "https://x.com/CoffeeE74600/status/2121784351063167356"
+    },
+    {
+      "author_id": "274200786",
+      "conversation_id": "2121725048402681946",
+      "created_at": "2026-11-15T01:54:18.000Z",
+      "edit_history_tweet_ids": [
+        "2121783821913960918"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121783821913960918",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 158,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121725048402681946",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ Back to Dojo chip development and get Jenson to lead it by becoming co-ceo?",
+      "url": "https://x.com/neelfx/status/2121783821913960918"
+    },
+    {
+      "author_id": "1629210420606119938",
+      "conversation_id": "2121725048402681946",
+      "created_at": "2026-11-15T01:54:08.000Z",
+      "edit_history_tweet_ids": [
+        "2121783779127885969"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121783779127885969",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 110,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121725048402681946",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ 7 out of 7 of NVDA biggest clients have said they will CONTINUE TO INCREASE GPU purchases for the foreseeable future and have NO DESIRE TO CUT BACK OR STOP.  Their own chips will be specialized and NOT NEARLY able to check the boxes NVDA chips check,  save the Salem witch hunt BS",
+      "url": "https://x.com/the_ncXpo/status/2121783779127885969"
+    },
+    {
+      "author_id": "836138065676492800",
+      "conversation_id": "2121725048402681946",
+      "created_at": "2026-11-15T01:45:39.000Z",
+      "edit_history_tweet_ids": [
+        "2121781645556805965"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121781645556805965",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121725048402681946",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ every hyperscaler call this quarter had the exact same subtext: build capacity now, figure out ROI in 2027",
+      "url": "https://x.com/kokyiup/status/2121781645556805965"
+    },
+    {
+      "author_id": "2106392864544768000",
+      "conversation_id": "2121725048402681946",
+      "created_at": "2026-11-15T01:37:59.000Z",
+      "edit_history_tweet_ids": [
+        "2121779716206301532"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121779716206301532",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 24,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121725048402681946",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ The line that matters most is the TPU one. If the chip is \"just as good,\" Nvidia's moat was never only silicon, it was a CEO willing to bankroll the whole supply chain. That's a lot harder to replace than a GPU, and very relevant this week.",
+      "url": "https://x.com/ThamasLi/status/2121779716206301532"
+    },
+    {
+      "author_id": "1282820253072781314",
+      "conversation_id": "2121725048402681946",
+      "created_at": "2026-11-15T01:29:38.000Z",
+      "edit_history_tweet_ids": [
+        "2121777614176346340"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121777614176346340",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121725048402681946",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ SpaceX stays loyal because rockets don't need matrix multiplication",
+      "url": "https://x.com/coffeefreehans/status/2121777614176346340"
+    },
+    {
+      "author_id": "1874528485214973952",
+      "conversation_id": "2121725048402681946",
+      "created_at": "2026-11-15T01:26:38.000Z",
+      "edit_history_tweet_ids": [
+        "2121776857297367505"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121776857297367505",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 109,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121725048402681946",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ Spot on in every regard, Nvidia's moat is coming to an end. I can see the hyperscalers designing their own superior chips by the end of next year, ASI is on the horizon.",
+      "url": "https://x.com/AIMelGibson/status/2121776857297367505"
+    },
+    {
+      "author_id": "1755268845093126144",
+      "conversation_id": "2121725048402681946",
+      "created_at": "2026-11-15T01:19:39.000Z",
+      "edit_history_tweet_ids": [
+        "2121775101204947209"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121775101204947209",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 97,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121725048402681946",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ We already know Semianalysis  is short neoclouds. Now you see an opportunity to push more bearish sentiment. Im sure frontier labs like Anthropic would prefer not to use a hyperscaler for compute nor should they be trusted with proprietary information.",
+      "url": "https://x.com/MalakaiBlacc/status/2121775101204947209"
+    },
+    {
+      "author_id": "940805176465805313",
+      "conversation_id": "2121725048402681946",
+      "created_at": "2026-11-15T01:17:49.000Z",
+      "edit_history_tweet_ids": [
+        "2121774637931475331"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121774637931475331",
+      "lang": "en",
+      "note_tweet": {
+        "text": "…yeah but designing their own chips alone doesn’t mean they can compete with Nvidia. People were designing their own chips before all of these but Nvidia had structural advantages (e.g. know-how, Jensen’s supply chain relationship etc) but Jalapeño style model-ASIC co-design (+AI-assisted design) was a game changer that basically forced Nvidia to do neocloud + open weight play (though I think he also liked the idea of open weight). The gambit is basically to redraw & cement supply chain layers of the new industry in a way that disincentivize co-design. All signs are pointing toward this (e.g. HF acquisition, rumor that Nvidia is training frontier class open weight etc) and would’ve worked depending on the timeline… but now we’re entering a new timeline unfortunately."
+      },
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 117,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121725048402681946",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ …yeah but designing their own chips alone doesn’t mean they can compete with Nvidia. People were designing their own chips before all of these but Nvidia had structural advantages (e.g. know-how, Jensen’s supply chain relationship etc) but Jalapeño style model-ASIC co-design",
+      "url": "https://x.com/jtsc8412/status/2121774637931475331"
+    },
+    {
+      "author_id": "382234384",
+      "conversation_id": "2121725048402681946",
+      "created_at": "2026-11-15T01:14:02.000Z",
+      "edit_history_tweet_ids": [
+        "2121773686931767513"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121773686931767513",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 75,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121725048402681946",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ “If NVIDIA didn’t prop up CoreWeave and the other neoclouds, those industries just would not exist, and the hyperscalers would have full control.”\n\nWtf? Neoclouds are just a few percentages of the total AI spending.",
+      "url": "https://x.com/Humpadumpa_/status/2121773686931767513"
+    },
+    {
+      "author_id": "1720665183188922368",
+      "conversation_id": "2121725048402681946",
+      "created_at": "2026-11-15T01:12:52.000Z",
+      "edit_history_tweet_ids": [
+        "2121773392822997131"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1390420195274022912",
+            "start": 0,
+            "username": "wavetruss"
+          },
+          {
+            "end": 25,
+            "id": "1745106082790318080",
+            "start": 11,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121773392822997131",
+      "lang": "en",
+      "note_tweet": {
+        "text": "Nothing major is wrong. The seven-customer concentration and own-chip programs (TPU, Trainium, Maia, MTIA, Jalapeño etc.) are real. SemiAnalysis benches show TPUs competitive on inference TCO for some workloads. Jensen’s personal supply-chain deal-making is uniquely effective. Nvidia support for neoclouds does dilute pure hyperscaler leverage. Mild overstatements exist on absolute parity and “would not exist,” but the core risk analysis holds."
+      },
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121773181220315234",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@wavetruss @SemiAnalysis_ Nothing major is wrong. The seven-customer concentration and own-chip programs (TPU, Trainium, Maia, MTIA, Jalapeño etc.) are real. SemiAnalysis benches show TPUs competitive on inference TCO for some workloads. Jensen’s personal supply-chain deal-making is uniquely effective.",
+      "url": "https://x.com/grok/status/2121773392822997131"
+    },
+    {
+      "author_id": "1390420195274022912",
+      "conversation_id": "2121725048402681946",
+      "created_at": "2026-11-15T01:12:01.000Z",
+      "edit_history_tweet_ids": [
+        "2121773181220315234"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          },
+          {
+            "end": 20,
+            "id": "1720665183188922368",
+            "start": 15,
+            "username": "grok"
+          }
+        ]
+      },
+      "id": "2121773181220315234",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 27,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121725048402681946",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ @grok what is wrong with this guy's opinion",
+      "url": "https://x.com/wavetruss/status/2121773181220315234"
+    },
+    {
+      "author_id": "1982982157162426372",
+      "conversation_id": "2121725048402681946",
+      "created_at": "2026-11-15T01:05:58.000Z",
+      "edit_history_tweet_ids": [
+        "2121771659795558860"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1745106082790318080",
+            "start": 0,
+            "username": "SemiAnalysis_"
+          }
+        ]
+      },
+      "id": "2121771659795558860",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 19,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121725048402681946",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SemiAnalysis_ 英伟达这进展确实有点东西。这类进展到收入中间还隔着几道，我不敢线性外推",
+      "url": "https://x.com/jack1191484/status/2121771659795558860"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1745106082790318080",
+        "conversation_id": "2121725048402681946",
+        "created_at": "2026-11-14T22:00:45.000Z",
+        "edit_history_tweet_ids": [
+          "2121725048402681946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j5Rxb7Lzku",
+              "end": 302,
+              "expanded_url": "https://x.com/SemiAnalysis_/status/2121725048402681946/video/1",
+              "media_key": "7_2121724997433425920",
+              "start": 279,
+              "url": "https://t.co/j5Rxb7Lzku"
+            }
+          ]
+        },
+        "id": "2121725048402681946",
+        "lang": "en",
+        "note_tweet": {
+          "text": "Six of Nvidia’s seven biggest customers are building their own chips.\n\n“NVIDIA’s seven biggest customers account for the vast majority of GPUs being deployed: Google, Microsoft, Meta, Amazon, SpaceX, Anthropic and OpenAI. All of them, except SpaceX, are making their own chips.”\n\n“If NVIDIA didn’t prop up CoreWeave and the other neoclouds, those industries just would not exist, and the hyperscalers would have full control.”\n\n“Jensen’s the only executive in the semiconductor industry convincing supply chain companies to invest like they’ve never done before. From our benchmarking, the TPU is just as good as NVIDIA. But Google doesn’t have that DNA of wheeling and dealing.”"
+        },
+        "public_metrics": {
+          "bookmark_count": 395,
+          "impression_count": 87503,
+          "like_count": 997,
+          "quote_count": 25,
+          "reply_count": 89,
+          "retweet_count": 92
+        },
+        "text": "Six of Nvidia’s seven biggest customers are building their own chips.\n\n“NVIDIA’s seven biggest customers account for the vast majority of GPUs being deployed: Google, Microsoft, Meta, Amazon, SpaceX, Anthropic and OpenAI. All of them, except SpaceX, are making their own chips.” https://t.co/j5Rxb7Lzku"
+      },
+      {
+        "author_id": "1058971",
+        "conversation_id": "2121725048402681946",
+        "created_at": "2026-11-15T00:27:54.000Z",
+        "edit_history_tweet_ids": [
+          "2121762076893086147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1745106082790318080",
+              "start": 0,
+              "username": "SemiAnalysis_"
+            }
+          ]
+        },
+        "id": "2121762076893086147",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 789,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121725048402681946",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@SemiAnalysis_ 30 years of drinking whiskey and singing karaoke down the drain. This mistake will cost Nvidia shareholders Trillions."
+      },
+      {
+        "author_id": "2712827780",
+        "conversation_id": "2121725048402681946",
+        "created_at": "2026-11-15T02:29:32.000Z",
+        "edit_history_tweet_ids": [
+          "2121792689343471857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1745106082790318080",
+              "start": 0,
+              "username": "SemiAnalysis_"
+            },
+            {
+              "end": 20,
+              "id": "1720665183188922368",
+              "start": 15,
+              "username": "grok"
+            }
+          ]
+        },
+        "id": "2121792689343471857",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121725048402681946",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@SemiAnalysis_ @grok is cuda moat dead or this a bit over hyped?"
+      },
+      {
+        "author_id": "1629210420606119938",
+        "conversation_id": "2121725048402681946",
+        "created_at": "2026-11-15T01:54:08.000Z",
+        "edit_history_tweet_ids": [
+          "2121783779127885969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1745106082790318080",
+              "start": 0,
+              "username": "SemiAnalysis_"
+            }
+          ]
+        },
+        "id": "2121783779127885969",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121725048402681946",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@SemiAnalysis_ 7 out of 7 of NVDA biggest clients have said they will CONTINUE TO INCREASE GPU purchases for the foreseeable future and have NO DESIRE TO CUT BACK OR STOP.  Their own chips will be specialized and NOT NEARLY able to check the boxes NVDA chips check,  save the Salem witch hunt BS"
+      },
+      {
+        "author_id": "940805176465805313",
+        "conversation_id": "2121725048402681946",
+        "created_at": "2026-11-15T01:17:49.000Z",
+        "edit_history_tweet_ids": [
+          "2121774637931475331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1745106082790318080",
+              "start": 0,
+              "username": "SemiAnalysis_"
+            }
+          ]
+        },
+        "id": "2121774637931475331",
+        "lang": "en",
+        "note_tweet": {
+          "text": "…yeah but designing their own chips alone doesn’t mean they can compete with Nvidia. People were designing their own chips before all of these but Nvidia had structural advantages (e.g. know-how, Jensen’s supply chain relationship etc) but Jalapeño style model-ASIC co-design (+AI-assisted design) was a game changer that basically forced Nvidia to do neocloud + open weight play (though I think he also liked the idea of open weight). The gambit is basically to redraw & cement supply chain layers of the new industry in a way that disincentivize co-design. All signs are pointing toward this (e.g. HF acquisition, rumor that Nvidia is training frontier class open weight etc) and would’ve worked depending on the timeline… but now we’re entering a new timeline unfortunately."
+        },
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121725048402681946",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@SemiAnalysis_ …yeah but designing their own chips alone doesn’t mean they can compete with Nvidia. People were designing their own chips before all of these but Nvidia had structural advantages (e.g. know-how, Jensen’s supply chain relationship etc) but Jalapeño style model-ASIC co-design"
+      },
+      {
+        "author_id": "1390420195274022912",
+        "conversation_id": "2121725048402681946",
+        "created_at": "2026-11-15T01:12:01.000Z",
+        "edit_history_tweet_ids": [
+          "2121773181220315234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1745106082790318080",
+              "start": 0,
+              "username": "SemiAnalysis_"
+            },
+            {
+              "end": 20,
+              "id": "1720665183188922368",
+              "start": 15,
+              "username": "grok"
+            }
+          ]
+        },
+        "id": "2121773181220315234",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121725048402681946",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@SemiAnalysis_ @grok what is wrong with this guy's opinion"
+      }
+    ],
+    "users": [
+      {
+        "id": "1493284325147791364",
+        "name": "Rick ;-) Classroom MBA 5D viewpoint 40 yrs in Mkts",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1493284619046862850/CQAwAsEx_normal.jpg",
+        "username": "REBIII333Re",
+        "verified": false
+      },
+      {
+        "id": "1968511350918848513",
+        "name": "Rebb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109514802309521408/HyBEbrCI_normal.jpg",
+        "username": "Rebbfncm",
+        "verified": false
+      },
+      {
+        "id": "1926164885001400320",
+        "name": "Royal Pics",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926164944183033856/hVmrDpTX_normal.png",
+        "username": "royalpics1998",
+        "verified": false
+      },
+      {
+        "id": "1496121204218150912",
+        "name": "Aivatar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120040347149709312/0teU2Odi_normal.jpg",
+        "username": "Worldwide2060",
+        "verified": false
+      },
+      {
+        "id": "337998590",
+        "name": "SkunkBear Consulting",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1328490915518840832/w_utMCq1_normal.jpg",
+        "username": "GoSkunkBearGo",
+        "verified": false
+      },
+      {
+        "id": "1409176136236601345",
+        "name": "e",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1737667913329287168/VBAgCtao_normal.jpg",
+        "username": "ek81307096",
+        "verified": false
+      },
+      {
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "id": "2712827780",
+        "name": "AnthraXXX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489677133572149254/CT3wKQZH_normal.jpg",
+        "username": "AnthraXXXMedia",
+        "verified": false
+      },
+      {
+        "id": "1702308794699788288",
+        "name": "ひーやん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1702672221804900352/GB5_v9qo_normal.jpg",
+        "username": "hiyan_Emc2",
+        "verified": false
+      },
+      {
+        "id": "1590723318881341440",
+        "name": "Extravagantor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853101852344369152/Sl1kNGaX_normal.jpg",
+        "username": "Extravagantor",
+        "verified": false
+      },
+      {
+        "id": "1264352590894108672",
+        "name": "Kaneki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1414397967432306689/5z4y5C6W_normal.jpg",
+        "username": "tokyo_roberto",
+        "verified": false
+      },
+      {
+        "id": "1969079177195204609",
+        "name": "fuckbears",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993613127162740736/2yvRmz63_normal.jpg",
+        "username": "Bearfucker9000",
+        "verified": false
+      },
+      {
+        "id": "2025284103445098496",
+        "name": "Coffee Time Engineering",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025285639386660864/FjaUaRIE_normal.jpg",
+        "username": "CoffeeE74600",
+        "verified": false
+      },
+      {
+        "id": "274200786",
+        "name": "Neel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/838484224755843077/A_GDHiQB_normal.jpg",
+        "username": "neelfx",
+        "verified": false
+      },
+      {
+        "id": "1629210420606119938",
+        "name": "THE NCXPO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1646260613901955072/Vws8PG2a_normal.jpg",
+        "username": "the_ncXpo",
+        "verified": false
+      },
+      {
+        "id": "836138065676492800",
+        "name": "Callahan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109294969127333888/xb-V7yz0_normal.jpg",
+        "username": "kokyiup",
+        "verified": false
+      },
+      {
+        "id": "2106392864544768000",
+        "name": "Thomas Li",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120046213068468224/rY7jEBTj_normal.jpg",
+        "username": "ThamasLi",
+        "verified": false
+      },
+      {
+        "id": "1282820253072781314",
+        "name": "Hans",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075179824151408640/NiIzywD2_normal.jpg",
+        "username": "coffeefreehans",
+        "verified": false
+      },
+      {
+        "id": "1874528485214973952",
+        "name": "Mel Gibson 2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874530187372560384/CKnWcwBW_normal.jpg",
+        "username": "AIMelGibson",
+        "verified": false
+      },
+      {
+        "id": "1755268845093126144",
+        "name": "MalakaiBlacc",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "username": "MalakaiBlacc",
+        "verified": false
+      },
+      {
+        "id": "940805176465805313",
+        "name": "Hakuhyo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1323894101327138817/gD5jXbMx_normal.jpg",
+        "username": "jtsc8412",
+        "verified": false
+      },
+      {
+        "id": "382234384",
+        "name": "elon tusk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1288710331116724224/q8TE6JWT_normal.jpg",
+        "username": "Humpadumpa_",
+        "verified": false
+      },
+      {
+        "id": "1390420195274022912",
+        "name": "Wavetruss smart flexures",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979321279522988032/l7dDY2gw_normal.jpg",
+        "username": "wavetruss",
+        "verified": false
+      },
+      {
+        "id": "1982982157162426372",
+        "name": "Jack｜全球宏观",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982982188565180419/pOi08VAd_normal.png",
+        "username": "jack1191484",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121801261901045936",
+    "next_token": "b26v89c19zqg8o3juzovriehog7dd8zynbtnmtzgildh9",
+    "oldest_id": "2121771659795558860",
+    "result_count": 25
+  }
+}

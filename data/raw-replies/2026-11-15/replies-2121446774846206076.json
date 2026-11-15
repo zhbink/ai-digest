@@ -1,0 +1,290 @@
+{
+  "data": [
+    {
+      "author_id": "2283001609",
+      "conversation_id": "2121446774846206076",
+      "created_at": "2026-11-15T02:59:13.000Z",
+      "edit_history_tweet_ids": [
+        "2121800156681056670"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1807669255909019648",
+            "start": 0,
+            "username": "ViduAI_official"
+          }
+        ]
+      },
+      "id": "2121800156681056670",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121446774846206076",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ViduAI_official That ending in the soba bowl 😂",
+      "url": "https://x.com/yachimat_manga/status/2121800156681056670"
+    },
+    {
+      "author_id": "920170929019240448",
+      "conversation_id": "2121446774846206076",
+      "created_at": "2026-11-14T15:29:20.000Z",
+      "edit_history_tweet_ids": [
+        "2121626543357354383"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1807669255909019648",
+            "start": 0,
+            "username": "ViduAI_official"
+          }
+        ]
+      },
+      "id": "2121626543357354383",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121446774846206076",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ViduAI_official Better prompt following and faster generation make this a great upgrade for creators.",
+      "url": "https://x.com/HanaFutureAI/status/2121626543357354383"
+    },
+    {
+      "author_id": "2098199733760376833",
+      "conversation_id": "2121446774846206076",
+      "created_at": "2026-11-14T12:58:53.000Z",
+      "edit_history_tweet_ids": [
+        "2121588679747711043"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1807669255909019648",
+            "start": 0,
+            "username": "ViduAI_official"
+          }
+        ]
+      },
+      "id": "2121588679747711043",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121446774846206076",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ViduAI_official can we see the recaptioned version of the courier prompt?",
+      "url": "https://x.com/EmiliOlivi_ai/status/2121588679747711043"
+    },
+    {
+      "author_id": "2087941714300506117",
+      "conversation_id": "2121446774846206076",
+      "created_at": "2026-11-14T07:33:04.000Z",
+      "edit_history_tweet_ids": [
+        "2121506685571440762"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1807669255909019648",
+            "start": 0,
+            "username": "ViduAI_official"
+          }
+        ]
+      },
+      "id": "2121506685571440762",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121446774846206076",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ViduAI_official The courier prompt example really shows the mood control",
+      "url": "https://x.com/ClaraOnAI/status/2121506685571440762"
+    },
+    {
+      "author_id": "870221240929140736",
+      "conversation_id": "2121446774846206076",
+      "created_at": "2026-11-14T06:22:07.000Z",
+      "edit_history_tweet_ids": [
+        "2121488832155832321"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1807669255909019648",
+            "start": 0,
+            "username": "ViduAI_official"
+          }
+        ]
+      },
+      "id": "2121488832155832321",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 13,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121446774846206076",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ViduAI_official For scale: Q4 Preview takes up to 15 reference images plus 3 voice clips per shot, and Shengshu's list rates run $0.045/s at 540p to $0.39/s at 4K, with 30% off image- and reference-to-video through Nov 30.",
+      "url": "https://x.com/thePandaily/status/2121488832155832321"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1807669255909019648",
+        "conversation_id": "2121446774846206076",
+        "created_at": "2026-11-14T03:35:00.000Z",
+        "edit_history_tweet_ids": [
+          "2121446774846206076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UERNmR1iw7",
+              "end": 297,
+              "expanded_url": "https://x.com/ViduAI_official/status/2121446774846206076/video/1",
+              "media_key": "13_2121069385704239104",
+              "start": 274,
+              "url": "https://t.co/UERNmR1iw7"
+            }
+          ]
+        },
+        "id": "2121446774846206076",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "platform.vidu.com/experience/ref…",
+                "end": 1043,
+                "expanded_url": "https://platform.vidu.com/experience/reference-video/?utm_source=osm",
+                "start": 1020,
+                "url": "https://t.co/7B6zNRD4pE"
+              },
+              {
+                "display_url": "platform.vidu.com/docs/api-refer…",
+                "end": 1077,
+                "expanded_url": "https://platform.vidu.com/docs/api-reference/video-models/vidu-q4-preview/image-to-video/?utm_source=osm",
+                "start": 1054,
+                "url": "https://t.co/SsakSgyZry"
+              },
+              {
+                "display_url": "platform.vidu.com/pricing/?utm_s…",
+                "end": 1119,
+                "expanded_url": "https://platform.vidu.com/pricing/?utm_source=osm",
+                "start": 1096,
+                "url": "https://t.co/AkSWrBYT9g"
+              }
+            ]
+          },
+          "text": "🎬 Your brief contains a character, an action, a camera move and a mood.\n\nQ4 Preview’s updated recaptioning improves how the model interprets that combined intent, with stronger prompt following and faster generation.\n\n📝 Try a directed brief:\n“A courier enters a rain-soaked alley, pauses under a warm shop light, then looks back. Slow camera push; restrained tension.”\n\nReview whether action, framing and mood work together.\n\n✨ For studios and creators, the useful test is whether a shot carries the intended scene. Compare performance and camera direction before spending credits on the full sequence.\n\n💳 Register on Vidu Platform and test your next scene.\n\nBlack Friday starts Nov 20: up to 45% off tiered packs, plus $9.90 OR $19.90 new-user packs. Plan credits for the directions you want to develop.\n\n🍬 New users who have never paid: choose $9.90 OR $19.90 once. After buying either, neither starter pack can be purchased again. Future top-ups use tiered packs; discounts cannot be combined.\n\n🎬 Register + test Q4: https://t.co/7B6zNRD4pE\n🛠 Q4 API: https://t.co/SsakSgyZry\n💳 Choose credits: https://t.co/AkSWrBYT9g"
+        },
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 859,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "text": "🎬 Your brief contains a character, an action, a camera move and a mood.\n\nQ4 Preview’s updated recaptioning improves how the model interprets that combined intent, with stronger prompt following and faster generation.\n\n📝 Try a directed brief:\n“A courier enters a rain-soaked https://t.co/UERNmR1iw7"
+      }
+    ],
+    "users": [
+      {
+        "id": "2283001609",
+        "name": "yachimat - AI Short Anime",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800905718997864448/qdHxO3Qu_normal.jpg",
+        "username": "yachimat_manga",
+        "verified": false
+      },
+      {
+        "id": "920170929019240448",
+        "name": "Hana Kaito AI🌞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104091283472179201/VfEzsj2F_normal.jpg",
+        "username": "HanaFutureAI",
+        "verified": false
+      },
+      {
+        "id": "2098199733760376833",
+        "name": "Emili Olivia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098200820680654848/_34jScFs_normal.jpg",
+        "username": "EmiliOlivi_ai",
+        "verified": false
+      },
+      {
+        "id": "2087941714300506117",
+        "name": "Clara AI | Tools & Updates",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103205668178317312/_fBDuHW5_normal.jpg",
+        "username": "ClaraOnAI",
+        "verified": false
+      },
+      {
+        "id": "870221240929140736",
+        "name": "Pandaily",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040959346495090688/42yVfzFl_normal.jpg",
+        "username": "thePandaily",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121800156681056670",
+    "next_token": "b26v89c19zqg8o3juzovrc0mbih9rj1wsvgmxpg178a65",
+    "oldest_id": "2121488832155832321",
+    "result_count": 5
+  }
+}

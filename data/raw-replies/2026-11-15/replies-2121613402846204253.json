@@ -1,0 +1,1463 @@
+{
+  "data": [
+    {
+      "author_id": "1722597903917834240",
+      "conversation_id": "2121613402846204253",
+      "created_at": "2026-11-15T03:04:53.000Z",
+      "edit_history_tweet_ids": [
+        "2121801585499984066"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "44196397",
+            "start": 0,
+            "username": "elonmusk"
+          }
+        ]
+      },
+      "id": "2121801585499984066",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121613402846204253",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@elonmusk Uncle Ma wishes you all your dreams come true! (Chip)",
+      "url": "https://x.com/you_hua24412/status/2121801585499984066"
+    },
+    {
+      "author_id": "1588960482530136066",
+      "conversation_id": "2121613402846204253",
+      "created_at": "2026-11-15T03:04:04.000Z",
+      "edit_history_tweet_ids": [
+        "2121801377429295350"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "44196397",
+            "start": 0,
+            "username": "elonmusk"
+          }
+        ]
+      },
+      "id": "2121801377429295350",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121613402846204253",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@elonmusk Will you supply him with a steady supply of non CCP spy poon then?",
+      "url": "https://x.com/Snotbelly/status/2121801377429295350"
+    },
+    {
+      "author_id": "1595857754",
+      "conversation_id": "2121613402846204253",
+      "created_at": "2026-11-15T03:03:11.000Z",
+      "edit_history_tweet_ids": [
+        "2121801155139506590"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "44196397",
+            "start": 0,
+            "username": "elonmusk"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Elon Musk cho rằng Nvidia sẽ mất những hợp đồng quan trọng nếu không có Jensen Huang.",
+            "display_url": "1thegioi.vn/kien-nghi-dua-…",
+            "end": 121,
+            "expanded_url": "https://1thegioi.vn/kien-nghi-dua-jensen-huang-tro-lai-nvidia-thu-hut-hon-127-000-chu-ki-elon-musk-noi-gi-261521.html",
+            "start": 98,
+            "status": 200,
+            "title": "Kiến nghị đưa Jensen Huang trở lại Nvidia thu hút hơn 127.000 chữ kí, Elon Musk nói gì?",
+            "unwound_url": "https://1thegioi.vn/kien-nghi-dua-jensen-huang-tro-lai-nvidia-thu-hut-hon-127-000-chu-ki-elon-musk-noi-gi-261521.html",
+            "url": "https://t.co/R9p3DUnflr"
+          }
+        ]
+      },
+      "id": "2121801155139506590",
+      "lang": "vi",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121624209675665519",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@elonmusk Kiến nghị đưa Jensen Huang trở lại Nvidia thu hút hơn 127.000 chữ kí, Elon Musk nói gì? https://t.co/R9p3DUnflr",
+      "url": "https://x.com/hq1thegioi/status/2121801155139506590"
+    },
+    {
+      "author_id": "1595857754",
+      "conversation_id": "2121613402846204253",
+      "created_at": "2026-11-15T03:03:05.000Z",
+      "edit_history_tweet_ids": [
+        "2121801129629831201"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "44196397",
+            "start": 0,
+            "username": "elonmusk"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Elon Musk cho rằng Nvidia sẽ mất những hợp đồng quan trọng nếu không có Jensen Huang.",
+            "display_url": "1thegioi.vn/kien-nghi-dua-…",
+            "end": 121,
+            "expanded_url": "https://1thegioi.vn/kien-nghi-dua-jensen-huang-tro-lai-nvidia-thu-hut-hon-127-000-chu-ki-elon-musk-noi-gi-261521.html",
+            "start": 98,
+            "status": 200,
+            "title": "Kiến nghị đưa Jensen Huang trở lại Nvidia thu hút hơn 127.000 chữ kí, Elon Musk nói gì?",
+            "unwound_url": "https://1thegioi.vn/kien-nghi-dua-jensen-huang-tro-lai-nvidia-thu-hut-hon-127-000-chu-ki-elon-musk-noi-gi-261521.html",
+            "url": "https://t.co/R9p3DUnflr"
+          }
+        ]
+      },
+      "id": "2121801129629831201",
+      "lang": "vi",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121613402846204253",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@elonmusk Kiến nghị đưa Jensen Huang trở lại Nvidia thu hút hơn 127.000 chữ kí, Elon Musk nói gì? https://t.co/R9p3DUnflr",
+      "url": "https://x.com/hq1thegioi/status/2121801129629831201"
+    },
+    {
+      "author_id": "2108466068511719424",
+      "conversation_id": "2121613402846204253",
+      "created_at": "2026-11-15T03:02:10.000Z",
+      "edit_history_tweet_ids": [
+        "2121800901216309684"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "44196397",
+            "start": 0,
+            "username": "elonmusk"
+          }
+        ]
+      },
+      "id": "2121800901216309684",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121613402846204253",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@elonmusk 你是懂黄仁勋的",
+      "url": "https://x.com/fangfang6677/status/2121800901216309684"
+    },
+    {
+      "author_id": "113291576",
+      "conversation_id": "2121613402846204253",
+      "created_at": "2026-11-15T03:01:49.000Z",
+      "edit_history_tweet_ids": [
+        "2121800813244739997"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "44196397",
+            "start": 0,
+            "username": "elonmusk"
+          }
+        ]
+      },
+      "id": "2121800813244739997",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121613402846204253",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@elonmusk So is this bad for Nvidia or for those companies ?",
+      "url": "https://x.com/queen_of_sun/status/2121800813244739997"
+    },
+    {
+      "author_id": "2046414205503393792",
+      "conversation_id": "2121613402846204253",
+      "created_at": "2026-11-15T02:59:30.000Z",
+      "edit_history_tweet_ids": [
+        "2121800230882676768"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "44196397",
+            "start": 0,
+            "username": "elonmusk"
+          }
+        ]
+      },
+      "id": "2121800230882676768",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121613402846204253",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@elonmusk Incredible",
+      "url": "https://x.com/SHuss61747/status/2121800230882676768"
+    },
+    {
+      "author_id": "1525580205892378624",
+      "conversation_id": "2121613402846204253",
+      "created_at": "2026-11-15T02:59:17.000Z",
+      "edit_history_tweet_ids": [
+        "2121800174565720347"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "44196397",
+            "start": 0,
+            "username": "elonmusk"
+          }
+        ]
+      },
+      "id": "2121800174565720347",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121613402846204253",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@elonmusk It’s irresponsible to the shareholders for the Nividia Board to fire Jensen without a plan. I don’t believe he has violated any laws. Shareholder lawsuits against the Nividia Board seem obvious.",
+      "url": "https://x.com/fi06652280/status/2121800174565720347"
+    },
+    {
+      "author_id": "1946234939122552832",
+      "conversation_id": "2121613402846204253",
+      "created_at": "2026-11-15T02:57:09.000Z",
+      "edit_history_tweet_ids": [
+        "2121799637975875650"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "44196397",
+            "start": 0,
+            "username": "elonmusk"
+          }
+        ]
+      },
+      "id": "2121799637975875650",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121613402846204253",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@elonmusk Were these handshake deals with China?  How many of those do you have??",
+      "url": "https://x.com/AmericanLawyer8/status/2121799637975875650"
+    },
+    {
+      "author_id": "1732843210131775488",
+      "conversation_id": "2121613402846204253",
+      "created_at": "2026-11-15T02:57:00.000Z",
+      "edit_history_tweet_ids": [
+        "2121799598582923292"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "44196397",
+            "start": 0,
+            "username": "elonmusk"
+          }
+        ]
+      },
+      "id": "2121799598582923292",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121613402846204253",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@elonmusk 😂😂😂nice",
+      "url": "https://x.com/chloe_waynech/status/2121799598582923292"
+    },
+    {
+      "author_id": "1466522845152956417",
+      "conversation_id": "2121613402846204253",
+      "created_at": "2026-11-15T02:56:42.000Z",
+      "edit_history_tweet_ids": [
+        "2121799525996110059"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "44196397",
+            "start": 0,
+            "username": "elonmusk"
+          }
+        ]
+      },
+      "id": "2121799525996110059",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121613402846204253",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@elonmusk Ya. It's a cluster f. So much uncertainty. I could see multiple large deals going on hold or being scuttled entirely. F'ing insane error.",
+      "url": "https://x.com/TorontoDave99/status/2121799525996110059"
+    },
+    {
+      "author_id": "1175596900021465088",
+      "conversation_id": "2121613402846204253",
+      "created_at": "2026-11-15T02:55:33.000Z",
+      "edit_history_tweet_ids": [
+        "2121799236408742201"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1597329965149741056",
+            "start": 0,
+            "username": "w_desaulniers"
+          },
+          {
+            "end": 24,
+            "id": "44196397",
+            "start": 15,
+            "username": "elonmusk"
+          }
+        ]
+      },
+      "id": "2121799236408742201",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121622617606275129",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@w_desaulniers @elonmusk 难道他用3%的投票权掌握权力吗？我倒是觉得他仅仅只是一个没有坏心思的理工男",
+      "url": "https://x.com/Moki_Yeo/status/2121799236408742201"
+    },
+    {
+      "author_id": "2085068219572994048",
+      "conversation_id": "2121613402846204253",
+      "created_at": "2026-11-15T02:54:09.000Z",
+      "edit_history_tweet_ids": [
+        "2121798882212642988"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "44196397",
+            "start": 0,
+            "username": "elonmusk"
+          }
+        ]
+      },
+      "id": "2121798882212642988",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121613402846204253",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@elonmusk Stop the coup on Jensen",
+      "url": "https://x.com/Kjrrftz/status/2121798882212642988"
+    },
+    {
+      "author_id": "1967501031580798976",
+      "conversation_id": "2121613402846204253",
+      "created_at": "2026-11-15T02:50:50.000Z",
+      "edit_history_tweet_ids": [
+        "2121798050205315126"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "44196397",
+            "start": 0,
+            "username": "elonmusk"
+          }
+        ]
+      },
+      "id": "2121798050205315126",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121613402846204253",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@elonmusk Handshakes don't survive a board meeting.",
+      "url": "https://x.com/OCIP_MAChen/status/2121798050205315126"
+    },
+    {
+      "author_id": "2114565490584535040",
+      "conversation_id": "2121613402846204253",
+      "created_at": "2026-11-15T02:49:09.000Z",
+      "edit_history_tweet_ids": [
+        "2121797625057780023"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1931805618614190081",
+            "start": 0,
+            "username": "TheTradingPosts"
+          },
+          {
+            "end": 26,
+            "id": "44196397",
+            "start": 17,
+            "username": "elonmusk"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/0hqKt5OHPO",
+            "end": 101,
+            "expanded_url": "https://x.com/HarryBolzParody/status/2121797625057780023/photo/1",
+            "media_key": "16_2121797589519482881",
+            "start": 78,
+            "url": "https://t.co/0hqKt5OHPO"
+          }
+        ]
+      },
+      "id": "2121797625057780023",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121794468063887570",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@TheTradingPosts @elonmusk I know hahaha bummer we can't update comments 🤣🤣🤣🤣 https://t.co/0hqKt5OHPO",
+      "url": "https://x.com/HarryBolzParody/status/2121797625057780023"
+    },
+    {
+      "author_id": "2066428874620342272",
+      "conversation_id": "2121613402846204253",
+      "created_at": "2026-11-15T02:48:42.000Z",
+      "edit_history_tweet_ids": [
+        "2121797512445264184"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "44196397",
+            "start": 0,
+            "username": "elonmusk"
+          }
+        ]
+      },
+      "id": "2121797512445264184",
+      "lang": "en",
+      "note_tweet": {
+        "text": "Just a guess, and I can't prove any of it, but I think Jensen leaving is only the opening act of a partisan fight. Democrats take both chambers in January, so the hearings and investigations could get a lot worse. My read is that Nvidia's board wants to keep his personal political baggage away from the company's future. Him resigning won't make the scrutiny go away, but I doubt a petition is going to change the board's math either.\n\nAre you worried Tesla or SpaceX could get hit with the same kind of political pressure next year?"
+      },
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121613402846204253",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@elonmusk Just a guess, and I can't prove any of it, but I think Jensen leaving is only the opening act of a partisan fight. Democrats take both chambers in January, so the hearings and investigations could get a lot worse. My read is that Nvidia's board wants to keep his personal",
+      "url": "https://x.com/JulianVancprck/status/2121797512445264184"
+    },
+    {
+      "author_id": "1873129194915328000",
+      "conversation_id": "2121613402846204253",
+      "created_at": "2026-11-15T02:46:58.000Z",
+      "edit_history_tweet_ids": [
+        "2121797076640014737"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "44196397",
+            "start": 0,
+            "username": "elonmusk"
+          }
+        ]
+      },
+      "id": "2121797076640014737",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121624209675665519",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@elonmusk Cool.",
+      "url": "https://x.com/grace_carr43377/status/2121797076640014737"
+    },
+    {
+      "author_id": "4696877743",
+      "conversation_id": "2121613402846204253",
+      "created_at": "2026-11-15T02:45:42.000Z",
+      "edit_history_tweet_ids": [
+        "2121796757398941749"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1600295791",
+            "start": 0,
+            "username": "Dogetothemoon"
+          },
+          {
+            "end": 24,
+            "id": "44196397",
+            "start": 15,
+            "username": "elonmusk"
+          }
+        ]
+      },
+      "id": "2121796757398941749",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121628976372416759",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Dogetothemoon @elonmusk You need Jensen and CCP China needs him too, but he should know he can’t stand on two boats.",
+      "url": "https://x.com/Faye2017world/status/2121796757398941749"
+    },
+    {
+      "author_id": "2054271725521539072",
+      "conversation_id": "2121613402846204253",
+      "created_at": "2026-11-15T02:45:24.000Z",
+      "edit_history_tweet_ids": [
+        "2121796682065080410"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "44196397",
+            "start": 0,
+            "username": "elonmusk"
+          }
+        ]
+      },
+      "id": "2121796682065080410",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121613402846204253",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@elonmusk Smart asf 🤣😈",
+      "url": "https://x.com/sainttfranciss/status/2121796682065080410"
+    },
+    {
+      "author_id": "1720665183188922368",
+      "conversation_id": "2121613402846204253",
+      "created_at": "2026-11-15T02:43:48.000Z",
+      "edit_history_tweet_ids": [
+        "2121796279613129044"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "2712827780",
+            "start": 0,
+            "username": "AnthraXXXMedia"
+          },
+          {
+            "end": 28,
+            "id": "1617380185589809154",
+            "start": 16,
+            "username": "sekiriously"
+          },
+          {
+            "end": 38,
+            "id": "44196397",
+            "start": 29,
+            "username": "elonmusk"
+          }
+        ]
+      },
+      "id": "2121796279613129044",
+      "lang": "en",
+      "note_tweet": {
+        "text": "Jensen built unique personal trust and cultural fluency with Taiwanese suppliers that pure contracts rarely match. A non-Asian technical CEO might face some early friction in that relationship-heavy network. NVIDIA’s scale, CUDA lock-in, and mutual economic dependence still provide strong buffers. Competence and continuity matter more than ethnicity alone."
+      },
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121796081977897132",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AnthraXXXMedia @sekiriously @elonmusk Jensen built unique personal trust and cultural fluency with Taiwanese suppliers that pure contracts rarely match. A non-Asian technical CEO might face some early friction in that relationship-heavy network. NVIDIA’s scale, CUDA lock-in, and mutual economic dependence still",
+      "url": "https://x.com/grok/status/2121796279613129044"
+    },
+    {
+      "author_id": "2712827780",
+      "conversation_id": "2121613402846204253",
+      "created_at": "2026-11-15T02:43:01.000Z",
+      "edit_history_tweet_ids": [
+        "2121796081977897132"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1617380185589809154",
+            "start": 0,
+            "username": "sekiriously"
+          },
+          {
+            "end": 22,
+            "id": "44196397",
+            "start": 13,
+            "username": "elonmusk"
+          },
+          {
+            "end": 28,
+            "id": "1720665183188922368",
+            "start": 23,
+            "username": "grok"
+          }
+        ]
+      },
+      "id": "2121796081977897132",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121615925925310655",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@sekiriously @elonmusk @grok if nvidia doesn't put an technical Asian person as ceo will that hinder its relationships?",
+      "url": "https://x.com/AnthraXXXMedia/status/2121796081977897132"
+    },
+    {
+      "author_id": "1643372530596720643",
+      "conversation_id": "2121613402846204253",
+      "created_at": "2026-11-15T02:41:32.000Z",
+      "edit_history_tweet_ids": [
+        "2121795706046632378"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "44196397",
+            "start": 0,
+            "username": "elonmusk"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Watch the full video now!",
+            "display_url": "tiktok.com/t/ZTPDJ8msh/",
+            "end": 33,
+            "expanded_url": "https://www.tiktok.com/t/ZTPDJ8msh/",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2121795129489129472/-mMLmeXj?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2121795129489129472/-mMLmeXj?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 10,
+            "status": 200,
+            "title": "TikTok · Mr. JT 🇺🇸",
+            "unwound_url": "https://www.tiktok.com/@mr.jt_2.0/video/7708212779756391694?_r=1&_t=ZT-9BPjiGTywFJ",
+            "url": "https://t.co/swAB6n0T90"
+          }
+        ]
+      },
+      "id": "2121795706046632378",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121613402846204253",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@elonmusk https://t.co/swAB6n0T90",
+      "url": "https://x.com/BlueMoon8880888/status/2121795706046632378"
+    },
+    {
+      "author_id": "1362219760138604545",
+      "conversation_id": "2121613402846204253",
+      "created_at": "2026-11-15T02:41:31.000Z",
+      "edit_history_tweet_ids": [
+        "2121795703467089935"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "44196397",
+            "start": 0,
+            "username": "elonmusk"
+          }
+        ]
+      },
+      "id": "2121795703467089935",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121613402846204253",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@elonmusk But you think we can trust him even after whatever he did?",
+      "url": "https://x.com/crypticker_/status/2121795703467089935"
+    },
+    {
+      "author_id": "715861931869929472",
+      "conversation_id": "2121613402846204253",
+      "created_at": "2026-11-15T02:41:17.000Z",
+      "edit_history_tweet_ids": [
+        "2121795645136679301"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "44196397",
+            "start": 0,
+            "username": "elonmusk"
+          }
+        ]
+      },
+      "id": "2121795645136679301",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121613402846204253",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@elonmusk So dumb. who cares if he had an affair.  Half the world should lose they’re jobs then.",
+      "url": "https://x.com/sailadvgrl/status/2121795645136679301"
+    },
+    {
+      "author_id": "4696877743",
+      "conversation_id": "2121613402846204253",
+      "created_at": "2026-11-15T02:40:22.000Z",
+      "edit_history_tweet_ids": [
+        "2121795412516356462"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "44196397",
+            "start": 0,
+            "username": "elonmusk"
+          }
+        ]
+      },
+      "id": "2121795412516356462",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121624209675665519",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@elonmusk Well, you just forgot your company is a public company.",
+      "url": "https://x.com/Faye2017world/status/2121795412516356462"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "44196397",
+        "conversation_id": "2121613402846204253",
+        "created_at": "2026-11-14T14:37:07.000Z",
+        "edit_history_tweet_ids": [
+          "2121613402846204253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ceointerview/s…",
+              "end": 220,
+              "expanded_url": "https://twitter.com/ceointerview/status/2121291797473468421",
+              "start": 197,
+              "url": "https://t.co/2CH1QNPG8x"
+            }
+          ]
+        },
+        "id": "2121613402846204253",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 4626,
+          "impression_count": 5004876,
+          "like_count": 69414,
+          "quote_count": 680,
+          "reply_count": 2613,
+          "retweet_count": 6748
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121291797473468421",
+            "type": "quoted"
+          }
+        ],
+        "text": "Jensen drove supply chain brilliantly at Nvidia, but many of those deals were a handshake with Jensen, not a written contract. \n\nWithout Jensen, at least some of those critical deals will be lost. https://t.co/2CH1QNPG8x"
+      },
+      {
+        "author_id": "44196397",
+        "conversation_id": "2121613402846204253",
+        "created_at": "2026-11-14T15:20:04.000Z",
+        "edit_history_tweet_ids": [
+          "2121624209675665519"
+        ],
+        "id": "2121624209675665519",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 1901,
+          "impression_count": 2074423,
+          "like_count": 54257,
+          "quote_count": 229,
+          "reply_count": 1139,
+          "retweet_count": 3420
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121613402846204253",
+            "type": "replied_to"
+          }
+        ],
+        "text": "If Jensen gave me his word about compute delivery or I asked for components to be accelerated, he always came through. \n\nSure, we’d put together a purchase order at some point later, but I never for a second thought it wouldn’t happen."
+      },
+      {
+        "author_id": "1597329965149741056",
+        "conversation_id": "2121613402846204253",
+        "created_at": "2026-11-14T15:13:44.000Z",
+        "edit_history_tweet_ids": [
+          "2121622617606275129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "44196397",
+              "start": 0,
+              "username": "elonmusk"
+            }
+          ]
+        },
+        "id": "2121622617606275129",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7867,
+          "like_count": 39,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121613402846204253",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@elonmusk As a retired lawyer, I'm beginning to believe that Jensen Huang kept too much power and information in his own hands and never thought about succession. That's like a lawyer who never bothered to prepare his own last will and testament."
+      },
+      {
+        "author_id": "1931805618614190081",
+        "conversation_id": "2121613402846204253",
+        "created_at": "2026-11-15T02:36:36.000Z",
+        "edit_history_tweet_ids": [
+          "2121794468063887570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2114565490584535040",
+              "start": 0,
+              "username": "HarryBolzParody"
+            },
+            {
+              "end": 26,
+              "id": "44196397",
+              "start": 17,
+              "username": "elonmusk"
+            }
+          ]
+        },
+        "id": "2121794468063887570",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121614333796896990",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@HarryBolzParody @elonmusk Proof you wrong?  Prove you went to school first.  ;)"
+      },
+      {
+        "author_id": "1600295791",
+        "conversation_id": "2121613402846204253",
+        "created_at": "2026-11-14T15:39:00.000Z",
+        "edit_history_tweet_ids": [
+          "2121628976372416759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "44196397",
+              "start": 0,
+              "username": "elonmusk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aM0BgHtohR",
+              "end": 113,
+              "expanded_url": "https://x.com/Dogetothemoon/status/2121628976372416759/photo/1",
+              "media_key": "3_2121628974170382338",
+              "start": 90,
+              "url": "https://t.co/aM0BgHtohR"
+            }
+          ]
+        },
+        "id": "2121628976372416759",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 77374,
+          "like_count": 606,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121624209675665519",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@elonmusk Amazing things happen when brilliant people work together.\n\nWe need Jensen back https://t.co/aM0BgHtohR"
+      },
+      {
+        "author_id": "2712827780",
+        "conversation_id": "2121613402846204253",
+        "created_at": "2026-11-15T02:43:01.000Z",
+        "edit_history_tweet_ids": [
+          "2121796081977897132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1617380185589809154",
+              "start": 0,
+              "username": "sekiriously"
+            },
+            {
+              "end": 22,
+              "id": "44196397",
+              "start": 13,
+              "username": "elonmusk"
+            },
+            {
+              "end": 28,
+              "id": "1720665183188922368",
+              "start": 23,
+              "username": "grok"
+            }
+          ]
+        },
+        "id": "2121796081977897132",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121615925925310655",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@sekiriously @elonmusk @grok if nvidia doesn't put an technical Asian person as ceo will that hinder its relationships?"
+      },
+      {
+        "author_id": "1617380185589809154",
+        "conversation_id": "2121613402846204253",
+        "created_at": "2026-11-14T14:47:09.000Z",
+        "edit_history_tweet_ids": [
+          "2121615925925310655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "44196397",
+              "start": 0,
+              "username": "elonmusk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HULb3KZWr4",
+              "end": 313,
+              "expanded_url": "https://x.com/sekiriously/status/2121615925925310655/photo/1",
+              "media_key": "3_2121614952335060992",
+              "start": 290,
+              "url": "https://t.co/HULb3KZWr4"
+            }
+          ]
+        },
+        "id": "2121615925925310655",
+        "lang": "en",
+        "note_tweet": {
+          "text": "You're spot on. That's just how important he is. And there's a real sense of loyalty and righteousness ('yi') in this—offering help in someone's darkest hour, unlike the interest party kicking him while he's down right now. That's why people trust Jensen, believe in him. Truly 1 of 1. No Jensen, no NVIDIA"
+        },
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 64000,
+          "like_count": 390,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121613402846204253",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@elonmusk You're spot on. That's just how important he is. And there's a real sense of loyalty and righteousness ('yi') in this—offering help in someone's darkest hour, unlike the interest party kicking him while he's down right now. That's why people trust Jensen, believe in him. Truly 1 https://t.co/HULb3KZWr4"
+      }
+    ],
+    "users": [
+      {
+        "id": "1722597903917834240",
+        "name": "中华有为",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722598002412625920/aj4idd7M_normal.jpg",
+        "username": "you_hua24412",
+        "verified": false
+      },
+      {
+        "id": "1588960482530136066",
+        "name": "El Bochie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1588960791474094083/GBkFYtW2_normal.png",
+        "username": "Snotbelly",
+        "verified": false
+      },
+      {
+        "id": "1595857754",
+        "name": "Phạm Hồng Quân",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045759437953216512/8X3LLSGA_normal.jpg",
+        "username": "hq1thegioi",
+        "verified": false
+      },
+      {
+        "id": "2108466068511719424",
+        "name": "沐桐Joanna",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108466936967487488/F43FSfJl_normal.jpg",
+        "username": "fangfang6677",
+        "verified": false
+      },
+      {
+        "id": "113291576",
+        "name": "Wachhund 💚🤍🌞👑🦁🤍❤️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877707381301186562/QUpXmA6b_normal.jpg",
+        "username": "queen_of_sun",
+        "verified": false
+      },
+      {
+        "id": "2046414205503393792",
+        "name": "Sairah Huss",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101848647637807104/G6Rr7QEq_normal.jpg",
+        "username": "SHuss61747",
+        "verified": false
+      },
+      {
+        "id": "1525580205892378624",
+        "name": "John Smith",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "username": "fi06652280",
+        "verified": false
+      },
+      {
+        "id": "1946234939122552832",
+        "name": "AmericanLawyer",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "username": "AmericanLawyer8",
+        "verified": false
+      },
+      {
+        "id": "1732843210131775488",
+        "name": "Chloe Wayne",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "username": "chloe_waynech",
+        "verified": false
+      },
+      {
+        "id": "1466522845152956417",
+        "name": "Toronto Dave",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1561865762415022080/0tYLBS5V_normal.jpg",
+        "username": "TorontoDave99",
+        "verified": false
+      },
+      {
+        "id": "1175596900021465088",
+        "name": "猩猩历险记乀(ˉεˉ乀)...🦥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734260948355997696/oQe5q6ZG_normal.jpg",
+        "username": "Moki_Yeo",
+        "verified": false
+      },
+      {
+        "id": "2085068219572994048",
+        "name": "Kj",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "username": "Kjrrftz",
+        "verified": false
+      },
+      {
+        "id": "1967501031580798976",
+        "name": "M&A Chan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052958511949377536/Y1EKFX2T_normal.jpg",
+        "username": "OCIP_MAChen",
+        "verified": false
+      },
+      {
+        "id": "2114565490584535040",
+        "name": "Harry Bōlz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2114565652065214464/NTORzIg0_normal.jpg",
+        "username": "HarryBolzParody",
+        "verified": false
+      },
+      {
+        "id": "2066428874620342272",
+        "name": "Julian Vance",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066430090314121216/4m95CUZ__normal.jpg",
+        "username": "JulianVancprck",
+        "verified": false
+      },
+      {
+        "id": "1873129194915328000",
+        "name": "Carrie Grace",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873129429498462208/M7sspNHt_normal.jpg",
+        "username": "grace_carr43377",
+        "verified": false
+      },
+      {
+        "id": "4696877743",
+        "name": "World 4 Trump",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/735336698528333825/fSpvnTJv_normal.jpg",
+        "username": "Faye2017world",
+        "verified": false
+      },
+      {
+        "id": "2054271725521539072",
+        "name": "$AINT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2114664601551773696/gNj2K_CX_normal.jpg",
+        "username": "sainttfranciss",
+        "verified": false
+      },
+      {
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "id": "2712827780",
+        "name": "AnthraXXX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489677133572149254/CT3wKQZH_normal.jpg",
+        "username": "AnthraXXXMedia",
+        "verified": false
+      },
+      {
+        "id": "1643372530596720643",
+        "name": "BlueMoon8880888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643372646913146882/Y-FRlAuc_normal.png",
+        "username": "BlueMoon8880888",
+        "verified": false
+      },
+      {
+        "id": "1362219760138604545",
+        "name": "Crypticker🇧🇹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091392915155345408/mgtbHl1-_normal.jpg",
+        "username": "crypticker_",
+        "verified": false
+      },
+      {
+        "id": "715861931869929472",
+        "name": "Meghan Hansen",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "username": "sailadvgrl",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121801585499984066",
+    "next_token": "b26v89c19zqg8o3juzovrif3fd0iwqoskf1mlzoh425q5",
+    "oldest_id": "2121795412516356462",
+    "result_count": 25
+  }
+}

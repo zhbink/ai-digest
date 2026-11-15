@@ -1,0 +1,305 @@
+{
+  "data": [
+    {
+      "author_id": "1933721592443645952",
+      "conversation_id": "2121795643199152506",
+      "created_at": "2026-11-15T02:57:22.000Z",
+      "edit_history_tweet_ids": [
+        "2121799692610924710"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1871604954877849600",
+            "start": 0,
+            "username": "musen9527"
+          }
+        ]
+      },
+      "id": "2121799692610924710",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121795643199152506",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@musen9527 开源方案真香，冲呀",
+      "url": "https://x.com/JOJOJO624824460/status/2121799692610924710"
+    },
+    {
+      "author_id": "2107331675835555840",
+      "conversation_id": "2121795643199152506",
+      "created_at": "2026-11-15T02:54:32.000Z",
+      "edit_history_tweet_ids": [
+        "2121798981433147544"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1871604954877849600",
+            "start": 0,
+            "username": "musen9527"
+          }
+        ]
+      },
+      "id": "2121798981433147544",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121795643199152506",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@musen9527 开源还支持本地部署，这个思路挺对胃口",
+      "url": "https://x.com/Arrowuppz/status/2121798981433147544"
+    },
+    {
+      "author_id": "2086344132163989504",
+      "conversation_id": "2121795643199152506",
+      "created_at": "2026-11-15T02:51:25.000Z",
+      "edit_history_tweet_ids": [
+        "2121798193486647448"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1871604954877849600",
+            "start": 0,
+            "username": "musen9527"
+          }
+        ]
+      },
+      "id": "2121798193486647448",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121795643199152506",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@musen9527 哈哈 挑高光都能交给它了",
+      "url": "https://x.com/Curingieul/status/2121798193486647448"
+    },
+    {
+      "author_id": "2056331774004006912",
+      "conversation_id": "2121795643199152506",
+      "created_at": "2026-11-15T02:49:19.000Z",
+      "edit_history_tweet_ids": [
+        "2121797668246900884"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1871604954877849600",
+            "start": 0,
+            "username": "musen9527"
+          }
+        ]
+      },
+      "id": "2121797668246900884",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121795643199152506",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@musen9527 OpusClip贵又带水印，开源替代来得正好",
+      "url": "https://x.com/AyuAIDay/status/2121797668246900884"
+    },
+    {
+      "author_id": "2500959994",
+      "conversation_id": "2121795643199152506",
+      "created_at": "2026-11-15T02:49:18.000Z",
+      "edit_history_tweet_ids": [
+        "2121797664614359116"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1871604954877849600",
+            "start": 0,
+            "username": "musen9527"
+          }
+        ]
+      },
+      "id": "2121797664614359116",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121795643199152506",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@musen9527 开源免费还不带水印，香啊",
+      "url": "https://x.com/FishLabs/status/2121797664614359116"
+    },
+    {
+      "author_id": "2901000602",
+      "conversation_id": "2121795643199152506",
+      "created_at": "2026-11-15T02:44:54.000Z",
+      "edit_history_tweet_ids": [
+        "2121796557221802346"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1871604954877849600",
+            "start": 0,
+            "username": "musen9527"
+          }
+        ]
+      },
+      "id": "2121796557221802346",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121795643199152506",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@musen9527 本地跑加 Ollama 组合挺实用",
+      "url": "https://x.com/certhon520/status/2121796557221802346"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1871604954877849600",
+        "conversation_id": "2121795643199152506",
+        "created_at": "2026-11-15T02:41:17.000Z",
+        "edit_history_tweet_ids": [
+          "2121795643199152506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NjuVU8zIMg",
+              "end": 149,
+              "expanded_url": "https://x.com/musen9527/status/2121795643199152506/photo/1",
+              "media_key": "3_2121795627394949121",
+              "start": 126,
+              "url": "https://t.co/NjuVU8zIMg"
+            }
+          ]
+        },
+        "id": "2121795643199152506",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "text": "嫌 OpusClip 又贵又带水印？\n刚才看了一个开源替代，叫 SupoClip。\n整套 AI 视频切片的管线全开源了。\n支持 Docker 本地部署，还能接 Ollama。\n人脸追踪、卡点字幕和高光评分都有。\n丢个长视频进去，自己跑不用看别人脸色。 https://t.co/NjuVU8zIMg"
+      }
+    ],
+    "users": [
+      {
+        "id": "1933721592443645952",
+        "name": "JOJO JO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950943851117694976/n2c_0a7L_normal.jpg",
+        "username": "JOJOJO624824460",
+        "verified": false
+      },
+      {
+        "id": "2107331675835555840",
+        "name": "Arrow的美股逻辑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109226154444079104/Tnfl1M10_normal.jpg",
+        "username": "Arrowuppz",
+        "verified": false
+      },
+      {
+        "id": "2086344132163989504",
+        "name": "Curing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086344763821973504/ShMBFO_B_normal.jpg",
+        "username": "Curingieul",
+        "verified": false
+      },
+      {
+        "id": "2056331774004006912",
+        "name": "阿宇的AI日记｜AI工作流实测",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119266844834205696/-3SO72Bp_normal.jpg",
+        "username": "AyuAIDay",
+        "verified": false
+      },
+      {
+        "id": "2500959994",
+        "name": "摸鱼佬💗币圈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099421473526124544/JhvFBPEs_normal.jpg",
+        "username": "FishLabs",
+        "verified": false
+      },
+      {
+        "id": "2901000602",
+        "name": "木叶兄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119069293975605248/GdQhVo5C_normal.jpg",
+        "username": "certhon520",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121799692610924710",
+    "next_token": "b26v89c19zqg8o3juzovrif3gvuqm2lxoq5jcc9ccvhbx",
+    "oldest_id": "2121796557221802346",
+    "result_count": 6
+  }
+}

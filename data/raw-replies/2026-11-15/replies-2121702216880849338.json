@@ -1,0 +1,363 @@
+{
+  "data": [
+    {
+      "author_id": "1869701391972786176",
+      "conversation_id": "2121702216880849338",
+      "created_at": "2026-11-14T23:44:41.000Z",
+      "edit_history_tweet_ids": [
+        "2121751200525668544"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1881168794",
+            "start": 0,
+            "username": "theinformation"
+          }
+        ]
+      },
+      "id": "2121751200525668544",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 408,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121702216880849338",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@theinformation Yeah. Not possible. This is dumb.",
+      "url": "https://x.com/MktMavPro/status/2121751200525668544"
+    },
+    {
+      "author_id": "1403117444265349128",
+      "conversation_id": "2121702216880849338",
+      "created_at": "2026-11-14T23:10:44.000Z",
+      "edit_history_tweet_ids": [
+        "2121742659144265954"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1881168794",
+            "start": 0,
+            "username": "theinformation"
+          }
+        ]
+      },
+      "id": "2121742659144265954",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 381,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121702216880849338",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@theinformation word is commerce is getting ready to close the loophole that lets chinese ai firms use restricted nvidia chips through overseas data centers\n\nthat workaround was always living on borrowed time",
+      "url": "https://x.com/SumValCapital/status/2121742659144265954"
+    },
+    {
+      "author_id": "1841985416209076224",
+      "conversation_id": "2121702216880849338",
+      "created_at": "2026-11-14T22:41:11.000Z",
+      "edit_history_tweet_ids": [
+        "2121735221292802356"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1881168794",
+            "start": 0,
+            "username": "theinformation"
+          }
+        ]
+      },
+      "id": "2121735221292802356",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 375,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121702216880849338",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@theinformation The rule still isn't published. Reuters reported Chinese firms are already rushing to reserve Nvidia capacity at overseas data centers before it takes effect.",
+      "url": "https://x.com/LoanStarJames/status/2121735221292802356"
+    },
+    {
+      "author_id": "300008677",
+      "conversation_id": "2121702216880849338",
+      "created_at": "2026-11-14T21:29:17.000Z",
+      "edit_history_tweet_ids": [
+        "2121717126763258028"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1881168794",
+            "start": 0,
+            "username": "theinformation"
+          }
+        ]
+      },
+      "id": "2121717126763258028",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 544,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121702216880849338",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@theinformation Good",
+      "url": "https://x.com/CharlesDardaman/status/2121717126763258028"
+    },
+    {
+      "author_id": "73960501",
+      "conversation_id": "2121702216880849338",
+      "created_at": "2026-11-14T20:36:19.000Z",
+      "edit_history_tweet_ids": [
+        "2121703797722656944"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1881168794",
+            "start": 0,
+            "username": "theinformation"
+          }
+        ]
+      },
+      "id": "2121703797722656944",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121702216880849338",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@theinformation The export rules have always targeted the chips themselves, not compute rented from them, so this was the obvious gap. The harder part is enforcement, since verifying who actually rents capacity in a third country data center is far tougher than tracking a shipment.",
+      "url": "https://x.com/Rudolfdeleeuw/status/2121703797722656944"
+    },
+    {
+      "author_id": "1937022062054522880",
+      "conversation_id": "2121702216880849338",
+      "created_at": "2026-11-14T20:31:31.000Z",
+      "edit_history_tweet_ids": [
+        "2121702588894810603"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1881168794",
+            "start": 0,
+            "username": "theinformation"
+          }
+        ]
+      },
+      "id": "2121702588894810603",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121702216880849338",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@theinformation This move will probably tighten export controls significantly, forcing more direct compliance checks on global data center usage.",
+      "url": "https://x.com/hub_haha33023/status/2121702588894810603"
+    },
+    {
+      "author_id": "1919786084743184390",
+      "conversation_id": "2121702216880849338",
+      "created_at": "2026-11-14T20:30:50.000Z",
+      "edit_history_tweet_ids": [
+        "2121702417444061449"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1881168794",
+            "start": 0,
+            "username": "theinformation"
+          }
+        ]
+      },
+      "id": "2121702417444061449",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 404,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121702216880849338",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@theinformation Do these guys even go to work? Moron central",
+      "url": "https://x.com/mastertrouter/status/2121702417444061449"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1881168794",
+        "conversation_id": "2121702216880849338",
+        "created_at": "2026-11-14T20:30:02.000Z",
+        "edit_history_tweet_ids": [
+          "2121702216880849338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "The Commerce Department is finalizing a long-awaited rule that will prevent Chinese AI firms from remotely accessing advanced AI chips through data centers in other countries, according to two people familiar with the process. The move could help the department push back on criticism that it has ...",
+              "display_url": "thein.fo/4jgzukE",
+              "end": 234,
+              "expanded_url": "https://thein.fo/4jgzukE",
+              "images": [
+                {
+                  "height": 674,
+                  "url": "https://pbs.twimg.com/news_img/2120711702899535872/5fQ4sPGA?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2120711702899535872/5fQ4sPGA?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 211,
+              "status": 200,
+              "title": "Commerce Department Finalizing Long-Awaited AI Remote Access Rule",
+              "unwound_url": "https://www.theinformation.com/articles/commerce-department-finalizing-long-awaited-ai-remote-access-rule?utm_campaign=Brand+Partnerships&utm_content=Radiant,TITV&utm_medium=organic_social&utm_source=bluesky,facebook,threads,twitter",
+              "url": "https://t.co/MJJRk9fmWj"
+            }
+          ]
+        },
+        "id": "2121702216880849338",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 21543,
+          "like_count": 49,
+          "quote_count": 10,
+          "reply_count": 7,
+          "retweet_count": 10
+        },
+        "text": "The Commerce Department is preparing to close a loophole that allows Chinese AI firms to access restricted Nvidia chips through overseas data centers, according to people familiar with the process. \n\nRead more: https://t.co/MJJRk9fmWj"
+      }
+    ],
+    "users": [
+      {
+        "id": "1869701391972786176",
+        "name": "MarketMaverick",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085014971088248832/0QJ25kMc_normal.jpg",
+        "username": "MktMavPro",
+        "verified": false
+      },
+      {
+        "id": "1403117444265349128",
+        "name": "Jay Komsa 🇺🇸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887128512902942720/t_OWtGUA_normal.jpg",
+        "username": "SumValCapital",
+        "verified": false
+      },
+      {
+        "id": "1841985416209076224",
+        "name": "James",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120951923121557505/sMAHYbSR_normal.jpg",
+        "username": "LoanStarJames",
+        "verified": false
+      },
+      {
+        "id": "300008677",
+        "name": "Charles",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045235903820341248/XmDP8rCj_normal.jpg",
+        "username": "CharlesDardaman",
+        "verified": false
+      },
+      {
+        "id": "73960501",
+        "name": "Rudolf de Leeuw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103047886653001728/HRAlcJhU_normal.jpg",
+        "username": "Rudolfdeleeuw",
+        "verified": false
+      },
+      {
+        "id": "1937022062054522880",
+        "name": "Trump's Multiverse",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946526307560423429/gghtIftj_normal.jpg",
+        "username": "hub_haha33023",
+        "verified": false
+      },
+      {
+        "id": "1919786084743184390",
+        "name": "The Angler",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120662874322300928/iObnDoY9_normal.jpg",
+        "username": "mastertrouter",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121751200525668544",
+    "next_token": "b26v89c19zqg8o3juzovrice6yru7dn0wzpcy5qgblbi5",
+    "oldest_id": "2121702417444061449",
+    "result_count": 7
+  }
+}

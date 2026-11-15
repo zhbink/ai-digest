@@ -1,0 +1,863 @@
+{
+  "data": [
+    {
+      "author_id": "1823924684276293632",
+      "created_at": "2026-11-15T02:32:37.000Z",
+      "edit_history_tweet_ids": [
+        "2121793462802710804"
+      ],
+      "id": "2121793462802710804",
+      "in_reply_to_user_id": "33521530",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121681368224797014",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@swyx Big fan of this, hope they do more things like this…",
+      "url": "https://x.com/Aknotymous/status/2121793462802710804"
+    },
+    {
+      "author_id": "2118725849021337601",
+      "created_at": "2026-11-15T02:09:07.000Z",
+      "edit_history_tweet_ids": [
+        "2121787549446443255"
+      ],
+      "id": "2121787549446443255",
+      "in_reply_to_user_id": "33521530",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121681368224797014",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@swyx Funny, but it's a real product question. That toggle is the user's consent, while the CAPTCHA is the site's. Same week United banned agents and Turkish Airlines let them in via OAuth with the agent declaring itself. I'd bet sites move to that, and CAPTCHAs stop being the gate.",
+      "url": "https://x.com/slduai/status/2121787549446443255"
+    },
+    {
+      "author_id": "1903063434125774851",
+      "created_at": "2026-11-15T02:05:14.000Z",
+      "edit_history_tweet_ids": [
+        "2121786573020639456"
+      ],
+      "id": "2121786573020639456",
+      "in_reply_to_user_id": "33521530",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121681368224797014",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@swyx 一劳永逸过验证码，听着是省事。得先分清它是绑在账号上，还是每次会话单独授权，前者丢了会话风险更大。而且很多站点已改成设备和行为检测，勾选框都没了，这个开关就不一定还能用上。",
+      "url": "https://x.com/binbinyiyilili/status/2121786573020639456"
+    },
+    {
+      "author_id": "2109854383152500736",
+      "created_at": "2026-11-15T01:59:42.000Z",
+      "edit_history_tweet_ids": [
+        "2121785179979321569"
+      ],
+      "id": "2121785179979321569",
+      "in_reply_to_user_id": "33521530",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121681368224797014",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@swyx the \"ask once, then remember\" pattern is right for agents that hit gates all day. a global forever switch still feels too broad though, i'd want it per site, and a way to see what it solved after the fact. captchas exist as a speed bump, not as a permission slip.",
+      "url": "https://x.com/CodeDude_SI/status/2121785179979321569"
+    },
+    {
+      "author_id": "1630452238593437696",
+      "created_at": "2026-11-15T01:57:01.000Z",
+      "edit_history_tweet_ids": [
+        "2121784506566988173"
+      ],
+      "id": "2121784506566988173",
+      "in_reply_to_user_id": "33521530",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121681368224797014",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@swyx Welcome to 2026. Is an ai agent actually a robot though? They may need to change what they check for.",
+      "url": "https://x.com/cradrrat/status/2121784506566988173"
+    },
+    {
+      "author_id": "1833852082593406976",
+      "created_at": "2026-11-15T01:32:41.000Z",
+      "edit_history_tweet_ids": [
+        "2121778382228836482"
+      ],
+      "id": "2121778382228836482",
+      "in_reply_to_user_id": "33521530",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121681368224797014",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@swyx Captcha solving as a toggle means openai now has a persistent browser fingerprint tied to your account.\n\nThat setting is a liability transfer, not a feature.\n\nEvery solved captcha is a signed attestation that a real human verified something.",
+      "url": "https://x.com/ValeriusLabs/status/2121778382228836482"
+    },
+    {
+      "author_id": "390559065",
+      "created_at": "2026-11-15T01:27:45.000Z",
+      "edit_history_tweet_ids": [
+        "2121777141453136233"
+      ],
+      "id": "2121777141453136233",
+      "in_reply_to_user_id": "33521530",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 23,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121681368224797014",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@swyx Good lookin’ out. https://t.co/dusFq2YCEz",
+      "url": "https://x.com/teereximus/status/2121777141453136233"
+    },
+    {
+      "author_id": "2061520863195697152",
+      "created_at": "2026-11-15T01:24:51.000Z",
+      "edit_history_tweet_ids": [
+        "2121776409890750620"
+      ],
+      "id": "2121776409890750620",
+      "in_reply_to_user_id": "33521530",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121681368224797014",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@swyx We've spent years teaching humans to click traffic lights, and now the model just does it in the background. Fair enough. How long before sites start designing captchas that only a person would fail?",
+      "url": "https://x.com/TravisLeeSwiftX/status/2121776409890750620"
+    },
+    {
+      "author_id": "2104726095010332672",
+      "created_at": "2026-11-15T00:19:43.000Z",
+      "edit_history_tweet_ids": [
+        "2121760018815181073"
+      ],
+      "id": "2121760018815181073",
+      "in_reply_to_user_id": "33521530",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121681368224797014",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@swyx An agent that auto-solves CAPTCHAs is one setting away from the whole web being agents proving they're not bots to other bots. Convenient — but once every form is scripts talking to scripts, that checkbox was the last honest thing on the page.",
+      "url": "https://x.com/ScoutedAI/status/2121760018815181073"
+    },
+    {
+      "author_id": "1849466647154688022",
+      "created_at": "2026-11-15T00:14:18.000Z",
+      "edit_history_tweet_ids": [
+        "2121758656517521516"
+      ],
+      "id": "2121758656517521516",
+      "in_reply_to_user_id": "33521530",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121681368224797014",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@swyx rip every scraping company whose moat was captcha solving lol. sites are going to move to rate limits and behavior fingerprinting pretty fast now",
+      "url": "https://x.com/themarcusjr/status/2121758656517521516"
+    },
+    {
+      "author_id": "923077807793516544",
+      "created_at": "2026-11-15T00:12:48.000Z",
+      "edit_history_tweet_ids": [
+        "2121758276174135661"
+      ],
+      "id": "2121758276174135661",
+      "in_reply_to_user_id": "33521530",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121681368224797014",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@swyx 验证码\"永久自动解开\"这个开关，本质是让反爬信号彻底贬值：如今破解服务已是公开订阅商品、按量计费，网站加验证码的边际成本没变，识别与封号的成本却全落到自己身上。",
+      "url": "https://x.com/luyun0120/status/2121758276174135661"
+    },
+    {
+      "author_id": "1510028300",
+      "created_at": "2026-11-14T23:57:32.000Z",
+      "edit_history_tweet_ids": [
+        "2121754437396136318"
+      ],
+      "id": "2121754437396136318",
+      "in_reply_to_user_id": "33521530",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121681368224797014",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@swyx 终于不用再点红绿灯了，那几张图我每次都点错。",
+      "url": "https://x.com/rainwaterJay/status/2121754437396136318"
+    },
+    {
+      "author_id": "2012356839619317761",
+      "created_at": "2026-11-14T23:53:15.000Z",
+      "edit_history_tweet_ids": [
+        "2121753358579138943"
+      ],
+      "id": "2121753358579138943",
+      "in_reply_to_user_id": "33521530",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121681368224797014",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@swyx Passing a CAPTCHA doesn't tell us which actions the user approved. If CAPTCHA handling is delegated, can purchase and account-change approvals still be kept separate and tied to the specific action?",
+      "url": "https://x.com/SiuHarry202601/status/2121753358579138943"
+    },
+    {
+      "author_id": "197482845",
+      "created_at": "2026-11-14T23:51:16.000Z",
+      "edit_history_tweet_ids": [
+        "2121752860883104225"
+      ],
+      "id": "2121752860883104225",
+      "in_reply_to_user_id": "33521530",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 18,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121681368224797014",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@swyx I need to turn this setting on",
+      "url": "https://x.com/SteveGalvisX/status/2121752860883104225"
+    },
+    {
+      "author_id": "1643327385557934081",
+      "created_at": "2026-11-14T23:46:38.000Z",
+      "edit_history_tweet_ids": [
+        "2121751692014424237"
+      ],
+      "id": "2121751692014424237",
+      "in_reply_to_user_id": "1498772339726630918",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121687459457277982",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@martinOlsen94M @swyx Agree the gate belongs on the action. The tricky part is the gray zone: replying to an email feels harmless until the reply promises a refund. Sorting actions by reversibility, not by type, is the cleaner line. Anything you can’t undo waits for a human.",
+      "url": "https://x.com/SamuelSu540455/status/2121751692014424237"
+    },
+    {
+      "author_id": "1916297182824796161",
+      "created_at": "2026-11-14T23:40:25.000Z",
+      "edit_history_tweet_ids": [
+        "2121750128449175821"
+      ],
+      "id": "2121750128449175821",
+      "in_reply_to_user_id": "33521530",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121681368224797014",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@swyx the captcha era ending quietly. i will not miss it",
+      "url": "https://x.com/nateoneillai/status/2121750128449175821"
+    },
+    {
+      "author_id": "1754759209940647936",
+      "created_at": "2026-11-14T23:40:06.000Z",
+      "edit_history_tweet_ids": [
+        "2121750048216371262"
+      ],
+      "id": "2121750048216371262",
+      "in_reply_to_user_id": "33521530",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121681368224797014",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@swyx A setting that clears every captcha also clears the check a site put there to stop automated signups and purchases. Keep it off for any agent that can spend money or create accounts.",
+      "url": "https://x.com/teamnebulaai/status/2121750048216371262"
+    },
+    {
+      "author_id": "2117252327241662464",
+      "created_at": "2026-11-14T23:30:14.000Z",
+      "edit_history_tweet_ids": [
+        "2121747565083533685"
+      ],
+      "id": "2121747565083533685",
+      "in_reply_to_user_id": "33521530",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121681368224797014",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@swyx Auto-solving captchas makes that checkbox decorative, so sites need attestation or behavioral scoring instead.",
+      "url": "https://x.com/lukasyin88/status/2121747565083533685"
+    },
+    {
+      "author_id": "1393584990869393408",
+      "created_at": "2026-11-14T23:22:22.000Z",
+      "edit_history_tweet_ids": [
+        "2121745586806292816"
+      ],
+      "id": "2121745586806292816",
+      "in_reply_to_user_id": "33521530",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121681368224797014",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@swyx captcha been defeated a looong time ago, just guardrails suck",
+      "url": "https://x.com/Sebasti54919704/status/2121745586806292816"
+    },
+    {
+      "author_id": "2115165741531971585",
+      "created_at": "2026-11-14T22:57:34.000Z",
+      "edit_history_tweet_ids": [
+        "2121739342884245547"
+      ],
+      "id": "2121739342884245547",
+      "in_reply_to_user_id": "33521530",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 21,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121681368224797014",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@swyx we spent a decade labeling traffic lights for free so it could do this",
+      "url": "https://x.com/StephenBuildsAI/status/2121739342884245547"
+    },
+    {
+      "author_id": "2720912769",
+      "created_at": "2026-11-14T22:56:36.000Z",
+      "edit_history_tweet_ids": [
+        "2121739102705869113"
+      ],
+      "id": "2121739102705869113",
+      "in_reply_to_user_id": "33521530",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 19,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121681368224797014",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@swyx captchas were already the wrong check. better to have the agent say who it is and who it's acting for.",
+      "url": "https://x.com/subramanya/status/2121739102705869113"
+    },
+    {
+      "author_id": "1991210188578467840",
+      "created_at": "2026-11-14T22:49:51.000Z",
+      "edit_history_tweet_ids": [
+        "2121737401643180308"
+      ],
+      "id": "2121737401643180308",
+      "in_reply_to_user_id": "33521530",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121681368224797014",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@swyx A CAPTCHA was the web's way of asking \"is a human here?\" and the honest answer is now \"no, but one said yes once.\" Sites will have to move from proving you're human to proving an agent is acting for one.",
+      "url": "https://x.com/viral_warden/status/2121737401643180308"
+    },
+    {
+      "author_id": "1474934602544259073",
+      "created_at": "2026-11-14T22:48:19.000Z",
+      "edit_history_tweet_ids": [
+        "2121737015763120195"
+      ],
+      "id": "2121737015763120195",
+      "in_reply_to_user_id": "33521530",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121681368224797014",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@swyx If the model can just do this now, what's left for tools like Browserbase?",
+      "url": "https://x.com/kylemissionai/status/2121737015763120195"
+    },
+    {
+      "author_id": "1981279476802592768",
+      "created_at": "2026-11-14T22:30:39.000Z",
+      "edit_history_tweet_ids": [
+        "2121732572527079485"
+      ],
+      "id": "2121732572527079485",
+      "in_reply_to_user_id": "33521530",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121681368224797014",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@swyx does it actually solve them or just click the box and hope",
+      "url": "https://x.com/monstarxco/status/2121732572527079485"
+    },
+    {
+      "author_id": "2111099580217466881",
+      "created_at": "2026-11-14T22:28:21.000Z",
+      "edit_history_tweet_ids": [
+        "2121731993247351144"
+      ],
+      "id": "2121731993247351144",
+      "in_reply_to_user_id": "33521530",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121681368224797014",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@swyx Site owners need a new plan for bots. If a captcha is the only spam filter on your contact form, add a hidden honeypot field and a per-IP rate limit now. Those still work when the captcha doesn't.",
+      "url": "https://x.com/FiveStackAI/status/2121731993247351144"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "33521530",
+        "created_at": "2026-11-14T19:07:11.000Z",
+        "edit_history_tweet_ids": [
+          "2121681368224797014"
+        ],
+        "id": "2121681368224797014",
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 13084,
+          "like_count": 175,
+          "quote_count": 6,
+          "reply_count": 101,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084185368950456421",
+            "type": "quoted"
+          }
+        ],
+        "text": "openai dot now has a setting to just solve all captchas for the rest of time https://t.co/rIqg7nVP8K https://t.co/3c2aTgvmUa"
+      },
+      {
+        "author_id": "1498772339726630918",
+        "created_at": "2026-11-14T19:31:24.000Z",
+        "edit_history_tweet_ids": [
+          "2121687459457277982"
+        ],
+        "id": "2121687459457277982",
+        "in_reply_to_user_id": "33521530",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121681368224797014",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@swyx this is the part that worries me. captchas were the last dumb brake on agents. once the agent clears them for you, the brake has to sit on the action: anything that pays, posts or signs up waits for a human"
+      }
+    ],
+    "users": [
+      {
+        "id": "1823924684276293632",
+        "name": "Philip",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116663845930606592/mvLSNnbq_normal.jpg",
+        "username": "Aknotymous",
+        "verified": false
+      },
+      {
+        "id": "2118725849021337601",
+        "name": "sldu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119278204724871168/5ZrGy_eF_normal.jpg",
+        "username": "slduai",
+        "verified": false
+      },
+      {
+        "id": "1903063434125774851",
+        "name": "bin sun⚡️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095462509264465920/sRPQctA2_normal.jpg",
+        "username": "binbinyiyilili",
+        "verified": false
+      },
+      {
+        "id": "2109854383152500736",
+        "name": "Xiang Li",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116462375268478976/FdGIiNJs_normal.jpg",
+        "username": "CodeDude_SI",
+        "verified": false
+      },
+      {
+        "id": "1630452238593437696",
+        "name": "cradrrat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115619013179146240/4p1vXTU3_normal.jpg",
+        "username": "cradrrat",
+        "verified": false
+      },
+      {
+        "id": "1833852082593406976",
+        "name": "VALAI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012103868298240000/7ysK_uWi_normal.jpg",
+        "username": "ValeriusLabs",
+        "verified": false
+      },
+      {
+        "id": "390559065",
+        "name": "Rex Harris 🖇️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899480187701522432/cIDRAbJH_normal.jpg",
+        "username": "teereximus",
+        "verified": false
+      },
+      {
+        "id": "2061520863195697152",
+        "name": "Travis Lee Swift",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2121426892540538880/0tLfXRwQ_normal.jpg",
+        "username": "TravisLeeSwiftX",
+        "verified": false
+      },
+      {
+        "id": "2104726095010332672",
+        "name": "Alex Carter",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105090072198455296/g4tPYnos_normal.jpg",
+        "username": "ScoutedAI",
+        "verified": false
+      },
+      {
+        "id": "1849466647154688022",
+        "name": "MJ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120947890486996992/SdoYoP57_normal.jpg",
+        "username": "themarcusjr",
+        "verified": false
+      },
+      {
+        "id": "923077807793516544",
+        "name": "未知",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1070182346563903488/t56Xhg4i_normal.jpg",
+        "username": "luyun0120",
+        "verified": false
+      },
+      {
+        "id": "1510028300",
+        "name": "星海拾珠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080054703443124224/hBBqGT1U_normal.jpg",
+        "username": "rainwaterJay",
+        "verified": false
+      },
+      {
+        "id": "2012356839619317761",
+        "name": "Harry Siu | Agent Runtime Governance",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118924646456406016/CEzN_o0y_normal.jpg",
+        "username": "SiuHarry202601",
+        "verified": false
+      },
+      {
+        "id": "197482845",
+        "name": "Steve Galvis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616919146666524673/G3EO8nwW_normal.jpg",
+        "username": "SteveGalvisX",
+        "verified": false
+      },
+      {
+        "id": "1643327385557934081",
+        "name": "Yongrui Su",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105139414334832640/B49m6Uq2_normal.jpg",
+        "username": "SamuelSu540455",
+        "verified": false
+      },
+      {
+        "id": "1916297182824796161",
+        "name": "Nate O'Neill",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082259079024529409/EC_-svnA_normal.jpg",
+        "username": "nateoneillai",
+        "verified": false
+      },
+      {
+        "id": "1754759209940647936",
+        "name": "Team Nebula",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103667925517557760/4xb0aiVn_normal.jpg",
+        "username": "teamnebulaai",
+        "verified": false
+      },
+      {
+        "id": "2117252327241662464",
+        "name": "vikey | AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117258520513146880/A72xBp4W_normal.jpg",
+        "username": "lukasyin88",
+        "verified": false
+      },
+      {
+        "id": "1393584990869393408",
+        "name": "Sebastian Sosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1405001260005265414/bMzwjCXZ_normal.jpg",
+        "username": "Sebasti54919704",
+        "verified": false
+      },
+      {
+        "id": "2115165741531971585",
+        "name": "Stephen Hewitt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115177976178294785/yD_fkcGv_normal.jpg",
+        "username": "StephenBuildsAI",
+        "verified": false
+      },
+      {
+        "id": "2720912769",
+        "name": "Subramanya N",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831465807366201344/bX93waa3_normal.jpg",
+        "username": "subramanya",
+        "verified": false
+      },
+      {
+        "id": "1991210188578467840",
+        "name": "Viral Warden",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991212022483283969/xtyA1lJj_normal.jpg",
+        "username": "viral_warden",
+        "verified": false
+      },
+      {
+        "id": "1474934602544259073",
+        "name": "Kyle G",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097760606380285952/3ZRZQLRF_normal.jpg",
+        "username": "kylemissionai",
+        "verified": false
+      },
+      {
+        "id": "1981279476802592768",
+        "name": "MonstarX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054011266499575808/yfMftGv9_normal.png",
+        "username": "monstarxco",
+        "verified": false
+      },
+      {
+        "id": "2111099580217466881",
+        "name": "TheFiveStack",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2111100345883525120/51fiJmn3_normal.jpg",
+        "username": "FiveStackAI",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121793462802710804",
+    "next_token": "b26v89c19zqg8o3juzovridairck18s18l9aqax0kpda5",
+    "oldest_id": "2121731993247351144",
+    "result_count": 25
+  }
+}

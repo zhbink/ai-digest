@@ -1,0 +1,826 @@
+{
+  "data": [
+    {
+      "author_id": "20760545",
+      "created_at": "2026-11-15T03:00:10.000Z",
+      "edit_history_tweet_ids": [
+        "2121800396624584959"
+      ],
+      "id": "2121800396624584959",
+      "in_reply_to_user_id": "3448284313",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121656194465243164",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@omarsar0 Always-on changes the oversight math, because a persistent agent accumulates permissions and habits between sessions in a way a restartable one never does.",
+      "url": "https://x.com/tinholt/status/2121800396624584959"
+    },
+    {
+      "author_id": "1609374798127443968",
+      "created_at": "2026-11-15T02:27:14.000Z",
+      "edit_history_tweet_ids": [
+        "2121792108222873827"
+      ],
+      "id": "2121792108222873827",
+      "in_reply_to_user_id": "3448284313",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121656194465243164",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@omarsar0 Cron got me far too, and I'd only reach for a timer table once you need per-agent visibility or overlapping schedules you can't express in a crontab. Until then it's just another table to keep in sync. What's the trigger for you to move off plain cron?",
+      "url": "https://x.com/HaStrive/status/2121792108222873827"
+    },
+    {
+      "author_id": "2045443038944890880",
+      "created_at": "2026-11-15T02:11:49.000Z",
+      "edit_history_tweet_ids": [
+        "2121788229456466117"
+      ],
+      "id": "2121788229456466117",
+      "in_reply_to_user_id": "3448284313",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121656194465243164",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@omarsar0 Nice to see Anthropic diving into always-on agents—always cool to see core concepts explained clearly! 🌟",
+      "url": "https://x.com/Stanllll6o/status/2121788229456466117"
+    },
+    {
+      "author_id": "1662622173071298560",
+      "created_at": "2026-11-15T01:17:22.000Z",
+      "edit_history_tweet_ids": [
+        "2121774526170312772"
+      ],
+      "id": "2121774526170312772",
+      "in_reply_to_user_id": "3448284313",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121656194465243164",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@omarsar0 The event inbox is the primitive I'd steal first — most agents fail not on reasoning but on waking up at the right moment with the right context. Timers plus memory is what turns a chatbot into something that actually follows through.",
+      "url": "https://x.com/zsspace21/status/2121774526170312772"
+    },
+    {
+      "author_id": "2114906570303905792",
+      "created_at": "2026-11-15T00:45:55.000Z",
+      "edit_history_tweet_ids": [
+        "2121766613276094551"
+      ],
+      "id": "2121766613276094551",
+      "in_reply_to_user_id": "3448284313",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121656194465243164",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@omarsar0 Event inbox, simple timers and scoped memory cover the core loop; the thread on shared-browser contention shows why shared tools also need explicit turn-taking.",
+      "url": "https://x.com/BudgtStore/status/2121766613276094551"
+    },
+    {
+      "author_id": "2104726095010332672",
+      "created_at": "2026-11-15T00:20:34.000Z",
+      "edit_history_tweet_ids": [
+        "2121760232741155169"
+      ],
+      "id": "2121760232741155169",
+      "in_reply_to_user_id": "3448284313",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121656194465243164",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@omarsar0 The primitives framing is the useful part — most always-on agent talk skips straight to the demo and never says what the loop actually is.",
+      "url": "https://x.com/ScoutedAI/status/2121760232741155169"
+    },
+    {
+      "author_id": "2106474169311297536",
+      "created_at": "2026-11-15T00:07:41.000Z",
+      "edit_history_tweet_ids": [
+        "2121756988300308684"
+      ],
+      "id": "2121756988300308684",
+      "in_reply_to_user_id": "3448284313",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121656194465243164",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@omarsar0 Event inbox plus a continuity budget is the right frame. Most of my always-on agents waste more tokens recalling yesterday than doing today's work. Scoping memory to the inbox item instead of the whole session cuts the noise a lot.",
+      "url": "https://x.com/yywvip/status/2121756988300308684"
+    },
+    {
+      "author_id": "1809201973243330561",
+      "created_at": "2026-11-14T23:48:38.000Z",
+      "edit_history_tweet_ids": [
+        "2121752195674837457"
+      ],
+      "id": "2121752195674837457",
+      "in_reply_to_user_id": "3448284313",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 15,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121656194465243164",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@omarsar0 what difference is this other than just initilizing loops with specific reward proxy in mind, or am i missing something",
+      "url": "https://x.com/eray_baydemir/status/2121752195674837457"
+    },
+    {
+      "author_id": "429428132",
+      "created_at": "2026-11-14T23:12:38.000Z",
+      "edit_history_tweet_ids": [
+        "2121743136808489014"
+      ],
+      "id": "2121743136808489014",
+      "in_reply_to_user_id": "3448284313",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 25,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121656194465243164",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@omarsar0 memory is the part people are going to underbuild. an always-on agent that wakes up on a timer is useless if it wakes up with amnesia\n\nwe split it into what it's doing now, what it knows, and what happened. hot state, warm entities, cold journal, all in one local sqlite file.",
+      "url": "https://x.com/billionbuckbam/status/2121743136808489014"
+    },
+    {
+      "author_id": "18856848",
+      "created_at": "2026-11-14T22:03:58.000Z",
+      "edit_history_tweet_ids": [
+        "2121725856276263390"
+      ],
+      "id": "2121725856276263390",
+      "in_reply_to_user_id": "3448284313",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 19,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121656194465243164",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@omarsar0 How does the resume session work when the token caching TTL is 5 mins only?",
+      "url": "https://x.com/tuongaz/status/2121725856276263390"
+    },
+    {
+      "author_id": "2115558973453508609",
+      "created_at": "2026-11-14T21:54:21.000Z",
+      "edit_history_tweet_ids": [
+        "2121723433973125204"
+      ],
+      "id": "2121723433973125204",
+      "in_reply_to_user_id": "3448284313",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121656194465243164",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@omarsar0 The event inbox is the piece I would build first. Once every trigger lands in one queue with an ID, retries and dedupe get easy, and you can see what the agent skipped. Timers are simple after that.",
+      "url": "https://x.com/ZenoFlow_AI/status/2121723433973125204"
+    },
+    {
+      "author_id": "18856848",
+      "created_at": "2026-11-14T21:38:09.000Z",
+      "edit_history_tweet_ids": [
+        "2121719358137475322"
+      ],
+      "id": "2121719358137475322",
+      "in_reply_to_user_id": "3448284313",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 49,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121656194465243164",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@omarsar0 This is great! So we'll have in Inbox for each type of task?",
+      "url": "https://x.com/tuongaz/status/2121719358137475322"
+    },
+    {
+      "author_id": "2117252327241662464",
+      "created_at": "2026-11-14T21:35:11.000Z",
+      "edit_history_tweet_ids": [
+        "2121718610888740865"
+      ],
+      "id": "2121718610888740865",
+      "in_reply_to_user_id": "3448284313",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121656194465243164",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@omarsar0 The event inbox is the piece most always-on agents skip, so timers end up firing into a stale world state. Continuity matters more than memory size — what actually survives a restart versus a crash?",
+      "url": "https://x.com/lukasyin88/status/2121718610888740865"
+    },
+    {
+      "author_id": "2111202715409809408",
+      "created_at": "2026-11-14T20:53:29.000Z",
+      "edit_history_tweet_ids": [
+        "2121708120141640014"
+      ],
+      "id": "2121708120141640014",
+      "in_reply_to_user_id": "3448284313",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121656194465243164",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@omarsar0 Proactive loops and event inboxes are great until the agent starts scheduling state changes the UI has no idea how to render.",
+      "url": "https://x.com/myupdu/status/2121708120141640014"
+    },
+    {
+      "author_id": "1450512939887235078",
+      "created_at": "2026-11-14T20:51:15.000Z",
+      "edit_history_tweet_ids": [
+        "2121707556645249182"
+      ],
+      "id": "2121707556645249182",
+      "in_reply_to_user_id": "3448284313",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121656194465243164",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@omarsar0 The inbox part is what changed the most for us. Our long-running agents pull work as items from a queue (a brief, a post due to go out, a post to measure) instead of holding it in the prompt, so a paused run resumes without losing its place.",
+      "url": "https://x.com/spaceapp_dev/status/2121707556645249182"
+    },
+    {
+      "author_id": "818802423007350784",
+      "created_at": "2026-11-14T20:21:59.000Z",
+      "edit_history_tweet_ids": [
+        "2121700190667014175"
+      ],
+      "id": "2121700190667014175",
+      "in_reply_to_user_id": "3448284313",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121656194465243164",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@omarsar0 memory is the part everyone underestimates until their agent forgets what it did yesterday",
+      "url": "https://x.com/will58798103/status/2121700190667014175"
+    },
+    {
+      "author_id": "1822818294954414081",
+      "created_at": "2026-11-14T20:18:21.000Z",
+      "edit_history_tweet_ids": [
+        "2121699278196502638"
+      ],
+      "id": "2121699278196502638",
+      "in_reply_to_user_id": "3448284313",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121656194465243164",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@omarsar0 always-on agents sound great until the always-on bill arrives",
+      "url": "https://x.com/bologabriele/status/2121699278196502638"
+    },
+    {
+      "author_id": "2038275078463602688",
+      "created_at": "2026-11-14T20:14:57.000Z",
+      "edit_history_tweet_ids": [
+        "2121698421438587168"
+      ],
+      "id": "2121698421438587168",
+      "in_reply_to_user_id": "3448284313",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121656194465243164",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@omarsar0 letting the agent set its own follow-up timer sounds much more useful than having it wake up every five minutes.",
+      "url": "https://x.com/dng_notes/status/2121698421438587168"
+    },
+    {
+      "author_id": "1254256197718421504",
+      "created_at": "2026-11-14T20:13:21.000Z",
+      "edit_history_tweet_ids": [
+        "2121698018336591953"
+      ],
+      "id": "2121698018336591953",
+      "in_reply_to_user_id": "3448284313",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121656194465243164",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@omarsar0 the part i keep thinking about with always-on agents is what happens to a failure at 3am. nobody is watching, the run \"completes\", and the next timer fires with the same blind spot. does the guide say anything about how a bad run gets carried into memory, or is that left to",
+      "url": "https://x.com/sinatayebat/status/2121698018336591953"
+    },
+    {
+      "author_id": "382136594",
+      "created_at": "2026-11-14T20:05:44.000Z",
+      "edit_history_tweet_ids": [
+        "2121696100197511531"
+      ],
+      "id": "2121696100197511531",
+      "in_reply_to_user_id": "3448284313",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 31,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121656194465243164",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@omarsar0 Great find, thanks Elvis!!",
+      "url": "https://x.com/DanielZambrini/status/2121696100197511531"
+    },
+    {
+      "author_id": "1874666247356653568",
+      "created_at": "2026-11-14T19:53:30.000Z",
+      "edit_history_tweet_ids": [
+        "2121693021091840488"
+      ],
+      "id": "2121693021091840488",
+      "in_reply_to_user_id": "3448284313",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121656194465243164",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@omarsar0 How does their event inbox pattern handle backpressure when upstream webhooks spike faster than inference can process them?",
+      "url": "https://x.com/DavisNc9527/status/2121693021091840488"
+    },
+    {
+      "author_id": "1481491950381731841",
+      "created_at": "2026-11-14T19:37:48.000Z",
+      "edit_history_tweet_ids": [
+        "2121689071328399383"
+      ],
+      "id": "2121689071328399383",
+      "in_reply_to_user_id": "3448284313",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 22,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121656194465243164",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@omarsar0 one active worker per inbox needs a per-user lock in practice. otherwise two wakeups at once start two runs on the same events",
+      "url": "https://x.com/waitingforASI_/status/2121689071328399383"
+    },
+    {
+      "author_id": "871911081135947777",
+      "created_at": "2026-11-14T19:34:34.000Z",
+      "edit_history_tweet_ids": [
+        "2121688259290120288"
+      ],
+      "id": "2121688259290120288",
+      "in_reply_to_user_id": "3448284313",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121656194465243164",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@omarsar0 The timer piece is the underrated one. Once an agent runs on a schedule, missed and duplicate runs become real bugs. Every scheduled job needs an idempotency key and a clear rule for a missed slot: catch up, or skip and log it.",
+      "url": "https://x.com/yatinbhalla42/status/2121688259290120288"
+    },
+    {
+      "author_id": "1510028300",
+      "created_at": "2026-11-14T19:27:49.000Z",
+      "edit_history_tweet_ids": [
+        "2121686560701833578"
+      ],
+      "id": "2121686560701833578",
+      "in_reply_to_user_id": "3448284313",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121656194465243164",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@omarsar0 事件收件箱这块确实关键，之前自己搭的时候也是先定好这个。",
+      "url": "https://x.com/rainwaterJay/status/2121686560701833578"
+    },
+    {
+      "author_id": "955232320063090693",
+      "created_at": "2026-11-14T19:20:25.000Z",
+      "edit_history_tweet_ids": [
+        "2121684698485375321"
+      ],
+      "id": "2121684698485375321",
+      "in_reply_to_user_id": "3448284313",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121656194465243164",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@omarsar0 The diagram is clean, but the hard part is the inbox: two timer runs can grab the same event, and stale events pile up. Without idempotency keys and a claim/lock per event, an always-on agent double-does work. Does the guide cover locking?",
+      "url": "https://x.com/TheEaglegon/status/2121684698485375321"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "3448284313",
+        "created_at": "2026-11-14T17:27:09.000Z",
+        "edit_history_tweet_ids": [
+          "2121656194465243164"
+        ],
+        "id": "2121656194465243164",
+        "public_metrics": {
+          "bookmark_count": 319,
+          "impression_count": 15955,
+          "like_count": 215,
+          "quote_count": 4,
+          "reply_count": 62,
+          "retweet_count": 29
+        },
+        "text": "Banger new guide from Anthropic. \n\nIt discusses the core primitives of always-on agents. \n\nIt covers the importance of an event inbox, using timers for proactive capabilities, ensuring continuity with memory, and more. \n\nRead more: https://t.co/5BApVuM8pW https://t.co/cM0dzfctxY"
+      }
+    ],
+    "users": [
+      {
+        "id": "20760545",
+        "name": "Dinand Tinholt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975212466423402496/TnfRmsj__normal.jpg",
+        "username": "tinholt",
+        "verified": false
+      },
+      {
+        "id": "1609374798127443968",
+        "name": "HDUX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026768573595791362/TMYTb7Gc_normal.jpg",
+        "username": "HaStrive",
+        "verified": false
+      },
+      {
+        "id": "2045443038944890880",
+        "name": "离岸工具包🎒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108433329322373120/EmdsFz3S_normal.jpg",
+        "username": "Stanllll6o",
+        "verified": false
+      },
+      {
+        "id": "1662622173071298560",
+        "name": "Hargrave",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827539046589198340/PaBBfR4X_normal.jpg",
+        "username": "zsspace21",
+        "verified": false
+      },
+      {
+        "id": "2114906570303905792",
+        "name": "BudgtStore",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116591041281159168/9N84IZkj_normal.jpg",
+        "username": "BudgtStore",
+        "verified": false
+      },
+      {
+        "id": "2104726095010332672",
+        "name": "Alex Carter",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105090072198455296/g4tPYnos_normal.jpg",
+        "username": "ScoutedAI",
+        "verified": false
+      },
+      {
+        "id": "2106474169311297536",
+        "name": "Yiwei | AI Tools",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120121429425307649/e79wnOP-_normal.jpg",
+        "username": "yywvip",
+        "verified": false
+      },
+      {
+        "id": "1809201973243330561",
+        "name": "Eray Baydemir",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958532093106913281/BaIzs_Af_normal.jpg",
+        "username": "eray_baydemir",
+        "verified": false
+      },
+      {
+        "id": "429428132",
+        "name": "Bam",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101829726603968512/9ETK7q_J_normal.jpg",
+        "username": "billionbuckbam",
+        "verified": false
+      },
+      {
+        "id": "18856848",
+        "name": "Tuong Le",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013073915296337920/fob0qBAT_normal.jpg",
+        "username": "tuongaz",
+        "verified": false
+      },
+      {
+        "id": "2115558973453508609",
+        "name": "ZenoFlow AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118097917101715456/0VNhbyUC_normal.png",
+        "username": "ZenoFlow_AI",
+        "verified": false
+      },
+      {
+        "id": "2117252327241662464",
+        "name": "vikey | AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117258520513146880/A72xBp4W_normal.jpg",
+        "username": "lukasyin88",
+        "verified": false
+      },
+      {
+        "id": "2111202715409809408",
+        "name": "Updu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120992731740753920/_zax7iwz_normal.png",
+        "username": "myupdu",
+        "verified": false
+      },
+      {
+        "id": "1450512939887235078",
+        "name": "SpaceApp.dev",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108803066271322112/tKK1QswR_normal.jpg",
+        "username": "spaceapp_dev",
+        "verified": false
+      },
+      {
+        "id": "818802423007350784",
+        "name": "everett",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2114994733239967744/2wFvTsuO_normal.jpg",
+        "username": "will58798103",
+        "verified": false
+      },
+      {
+        "id": "1822818294954414081",
+        "name": "Gabriele Bolognese | SaaS founder",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088685754671136768/SuwzE-YF_normal.jpg",
+        "username": "bologabriele",
+        "verified": false
+      },
+      {
+        "id": "2038275078463602688",
+        "name": "dng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2114042164002926592/Q5i94wXt_normal.jpg",
+        "username": "dng_notes",
+        "verified": false
+      },
+      {
+        "id": "1254256197718421504",
+        "name": "Sina Tayebati",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118517801417838592/hRiIE-cd_normal.jpg",
+        "username": "sinatayebat",
+        "verified": false
+      },
+      {
+        "id": "382136594",
+        "name": "Daniel Zambrini",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095806200390791169/2F2uyl1u_normal.jpg",
+        "username": "DanielZambrini",
+        "verified": false
+      },
+      {
+        "id": "1874666247356653568",
+        "name": "Davis.AI.Explorer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022706009148657665/Bm4mpQpm_normal.jpg",
+        "username": "DavisNc9527",
+        "verified": false
+      },
+      {
+        "id": "1481491950381731841",
+        "name": "aditya.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119921087618379776/hPp5JWxu_normal.jpg",
+        "username": "waitingforASI_",
+        "verified": false
+      },
+      {
+        "id": "871911081135947777",
+        "name": "Yatin Bhalla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050317625952276480/zFIfjn8f_normal.jpg",
+        "username": "yatinbhalla42",
+        "verified": false
+      },
+      {
+        "id": "1510028300",
+        "name": "星海拾珠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080054703443124224/hBBqGT1U_normal.jpg",
+        "username": "rainwaterJay",
+        "verified": false
+      },
+      {
+        "id": "955232320063090693",
+        "name": "Eaglegon | AI × Chips",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/955237069126709248/RP5rUpcK_normal.jpg",
+        "username": "TheEaglegon",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121800396624584959",
+    "next_token": "b26v89c19zqg8o3juzovrga2g3hmmc7g5d95bi2iixb3x",
+    "oldest_id": "2121684698485375321",
+    "result_count": 25
+  }
+}

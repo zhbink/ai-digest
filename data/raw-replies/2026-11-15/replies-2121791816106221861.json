@@ -1,0 +1,440 @@
+{
+  "data": [
+    {
+      "author_id": "2025232195779203073",
+      "created_at": "2026-11-15T03:05:28.000Z",
+      "edit_history_tweet_ids": [
+        "2121801729784336627"
+      ],
+      "id": "2121801729784336627",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121791816106221861",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 原文里有句容易漏：发件箱不是必须的，多数 agent 一个 send 工具直接发给用户就够，要控制发送节奏或出错重发时才加。建议先从安静点开始。",
+      "url": "https://x.com/wu_jack6551/status/2121801729784336627"
+    },
+    {
+      "author_id": "1344508697989378048",
+      "created_at": "2026-11-15T03:02:22.000Z",
+      "edit_history_tweet_ids": [
+        "2121800950474064022"
+      ],
+      "id": "2121800950474064022",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121791816106221861",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 这句反直觉说到点子上了。\n\n全天候运行不是让模型 24 小时连轴转，写个死循环一直在线，烧穿的先是 token 账单。\n\n我那个 Grok Bot 半小时跑一次定时任务，微信日报助手每天也就醒几分钟，路子跟这篇说的差不多。\n\nAgent 拼到最后不是多聪明，是醒来那一下能不能把活干对。",
+      "url": "https://x.com/Horin22841043/status/2121800950474064022"
+    },
+    {
+      "author_id": "1859621233287208960",
+      "created_at": "2026-11-15T03:02:18.000Z",
+      "edit_history_tweet_ids": [
+        "2121800932472115433"
+      ],
+      "id": "2121800932472115433",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121791816106221861",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 事件收件箱把同一用户同一时间只留一个活跃进程，再加上几秒内碎消息批量合并，守住的是唤醒之间的状态不被并发写乱。延迟工具调用把删库、转账这类高风险动作挂起、等人类审批之后再继续，落盘的就不只是结果，还包括待审批的意图本身。休眠省下的 token",
+      "url": "https://x.com/Grok9527/status/2121800932472115433"
+    },
+    {
+      "author_id": "1972136319276167168",
+      "created_at": "2026-11-15T02:59:16.000Z",
+      "edit_history_tweet_ids": [
+        "2121800172661522433"
+      ],
+      "id": "2121800172661522433",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121791816106221861",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 几乎整天休眠、被触发才醒几秒，这个反差最有意思",
+      "url": "https://x.com/yapmarkets/status/2121800172661522433"
+    },
+    {
+      "author_id": "26735842",
+      "created_at": "2026-11-15T02:51:50.000Z",
+      "edit_history_tweet_ids": [
+        "2121798299040547041"
+      ],
+      "id": "2121798299040547041",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121791816106221861",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes solid breakdown. sleep architecture beats raw uptime every time. inbox buffer and deferred approvals are the patterns that actually scale. dream consolidation is the detail most skip until state rots. bookmarked",
+      "url": "https://x.com/vexor4i/status/2121798299040547041"
+    },
+    {
+      "author_id": "2089226303144894464",
+      "created_at": "2026-11-15T02:47:34.000Z",
+      "edit_history_tweet_ids": [
+        "2121797226586673547"
+      ],
+      "id": "2121797226586673547",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121791816106221861",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 值班写成死循环，额度先报警",
+      "url": "https://x.com/kiteitor/status/2121797226586673547"
+    },
+    {
+      "author_id": "976012062546538496",
+      "created_at": "2026-11-15T02:39:23.000Z",
+      "edit_history_tweet_ids": [
+        "2121795166520377666"
+      ],
+      "id": "2121795166520377666",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121791816106221861",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 真正反直觉的不是休眠，是醒来只跑几秒就存盘再睡。权限这步更狠：删库、转账、对外发邮件直接挂起等人批，还不许把进程卡在那儿干等。你们高风险工具是延迟调用，还是会把整个 Agent 冻在审批上？",
+      "url": "https://x.com/dzqyzy/status/2121795166520377666"
+    },
+    {
+      "author_id": "2022146499040489472",
+      "created_at": "2026-11-15T02:36:01.000Z",
+      "edit_history_tweet_ids": [
+        "2121794320143683614"
+      ],
+      "id": "2121794320143683614",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121791816106221861",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 全天候跑的Agent，最大的坑不是能力，是状态管理。上下文一长，它就开始忘记自己做过什么，错误还会一层层累积。我觉得真正值钱的是检查点和回滚设计，而不是更聪明的模型。你们线上跑过超过24小时的Agent吗？",
+      "url": "https://x.com/bobolv235824/status/2121794320143683614"
+    },
+    {
+      "author_id": "1992573103734652928",
+      "created_at": "2026-11-15T02:32:59.000Z",
+      "edit_history_tweet_ids": [
+        "2121793556906119309"
+      ],
+      "id": "2121793556906119309",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121791816106221861",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 发件箱还想加一个“发之前再看一眼”：昨晚排好的提醒，用户今早可能已经把事办完了。安静时段结束后不能一股脑补发旧消息。全天候服务的体贴，有时候就是发现自己这句话已经不用说了。",
+      "url": "https://x.com/sahuaja3669/status/2121793556906119309"
+    },
+    {
+      "author_id": "2100198569034887168",
+      "created_at": "2026-11-15T02:28:28.000Z",
+      "edit_history_tweet_ids": [
+        "2121792420077776922"
+      ],
+      "id": "2121792420077776922",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121791816106221861",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 让AI帮我盯盘那次，挂着挂着它把自己状态写乱了，跌了都不喊我。所以正解是改成事件触发那种？",
+      "url": "https://x.com/lianshangbiji/status/2121792420077776922"
+    },
+    {
+      "author_id": "1974653328274714624",
+      "created_at": "2026-11-15T02:26:08.000Z",
+      "edit_history_tweet_ids": [
+        "2121791831830602040"
+      ],
+      "id": "2121791831830602040",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 188,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121791822452109390",
+          "type": "replied_to"
+        }
+      ],
+      "text": "顺便说一句，这套事件收件箱加定时器的解耦思路，哪怕你不用 Claude 的官方框架，拿 Python 配合 SQLite 或者 Redis 也能在一个下午之内手搓出来，核心是千万别让大模型自己去管理并发和睡眠时钟。\n🔗 https://t.co/phRXR0RBe7",
+      "url": "https://x.com/AYi_AInotes/status/2121791831830602040"
+    },
+    {
+      "author_id": "1974653328274714624",
+      "created_at": "2026-11-15T02:26:06.000Z",
+      "edit_history_tweet_ids": [
+        "2121791822452109390"
+      ],
+      "id": "2121791822452109390",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 203,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121791816106221861",
+          "type": "replied_to"
+        }
+      ],
+      "text": "这 5 个组件里我最喜欢的就是梦境整理这个设计，简直跟人类大脑一模一样，白天醒着的时候只管干活记流水账，等半夜闲下来了自动做一次复盘清理，把没用的噪音删掉、把核心结论归档，不然再大的上下文窗口跑上一个月也会被垃圾记忆彻底撑爆。",
+      "url": "https://x.com/AYi_AInotes/status/2121791822452109390"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1974653328274714624",
+        "created_at": "2026-11-15T02:26:04.000Z",
+        "edit_history_tweet_ids": [
+          "2121791816106221861"
+        ],
+        "id": "2121791816106221861",
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 1041,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120865290703552993",
+            "type": "quoted"
+          }
+        ],
+        "text": "Anthropic 刚刚放出一份含金量极高的工程指南，手把手教大家怎么搭建全天候运行的 AI Agent，\n\n但整篇最反直觉的结论居然是，所谓全天候运行，\n根本就不是让模型 24 小时连轴转。\n说实话，很多兄弟一上来搭 Agent 就喜欢写个死循环让它一直在线盯着，\n\n结果不仅 token 账单烧穿，状态还经常写乱，但在 https://t.co/APclRhlvqQ https://t.co/um0RLsI8SS"
+      },
+      {
+        "author_id": "1974653328274714624",
+        "created_at": "2026-11-15T02:26:06.000Z",
+        "edit_history_tweet_ids": [
+          "2121791822452109390"
+        ],
+        "id": "2121791822452109390",
+        "in_reply_to_user_id": "1974653328274714624",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 203,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121791816106221861",
+            "type": "replied_to"
+          }
+        ],
+        "text": "这 5 个组件里我最喜欢的就是梦境整理这个设计，简直跟人类大脑一模一样，白天醒着的时候只管干活记流水账，等半夜闲下来了自动做一次复盘清理，把没用的噪音删掉、把核心结论归档，不然再大的上下文窗口跑上一个月也会被垃圾记忆彻底撑爆。"
+      }
+    ],
+    "users": [
+      {
+        "id": "2025232195779203073",
+        "name": "Summer 的 AI 手记",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043971052855013378/-bdn-8Vl_normal.jpg",
+        "username": "wu_jack6551",
+        "verified": false
+      },
+      {
+        "id": "1344508697989378048",
+        "name": "小阳哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2113839059902894080/JIzAiISK_normal.jpg",
+        "username": "Horin22841043",
+        "verified": false
+      },
+      {
+        "id": "1859621233287208960",
+        "name": "NextSignal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066022830689628160/7k50yp0p_normal.jpg",
+        "username": "Grok9527",
+        "verified": false
+      },
+      {
+        "id": "1972136319276167168",
+        "name": "yap markets",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094616608375541760/F6YVhU7-_normal.jpg",
+        "username": "yapmarkets",
+        "verified": false
+      },
+      {
+        "id": "26735842",
+        "name": "vexor4i",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061426203165122562/RD9T_S8-_normal.jpg",
+        "username": "vexor4i",
+        "verified": false
+      },
+      {
+        "id": "2089226303144894464",
+        "name": "拳头想飞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097882738003173376/Gr-Y4nee_normal.jpg",
+        "username": "kiteitor",
+        "verified": false
+      },
+      {
+        "id": "976012062546538496",
+        "name": "松子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047801917036965888/N899c-W-_normal.jpg",
+        "username": "dzqyzy",
+        "verified": false
+      },
+      {
+        "id": "2022146499040489472",
+        "name": "bobolv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108498077644734464/Nwj0wQu8_normal.jpg",
+        "username": "bobolv235824",
+        "verified": false
+      },
+      {
+        "id": "1992573103734652928",
+        "name": "老王实验室",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107470619965353984/taQsgPb4_normal.jpg",
+        "username": "sahuaja3669",
+        "verified": false
+      },
+      {
+        "id": "2100198569034887168",
+        "name": "发财姐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108355650640392192/XzTTwlPv_normal.jpg",
+        "username": "lianshangbiji",
+        "verified": false
+      },
+      {
+        "id": "1974653328274714624",
+        "name": "AYi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989157446829350912/pW828UwK_normal.jpg",
+        "username": "AYi_AInotes",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121801729784336627",
+    "next_token": "b26v89c19zqg8o3juzovrif39bdmr7i192i221w1ygscd",
+    "oldest_id": "2121791822452109390",
+    "result_count": 12
+  }
+}

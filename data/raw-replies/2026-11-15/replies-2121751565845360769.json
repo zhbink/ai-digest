@@ -1,0 +1,833 @@
+{
+  "data": [
+    {
+      "author_id": "11861",
+      "created_at": "2026-11-15T03:03:25.000Z",
+      "edit_history_tweet_ids": [
+        "2121801216891949084"
+      ],
+      "id": "2121801216891949084",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121751565845360769",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick I wonder if the same phenomena can be seen in the faster pace of ECI and AECI growth. I don't know if newer benchmarks span a similar range ECI range as older benchmarks.",
+      "url": "https://x.com/ganz/status/2121801216891949084"
+    },
+    {
+      "author_id": "2121737902413459456",
+      "created_at": "2026-11-15T02:58:08.000Z",
+      "edit_history_tweet_ids": [
+        "2121799885913546854"
+      ],
+      "id": "2121799885913546854",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121751565845360769",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Case in point: Google's Gemini 4 Hydrogen post says it beat Argon 51 to 50 on the Artificial Analysis index (54 at xhigh). That's Google quoting AA, not anyone retesting it. https://t.co/euP7FsI1yy",
+      "url": "https://x.com/typesetwire/status/2121799885913546854"
+    },
+    {
+      "author_id": "1227579828397891595",
+      "created_at": "2026-11-15T02:57:46.000Z",
+      "edit_history_tweet_ids": [
+        "2121799793760727341"
+      ],
+      "id": "2121799793760727341",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121751565845360769",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Time-to-saturation is a better question than who is on top this week. 63% of those 173 benches already being done makes a lot of leaderboard screenshots look older than they are. Where do you draw the line, when scores bunch up or when a model basically maxes it?",
+      "url": "https://x.com/AsWill11/status/2121799793760727341"
+    },
+    {
+      "author_id": "2349053380",
+      "created_at": "2026-11-15T02:50:02.000Z",
+      "edit_history_tweet_ids": [
+        "2121797845523247476"
+      ],
+      "id": "2121797845523247476",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121751565845360769",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick The follow-up is the striking part — even private benchmarks fall just as fast, so harder tests alone won't fix this. It points to benchmarks that keep evolving, rather than a fixed ceiling models can train toward. What would a benchmark that stays hard actually look like?",
+      "url": "https://x.com/NextBillionLab/status/2121797845523247476"
+    },
+    {
+      "author_id": "2054501072966684672",
+      "created_at": "2026-11-15T02:46:52.000Z",
+      "edit_history_tweet_ids": [
+        "2121797049968381957"
+      ],
+      "id": "2121797049968381957",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121751565845360769",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Private benchmarks fall just as fast. Can SatBench show whether misses cluster in particular item families after those benchmarks saturate?",
+      "url": "https://x.com/TinyRouterHQ/status/2121797049968381957"
+    },
+    {
+      "author_id": "2031285494081007620",
+      "created_at": "2026-11-15T02:44:56.000Z",
+      "edit_history_tweet_ids": [
+        "2121796564155015639"
+      ],
+      "id": "2121796564155015639",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121751565845360769",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Benchmarks used to last years, now they last a press cycle.",
+      "url": "https://x.com/LiuweijiaVip/status/2121796564155015639"
+    },
+    {
+      "author_id": "127965812",
+      "created_at": "2026-11-15T02:42:33.000Z",
+      "edit_history_tweet_ids": [
+        "2121795963018698854"
+      ],
+      "id": "2121795963018698854",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121751565845360769",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Thankfully preference evals don’t saturate the same way. In blind A/B on one of my apps, a small, cheap model beat a frontier one on conversation quality. We need more of those...",
+      "url": "https://x.com/charlesbine/status/2121795963018698854"
+    },
+    {
+      "author_id": "1112714244",
+      "created_at": "2026-11-15T02:35:12.000Z",
+      "edit_history_tweet_ids": [
+        "2121794112420724845"
+      ],
+      "id": "2121794112420724845",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121751565845360769",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick For business owners that means benchmarks tell you less every month. Keep 5 real tasks from your own week and rerun them every time you try a new tool. That's the test that counts.",
+      "url": "https://x.com/aibigmoneydaily/status/2121794112420724845"
+    },
+    {
+      "author_id": "2116067272498528256",
+      "created_at": "2026-11-15T02:25:50.000Z",
+      "edit_history_tweet_ids": [
+        "2121791756484403386"
+      ],
+      "id": "2121791756484403386",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121751565845360769",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick One caveat: 173 benchmarks cited by the labs is a selection-biased sample. Labs tend to cite the ones they're already winning, which makes saturation look faster. Would love the same curve for third-party benchmarks released after a model's training cutoff.",
+      "url": "https://x.com/Danielph0e/status/2121791756484403386"
+    },
+    {
+      "author_id": "1590723318881341440",
+      "created_at": "2026-11-15T02:22:00.000Z",
+      "edit_history_tweet_ids": [
+        "2121790793472225727"
+      ],
+      "id": "2121790793472225727",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 18,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121751565845360769",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick The footnote is the real headline. Count only independent runs and it's 24%. The rest is labs grading their own homework.",
+      "url": "https://x.com/Extravagantor/status/2121790793472225727"
+    },
+    {
+      "author_id": "171735221",
+      "created_at": "2026-11-15T02:21:41.000Z",
+      "edit_history_tweet_ids": [
+        "2121790710592803222"
+      ],
+      "id": "2121790710592803222",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121751565845360769",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Seeing this even at home. A 4-bit local model on one desk box scores ~90% on IFEval for me. When a quantized home setup sits near the ceiling, the benchmark stops telling you much.",
+      "url": "https://x.com/ez_ai4u/status/2121790710592803222"
+    },
+    {
+      "author_id": "2047840462615056384",
+      "created_at": "2026-11-15T02:20:09.000Z",
+      "edit_history_tweet_ids": [
+        "2121790325207547949"
+      ],
+      "id": "2121790325207547949",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121751565845360769",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick the test now expires faster than the thing it tests. like a school that has to write a new final every semester because everyone keeps getting full marks",
+      "url": "https://x.com/ShavaizTariq/status/2121790325207547949"
+    },
+    {
+      "author_id": "1711203486170566656",
+      "created_at": "2026-11-15T02:15:09.000Z",
+      "edit_history_tweet_ids": [
+        "2121789068111728883"
+      ],
+      "id": "2121789068111728883",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121751565845360769",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick 63% of 173 lab-cited benchmarks saturated says the scoreboard is now the bottleneck, not the models. Should labs be judged on long-horizon work in messy real repos instead?",
+      "url": "https://x.com/AIFlow_ML/status/2121789068111728883"
+    },
+    {
+      "author_id": "1730538532278853632",
+      "created_at": "2026-11-15T02:06:39.000Z",
+      "edit_history_tweet_ids": [
+        "2121786930513997974"
+      ],
+      "id": "2121786930513997974",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121751565845360769",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Saturation also hides contamination. Once a benchmark has been public for a year, part of the gain is the test leaking into training data. We keep a small private set built from our own tickets and refresh it every quarter. Boring, but it's the only score I still trust.",
+      "url": "https://x.com/alkaidzhuang/status/2121786930513997974"
+    },
+    {
+      "author_id": "1314406678553477121",
+      "created_at": "2026-11-15T02:06:00.000Z",
+      "edit_history_tweet_ids": [
+        "2121786764805460453"
+      ],
+      "id": "2121786764805460453",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121751565845360769",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick this is why leaderboards don't help much when picking a model for real work. a few of your own tasks rerun on each release tell you more",
+      "url": "https://x.com/iguptapankaj/status/2121786764805460453"
+    },
+    {
+      "author_id": "2100799853919870976",
+      "created_at": "2026-11-15T02:05:50.000Z",
+      "edit_history_tweet_ids": [
+        "2121786725567549520"
+      ],
+      "id": "2121786725567549520",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121751565845360769",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick 63% isn't the number that matters — the acceleration is. Benchmarks that saturate faster every year stop being measurements and become press releases. The labs' answer is long-horizon agentic evals, which stay unsaturated mostly because they're expensive to run.",
+      "url": "https://x.com/joneyubr/status/2121786725567549520"
+    },
+    {
+      "author_id": "2110649112098160640",
+      "created_at": "2026-11-15T02:03:59.000Z",
+      "edit_history_tweet_ids": [
+        "2121786259463160253"
+      ],
+      "id": "2121786259463160253",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121751565845360769",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Benchmark saturation hitting 63% so fast proves we're constantly measuring yesterday's capabilities. The real challenge now isn't static benchmarks, but evaluating dynamic long-horizon planning and real-world tool execution where test cases can't be gaming-optimized.",
+      "url": "https://x.com/ZeroseeAi/status/2121786259463160253"
+    },
+    {
+      "author_id": "1387288009083527168",
+      "created_at": "2026-11-15T02:01:04.000Z",
+      "edit_history_tweet_ids": [
+        "2121785525388582988"
+      ],
+      "id": "2121785525388582988",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 15,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121751565845360769",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick 63% saturated is kinda insane ngl. at this point the benchmarks are the ones that can't keep up lol",
+      "url": "https://x.com/PepeUnbound/status/2121785525388582988"
+    },
+    {
+      "author_id": "1775639908163727360",
+      "created_at": "2026-11-15T01:59:15.000Z",
+      "edit_history_tweet_ids": [
+        "2121785068868014148"
+      ],
+      "id": "2121785068868014148",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121751565845360769",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick 63%这个数最扎心的地方不在模型跑得快，在尺子过期得更快：173个基准三年就饱和了六成，说明我们量进步的工具本身也在贬值。决策层真正缺的不是更难的题，是不过期的尺子——评测得按“多久失效”标保质期，不然今天的第一名，明天就只是跑赢了一张旧卷子。",
+      "url": "https://x.com/LeoAgentAI/status/2121785068868014148"
+    },
+    {
+      "author_id": "2109573923088326657",
+      "created_at": "2026-11-15T01:57:25.000Z",
+      "edit_history_tweet_ids": [
+        "2121784606588592322"
+      ],
+      "id": "2121784606588592322",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121751565845360769",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick at this rate we need a benchmark for how fast benchmarks die. oh wait, that's literally this 😭",
+      "url": "https://x.com/bobscilog/status/2121784606588592322"
+    },
+    {
+      "author_id": "2053068003546386432",
+      "created_at": "2026-11-15T01:56:15.000Z",
+      "edit_history_tweet_ids": [
+        "2121784313574461871"
+      ],
+      "id": "2121784313574461871",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 13,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121751565845360769",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Feels like that matches my day-to-day. I stopped trusting leaderboard gaps and just rerun the same 3 messy tasks from my own repo on every new model. Would love a version of this that tracks how fast \"real repo\" evals saturate.",
+      "url": "https://x.com/yanyanyanhaha/status/2121784313574461871"
+    },
+    {
+      "author_id": "2115165741531971585",
+      "created_at": "2026-11-15T01:56:13.000Z",
+      "edit_history_tweet_ids": [
+        "2121784305420554252"
+      ],
+      "id": "2121784305420554252",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 16,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121751565845360769",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick benchmarks have the shelf life of a javascript framework now",
+      "url": "https://x.com/StephenBuildsAI/status/2121784305420554252"
+    },
+    {
+      "author_id": "2933168366",
+      "created_at": "2026-11-15T01:55:12.000Z",
+      "edit_history_tweet_ids": [
+        "2121784046896234705"
+      ],
+      "id": "2121784046896234705",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 36,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121751565845360769",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Which of the 173 saturated fastest?",
+      "url": "https://x.com/wolfqing1/status/2121784046896234705"
+    },
+    {
+      "author_id": "2051647851823022080",
+      "created_at": "2026-11-15T01:51:39.000Z",
+      "edit_history_tweet_ids": [
+        "2121783154231136528"
+      ],
+      "id": "2121783154231136528",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 13,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121751565845360769",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick benchmarks die faster than they're born, wild",
+      "url": "https://x.com/Wavequester/status/2121783154231136528"
+    },
+    {
+      "author_id": "2119373751477469184",
+      "created_at": "2026-11-15T01:43:51.000Z",
+      "edit_history_tweet_ids": [
+        "2121781192500429237"
+      ],
+      "id": "2121781192500429237",
+      "in_reply_to_user_id": "39125788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121751565845360769",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Same pattern in office workflows: the benchmark that matters isn't the model's score, it's whether the workflow still completes a real task a week later. I re-run my tests on a schedule — a workflow that passed in June silently broke in October when an API field changed.",
+      "url": "https://x.com/WorkflowTested/status/2121781192500429237"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "39125788",
+        "created_at": "2026-11-14T23:46:08.000Z",
+        "edit_history_tweet_ids": [
+          "2121751565845360769"
+        ],
+        "id": "2121751565845360769",
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 19899,
+          "like_count": 298,
+          "quote_count": 10,
+          "reply_count": 99,
+          "retweet_count": 28
+        },
+        "text": "AI is getting better faster than our measurements are\n\nI threw together SatBench, which measures how quickly major AI benchmarks become saturated (effectively beaten). Of 173 benchmarks cited by the Labs since 2023, 63% are now saturated. Saturation is happening faster each year. https://t.co/tITFRo7w0z"
+      }
+    ],
+    "users": [
+      {
+        "id": "11861",
+        "name": "David Ganzhorn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757450564198146048/c-nmWwOc_normal.jpg",
+        "username": "ganz",
+        "verified": false
+      },
+      {
+        "id": "2121737902413459456",
+        "name": "TypesetWire",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2121778015491297280/d9u3jnUz_normal.jpg",
+        "username": "typesetwire",
+        "verified": false
+      },
+      {
+        "id": "1227579828397891595",
+        "name": "Sail",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943675856540282880/nb63V8v4_normal.jpg",
+        "username": "AsWill11",
+        "verified": false
+      },
+      {
+        "id": "2349053380",
+        "name": "Next Billion Labs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104653985089294336/koWu5b7f_normal.jpg",
+        "username": "NextBillionLab",
+        "verified": false
+      },
+      {
+        "id": "2054501072966684672",
+        "name": "TinyRouter",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064593530631397377/-o3wWMhg_normal.jpg",
+        "username": "TinyRouterHQ",
+        "verified": false
+      },
+      {
+        "id": "2031285494081007620",
+        "name": "Wei佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031285572191518720/tB5KoScZ_normal.jpg",
+        "username": "LiuweijiaVip",
+        "verified": false
+      },
+      {
+        "id": "127965812",
+        "name": "Charles Bine",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/786502185/fractal_normal.jpg",
+        "username": "charlesbine",
+        "verified": false
+      },
+      {
+        "id": "1112714244",
+        "name": "AI Big Money Daily",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117448210763390976/3aU3gUeh_normal.jpg",
+        "username": "aibigmoneydaily",
+        "verified": false
+      },
+      {
+        "id": "2116067272498528256",
+        "name": "Daniel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116908120035471360/0kjLH4nm_normal.jpg",
+        "username": "Danielph0e",
+        "verified": false
+      },
+      {
+        "id": "1590723318881341440",
+        "name": "Extravagantor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853101852344369152/Sl1kNGaX_normal.jpg",
+        "username": "Extravagantor",
+        "verified": false
+      },
+      {
+        "id": "171735221",
+        "name": "AI 쉽게 알려드림",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088549998804062208/VU6Z6n3I_normal.jpg",
+        "username": "ez_ai4u",
+        "verified": false
+      },
+      {
+        "id": "2047840462615056384",
+        "name": "Shavaiz Tariq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047840682753269760/5UV-yN4S_normal.jpg",
+        "username": "ShavaizTariq",
+        "verified": false
+      },
+      {
+        "id": "1711203486170566656",
+        "name": "Igor Lessio - Robots/acc - AIFlow Labs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953848090915704832/CjjO7yAK_normal.jpg",
+        "username": "AIFlow_ML",
+        "verified": false
+      },
+      {
+        "id": "1730538532278853632",
+        "name": "CharmLynn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740242658243858432/G8tkqzUN_normal.jpg",
+        "username": "alkaidzhuang",
+        "verified": false
+      },
+      {
+        "id": "1314406678553477121",
+        "name": "Pankaj Gupta | Building Zenyro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120110884362264580/MFbK53Dr_normal.jpg",
+        "username": "iguptapankaj",
+        "verified": false
+      },
+      {
+        "id": "2100799853919870976",
+        "name": "Lucas 测 AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109286324385484800/Fq9Ed_KU_normal.jpg",
+        "username": "joneyubr",
+        "verified": false
+      },
+      {
+        "id": "2110649112098160640",
+        "name": "Sajer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116838370894893056/ebvf_ZGV_normal.jpg",
+        "username": "ZeroseeAi",
+        "verified": false
+      },
+      {
+        "id": "1387288009083527168",
+        "name": "裴主任｜PEPE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2112415510390505472/Bo5j4i4D_normal.jpg",
+        "username": "PepeUnbound",
+        "verified": false
+      },
+      {
+        "id": "1775639908163727360",
+        "name": "LeoAgentAI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109199376455548928/ImqGwD9C_normal.jpg",
+        "username": "LeoAgentAI",
+        "verified": false
+      },
+      {
+        "id": "2109573923088326657",
+        "name": "BobSci Log",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109580001540788224/utfTNjxy_normal.jpg",
+        "username": "bobscilog",
+        "verified": false
+      },
+      {
+        "id": "2053068003546386432",
+        "name": "颜颜yan_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118157102330105856/HL8WAdy0_normal.jpg",
+        "username": "yanyanyanhaha",
+        "verified": false
+      },
+      {
+        "id": "2115165741531971585",
+        "name": "Stephen Hewitt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115177976178294785/yD_fkcGv_normal.jpg",
+        "username": "StephenBuildsAI",
+        "verified": false
+      },
+      {
+        "id": "2933168366",
+        "name": "wolfqing 庆哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017813832710950915/flKrt66D_normal.jpg",
+        "username": "wolfqing1",
+        "verified": false
+      },
+      {
+        "id": "2051647851823022080",
+        "name": "WQ哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056256502126817280/GfPWdh9D_normal.jpg",
+        "username": "Wavequester",
+        "verified": false
+      },
+      {
+        "id": "2119373751477469184",
+        "name": "WorkflowTested",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119401937418481664/UuE3TyyE_normal.jpg",
+        "username": "WorkflowTested",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121801216891949084",
+    "next_token": "b26v89c19zqg8o3juzovriesguiktt0rpci654wol2agt",
+    "oldest_id": "2121781192500429237",
+    "result_count": 25
+  }
+}

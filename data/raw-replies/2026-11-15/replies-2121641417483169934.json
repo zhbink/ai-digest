@@ -1,0 +1,1140 @@
+{
+  "data": [
+    {
+      "author_id": "1496121204218150912",
+      "conversation_id": "2121641417483169934",
+      "created_at": "2026-11-15T02:38:43.000Z",
+      "edit_history_tweet_ids": [
+        "2121794998584946944"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121794998584946944",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121641417483169934",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Agent swarms doing research at scale will put real load on public resources — the Auden reconstruction shows it perfectly, an agent piecing together a book it couldn't open, a few lines at a time. That's a new kind of archival work, but who pays for the traffic?",
+      "url": "https://x.com/Worldwide2060/status/2121794998584946944"
+    },
+    {
+      "author_id": "2118725849021337601",
+      "conversation_id": "2121641417483169934",
+      "created_at": "2026-11-15T02:09:31.000Z",
+      "edit_history_tweet_ids": [
+        "2121787649908490548"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121787649908490548",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121641417483169934",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Reading a book one line at a time through repeated full-text searches is an agent working around a UI built for humans. A bulk-read path for declared agents would cost the Archive far less than thousands of tiny queries, and give it a way to rate-limit.",
+      "url": "https://x.com/slduai/status/2121787649908490548"
+    },
+    {
+      "author_id": "1903063434125774851",
+      "conversation_id": "2121641417483169934",
+      "created_at": "2026-11-15T02:07:51.000Z",
+      "edit_history_tweet_ids": [
+        "2121787232281637199"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121787232281637199",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121641417483169934",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick 一行一行靠全文检索把 Internet Archive 上的冷门书抠出来，摊到档案馆和学校站点上，量会很吓人。agent 做学术复原很漂亮，但开放获取能被读，不代表能被成群结队反复打，得有配额和缓存。",
+      "url": "https://x.com/binbinyiyilili/status/2121787232281637199"
+    },
+    {
+      "author_id": "1566271307251011584",
+      "conversation_id": "2121641417483169934",
+      "created_at": "2026-11-15T01:54:59.000Z",
+      "edit_history_tweet_ids": [
+        "2121783991338701005"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121783991338701005",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121641417483169934",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick The date check is what I trust: it flagged that those lectures are five years later than the 1941 class and pointed to another source. The harder problem is traffic. Agents that read a line at a time and never get bored can flatten an open archive pretty fast.",
+      "url": "https://x.com/XiangLi1986/status/2121783991338701005"
+    },
+    {
+      "author_id": "2114175526810136577",
+      "conversation_id": "2121641417483169934",
+      "created_at": "2026-11-15T01:45:04.000Z",
+      "edit_history_tweet_ids": [
+        "2121781497468534809"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121781497468534809",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121641417483169934",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick “Some books are undeservedly forgotten; none are undeservedly remembered.” — W. H. Auden (The Dyer’s Hand, 1962)",
+      "url": "https://x.com/AnalogyArchive/status/2121781497468534809"
+    },
+    {
+      "author_id": "2114906570303905792",
+      "conversation_id": "2121641417483169934",
+      "created_at": "2026-11-15T00:32:07.000Z",
+      "edit_history_tweet_ids": [
+        "2121763139327021509"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121763139327021509",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121641417483169934",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Repeated full-text searches turn a clumsy access path into a workable research loop; a clear stop condition will matter as these agents get faster.",
+      "url": "https://x.com/BudgtStore/status/2121763139327021509"
+    },
+    {
+      "author_id": "1456139506982088705",
+      "conversation_id": "2121641417483169934",
+      "created_at": "2026-11-14T23:08:26.000Z",
+      "edit_history_tweet_ids": [
+        "2121742079655297412"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121742079655297412",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 40,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121641417483169934",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Surprising that Anthropic did not already train on this data",
+      "url": "https://x.com/singular_prism/status/2121742079655297412"
+    },
+    {
+      "author_id": "2049601932344303616",
+      "conversation_id": "2121641417483169934",
+      "created_at": "2026-11-14T22:52:03.000Z",
+      "edit_history_tweet_ids": [
+        "2121737956809445669"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121737956809445669",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121641417483169934",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Sites will need to tell your research agent from a scraper. Who is it working for, and who answers for it?",
+      "url": "https://x.com/BonisSystems/status/2121737956809445669"
+    },
+    {
+      "author_id": "728370046884560896",
+      "conversation_id": "2121641417483169934",
+      "created_at": "2026-11-14T22:25:45.000Z",
+      "edit_history_tweet_ids": [
+        "2121731337040314631"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121731337040314631",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 17,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121641417483169934",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Why is every single response to this a 1 line restatement of the story clearly made by an LLM from a blue check account with no likes?",
+      "url": "https://x.com/APQuestions_/status/2121731337040314631"
+    },
+    {
+      "author_id": "14958243",
+      "conversation_id": "2121641417483169934",
+      "created_at": "2026-11-14T22:00:58.000Z",
+      "edit_history_tweet_ids": [
+        "2121725102819770712"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121725102819770712",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 106,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121641417483169934",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Reading a whole book one search at a time is equal parts clever and brutal. Sites built for people browsing are going to need a proper front door for agents.",
+      "url": "https://x.com/paulchapman/status/2121725102819770712"
+    },
+    {
+      "author_id": "399638044",
+      "conversation_id": "2121641417483169934",
+      "created_at": "2026-11-14T21:52:12.000Z",
+      "edit_history_tweet_ids": [
+        "2121722895626023423"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121722895626023423",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 70,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121641417483169934",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Somebody at the Internet Archive is looking at their bandwidth bill right now",
+      "url": "https://x.com/thevdm_/status/2121722895626023423"
+    },
+    {
+      "author_id": "429014113",
+      "conversation_id": "2121641417483169934",
+      "created_at": "2026-11-14T21:30:10.000Z",
+      "edit_history_tweet_ids": [
+        "2121717350164484127"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121717350164484127",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 45,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121641417483169934",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick I has collected a few pages in Google Books from snippets but that's another level.\nReally, in this case you should have registered in IA, borrowed the book and shared the browser screen with your agents",
+      "url": "https://x.com/ain92ru/status/2121717350164484127"
+    },
+    {
+      "author_id": "2113033461036703744",
+      "conversation_id": "2121641417483169934",
+      "created_at": "2026-11-14T21:14:12.000Z",
+      "edit_history_tweet_ids": [
+        "2121713331895754782"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121713331895754782",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121641417483169934",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick This is the overlooked cost of agents: one research task can become hundreds of tiny queries. Sites built for human browsing, like the Internet Archive and small publishers, feel it first, and rate limits will start shaping what agents can find.",
+      "url": "https://x.com/dailyaibriefhq/status/2121713331895754782"
+    },
+    {
+      "author_id": "1369748403131981827",
+      "conversation_id": "2121641417483169934",
+      "created_at": "2026-11-14T21:01:01.000Z",
+      "edit_history_tweet_ids": [
+        "2121710012753994128"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121710012753994128",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121641417483169934",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Sites will need a way to tell good research agents from scrapers before they just block everything",
+      "url": "https://x.com/dudusvicki/status/2121710012753994128"
+    },
+    {
+      "author_id": "1853524437145919488",
+      "conversation_id": "2121641417483169934",
+      "created_at": "2026-11-14T20:56:55.000Z",
+      "edit_history_tweet_ids": [
+        "2121708983165780344"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121708983165780344",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 84,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121641417483169934",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick reading a whole book through repeated full text searches is such an agent-native move. \n\na person would never have the patience, but for it that's just more queries.",
+      "url": "https://x.com/AsumaCodes/status/2121708983165780344"
+    },
+    {
+      "author_id": "1200076752246042624",
+      "conversation_id": "2121641417483169934",
+      "created_at": "2026-11-14T20:49:02.000Z",
+      "edit_history_tweet_ids": [
+        "2121706997062221827"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121706997062221827",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121641417483169934",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Relentless is the right word: one agent turns a lending limit into a query loop. The Archive needs an agent rate, not a human paywall.",
+      "url": "https://x.com/MahajanHazel/status/2121706997062221827"
+    },
+    {
+      "author_id": "23372897",
+      "conversation_id": "2121641417483169934",
+      "created_at": "2026-11-14T20:35:55.000Z",
+      "edit_history_tweet_ids": [
+        "2121703696514097292"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121703696514097292",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 47,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121641774468788474",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Worth noting that while many LLMs still have terrible performance *instincts*, they are quite good at hillclimbing performance optimizations.\n\nI hope the next year or two sees a huge revolution in server performance improvement.",
+      "url": "https://x.com/ariccio/status/2121703696514097292"
+    },
+    {
+      "author_id": "1822818294954414081",
+      "conversation_id": "2121641417483169934",
+      "created_at": "2026-11-14T20:22:46.000Z",
+      "edit_history_tweet_ids": [
+        "2121700387837137010"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121700387837137010",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121641417483169934",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick reading a book one line at a time is the most relentless and least efficient thing i've heard today",
+      "url": "https://x.com/bologabriele/status/2121700387837137010"
+    },
+    {
+      "author_id": "1822818294954414081",
+      "conversation_id": "2121641417483169934",
+      "created_at": "2026-11-14T20:22:36.000Z",
+      "edit_history_tweet_ids": [
+        "2121700345034457287"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121700345034457287",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121641774468788474",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick the agent uses the commons and the human pays the donation, feels like the right split honestly",
+      "url": "https://x.com/bologabriele/status/2121700345034457287"
+    },
+    {
+      "author_id": "1240049044627566598",
+      "conversation_id": "2121641417483169934",
+      "created_at": "2026-11-14T20:12:44.000Z",
+      "edit_history_tweet_ids": [
+        "2121697863155495197"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121697863155495197",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121641417483169934",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Hahaha good job agent",
+      "url": "https://x.com/BenjaminHorva13/status/2121697863155495197"
+    },
+    {
+      "author_id": "383316692",
+      "conversation_id": "2121641417483169934",
+      "created_at": "2026-11-14T20:05:12.000Z",
+      "edit_history_tweet_ids": [
+        "2121695968022122603"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121695968022122603",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121641417483169934",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick The web was built for humans reading pages and bots indexing them.\n\nAn agent reading a book one search at a time breaks both assumptions.\n\nI think we end up with a separate agent layer: paid, rate-limited access for agents, free pages for humans. Your donation is the prototype.",
+      "url": "https://x.com/eparedez/status/2121695968022122603"
+    },
+    {
+      "author_id": "2117252327241662464",
+      "conversation_id": "2121641417483169934",
+      "created_at": "2026-11-14T20:01:19.000Z",
+      "edit_history_tweet_ids": [
+        "2121694991101952308"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121694991101952308",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121641417483169934",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Reading an archive book line by line means thousands of requests per document, and hosts read that as scraping regardless of intent. Rate limits, not capability, decide if this workflow survives.",
+      "url": "https://x.com/lukasyin88/status/2121694991101952308"
+    },
+    {
+      "author_id": "2037476569191473152",
+      "conversation_id": "2121641417483169934",
+      "created_at": "2026-11-14T19:55:21.000Z",
+      "edit_history_tweet_ids": [
+        "2121693490149265418"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121693490149265418",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 126,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121641417483169934",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick so the Internet Archive gets DDoSed by a poetry class now?",
+      "url": "https://x.com/sesori_ai/status/2121693490149265418"
+    },
+    {
+      "author_id": "1819059652178628608",
+      "conversation_id": "2121641417483169934",
+      "created_at": "2026-11-14T19:45:38.000Z",
+      "edit_history_tweet_ids": [
+        "2121691042428952986"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121691042428952986",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 19,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121641417483169934",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick Wonder how long before the Internet Archive starts rate-limiting agents the way sites did with scrapers. Someone pays for all that traffic.",
+      "url": "https://x.com/drive_dare/status/2121691042428952986"
+    },
+    {
+      "author_id": "460628243",
+      "conversation_id": "2121641417483169934",
+      "created_at": "2026-11-14T19:40:27.000Z",
+      "edit_history_tweet_ids": [
+        "2121689740910997812"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "39125788",
+            "start": 0,
+            "username": "emollick"
+          }
+        ]
+      },
+      "id": "2121689740910997812",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121641417483169934",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@emollick so sites start billing agents per crawl instead of selling ads",
+      "url": "https://x.com/wleatherman9/status/2121689740910997812"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "39125788",
+        "conversation_id": "2121641417483169934",
+        "created_at": "2026-11-14T16:28:26.000Z",
+        "edit_history_tweet_ids": [
+          "2121641417483169934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bBtxGguUuT",
+              "end": 304,
+              "expanded_url": "https://x.com/emollick/status/2121641417483169934/photo/1",
+              "media_key": "3_2121640419234562048",
+              "start": 281,
+              "url": "https://t.co/bBtxGguUuT"
+            }
+          ]
+        },
+        "id": "2121641417483169934",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 36488,
+          "like_count": 444,
+          "quote_count": 16,
+          "reply_count": 147,
+          "retweet_count": 24
+        },
+        "text": "The traffic from agent swarms doing research is going to be quite large, they are relentless. I had Fable 5.2 reconstruct WH Auden's 1941 poetry class. It found an obscure, relevant book on the Internet Archive, which it read a line at a time by doing repeated full text searches. https://t.co/bBtxGguUuT"
+      },
+      {
+        "author_id": "39125788",
+        "conversation_id": "2121641417483169934",
+        "created_at": "2026-11-14T16:29:51.000Z",
+        "edit_history_tweet_ids": [
+          "2121641774468788474"
+        ],
+        "id": "2121641774468788474",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 8469,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121641417483169934",
+            "type": "replied_to"
+          }
+        ],
+        "text": "But we also don't want to stop agents from doing relevant academic research (or even commercial research, since it might mention your product) with too many gates and barriers.\n\nIn any case, I donated to the Internet Archive for my use of the commons, but better solutions needed."
+      }
+    ],
+    "users": [
+      {
+        "id": "1496121204218150912",
+        "name": "Aivatar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120040347149709312/0teU2Odi_normal.jpg",
+        "username": "Worldwide2060",
+        "verified": false
+      },
+      {
+        "id": "2118725849021337601",
+        "name": "sldu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119278204724871168/5ZrGy_eF_normal.jpg",
+        "username": "slduai",
+        "verified": false
+      },
+      {
+        "id": "1903063434125774851",
+        "name": "bin sun⚡️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095462509264465920/sRPQctA2_normal.jpg",
+        "username": "binbinyiyilili",
+        "verified": false
+      },
+      {
+        "id": "1566271307251011584",
+        "name": "Xiang Li",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083255209200164864/zbntOFE3_normal.jpg",
+        "username": "XiangLi1986",
+        "verified": false
+      },
+      {
+        "id": "2114175526810136577",
+        "name": "Analogy Archive",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2121778379271569408/ZdPL64Vt_normal.jpg",
+        "username": "AnalogyArchive",
+        "verified": false
+      },
+      {
+        "id": "2114906570303905792",
+        "name": "BudgtStore",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116591041281159168/9N84IZkj_normal.jpg",
+        "username": "BudgtStore",
+        "verified": false
+      },
+      {
+        "id": "1456139506982088705",
+        "name": "Singular Prism",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085334607361433600/A_5YQrAm_normal.jpg",
+        "username": "singular_prism",
+        "verified": false
+      },
+      {
+        "id": "2049601932344303616",
+        "name": "Jonis Fields",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051834862655479810/26C2CR3R_normal.jpg",
+        "username": "BonisSystems",
+        "verified": false
+      },
+      {
+        "id": "728370046884560896",
+        "name": "APQuestions",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "username": "APQuestions_",
+        "verified": false
+      },
+      {
+        "id": "14958243",
+        "name": "Paul Chapman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089105896492367872/XjnJXHR8_normal.jpg",
+        "username": "paulchapman",
+        "verified": false
+      },
+      {
+        "id": "399638044",
+        "name": "Vadim",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918959167223521280/MZ1x5wLi_normal.jpg",
+        "username": "thevdm_",
+        "verified": false
+      },
+      {
+        "id": "429014113",
+        "name": "Ilya A.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677348178406899712/yDczydLm_normal.jpg",
+        "username": "ain92ru",
+        "verified": false
+      },
+      {
+        "id": "2113033461036703744",
+        "name": "Daily AI Brief",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2113040448180961280/WoN999q__normal.jpg",
+        "username": "dailyaibriefhq",
+        "verified": false
+      },
+      {
+        "id": "1369748403131981827",
+        "name": "Victor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2112507981006782465/Vy2clZOz_normal.jpg",
+        "username": "dudusvicki",
+        "verified": false
+      },
+      {
+        "id": "1853524437145919488",
+        "name": "Asuma",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106482053097365504/CIjG0-Ct_normal.jpg",
+        "username": "AsumaCodes",
+        "verified": false
+      },
+      {
+        "id": "1200076752246042624",
+        "name": "Hazel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1708834946125856768/dHs-VZkB_normal.jpg",
+        "username": "MahajanHazel",
+        "verified": false
+      },
+      {
+        "id": "23372897",
+        "name": "Alexander Riccio (@co2trackers)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1405596978160050182/AYo1eMTh_normal.jpg",
+        "username": "ariccio",
+        "verified": false
+      },
+      {
+        "id": "1822818294954414081",
+        "name": "Gabriele Bolognese | SaaS founder",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088685754671136768/SuwzE-YF_normal.jpg",
+        "username": "bologabriele",
+        "verified": false
+      },
+      {
+        "id": "1240049044627566598",
+        "name": "Benjamin Horvath",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "username": "BenjaminHorva13",
+        "verified": false
+      },
+      {
+        "id": "383316692",
+        "name": "Esteban Paredez",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2121401063127265281/IJCEhsw6_normal.jpg",
+        "username": "eparedez",
+        "verified": false
+      },
+      {
+        "id": "2117252327241662464",
+        "name": "vikey | AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117258520513146880/A72xBp4W_normal.jpg",
+        "username": "lukasyin88",
+        "verified": false
+      },
+      {
+        "id": "2037476569191473152",
+        "name": "Sesori - Claude, Codex & OpenCode on Mobile",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097689216415084544/V-7nu_Dp_normal.jpg",
+        "username": "sesori_ai",
+        "verified": true
+      },
+      {
+        "id": "1819059652178628608",
+        "name": "DriveDare | AI & Tech",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036759375696797696/sJg3IWFq_normal.jpg",
+        "username": "drive_dare",
+        "verified": false
+      },
+      {
+        "id": "460628243",
+        "name": "Will",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743723703714623488/tBYE9vY7_normal.jpg",
+        "username": "wleatherman9",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2121794998584946944",
+    "next_token": "b26v89c19zqg8o3juzovrga2not7vzgel229xg6sgdshp",
+    "oldest_id": "2121689740910997812",
+    "result_count": 25
+  }
+}
