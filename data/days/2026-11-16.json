@@ -267,7 +267,120 @@
       "external_url": "https://openai.com/index/step-toward-defining-the-standard-model",
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "这是 OpenAI 科学博客的首篇客座文章。加州大学圣塔芭芭拉分校粒子理论组负责人、Kavli 理论物理研究所常任成员 Nathaniel Craig，以 OpenAI 访问科学家身份，讲述他如何与 GPT-6 Astra 合作，在 10 月的预印本中提出标准模型的一个候选格点非微扰定义。标准模型在微扰计算上极为成功，但作为手征理论，弱相互作用对左右手费米子区别对待，把完整理论放到格点上往往会冒出不想要的镜像伙伴，这一直是非微扰定义的核心障碍。Craig 已有解题思路，却无法证明覆盖所有必要情形；Astra 帮助把思路写成构造，并主导了细致证明。格点定义一旦成立，就有可能把完整标准模型放到计算机上，不靠微扰级数做第一性原理计算。"
+      "article_summary_zh": "这是 OpenAI 科学博客的首篇客座文章。加州大学圣塔芭芭拉分校粒子理论组负责人、Kavli 理论物理研究所常任成员 Nathaniel Craig，以 OpenAI 访问科学家身份，讲述他如何与 GPT-6 Astra 合作，在 10 月的预印本中提出标准模型的一个候选格点非微扰定义。标准模型在微扰计算上极为成功，但作为手征理论，弱相互作用对左右手费米子区别对待，把完整理论放到格点上往往会冒出不想要的镜像伙伴，这一直是非微扰定义的核心障碍。Craig 已有解题思路，却无法证明覆盖所有必要情形；Astra 帮助把思路写成构造，并主导了细致证明。格点定义一旦成立，就有可能把完整标准模型放到计算机上，不靠微扰级数做第一性原理计算。",
+      "attached_posts": [
+        {
+          "id": "2122129927034257783",
+          "url": "https://x.com/Dr_Singularity/status/2122129927034257783",
+          "handle": "Dr_Singularity",
+          "display_name": "Dr Singularity",
+          "avatar": "https://pbs.twimg.com/profile_images/1607111366397120514/j4XzXC27_normal.jpg",
+          "verified": true,
+          "followers": 91138,
+          "created_at": "2026-11-16T00:49:36.000Z",
+          "lang": "en",
+          "text": "Another huge AI assisted physics breakthrough\n\nOpenAI has revealed that GPT-6 Astra helped physicist Nathaniel Craig of UC Santa Barbara develop a candidate solution to a foundational problem that has remained unresolved for more than 50 years.\n\nHow to give the entire Standard Model of particle physics a rigorous, nonperturbative definition on a spacetime lattice.\n\nThe Standard Model describes elementary particles and three fundamental forces. Despite its extraordinary predictive success, physicists have struggled to formulate the complete theory mathematically on a discrete spacetime grid.\n\nAstra played a central role in developing the detailed mathematical proof, helping turn Craig's proposed strategy into a concrete construction.",
+          "text_zh": null,
+          "summary_zh": "Dr Singularity 解释这项工作要解决的问题：如何在时空格点上，给整个粒子物理标准模型一个严格的非微扰定义；这个问题已卡住五十多年，Astra 在详细数学证明中起了核心作用。",
+          "relation_zh": "官方帖只说「候选格点定义」，这条把难点写清楚：不是又一篇聊天示例，而是把 Craig 的思路落成可检验的构造。",
+          "metrics": {
+            "likes": 92,
+            "retweets": 0,
+            "replies": 11,
+            "quotes": 0,
+            "bookmarks": 11,
+            "views": 3931
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1619,
+              "h": 972,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXNRczMWMAAF8T7.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/Dr_Singularity/status/2122129927034257783/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-16T03:04:23.288Z"
+        },
+        {
+          "id": "2122126010691060185",
+          "url": "https://x.com/gdb/status/2122126010691060185",
+          "handle": "gdb",
+          "display_name": "Greg Brockman",
+          "avatar": "https://pbs.twimg.com/profile_images/1347621377503711233/bHg3ipfD_normal.jpg",
+          "verified": true,
+          "followers": 1091506,
+          "created_at": "2026-11-16T00:34:02.000Z",
+          "lang": "en",
+          "text": "GPT-6 Astra for theoretical physics: https://t.co/eA4GXWI9YG",
+          "text_zh": null,
+          "summary_zh": "OpenAI 总裁 Greg Brockman 转发官方科学博客首文，并点明主题：用 GPT-6 Astra 做理论物理。",
+          "relation_zh": "这是实验室高层对同一篇文章的背书，把「物理学家与 Astra 合作」直接说成模型在理论物理上的用途。",
+          "metrics": {
+            "likes": 864,
+            "retweets": 0,
+            "replies": 83,
+            "quotes": 8,
+            "bookmarks": 88,
+            "views": 57042
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/openai/status/2122123437141553630"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2122123437141553630",
+          "article_title": null,
+          "attached_at": "2026-11-16T03:04:23.288Z"
+        },
+        {
+          "id": "2122103321603498419",
+          "url": "https://x.com/TekonBurns/status/2122103321603498419",
+          "handle": "TekonBurns",
+          "display_name": "Tekon Burns",
+          "avatar": "https://pbs.twimg.com/profile_images/2115219941905625088/mfgFCATS_normal.jpg",
+          "verified": true,
+          "followers": 4087,
+          "created_at": "2026-11-15T23:03:53.000Z",
+          "lang": "en",
+          "text": "OpenAI added a dedicated Science newsroom hub (https://t.co/hd01pKFeZ4) and launched the OpenAI science blog (https://t.co/l2uAtfCj1q).\n\nIt also contains its first guest post by UC Santa Barbara physicist Nathaniel Craig.\nCraig explains how GPT-6 Astra took the lead in developing a detailed proof for a candidate nonperturbative lattice definition of the Standard Model (October arXiv preprint 2610.09093), reviewed by lattice field theorists Maarten Golterman, Andreas Kronfeld, and Yigal Shamir and building on OpenAI's recent Yang-Mills existence proof. \n\nThe Science Blog launch post also recaps GPT-Rosalind running thousands of agents across millions of mouse brain cells in 32 minutes with PerturbAI and Scripps Research, alongside September Navier-Stokes and October quasi-Riemann math proofs.\n\nThe new era of science is officially here.",
+          "text_zh": null,
+          "summary_zh": "Tekon Burns 补充：OpenAI 同时上线了 Science 新闻中心和科学博客；Craig 的客座文章基于 10 月的 arXiv 预印本 2610.09093，并经格点场论学者 Maarten Golterman、Andreas Kronfeld 和 Yigal Shamir 审阅，还接上了近期的杨-Mills 存在性证明。",
+          "relation_zh": "母帖是官方发文预告，这条补上了预印本编号、审稿人和同一科学博客里提到的其他研究，方便按文献继续读。",
+          "metrics": {
+            "likes": 11,
+            "retweets": 0,
+            "replies": 3,
+            "quotes": 0,
+            "bookmarks": 2,
+            "views": 670
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://openai.com/news/science/",
+            "https://openai.com/index/our-new-blog-for-science/"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-16T03:04:23.288Z"
+        }
+      ]
     },
     {
       "id": "2121929485951836640",
@@ -700,7 +813,131 @@
       "external_url": "https://twitter.com/claudedevs/status/2121375309287301360",
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "Claude Code 官方账号宣布项目功能有一轮较大更新：在一个项目里，Claude 可以把任务协调到并行的线程中执行。用户现在能在项目设置里为协调器（Coordinator）和工作线程（Threads）指定不同模型，并新增自定义视图、把生成的 artifacts 归到对应视图。TestingCatalog 将这套能力称为 Conway。"
+      "article_summary_zh": "Claude Code 官方账号宣布项目功能有一轮较大更新：在一个项目里，Claude 可以把任务协调到并行的线程中执行。用户现在能在项目设置里为协调器（Coordinator）和工作线程（Threads）指定不同模型，并新增自定义视图、把生成的 artifacts 归到对应视图。TestingCatalog 将这套能力称为 Conway。",
+      "attached_posts": [
+        {
+          "id": "2121375309287301360",
+          "url": "https://x.com/ClaudeDevs/status/2121375309287301360",
+          "handle": "ClaudeDevs",
+          "display_name": "ClaudeDevs",
+          "avatar": "https://pbs.twimg.com/profile_images/2044472418815893504/xf14RxM8_normal.png",
+          "verified": true,
+          "followers": 826048,
+          "created_at": "2026-11-13T22:51:01.000Z",
+          "lang": "en",
+          "text": "We've made some big updates to Projects in Claude Code!\n\nIn a project, Claude coordinates your tasks across parallel threads. The coordinator is now much more proactive. It answers your questions in the project chat and gives you updates on the status of your ongoing threads. https://t.co/OQAvXKN1pc",
+          "text_zh": null,
+          "summary_zh": "Claude Code 官方宣布 Projects 大更新：项目里由 Coordinator 在多条并行线程之间分派任务，而且会更主动地在项目聊天里回答问题、汇报各线程进度。",
+          "relation_zh": "这是母帖引用的官方原帖。母帖补充的「Coordinator 和 Threads 可分别选模型」，就建立在这次 Projects 更新之上。",
+          "metrics": {
+            "likes": 18585,
+            "retweets": 0,
+            "replies": 642,
+            "quotes": 393,
+            "bookmarks": 8134,
+            "views": 1630034
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2121373287884419073/vid/avc1/1920x1080/rUkftd_yGittV8xV.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2121373287884419073/img/17Pt_3XFrYwjPgDH.jpg",
+              "duration_ms": 18633
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/ClaudeDevs/status/2121375309287301360/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-16T03:04:23.288Z"
+        },
+        {
+          "id": "2121375316618936407",
+          "url": "https://x.com/ClaudeDevs/status/2121375316618936407",
+          "handle": "ClaudeDevs",
+          "display_name": "ClaudeDevs",
+          "avatar": "https://pbs.twimg.com/profile_images/2044472418815893504/xf14RxM8_normal.png",
+          "verified": true,
+          "followers": 826048,
+          "created_at": "2026-11-13T22:51:03.000Z",
+          "lang": "en",
+          "text": "Artifacts are easier to find again too.\n\nThe threads panel now has a row at the top with the ones you recently opened, updated, or pinned. Each thread also shows thumbnails of its own artifacts, which you can turn off in the view settings. https://t.co/lKQxOwnqAi",
+          "text_zh": null,
+          "summary_zh": "官方同一条线程里还更新了产物浏览：线程面板顶部会列出最近打开、更新或钉住的线程，每条线程也能显示产物缩略图，并可在视图设置里关掉。",
+          "relation_zh": "母帖提到项目现已支持自定义视图、并把产物分配到这些视图；这是官方对同一轮「视图 / 产物」改动的说明和截图。",
+          "metrics": {
+            "likes": 384,
+            "retweets": 0,
+            "replies": 2,
+            "quotes": 2,
+            "bookmarks": 56,
+            "views": 74512
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 3840,
+              "h": 2160,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXCiclGakAEB382.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/ClaudeDevs/status/2121375316618936407/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-16T03:04:23.288Z"
+        },
+        {
+          "id": "2121434728276611220",
+          "url": "https://x.com/TekonBurns/status/2121434728276611220",
+          "handle": "TekonBurns",
+          "display_name": "Tekon Burns",
+          "avatar": "https://pbs.twimg.com/profile_images/2115219941905625088/mfgFCATS_normal.jpg",
+          "verified": true,
+          "followers": 4087,
+          "created_at": "2026-11-14T02:47:08.000Z",
+          "lang": "en",
+          "text": "Anthropic's new Coordinator in Claude Code Projects can spin up parallel cloud and local threads from one prompt.\n\nThe catch in the docs: new projects default to Opus everywhere and turn on auto-continue after usage resets by default.\n\nThis beast gonna consume so many tokens.😵 https://t.co/t3hHQQUxgx",
+          "text_zh": null,
+          "summary_zh": "Tekon Burns 提醒：新项目默认在各处都使用 Opus，并且会在用量重置后自动继续跑；Coordinator 一旦拉起大量云端和本地线程，token 消耗会非常快。",
+          "relation_zh": "母帖说现在可以为 Coordinator 和 Threads 分别指定模型，这条指出了为什么这个开关重要——如果不改默认，整个项目都会用最贵的模型。",
+          "metrics": {
+            "likes": 58,
+            "retweets": 0,
+            "replies": 17,
+            "quotes": 0,
+            "bookmarks": 21,
+            "views": 7725
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/claudedevs/status/2121375309287301360"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2121375309287301360",
+          "article_title": null,
+          "attached_at": "2026-11-16T03:04:23.288Z"
+        }
+      ]
     },
     {
       "id": "2121835140850602200",
@@ -930,7 +1167,145 @@
         "text": "Lauren Tan 在 AI Engineer 大会上的演讲《All Code Is Slop (Except Mine)》要点。她在 SpaceXAI 负责 Grok Bot 桌面版。\n\n1. 每纠正 AI 一次，就把这次纠正写成 lint 这类自动检查规则，少往 agents.md 这类说明文档里加话。违反 lint 规则的代码会直接报错、提交不上去，文档里的话 AI 不一定照做。\n\n2. 代码库是 AI 最主要的学习材料。里面的坏写法、临时补丁，会被下一个 AI 当成惯例照抄，像杂草一样越长越多，所以代码库要保持干净。\n\n3. 容易用错的东西，直接禁掉。React 里有个功能人都常用错，AI 更用不好，他们在产品代码里禁用了它，这类问题从此不再出现。\n\n4. 禁掉 99% 的代码注释。AI 爱在注释里给自己走的捷径找理由，后来的 AI 就照着学。她在 Cursor 时，这种“有理由的补丁”扩散开来，把应用拖得很卡。\n\n5. 让 AI 自己检查自己的活。AI 把程序跑起来像用户一样点一遍，交上录屏和截图，人审代码就变成看这些材料。她的 Token 大部分花在这一步。\n\n6. 以前用不起的检查方法，现在用得起了。用数学方法证明程序没问题这类严格验证，过去太费人力，AI 把成本降了下来。\n\n7. 结果：团队上个月合并了 1.1 万个 PR，被撤回的约 0.5%，应用比刚发布时还快。\n\n8. 先打好地基，再谈全自动。AI 写代码这一步本身出烂代码的话，全自动化只会出更多烂代码，还更费钱。"
       },
       "x_long": true,
-      "article_summary_zh": "宝玉整理了 Lauren Tan 在 AI Engineer 大会上的演讲《All Code Is Slop (Except Mine)》。她负责 SpaceXAI 的 Grok Bot 桌面版，核心主张是：每纠正 AI 一次，就写成会报错并拦住提交的 lint，而不是往 agents.md 里追加说明；代码库是 AI 的主要教材，坏写法和临时补丁会被下一个 AI 当成惯例；容易用错的 API 直接禁用；禁掉 99% 的代码注释，避免 AI 在注释里给捷径找理由；让 AI 把程序跑起来并提交录屏截图，人审变成看这些材料。原讲座视频见其演讲帖。"
+      "article_summary_zh": "宝玉整理了 Lauren Tan 在 AI Engineer 大会上的演讲《All Code Is Slop (Except Mine)》。她负责 SpaceXAI 的 Grok Bot 桌面版，核心主张是：每纠正 AI 一次，就写成会报错并拦住提交的 lint，而不是往 agents.md 里追加说明；代码库是 AI 的主要教材，坏写法和临时补丁会被下一个 AI 当成惯例；容易用错的 API 直接禁用；禁掉 99% 的代码注释，避免 AI 在注释里给捷径找理由；让 AI 把程序跑起来并提交录屏截图，人审变成看这些材料。原讲座视频见其演讲帖。",
+      "attached_posts": [
+        {
+          "id": "2121281537832276261",
+          "url": "https://x.com/0xShoopy/status/2121281537832276261",
+          "handle": "0xShoopy",
+          "display_name": "Shoopy",
+          "avatar": "https://pbs.twimg.com/profile_images/2117695339884912641/xe4K0Xp-_normal.jpg",
+          "verified": true,
+          "followers": 2241,
+          "created_at": "2026-11-13T16:38:24.000Z",
+          "lang": "en",
+          "text": "SpaceXSI engineer Lauren Tan (poteto):\n\n\"all code is slop.. except mine\"\n\nin this 17-min workshop she shows how her team shipped 11,000 PRs last month with 0.5% reverted, and how YOU make your agents stop shipping slop:\n\n1:04 → 3,000 PRs in a month, \"a lot of them in my sleep\"\n5:48 → the tools she bans because agents use them badly\n8:42 → why they deleted 99% of code comments\n9:32 → the trick: every correction becomes a check, not a new rule\n13:54 → 11,000 PRs, 0.5% reverted, and the app got faster\n16:32 → Grok Bot finds bugs and merges the fixes itself\n\nstop writing rules your agent forgets. write checks it can't skip\n\nher method is step 10 of my Grok Bot 1.0 guide. how to hire your whole AI department in the article below ↓",
+          "text_zh": null,
+          "summary_zh": "Shoopy 用 17 分钟录像梳理 Lauren Tan 的演讲：团队上个月合入约 1.1 万个 PR、回滚率 0.5%；每处纠正都做成检查而不是新规则，并禁掉 Agent 用不好的工具、删掉 99% 代码注释。",
+          "relation_zh": "母帖是宝玉整理的中文要点，这条补上了可跳转的演讲录像和对应时间轴，方便对照「少写 agents.md、多写成 lint」的原话。",
+          "metrics": {
+            "likes": 96,
+            "retweets": 0,
+            "replies": 17,
+            "quotes": 0,
+            "bookmarks": 44,
+            "views": 1283
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2121276403077222400/vid/avc1/1920x1080/wS5Czw54Zv1EDGXo.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2121276403077222400/img/7CpCIUPAATfgSayG.jpg",
+              "duration_ms": 1017733
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/0xShoopy/status/2121281537832276261/video/1",
+            "https://twitter.com/0xShoopy/status/2121221904774078553"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2121221904774078553",
+          "article_title": null,
+          "attached_at": "2026-11-16T03:04:23.288Z"
+        },
+        {
+          "id": "2121997657858281657",
+          "url": "https://x.com/0x_kaize/status/2121997657858281657",
+          "handle": "0x_kaize",
+          "display_name": "kaize",
+          "avatar": "https://pbs.twimg.com/profile_images/2115648714211512320/ldbaVqlN_normal.jpg",
+          "verified": true,
+          "followers": 24705,
+          "created_at": "2026-11-15T16:04:01.000Z",
+          "lang": "en",
+          "text": "All code is slop, except mine\n\nThat’s what Lauren Tan, the engineer behind Grok Bot, said on stage\n\nShe ships 3,000+ pull requests a month, and her secret is what she does every time an agent makes a mistake\n\nMost people just add another line to AGENTS.md\n\nLauren runs every mistake through 4 questions instead:\n\n> Can I redesign the code so this mistake is impossible?\n> Can a lint rule or a type catch it automatically?\n> Can the agent catch it by running and checking its own work?\n> Does it really need a written rule?\n\nEach mistake gets one of 5 fixes:\n\nRedesign / lint / verify / write a rule / human review\n\nThe useful part is that a written rule is only one option, not the default\n\nMost of her fixes never touch AGENTS.md at all\n\n> Sometimes the answer is to ban something entirely, like useEffect\n> Sometimes it’s a lint rule: her team went from 7 to 167 of them in four months\n> Sometimes it’s letting the agent prove its work with screenshots\n\nMistake -> cheapest permanent fix -> never catch it by hand again\n\nLauren’s all rules:",
+          "text_zh": null,
+          "summary_zh": "kaize 把 Lauren Tan 的纠错方法写成四问和五级处理：先问能否改设计、用 lint 或类型拦住、让 Agent 自测，最后才写规则；书面规则只是选项之一，不是默认动作。",
+          "relation_zh": "母帖强调「纠正一次就写成 lint」，这条把同一套方法展开成可照着做的决策顺序，并补充他们四个月里把 lint 规则从 7 条加到了 167 条。",
+          "metrics": {
+            "likes": 261,
+            "retweets": 0,
+            "replies": 8,
+            "quotes": 2,
+            "bookmarks": 253,
+            "views": 13298
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1334,
+              "h": 1690,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXLZjfpbYAAJ_4Z.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/0x_kaize/status/2121997657858281657/photo/1",
+            "https://twitter.com/0x_kaize/status/2121540306822701393"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2121540306822701393",
+          "article_title": null,
+          "attached_at": "2026-11-16T03:04:23.288Z"
+        },
+        {
+          "id": "2120869182619189726",
+          "url": "https://x.com/0xMorlex/status/2120869182619189726",
+          "handle": "0xMorlex",
+          "display_name": "Morlex",
+          "avatar": "https://pbs.twimg.com/profile_images/2060665433926086660/8PnnU2pY_normal.jpg",
+          "verified": true,
+          "followers": 4660,
+          "created_at": "2026-11-12T13:19:51.000Z",
+          "lang": "en",
+          "text": "all code is slop (except mine), that's the title of lauren tan talk at ai engineer code summit yesterday\n\nshe builds grok bot, and her team shipped 11,000 PRs in a month\n\nher answer to \"how do you trust that much agent code\" fits in one pyramid:\n\nitem 1: catch problems in this order: codebase, static analysis, verification, prose, human review. each layer down costs more\n\nitem 2: her first reaction to tech debt is a lint rule. AGENTS.md and skills can get skipped, so she keeps them small\n\nitem 3: slop is mostly a slur for code you didn't write. the definition she's ok with: code that is hard to change\n\nitem 4: directory structure is context. in dune, renderer code can't import from electron main, not even types\n\nitem 5: leave the same review comment twice and the rule sits too low. push it up a layer\n\nlast card has a prompt you can paste into your own bot to start the loop",
+          "text_zh": null,
+          "summary_zh": "Morlex 用一张金字塔总结如何信任大量 Agent 代码：按代码库约束、静态分析、验证、说明文字、人工审查的顺序拦截，越往下成本越高；同一条审查意见出现两次，就该把规则往上提一层。",
+          "relation_zh": "母帖讲的是少依赖 agents.md，这条给出一套分层框架，说明为什么 lint 和代码库约束要放在文档前面。",
+          "metrics": {
+            "likes": 95,
+            "retweets": 0,
+            "replies": 13,
+            "quotes": 0,
+            "bookmarks": 78,
+            "views": 4520
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 805,
+              "h": 1060,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HW7WVwiXoAAqSrI.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/0xMorlex/status/2120869182619189726/photo/1",
+            "https://twitter.com/0xMorlex/status/2108171726412464173"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2108171726412464173",
+          "article_title": null,
+          "attached_at": "2026-11-16T03:04:23.288Z"
+        }
+      ]
     },
     {
       "id": "2122062085807030716",
