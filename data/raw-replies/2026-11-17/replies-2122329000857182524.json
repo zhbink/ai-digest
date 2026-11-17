@@ -1,0 +1,117 @@
+{
+  "data": [
+    {
+      "author_id": "2054180387019231232",
+      "conversation_id": "2122329000857182524",
+      "created_at": "2026-11-16T14:18:21.000Z",
+      "edit_history_tweet_ids": [
+        "2122333457137426542"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1315639147248246785",
+            "start": 0,
+            "username": "GithubProjects"
+          }
+        ]
+      },
+      "id": "2122333457137426542",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 38,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122329000857182524",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GithubProjects a calibrated probability is the piece agents have been missing. act alone at 0.9, stop and ask a person at 0.55. how did they check the calibration, and does it hold on tasks outside the decision index?",
+      "url": "https://x.com/austindixson_/status/2122333457137426542"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1315639147248246785",
+        "conversation_id": "2122329000857182524",
+        "created_at": "2026-11-16T14:00:39.000Z",
+        "edit_history_tweet_ids": [
+          "2122329000857182524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/11871886928903…",
+              "end": 304,
+              "expanded_url": "https://twitter.com/1187188692890333184/status/2122318031162647001",
+              "start": 281,
+              "url": "https://t.co/QLpAFYLkkn"
+            }
+          ]
+        },
+        "id": "2122329000857182524",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "karpo.ai/models/decision",
+                "end": 318,
+                "expanded_url": "https://karpo.ai/models/decision",
+                "start": 295,
+                "url": "https://t.co/ujVmbeyXbR"
+              }
+            ]
+          },
+          "text": "Karpo-Decision-31B: an open decision model that picks between options instead of generating text, and returns a calibrated probability for each one.\n\nCurrently #1 on the Decision Index (73.9 Full) and ahead of Gemini Decision 1 on When2Call and Mind2Web.\n\nInference code is public too. Weights:\nhttps://t.co/ujVmbeyXbR"
+        },
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 20678,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122318031162647001",
+            "type": "quoted"
+          }
+        ],
+        "text": "Karpo-Decision-31B: an open decision model that picks between options instead of generating text, and returns a calibrated probability for each one.\n\nCurrently #1 on the Decision Index (73.9 Full) and ahead of Gemini Decision 1 on When2Call and Mind2Web.\n\nInference code is public https://t.co/QLpAFYLkkn"
+      }
+    ],
+    "users": [
+      {
+        "id": "2054180387019231232",
+        "name": "Austin Dixson",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096084972524462080/_MM0EzKs_normal.jpg",
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 69,
+          "like_count": 339,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 287
+        },
+        "username": "austindixson_",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122333457137426542",
+    "next_token": "b26v89c19zqg8o3juzow6fgbxhogfte4k9d9pnxzhva0t",
+    "oldest_id": "2122333457137426542",
+    "result_count": 1
+  }
+}

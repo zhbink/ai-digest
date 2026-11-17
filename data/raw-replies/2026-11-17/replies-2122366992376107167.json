@@ -1,0 +1,964 @@
+{
+  "data": [
+    {
+      "author_id": "1781172495694905344",
+      "conversation_id": "2122366992376107167",
+      "created_at": "2026-11-17T00:27:45.000Z",
+      "edit_history_tweet_ids": [
+        "2122486817740276196"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "4783690002",
+            "start": 0,
+            "username": "GoogleDeepMind"
+          },
+          {
+            "end": 28,
+            "id": "1965856473084473347",
+            "start": 16,
+            "username": "antigravity"
+          }
+        ]
+      },
+      "id": "2122486817740276196",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122366992376107167",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @antigravity 1. Extend cache TTL to 1+ hour.\n2. Improve cache hit rates or boost quotas.\n3. Build remote control into agy (like Claude).\n4. Add Chinese support to agy.\n5. Keep agy lightweight, let Gemini self-customize the agent, and add essentials like context usage display.\n\nthanks!",
+      "url": "https://x.com/riri514668/status/2122486817740276196"
+    },
+    {
+      "author_id": "263606970",
+      "conversation_id": "2122366992376107167",
+      "created_at": "2026-11-17T00:22:54.000Z",
+      "edit_history_tweet_ids": [
+        "2122485596044272022"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "4783690002",
+            "start": 0,
+            "username": "GoogleDeepMind"
+          },
+          {
+            "end": 28,
+            "id": "1965856473084473347",
+            "start": 16,
+            "username": "antigravity"
+          }
+        ]
+      },
+      "id": "2122485596044272022",
+      "lang": "en",
+      "note_tweet": {
+        "text": "The AlphaProof example is the most concrete one here — proving Signal's cryptographic code in weeks rather than years is a verifiable outcome, not just faster drafting. The harder test for multi-step lab work is error propagation: spotting wet-lab errors from notebooks is promising, but how does Carbon handle a wrong intermediate step in a long physics or biology workflow, and does it flag its own uncertainty?"
+      },
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122366992376107167",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @antigravity The AlphaProof example is the most concrete one here — proving Signal's cryptographic code in weeks rather than years is a verifiable outcome, not just faster drafting. The harder test for multi-step lab work is error propagation: spotting wet-lab errors from notebooks is",
+      "url": "https://x.com/minimaniwo/status/2122485596044272022"
+    },
+    {
+      "author_id": "1826745977891430400",
+      "conversation_id": "2122366992376107167",
+      "created_at": "2026-11-16T23:55:43.000Z",
+      "edit_history_tweet_ids": [
+        "2122478753838194841"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "4783690002",
+            "start": 0,
+            "username": "GoogleDeepMind"
+          },
+          {
+            "end": 28,
+            "id": "1965856473084473347",
+            "start": 16,
+            "username": "antigravity"
+          }
+        ]
+      },
+      "id": "2122478753838194841",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122366992376107167",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @antigravity Proving Signal's crypto code in weeks is the headline for me. Lab demos are nice, but formal proofs are where a model can't bluff. Will the proofs be public so others can check them?",
+      "url": "https://x.com/TechTvCh/status/2122478753838194841"
+    },
+    {
+      "author_id": "2071871914533068800",
+      "conversation_id": "2122366992376107167",
+      "created_at": "2026-11-16T23:34:06.000Z",
+      "edit_history_tweet_ids": [
+        "2122473313406447705"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "4783690002",
+            "start": 0,
+            "username": "GoogleDeepMind"
+          },
+          {
+            "end": 28,
+            "id": "1965856473084473347",
+            "start": 16,
+            "username": "antigravity"
+          }
+        ]
+      },
+      "id": "2122473313406447705",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122366992376107167",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @antigravity Lab claims only land when the model survives a second researcher's edge case. I'll repro the Signal proof on a patched version before calling it generalizable.",
+      "url": "https://x.com/swordBluesy/status/2122473313406447705"
+    },
+    {
+      "author_id": "856357866",
+      "conversation_id": "2122366992376107167",
+      "created_at": "2026-11-16T23:30:43.000Z",
+      "edit_history_tweet_ids": [
+        "2122472462554374646"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "4783690002",
+            "start": 0,
+            "username": "GoogleDeepMind"
+          },
+          {
+            "end": 28,
+            "id": "1965856473084473347",
+            "start": 16,
+            "username": "antigravity"
+          }
+        ]
+      },
+      "id": "2122472462554374646",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122366992376107167",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @antigravity 学术研究者可以申请Antigravity最高用量档，免费用6个月，一共1万个名额",
+      "url": "https://x.com/aimusheng/status/2122472462554374646"
+    },
+    {
+      "author_id": "2121766818649882624",
+      "conversation_id": "2122366992376107167",
+      "created_at": "2026-11-16T23:27:31.000Z",
+      "edit_history_tweet_ids": [
+        "2122471655888826421"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "4783690002",
+            "start": 0,
+            "username": "GoogleDeepMind"
+          },
+          {
+            "end": 28,
+            "id": "1965856473084473347",
+            "start": 16,
+            "username": "antigravity"
+          }
+        ]
+      },
+      "id": "2122471655888826421",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122366992376107167",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @antigravity If you're running experiments like this on the API, do them this month. Carbon goes from $2/$10 to $4/$20 per 1M tokens after Nov 30.",
+      "url": "https://x.com/TheLazyEdge/status/2122471655888826421"
+    },
+    {
+      "author_id": "1991210188578467840",
+      "conversation_id": "2122366992376107167",
+      "created_at": "2026-11-16T23:23:45.000Z",
+      "edit_history_tweet_ids": [
+        "2122470711654801490"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "4783690002",
+            "start": 0,
+            "username": "GoogleDeepMind"
+          },
+          {
+            "end": 28,
+            "id": "1965856473084473347",
+            "start": 16,
+            "username": "antigravity"
+          }
+        ]
+      },
+      "id": "2122470711654801490",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122366992376107167",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @antigravity Multi-step lab work is where models tend to break, since one bad assumption early poisons every step after it. Does Antigravity let researchers check each intermediate step, or do they mostly judge the final result?",
+      "url": "https://x.com/viral_warden/status/2122470711654801490"
+    },
+    {
+      "author_id": "2097396943085256704",
+      "conversation_id": "2122366992376107167",
+      "created_at": "2026-11-16T23:17:21.000Z",
+      "edit_history_tweet_ids": [
+        "2122469099200794851"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "4783690002",
+            "start": 0,
+            "username": "GoogleDeepMind"
+          },
+          {
+            "end": 28,
+            "id": "1965856473084473347",
+            "start": 16,
+            "username": "antigravity"
+          }
+        ]
+      },
+      "id": "2122469099200794851",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122366992376107167",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @antigravity Multi-step lab problems are a practical model test.",
+      "url": "https://x.com/RKDSTCAI/status/2122469099200794851"
+    },
+    {
+      "author_id": "351150835",
+      "conversation_id": "2122366992376107167",
+      "created_at": "2026-11-16T23:10:28.000Z",
+      "edit_history_tweet_ids": [
+        "2122467366529609991"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "4783690002",
+            "start": 0,
+            "username": "GoogleDeepMind"
+          },
+          {
+            "end": 28,
+            "id": "1965856473084473347",
+            "start": 16,
+            "username": "antigravity"
+          }
+        ]
+      },
+      "id": "2122467366529609991",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122366992376107167",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @antigravity Proof it’s safe first.",
+      "url": "https://x.com/panta_rhe1/status/2122467366529609991"
+    },
+    {
+      "author_id": "2071871914533068800",
+      "conversation_id": "2122366992376107167",
+      "created_at": "2026-11-16T23:03:12.000Z",
+      "edit_history_tweet_ids": [
+        "2122465539469750299"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "4783690002",
+            "start": 0,
+            "username": "GoogleDeepMind"
+          },
+          {
+            "end": 28,
+            "id": "1965856473084473347",
+            "start": 16,
+            "username": "antigravity"
+          }
+        ]
+      },
+      "id": "2122465539469750299",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122366992376107167",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @antigravity Letting an agent touch real cryptographic code is where the trust question lands. Scope it explicitly, like Qwen Code keeps its LSP off by default until you opt in, then let it run.",
+      "url": "https://x.com/swordBluesy/status/2122465539469750299"
+    },
+    {
+      "author_id": "2109231484767031296",
+      "conversation_id": "2122366992376107167",
+      "created_at": "2026-11-16T22:55:07.000Z",
+      "edit_history_tweet_ids": [
+        "2122463504359977182"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "4783690002",
+            "start": 0,
+            "username": "GoogleDeepMind"
+          },
+          {
+            "end": 26,
+            "id": "142415193",
+            "start": 16,
+            "username": "signalapp"
+          }
+        ]
+      },
+      "id": "2122463504359977182",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122366994708124098",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @signalapp The Signal proof is the standout — a machine-checked proof of crypto code is a much stronger claim than a benchmark score. Will the proof artifacts be published so independent cryptographers can check which properties were proven, and what was out of scope?",
+      "url": "https://x.com/thebotbites/status/2122463504359977182"
+    },
+    {
+      "author_id": "757940114949537792",
+      "conversation_id": "2122366992376107167",
+      "created_at": "2026-11-16T22:52:52.000Z",
+      "edit_history_tweet_ids": [
+        "2122462938284122417"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "4783690002",
+            "start": 0,
+            "username": "GoogleDeepMind"
+          },
+          {
+            "end": 28,
+            "id": "1965856473084473347",
+            "start": 16,
+            "username": "antigravity"
+          }
+        ]
+      },
+      "id": "2122462938284122417",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122366992376107167",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @antigravity The AlphaProof Code agents proved the security of Signal's cryptographic code in weeks rather than years. In biology, the team found 40x more related protein molecules than the best existing method.",
+      "url": "https://x.com/sulaiman_svesal/status/2122462938284122417"
+    },
+    {
+      "author_id": "2014745597140414465",
+      "conversation_id": "2122366992376107167",
+      "created_at": "2026-11-16T22:39:11.000Z",
+      "edit_history_tweet_ids": [
+        "2122459494978568218"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "4783690002",
+            "start": 0,
+            "username": "GoogleDeepMind"
+          },
+          {
+            "end": 28,
+            "id": "1965856473084473347",
+            "start": 16,
+            "username": "antigravity"
+          }
+        ]
+      },
+      "id": "2122459494978568218",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122366992376107167",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @antigravity Exciting to see this applied to the life sciences. Spotting wet-lab errors and surfacing related proteins could save researchers real time. We will be watching how scientists use it in practice.",
+      "url": "https://x.com/JAIMJournal/status/2122459494978568218"
+    },
+    {
+      "author_id": "588614280",
+      "conversation_id": "2122366992376107167",
+      "created_at": "2026-11-16T22:26:23.000Z",
+      "edit_history_tweet_ids": [
+        "2122456271370494452"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "4783690002",
+            "start": 0,
+            "username": "GoogleDeepMind"
+          },
+          {
+            "end": 28,
+            "id": "1965856473084473347",
+            "start": 16,
+            "username": "antigravity"
+          }
+        ]
+      },
+      "id": "2122456271370494452",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122366992376107167",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @antigravity Lab work is the right first test. Physics, maths and life sciences punish a confident wrong answer far more than a chat reply does, so multi-step reasoning has to be checked at every step. If Carbon holds up there, that is a stronger signal than any benchmark score.",
+      "url": "https://x.com/timecommuter/status/2122456271370494452"
+    },
+    {
+      "author_id": "2064460775662481408",
+      "conversation_id": "2122366992376107167",
+      "created_at": "2026-11-16T22:08:49.000Z",
+      "edit_history_tweet_ids": [
+        "2122451853296255057"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "4783690002",
+            "start": 0,
+            "username": "GoogleDeepMind"
+          },
+          {
+            "end": 28,
+            "id": "1965856473084473347",
+            "start": 16,
+            "username": "antigravity"
+          }
+        ]
+      },
+      "id": "2122451853296255057",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122366992376107167",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @antigravity free access for 10,000 scientists is a big deal. i'm curious how often they still have to jump in mid-run and fix it. anyone in a lab already trying this?",
+      "url": "https://x.com/ApixisFamilyCo/status/2122451853296255057"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122366473234534400"
+          ]
+        },
+        "author_id": "4783690002",
+        "conversation_id": "2122366992376107167",
+        "created_at": "2026-11-16T16:31:37.000Z",
+        "edit_history_tweet_ids": [
+          "2122366992376107167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 126,
+              "id": "1965856473084473347",
+              "start": 114,
+              "username": "antigravity"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pe1QLnFxh8",
+              "end": 225,
+              "expanded_url": "https://x.com/GoogleDeepMind/status/2122366992376107167/photo/1",
+              "media_key": "3_2122366473234534400",
+              "start": 202,
+              "url": "https://t.co/pe1QLnFxh8"
+            }
+          ]
+        },
+        "id": "2122366992376107167",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 126,
+                "id": "1965856473084473347",
+                "start": 114,
+                "username": "Antigravity"
+              }
+            ]
+          },
+          "text": "What happens when you put Gemini 4 Carbon to work in the lab? 🔬\n\nResearchers are using our latest model in Google @Antigravity to tackle multi-step problems across physics, math, and the life sciences."
+        },
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 65649,
+          "like_count": 724,
+          "quote_count": 16,
+          "reply_count": 158,
+          "retweet_count": 43
+        },
+        "text": "What happens when you put Gemini 4 Carbon to work in the lab? 🔬\n\nResearchers are using our latest model in Google @Antigravity to tackle multi-step problems across physics, math, and the life sciences. https://t.co/pe1QLnFxh8"
+      },
+      {
+        "author_id": "4783690002",
+        "conversation_id": "2122366992376107167",
+        "created_at": "2026-11-16T16:31:37.000Z",
+        "edit_history_tweet_ids": [
+          "2122366994708124098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 86,
+              "id": "142415193",
+              "start": 76,
+              "username": "signalapp"
+            }
+          ]
+        },
+        "id": "2122366994708124098",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 86,
+                "id": "142415193",
+                "start": 76,
+                "username": "Signalapp"
+              }
+            ]
+          },
+          "text": "🔘 It powered AlphaProof Code agents to mathematically prove the security of @Signalapp’s cryptographic code in weeks rather than years.\n\n🔘 Spotted subtle wet-lab errors and data anomalies directly from lab notebooks and raw data.\n\n🔘 Found 40 times more related protein sequences across large databases to help model hard-to-predict proteins."
+        },
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 14377,
+          "like_count": 71,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122366992376107167",
+            "type": "replied_to"
+          }
+        ],
+        "text": "🔘 It powered AlphaProof Code agents to mathematically prove the security of @Signalapp’s cryptographic code in weeks rather than years.\n\n🔘 Spotted subtle wet-lab errors and data anomalies directly from lab notebooks and raw data.\n\n🔘 Found 40 times more related protein"
+      }
+    ],
+    "users": [
+      {
+        "id": "1781172495694905344",
+        "name": "ri ri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781172530683809793/ePAyOS-r_normal.png",
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 25,
+          "like_count": 308,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 23
+        },
+        "username": "riri514668",
+        "verified": false
+      },
+      {
+        "id": "263606970",
+        "name": "jingyanzhang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090430368860266497/AfUvgQbE_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 78
+        },
+        "username": "minimaniwo",
+        "verified": false
+      },
+      {
+        "id": "1826745977891430400",
+        "name": "Tech TV Channel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021763357812867073/eTfoXGaD_normal.jpg",
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 32,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 94
+        },
+        "username": "TechTvCh",
+        "verified": false
+      },
+      {
+        "id": "2071871914533068800",
+        "name": "剑的 AI 实验室",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089690087571464192/oCoOz0Lf_normal.jpg",
+        "public_metrics": {
+          "followers_count": 9938,
+          "following_count": 10935,
+          "like_count": 8937,
+          "listed_count": 11,
+          "media_count": 1594,
+          "tweet_count": 16049
+        },
+        "username": "swordBluesy",
+        "verified": false
+      },
+      {
+        "id": "856357866",
+        "name": "ai木生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2121054788364439552/YmA0bbNS_normal.jpg",
+        "public_metrics": {
+          "followers_count": 4609,
+          "following_count": 3687,
+          "like_count": 9438,
+          "listed_count": 4,
+          "media_count": 795,
+          "tweet_count": 9327
+        },
+        "username": "aimusheng",
+        "verified": false
+      },
+      {
+        "id": "2121766818649882624",
+        "name": "The Lazy Edge 🦥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2121767656260792320/pSTz5ztA_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 45,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 23
+        },
+        "username": "TheLazyEdge",
+        "verified": false
+      },
+      {
+        "id": "1991210188578467840",
+        "name": "Viral Warden",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991212022483283969/xtyA1lJj_normal.jpg",
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 85,
+          "like_count": 18,
+          "listed_count": 6,
+          "media_count": 1042,
+          "tweet_count": 2840
+        },
+        "username": "viral_warden",
+        "verified": false
+      },
+      {
+        "id": "2097396943085256704",
+        "name": "RKD",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098002994189266944/1crnN9_t_normal.jpg",
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 249,
+          "like_count": 310,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 3728
+        },
+        "username": "RKDSTCAI",
+        "verified": false
+      },
+      {
+        "id": "351150835",
+        "name": "Samc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2243618708/samk__normal.jpg",
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 1217,
+          "like_count": 8449,
+          "listed_count": 25,
+          "media_count": 568,
+          "tweet_count": 23566
+        },
+        "username": "panta_rhe1",
+        "verified": false
+      },
+      {
+        "id": "2109231484767031296",
+        "name": "Bot Bites",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109232277695889408/sEzLRo0n_normal.jpg",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 112
+        },
+        "username": "thebotbites",
+        "verified": false
+      },
+      {
+        "id": "757940114949537792",
+        "name": "Sulaiman Vesal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106906634916352000/V_uVJEDS_normal.jpg",
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 293,
+          "like_count": 271,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 774
+        },
+        "username": "sulaiman_svesal",
+        "verified": false
+      },
+      {
+        "id": "2014745597140414465",
+        "name": "JAIM Journal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014749699027156992/sKaXLSHk_normal.jpg",
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 83,
+          "like_count": 481,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 724
+        },
+        "username": "JAIMJournal",
+        "verified": false
+      },
+      {
+        "id": "588614280",
+        "name": "THEO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2114521348290547712/B-uftbHu_normal.jpg",
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 81,
+          "like_count": 8146,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 7886
+        },
+        "username": "timecommuter",
+        "verified": false
+      },
+      {
+        "id": "2064460775662481408",
+        "name": "Apixis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110502253362618368/m7LONn_v_normal.jpg",
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 66,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 262
+        },
+        "username": "ApixisFamilyCo",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122486817740276196",
+    "next_token": "b26v89c19zqg8o3juzow6hlnknzxu2c1isr8wryojjon1",
+    "oldest_id": "2122451853296255057",
+    "result_count": 15
+  }
+}

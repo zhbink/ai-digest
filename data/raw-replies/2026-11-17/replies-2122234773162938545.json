@@ -1,0 +1,746 @@
+{
+  "data": [
+    {
+      "author_id": "2118740437347483651",
+      "conversation_id": "2122234773162938545",
+      "created_at": "2026-11-17T00:41:52.000Z",
+      "edit_history_tweet_ids": [
+        "2122490370491588982"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1669276256",
+            "start": 0,
+            "username": "op7418"
+          }
+        ]
+      },
+      "id": "2122490370491588982",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122234773162938545",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@op7418 围墙高不高的，国内互联网天天拆墙又砌墙，结果 agent 还是卡在调度那一步，你们播客里有聊到哪层算边界吗",
+      "url": "https://x.com/jxzsqdtg1/status/2122490370491588982"
+    },
+    {
+      "author_id": "2118740437347483651",
+      "conversation_id": "2122234773162938545",
+      "created_at": "2026-11-17T00:14:52.000Z",
+      "edit_history_tweet_ids": [
+        "2122483575052480839"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1669276256",
+            "start": 0,
+            "username": "op7418"
+          }
+        ]
+      },
+      "id": "2122483575052480839",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122234773162938545",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@op7418 Agent 的终点还是回网页版开浏览器",
+      "url": "https://x.com/jxzsqdtg1/status/2122483575052480839"
+    },
+    {
+      "author_id": "2118740437347483651",
+      "conversation_id": "2122234773162938545",
+      "created_at": "2026-11-16T23:24:09.000Z",
+      "edit_history_tweet_ids": [
+        "2122470812099690795"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1669276256",
+            "start": 0,
+            "username": "op7418"
+          }
+        ]
+      },
+      "id": "2122470812099690795",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122234773162938545",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@op7418 围墙太高确实是痛点，从日历和邮件先切入会不会更现实？",
+      "url": "https://x.com/jxzsqdtg1/status/2122470812099690795"
+    },
+    {
+      "author_id": "2118740437347483651",
+      "conversation_id": "2122234773162938545",
+      "created_at": "2026-11-16T23:14:40.000Z",
+      "edit_history_tweet_ids": [
+        "2122468421967266274"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1669276256",
+            "start": 0,
+            "username": "op7418"
+          }
+        ]
+      },
+      "id": "2122468421967266274",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122234773162938545",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@op7418 围墙高是一方面，更关键是各家都把数据和交互绑死在自己的 App 里，Agent 拿不到统一入口，只能一个个去爬。",
+      "url": "https://x.com/jxzsqdtg1/status/2122468421967266274"
+    },
+    {
+      "author_id": "2118740437347483651",
+      "conversation_id": "2122234773162938545",
+      "created_at": "2026-11-16T21:34:52.000Z",
+      "edit_history_tweet_ids": [
+        "2122443309528518979"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1669276256",
+            "start": 0,
+            "username": "op7418"
+          }
+        ]
+      },
+      "id": "2122443309528518979",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122234773162938545",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@op7418 围墙不是做高了，是别人把钥匙收走了。",
+      "url": "https://x.com/jxzsqdtg1/status/2122443309528518979"
+    },
+    {
+      "author_id": "2118740437347483651",
+      "conversation_id": "2122234773162938545",
+      "created_at": "2026-11-16T20:13:21.000Z",
+      "edit_history_tweet_ids": [
+        "2122422796269625359"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1669276256",
+            "start": 0,
+            "username": "op7418"
+          }
+        ]
+      },
+      "id": "2122422796269625359",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122234773162938545",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@op7418 围墙高是因为上一代把体验做到了极致，Agent 想进场只能先学会拆墙",
+      "url": "https://x.com/jxzsqdtg1/status/2122422796269625359"
+    },
+    {
+      "author_id": "1527820910169841664",
+      "conversation_id": "2122234773162938545",
+      "created_at": "2026-11-16T16:29:17.000Z",
+      "edit_history_tweet_ids": [
+        "2122366404384952746"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1669276256",
+            "start": 0,
+            "username": "op7418"
+          }
+        ]
+      },
+      "id": "2122366404384952746",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122234773162938545",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@op7418 除了围墙，接进来之后的授权也容易出错。我们用 Agent 帮忙管两个 X 号，第一次授权时浏览器还登着另一个号，结果连错了账号。现在每次授权完先核对用户名，对上了才让它发。",
+      "url": "https://x.com/hey404brain/status/2122366404384952746"
+    },
+    {
+      "author_id": "1893290178351161344",
+      "conversation_id": "2122234773162938545",
+      "created_at": "2026-11-16T16:13:09.000Z",
+      "edit_history_tweet_ids": [
+        "2122362346773660029"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1846621591553167360",
+            "start": 0,
+            "username": "YouhaiX86370"
+          },
+          {
+            "end": 21,
+            "id": "1669276256",
+            "start": 14,
+            "username": "op7418"
+          }
+        ]
+      },
+      "id": "2122362346773660029",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 18,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122250319187132451",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@YouhaiX86370 @op7418 我不是人机 哈哈哈",
+      "url": "https://x.com/lv_chen2006/status/2122362346773660029"
+    },
+    {
+      "author_id": "2118740437347483651",
+      "conversation_id": "2122234773162938545",
+      "created_at": "2026-11-16T16:12:52.000Z",
+      "edit_history_tweet_ids": [
+        "2122362273599500491"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1669276256",
+            "start": 0,
+            "username": "op7418"
+          }
+        ]
+      },
+      "id": "2122362273599500491",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122234773162938545",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@op7418 上一代移动互联网把数据全圈在围墙里，Personal Agent 想拿上下文就得拆墙",
+      "url": "https://x.com/jxzsqdtg1/status/2122362273599500491"
+    },
+    {
+      "author_id": "1738010523843608576",
+      "conversation_id": "2122234773162938545",
+      "created_at": "2026-11-16T16:07:38.000Z",
+      "edit_history_tweet_ids": [
+        "2122360955933700391"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1669276256",
+            "start": 0,
+            "username": "op7418"
+          }
+        ]
+      },
+      "id": "2122360955933700391",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 27,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122234773162938545",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@op7418 这个说得真戳。日常的消息、支付、各种App数据都锁在各家里面，Agent想帮你干活，连门都进不去。感觉最先跑通的会是那些围墙本来就矮的小场景。",
+      "url": "https://x.com/zh58703505/status/2122360955933700391"
+    },
+    {
+      "author_id": "723515363476951040",
+      "conversation_id": "2122234773162938545",
+      "created_at": "2026-11-16T15:17:55.000Z",
+      "edit_history_tweet_ids": [
+        "2122348447902920989"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1669276256",
+            "start": 0,
+            "username": "op7418"
+          }
+        ]
+      },
+      "id": "2122348447902920989",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122234773162938545",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@op7418 移动互联网把入口做得太顺，Personal Agent 反而没有必须存在的理由。我的判断标准是：它能不能接住一件跨三个 App、需要中间判断的事，比如按邮件改机票再同步日历。只省一次点击的，都不算。",
+      "url": "https://x.com/VanceXin/status/2122348447902920989"
+    },
+    {
+      "author_id": "723515363476951040",
+      "conversation_id": "2122234773162938545",
+      "created_at": "2026-11-16T14:43:41.000Z",
+      "edit_history_tweet_ids": [
+        "2122339830545997851"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1669276256",
+            "start": 0,
+            "username": "op7418"
+          }
+        ]
+      },
+      "id": "2122339830545997851",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122234773162938545",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@op7418 围墙之外还有一层更现实的：Personal Agent 得借用户的登录态干活。我做这类自动化时，最先卡住的不是它会不会点，是权限给到哪一层——给多了用户不敢开，给少了它干不成。这层协议现在还得每个产品自己重写一遍。",
+      "url": "https://x.com/VanceXin/status/2122339830545997851"
+    },
+    {
+      "author_id": "2113567796617732096",
+      "conversation_id": "2122234773162938545",
+      "created_at": "2026-11-16T14:31:05.000Z",
+      "edit_history_tweet_ids": [
+        "2122336658401988827"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1669276256",
+            "start": 0,
+            "username": "op7418"
+          }
+        ]
+      },
+      "id": "2122336658401988827",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 25,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122234773162938545",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@op7418 我更愿意先给一个小任务需要的权限，做成了再慢慢加。一上来就要我把邮箱、日历、通讯录全连上，确实会犹豫。",
+      "url": "https://x.com/AIwin7722/status/2122336658401988827"
+    },
+    {
+      "author_id": "2118740437347483651",
+      "conversation_id": "2122234773162938545",
+      "created_at": "2026-11-16T14:14:09.000Z",
+      "edit_history_tweet_ids": [
+        "2122332396490297379"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1669276256",
+            "start": 0,
+            "username": "op7418"
+          }
+        ]
+      },
+      "id": "2122332396490297379",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122234773162938545",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@op7418 围墙太高的本质是巨头不愿交出用户注意力入口，Agent 能打的只能是跨 app 的长任务吧",
+      "url": "https://x.com/jxzsqdtg1/status/2122332396490297379"
+    },
+    {
+      "author_id": "723515363476951040",
+      "conversation_id": "2122234773162938545",
+      "created_at": "2026-11-16T13:57:18.000Z",
+      "edit_history_tweet_ids": [
+        "2122328158389329946"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1669276256",
+            "start": 0,
+            "username": "op7418"
+          }
+        ]
+      },
+      "id": "2122328158389329946",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122234773162938545",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@op7418 日历这种看着简单的接口最坑：时区、重复规则、参会人权限，每一样都能让 agent 以为自己改成功了。我现在的验收是改完回读一遍真实事件，再让它把改了什么用一句话复述，对不上就不算完成。",
+      "url": "https://x.com/VanceXin/status/2122328158389329946"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122234672000417792"
+          ]
+        },
+        "author_id": "1669276256",
+        "conversation_id": "2122234773162938545",
+        "created_at": "2026-11-16T07:46:13.000Z",
+        "edit_history_tweet_ids": [
+          "2122234773162938545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "本期简介 / In this episode从黄仁勋辞职的话题聊起，再看 Fable 5.2 如何把场景、动作、音乐装进一个 HT...",
+              "display_url": "youtube.com/watch?v=tBMlXQ…",
+              "end": 173,
+              "expanded_url": "https://www.youtube.com/watch?v=tBMlXQIrYK4",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2122234777558519808/Wrso3-CB?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2122234777558519808/Wrso3-CB?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 150,
+              "status": 200,
+              "title": "EP010 黄仁勋辞职，Fable 杀死比赛，语言即世界",
+              "unwound_url": "https://www.youtube.com/watch?v=tBMlXQIrYK4",
+              "url": "https://t.co/CN1RK0cex9"
+            },
+            {
+              "display_url": "pic.x.com/7NRr8zaAA3",
+              "end": 197,
+              "expanded_url": "https://x.com/op7418/status/2122234773162938545/photo/1",
+              "media_key": "3_2122234672000417792",
+              "start": 174,
+              "url": "https://t.co/7NRr8zaAA3"
+            }
+          ]
+        },
+        "id": "2122234773162938545",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 19258,
+          "like_count": 52,
+          "quote_count": 2,
+          "reply_count": 69,
+          "retweet_count": 6
+        },
+        "text": "第十期 Next Token，我们关于 Personal Agent 这部分讲得太好了！\n\n用 Gemini 4 总结了几条，放在图片里面了\n\n我们就是上一代移动互联网做太好了，导致 Personal Agent 完全没办法做，围墙太高了\n\n其实我们是有 YouTube 的，这里看的话体验更好一些：https://t.co/CN1RK0cex9 https://t.co/7NRr8zaAA3"
+      },
+      {
+        "author_id": "1846621591553167360",
+        "conversation_id": "2122234773162938545",
+        "created_at": "2026-11-16T08:48:00.000Z",
+        "edit_history_tweet_ids": [
+          "2122250319187132451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1669276256",
+              "start": 0,
+              "username": "op7418"
+            }
+          ]
+        },
+        "id": "2122250319187132451",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 267,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122234773162938545",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@op7418 评论区全是ai回复，能有活人的么"
+      }
+    ],
+    "users": [
+      {
+        "id": "2118740437347483651",
+        "name": "Tetribe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118741684473446402/kBFN2sNC_normal.jpg",
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 783,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 509,
+          "tweet_count": 4766
+        },
+        "username": "jxzsqdtg1",
+        "verified": false
+      },
+      {
+        "id": "1527820910169841664",
+        "name": "404brain",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2111903021336567808/7pgNDc_6_normal.png",
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 52,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 71
+        },
+        "username": "hey404brain",
+        "verified": false
+      },
+      {
+        "id": "1893290178351161344",
+        "name": "毛小驴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2112791848142225408/P4QBNl4X_normal.jpg",
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 302,
+          "like_count": 1961,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 398
+        },
+        "username": "lv_chen2006",
+        "verified": false
+      },
+      {
+        "id": "1738010523843608576",
+        "name": "凌霄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042857508344336386/gZ6qZQqf_normal.jpg",
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 93,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "username": "zh58703505",
+        "verified": false
+      },
+      {
+        "id": "723515363476951040",
+        "name": "Feifei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047345745901289472/Ch8w0Uqg_normal.jpg",
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 582,
+          "like_count": 1014,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1131
+        },
+        "username": "VanceXin",
+        "verified": false
+      },
+      {
+        "id": "2113567796617732096",
+        "name": "AIwin！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2121638711461076992/Qi4X9CV8_normal.jpg",
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 61,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 56
+        },
+        "username": "AIwin7722",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122490370491588982",
+    "next_token": "b26v89c19zqg8o3juzow6fg1cmrz8j9pg1nh8n6cdzfct",
+    "oldest_id": "2122328158389329946",
+    "result_count": 15
+  }
+}

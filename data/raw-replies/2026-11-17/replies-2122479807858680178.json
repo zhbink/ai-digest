@@ -1,0 +1,1006 @@
+{
+  "data": [
+    {
+      "author_id": "4892018359",
+      "conversation_id": "2122479807858680178",
+      "created_at": "2026-11-17T00:57:09.000Z",
+      "edit_history_tweet_ids": [
+        "2122494214860919133"
+      ],
+      "entities": {
+        "cashtags": [
+          {
+            "end": 91,
+            "start": 86,
+            "tag": "NVDA"
+          }
+        ],
+        "mentions": [
+          {
+            "end": 9,
+            "id": "740238495952736256",
+            "start": 0,
+            "username": "NVIDIAAI"
+          },
+          {
+            "end": 18,
+            "id": "575776059",
+            "start": 10,
+            "username": "ia_buck"
+          }
+        ]
+      },
+      "id": "2122494214860919133",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122479807858680178",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@NVIDIAAI @ia_buck We don't care anymore,  not until Jensen is back. Until then, fuck $NVDA",
+      "url": "https://x.com/Random_Mcgyver/status/2122494214860919133"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122492550657540097"
+        ]
+      },
+      "author_id": "721921570499768322",
+      "conversation_id": "2122479807858680178",
+      "created_at": "2026-11-17T00:50:35.000Z",
+      "edit_history_tweet_ids": [
+        "2122492561365553451"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "740238495952736256",
+            "start": 0,
+            "username": "NVIDIAAI"
+          },
+          {
+            "end": 18,
+            "id": "575776059",
+            "start": 10,
+            "username": "ia_buck"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/Hkb6uGDEWY",
+            "end": 42,
+            "expanded_url": "https://x.com/gojem18/status/2122492561365553451/photo/1",
+            "media_key": "3_2122492550657540097",
+            "start": 19,
+            "url": "https://t.co/Hkb6uGDEWY"
+          }
+        ]
+      },
+      "id": "2122492561365553451",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122479807858680178",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@NVIDIAAI @ia_buck https://t.co/Hkb6uGDEWY",
+      "url": "https://x.com/gojem18/status/2122492561365553451"
+    },
+    {
+      "author_id": "1213144146648522752",
+      "conversation_id": "2122479807858680178",
+      "created_at": "2026-11-17T00:50:02.000Z",
+      "edit_history_tweet_ids": [
+        "2122492425700536543"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 39,
+            "start": 23,
+            "tag": "BringJensenBack"
+          }
+        ],
+        "mentions": [
+          {
+            "end": 9,
+            "id": "740238495952736256",
+            "start": 0,
+            "username": "NVIDIAAI"
+          },
+          {
+            "end": 18,
+            "id": "575776059",
+            "start": 10,
+            "username": "ia_buck"
+          }
+        ]
+      },
+      "id": "2122492425700536543",
+      "lang": "und",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 20,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122479807858680178",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@NVIDIAAI @ia_buck ...\n#BringJensenBack",
+      "url": "https://x.com/vladimirurik/status/2122492425700536543"
+    },
+    {
+      "author_id": "248951926",
+      "conversation_id": "2122479807858680178",
+      "created_at": "2026-11-17T00:48:41.000Z",
+      "edit_history_tweet_ids": [
+        "2122492083231654052"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "740238495952736256",
+            "start": 0,
+            "username": "NVIDIAAI"
+          },
+          {
+            "end": 18,
+            "id": "575776059",
+            "start": 10,
+            "username": "ia_buck"
+          }
+        ]
+      },
+      "id": "2122492083231654052",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 117,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122479807858680178",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@NVIDIAAI @ia_buck 💪💚",
+      "url": "https://x.com/TheAhmadOsman/status/2122492083231654052"
+    },
+    {
+      "author_id": "2850766649",
+      "conversation_id": "2122479807858680178",
+      "created_at": "2026-11-17T00:45:27.000Z",
+      "edit_history_tweet_ids": [
+        "2122491271164149784"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "740238495952736256",
+            "start": 0,
+            "username": "NVIDIAAI"
+          },
+          {
+            "end": 18,
+            "id": "575776059",
+            "start": 10,
+            "username": "ia_buck"
+          }
+        ]
+      },
+      "id": "2122491271164149784",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122479807858680178",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@NVIDIAAI @ia_buck Not pretending nothing happening",
+      "url": "https://x.com/Derek1White/status/2122491271164149784"
+    },
+    {
+      "author_id": "955232320063090693",
+      "conversation_id": "2122479807858680178",
+      "created_at": "2026-11-17T00:45:07.000Z",
+      "edit_history_tweet_ids": [
+        "2122491186283954607"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "740238495952736256",
+            "start": 0,
+            "username": "NVIDIAAI"
+          },
+          {
+            "end": 18,
+            "id": "575776059",
+            "start": 10,
+            "username": "ia_buck"
+          }
+        ]
+      },
+      "id": "2122491186283954607",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122479807858680178",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@NVIDIAAI @ia_buck The post-training recipes are the real story — labs usually open-source the weights and keep the recipes. And '100% on-prem' matters for science: labs with sensitive data can't ship it to an API. Open models plus recipes is how NVIDIA keeps researchers on its stack.",
+      "url": "https://x.com/TheEaglegon/status/2122491186283954607"
+    },
+    {
+      "author_id": "762120336599048192",
+      "conversation_id": "2122479807858680178",
+      "created_at": "2026-11-17T00:43:31.000Z",
+      "edit_history_tweet_ids": [
+        "2122490785929351487"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "740238495952736256",
+            "start": 0,
+            "username": "NVIDIAAI"
+          },
+          {
+            "end": 18,
+            "id": "575776059",
+            "start": 10,
+            "username": "ia_buck"
+          }
+        ]
+      },
+      "id": "2122490785929351487",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 84,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122479807858680178",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@NVIDIAAI @ia_buck Bring back Jensen.",
+      "url": "https://x.com/TSLASPCX1e80/status/2122490785929351487"
+    },
+    {
+      "author_id": "126902848",
+      "conversation_id": "2122479807858680178",
+      "created_at": "2026-11-17T00:41:07.000Z",
+      "edit_history_tweet_ids": [
+        "2122490180749943235"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "740238495952736256",
+            "start": 0,
+            "username": "NVIDIAAI"
+          },
+          {
+            "end": 18,
+            "id": "575776059",
+            "start": 10,
+            "username": "ia_buck"
+          }
+        ]
+      },
+      "id": "2122490180749943235",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122479807858680178",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@NVIDIAAI @ia_buck science agents need a soak test more than a benchmark. mine went live after 13 of 13 soak lines held and both kill tests stayed green.",
+      "url": "https://x.com/petrusenko_max/status/2122490180749943235"
+    },
+    {
+      "author_id": "19033875",
+      "conversation_id": "2122479807858680178",
+      "created_at": "2026-11-17T00:40:38.000Z",
+      "edit_history_tweet_ids": [
+        "2122490057621979538"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "740238495952736256",
+            "start": 0,
+            "username": "NVIDIAAI"
+          },
+          {
+            "end": 18,
+            "id": "575776059",
+            "start": 10,
+            "username": "ia_buck"
+          }
+        ]
+      },
+      "id": "2122490057621979538",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122479807858680178",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@NVIDIAAI @ia_buck I like that the pitch is agents that check their own results and adjust. That's the difference between a demo and something you'd actually leave running.",
+      "url": "https://x.com/arangs/status/2122490057621979538"
+    },
+    {
+      "author_id": "1684690852562808834",
+      "conversation_id": "2122479807858680178",
+      "created_at": "2026-11-17T00:40:23.000Z",
+      "edit_history_tweet_ids": [
+        "2122489996968108341"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "740238495952736256",
+            "start": 0,
+            "username": "NVIDIAAI"
+          },
+          {
+            "end": 18,
+            "id": "575776059",
+            "start": 10,
+            "username": "ia_buck"
+          }
+        ]
+      },
+      "id": "2122489996968108341",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 57,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122479807858680178",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@NVIDIAAI @ia_buck Being back Jensen.",
+      "url": "https://x.com/1BeaverBeliever/status/2122489996968108341"
+    },
+    {
+      "author_id": "367758592",
+      "conversation_id": "2122479807858680178",
+      "created_at": "2026-11-17T00:40:13.000Z",
+      "edit_history_tweet_ids": [
+        "2122489952776663117"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 35,
+            "start": 19,
+            "tag": "BringJensenBack"
+          }
+        ],
+        "mentions": [
+          {
+            "end": 9,
+            "id": "740238495952736256",
+            "start": 0,
+            "username": "NVIDIAAI"
+          },
+          {
+            "end": 18,
+            "id": "575776059",
+            "start": 10,
+            "username": "ia_buck"
+          }
+        ]
+      },
+      "id": "2122489952776663117",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122479807858680178",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@NVIDIAAI @ia_buck #BringJensenBack",
+      "url": "https://x.com/JOTADESTROY/status/2122489952776663117"
+    },
+    {
+      "author_id": "885268558493745152",
+      "conversation_id": "2122479807858680178",
+      "created_at": "2026-11-17T00:40:13.000Z",
+      "edit_history_tweet_ids": [
+        "2122489951543808468"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "740238495952736256",
+            "start": 0,
+            "username": "NVIDIAAI"
+          },
+          {
+            "end": 18,
+            "id": "575776059",
+            "start": 10,
+            "username": "ia_buck"
+          }
+        ]
+      },
+      "id": "2122489951543808468",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122479807858680178",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@NVIDIAAI @ia_buck no jensen no buy",
+      "url": "https://x.com/deathcripple/status/2122489951543808468"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2122488154917900288"
+        ]
+      },
+      "author_id": "1724406210160693248",
+      "conversation_id": "2122479807858680178",
+      "created_at": "2026-11-17T00:33:09.000Z",
+      "edit_history_tweet_ids": [
+        "2122488176187232728"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "740238495952736256",
+            "start": 0,
+            "username": "NVIDIAAI"
+          },
+          {
+            "end": 18,
+            "id": "575776059",
+            "start": 10,
+            "username": "ia_buck"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/0Tl0jMkdFi",
+            "end": 42,
+            "expanded_url": "https://x.com/handler_sn25912/status/2122488176187232728/photo/1",
+            "media_key": "16_2122488154917900288",
+            "start": 19,
+            "url": "https://t.co/0Tl0jMkdFi"
+          }
+        ]
+      },
+      "id": "2122488176187232728",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 61,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122479807858680178",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@NVIDIAAI @ia_buck https://t.co/0Tl0jMkdFi",
+      "url": "https://x.com/handler_sn25912/status/2122488176187232728"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122485247992377345"
+        ]
+      },
+      "author_id": "42044899",
+      "conversation_id": "2122479807858680178",
+      "created_at": "2026-11-17T00:21:37.000Z",
+      "edit_history_tweet_ids": [
+        "2122485274035036569"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "740238495952736256",
+            "start": 0,
+            "username": "NVIDIAAI"
+          },
+          {
+            "end": 18,
+            "id": "575776059",
+            "start": 10,
+            "username": "ia_buck"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/6Lrqn0aoUB",
+            "end": 42,
+            "expanded_url": "https://x.com/Ciqax/status/2122485274035036569/photo/1",
+            "media_key": "3_2122485247992377345",
+            "start": 19,
+            "url": "https://t.co/6Lrqn0aoUB"
+          }
+        ]
+      },
+      "id": "2122485274035036569",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 87,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122479807858680178",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@NVIDIAAI @ia_buck https://t.co/6Lrqn0aoUB",
+      "url": "https://x.com/Ciqax/status/2122485274035036569"
+    },
+    {
+      "author_id": "1935926558629437440",
+      "conversation_id": "2122479807858680178",
+      "created_at": "2026-11-17T00:21:28.000Z",
+      "edit_history_tweet_ids": [
+        "2122485235891982551"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "740238495952736256",
+            "start": 0,
+            "username": "NVIDIAAI"
+          },
+          {
+            "end": 18,
+            "id": "575776059",
+            "start": 10,
+            "username": "ia_buck"
+          }
+        ]
+      },
+      "id": "2122485235891982551",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122479807858680178",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@NVIDIAAI @ia_buck From 2027 to 2030, AI agents take over white collar work. Whole companies will run on agents.",
+      "url": "https://x.com/runthenumberz/status/2122485235891982551"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_2122492550657540097",
+        "type": "photo"
+      },
+      {
+        "media_key": "16_2122488154917900288",
+        "type": "animated_gif"
+      },
+      {
+        "media_key": "3_2122485247992377345",
+        "type": "photo"
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122477057909362688"
+          ]
+        },
+        "author_id": "740238495952736256",
+        "conversation_id": "2122479807858680178",
+        "created_at": "2026-11-16T23:59:54.000Z",
+        "edit_history_tweet_ids": [
+          "2122479807858680178"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 59,
+              "tag": "SC26"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E15ssb1m1E",
+              "end": 303,
+              "expanded_url": "https://x.com/NVIDIAAI/status/2122479807858680178/photo/1",
+              "media_key": "3_2122477057909362688",
+              "start": 280,
+              "url": "https://t.co/E15ssb1m1E"
+            }
+          ]
+        },
+        "id": "2122479807858680178",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 59,
+                "tag": "SC26"
+              }
+            ]
+          },
+          "text": "Introducing NVIDIA Nemotron for Science, just announced at #SC26 by Ian Buck, our VP of Hyperscale and High-Performance Computing.\n\nThe collection includes open models, datasets, tools, and post-training recipes to help researchers build more accurate and efficient AI agents for science. Agents can plan tasks, run simulations, check results, and adjust as they go."
+        },
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 10169,
+          "like_count": 174,
+          "quote_count": 11,
+          "reply_count": 24,
+          "retweet_count": 20
+        },
+        "text": "Introducing NVIDIA Nemotron for Science, just announced at #SC26 by Ian Buck, our VP of Hyperscale and High-Performance Computing.\n\nThe collection includes open models, datasets, tools, and post-training recipes to help researchers build more accurate and efficient AI agents for https://t.co/E15ssb1m1E"
+      }
+    ],
+    "users": [
+      {
+        "id": "4892018359",
+        "name": "A",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/697709368108658689/_rpyTP8I_normal.jpg",
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 104,
+          "like_count": 263,
+          "listed_count": 2,
+          "media_count": 623,
+          "tweet_count": 4728
+        },
+        "username": "Random_Mcgyver",
+        "verified": false
+      },
+      {
+        "id": "721921570499768322",
+        "name": "Jimmy Harjadi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093855293855948800/FbCDof8n_normal.jpg",
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 72,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 223
+        },
+        "username": "gojem18",
+        "verified": false
+      },
+      {
+        "id": "1213144146648522752",
+        "name": "Vladimír Urík",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944889140224339968/ldFW8w7B_normal.jpg",
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 319,
+          "like_count": 1388,
+          "listed_count": 2,
+          "media_count": 3,
+          "tweet_count": 176
+        },
+        "username": "vladimirurik",
+        "verified": false
+      },
+      {
+        "id": "248951926",
+        "name": "Ahmad",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831406651829559296/iMbSOxdP_normal.jpg",
+        "public_metrics": {
+          "followers_count": 81244,
+          "following_count": 532,
+          "like_count": 71218,
+          "listed_count": 1088,
+          "media_count": 4340,
+          "tweet_count": 27864
+        },
+        "username": "TheAhmadOsman",
+        "verified": false
+      },
+      {
+        "id": "2850766649",
+        "name": "Derek White",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014563336956837888/q0vMx0lu_normal.jpg",
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 156,
+          "like_count": 902,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 700
+        },
+        "username": "Derek1White",
+        "verified": false
+      },
+      {
+        "id": "955232320063090693",
+        "name": "Eaglegon | AI × Chips",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/955237069126709248/RP5rUpcK_normal.jpg",
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 1913,
+          "like_count": 3356,
+          "listed_count": 6,
+          "media_count": 654,
+          "tweet_count": 9210
+        },
+        "username": "TheEaglegon",
+        "verified": false
+      },
+      {
+        "id": "762120336599048192",
+        "name": "Ki🐙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1074109289411895296/VVNbt4rI_normal.jpg",
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 1840,
+          "like_count": 133674,
+          "listed_count": 11,
+          "media_count": 2986,
+          "tweet_count": 26496
+        },
+        "username": "TSLASPCX1e80",
+        "verified": false
+      },
+      {
+        "id": "126902848",
+        "name": "Max Petrusenko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858539707908431872/rlyEuFwz_normal.jpg",
+        "public_metrics": {
+          "followers_count": 22370,
+          "following_count": 15855,
+          "like_count": 47877,
+          "listed_count": 92,
+          "media_count": 13024,
+          "tweet_count": 208223
+        },
+        "username": "petrusenko_max",
+        "verified": false
+      },
+      {
+        "id": "19033875",
+        "name": "arangamani",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1248727132471037952/bl8V0dbu_normal.jpg",
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 202,
+          "like_count": 342,
+          "listed_count": 8,
+          "media_count": 50,
+          "tweet_count": 902
+        },
+        "username": "arangs",
+        "verified": false
+      },
+      {
+        "id": "1684690852562808834",
+        "name": "Beav w. Standards!!",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834370965033418752/qPz5Tc4p_normal.png",
+        "public_metrics": {
+          "followers_count": 1894,
+          "following_count": 7079,
+          "like_count": 166608,
+          "listed_count": 8,
+          "media_count": 141,
+          "tweet_count": 32077
+        },
+        "username": "1BeaverBeliever",
+        "verified": false
+      },
+      {
+        "id": "367758592",
+        "name": "JOTA242 (e/acc)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966811199464488960/CbomrvZy_normal.jpg",
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 381,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 9712
+        },
+        "username": "JOTADESTROY",
+        "verified": false
+      },
+      {
+        "id": "885268558493745152",
+        "name": "death cripple",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866983084547002368/Q0-08D5g_normal.jpg",
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 131,
+          "like_count": 887,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 578
+        },
+        "username": "deathcripple",
+        "verified": false
+      },
+      {
+        "id": "1724406210160693248",
+        "name": "Snake Handler 🏴‍☠️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069302252213518336/quJaz1B1_normal.jpg",
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 47,
+          "like_count": 3253,
+          "listed_count": 7,
+          "media_count": 2935,
+          "tweet_count": 11340
+        },
+        "username": "handler_sn25912",
+        "verified": false
+      },
+      {
+        "id": "42044899",
+        "name": "cognito",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827892281631985664/Au738ubH_normal.jpg",
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 825,
+          "like_count": 67061,
+          "listed_count": 7,
+          "media_count": 442,
+          "tweet_count": 4976
+        },
+        "username": "Ciqax",
+        "verified": false
+      },
+      {
+        "id": "1935926558629437440",
+        "name": "Digital Consciousness",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022471870713675776/dc0fyHM6_normal.jpg",
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 30,
+          "like_count": 6994,
+          "listed_count": 0,
+          "media_count": 382,
+          "tweet_count": 6620
+        },
+        "username": "runthenumberz",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122494214860919133",
+    "next_token": "b26v89c19zqg8o3juzow6hmk3zbx9qiykdiu9yxale2d9",
+    "oldest_id": "2122485235891982551",
+    "result_count": 15
+  }
+}

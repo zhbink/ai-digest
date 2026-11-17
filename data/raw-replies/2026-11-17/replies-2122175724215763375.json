@@ -1,0 +1,828 @@
+{
+  "data": [
+    {
+      "author_id": "2829222264",
+      "conversation_id": "2122175724215763375",
+      "created_at": "2026-11-17T00:42:07.000Z",
+      "edit_history_tweet_ids": [
+        "2122490430470443443"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1974653328274714624",
+            "start": 0,
+            "username": "AYi_AInotes"
+          }
+        ]
+      },
+      "id": "2122490430470443443",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122175724215763375",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 改一层这个事，做短剧的没几个有耐心。一条片子三五秒，抽废了直接换模型重来，比坐下来拆提示词快。真按层改的，多半是被甲方退过几版。",
+      "url": "https://x.com/isotankGG/status/2122490430470443443"
+    },
+    {
+      "author_id": "1879868120032280576",
+      "conversation_id": "2122175724215763375",
+      "created_at": "2026-11-16T11:10:43.000Z",
+      "edit_history_tweet_ids": [
+        "2122286234840256938"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1974653328274714624",
+            "start": 0,
+            "username": "AYi_AInotes"
+          }
+        ]
+      },
+      "id": "2122286234840256938",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122175724215763375",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 感恩的心",
+      "url": "https://x.com/Kingsdaddy888/status/2122286234840256938"
+    },
+    {
+      "author_id": "1505399093803159559",
+      "conversation_id": "2122175724215763375",
+      "created_at": "2026-11-16T05:51:47.000Z",
+      "edit_history_tweet_ids": [
+        "2122205971892027801"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1974653328274714624",
+            "start": 0,
+            "username": "AYi_AInotes"
+          }
+        ]
+      },
+      "id": "2122205971892027801",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122175724215763375",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 一抽废就整段重写，我以前也这样，改好了还不知道是哪句生效。后来逼自己每次只改一层，返工少了不少。做教科书动画也是这么省下来的。",
+      "url": "https://x.com/yanjingshen1/status/2122205971892027801"
+    },
+    {
+      "author_id": "2004806049384333313",
+      "conversation_id": "2122175724215763375",
+      "created_at": "2026-11-16T05:44:52.000Z",
+      "edit_history_tweet_ids": [
+        "2122204231331635234"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1974653328274714624",
+            "start": 0,
+            "username": "AYi_AInotes"
+          }
+        ]
+      },
+      "id": "2122204231331635234",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122175724215763375",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 很清晰诶",
+      "url": "https://x.com/Kiki9zpr/status/2122204231331635234"
+    },
+    {
+      "author_id": "1992573103734652928",
+      "conversation_id": "2122175724215763375",
+      "created_at": "2026-11-16T05:44:17.000Z",
+      "edit_history_tweet_ids": [
+        "2122204085546024970"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1974653328274714624",
+            "start": 0,
+            "username": "AYi_AInotes"
+          }
+        ]
+      },
+      "id": "2122204085546024970",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122175724215763375",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 除了记“改了哪一层”，我还想给废片留一个很短的淘汰原因：角色变脸、动作不对、镜头衔接不上，还是单纯不好看。否则同样叫“抽废”，其实在修不同的问题。Miller 在回复里那句边界也很重要：控制变量让调整有依据，不等于把生成变成确定结果。",
+      "url": "https://x.com/sahuaja3669/status/2122204085546024970"
+    },
+    {
+      "author_id": "1897585866123698176",
+      "conversation_id": "2122175724215763375",
+      "created_at": "2026-11-16T05:38:39.000Z",
+      "edit_history_tweet_ids": [
+        "2122202669821636684"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1974653328274714624",
+            "start": 0,
+            "username": "AYi_AInotes"
+          }
+        ]
+      },
+      "id": "2122202669821636684",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 24,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122175724215763375",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 控制变量确实管用。很多人一抽废就把运镜、主体动作和光影全改一遍，最后根本分不清是哪句词把画面带崩的；先把首帧和镜头定死再单改动作，能少走很多弯路。",
+      "url": "https://x.com/ajia1206/status/2122202669821636684"
+    },
+    {
+      "author_id": "2110946850757033985",
+      "conversation_id": "2122175724215763375",
+      "created_at": "2026-11-16T04:58:54.000Z",
+      "edit_history_tweet_ids": [
+        "2122192666096247139"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1974653328274714624",
+            "start": 0,
+            "username": "AYi_AInotes"
+          }
+        ]
+      },
+      "id": "2122192666096247139",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122175724215763375",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 不做视频的人也能抄这招：让 AI 写周报、做 PPT，不满意时别把要求整段重写，只改一句，看结果变没变。\n\n顺手把每次改了哪句记在备忘录里，下次直接从好用的那版开始。\n\n好奇那多抽的 9 次，主要卡在哪一层？",
+      "url": "https://x.com/xiaoxian_ai/status/2122192666096247139"
+    },
+    {
+      "author_id": "2829222264",
+      "conversation_id": "2122175724215763375",
+      "created_at": "2026-11-16T04:53:07.000Z",
+      "edit_history_tweet_ids": [
+        "2122191210693734599"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1974653328274714624",
+            "start": 0,
+            "username": "AYi_AInotes"
+          }
+        ]
+      },
+      "id": "2122191210693734599",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 20,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122175724215763375",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 只改一层是对的，可 Claude 改完你还是要自己看一遍，它经常把镜头语言改成形容词堆砌。",
+      "url": "https://x.com/isotankGG/status/2122191210693734599"
+    },
+    {
+      "author_id": "2087822890834300928",
+      "conversation_id": "2122175724215763375",
+      "created_at": "2026-11-16T04:43:37.000Z",
+      "edit_history_tweet_ids": [
+        "2122188820892488032"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1974653328274714624",
+            "start": 0,
+            "username": "AYi_AInotes"
+          }
+        ]
+      },
+      "id": "2122188820892488032",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122175724215763375",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 一抽废就换模型说的就是我本人，手贱我认了",
+      "url": "https://x.com/FootballAnt247/status/2122188820892488032"
+    },
+    {
+      "author_id": "1669077181006495746",
+      "conversation_id": "2122175724215763375",
+      "created_at": "2026-11-16T04:41:27.000Z",
+      "edit_history_tweet_ids": [
+        "2122188273854583044"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1974653328274714624",
+            "start": 0,
+            "username": "AYi_AInotes"
+          }
+        ]
+      },
+      "id": "2122188273854583044",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 23,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122175724215763375",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 把提示词拆层、一次只改一个变量，确实比整段推倒重来更可复现。AI 视频要稳定出片，关键是建立能定位问题、随时回退的迭代流程。",
+      "url": "https://x.com/FitchReed313703/status/2122188273854583044"
+    },
+    {
+      "author_id": "876639636717568001",
+      "conversation_id": "2122175724215763375",
+      "created_at": "2026-11-16T04:34:03.000Z",
+      "edit_history_tweet_ids": [
+        "2122186411751444805"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1974653328274714624",
+            "start": 0,
+            "username": "AYi_AInotes"
+          }
+        ]
+      },
+      "id": "2122186411751444805",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 20,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122175724215763375",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 先锁死画风和角色再只改问题层，可以的！",
+      "url": "https://x.com/AIVideoLabTests/status/2122186411751444805"
+    },
+    {
+      "author_id": "1827594807272992770",
+      "conversation_id": "2122175724215763375",
+      "created_at": "2026-11-16T04:25:28.000Z",
+      "edit_history_tweet_ids": [
+        "2122184253354209581"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1974653328274714624",
+            "start": 0,
+            "username": "AYi_AInotes"
+          }
+        ]
+      },
+      "id": "2122184253354209581",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 51,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122175724215763375",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 这个真不错，补充一个经验，我是用提示词先出故事板，用故事板来确定是否符合预期，再回改提示词去生视频，故事板本身不喂seedance，这样也能减少抽卡",
+      "url": "https://x.com/rajesh_aigc/status/2122184253354209581"
+    },
+    {
+      "author_id": "1992573103734652928",
+      "conversation_id": "2122175724215763375",
+      "created_at": "2026-11-16T04:21:03.000Z",
+      "edit_history_tweet_ids": [
+        "2122183141137973285"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1974653328274714624",
+            "start": 0,
+            "username": "AYi_AInotes"
+          }
+        ]
+      },
+      "id": "2122183141137973285",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122175727076360248",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 那一行日志里最值得留下的，可能是“我原本以为哪里出了问题”。不然过两天只剩版本A比B好，却忘了为什么这么改。把猜想也存下来，下次遇到类似画面，才不是重新抽一次经验。",
+      "url": "https://x.com/sahuaja3669/status/2122183141137973285"
+    },
+    {
+      "author_id": "2068330055596675072",
+      "conversation_id": "2122175724215763375",
+      "created_at": "2026-11-16T04:06:08.000Z",
+      "edit_history_tweet_ids": [
+        "2122179385633747282"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1974653328274714624",
+            "start": 0,
+            "username": "AYi_AInotes"
+          }
+        ]
+      },
+      "id": "2122179385633747282",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 23,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122175724215763375",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 学到了，下次实操一下",
+      "url": "https://x.com/yangleiocx3/status/2122179385633747282"
+    },
+    {
+      "author_id": "2053800927858167808",
+      "conversation_id": "2122175724215763375",
+      "created_at": "2026-11-16T04:00:09.000Z",
+      "edit_history_tweet_ids": [
+        "2122177879970594953"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1974653328274714624",
+            "start": 0,
+            "username": "AYi_AInotes"
+          }
+        ]
+      },
+      "id": "2122177879970594953",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122175727076360248",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 一次只改一层，改崩了也知道是哪层出的事",
+      "url": "https://x.com/404latitude/status/2122177879970594953"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122166502291857408"
+          ]
+        },
+        "author_id": "1974653328274714624",
+        "conversation_id": "2122175724215763375",
+        "created_at": "2026-11-16T03:51:35.000Z",
+        "edit_history_tweet_ids": [
+          "2122175724215763375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9wWG0Hh2yX",
+              "end": 137,
+              "expanded_url": "https://x.com/AYi_AInotes/status/2122175724215763375/video/1",
+              "media_key": "13_2122166502291857408",
+              "start": 114,
+              "url": "https://t.co/9wWG0Hh2yX"
+            },
+            {
+              "display_url": "x.com/TuyetloanP8184…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/TuyetloanP81840/status/2122117988774236424",
+              "start": 138,
+              "url": "https://t.co/kDV2AxdPv7"
+            }
+          ]
+        },
+        "id": "2122175724215763375",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "看完这篇我彻底悟了，甚至忍不住想说个暴论，90%的人用AI视频抽卡抽到崩溃，根本原因就两个字，手贱，\n铁汁们，别再一抽废就换模型了，把这篇的七层提示词丢给 Claude，让它对着你的素材只改一层，做 AI 短剧的建议直接收藏。\n大家是不是也经历过每次一抽废就把整段提示词删了重写，改完之后抽好了不知道是哪句起作用，抽废了也不知道该退回哪一步，\n讲真这和蒙着眼睛调参数没任何区别哈哈，\n\n想起我之前做AIGC工作流也老犯这个毛病，一跑偏就全盘推翻重写，后来逼自己每次只改一个约束条件，整个效率才真正跑顺，\n\n咱们看下Miller的《醒醒，我饿了》实操数据：43段镜头只抽了52次，多抽的只有9次，他干的事说白了就是把玄学抽卡改造成了软件工程里的控制变量法，\n\n先用锁定卡把画风光线和角色称呼彻底写死，\n等于给系统定死基准线，再用七层架构拆解镜头，\n每次抽废了只动出问题的那一层，其他一个字不改，\n\n我一直觉得不管是做AI短剧，还是平时写代码写文案，只要你还在靠反复重写整段提示词碰运气，\n\n你就永远只是个给模型打工的抽卡员，真正能把AI变成生产力的人，都在干同一件事，\n\n把模型可以瞎猜的自由度一点点关进笼子里，把概率游戏变成确定性流水线。"
+        },
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 5203,
+          "like_count": 113,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122117988774236424",
+            "type": "quoted"
+          }
+        ],
+        "text": "看完这篇我彻底悟了，甚至忍不住想说个暴论，90%的人用AI视频抽卡抽到崩溃，根本原因就两个字，手贱，\n铁汁们，别再一抽废就换模型了，把这篇的七层提示词丢给 Claude，让它对着你的素材只改一层，做 AI 短剧的建议直接收藏。 https://t.co/9wWG0Hh2yX https://t.co/kDV2AxdPv7"
+      },
+      {
+        "author_id": "1974653328274714624",
+        "conversation_id": "2122175724215763375",
+        "created_at": "2026-11-16T03:51:36.000Z",
+        "edit_history_tweet_ids": [
+          "2122175727076360248"
+        ],
+        "id": "2122175727076360248",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 639,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122175724215763375",
+            "type": "replied_to"
+          }
+        ],
+        "text": "补充一点，他那个一次只改一层的思路，其实可以直接迁移到所有复杂Agent的提示词调试上，改完记一行日志，一周下来沉淀的资产比买十套提示词库都管用哈哈"
+      }
+    ],
+    "users": [
+      {
+        "id": "2829222264",
+        "name": "MING",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118350555055853568/2oDa9zkG_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1902,
+          "following_count": 1930,
+          "like_count": 9079,
+          "listed_count": 2,
+          "media_count": 149,
+          "tweet_count": 13248
+        },
+        "username": "isotankGG",
+        "verified": false
+      },
+      {
+        "id": "1879868120032280576",
+        "name": "-YamiDaddy-",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099774789703573504/RsPespXU_normal.jpg",
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 1377,
+          "like_count": 1599,
+          "listed_count": 0,
+          "media_count": 248,
+          "tweet_count": 1298
+        },
+        "username": "Kingsdaddy888",
+        "verified": false
+      },
+      {
+        "id": "1505399093803159559",
+        "name": "妍精神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115600943236722689/nYEOgcIG_normal.jpg",
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 119,
+          "like_count": 328,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 652
+        },
+        "username": "yanjingshen1",
+        "verified": false
+      },
+      {
+        "id": "2004806049384333313",
+        "name": "Kiki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078475970462240769/L5PDCI1K_normal.jpg",
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 157,
+          "like_count": 2546,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 664
+        },
+        "username": "Kiki9zpr",
+        "verified": false
+      },
+      {
+        "id": "1992573103734652928",
+        "name": "老王实验室",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107470619965353984/taQsgPb4_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 1060,
+          "like_count": 3138,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 5953
+        },
+        "username": "sahuaja3669",
+        "verified": false
+      },
+      {
+        "id": "1897585866123698176",
+        "name": "ajia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108849934925742080/TflmeOVb_normal.jpg",
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 131,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 339
+        },
+        "username": "ajia1206",
+        "verified": false
+      },
+      {
+        "id": "2110946850757033985",
+        "name": "小贤 AI 编程实测",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110950439843926017/VxXD5LBZ_normal.png",
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 47,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 197
+        },
+        "username": "xiaoxian_ai",
+        "verified": false
+      },
+      {
+        "id": "2087822890834300928",
+        "name": "Leo 林晓｜AI视频",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109931612217524224/S0Ai4T_e_normal.jpg",
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 99,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 1438
+        },
+        "username": "FootballAnt247",
+        "verified": false
+      },
+      {
+        "id": "1669077181006495746",
+        "name": "Fitch Reed",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1669077270823325696/6IrCjc8p_normal.jpg",
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 167,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 113
+        },
+        "username": "FitchReed313703",
+        "verified": false
+      },
+      {
+        "id": "876639636717568001",
+        "name": "屿川Yuchuan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116173110051483648/bSnPhm1I_normal.jpg",
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 230,
+          "like_count": 245,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 491
+        },
+        "username": "AIVideoLabTests",
+        "verified": false
+      },
+      {
+        "id": "1827594807272992770",
+        "name": "Rajesh｜用 agent 做 AI 视频",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120350485970665472/fQZeXrOS_normal.jpg",
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 32,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 64
+        },
+        "username": "rajesh_aigc",
+        "verified": false
+      },
+      {
+        "id": "2068330055596675072",
+        "name": "阿磊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097886694062088199/Kc64L72f_normal.jpg",
+        "public_metrics": {
+          "followers_count": 9072,
+          "following_count": 2964,
+          "like_count": 6558,
+          "listed_count": 35,
+          "media_count": 293,
+          "tweet_count": 9851
+        },
+        "username": "yangleiocx3",
+        "verified": false
+      },
+      {
+        "id": "2053800927858167808",
+        "name": "404资源库",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068986008352493568/RyrS6e1I_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2921,
+          "following_count": 3428,
+          "like_count": 533,
+          "listed_count": 6,
+          "media_count": 408,
+          "tweet_count": 17090
+        },
+        "username": "404latitude",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122490430470443443",
+    "next_token": "b26v89c19zqg8o3juzow6b82ymloirjatersezov51bp9",
+    "oldest_id": "2122177879970594953",
+    "result_count": 15
+  }
+}

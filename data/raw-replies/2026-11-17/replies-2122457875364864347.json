@@ -1,0 +1,658 @@
+{
+  "data": [
+    {
+      "author_id": "2067127310390800384",
+      "created_at": "2026-11-17T00:09:45.000Z",
+      "edit_history_tweet_ids": [
+        "2122482287468290263"
+      ],
+      "id": "2122482287468290263",
+      "in_reply_to_user_id": "4686835494",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122457875364864347",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vercel Dropping private/self-hosted models into AI Gateway is a solid move for students and small teams. Side note for students budgeting API spend: GitHub Copilot Student stays free while verified (rechecked monthly), and the free Copilot tier caps at 2,000 completions/mo.",
+      "url": "https://x.com/ChuanKangKk_nb/status/2122482287468290263"
+    },
+    {
+      "author_id": "1770129312244457472",
+      "created_at": "2026-11-17T00:08:39.000Z",
+      "edit_history_tweet_ids": [
+        "2122482009100460202"
+      ],
+      "id": "2122482009100460202",
+      "in_reply_to_user_id": "4686835494",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122457875364864347",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vercel same api for self hosted is huge",
+      "url": "https://x.com/ZeroClickz/status/2122482009100460202"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122480660350722048"
+        ]
+      },
+      "author_id": "2106743812613603329",
+      "created_at": "2026-11-17T00:03:21.000Z",
+      "edit_history_tweet_ids": [
+        "2122480675303420268"
+      ],
+      "id": "2122480675303420268",
+      "in_reply_to_user_id": "4686835494",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122457875364864347",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vercel Huge for agent swarms routing between frontier planners and zero-data-retention local weights for sensitive repo diffs. One gateway interface saves rewriting model providers across loop tools. ⚡ https://t.co/PTfje9En9Q",
+      "url": "https://x.com/orcatron007/status/2122480675303420268"
+    },
+    {
+      "author_id": "951137204738445318",
+      "created_at": "2026-11-16T23:53:43.000Z",
+      "edit_history_tweet_ids": [
+        "2122478249292820621"
+      ],
+      "id": "2122478249292820621",
+      "in_reply_to_user_id": "4686835494",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 17,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122457875364864347",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vercel Same API and logs for your own fine-tunes is the useful part.\n\nDoes self-hosted include a Mac at home, or does it need a real cloud endpoint?",
+      "url": "https://x.com/Icarusdissident/status/2122478249292820621"
+    },
+    {
+      "author_id": "1771094091792564224",
+      "created_at": "2026-11-16T23:36:03.000Z",
+      "edit_history_tweet_ids": [
+        "2122473806551732318"
+      ],
+      "id": "2122473806551732318",
+      "in_reply_to_user_id": "4686835494",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 17,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122457875364864347",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vercel routing custom weights through the same interface makes local testing so much smoother",
+      "url": "https://x.com/its_izecube/status/2122473806551732318"
+    },
+    {
+      "author_id": "1559851673291481088",
+      "created_at": "2026-11-16T23:35:25.000Z",
+      "edit_history_tweet_ids": [
+        "2122473646371508692"
+      ],
+      "id": "2122473646371508692",
+      "in_reply_to_user_id": "4686835494",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 36,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122457875364864347",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vercel the gateway ends up holding every provider key and seeing every prompt. that's the box i'd go after first",
+      "url": "https://x.com/yagcidev/status/2122473646371508692"
+    },
+    {
+      "author_id": "920996574083321856",
+      "created_at": "2026-11-16T23:35:14.000Z",
+      "edit_history_tweet_ids": [
+        "2122473599269503044"
+      ],
+      "id": "2122473599269503044",
+      "in_reply_to_user_id": "920996574083321856",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122465727265513973",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vercel A banger, as the kids the say",
+      "url": "https://x.com/Zraic/status/2122473599269503044"
+    },
+    {
+      "author_id": "1865959210166403072",
+      "created_at": "2026-11-16T23:29:24.000Z",
+      "edit_history_tweet_ids": [
+        "2122472131111866775"
+      ],
+      "id": "2122472131111866775",
+      "in_reply_to_user_id": "4686835494",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 16,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122457875364864347",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vercel does private inference mean providers dont retain prompts, or only that traffic skips the public internet?",
+      "url": "https://x.com/clhdev/status/2122472131111866775"
+    },
+    {
+      "author_id": "2113482401334865920",
+      "created_at": "2026-11-16T23:26:45.000Z",
+      "edit_history_tweet_ids": [
+        "2122471466147221671"
+      ],
+      "id": "2122471466147221671",
+      "in_reply_to_user_id": "4686835494",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 16,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122457875364864347",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vercel Using your own fine-tuned or self-hosted model alongside catalog models through the same APIs and auth removes a lot of switching cost. That consistency is what makes private inference practical to price and operate, not just to run.",
+      "url": "https://x.com/CompCloudCosts/status/2122471466147221671"
+    },
+    {
+      "author_id": "2022146499040489472",
+      "created_at": "2026-11-16T23:17:10.000Z",
+      "edit_history_tweet_ids": [
+        "2122469053834948812"
+      ],
+      "id": "2122469053834948812",
+      "in_reply_to_user_id": "4686835494",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122457875364864347",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vercel private inference being a launch tells me enterprises don't trust the default path. if it needs a special tier, what exactly was the regular tier doing with prompts? curious if anyone here read the actual retention terms",
+      "url": "https://x.com/bobolv235824/status/2122469053834948812"
+    },
+    {
+      "author_id": "2116840960852447234",
+      "created_at": "2026-11-16T23:17:10.000Z",
+      "edit_history_tweet_ids": [
+        "2122469052950122577"
+      ],
+      "id": "2122469052950122577",
+      "in_reply_to_user_id": "4686835494",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122457875364864347",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vercel when you blame AI for a reboot, you forget the guy who pressed ‘update’ at 3 am.",
+      "url": "https://x.com/Harryngarry/status/2122469052950122577"
+    },
+    {
+      "author_id": "1978409518943096832",
+      "created_at": "2026-11-16T23:16:27.000Z",
+      "edit_history_tweet_ids": [
+        "2122468871240335645"
+      ],
+      "id": "2122468871240335645",
+      "in_reply_to_user_id": "4686835494",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122457875364864347",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vercel A shared API makes model swaps easier, but the operational boundary still matters. Can a private model be configured to fail closed rather than fall back to a catalog model when its endpoint is unavailable? That would make the private/ prefix much easier to reason about.",
+      "url": "https://x.com/YXxquf/status/2122468871240335645"
+    },
+    {
+      "author_id": "104778145",
+      "created_at": "2026-11-16T23:10:22.000Z",
+      "edit_history_tweet_ids": [
+        "2122467339811639318"
+      ],
+      "id": "2122467339811639318",
+      "in_reply_to_user_id": "4686835494",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122457875364864347",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vercel Shared gateways blur private-model provenance.",
+      "url": "https://x.com/agneau123/status/2122467339811639318"
+    },
+    {
+      "author_id": "2109564220337487872",
+      "created_at": "2026-11-16T23:07:30.000Z",
+      "edit_history_tweet_ids": [
+        "2122466622451712453"
+      ],
+      "id": "2122466622451712453",
+      "in_reply_to_user_id": "4686835494",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122457875364864347",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vercel The shared auth and logs surface is what makes a private vs catalog model a real switch in code rather than a routing gimmick — that's the piece most gateways still leave manual.",
+      "url": "https://x.com/HotTakeDaily_/status/2122466622451712453"
+    },
+    {
+      "author_id": "920996574083321856",
+      "created_at": "2026-11-16T23:03:57.000Z",
+      "edit_history_tweet_ids": [
+        "2122465727265513973"
+      ],
+      "id": "2122465727265513973",
+      "in_reply_to_user_id": "4686835494",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 61,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122457875364864347",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vercel Are we not going to talk about this insanely vibey audio?",
+      "url": "https://x.com/Zraic/status/2122465727265513973"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_2122480660350722048",
+        "type": "photo"
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122457852157812736"
+          ]
+        },
+        "author_id": "4686835494",
+        "created_at": "2026-11-16T22:32:45.000Z",
+        "edit_history_tweet_ids": [
+          "2122457875364864347"
+        ],
+        "id": "2122457875364864347",
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 18968,
+          "like_count": 154,
+          "quote_count": 8,
+          "reply_count": 27,
+          "retweet_count": 17
+        },
+        "text": "Private Inference is now on AI Gateway.\n\n𝚙𝚛𝚒𝚟𝚊𝚝𝚎/&lt;𝚜𝚕𝚞𝚐&gt;\n\nUse your own fine-tuned, self-hosted, or prerelease models alongside catalog models, with the same APIs, auth, and logs. https://t.co/lF5et8HOh0"
+      },
+      {
+        "author_id": "920996574083321856",
+        "created_at": "2026-11-16T23:03:57.000Z",
+        "edit_history_tweet_ids": [
+          "2122465727265513973"
+        ],
+        "id": "2122465727265513973",
+        "in_reply_to_user_id": "4686835494",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122457875364864347",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@vercel Are we not going to talk about this insanely vibey audio?"
+      }
+    ],
+    "users": [
+      {
+        "id": "2067127310390800384",
+        "name": "CK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067128354550243329/vmix08S9_normal.jpg",
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 153,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 147
+        },
+        "username": "ChuanKangKk_nb",
+        "verified": false
+      },
+      {
+        "id": "1770129312244457472",
+        "name": "Zero Clicks",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106887397208096768/wcRS5Fnm_normal.jpg",
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 191,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1010
+        },
+        "username": "ZeroClickz",
+        "verified": false
+      },
+      {
+        "id": "2106743812613603329",
+        "name": "Orca ⚡️ Vibe Coder",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2112602613938040832/1L3q-ofq_normal.jpg",
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 1031,
+          "like_count": 3541,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 416
+        },
+        "username": "orcatron007",
+        "verified": false
+      },
+      {
+        "id": "951137204738445318",
+        "name": "NoRulers",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063407326283870208/T5m03iyi_normal.jpg",
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 1859,
+          "like_count": 24944,
+          "listed_count": 17,
+          "media_count": 244,
+          "tweet_count": 9787
+        },
+        "username": "Icarusdissident",
+        "verified": false
+      },
+      {
+        "id": "1771094091792564224",
+        "name": "Izecube",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972335324492701696/QPpMV6at_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3857,
+          "following_count": 1118,
+          "like_count": 68945,
+          "listed_count": 9,
+          "media_count": 1488,
+          "tweet_count": 87586
+        },
+        "username": "its_izecube",
+        "verified": false
+      },
+      {
+        "id": "1559851673291481088",
+        "name": "Kaan Yagci",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118849831846178816/VV-5hj_1_normal.jpg",
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 446,
+          "like_count": 3764,
+          "listed_count": 3,
+          "media_count": 344,
+          "tweet_count": 4081
+        },
+        "username": "yagcidev",
+        "verified": false
+      },
+      {
+        "id": "920996574083321856",
+        "name": "Zak Raicik",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2121349874490994688/WXFJzqd9_normal.jpg",
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 205,
+          "like_count": 851,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 305
+        },
+        "username": "Zraic",
+        "verified": false
+      },
+      {
+        "id": "1865959210166403072",
+        "name": "Charlie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2111234122379132929/gr87bJ2j_normal.jpg",
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 600,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1143
+        },
+        "username": "clhdev",
+        "verified": false
+      },
+      {
+        "id": "2113482401334865920",
+        "name": "Compare Cloud Costs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116761600611016704/4zF3oXk4_normal.jpg",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 50,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 28
+        },
+        "username": "CompCloudCosts",
+        "verified": false
+      },
+      {
+        "id": "2022146499040489472",
+        "name": "bobolv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108498077644734464/Nwj0wQu8_normal.jpg",
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 615,
+          "like_count": 448,
+          "listed_count": 0,
+          "media_count": 319,
+          "tweet_count": 2098
+        },
+        "username": "bobolv235824",
+        "verified": false
+      },
+      {
+        "id": "2116840960852447234",
+        "name": "Harry",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116844740893356032/66unLfab_normal.jpg",
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 1751,
+          "like_count": 2144,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 3274
+        },
+        "username": "Harryngarry",
+        "verified": false
+      },
+      {
+        "id": "1978409518943096832",
+        "name": "波若波罗蜜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031349652055040000/Uoi1iI0l_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2108,
+          "following_count": 2059,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 2344
+        },
+        "username": "YXxquf",
+        "verified": false
+      },
+      {
+        "id": "104778145",
+        "name": "Tommy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100208275597959168/SoZBzjni_normal.jpg",
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 184,
+          "like_count": 6618,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 2706
+        },
+        "username": "agneau123",
+        "verified": false
+      },
+      {
+        "id": "2109564220337487872",
+        "name": "Hot Take Daily",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2121692533944193024/Cw4jBaVg_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 47,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 47
+        },
+        "username": "HotTakeDaily_",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122482287468290263",
+    "next_token": "b26v89c19zqg8o3juzow6hlyj5nb871mkrcjd4odz0i2l",
+    "oldest_id": "2122465727265513973",
+    "result_count": 15
+  }
+}

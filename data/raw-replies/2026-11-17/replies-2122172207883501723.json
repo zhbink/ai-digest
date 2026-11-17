@@ -1,0 +1,545 @@
+{
+  "data": [
+    {
+      "author_id": "1666301154165399553",
+      "conversation_id": "2122172207883501723",
+      "created_at": "2026-11-16T11:51:37.000Z",
+      "edit_history_tweet_ids": [
+        "2122296527922360599"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1717726640040783872",
+            "start": 0,
+            "username": "bozhou_ai"
+          }
+        ]
+      },
+      "id": "2122296527922360599",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 141,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122172207883501723",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bozhou_ai 让Agent每件事做一次Git提交、commit记录当上下文，这个思路好。正文只写\"代码里看不出来的为什么\"——这才是真正的记忆，光存结果下次还是不知道当初怎么想的",
+      "url": "https://x.com/tiqinge/status/2122296527922360599"
+    },
+    {
+      "author_id": "1891833767519715329",
+      "conversation_id": "2122172207883501723",
+      "created_at": "2026-11-16T10:23:12.000Z",
+      "edit_history_tweet_ids": [
+        "2122274276632072595"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1717726640040783872",
+            "start": 0,
+            "username": "bozhou_ai"
+          }
+        ]
+      },
+      "id": "2122274276632072595",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 144,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122172207883501723",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bozhou_ai 把软件工程那套版本控制搬来驯化Agent，思路极其对味。很多团队还在对着提示词玄学抽卡，用Commit记录理顺上下文才是工业化路子，值得抄作业。",
+      "url": "https://x.com/YunTechX/status/2122274276632072595"
+    },
+    {
+      "author_id": "1480536886246400007",
+      "conversation_id": "2122172207883501723",
+      "created_at": "2026-11-16T08:37:20.000Z",
+      "edit_history_tweet_ids": [
+        "2122247634207515006"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1717726640040783872",
+            "start": 0,
+            "username": "bozhou_ai"
+          }
+        ]
+      },
+      "id": "2122247634207515006",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122172207883501723",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bozhou_ai 「正文只写代码里看不出来的」这条最关键。diff 能告诉 Agent 改了什么，只有提交说明能告诉它当时为什么没走另一条路，不然下一轮它很可能又把放弃的方案捡回来。\n\n再补个小习惯：回滚也让它写清原因。踩过的坑留在 git log 里，比塞进记忆文件更不容易过期。",
+      "url": "https://x.com/CryptoPlayer999/status/2122247634207515006"
+    },
+    {
+      "author_id": "2085656667770040320",
+      "conversation_id": "2122172207883501723",
+      "created_at": "2026-11-16T06:53:21.000Z",
+      "edit_history_tweet_ids": [
+        "2122221468998304124"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1717726640040783872",
+            "start": 0,
+            "username": "bozhou_ai"
+          }
+        ]
+      },
+      "id": "2122221468998304124",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122172207883501723",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bozhou_ai 把每次任务当成一次 commit，这个比喻很准。Agent 最大的问题就是上下文一长就丢细节，commit 记录等于给它留了条可回溯的时间线，比让它自己总结记忆靠谱多了。回头我也加进全局记忆试试。",
+      "url": "https://x.com/tibopake/status/2122221468998304124"
+    },
+    {
+      "author_id": "1536703945737121792",
+      "conversation_id": "2122172207883501723",
+      "created_at": "2026-11-16T06:31:56.000Z",
+      "edit_history_tweet_ids": [
+        "2122216076721418318"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1717726640040783872",
+            "start": 0,
+            "username": "bozhou_ai"
+          }
+        ]
+      },
+      "id": "2122216076721418318",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 383,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122172207883501723",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bozhou_ai 我一直是这样干的；自己的项目要求它尽量以功能角度去按照一个功能点一个commit的形式去提交代码；这样也很方便自己后续学习或者回溯代码",
+      "url": "https://x.com/jingzha74848634/status/2122216076721418318"
+    },
+    {
+      "author_id": "1717726640040783872",
+      "conversation_id": "2122172207883501723",
+      "created_at": "2026-11-16T04:59:27.000Z",
+      "edit_history_tweet_ids": [
+        "2122192804676079796"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "18127008",
+            "start": 0,
+            "username": "qtwaiter"
+          }
+        ]
+      },
+      "id": "2122192804676079796",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 483,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122187619484459153",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@qtwaiter 那你可以把这个做成那种工程目录里面。我这指的是那种Coding场景。",
+      "url": "https://x.com/bozhou_ai/status/2122192804676079796"
+    },
+    {
+      "author_id": "1722440466",
+      "conversation_id": "2122172207883501723",
+      "created_at": "2026-11-16T04:40:07.000Z",
+      "edit_history_tweet_ids": [
+        "2122187939514028288"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1717726640040783872",
+            "start": 0,
+            "username": "bozhou_ai"
+          }
+        ]
+      },
+      "id": "2122187939514028288",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122172207883501723",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bozhou_ai \"正文只写代码里看不出来的\"这条最值钱。为什么改、放弃了哪个方案，恰好是下一个会话里 Agent 最缺的东西，不写下来它就会把同样的坑再踩一遍。",
+      "url": "https://x.com/passerbyRichard/status/2122187939514028288"
+    },
+    {
+      "author_id": "18127008",
+      "conversation_id": "2122172207883501723",
+      "created_at": "2026-11-16T04:38:51.000Z",
+      "edit_history_tweet_ids": [
+        "2122187619484459153"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1717726640040783872",
+            "start": 0,
+            "username": "bozhou_ai"
+          }
+        ]
+      },
+      "id": "2122187619484459153",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 528,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122172207883501723",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bozhou_ai 问题是我都是杂事，包括生活，工作，学习等，好像很难这样实行的样子。太杂了。",
+      "url": "https://x.com/qtwaiter/status/2122187619484459153"
+    },
+    {
+      "author_id": "2071871914533068800",
+      "conversation_id": "2122172207883501723",
+      "created_at": "2026-11-16T03:39:36.000Z",
+      "edit_history_tweet_ids": [
+        "2122172710226719136"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1717726640040783872",
+            "start": 0,
+            "username": "bozhou_ai"
+          }
+        ]
+      },
+      "id": "2122172710226719136",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 178,
+              "id": "2071871914533068800",
+              "start": 166,
+              "username": "swordBluesy"
+            }
+          ]
+        },
+        "text": "把 commit 记录当上下文确实聪明，但这套的前提是 agent 真按规矩提交、标题真写清楚——一旦它开始批量提交、标题写废话，上下文就变成垃圾堆，越积越害人。所以关键不在格式，在有没有审查提交质量的机制，没人把关的 commit 日志只会越攒越脏。顺带一提，今天勒昆刚讲了开源基建的「修路论」，基建这东西谁维护、谁把关，我主页 @swordBluesy 今天那篇勒昆 Tapestry 开源基建的文章就是讲这个的。"
+      },
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 271,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122172207883501723",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bozhou_ai 把 commit 记录当上下文确实聪明，但这套的前提是 agent 真按规矩提交、标题真写清楚——一旦它开始批量提交、标题写废话，上下文就变成垃圾堆，越积越害人。所以关键不在格式，在有没有审查提交质量的机制，没人把关的 commit",
+      "url": "https://x.com/swordBluesy/status/2122172710226719136"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1717726640040783872",
+        "conversation_id": "2122172207883501723",
+        "created_at": "2026-11-16T03:37:37.000Z",
+        "edit_history_tweet_ids": [
+          "2122172207883501723"
+        ],
+        "id": "2122172207883501723",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "推荐大家在自己的全局记忆里面，都加上下面这一段提示词，让AI把每一件事情都做一个Git版本，我实测下来，效果非常好，Commit记录就是给到Agent最好的一个上下文。\n\n# Git 提交\n\n- 一个提交只做一件事（一句话说得清），按事切分，不按文件数；做完且测试通过就自己提交，不用问。标题要用\"和\"连起不相干的事，就拆开。\n- 不提交半成品和没过测试的改动；格式化、改名不和逻辑改动混在一起。\n- 标题用中文一句话写具体变化；正文只写代码里看不出来的：为什么改、依据、放弃的方案、已知没做的。"
+        },
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 10790,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 6
+        },
+        "text": "推荐大家在自己的全局记忆里面，都加上下面这一段提示词，让AI把每一件事情都做一个Git版本，我实测下来，效果非常好，Commit记录就是给到Agent最好的一个上下文。\n\n# Git 提交\n\n-"
+      },
+      {
+        "author_id": "18127008",
+        "conversation_id": "2122172207883501723",
+        "created_at": "2026-11-16T04:38:51.000Z",
+        "edit_history_tweet_ids": [
+          "2122187619484459153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1717726640040783872",
+              "start": 0,
+              "username": "bozhou_ai"
+            }
+          ]
+        },
+        "id": "2122187619484459153",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 528,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122172207883501723",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bozhou_ai 问题是我都是杂事，包括生活，工作，学习等，好像很难这样实行的样子。太杂了。"
+      }
+    ],
+    "users": [
+      {
+        "id": "1666301154165399553",
+        "name": "提秦| 🌊RIVER",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912394336068644864/F3jvJ3Ge_normal.jpg",
+        "public_metrics": {
+          "followers_count": 5965,
+          "following_count": 7500,
+          "like_count": 5802,
+          "listed_count": 6,
+          "media_count": 160,
+          "tweet_count": 7524
+        },
+        "username": "tiqinge",
+        "verified": false
+      },
+      {
+        "id": "1891833767519715329",
+        "name": "Hale",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107541702642892800/0eXG85ad_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2769,
+          "following_count": 2139,
+          "like_count": 4212,
+          "listed_count": 3,
+          "media_count": 42,
+          "tweet_count": 7567
+        },
+        "username": "YunTechX",
+        "verified": false
+      },
+      {
+        "id": "1480536886246400007",
+        "name": "币圈90后 🇲🇾🇲🇾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934705154676375552/M_JP_KGT_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2766,
+          "following_count": 1294,
+          "like_count": 563,
+          "listed_count": 20,
+          "media_count": 907,
+          "tweet_count": 2522
+        },
+        "username": "CryptoPlayer999",
+        "verified": false
+      },
+      {
+        "id": "2085656667770040320",
+        "name": "Tibo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088507608504426497/NuPsIjB5_normal.jpg",
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 69,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 3552
+        },
+        "username": "tibopake",
+        "verified": false
+      },
+      {
+        "id": "1536703945737121792",
+        "name": "Spider-Sense",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120553619779198976/qlJh3e4p_normal.jpg",
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 257,
+          "like_count": 570,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 365
+        },
+        "username": "jingzha74848634",
+        "verified": false
+      },
+      {
+        "id": "1717726640040783872",
+        "name": "泊舟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040464227811590144/r1-3gG2y_normal.jpg",
+        "public_metrics": {
+          "followers_count": 33656,
+          "following_count": 859,
+          "like_count": 7861,
+          "listed_count": 401,
+          "media_count": 690,
+          "tweet_count": 6897
+        },
+        "username": "bozhou_ai",
+        "verified": false
+      },
+      {
+        "id": "1722440466",
+        "name": "行色路人.Passerby",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117541315873525760/ay_ItlAv_normal.jpg",
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 637,
+          "like_count": 297,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 1630
+        },
+        "username": "passerbyRichard",
+        "verified": false
+      },
+      {
+        "id": "18127008",
+        "name": "qtwaiter",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974463307584348160/_c7DCkTi_normal.jpg",
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 628,
+          "like_count": 864,
+          "listed_count": 16,
+          "media_count": 7030,
+          "tweet_count": 31002
+        },
+        "username": "qtwaiter",
+        "verified": false
+      },
+      {
+        "id": "2071871914533068800",
+        "name": "剑的 AI 实验室",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089690087571464192/oCoOz0Lf_normal.jpg",
+        "public_metrics": {
+          "followers_count": 9938,
+          "following_count": 10935,
+          "like_count": 8937,
+          "listed_count": 11,
+          "media_count": 1594,
+          "tweet_count": 16049
+        },
+        "username": "swordBluesy",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122296527922360599",
+    "next_token": "b26v89c19zqg8o3juzow6b82r19ras76ybt1ovt2gd2f1",
+    "oldest_id": "2122172710226719136",
+    "result_count": 9
+  }
+}
