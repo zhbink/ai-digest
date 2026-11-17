@@ -177,7 +177,143 @@
         "text": "📢 Meet Qwen4-Max, your new AI teammate for work, creativity, and discovery!\n\nQwen4-Max is built on a new MoE architecture with native vision and a 1M-token context window.\n\nHighlights:\n- Outperforms Qwen3.8-Max with up to ~50% fewer tokens, while average cost per task drops over 60% in our internal evaluation.\n- Advances real-world productivity through greater proficiency with professional tools, stronger long-horizon execution, and higher-quality deliverables.\n- Handles real tasks, including 3D modeling, game development, manufacturing, finance, law, healthcare, and frontier scientific discovery.\n- $1.5/M tokens for input, $4.5/M tokens for output, and $0.075/M tokens for implicit caching — all lower than Qwen3.8-Max, with implicit caching down by 70%.\n\nThe API is live on QwenCloud. You can also try Qwen4-Max on Qwen Studio, QwenWork and Qoder. \n\nStart building today! 🚀\n- Blog: https://t.co/AuiWxugjE6\n- API: https://t.co/aS1QEkS8nu\n- Token Plan: https://t.co/YRvcGdB9Bv\n\nMore to come! The open weights of smaller Qwen4 models will be released. Stay tuned. 👀"
       },
       "x_long": true,
-      "article_summary_zh": "阿里官方介绍，Qwen4-Max 是新的 MoE 旗舰，原生视觉、上下文 100 万 token，并强调专业工具使用和长程执行。内部评测称较 Qwen3.8-Max 最多可少用约 50% token，单任务平均成本下降逾 60%。公布的 API 价格为输入 $1.5/百万 token、输出 $4.5、隐式缓存 $0.075，缓存价再降 70%。服务已在 QwenCloud、Qwen Studio、QwenWork 和 Qoder 上线。官方同时预告，同系列更小模型稍后会开放权重；本次旗舰本身未宣布开源。"
+      "article_summary_zh": "阿里官方介绍，Qwen4-Max 是新的 MoE 旗舰，原生视觉、上下文 100 万 token，并强调专业工具使用和长程执行。内部评测称较 Qwen3.8-Max 最多可少用约 50% token，单任务平均成本下降逾 60%。公布的 API 价格为输入 $1.5/百万 token、输出 $4.5、隐式缓存 $0.075，缓存价再降 70%。服务已在 QwenCloud、Qwen Studio、QwenWork 和 Qoder 上线。官方同时预告，同系列更小模型稍后会开放权重；本次旗舰本身未宣布开源。",
+      "attached_posts": [
+        {
+          "id": "2122148139146842366",
+          "url": "https://x.com/Alibaba_Qwen/status/2122148139146842366",
+          "handle": "Alibaba_Qwen",
+          "display_name": "Qwen",
+          "avatar": "https://pbs.twimg.com/profile_images/2064231947149377536/Ab70PxT5_normal.jpg",
+          "verified": true,
+          "followers": 321787,
+          "created_at": "2026-11-16T02:01:58.000Z",
+          "lang": "en",
+          "text": "3D understanding and design: from a rough blockout to a cinematic cut. https://t.co/29WMBqh7CC",
+          "text_zh": "三维理解与设计：从粗糙的 blockout 到电影感分镜。",
+          "summary_zh": "通义官方用 94 秒演示 Qwen4-Max 的三维理解与设计：从粗糙的 blockout 一路做到电影感镜头。",
+          "relation_zh": "母帖用文字介绍原生视觉和真实任务能力，这条是同一条发布线里的成片演示，能直接看到 3D 工作流效果。",
+          "metrics": {
+            "likes": 554,
+            "retweets": 0,
+            "replies": 4,
+            "quotes": 10,
+            "bookmarks": 125,
+            "views": 77595
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2122143572413808640/vid/avc1/1920x1080/PpLjbH3ZLJpMJnc_.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2122143572413808640/img/PtjzmeFn5dZnBOsq.jpg",
+              "duration_ms": 93500
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/Alibaba_Qwen/status/2122148139146842366/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-17T02:19:54.822130+00:00"
+        },
+        {
+          "id": "2122161629592953032",
+          "url": "https://x.com/ArtificialAnlys/status/2122161629592953032",
+          "handle": "ArtificialAnlys",
+          "display_name": "Artificial Analysis",
+          "avatar": "https://pbs.twimg.com/profile_images/2042402069320290304/A8C1lP07_normal.jpg",
+          "verified": true,
+          "followers": 179860,
+          "created_at": "2026-11-16T02:55:35.000Z",
+          "lang": "en",
+          "text": "Alibaba has launched Qwen4 Max, gaining 9 points over Qwen3.8 Max on the Artificial Analysis Intelligence Index and landing 3 points behind Kimi K3.1 Pro at ~11% lower Cost per Task\n\nQwen4 Max, using xhigh reasoning effort, scores 43 on the Intelligence Index, 9 points ahead of Qwen3.8 Max (xhigh) and 3 points behind Kimi K3.1 Pro (max, 46)\n\nKey takeaways:\n\n➤ Qwen4 Max improves on every evaluation in the Index vs Qwen3.8 Max (xhigh, 34): HLE-Diamond +21 points (24% to 45%), AA-Omniscience +18 points, AutomationBench-AA +17 points, CritPt v2 +13 points, Terminal-Bench-Science +11 points, Terminal-Bench 4.0 +9 points, GDP.pdf +3 points, FrontierCode 2.0 +3 points and AA-Briefcase +82 Elo.\n\n➤ Qwen4 Max costs $3.27 per Intelligence Index task, ~3x less than Qwen3.8 Max ($10.02) and ~11% less than Kimi K3.1 Pro ($3.68): This is driven by 25% lower per-token pricing than Qwen3.8 Max, 70% cheaper cache hits and lower token usage. Tencent Hy4 costs ~3x less per task ($1.03) than Qwen4 Max but scores 8 points lower on the Index.\n\n➤ Qwen4 Max uses 39% fewer output tokens per task than Qwen3.8 Max: ~105k output tokens per Intelligence Index task vs ~171k for Qwen3.8 Max, ~72k for Kimi K3.1 Pro and ~78k for Tencent Hy4. Qwen4 Max uses fewer tokens, while increasing 9 points on the Intelligence Index\n\n➤ Improvements in AA-Briefcase (knowledge work): On AA-Briefcase, our evaluation of agentic work across real business files, Qwen4 Max reaches 1686 Elo vs 1674 for Kimi K3.1 Pro and 1446 for Tencent Hy4.\n\n➤ Qwen4 Max trails Kimi K3.1 Pro on Terminal-Bench 4.0 and Tencent Hy4 on FrontierCode 2.0: Qwen4 Max scores 48% on Terminal-Bench 4.0 vs 67% for Kimi K3.1 Pro and 37% for Tencent Hy4. On FrontierCode 2.0, @cognition’s private evaluation of real-world coding tasks, it scores 26%, level with Kimi K3.1 Pro (26%) and behind Tencent Hy4 (31%).\n\nKey model details:\n\n➤ Context window: 1M tokens\n\n➤ Multimodal: Text and image input with text output\n\n➤ Pricing: $1.50/$4.50 per 1M input/output tokens on Alibaba's first-party APIs, with a $0.075 cache hit price. This is lower than Qwen3.8 Max across the board ($2.00/$6.00, with a $0.25 cache hit price)\n\n➤ Availability: @Alibaba_Qwen 's first-party APIs",
+          "text_zh": "阿里已发布 Qwen4-Max。在 Artificial Analysis 智能指数上，它比 Qwen3.8-Max 高 9 分，落后 Kimi K3.1 Pro 3 分，同时单任务成本约低 11%。\n\nQwen4-Max 在 xhigh 推理强度下智能指数为 43 分，比 Qwen3.8-Max（xhigh，34 分）高 9 分，比 Kimi K3.1 Pro（max，46 分）低 3 分。\n\n要点：\n\n➤ 相对 Qwen3.8-Max（xhigh，34 分），智能指数中的每项评测都有提升：HLE-Diamond 从 24% 升至 45%（+21），AA-Omniscience +18，AutomationBench-AA +17，CritPt v2 +13，Terminal-Bench-Science +11，Terminal-Bench 4.0 +9，GDP.pdf +3，FrontierCode 2.0 +3，AA-Briefcase +82 Elo。\n\n➤ Qwen4-Max 单任务成本 3.27 美元，约为 Qwen3.8-Max（10.02 美元）的三分之一，也比 Kimi K3.1 Pro（3.68 美元）低约 11%。这主要来自比上代低 25% 的每 token 单价、便宜 70% 的缓存命中，以及更少的 token 用量。腾讯 Hy4 单任务成本约低到 1.03 美元，但指数低 8 分。\n\n➤ Qwen4-Max 每任务输出 token 比 Qwen3.8-Max 少 39%：约 10.5 万对 17.1 万；Kimi K3.1 Pro 约 7.2 万，腾讯 Hy4 约 7.8 万。它用得更少，指数却高了 9 分。\n\n➤ 在评测智能体处理真实商务文件的 AA-Briefcase 上，Qwen4-Max 达到 1686 Elo，高于 Kimi K3.1 Pro 的 1674 和腾讯 Hy4 的 1446。\n\n➤ 它在 Terminal-Bench 4.0 上落后于 Kimi K3.1 Pro，在 FrontierCode 2.0 上落后于腾讯 Hy4：Terminal-Bench 4.0 为 48%，Kimi 为 67%，Hy4 为 37%；在 Cognition 的 FrontierCode 2.0 私有编程评测上为 26%，与 Kimi 持平，落后 Hy4 的 31%。\n\n模型要点：\n\n➤ 上下文窗口：100 万 token\n\n➤ 多模态：文本和图像输入，文本输出\n\n➤ 定价：阿里官方 API 输入/输出为每百万 token 1.50/4.50 美元，缓存命中 0.075 美元，全面低于 Qwen3.8-Max（2.00/6.00 美元，缓存命中 0.25 美元）\n\n➤ 获取方式：通义官方 API",
+          "summary_zh": "Artificial Analysis 评测：Qwen4-Max（xhigh）智能指数 43 分，比 Qwen3.8-Max 高 9 分，距 Kimi K3.1 Pro 差 3 分；单任务成本 3.27 美元，约为上代三分之一，输出 token 也少 39%，但在 Terminal-Bench 4.0 上仍落后于 Kimi。",
+          "relation_zh": "母帖是官方自评与定价，这条提供独立榜单和分项对比，便于判断它在同类旗舰里的位置和成本优势。",
+          "metrics": {
+            "likes": 1555,
+            "retweets": 0,
+            "replies": 162,
+            "quotes": 109,
+            "bookmarks": 219,
+            "views": 454894
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 2434,
+              "h": 2240,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXNuLl6akAA2GOq.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/ArtificialAnlys/status/2122161629592953032/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-17T02:19:54.822130+00:00"
+        },
+        {
+          "id": "2122206836992651540",
+          "url": "https://x.com/analogalok/status/2122206836992651540",
+          "handle": "analogalok",
+          "display_name": "Alok",
+          "avatar": "https://pbs.twimg.com/profile_images/2055727708261474304/tUAKpN50_normal.jpg",
+          "verified": true,
+          "followers": 5946,
+          "created_at": "2026-11-16T05:55:13.000Z",
+          "lang": "en",
+          "text": "Qwen4-Max ($3.27) is now cheaper per task than the Qwen3.8 27B (dense) ($3.53)\n\nOne huge win for Qwen4-Max that’s getting overlooked: task cost. \n\nAccording to Artificial Analysis, the cost per Intelligence Index task just fell off a cliff: \n\n- Qwen3.8 Max: $10.02 \n- Qwen4-Max: https://t.co/3XlPZzvYDT https://t.co/kPWlSj2Iaj",
+          "text_zh": "Qwen4-Max（每任务 3.27 美元）现在已经比 Qwen3.8 27B 稠密模型（3.53 美元）更便宜。\n\nQwen4-Max 一个常被忽略的巨大优势是任务成本。\n\n按 Artificial Analysis 的智能指数单任务成本，数字掉得很厉害：\n\n- Qwen3.8-Max：10.02 美元\n- Qwen4-Max：3.27 美元（便宜约 67%，降幅超过三倍）",
+          "summary_zh": "Alok 指出一个常被忽略的点：按 Artificial Analysis 的智能指数单任务成本，Qwen4-Max 为 3.27 美元，不仅比 Qwen3.8-Max 的 10.02 美元低约 67%，甚至已经低于 Qwen3.8 27B 稠密模型的 3.53 美元。",
+          "relation_zh": "母帖强调官方口径成本下降逾 60%，这条用第三方任务成本说明：新旗舰已经比上代小尺寸稠密模型还便宜。",
+          "metrics": {
+            "likes": 28,
+            "retweets": 0,
+            "replies": 5,
+            "quotes": 1,
+            "bookmarks": 8,
+            "views": 45940
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1457,
+              "h": 736,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXOXh62asAA0u3E.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/analogalok/status/2122206836992651540/photo/1",
+            "https://twitter.com/analogalok/status/2122197226143551802"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2122197226143551802",
+          "article_title": null,
+          "attached_at": "2026-11-17T02:19:54.822130+00:00"
+        }
+      ]
     },
     {
       "id": "2122465625109090646",
@@ -526,7 +662,131 @@
       "external_url": "https://www.openai.com/index/expanding-chatgpt-for-academic-researchers/",
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "OpenAI 宣布扩大 ChatGPT 学术研究者计划：为全球最多 20 万名科学家提供前沿模型的免费使用权，并配套培训和支持，申请将于 11 月 23 日开放。官方特别说明，默认不会使用项目中分享的数据训练模型。这与同日发布的科学家生产力研究同属一套学术面向动作，具体资格和名额细则需看官网说明。"
+      "article_summary_zh": "OpenAI 宣布扩大 ChatGPT 学术研究者计划：为全球最多 20 万名科学家提供前沿模型的免费使用权，并配套培训和支持，申请将于 11 月 23 日开放。官方特别说明，默认不会使用项目中分享的数据训练模型。这与同日发布的科学家生产力研究同属一套学术面向动作，具体资格和名额细则需看官网说明。",
+      "attached_posts": [
+        {
+          "id": "2122380010287960095",
+          "url": "https://x.com/OpenAI/status/2122380010287960095",
+          "handle": "OpenAI",
+          "display_name": "OpenAI",
+          "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+          "verified": true,
+          "followers": 5543512,
+          "created_at": "2026-11-16T17:23:21.000Z",
+          "lang": "en",
+          "text": "Scientists reported nearly doubling their productivity with AI in our study of more than 1,800 participants in the ChatGPT for Academic Researchers program.\n\nUsing privacy-preserving methods, we looked at how they use ChatGPT across their work—from developing ideas to analyzing data and writing code—and what it could mean for scientific discovery.\n\nhttps://t.co/T4qTuVNEzz",
+          "text_zh": "在我们对「学术研究者 ChatGPT」项目中 1800 余名参与者的研究里，科学家反馈使用 AI 后效率接近翻倍。\n\n我们采用隐私保护方法，观察他们如何在工作中使用 ChatGPT——从构思、分析数据到写代码——以及这可能对科学发现意味着什么。",
+          "summary_zh": "OpenAI 发布 39 秒说明视频：在对「学术研究者 ChatGPT」项目中 1800 余名参与者的隐私保护研究里，科学家反馈使用 AI 后效率接近翻倍，覆盖从构思、分析数据到写代码的工作流。",
+          "relation_zh": "母帖宣布把免费名额扩到 20 万名科学家，这条补上了官方拿出的试点成效依据。",
+          "metrics": {
+            "likes": 3150,
+            "retweets": 0,
+            "replies": 332,
+            "quotes": 121,
+            "bookmarks": 453,
+            "views": 313175
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2122379074245173248/vid/avc1/1920x1080/DjSA-RF8ZuHcAqPB.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2122379074245173248/img/rOj7iXc8zJXjYimx.jpg",
+              "duration_ms": 38634
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/OpenAI/status/2122380010287960095/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-17T02:19:54.822130+00:00"
+        },
+        {
+          "id": "2122386649589879218",
+          "url": "https://x.com/eastblood_tr/status/2122386649589879218",
+          "handle": "eastblood_tr",
+          "display_name": "Doğukan",
+          "avatar": "https://pbs.twimg.com/profile_images/2115536801557266433/kfzXqCIU_normal.jpg",
+          "verified": true,
+          "followers": 1257,
+          "created_at": "2026-11-16T17:49:43.000Z",
+          "lang": "en",
+          "text": "Scientists say AI makes them 1.9x faster.\n\nOpenAI studied 1,819 researchers: 68% used ChatGPT to develop research ideas, 98% expect AI to speed up discovery in their field.\n\nNext: free access for 200,000 scientists, opening Nov 23.\n\nSelf-reported, sure. But science at 2x? 👀 https://t.co/s3NKhzWfth",
+          "text_zh": "科学家说，AI 让他们快了约 1.9 倍。\n\nOpenAI 研究了 1819 名研究者：68% 用 ChatGPT 做研究构思，98% 预期 AI 会加快所在领域的发现。\n\n下一步：向 20 万名科学家免费开放，申请通道 11 月 23 日开启。\n\n当然是自我报告。但如果科学真能快一倍呢？",
+          "summary_zh": "Doğukan 提炼官方研究数字：1819 名研究者中，效率自报约 1.9 倍，68% 用 ChatGPT 做研究构思，98% 认为 AI 会加快所在领域的发现；同时也提醒这些是自我报告。",
+          "relation_zh": "母帖和官方视频只说「接近翻倍」，这条把样本量和分项比例单列出来，并点出自我报告的局限。",
+          "metrics": {
+            "likes": 2,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 50
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1600,
+              "h": 1000,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXQ7aTQWEAAGX5t.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/eastblood_tr/status/2122386649589879218/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-17T02:19:54.822130+00:00"
+        },
+        {
+          "id": "2122469010029601168",
+          "url": "https://x.com/Moblacksoil/status/2122469010029601168",
+          "handle": "Moblacksoil",
+          "display_name": "墨无归",
+          "avatar": "https://pbs.twimg.com/profile_images/2108597642465071108/d8OLprM0_normal.jpg",
+          "verified": true,
+          "followers": 4493,
+          "created_at": "2026-11-16T23:17:00.000Z",
+          "lang": "zh",
+          "text": "学术研究者申请免费 ChatGPT，这轮改成先到先得，不再抽签，给的是 Plus。\n\n11 月 23 日（周一）开放申请，新发 5 万份，每份含申请人加最多 2 名合作者。\n\n项目目标从 10 万翻倍到 20 万。\n\n7 月试点已有 33 国 2 万人加入，当时给的是 Pro。\n\n默认不拿项目里分享的数据训练模型。 https://t.co/3p1FA66Twb",
+          "text_zh": "学术研究者申请免费 ChatGPT，这轮改成先到先得，不再抽签，给的是 Plus。\n\n11 月 23 日（周一）开放申请，新发 5 万份，每份含申请人加最多 2 名合作者。\n\n项目目标从 10 万翻倍到 20 万。\n\n7 月试点已有 33 国 2 万人加入，当时给的是 Pro。\n\n默认不拿项目里分享的数据训练模型。",
+          "summary_zh": "墨无归梳理本轮申请规则：11 月 23 日先到先得、不再抽签，新发 5 万份、每份含申请人加最多两名合作者，给的是 ChatGPT Plus；7 月试点在 33 国已有 2 万人，当时给的是 Pro，目标从 10 万翻到 20 万。",
+          "relation_zh": "母帖只说免费开放给最多 20 万名科学家，这条补上了档位从 Pro 降为 Plus、先到先得和名额结构等关键细节。",
+          "metrics": {
+            "likes": 2,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 221
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/OpenAI/status/2122377585523126615"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2122377585523126615",
+          "article_title": null,
+          "attached_at": "2026-11-17T02:19:54.822130+00:00"
+        }
+      ]
     },
     {
       "id": "2122376461822927065",
@@ -2577,7 +2837,142 @@
         "text": "有人把 681 份公开漏洞报告提炼成 AI 技能，然后开源了！\n\n装上之后，Claude Code 不再只会泛泛聊安全，而是按老手的路子查漏洞、验真伪、写报告。\n\n它能帮你：\n1. 管思路和范围：用代码锁死授权边界，按 6 阶段流程推进，不乱扫无关目标\n2. 排查 Web 漏洞：58 个专项 Skill 覆盖 XSS、SQL 注入、SSRF、越权和常见利用链\n3. 查企业外网资产：覆盖 M365、Okta、SharePoint、企业 VPN 和云权限排查\n4. 核验和出报告：7 问闸门筛掉误报，按规范脱敏 Cookie 和隐私，再按赏金平台格式写报告\n\nGitHub 6.6k 星，代码 MIT、内容 CC BY 4.0 协议：\nhttps://t.co/HVnbNTB1kH"
       },
       "x_long": true,
-      "article_summary_zh": "这份开源技能包 Claude-BugHunter 把 681 份已披露漏洞报告做成可在 Claude Code 里调用的技能和斜杠命令，GitHub 页面显示约 6600 星，代码为 MIT、内容为 CC BY 4.0。作者介绍它用代码锁死授权边界，按六阶段流程推进，避免乱扫无关目标；其中 58 个专项技能覆盖 XSS、SQL 注入、SSRF、越权等 Web 问题，另有针对 M365、Okta、SharePoint、企业 VPN 和云权限的外网资产排查，并用七问闸门减少误报、按赏金平台格式写报告。仓库同时强调这是辅助研究工具，使用时仍须遵守授权和法律边界。"
+      "article_summary_zh": "这份开源技能包 Claude-BugHunter 把 681 份已披露漏洞报告做成可在 Claude Code 里调用的技能和斜杠命令，GitHub 页面显示约 6600 星，代码为 MIT、内容为 CC BY 4.0。作者介绍它用代码锁死授权边界，按六阶段流程推进，避免乱扫无关目标；其中 58 个专项技能覆盖 XSS、SQL 注入、SSRF、越权等 Web 问题，另有针对 M365、Okta、SharePoint、企业 VPN 和云权限的外网资产排查，并用七问闸门减少误报、按赏金平台格式写报告。仓库同时强调这是辅助研究工具，使用时仍须遵守授权和法律边界。",
+      "attached_posts": [
+        {
+          "id": "2109143185834299899",
+          "url": "https://x.com/tom_doerr/status/2109143185834299899",
+          "handle": "tom_doerr",
+          "display_name": "Tom Dörr",
+          "avatar": "https://pbs.twimg.com/profile_images/1905090420142379008/Ydq5So7B_normal.jpg",
+          "verified": true,
+          "followers": 221792,
+          "created_at": "2026-10-11T04:44:56.000Z",
+          "lang": "en",
+          "text": "Claude-BugHunter provides a curated bundle of 83 skills for Claude Code designed to assist with vulnerability auditing, CVE tracking, and structured red team reporting.\n\nhttps://t.co/4u8XsRFDIg https://t.co/zvdhY0cqfq",
+          "text_zh": "Claude-BugHunter 为 Claude Code 提供了一套精选的 83 项技能，用于协助漏洞审计、CVE 跟踪和结构化的红队报告。",
+          "summary_zh": "Tom Dörr 介绍 Claude-BugHunter：面向授权安全评估的 Claude Code 技能包，整理了 83 项技能，覆盖漏洞审计、CVE 跟踪和结构化红队报告，并给出 GitHub 仓库链接。",
+          "relation_zh": "母帖是中文圈对这套技能包的热度介绍，这条是较早、传播最广的英文推荐，把仓库和用途一次讲清楚。",
+          "metrics": {
+            "likes": 594,
+            "retweets": 0,
+            "replies": 7,
+            "quotes": 4,
+            "bookmarks": 679,
+            "views": 33300
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1029,
+              "h": 858,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HUUujPmWkAAQh_o.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://github.com/elementalsouls/Claude-BugHunter",
+            "https://x.com/tom_doerr/status/2109143185834299899/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-17T02:19:54.822130+00:00"
+        },
+        {
+          "id": "2121163262737715632",
+          "url": "https://x.com/Anastasis_King/status/2121163262737715632",
+          "handle": "Anastasis_King",
+          "display_name": "Cyberkid",
+          "avatar": "https://pbs.twimg.com/profile_images/2118594469129859072/S7Up3YG2_normal.jpg",
+          "verified": true,
+          "followers": 15215,
+          "created_at": "2026-11-13T08:48:25.000Z",
+          "lang": "en",
+          "text": "🛡️ CLAUDE BUGHUNTER — AI-POWERED SECURITY RESEARCH TOOLKIT\n\nClaude BugHunter is an open-source collection of AI agent skills designed for authorized security assessments and vulnerability research. Featuring 83 specialized skills, 15 slash commands, 681 disclosed-report patterns, support for multiple AI coding agents, and Burp Suite MCP integration, it provides structured workflows for reconnaissance, vulnerability validation, and security reporting.\n\n🔗 GitHub: github[.]com/elementalsouls/Claude-BugHunter\n\n#CyberSecurity #AISecurity #ClaudeAI #SecurityResearch #GitHub",
+          "text_zh": "Claude BugHunter 是一套开源的 AI 代理技能合集，面向授权安全评估和漏洞研究。它包含 83 个专项技能、15 条斜杠命令、681 份公开漏洞报告提炼出的模式，还支持多种 AI 编程代理，并可对接 Burp Suite MCP，提供侦察、漏洞核验和安全报告的结构化工作流。\n\nGitHub：github.com/elementalsouls/Claude-BugHunter",
+          "summary_zh": "Cyberkid 把 Claude-BugHunter 概括为授权安全评估工具包：83 个专项技能、15 条斜杠命令、681 份公开漏洞模式，还支持多种 AI 编程代理，并可对接 Burp Suite MCP，覆盖侦察、核验和写报告。",
+          "relation_zh": "母帖列出了 Web 漏洞和企业外网排查等能力，这条补上多代理支持和 Burp Suite MCP 集成，并把使用场景明确限制在授权评估。",
+          "metrics": {
+            "likes": 80,
+            "retweets": 0,
+            "replies": 2,
+            "quotes": 0,
+            "bookmarks": 76,
+            "views": 2804
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1174,
+              "h": 1339,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HW_ivuzWAAAh0Y7.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/Anastasis_King/status/2121163262737715632/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-17T02:19:54.822130+00:00"
+        },
+        {
+          "id": "2122469134827241680",
+          "url": "https://x.com/PeanutPair/status/2122469134827241680",
+          "handle": "PeanutPair",
+          "display_name": "TwoPeanuts",
+          "avatar": "https://pbs.twimg.com/profile_images/2118305254630678528/f9biTpo7_normal.jpg",
+          "verified": true,
+          "followers": 2497,
+          "created_at": "2026-11-16T23:17:29.000Z",
+          "lang": "zh",
+          "text": "GitHub 今天涨最快的五个仓库。\n\ndream-num/univer（+1,878）：开源表格文档 SDK，把编辑、计算、协同嵌进自己的产品。\n\nelementalsouls/Claude-BugHunter（+1,057）：Claude Code 的漏洞挖掘技能包，面向外部红队场景。\n\nalibaba/open-code-review（+946）：阿里开源的代码评审工具，混合架构，阿里内部规模上跑过。\n\ntradermonty/claude-trading-skills（+841）：给股票投资者用的 Claude Code 技能集，行情分析、筛选、复盘。\n\ngoogle-research/paper-orchestra（+306）：多 agent 框架，自动化 AI 研究流程，从选题到成稿。\n\n今日增量只代表当天关注度。",
+          "text_zh": "GitHub 今天涨最快的五个仓库。\n\ndream-num/univer（+1,878）：开源表格文档 SDK，把编辑、计算、协同嵌进自己的产品。\n\nelementalsouls/Claude-BugHunter（+1,057）：Claude Code 的漏洞挖掘技能包，面向外部红队场景。\n\nalibaba/open-code-review（+946）：阿里开源的代码评审工具，混合架构，阿里内部规模上跑过。\n\ntradermonty/claude-trading-skills（+841）：给股票投资者用的 Claude Code 技能集，行情分析、筛选、复盘。\n\ngoogle-research/paper-orchestra（+306）：多 agent 框架，自动化 AI 研究流程，从选题到成稿。\n\n今日增量只代表当天关注度。",
+          "summary_zh": "TwoPeanuts 盘点 GitHub 当日涨星最快的五个仓库，其中 Claude-BugHunter 一天新增 1057 星，被列为面向外部红队场景的 Claude Code 漏洞挖掘技能包。",
+          "relation_zh": "母帖提到仓库已超 6600 星，这条给出收藏当日的涨速，说明它为什么会出现在热榜上。",
+          "metrics": {
+            "likes": 3,
+            "retweets": 0,
+            "replies": 3,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 135
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1600,
+              "h": 900,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXSGaQFbkAADfk7.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/PeanutPair/status/2122469134827241680/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-17T02:19:54.822130+00:00"
+        }
+      ]
     },
     {
       "id": "2122343937977581924",
@@ -2713,7 +3108,108 @@
       "note_tweet": {
         "text": "Stunningly realistic.\nSharp. \nPrecise.\n\nKling Image 4.0 is coming soon. Stay tuned."
       },
-      "x_long": true
+      "x_long": true,
+      "attached_posts": [
+        {
+          "id": "2122486126904754486",
+          "url": "https://x.com/neo_cn/status/2122486126904754486",
+          "handle": "neo_cn",
+          "display_name": "neo.w",
+          "avatar": "https://pbs.twimg.com/profile_images/1691459533686870017/QXdoeiLX_normal.jpg",
+          "verified": true,
+          "followers": 237,
+          "created_at": "2026-11-17T00:25:01.000Z",
+          "lang": "zh",
+          "text": "@Kling_ai Image 4.0 这张预告信息量不小：真实感、锐度、精准度三个词并排，明显是在对标生图赛道的短板。好奇正式版会不会把 Kling 4.0 视频那套运镜和一致性带进来——如果图生视频能直接吃同一张图，工作流就顺了。",
+          "text_zh": "Image 4.0 这张预告信息量不小：真实感、锐度、精准度三个词并排，明显是在对标生图赛道的短板。好奇正式版会不会把 Kling 4.0 视频那套运镜和一致性带进来——如果图生视频能直接吃同一张图，工作流就顺了。",
+          "summary_zh": "neo.w 认为这张预告把「真实感、锐利、精确」三个词并排，是在针对当前生图短板；并追问正式版会不会带上 Kling 4.0 视频的运镜与一致性，好让同一张图直接进入图生视频工作流。",
+          "relation_zh": "母帖只放出三词预告，这条把预告读成对标方向，并补上与现有视频模型如何衔接的关键问题。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 2
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [
+            "Kling_ai"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-17T02:19:54.822130+00:00"
+        },
+        {
+          "id": "2122488941769375888",
+          "url": "https://x.com/josephXfilm/status/2122488941769375888",
+          "handle": "josephXfilm",
+          "display_name": "Joseph",
+          "avatar": "https://pbs.twimg.com/profile_images/2099350211709816832/3IkP8Oss_normal.jpg",
+          "verified": true,
+          "followers": 27,
+          "created_at": "2026-11-17T00:36:12.000Z",
+          "lang": "en",
+          "text": "A video model still needs a stills model that speaks the same language.\n\nIf the board and the take disagree, you don't have a look. You have a luck. https://t.co/0frL9o5JPa",
+          "text_zh": "视频模型仍然需要一套能和它说同一种语言的静帧模型。\n\n如果分镜和成片对不上，你就没有统一的观感，只是在碰运气。",
+          "summary_zh": "影视创作者 Joseph 指出，视频模型仍需要能与之「说同一种语言」的静帧模型；分镜图和成片对不上，就只是碰运气，谈不上统一风格。",
+          "relation_zh": "母帖是可灵预告推出图像模型，这条从制片视角说明为什么做视频的公司还要再做静帧模型。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 6
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://x.com/Kling_ai/status/2122343937977581924"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2122343937977581924",
+          "article_title": null,
+          "attached_at": "2026-11-17T02:19:54.822130+00:00"
+        },
+        {
+          "id": "2122363640842207441",
+          "url": "https://x.com/browncatro1/status/2122363640842207441",
+          "handle": "browncatro1",
+          "display_name": "Browncat AI",
+          "avatar": "https://pbs.twimg.com/profile_images/1647590193820737538/h1diIoPv_normal.jpg",
+          "verified": true,
+          "followers": 6833,
+          "created_at": "2026-11-16T16:18:18.000Z",
+          "lang": "ja",
+          "text": "Kling Image 4.0\nもともとKolorsという優秀な静止画モデルを出していたところなので、期待。 https://t.co/6DFif5HSBG",
+          "text_zh": "Kling Image 4.0。可灵本来就出过表现很好的静帧模型 Kolors，所以值得期待。",
+          "summary_zh": "Browncat AI 提醒，可灵此前就推出过表现优秀的静帧模型 Kolors，因此对即将到来的 Kling Image 4.0 抱有期待。",
+          "relation_zh": "母帖没有交代可灵做图像的历史，这条补上了 Kolors 这条产品线，方便把 4.0 看成升级而非全新入场。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 130
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/Kling_ai/status/2122343937977581924"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2122343937977581924",
+          "article_title": null,
+          "attached_at": "2026-11-17T02:19:54.822130+00:00"
+        }
+      ]
     },
     {
       "id": "2122356734610280572",
