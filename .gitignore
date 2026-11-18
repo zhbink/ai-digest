@@ -4,3 +4,5 @@ work/
 *.bak
 __pycache__/
 *.pyc
+data/raw-*/
+data/raw-media/
