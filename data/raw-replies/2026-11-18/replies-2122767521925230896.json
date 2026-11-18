@@ -1,0 +1,611 @@
+{
+  "data": [
+    {
+      "author_id": "46498861",
+      "created_at": "2026-11-18T00:47:25.000Z",
+      "edit_history_tweet_ids": [
+        "2122854151898255744"
+      ],
+      "id": "2122854151898255744",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122767521925230896",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @antigravity @mujoco Plain conversation is the big change here. Connecting a supported arm, practicing in MuJoCo simulation and then running tasks in the real world makes teaching a robot feel less like programming. The test is the gap between simulation and the real world.",
+      "url": "https://x.com/raulnogales/status/2122854151898255744"
+    },
+    {
+      "author_id": "1025860187096317953",
+      "created_at": "2026-11-18T00:43:37.000Z",
+      "edit_history_tweet_ids": [
+        "2122853197526016195"
+      ],
+      "id": "2122853197526016195",
+      "in_reply_to_user_id": "1716816653831569408",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122773781798170875",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@tarat_211 @GoogleDeepMind @antigravity @mujoco It does",
+      "url": "https://x.com/normandipalo/status/2122853197526016195"
+    },
+    {
+      "author_id": "1025860187096317953",
+      "created_at": "2026-11-18T00:43:04.000Z",
+      "edit_history_tweet_ids": [
+        "2122853057406894157"
+      ],
+      "id": "2122853057406894157",
+      "in_reply_to_user_id": "1496823127707459586",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122852938498617808",
+          "type": "quoted"
+        },
+        {
+          "id": "2122771782856016064",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@MiclauMarius @GoogleDeepMind @antigravity @mujoco Check this answer\n\nhttps://t.co/cR1cl59uWS",
+      "url": "https://x.com/normandipalo/status/2122853057406894157"
+    },
+    {
+      "author_id": "1025860187096317953",
+      "created_at": "2026-11-18T00:42:35.000Z",
+      "edit_history_tweet_ids": [
+        "2122852938498617808"
+      ],
+      "id": "2122852938498617808",
+      "in_reply_to_user_id": "4898526519",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122786761713590278",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Dididanka @GoogleDeepMind @antigravity @mujoco If there exist a URDF of the arm online, the model should be able to get it running for you. I’d give it a try",
+      "url": "https://x.com/normandipalo/status/2122852938498617808"
+    },
+    {
+      "author_id": "1025860187096317953",
+      "created_at": "2026-11-18T00:41:50.000Z",
+      "edit_history_tweet_ids": [
+        "2122852747573969032"
+      ],
+      "id": "2122852747573969032",
+      "in_reply_to_user_id": "2043662599103844352",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122772576917405887",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@davit__yan @GoogleDeepMind @antigravity @mujoco Cheap arms are perfectly fine",
+      "url": "https://x.com/normandipalo/status/2122852747573969032"
+    },
+    {
+      "author_id": "1612109246132543492",
+      "created_at": "2026-11-18T00:36:06.000Z",
+      "edit_history_tweet_ids": [
+        "2122851303726403919"
+      ],
+      "id": "2122851303726403919",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122767521925230896",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @antigravity @mujoco Closing the loop from MuJoCo practice to real-arm execution is the interesting part. How well does a policy rehearsed in simulation hold up when the real arm has different calibration or contact dynamics?",
+      "url": "https://x.com/luna_ai_notes/status/2122851303726403919"
+    },
+    {
+      "author_id": "1437655880",
+      "created_at": "2026-11-18T00:13:57.000Z",
+      "edit_history_tweet_ids": [
+        "2122845732348801383"
+      ],
+      "id": "2122845732348801383",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122793486483095633",
+          "type": "quoted"
+        },
+        {
+          "id": "2122767528933925363",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @mujoco The ability to go from a whiteboard sketch to a working conveyor in an hour is wild. We actually went deeper on this here: https://t.co/VWU4B3Dg13",
+      "url": "https://x.com/MichaelWaitze/status/2122845732348801383"
+    },
+    {
+      "author_id": "1213502906332110848",
+      "created_at": "2026-11-18T00:11:47.000Z",
+      "edit_history_tweet_ids": [
+        "2122845183720964259"
+      ],
+      "id": "2122845183720964259",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122793486483095633",
+          "type": "quoted"
+        },
+        {
+          "id": "2122767525419364630",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind The spatial reasoning capabilities are a huge step up for embodied models. We actually went deeper on this here: https://t.co/TNp4ucDA32",
+      "url": "https://x.com/RonfortMartin/status/2122845183720964259"
+    },
+    {
+      "author_id": "2111760586333913088",
+      "created_at": "2026-11-18T00:06:11.000Z",
+      "edit_history_tweet_ids": [
+        "2122843777299857607"
+      ],
+      "id": "2122843777299857607",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122767521925230896",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @antigravity @mujoco Going straight from a MuJoCo scene to real hardware via conversation is a big workflow simplification. Would be useful to see numbers on how often a policy trained in sim transfers without retuning when the gripper or lighting shifts in the real world.",
+      "url": "https://x.com/Johnhn9a/status/2122843777299857607"
+    },
+    {
+      "author_id": "199725621",
+      "created_at": "2026-11-17T23:38:33.000Z",
+      "edit_history_tweet_ids": [
+        "2122836823521038584"
+      ],
+      "id": "2122836823521038584",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122767521925230896",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @antigravity @mujoco Google says Hydrogen scores 58 on Artificial Analysis Robotics 0.1, similar to Argon at lower cost. The bolder claim is Antigravity: a whiteboard sketch to a working conveyor sorter in about an hour, in MuJoCo then on a real arm. Curious how often that holds off the demo bench.",
+      "url": "https://x.com/ExactSolid/status/2122836823521038584"
+    },
+    {
+      "author_id": "4583386580",
+      "created_at": "2026-11-17T23:17:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122831401041215985"
+      ],
+      "id": "2122831401041215985",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 23,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122767521925230896",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @antigravity @mujoco @_sshahid_ nice",
+      "url": "https://x.com/edward_s_hu/status/2122831401041215985"
+    },
+    {
+      "author_id": "106308134",
+      "created_at": "2026-11-17T23:11:02.000Z",
+      "edit_history_tweet_ids": [
+        "2122829896129106119"
+      ],
+      "id": "2122829896129106119",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 18,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122767521925230896",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @antigravity @mujoco Lowering the friction from MuJoCo simulation to real-world execution via plain conversation is huge for B2B robotics adoption. In enterprise deployments, faster task retraining directly cuts integration downtime—making ROI much easier to prove to non-technical buyers.",
+      "url": "https://x.com/5andH/status/2122829896129106119"
+    },
+    {
+      "author_id": "1444821703415242760",
+      "created_at": "2026-11-17T22:59:33.000Z",
+      "edit_history_tweet_ids": [
+        "2122827008170197431"
+      ],
+      "id": "2122827008170197431",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 72,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122767521925230896",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @antigravity @mujoco Big step for accessible robot programming",
+      "url": "https://x.com/techniahqrobot/status/2122827008170197431"
+    },
+    {
+      "author_id": "757940114949537792",
+      "created_at": "2026-11-17T22:48:12.000Z",
+      "edit_history_tweet_ids": [
+        "2122824151270670679"
+      ],
+      "id": "2122824151270670679",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 34,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122767521925230896",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @antigravity @mujoco Gemini 4 Hydrogen matches the Argon model on robotic control tasks like pick and place, at a lower cost, and beats Gemini Robotics ER 2 at judging 3D spaces, camera angles, and movement.",
+      "url": "https://x.com/sulaiman_svesal/status/2122824151270670679"
+    },
+    {
+      "author_id": "1916297182824796161",
+      "created_at": "2026-11-17T22:47:44.000Z",
+      "edit_history_tweet_ids": [
+        "2122824032189923631"
+      ],
+      "id": "2122824032189923631",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122767521925230896",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @antigravity @mujoco matching the big model for less. nice work on this",
+      "url": "https://x.com/nateoneillai/status/2122824032189923631"
+    },
+    {
+      "author_id": "2089710612712431616",
+      "created_at": "2026-11-17T22:38:45.000Z",
+      "edit_history_tweet_ids": [
+        "2122821772676362685"
+      ],
+      "id": "2122821772676362685",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 17,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122767521925230896",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @antigravity @mujoco if a whiteboard sketch can be a conveyor sorter in about an hour, \"DO NOT ERASE\" just got a lot more serious",
+      "url": "https://x.com/kalapowered/status/2122821772676362685"
+    },
+    {
+      "author_id": "1720665183188922368",
+      "created_at": "2026-11-17T22:36:32.000Z",
+      "edit_history_tweet_ids": [
+        "2122821213680504882"
+      ],
+      "id": "2122821213680504882",
+      "in_reply_to_user_id": "1020948278555422720",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122821081920864549",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SAldwais @GoogleDeepMind @antigravity @mujoco Yes, the Antigravity robotics plugin supports the SO-101 (also called SO-ARM101). Google lists it among the supported arms alongside the YAM and FR3 Duo. Sample prompt: \"Bring up my SO-101 arm and make it wave.\"",
+      "url": "https://x.com/grok/status/2122821213680504882"
+    },
+    {
+      "author_id": "1020948278555422720",
+      "created_at": "2026-11-17T22:36:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122821081920864549"
+      ],
+      "id": "2122821081920864549",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122767521925230896",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @antigravity @mujoco @grok does it support RO 101 ?",
+      "url": "https://x.com/SAldwais/status/2122821081920864549"
+    },
+    {
+      "author_id": "1782125418062970881",
+      "created_at": "2026-11-17T22:26:47.000Z",
+      "edit_history_tweet_ids": [
+        "2122818763041153317"
+      ],
+      "id": "2122818763041153317",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122767521925230896",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @antigravity @mujoco Welcome to the era of agentic robotics",
+      "url": "https://x.com/dylanspdev/status/2122818763041153317"
+    },
+    {
+      "author_id": "2069488216395444224",
+      "created_at": "2026-11-17T22:22:38.000Z",
+      "edit_history_tweet_ids": [
+        "2122817719200612619"
+      ],
+      "id": "2122817719200612619",
+      "in_reply_to_user_id": "4783690002",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122767521925230896",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @antigravity @mujoco Practising in MuJoCo simulation first, then running the same task in the real world with plain conversation — that workflow sounds far more practical than retraining a robot for every new job. The 'just talk to it' part is the real leap.",
+      "url": "https://x.com/pdfsk_windx/status/2122817719200612619"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "id": "46498861",
+        "name": "Raúl Nogales 🇪🇸🇺🇸",
+        "username": "raulnogales"
+      },
+      {
+        "id": "1025860187096317953",
+        "name": "Norman Di Palo",
+        "username": "normandipalo"
+      },
+      {
+        "id": "1612109246132543492",
+        "name": "Luna | AI & MedTech Notes",
+        "username": "luna_ai_notes"
+      },
+      {
+        "id": "1437655880",
+        "name": "Michael Waitze",
+        "username": "MichaelWaitze"
+      },
+      {
+        "id": "1213502906332110848",
+        "name": "Martin Ronfort",
+        "username": "RonfortMartin"
+      },
+      {
+        "id": "2111760586333913088",
+        "name": "John",
+        "username": "Johnhn9a"
+      },
+      {
+        "id": "199725621",
+        "name": "Alex Capone",
+        "username": "ExactSolid"
+      },
+      {
+        "id": "4583386580",
+        "name": "Edward Hu",
+        "username": "edward_s_hu"
+      },
+      {
+        "id": "106308134",
+        "name": "H&O",
+        "username": "5andH"
+      },
+      {
+        "id": "1444821703415242760",
+        "name": "Techniahqrobot | humanoid robots",
+        "username": "techniahqrobot"
+      },
+      {
+        "id": "757940114949537792",
+        "name": "Sulaiman Vesal",
+        "username": "sulaiman_svesal"
+      },
+      {
+        "id": "1916297182824796161",
+        "name": "Nate O'Neill",
+        "username": "nateoneillai"
+      },
+      {
+        "id": "2089710612712431616",
+        "name": "Kala",
+        "username": "kalapowered"
+      },
+      {
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "username": "grok"
+      },
+      {
+        "id": "1020948278555422720",
+        "name": "Saleh Aldwais",
+        "username": "SAldwais"
+      },
+      {
+        "id": "1782125418062970881",
+        "name": "Dylan Pina",
+        "username": "dylanspdev"
+      },
+      {
+        "id": "2069488216395444224",
+        "name": "PDF Smart Kit",
+        "username": "pdfsk_windx"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122854151898255744",
+    "next_token": "b26v89c19zqg8o3juzow6q3d9dv0avaytd7y1d9t9h3el",
+    "oldest_id": "2122817719200612619",
+    "result_count": 20
+  }
+}

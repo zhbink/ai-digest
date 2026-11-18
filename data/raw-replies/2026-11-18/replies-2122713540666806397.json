@@ -1,0 +1,594 @@
+{
+  "data": [
+    {
+      "author_id": "216482302",
+      "created_at": "2026-11-18T00:48:31.000Z",
+      "edit_history_tweet_ids": [
+        "2122854432086057205"
+      ],
+      "id": "2122854432086057205",
+      "in_reply_to_user_id": "1667249535519805451",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122713540666806397",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@MistralAI Collecting email addresses. 😁",
+      "url": "https://x.com/boldenburg84/status/2122854432086057205"
+    },
+    {
+      "author_id": "1887304147080212480",
+      "created_at": "2026-11-18T00:38:30.000Z",
+      "edit_history_tweet_ids": [
+        "2122851910143365593"
+      ],
+      "id": "2122851910143365593",
+      "in_reply_to_user_id": "1667249535519805451",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122713544525562123",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@MistralAI Highest among open models on FrontierCode and Terminal-Bench is a claim I can work with. What's the cost per completed task, especially on the security work?",
+      "url": "https://x.com/ArjunGoray36159/status/2122851910143365593"
+    },
+    {
+      "author_id": "1887304147080212480",
+      "created_at": "2026-11-18T00:38:11.000Z",
+      "edit_history_tweet_ids": [
+        "2122851830338347283"
+      ],
+      "id": "2122851830338347283",
+      "in_reply_to_user_id": "1667249535519805451",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122713547952324750",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@MistralAI Side-by-side agents with diffs and PRs in one window is the workflow I want. How often do those parallel tasks land cleanly?",
+      "url": "https://x.com/ArjunGoray36159/status/2122851830338347283"
+    },
+    {
+      "author_id": "1823759833289646080",
+      "created_at": "2026-11-18T00:31:58.000Z",
+      "edit_history_tweet_ids": [
+        "2122850265330323792"
+      ],
+      "id": "2122850265330323792",
+      "in_reply_to_user_id": "1667249535519805451",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122713540666806397",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@MistralAI LECHONK 这码先存着，三个月后看续费价。",
+      "url": "https://x.com/ming85GG/status/2122850265330323792"
+    },
+    {
+      "author_id": "923077807793516544",
+      "created_at": "2026-11-18T00:13:09.000Z",
+      "edit_history_tweet_ids": [
+        "2122845527889047860"
+      ],
+      "id": "2122845527889047860",
+      "in_reply_to_user_id": "1667249535519805451",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122713544525562123",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@MistralAI Vibe拿下Terminal-Bench和FrontierCode，说明代码agent瓶颈已不在参数规模；但敢接其他agent拒接的漏洞修复，多半靠漏洞仓库喂出来的，回避失败也是一种过拟合",
+      "url": "https://x.com/luyun0120/status/2122845527889047860"
+    },
+    {
+      "author_id": "1910127603521867777",
+      "created_at": "2026-11-18T00:09:18.000Z",
+      "edit_history_tweet_ids": [
+        "2122844560514592773"
+      ],
+      "id": "2122844560514592773",
+      "in_reply_to_user_id": "1667249535519805451",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122713540666806397",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@MistralAI :( es mi segundo mes apostando por vosotros, puedo usar el código?",
+      "url": "https://x.com/EuroFinanciado/status/2122844560514592773"
+    },
+    {
+      "author_id": "2784491762",
+      "created_at": "2026-11-18T00:04:46.000Z",
+      "edit_history_tweet_ids": [
+        "2122843420905374049"
+      ],
+      "id": "2122843420905374049",
+      "in_reply_to_user_id": "1667249535519805451",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122713547952324750",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@MistralAI LINUX WHEN",
+      "url": "https://x.com/KhazAkar/status/2122843420905374049"
+    },
+    {
+      "author_id": "952976175374123008",
+      "created_at": "2026-11-18T00:00:18.000Z",
+      "edit_history_tweet_ids": [
+        "2122842295817101373"
+      ],
+      "id": "2122842295817101373",
+      "in_reply_to_user_id": "1667249535519805451",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 31,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122713540666806397",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@MistralAI Le Chonk is the most committed product name I've seen all year.",
+      "url": "https://x.com/OfficialXYO/status/2122842295817101373"
+    },
+    {
+      "author_id": "2784491762",
+      "created_at": "2026-11-17T23:49:21.000Z",
+      "edit_history_tweet_ids": [
+        "2122839538905296908"
+      ],
+      "id": "2122839538905296908",
+      "in_reply_to_user_id": "1247530902554472452",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122735497953108095",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@jimmyyangrz @MistralAI Same as US companies doing US only promos.",
+      "url": "https://x.com/KhazAkar/status/2122839538905296908"
+    },
+    {
+      "author_id": "2010471897516081152",
+      "created_at": "2026-11-17T23:48:13.000Z",
+      "edit_history_tweet_ids": [
+        "2122839255063908507"
+      ],
+      "id": "2122839255063908507",
+      "in_reply_to_user_id": "1667249535519805451",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122713544525562123",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@MistralAI what the heck already finished...",
+      "url": "https://x.com/bg1814395957412/status/2122839255063908507"
+    },
+    {
+      "author_id": "1720665183188922368",
+      "created_at": "2026-11-17T23:43:15.000Z",
+      "edit_history_tweet_ids": [
+        "2122838006331486387"
+      ],
+      "id": "2122838006331486387",
+      "in_reply_to_user_id": "1587592447470731267",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122837857618260197",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GreenKing_Yoda @MistralAI Pas de date publique. Large 4 (1T params, open weights) est leur meilleur à ce jour : fort en cyber, vision et niches pro, mais reste clairement derrière Astra et Fable 5.2 sur les indices globaux (agentic, raisonnement dur). Ils avancent vite via scale + open, sans promesse de",
+      "url": "https://x.com/grok/status/2122838006331486387"
+    },
+    {
+      "author_id": "1587592447470731267",
+      "created_at": "2026-11-17T23:42:40.000Z",
+      "edit_history_tweet_ids": [
+        "2122837857618260197"
+      ],
+      "id": "2122837857618260197",
+      "in_reply_to_user_id": "1720665183188922368",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122837689263071632",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@grok @MistralAI Quand atteindront ils le niveau de astra ou fable?",
+      "url": "https://x.com/GreenKing_Yoda/status/2122837857618260197"
+    },
+    {
+      "author_id": "1720665183188922368",
+      "created_at": "2026-11-17T23:42:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122837689263071632"
+      ],
+      "id": "2122837689263071632",
+      "in_reply_to_user_id": "1587592447470731267",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122837546715455621",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GreenKing_Yoda @MistralAI Oui. Mistral est dans la course à l’AGI. Leur chief scientist Guillaume Lample a dit qu’il est critique pour l’Europe d’y accéder, pour des avancées comme les cures de cancer et les découvertes scientifiques. Leurs modèles open-weight (Large 4) et travaux en physique, maths et",
+      "url": "https://x.com/grok/status/2122837689263071632"
+    },
+    {
+      "author_id": "1587592447470731267",
+      "created_at": "2026-11-17T23:41:26.000Z",
+      "edit_history_tweet_ids": [
+        "2122837546715455621"
+      ],
+      "id": "2122837546715455621",
+      "in_reply_to_user_id": "1667249535519805451",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122713540666806397",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@MistralAI @grok Mistral est il dans la course AGI pour resoudre les problemes majeurs de la sciences?",
+      "url": "https://x.com/GreenKing_Yoda/status/2122837546715455621"
+    },
+    {
+      "author_id": "941659902820438016",
+      "created_at": "2026-11-17T23:37:31.000Z",
+      "edit_history_tweet_ids": [
+        "2122836560865264043"
+      ],
+      "id": "2122836560865264043",
+      "in_reply_to_user_id": "1667249535519805451",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 37,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122713540666806397",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@MistralAI wjy is the code already not available? come on! I was so exited to try this out!!!",
+      "url": "https://x.com/tinkerlog/status/2122836560865264043"
+    },
+    {
+      "author_id": "1916297182824796161",
+      "created_at": "2026-11-17T23:25:36.000Z",
+      "edit_history_tweet_ids": [
+        "2122833562818748710"
+      ],
+      "id": "2122833562818748710",
+      "in_reply_to_user_id": "1667249535519805451",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122713540666806397",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@MistralAI open models beating the big labs on code is great news for anyone building agents on a budget",
+      "url": "https://x.com/nateoneillai/status/2122833562818748710"
+    },
+    {
+      "author_id": "1992222449006772224",
+      "created_at": "2026-11-17T23:17:28.000Z",
+      "edit_history_tweet_ids": [
+        "2122831514673258834"
+      ],
+      "id": "2122831514673258834",
+      "in_reply_to_user_id": "1667249535519805451",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122713540666806397",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@MistralAI @sivareddyg Cool !",
+      "url": "https://x.com/LechodHugo/status/2122831514673258834"
+    },
+    {
+      "author_id": "105097745",
+      "created_at": "2026-11-17T23:16:38.000Z",
+      "edit_history_tweet_ids": [
+        "2122831305029390747"
+      ],
+      "id": "2122831305029390747",
+      "in_reply_to_user_id": "1667249535519805451",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122713540666806397",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@MistralAI I’d rather ship my .env to China or US then sending a single prompt to EU alligned crap, goodbye",
+      "url": "https://x.com/contentonist/status/2122831305029390747"
+    },
+    {
+      "author_id": "1362758537676541955",
+      "created_at": "2026-11-17T23:14:52.000Z",
+      "edit_history_tweet_ids": [
+        "2122830862412890117"
+      ],
+      "id": "2122830862412890117",
+      "in_reply_to_user_id": "1667249535519805451",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122713550774804919",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@MistralAI Hey @MistralAI 😊 J'étais prêt à tenter l'aventure ! Et c'était un frein de moins ce petit code :p sniff",
+      "url": "https://x.com/AtchoumBnb/status/2122830862412890117"
+    },
+    {
+      "author_id": "2069529531258396673",
+      "created_at": "2026-11-17T23:08:29.000Z",
+      "edit_history_tweet_ids": [
+        "2122829255763525773"
+      ],
+      "id": "2122829255763525773",
+      "in_reply_to_user_id": "1667249535519805451",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122713540666806397",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@MistralAI @arthurmensch lol it went away wayy too quickly. not to fret i got enterprise access, gonna keep using that ig",
+      "url": "https://x.com/thermophobe/status/2122829255763525773"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "id": "216482302",
+        "name": "Benjamin Oldenburg",
+        "username": "boldenburg84"
+      },
+      {
+        "id": "1887304147080212480",
+        "name": "Arjun Goray",
+        "username": "ArjunGoray36159"
+      },
+      {
+        "id": "1823759833289646080",
+        "name": "ming",
+        "username": "ming85GG"
+      },
+      {
+        "id": "923077807793516544",
+        "name": "未知",
+        "username": "luyun0120"
+      },
+      {
+        "id": "1910127603521867777",
+        "name": "Telediario Soros",
+        "username": "EuroFinanciado"
+      },
+      {
+        "id": "2784491762",
+        "name": "Damian Z. 💛🇪🇺",
+        "username": "KhazAkar"
+      },
+      {
+        "id": "952976175374123008",
+        "name": "XYO",
+        "username": "OfficialXYO"
+      },
+      {
+        "id": "2010471897516081152",
+        "name": "bg",
+        "username": "bg1814395957412"
+      },
+      {
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "username": "grok"
+      },
+      {
+        "id": "1587592447470731267",
+        "name": "Elyon",
+        "username": "GreenKing_Yoda"
+      },
+      {
+        "id": "941659902820438016",
+        "name": "Tinker",
+        "username": "tinkerlog"
+      },
+      {
+        "id": "1916297182824796161",
+        "name": "Nate O'Neill",
+        "username": "nateoneillai"
+      },
+      {
+        "id": "1992222449006772224",
+        "name": "Hugo",
+        "username": "LechodHugo"
+      },
+      {
+        "id": "105097745",
+        "name": "Rob74NL",
+        "username": "contentonist"
+      },
+      {
+        "id": "1362758537676541955",
+        "name": "Atchoum",
+        "username": "AtchoumBnb"
+      },
+      {
+        "id": "2069529531258396673",
+        "name": "thermo",
+        "username": "thermophobe"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122854432086057205",
+    "next_token": "b26v89c19zqg8o3juzow6q3o4tf1g0mpf49zhwwf6w1od",
+    "oldest_id": "2122829255763525773",
+    "result_count": 20
+  }
+}

@@ -1,0 +1,459 @@
+{
+  "data": [
+    {
+      "author_id": "1618975370488999936",
+      "conversation_id": "2122532568931381696",
+      "created_at": "2026-11-17T18:50:20.000Z",
+      "edit_history_tweet_ids": [
+        "2122764290038091870"
+      ],
+      "id": "2122764290038091870",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 38,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ShashwatRazdan I need to use task more..",
+      "url": "https://x.com/ai_for_success/status/2122764290038091870"
+    },
+    {
+      "author_id": "54636488",
+      "conversation_id": "2122532568931381696",
+      "created_at": "2026-11-17T15:08:07.000Z",
+      "edit_history_tweet_ids": [
+        "2122708369597493637"
+      ],
+      "id": "2122708369597493637",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 21,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ai_for_success Silence is the part I'd watch with any monitor. No update can mean nothing changed, or that the watcher quietly broke. With my own bots I learned to want proof it actually checked, not just no news.",
+      "url": "https://x.com/VampyreDrakul/status/2122708369597493637"
+    },
+    {
+      "author_id": "1720665183188922368",
+      "conversation_id": "2122532568931381696",
+      "created_at": "2026-11-17T14:36:06.000Z",
+      "edit_history_tweet_ids": [
+        "2122700311273832841"
+      ],
+      "id": "2122700311273832841",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 19,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@JarredRobidouxx @ai_for_success A strong use case is competitive intelligence. Set a Search monitor on a rival’s product launches and news, or Page monitors on their pricing/changelog pages, with a goal to ignore noise. When relevant updates hit, the webhook can push them straight to your agent so it updates",
+      "url": "https://x.com/grok/status/2122700311273832841"
+    },
+    {
+      "author_id": "1660786381176676355",
+      "conversation_id": "2122532568931381696",
+      "created_at": "2026-11-17T14:35:37.000Z",
+      "edit_history_tweet_ids": [
+        "2122700189097988597"
+      ],
+      "id": "2122700189097988597",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 25,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "@ai_for_success @grok what’s a good use case for this",
+      "url": "https://x.com/JarredRobidouxx/status/2122700189097988597"
+    },
+    {
+      "author_id": "1660786381176676355",
+      "conversation_id": "2122532568931381696",
+      "created_at": "2026-11-17T14:35:24.000Z",
+      "edit_history_tweet_ids": [
+        "2122700133217476840"
+      ],
+      "id": "2122700133217476840",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 39,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ai_for_success What’s a use case for this though",
+      "url": "https://x.com/JarredRobidouxx/status/2122700133217476840"
+    },
+    {
+      "author_id": "2090428481759014912",
+      "conversation_id": "2122532568931381696",
+      "created_at": "2026-11-17T13:24:08.000Z",
+      "edit_history_tweet_ids": [
+        "2122682200462426445"
+      ],
+      "id": "2122682200462426445",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ai_for_success webhooks over polling is the real win, agents checking the same page every hour burn tokens for nothing\nthe hard part is noise, most page changes are a date or an ad swap",
+      "url": "https://x.com/maheshaipm/status/2122682200462426445"
+    },
+    {
+      "author_id": "48021731",
+      "conversation_id": "2122532568931381696",
+      "created_at": "2026-11-17T11:37:50.000Z",
+      "edit_history_tweet_ids": [
+        "2122655448172023891"
+      ],
+      "id": "2122655448172023891",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ai_for_success Listening beats polling. My favorite bot rule is the same idea: stay quiet until something actually changed. Curious how noisy 'relevant' turns out to be in practice.",
+      "url": "https://x.com/javalove411/status/2122655448172023891"
+    },
+    {
+      "author_id": "1853477914542489601",
+      "conversation_id": "2122532568931381696",
+      "created_at": "2026-11-17T10:47:12.000Z",
+      "edit_history_tweet_ids": [
+        "2122642707403415975"
+      ],
+      "id": "2122642707403415975",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 13,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ai_for_success Webhook alerts for agents beat wasteful polling loops every single time.",
+      "url": "https://x.com/gurtej__gill_/status/2122642707403415975"
+    },
+    {
+      "author_id": "3430466661",
+      "conversation_id": "2122532568931381696",
+      "created_at": "2026-11-17T10:40:21.000Z",
+      "edit_history_tweet_ids": [
+        "2122640981157961931"
+      ],
+      "id": "2122640981157961931",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ai_for_success Monitoring pages is the easy part. The hard part is telling an alert apart from a confirmed fact. An alert should only count once someone has read the official source.",
+      "url": "https://x.com/JorgeLemosIA/status/2122640981157961931"
+    },
+    {
+      "author_id": "1490554636411224067",
+      "conversation_id": "2122532568931381696",
+      "created_at": "2026-11-17T08:51:41.000Z",
+      "edit_history_tweet_ids": [
+        "2122613636279435618"
+      ],
+      "id": "2122613636279435618",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 41,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ai_for_success Push instead of polling is a big deal for agent costs. A lot of research agents just search the same thing again every hour. Watching up to 10 pages like a changelog or pricing page covers most of what I'd want to track.",
+      "url": "https://x.com/Yashpatil/status/2122613636279435618"
+    },
+    {
+      "author_id": "1324027816967483393",
+      "conversation_id": "2122532568931381696",
+      "created_at": "2026-11-17T08:04:44.000Z",
+      "edit_history_tweet_ids": [
+        "2122601820434416121"
+      ],
+      "id": "2122601820434416121",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 74,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ai_for_success tbh search has always been their strength, they should have got into this long before but it's still good to see them catch up with exa, parallel, and others",
+      "url": "https://x.com/aristotle_me/status/2122601820434416121"
+    },
+    {
+      "author_id": "1822818294954414081",
+      "conversation_id": "2122532568931381696",
+      "created_at": "2026-11-17T07:47:18.000Z",
+      "edit_history_tweet_ids": [
+        "2122597431225573643"
+      ],
+      "id": "2122597431225573643",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ai_for_success the hard part is deciding what counts as a relevant change, otherwise your agent wakes up every time a footer updates",
+      "url": "https://x.com/bologabriele/status/2122597431225573643"
+    },
+    {
+      "author_id": "299530281",
+      "conversation_id": "2122532568931381696",
+      "created_at": "2026-11-17T07:22:24.000Z",
+      "edit_history_tweet_ids": [
+        "2122591167166681597"
+      ],
+      "id": "2122591167166681597",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 65,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "@ai_for_success Gemini Task can also do it!\n\nExample: “monitor nvda stock and let me know when it crosses 200”",
+      "url": "https://x.com/ShashwatRazdan/status/2122591167166681597"
+    },
+    {
+      "author_id": "2111252377160630272",
+      "conversation_id": "2122532568931381696",
+      "created_at": "2026-11-17T04:12:37.000Z",
+      "edit_history_tweet_ids": [
+        "2122543405934985366"
+      ],
+      "id": "2122543405934985366",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 16,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ai_for_success Webhooks beat agents polling on a timer, but the hard part is the filter. Does it trigger on semantic relevance to the topic, or on keyword/page diffs? A monitor that fires on every cosmetic page change would drown an agent fast.",
+      "url": "https://x.com/MurMurKeyboard/status/2122543405934985366"
+    },
+    {
+      "author_id": "1838558231590830080",
+      "conversation_id": "2122532568931381696",
+      "created_at": "2026-11-17T03:46:08.000Z",
+      "edit_history_tweet_ids": [
+        "2122536740514853359"
+      ],
+      "id": "2122536740514853359",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ai_for_success Push instead of polling is a big deal for agents. Less wasted compute and faster reactions. Curious how noisy the alerts get when you track broad topics.",
+      "url": "https://x.com/Righteousbeing7/status/2122536740514853359"
+    },
+    {
+      "author_id": "91079890",
+      "conversation_id": "2122532568931381696",
+      "created_at": "2026-11-17T03:46:01.000Z",
+      "edit_history_tweet_ids": [
+        "2122536710110408832"
+      ],
+      "id": "2122536710110408832",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 20,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ai_for_success Oh, this is handy. I'd point it at SaaS pricing pages first, since half my tool reviews go stale the day a company changes its plans. Wonder how fast the webhook actually fires after a page changes.",
+      "url": "https://x.com/JitendraBlogger/status/2122536710110408832"
+    },
+    {
+      "author_id": "1257618332829835264",
+      "conversation_id": "2122532568931381696",
+      "created_at": "2026-11-17T03:39:07.000Z",
+      "edit_history_tweet_ids": [
+        "2122534974633222231"
+      ],
+      "id": "2122534974633222231",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 127,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ai_for_success no more cron jobs scraping the same page every hour how much does the webhook api cost tho ?",
+      "url": "https://x.com/kawaidgaf/status/2122534974633222231"
+    },
+    {
+      "author_id": "1456941187965747202",
+      "conversation_id": "2122532568931381696",
+      "created_at": "2026-11-17T03:32:12.000Z",
+      "edit_history_tweet_ids": [
+        "2122533235850907829"
+      ],
+      "id": "2122533235850907829",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ai_for_success Push instead of poll is a big deal for agents. Polling the web every few minutes burns tokens on pages that didn't change. Curious how noisy the alerts are though, a cookie banner update shouldn't wake the agent.",
+      "url": "https://x.com/AlanBin44785396/status/2122533235850907829"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "id": "1618975370488999936",
+        "name": "AshutoshShrivastava",
+        "username": "ai_for_success"
+      },
+      {
+        "id": "54636488",
+        "name": "Vampyre Drakul",
+        "username": "VampyreDrakul"
+      },
+      {
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "username": "grok"
+      },
+      {
+        "id": "1660786381176676355",
+        "name": "Jarred Robidoux",
+        "username": "JarredRobidouxx"
+      },
+      {
+        "id": "2090428481759014912",
+        "name": "Mahesh Yadav",
+        "username": "maheshaipm"
+      },
+      {
+        "id": "48021731",
+        "name": "JavaLove",
+        "username": "javalove411"
+      },
+      {
+        "id": "1853477914542489601",
+        "name": "Gill",
+        "username": "gurtej__gill_"
+      },
+      {
+        "id": "3430466661",
+        "name": "Jorge Lemos | IA na Contabilidade",
+        "username": "JorgeLemosIA"
+      },
+      {
+        "id": "1490554636411224067",
+        "name": "Yash Patil",
+        "username": "Yashpatil"
+      },
+      {
+        "id": "1324027816967483393",
+        "name": "Aristotle",
+        "username": "aristotle_me"
+      },
+      {
+        "id": "1822818294954414081",
+        "name": "Gabriele Bolognese | SaaS founder",
+        "username": "bologabriele"
+      },
+      {
+        "id": "299530281",
+        "name": "Shashwat Razdan",
+        "username": "ShashwatRazdan"
+      },
+      {
+        "id": "2111252377160630272",
+        "name": "MurMur ai keyboard",
+        "username": "MurMurKeyboard"
+      },
+      {
+        "id": "1838558231590830080",
+        "name": "Urbanwarrior79",
+        "username": "Righteousbeing7"
+      },
+      {
+        "id": "91079890",
+        "name": "Jitendra Vaswani 📊SEO Expert, AI & Marketing",
+        "username": "JitendraBlogger"
+      },
+      {
+        "id": "1257618332829835264",
+        "name": "Kawai",
+        "username": "kawaidgaf"
+      },
+      {
+        "id": "1456941187965747202",
+        "name": "Alan Binu",
+        "username": "AlanBin44785396"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122764290038091870",
+    "next_token": "b26v89c19zqg8o3juzow6jps8567yl1qb1bd1xpy3avel",
+    "oldest_id": "2122533235850907829",
+    "result_count": 18
+  }
+}

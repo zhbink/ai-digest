@@ -1,0 +1,614 @@
+{
+  "data": [
+    {
+      "author_id": "2085268751822553088",
+      "created_at": "2026-11-18T00:18:08.000Z",
+      "edit_history_tweet_ids": [
+        "2122846783370125657"
+      ],
+      "id": "2122846783370125657",
+      "in_reply_to_user_id": "12497",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122500307557265651",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@simonw @simonw Antigravity 官方客户端确实缺少对底层上下文和配额消耗的透明度。我写了个开源侧边栏插件，可以直接监控 512K 实时上下文占比、缓存命中和配额：https://t.co/JdSqa486iJ https://t.co/vIvaaUPGv6",
+      "url": "https://x.com/Cococowyu/status/2122846783370125657"
+    },
+    {
+      "author_id": "71419057",
+      "created_at": "2026-11-18T00:12:41.000Z",
+      "edit_history_tweet_ids": [
+        "2122845413745324430"
+      ],
+      "id": "2122845413745324430",
+      "in_reply_to_user_id": "12497",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122500307557265651",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@simonw The underrated part isn't safety, it's multiplicity. A throwaway VM per attempt means you can run five agents in parallel on the same repo and keep the best one. That's the bet behind Selvage.",
+      "url": "https://x.com/vpodugu/status/2122845413745324430"
+    },
+    {
+      "author_id": "3410833751",
+      "created_at": "2026-11-18T00:04:21.000Z",
+      "edit_history_tweet_ids": [
+        "2122843315070464024"
+      ],
+      "id": "2122843315070464024",
+      "in_reply_to_user_id": "12497",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 8,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122500307557265651",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@simonw might be of interest to you: https://t.co/5S6U2zR6uf",
+      "url": "https://x.com/lukasz_bialy/status/2122843315070464024"
+    },
+    {
+      "author_id": "2121753292212477952",
+      "created_at": "2026-11-18T00:02:47.000Z",
+      "edit_history_tweet_ids": [
+        "2122842922290999503"
+      ],
+      "id": "2122842922290999503",
+      "in_reply_to_user_id": "12497",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122500307557265651",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@simonw Best line in the diagram: folders and proxy are the only ways out. In team setups there's a third exit worth guarding: the merge. Work leaves as a branch and lands only after a person reads the diff. Sandbox limits what the agent can touch; review limits what it ships.",
+      "url": "https://x.com/SydlaAI/status/2122842922290999503"
+    },
+    {
+      "author_id": "1659439170883026945",
+      "created_at": "2026-11-17T23:53:13.000Z",
+      "edit_history_tweet_ids": [
+        "2122840514567471614"
+      ],
+      "id": "2122840514567471614",
+      "in_reply_to_user_id": "12497",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122500307557265651",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@simonw The allow-list proxy is the piece I'd want first. In February I wrote about a Meta AI security researcher whose agent deleted her inbox and ignored her stop commands from her phone, and limits outside the agent are what that story was missing.",
+      "url": "https://x.com/jackrudenko/status/2122840514567471614"
+    },
+    {
+      "author_id": "2035042022307049472",
+      "created_at": "2026-11-17T23:41:55.000Z",
+      "edit_history_tweet_ids": [
+        "2122837670443291006"
+      ],
+      "id": "2122837670443291006",
+      "in_reply_to_user_id": "12497",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122500307557265651",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@simonw The credential-replacement proxy is the underrated part. A sandbox stops rm -rf; it doesn't stop an agent holding a real API key from leaking it to an allowed host. Keys outside + egress allow-list + sandboxed exec = actual defense in depth.",
+      "url": "https://x.com/AIAgentsIn5/status/2122837670443291006"
+    },
+    {
+      "author_id": "1858474496203911168",
+      "created_at": "2026-11-17T23:05:24.000Z",
+      "edit_history_tweet_ids": [
+        "2122828480463409621"
+      ],
+      "id": "2122828480463409621",
+      "in_reply_to_user_id": "12497",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122500307557265651",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@simonw The credential replacement piece is the one we'd underline: the agent makes the authenticated call without ever holding the secret. A host allow-list answers where the code can talk. The next layer in the same pattern answers what: should this specific call, a delete or a",
+      "url": "https://x.com/ackuity_ai/status/2122828480463409621"
+    },
+    {
+      "author_id": "2106106907014361088",
+      "created_at": "2026-11-17T22:52:13.000Z",
+      "edit_history_tweet_ids": [
+        "2122825164232474835"
+      ],
+      "id": "2122825164232474835",
+      "in_reply_to_user_id": "1394358293397708802",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122694883861283144",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@TimBorovkov @simonw Same wish here, it's why I'm building https://t.co/w8THWdLsYl. The agent gets its own machine in the cloud, with a desktop, and it keeps going when the laptop is closed. Opens in December. What would it need on day one for you to move?",
+      "url": "https://x.com/kasehili/status/2122825164232474835"
+    },
+    {
+      "author_id": "2068088590182371328",
+      "created_at": "2026-11-17T21:37:41.000Z",
+      "edit_history_tweet_ids": [
+        "2122806405854036184"
+      ],
+      "id": "2122806405854036184",
+      "in_reply_to_user_id": "12497",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122500307557265651",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@simonw The two-exit design, mounted folders plus an allow-listed proxy, is what actually enforces containment. Have you hit a case where a legit agent step needed a host the allow-list missed, and how do you ship that change safely?",
+      "url": "https://x.com/hasaniqbal96/status/2122806405854036184"
+    },
+    {
+      "author_id": "2034478242191814656",
+      "created_at": "2026-11-17T21:20:31.000Z",
+      "edit_history_tweet_ids": [
+        "2122802085074702577"
+      ],
+      "id": "2122802085074702577",
+      "in_reply_to_user_id": "12497",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 18,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122500307557265651",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@simonw the agent gets the mac, the code gets the padded room",
+      "url": "https://x.com/bycantarelli/status/2122802085074702577"
+    },
+    {
+      "author_id": "430112935",
+      "created_at": "2026-11-17T21:19:22.000Z",
+      "edit_history_tweet_ids": [
+        "2122801795911360688"
+      ],
+      "id": "2122801795911360688",
+      "in_reply_to_user_id": "12497",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122500307557265651",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@simonw this is the setup i want. letting it run on my mac is fine, i just dont want it running random code next to my files and keys",
+      "url": "https://x.com/DenisLitchenko/status/2122801795911360688"
+    },
+    {
+      "author_id": "15756049",
+      "created_at": "2026-11-17T21:18:49.000Z",
+      "edit_history_tweet_ids": [
+        "2122801655800361299"
+      ],
+      "id": "2122801655800361299",
+      "in_reply_to_user_id": "12497",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 21,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122500307557265651",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@simonw Simon, the useful part is the pattern: the agent stays on the Mac, and the code runs in one of 3 sandboxes, WebAssembly, QEMU or an Apple container.\n\nAn HTTP allow-list is the control I would require before any of those agents touch a client file.",
+      "url": "https://x.com/mikeelliott/status/2122801655800361299"
+    },
+    {
+      "author_id": "1898811925892403200",
+      "created_at": "2026-11-17T21:15:37.000Z",
+      "edit_history_tweet_ids": [
+        "2122800852494680504"
+      ],
+      "id": "2122800852494680504",
+      "in_reply_to_user_id": "12497",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 17,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122500307557265651",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@simonw Really useful write-up. \nThe sandbox stops the agent from wrecking the laptop, but in most companies the bigger blast radius is the API token sitting in the environment, since that reaches the CRM or ERP no matter where the code runs. Have you tried pairing the external sandbox",
+      "url": "https://x.com/GuttmanIta76973/status/2122800852494680504"
+    },
+    {
+      "author_id": "121778026",
+      "created_at": "2026-11-17T21:10:39.000Z",
+      "edit_history_tweet_ids": [
+        "2122799601698644053"
+      ],
+      "id": "2122799601698644053",
+      "in_reply_to_user_id": "12497",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122500307557265651",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@simonw The detail I'd copy first is the verb rule, not the host list. Your example gives https://t.co/LP6qEbYdlK GET only, with the token added by the proxy. So code in the box can read issues but can't push or comment, even with a real token behind it.\n\nHost lists stop leaks to",
+      "url": "https://x.com/DrJunaidFarooq/status/2122799601698644053"
+    },
+    {
+      "author_id": "2122791331474886656",
+      "created_at": "2026-11-17T21:05:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122798178315407633"
+      ],
+      "id": "2122798178315407633",
+      "in_reply_to_user_id": "12497",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122500307557265651",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@simonw I went the other way for my voice agent: Claude Code on the host, real creds, a PreToolUse hook as the gate. Reads pass. Anything irreversible is read back as one sentence and only runs after a spoken yes.\n\nYour credential replacement trick is the bit I'd steal.",
+      "url": "https://x.com/MarkWesterweel/status/2122798178315407633"
+    },
+    {
+      "author_id": "23372897",
+      "created_at": "2026-11-17T20:42:11.000Z",
+      "edit_history_tweet_ids": [
+        "2122792438872113309"
+      ],
+      "id": "2122792438872113309",
+      "in_reply_to_user_id": "12497",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 25,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122500307557265651",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@simonw We need sandbox solutions for people who are short on ram and disk space",
+      "url": "https://x.com/ariccio/status/2122792438872113309"
+    },
+    {
+      "author_id": "91763440",
+      "created_at": "2026-11-17T19:58:07.000Z",
+      "edit_history_tweet_ids": [
+        "2122781348301836357"
+      ],
+      "id": "2122781348301836357",
+      "in_reply_to_user_id": "12497",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122500307557265651",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@simonw This is the pattern more people should copy. Let the agent run on your Mac, but the code it writes only ever executes inside the sandbox. You keep the speed and lose the 'oops it touched my files' worry.",
+      "url": "https://x.com/bijaypandey/status/2122781348301836357"
+    },
+    {
+      "author_id": "1540221661",
+      "created_at": "2026-11-17T19:57:21.000Z",
+      "edit_history_tweet_ids": [
+        "2122781154000736515"
+      ],
+      "id": "2122781154000736515",
+      "in_reply_to_user_id": "12497",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122500307557265651",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@simonw Sandboxing the code the agent runs makes sense. On the seller side I’m still just checking that any tool touching inventory or pricing data can’t go outside the limits I set.",
+      "url": "https://x.com/AvaNakamurvd/status/2122781154000736515"
+    },
+    {
+      "author_id": "24544122",
+      "created_at": "2026-11-17T19:41:24.000Z",
+      "edit_history_tweet_ids": [
+        "2122777143142969689"
+      ],
+      "id": "2122777143142969689",
+      "in_reply_to_user_id": "12497",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122500307557265651",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@simonw I built a proposal centric runtime, Current, where the coding agent/LLM produces proposals that go through an approval [human or AI] process before application\n\nWorkflow lifecycle lands in a commit log and is replayable\n\nLink: https://t.co/Bil8kCyRAA",
+      "url": "https://x.com/santosh79/status/2122777143142969689"
+    },
+    {
+      "author_id": "2112550851743285248",
+      "created_at": "2026-11-17T19:34:16.000Z",
+      "edit_history_tweet_ids": [
+        "2122775347372679354"
+      ],
+      "id": "2122775347372679354",
+      "in_reply_to_user_id": "12497",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122500307557265651",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@simonw This is the part of coding agents that does not get talked about enough. Letting an agent write and run code is fine until it touches something it should not. An external sandbox feels like the sensible default, not an extra.",
+      "url": "https://x.com/AgentStackList/status/2122775347372679354"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "id": "2085268751822553088",
+        "name": "cocoyu",
+        "username": "Cococowyu"
+      },
+      {
+        "id": "71419057",
+        "name": "venkatq3",
+        "username": "vpodugu"
+      },
+      {
+        "id": "3410833751",
+        "name": "Łukasz Biały",
+        "username": "lukasz_bialy"
+      },
+      {
+        "id": "2121753292212477952",
+        "name": "Sydla",
+        "username": "SydlaAI"
+      },
+      {
+        "id": "1659439170883026945",
+        "name": "Jack Rudenko",
+        "username": "jackrudenko"
+      },
+      {
+        "id": "2035042022307049472",
+        "name": "AI Agents in 5 Minutes",
+        "username": "AIAgentsIn5"
+      },
+      {
+        "id": "1858474496203911168",
+        "name": "Ackuity.ai",
+        "username": "ackuity_ai"
+      },
+      {
+        "id": "2106106907014361088",
+        "name": "Karim Sehili",
+        "username": "kasehili"
+      },
+      {
+        "id": "2068088590182371328",
+        "name": "Hasan Iqbal Butt",
+        "username": "hasaniqbal96"
+      },
+      {
+        "id": "2034478242191814656",
+        "name": "Nico Cantarelli",
+        "username": "bycantarelli"
+      },
+      {
+        "id": "430112935",
+        "name": "Denis Litchenko",
+        "username": "DenisLitchenko"
+      },
+      {
+        "id": "15756049",
+        "name": "Mike Elliott",
+        "username": "mikeelliott"
+      },
+      {
+        "id": "1898811925892403200",
+        "name": "Itay Guttman",
+        "username": "GuttmanIta76973"
+      },
+      {
+        "id": "121778026",
+        "name": "Junaid Farooq",
+        "username": "DrJunaidFarooq"
+      },
+      {
+        "id": "2122791331474886656",
+        "name": "Mark Westerweel",
+        "username": "MarkWesterweel"
+      },
+      {
+        "id": "23372897",
+        "name": "Alexander Riccio (@co2trackers)",
+        "username": "ariccio"
+      },
+      {
+        "id": "91763440",
+        "name": "Bijay Pandey",
+        "username": "bijaypandey"
+      },
+      {
+        "id": "1540221661",
+        "name": "Ava Nakamura",
+        "username": "AvaNakamurvd"
+      },
+      {
+        "id": "24544122",
+        "name": "Santosh Kumar",
+        "username": "santosh79"
+      },
+      {
+        "id": "2112550851743285248",
+        "name": "AgentStackList",
+        "username": "AgentStackList"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122846783370125657",
+    "next_token": "b26v89c19zqg8o3juzow6o0frk1x75ejwb5ss8lcw9xtp",
+    "oldest_id": "2122775347372679354",
+    "result_count": 20
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "data": [
+    {
+      "author_id": "1392217261180588032",
+      "conversation_id": "2122623552637833292",
+      "created_at": "2026-11-17T21:32:45.000Z",
+      "edit_history_tweet_ids": [
+        "2122805164482679162"
+      ],
+      "id": "2122805164482679162",
+      "lang": "es",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@GithubProjects Capo",
+      "url": "https://x.com/adewole033/status/2122805164482679162"
+    },
+    {
+      "author_id": "1964367263089446912",
+      "conversation_id": "2122623552637833292",
+      "created_at": "2026-11-17T12:03:14.000Z",
+      "edit_history_tweet_ids": [
+        "2122661840698437665"
+      ],
+      "id": "2122661840698437665",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@GithubProjects Self-hosted trip planning with live maps and group coordination is the feature every mainstream travel app decided wasn't worth building. The win for small operators is owning the group logistics layer without paying per-seat fees to Google.",
+      "url": "https://x.com/thariq_thinks/status/2122661840698437665"
+    },
+    {
+      "author_id": "1571241075011887105",
+      "conversation_id": "2122623552637833292",
+      "created_at": "2026-11-17T09:41:12.000Z",
+      "edit_history_tweet_ids": [
+        "2122626098080940189"
+      ],
+      "id": "2122626098080940189",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 295,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@GithubProjects self hosting this means you're the IT guy on the trip lol, server at home goes down and the whole group abroad can't see the plan",
+      "url": "https://x.com/asmirkn/status/2122626098080940189"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "id": "1392217261180588032",
+        "name": "franklinspaine",
+        "username": "adewole033"
+      },
+      {
+        "id": "1964367263089446912",
+        "name": "Thariq Hussain",
+        "username": "thariq_thinks"
+      },
+      {
+        "id": "1571241075011887105",
+        "name": "Asmir",
+        "username": "asmirkn"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122805164482679162",
+    "next_token": "b26v89c19zqg8o3juzow6lu7pl7dh4qr3yvua9d5yuav1",
+    "oldest_id": "2122626098080940189",
+    "result_count": 3
+  }
+}

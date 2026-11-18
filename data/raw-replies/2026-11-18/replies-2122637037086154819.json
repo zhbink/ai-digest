@@ -1,0 +1,504 @@
+{
+  "data": [
+    {
+      "author_id": "1634144143126724609",
+      "conversation_id": "2122637037086154819",
+      "created_at": "2026-11-18T00:18:32.000Z",
+      "edit_history_tweet_ids": [
+        "2122846882389172725"
+      ],
+      "id": "2122846882389172725",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@FuSheng_0306 问题是这个速度极其慢。好歹 VOA 或者实体模型速度还快点。",
+      "url": "https://x.com/hao47582057/status/2122846882389172725"
+    },
+    {
+      "author_id": "1825556649723240448",
+      "conversation_id": "2122637037086154819",
+      "created_at": "2026-11-17T22:02:23.000Z",
+      "edit_history_tweet_ids": [
+        "2122812622861197329"
+      ],
+      "id": "2122812622861197329",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 28,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@FuSheng_0306 背着Mac mini跑千问，1000个虚拟家庭训出91%，就想看它在真家里翻车几次才稳",
+      "url": "https://x.com/JMkernt/status/2122812622861197329"
+    },
+    {
+      "author_id": "723515363476951040",
+      "conversation_id": "2122637037086154819",
+      "created_at": "2026-11-17T21:10:34.000Z",
+      "edit_history_tweet_ids": [
+        "2122799579557138528"
+      ],
+      "id": "2122799579557138528",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@FuSheng_0306 管线能复用这条我同意，另外建议按家庭拆一次成功率：是每间屋子都稳在 91%，还是几间特别好、其余拖后腿。这个分布决定合成数据学到的是动作，还是记住了那 1000 个虚拟家庭的布局。",
+      "url": "https://x.com/VanceXin/status/2122799579557138528"
+    },
+    {
+      "author_id": "723515363476951040",
+      "conversation_id": "2122637037086154819",
+      "created_at": "2026-11-17T16:18:14.000Z",
+      "edit_history_tweet_ids": [
+        "2122726012077375794"
+      ],
+      "id": "2122726012077375794",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@Worldwide2060 @FuSheng_0306 91% 的单任务数字之外，把成功率按步骤拆开记才看得清管线：哪一步开始掉、掉多少。合成数据的家庭随机化如果没覆盖到那条路径，两步一连就露馅，这个比单任务分数更适合当验收指标。",
+      "url": "https://x.com/VanceXin/status/2122726012077375794"
+    },
+    {
+      "author_id": "2108438560416415744",
+      "conversation_id": "2122637037086154819",
+      "created_at": "2026-11-17T16:15:09.000Z",
+      "edit_history_tweet_ids": [
+        "2122725236965777747"
+      ],
+      "id": "2122725236965777747",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 43,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@FuSheng_0306 合成数据把训练门槛打下来了，但机器人这活延迟才是硬伤，远端推理来回一跳就不敢放手，最后还得落到端侧",
+      "url": "https://x.com/TedCai233/status/2122725236965777747"
+    },
+    {
+      "author_id": "1866085994262609921",
+      "conversation_id": "2122637037086154819",
+      "created_at": "2026-11-17T14:45:29.000Z",
+      "edit_history_tweet_ids": [
+        "2122702672566591553"
+      ],
+      "id": "2122702672566591553",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 77,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@FuSheng_0306 刚才我的Muse给我推送了另一家走完全相反路线的具身公司：法国 Genesis，今天 刚融了 5 亿美元，让 100 多个真人戴上传感手套干活，用真人数据训具身机器人🤖",
+      "url": "https://x.com/leonyann777/status/2122702672566591553"
+    },
+    {
+      "author_id": "2157357754",
+      "conversation_id": "2122637037086154819",
+      "created_at": "2026-11-17T14:30:34.000Z",
+      "edit_history_tweet_ids": [
+        "2122698918085709871"
+      ],
+      "id": "2122698918085709871",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@FuSheng_0306 背Mac mini、千问当大脑这个组合挺妙,低成本方案跑出91%,比那些堆硬件的路线务实多了。合成数据那条是真关键 想找WEEX置顶返佣或量化渠道的朋友，可以来我主页看看。",
+      "url": "https://x.com/weex_dante/status/2122698918085709871"
+    },
+    {
+      "author_id": "2109841453648355328",
+      "conversation_id": "2122637037086154819",
+      "created_at": "2026-11-17T13:54:34.000Z",
+      "edit_history_tweet_ids": [
+        "2122689858443636904"
+      ],
+      "id": "2122689858443636904",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 36,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@FuSheng_0306 人形机器人先解决摔了能自己起来",
+      "url": "https://x.com/XuK512520/status/2122689858443636904"
+    },
+    {
+      "author_id": "1582013601933451264",
+      "conversation_id": "2122637037086154819",
+      "created_at": "2026-11-17T13:47:36.000Z",
+      "edit_history_tweet_ids": [
+        "2122688102875709724"
+      ],
+      "id": "2122688102875709724",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 73,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@FuSheng_0306 早有这样的思路，当时还有疑问这宇树科技没有什么含金量护城河沒那么深，被群友骂无知",
+      "url": "https://x.com/fiyng24349705/status/2122688102875709724"
+    },
+    {
+      "author_id": "1800650806527430656",
+      "conversation_id": "2122637037086154819",
+      "created_at": "2026-11-17T13:46:33.000Z",
+      "edit_history_tweet_ids": [
+        "2122687840140329334"
+      ],
+      "id": "2122687840140329334",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 97,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@FuSheng_0306 关键不在机器人，在数据。1000 个虚拟家庭跑出来的训练集，比雇人示范便宜一个量级。硬件谁都能买，合成数据管线才是自己的资产。我盯的是这条管线能不能复用。",
+      "url": "https://x.com/ja439640517385/status/2122687840140329334"
+    },
+    {
+      "author_id": "143125394",
+      "conversation_id": "2122637037086154819",
+      "created_at": "2026-11-17T13:28:43.000Z",
+      "edit_history_tweet_ids": [
+        "2122683354151571828"
+      ],
+      "id": "2122683354151571828",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@leeluo2008 @FuSheng_0306 产业机器人和人形机器人应该是相互促进的",
+      "url": "https://x.com/dajinggogo/status/2122683354151571828"
+    },
+    {
+      "author_id": "1650805722446438400",
+      "conversation_id": "2122637037086154819",
+      "created_at": "2026-11-17T13:26:03.000Z",
+      "edit_history_tweet_ids": [
+        "2122682681083248953"
+      ],
+      "id": "2122682681083248953",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 76,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@FuSheng_0306 背个 Mac mini 走路不会晃掉吗😂",
+      "url": "https://x.com/thelazyyogii/status/2122682681083248953"
+    },
+    {
+      "author_id": "445273814",
+      "conversation_id": "2122637037086154819",
+      "created_at": "2026-11-17T13:16:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122680152383426879"
+      ],
+      "id": "2122680152383426879",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 71,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@FuSheng_0306 好想看看它遇到猫之后怎么办😼😼😼",
+      "url": "https://x.com/aWildWander/status/2122680152383426879"
+    },
+    {
+      "author_id": "1966457545662566400",
+      "conversation_id": "2122637037086154819",
+      "created_at": "2026-11-17T13:08:26.000Z",
+      "edit_history_tweet_ids": [
+        "2122678248429740037"
+      ],
+      "id": "2122678248429740037",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 46,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@FuSheng_0306 后训练过的？",
+      "url": "https://x.com/huachengxiaoliu/status/2122678248429740037"
+    },
+    {
+      "author_id": "2897043028",
+      "conversation_id": "2122637037086154819",
+      "created_at": "2026-11-17T12:16:55.000Z",
+      "edit_history_tweet_ids": [
+        "2122665281768337425"
+      ],
+      "id": "2122665281768337425",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 125,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "@FuSheng_0306 机器人也是玩具，乐高玩具都可以类似价格，何况机器人，实用机器在工厂一直生产产线使用，玩具机器人好玩就行，没一个包值钱，一件衣服值钱，这是k型分化时代",
+      "url": "https://x.com/leeluo2008/status/2122665281768337425"
+    },
+    {
+      "author_id": "1510226272206876674",
+      "conversation_id": "2122637037086154819",
+      "created_at": "2026-11-17T12:03:47.000Z",
+      "edit_history_tweet_ids": [
+        "2122661977344589899"
+      ],
+      "id": "2122661977344589899",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 108,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@FuSheng_0306 有个问题，用开源远端模型推理，这个时效是不是太慢了。特别对于机器人来说",
+      "url": "https://x.com/fabregasguo2/status/2122661977344589899"
+    },
+    {
+      "author_id": "1878246646267740160",
+      "conversation_id": "2122637037086154819",
+      "created_at": "2026-11-17T11:37:20.000Z",
+      "edit_history_tweet_ids": [
+        "2122655323194609698"
+      ],
+      "id": "2122655323194609698",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 50,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@FuSheng_0306 形态确实不是最主要的，无非就是一些自由度的差异，有的可能只要两个轴就可以了。所以在制造业，它就需有更多的形态来适配。",
+      "url": "https://x.com/Ding2048/status/2122655323194609698"
+    },
+    {
+      "author_id": "1496121204218150912",
+      "conversation_id": "2122637037086154819",
+      "created_at": "2026-11-17T11:28:36.000Z",
+      "edit_history_tweet_ids": [
+        "2122653126394368268"
+      ],
+      "id": "2122653126394368268",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 113,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "@FuSheng_0306 HALO真正有意思的不是91%这个数字，是数据来源：300小时训练数据全是仿真合成的，一条真人示范都没用。\n单项任务91%、串成两步就掉到70%左右，说明仿真到现实的最后一公里还没打通，连续动作一长就露馅。",
+      "url": "https://x.com/Worldwide2060/status/2122653126394368268"
+    },
+    {
+      "author_id": "2062486594528104448",
+      "conversation_id": "2122637037086154819",
+      "created_at": "2026-11-17T11:12:42.000Z",
+      "edit_history_tweet_ids": [
+        "2122649122734006781"
+      ],
+      "id": "2122649122734006781",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@boz_wave @FuSheng_0306 身体随便买，值钱的是数据和大脑，这话说到点子上了",
+      "url": "https://x.com/Aokeeeeeee/status/2122649122734006781"
+    },
+    {
+      "author_id": "2062486594528104448",
+      "conversation_id": "2122637037086154819",
+      "created_at": "2026-11-17T11:11:14.000Z",
+      "edit_history_tweet_ids": [
+        "2122648753060659564"
+      ],
+      "id": "2122648753060659564",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 85,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@FuSheng_0306 买来的机器人加开源大脑，91%成功率确实有点东西",
+      "url": "https://x.com/Aokeeeeeee/status/2122648753060659564"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "id": "1634144143126724609",
+        "name": "hao",
+        "username": "hao47582057"
+      },
+      {
+        "id": "1825556649723240448",
+        "name": "jimerrors",
+        "username": "JMkernt"
+      },
+      {
+        "id": "723515363476951040",
+        "name": "Feifei",
+        "username": "VanceXin"
+      },
+      {
+        "id": "2108438560416415744",
+        "name": "Ted Cai",
+        "username": "TedCai233"
+      },
+      {
+        "id": "1866085994262609921",
+        "name": "leon",
+        "username": "leonyann777"
+      },
+      {
+        "id": "2157357754",
+        "name": "Dante",
+        "username": "weex_dante"
+      },
+      {
+        "id": "2109841453648355328",
+        "name": "许可之",
+        "username": "XuK512520"
+      },
+      {
+        "id": "1582013601933451264",
+        "name": "飞扬",
+        "username": "fiyng24349705"
+      },
+      {
+        "id": "1800650806527430656",
+        "name": "字节X一鸣",
+        "username": "ja439640517385"
+      },
+      {
+        "id": "143125394",
+        "name": "Wer bin Ich",
+        "username": "dajinggogo"
+      },
+      {
+        "id": "1650805722446438400",
+        "name": "Just AI",
+        "username": "thelazyyogii"
+      },
+      {
+        "id": "445273814",
+        "name": "拾野｜WildWander",
+        "username": "aWildWander"
+      },
+      {
+        "id": "1966457545662566400",
+        "name": "huachengxiaoliu",
+        "username": "huachengxiaoliu"
+      },
+      {
+        "id": "2897043028",
+        "name": "x",
+        "username": "leeluo2008"
+      },
+      {
+        "id": "1510226272206876674",
+        "name": "fabregasguo2",
+        "username": "fabregasguo2"
+      },
+      {
+        "id": "1878246646267740160",
+        "name": "Ding | Physical AI 实践者 🤖",
+        "username": "Ding2048"
+      },
+      {
+        "id": "1496121204218150912",
+        "name": "Aivatar",
+        "username": "Worldwide2060"
+      },
+      {
+        "id": "2062486594528104448",
+        "name": "流浪的摄影师",
+        "username": "Aokeeeeeee"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122846882389172725",
+    "next_token": "b26v89c19zqg8o3juzow6lutdiou3g3by8lmec41web25",
+    "oldest_id": "2122648753060659564",
+    "result_count": 20
+  }
+}

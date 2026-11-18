@@ -1,0 +1,189 @@
+{
+  "data": [
+    {
+      "author_id": "1690404308851027968",
+      "created_at": "2026-11-17T23:16:26.000Z",
+      "edit_history_tweet_ids": [
+        "2122831256060862965"
+      ],
+      "id": "2122831256060862965",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 27,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122745773888524425",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 非常认同",
+      "url": "https://x.com/Sooophia1009/status/2122831256060862965"
+    },
+    {
+      "author_id": "2034230721397809152",
+      "created_at": "2026-11-17T22:45:17.000Z",
+      "edit_history_tweet_ids": [
+        "2122823418307625418"
+      ],
+      "id": "2122823418307625418",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 69,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122745773888524425",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 人类具有承担责任能力，AI没有",
+      "url": "https://x.com/Ruolinliu99/status/2122823418307625418"
+    },
+    {
+      "author_id": "760878456099835904",
+      "created_at": "2026-11-17T21:36:41.000Z",
+      "edit_history_tweet_ids": [
+        "2122806154518769879"
+      ],
+      "id": "2122806154518769879",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122745773888524425",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes AI的能力已经可以取代人类最聪明的数学家，而且不断增强向工程能力，人类根本不存在真正的护城河",
+      "url": "https://x.com/jetye1970/status/2122806154518769879"
+    },
+    {
+      "author_id": "1801265769180966912",
+      "created_at": "2026-11-17T17:40:12.000Z",
+      "edit_history_tweet_ids": [
+        "2122746642667642957"
+      ],
+      "id": "2122746642667642957",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 17,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122745781702492545",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 24 个链接，先挑最痛的那个",
+      "url": "https://x.com/Willie95163/status/2122746642667642957"
+    },
+    {
+      "author_id": "1801265769180966912",
+      "created_at": "2026-11-17T17:37:31.000Z",
+      "edit_history_tweet_ids": [
+        "2122745966839419093"
+      ],
+      "id": "2122745966839419093",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 182,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122745773888524425",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYi_AInotes 入门岗被端掉，这波比裁员还安静",
+      "url": "https://x.com/Willie95163/status/2122745966839419093"
+    },
+    {
+      "author_id": "1974653328274714624",
+      "created_at": "2026-11-17T17:36:47.000Z",
+      "edit_history_tweet_ids": [
+        "2122745781702492545"
+      ],
+      "id": "2122745781702492545",
+      "in_reply_to_user_id": "1974653328274714624",
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 813,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122745773888524425",
+          "type": "replied_to"
+        }
+      ],
+      "text": "给准备收藏开练的兄弟们划个重点，24 个链接千万别从第 1 个硬啃到第 24 个，按你现在的身份直接选一条最短路径切入就行：\n1. 纯小白或文科商科同学：直接看第 1 个 Anthropic 互动提示词教程 + 第 6 个微软生成式 AI 入门课，一个周末就能甩开 90% 只会跟 AI 闲聊的人\n2.",
+      "url": "https://x.com/AYi_AInotes/status/2122745781702492545"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "id": "1690404308851027968",
+        "name": "SooophiaPSY",
+        "username": "Sooophia1009"
+      },
+      {
+        "id": "2034230721397809152",
+        "name": "A+",
+        "username": "Ruolinliu99"
+      },
+      {
+        "id": "760878456099835904",
+        "name": "一叶知秋",
+        "username": "jetye1970"
+      },
+      {
+        "id": "1801265769180966912",
+        "name": "跨界漫游",
+        "username": "Willie95163"
+      },
+      {
+        "id": "1974653328274714624",
+        "name": "AYi",
+        "username": "AYi_AInotes"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122831256060862965",
+    "next_token": "b26v89c19zqg8o3juzow6nzjeasa6zo8r8epf9q2frjwd",
+    "oldest_id": "2122745781702492545",
+    "result_count": 6
+  }
+}

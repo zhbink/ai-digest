@@ -1,0 +1,514 @@
+{
+  "data": [
+    {
+      "author_id": "1414270991602110469",
+      "conversation_id": "2122807736941609261",
+      "created_at": "2026-11-18T00:44:41.000Z",
+      "edit_history_tweet_ids": [
+        "2122853465571627446"
+      ],
+      "id": "2122853465571627446",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@btibor91 Agreed, the best combo is GPT-6.2 Astra + Fable 5.2!",
+      "url": "https://x.com/RayLin_AI/status/2122853465571627446"
+    },
+    {
+      "author_id": "1732580170501066752",
+      "conversation_id": "2122807736941609261",
+      "created_at": "2026-11-18T00:37:16.000Z",
+      "edit_history_tweet_ids": [
+        "2122851597294457028"
+      ],
+      "id": "2122851597294457028",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@btibor91 Solid run across multi-datacenter ops. Curious how Sol holds up against Astra on tricky debugging, and whether the token bill stayed reasonable.",
+      "url": "https://x.com/mangolifes/status/2122851597294457028"
+    },
+    {
+      "author_id": "1538564713235337220",
+      "conversation_id": "2122807736941609261",
+      "created_at": "2026-11-18T00:23:13.000Z",
+      "edit_history_tweet_ids": [
+        "2122848061789491589"
+      ],
+      "id": "2122848061789491589",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@btibor91 having them review each other is the bit i'm stealing. one model checking the other catches what i'd miss at midnight",
+      "url": "https://x.com/AndrewBuilds98/status/2122848061789491589"
+    },
+    {
+      "author_id": "2114478360466427904",
+      "conversation_id": "2122807736941609261",
+      "created_at": "2026-11-17T23:59:15.000Z",
+      "edit_history_tweet_ids": [
+        "2122842031718650067"
+      ],
+      "id": "2122842031718650067",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 24,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@btibor91 give it short lived ssh certs + a command allowlist so one bad step cant wipe a box. sec tasks may hit the new cyber safeguards, abliterated glm flash red is our fallback",
+      "url": "https://x.com/redrouterorg/status/2122842031718650067"
+    },
+    {
+      "author_id": "3023431117",
+      "conversation_id": "2122807736941609261",
+      "created_at": "2026-11-17T23:58:11.000Z",
+      "edit_history_tweet_ids": [
+        "2122841761378926797"
+      ],
+      "id": "2122841761378926797",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@btibor91 The model isn't the headline, the test suite is. That migration worked because \"all tests passed\" gave the agent something to grade against for 6 hours. Same agent on an untested codebase is 6 hours of confident guesses. Tests are the scarce resource, not intelligence.",
+      "url": "https://x.com/thinh_lvv/status/2122841761378926797"
+    },
+    {
+      "author_id": "1451492468915064833",
+      "conversation_id": "2122807736941609261",
+      "created_at": "2026-11-17T23:53:39.000Z",
+      "edit_history_tweet_ids": [
+        "2122840623078310006"
+      ],
+      "id": "2122840623078310006",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 63,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@btibor91 is it better than opus5.5？",
+      "url": "https://x.com/huiu456/status/2122840623078310006"
+    },
+    {
+      "author_id": "2104993200490393600",
+      "conversation_id": "2122807736941609261",
+      "created_at": "2026-11-17T23:50:44.000Z",
+      "edit_history_tweet_ids": [
+        "2122839889729180057"
+      ],
+      "id": "2122839889729180057",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@btibor91 This is the review that matters. Launch-day hot takes about benchmarks, then the people actually using it say it just gets the work done.",
+      "url": "https://x.com/ceobrendan/status/2122839889729180057"
+    },
+    {
+      "author_id": "912641810148745217",
+      "conversation_id": "2122807736941609261",
+      "created_at": "2026-11-17T23:50:23.000Z",
+      "edit_history_tweet_ids": [
+        "2122839800466325559"
+      ],
+      "id": "2122839800466325559",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@btibor91 The cross-review is the most useful part here. If Astra catches defects Fable misses and vice versa, replacing either one outright could make the workflow worse. I'd rather have two models checking each other's patches than pick one based on a leaderboard.",
+      "url": "https://x.com/yolohair/status/2122839800466325559"
+    },
+    {
+      "author_id": "942382652694282240",
+      "conversation_id": "2122807736941609261",
+      "created_at": "2026-11-17T23:36:02.000Z",
+      "edit_history_tweet_ids": [
+        "2122836188654612793"
+      ],
+      "id": "2122836188654612793",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 19,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@btibor91 were you running them through codex or straight on the api?",
+      "url": "https://x.com/MohakBajaj5/status/2122836188654612793"
+    },
+    {
+      "author_id": "1665675488604434434",
+      "conversation_id": "2122807736941609261",
+      "created_at": "2026-11-17T23:35:51.000Z",
+      "edit_history_tweet_ids": [
+        "2122836141988630546"
+      ],
+      "id": "2122836141988630546",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@btibor91 6 hours from outdated to all tests passing on a multimillion line app. that's the number i'd screenshot",
+      "url": "https://x.com/amybuildsAI/status/2122836141988630546"
+    },
+    {
+      "author_id": "1439593236457218054",
+      "conversation_id": "2122807736941609261",
+      "created_at": "2026-11-17T23:26:24.000Z",
+      "edit_history_tweet_ids": [
+        "2122833765076767167"
+      ],
+      "id": "2122833765076767167",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 17,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@btibor91 That six-hour migration is a serious result. Did you run the clean-checkout test on the same machine where you’d been working, or in a fresh environment?",
+      "url": "https://x.com/catmanyau/status/2122833765076767167"
+    },
+    {
+      "author_id": "1739548671107289088",
+      "conversation_id": "2122807736941609261",
+      "created_at": "2026-11-17T23:07:19.000Z",
+      "edit_history_tweet_ids": [
+        "2122828963731169746"
+      ],
+      "id": "2122828963731169746",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 41,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@btibor91 green is only as good as the tests. Took PDF Desk from 103 to 293 tests in a morning and the new ones caught stuff the old ones never looked at. what do you check beyond all tests passing after 6 hours",
+      "url": "https://x.com/GabbaBuilds/status/2122828963731169746"
+    },
+    {
+      "author_id": "1710988050233511936",
+      "conversation_id": "2122807736941609261",
+      "created_at": "2026-11-17T23:04:37.000Z",
+      "edit_history_tweet_ids": [
+        "2122828284438450619"
+      ],
+      "id": "2122828284438450619",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@btibor91 @btibor91 Astra builds it, Fable audits it — that two-model loop is the honest workflow I have seen. 6 hours for a legacy upgrade is wild.",
+      "url": "https://x.com/shanke9527/status/2122828284438450619"
+    },
+    {
+      "author_id": "1916832523738378240",
+      "conversation_id": "2122807736941609261",
+      "created_at": "2026-11-17T22:43:23.000Z",
+      "edit_history_tweet_ids": [
+        "2122822940496404828"
+      ],
+      "id": "2122822940496404828",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 30,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@btibor91 Legacy migrations are where agents get tested properly, because the hard part is old dependencies and hidden behavior, not new code. How did you check that the upgraded app still behaved the same?",
+      "url": "https://x.com/yigittbuilds/status/2122822940496404828"
+    },
+    {
+      "author_id": "2109971736930242560",
+      "conversation_id": "2122807736941609261",
+      "created_at": "2026-11-17T22:39:07.000Z",
+      "edit_history_tweet_ids": [
+        "2122821864183771449"
+      ],
+      "id": "2122821864183771449",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 28,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@btibor91 Most day-to-day tasks just got done — followed you!",
+      "url": "https://x.com/Shenjingape/status/2122821864183771449"
+    },
+    {
+      "author_id": "2022146499040489472",
+      "conversation_id": "2122807736941609261",
+      "created_at": "2026-11-17T22:38:46.000Z",
+      "edit_history_tweet_ids": [
+        "2122821778544468091"
+      ],
+      "id": "2122821778544468091",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 47,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@btibor91 6 hours to get a multimillion-line legacy app green from a clean checkout is genuinely wild. but 'all tests pass' on code nobody fully understood is how you inherit a very fast, very confident mess.",
+      "url": "https://x.com/bobolv235824/status/2122821778544468091"
+    },
+    {
+      "author_id": "416071076",
+      "conversation_id": "2122807736941609261",
+      "created_at": "2026-11-17T22:35:38.000Z",
+      "edit_history_tweet_ids": [
+        "2122820989742682276"
+      ],
+      "id": "2122820989742682276",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 94,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@btibor91 A 20-year VCS migration with full history is a better test than most benchmarks. That's where tools quietly drop authors, dates and binary files, and you only notice years later.",
+      "url": "https://x.com/himanswhho/status/2122820989742682276"
+    },
+    {
+      "author_id": "600242661",
+      "conversation_id": "2122807736941609261",
+      "created_at": "2026-11-17T22:27:20.000Z",
+      "edit_history_tweet_ids": [
+        "2122818902107529722"
+      ],
+      "id": "2122818902107529722",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@btibor91 More good news for Sol: https://t.co/DLHcPaEJ9I",
+      "url": "https://x.com/1YoungBossNigga/status/2122818902107529722"
+    },
+    {
+      "author_id": "463412844",
+      "conversation_id": "2122807736941609261",
+      "created_at": "2026-11-17T22:27:19.000Z",
+      "edit_history_tweet_ids": [
+        "2122818895035650432"
+      ],
+      "id": "2122818895035650432",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@btibor91 Another good news for Sol: https://t.co/qDPq2TgAnQ",
+      "url": "https://x.com/tommyxrp_/status/2122818895035650432"
+    },
+    {
+      "author_id": "1981279476802592768",
+      "conversation_id": "2122807736941609261",
+      "created_at": "2026-11-17T22:23:39.000Z",
+      "edit_history_tweet_ids": [
+        "2122817974293962818"
+      ],
+      "id": "2122817974293962818",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@btibor91 depends what you throw at it though, small tasks are the easy part",
+      "url": "https://x.com/monstarxco/status/2122817974293962818"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "id": "1414270991602110469",
+        "name": "RayLin👾",
+        "username": "RayLin_AI"
+      },
+      {
+        "id": "1732580170501066752",
+        "name": "AI芒果派",
+        "username": "mangolifes"
+      },
+      {
+        "id": "1538564713235337220",
+        "name": "Andrew",
+        "username": "AndrewBuilds98"
+      },
+      {
+        "id": "2114478360466427904",
+        "name": "Red Router",
+        "username": "redrouterorg"
+      },
+      {
+        "id": "3023431117",
+        "name": "Thinh Le",
+        "username": "thinh_lvv"
+      },
+      {
+        "id": "1451492468915064833",
+        "name": "huiu456",
+        "username": "huiu456"
+      },
+      {
+        "id": "2104993200490393600",
+        "name": "Brendan Melanson",
+        "username": "ceobrendan"
+      },
+      {
+        "id": "912641810148745217",
+        "name": "史蒂芬讲AI",
+        "username": "yolohair"
+      },
+      {
+        "id": "942382652694282240",
+        "name": "Mohak Bajaj",
+        "username": "MohakBajaj5"
+      },
+      {
+        "id": "1665675488604434434",
+        "name": "Amy · fireply.ai",
+        "username": "amybuildsAI"
+      },
+      {
+        "id": "1439593236457218054",
+        "name": "catman",
+        "username": "catmanyau"
+      },
+      {
+        "id": "1739548671107289088",
+        "name": "Gabba | Gabba Works",
+        "username": "GabbaBuilds"
+      },
+      {
+        "id": "1710988050233511936",
+        "name": "呆崽说 AI",
+        "username": "shanke9527"
+      },
+      {
+        "id": "1916832523738378240",
+        "name": "Yigit Builds",
+        "username": "yigittbuilds"
+      },
+      {
+        "id": "2109971736930242560",
+        "name": "Ai神经猿｜AI Neural Ape",
+        "username": "Shenjingape"
+      },
+      {
+        "id": "2022146499040489472",
+        "name": "bobolv",
+        "username": "bobolv235824"
+      },
+      {
+        "id": "416071076",
+        "name": "rudeTool",
+        "username": "himanswhho"
+      },
+      {
+        "id": "600242661",
+        "name": "Keese 🔄™",
+        "username": "1YoungBossNigga"
+      },
+      {
+        "id": "463412844",
+        "name": "Tommy - {XRP}",
+        "username": "tommyxrp_"
+      },
+      {
+        "id": "1981279476802592768",
+        "name": "MonstarX",
+        "username": "monstarxco"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122853465571627446",
+    "next_token": "b26v89c19zqg8o3juzow6q3d9eajtco1i9skv7usv8nel",
+    "oldest_id": "2122817974293962818",
+    "result_count": 20
+  }
+}
