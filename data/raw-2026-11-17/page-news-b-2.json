@@ -1,0 +1,789 @@
+{
+  "data": [
+    {
+      "author_id": "1825243643529027584",
+      "conversation_id": "2122353504517857481",
+      "created_at": "2026-11-16T15:38:01.000Z",
+      "edit_history_tweet_ids": [
+        "2122353504517857481"
+      ],
+      "id": "2122353504517857481",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 11,
+        "impression_count": 8694,
+        "like_count": 202,
+        "quote_count": 2,
+        "reply_count": 33,
+        "retweet_count": 2
+      },
+      "text": "I kind of want to do a YouTube video or podcast about AI progress in German \n\nMaybe I should also talk to a few politicians\n\nI feel like I'm in a better position to talk about this than a lot of the typical boomer profs I see on TV or YouTube",
+      "url": "https://x.com/scaling01/status/2122353504517857481"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122351512974204928"
+        ]
+      },
+      "author_id": "731917653506318336",
+      "conversation_id": "2122351519932555701",
+      "created_at": "2026-11-16T15:30:08.000Z",
+      "edit_history_tweet_ids": [
+        "2122351519932555701"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/R0hQu4Xo2w",
+            "end": 228,
+            "expanded_url": "https://x.com/TheRundownAI/status/2122351519932555701/photo/1",
+            "media_key": "3_2122351512974204928",
+            "start": 205,
+            "url": "https://t.co/R0hQu4Xo2w"
+          }
+        ]
+      },
+      "id": "2122351519932555701",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 4932,
+        "like_count": 102,
+        "quote_count": 0,
+        "reply_count": 12,
+        "retweet_count": 2
+      },
+      "text": "Top stories in robotics today:\n\n- Tesla opens Cybercab to private buyers\n- Eric Trump-backed war robot startup misses payroll\n- Serve Robotics hands its robots an API\n- Robot dog takes real dog for a walk https://t.co/R0hQu4Xo2w",
+      "url": "https://x.com/TheRundownAI/status/2122351519932555701"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122350221183320064"
+        ]
+      },
+      "author_id": "1743487864934162432",
+      "conversation_id": "2122350577766338883",
+      "created_at": "2026-11-16T15:26:23.000Z",
+      "edit_history_tweet_ids": [
+        "2122350577766338883"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 106,
+            "id": "1635809139808141320",
+            "start": 97,
+            "username": "liquidai"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/CCAL5hOirK",
+            "end": 300,
+            "expanded_url": "https://x.com/ArtificialAnlys/status/2122350577766338883/photo/1",
+            "media_key": "3_2122350221183320064",
+            "start": 277,
+            "url": "https://t.co/CCAL5hOirK"
+          }
+        ]
+      },
+      "id": "2122350577766338883",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 106,
+              "id": "1635809139808141320",
+              "start": 97,
+              "username": "liquidai"
+            }
+          ]
+        },
+        "text": "d1.2-ultra is the #1 model on the Artificial Analysis Decision Index v2.1, with d1.2 placing #6\n\n@liquidai has released d1.2-ultra and d1.2, updating their d1-ultra and d1.1 flagship decision models.\n\nKey results:\n\n➤ d1.2-ultra is the #1 model on AA-Paperclip. With a score of 76, d1.2-ultra is the leading model on AA-Paperclip, our first-party private benchmark that assesses decision-making and extraction capabilities. It leads the next-best model, Drex Max v1.1, by 3 points\n\n➤ d1.2-ultra and d1.2 improve over their predecessors. d1.2-ultra scores 75, a 4-point gain over its predecessor d1-ultra, while d1.2 scores 69, a 3-point improvement over d1.1\n\n➤ d1.2-ultra and d1.2 both sit on the Capability vs. Cost Pareto frontier. d1.2-ultra and d1.2 cost $133 and $63, respectively, per one million Artificial Analysis Decision Index tasks and both models sit on the Capability vs. Cost Pareto frontier\n\nAdditional model details:\n\n➤ Context window: 64K tokens\n\n➤ Pricing: $0.042 and $0.02 per 1M input tokens for d1.2-ultra and d1.2, respectively\n\n➤ Multimodality: Text and image input\n\n➤ Providers: Available through Liquid AI’s first-party API"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 62,
+        "impression_count": 29527,
+        "like_count": 306,
+        "quote_count": 7,
+        "reply_count": 32,
+        "retweet_count": 30
+      },
+      "text": "d1.2-ultra is the #1 model on the Artificial Analysis Decision Index v2.1, with d1.2 placing #6\n\n@liquidai has released d1.2-ultra and d1.2, updating their d1-ultra and d1.1 flagship decision models.\n\nKey results:\n\n➤ d1.2-ultra is the #1 model on AA-Paperclip. With a score of https://t.co/CCAL5hOirK",
+      "url": "https://x.com/ArtificialAnlys/status/2122350577766338883"
+    },
+    {
+      "author_id": "1825243643529027584",
+      "conversation_id": "2122348096185053362",
+      "created_at": "2026-11-16T15:16:32.000Z",
+      "edit_history_tweet_ids": [
+        "2122348096185053362"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/ben_j_todd/sta…",
+            "end": 134,
+            "expanded_url": "https://twitter.com/ben_j_todd/status/2122318704260403562",
+            "start": 111,
+            "url": "https://t.co/nzq77YoVXc"
+          }
+        ]
+      },
+      "id": "2122348096185053362",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 14,
+        "impression_count": 9400,
+        "like_count": 197,
+        "quote_count": 0,
+        "reply_count": 10,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122318704260403562",
+          "type": "quoted"
+        }
+      ],
+      "text": "This is completely worthless. It's just AECI.\n\nWe need the real time horizons back not some extrapolated slop. https://t.co/nzq77YoVXc",
+      "url": "https://x.com/scaling01/status/2122348096185053362"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122303879618674688"
+        ]
+      },
+      "author_id": "1743487864934162432",
+      "conversation_id": "2122305411659497870",
+      "created_at": "2026-11-16T12:26:55.000Z",
+      "edit_history_tweet_ids": [
+        "2122305411659497870"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/5Co64HHDsB",
+            "end": 300,
+            "expanded_url": "https://x.com/ArtificialAnlys/status/2122305411659497870/photo/1",
+            "media_key": "3_2122303879618674688",
+            "start": 277,
+            "url": "https://t.co/5Co64HHDsB"
+          }
+        ]
+      },
+      "id": "2122305411659497870",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 305,
+              "id": "4398626122",
+              "start": 298,
+              "username": "OpenAI"
+            },
+            {
+              "end": 322,
+              "id": "4783690002",
+              "start": 307,
+              "username": "GoogleDeepMind"
+            },
+            {
+              "end": 333,
+              "id": "1661523610111193088",
+              "start": 324,
+              "username": "spacexai"
+            },
+            {
+              "end": 350,
+              "id": "1353836358901501952",
+              "start": 338,
+              "username": "AnthropicAI"
+            }
+          ]
+        },
+        "text": "All this AI progress before GTA VI!\n\nSince the first GTA VI trailer in December 2023, the top score on the Artificial Analysis Progress Index has more than doubled, from 160 to 358:\n\n➤ 481 of the 491 models on the Index were released\n\n➤ The top score was beaten on 23 separate days, by models from @OpenAI, @GoogleDeepMind, @spacexai and @AnthropicAI\n\n➤ GPT-4 Turbo held the top score on trailer day and would now rank 379th\n\n➤ 7 of those 23 came after the revised launch date of May 26\n\nGTA VI launches November 19. To the AI labs, please no launches that day, the team seems to be coming down with something."
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 68,
+        "impression_count": 56455,
+        "like_count": 750,
+        "quote_count": 18,
+        "reply_count": 70,
+        "retweet_count": 23
+      },
+      "text": "All this AI progress before GTA VI!\n\nSince the first GTA VI trailer in December 2023, the top score on the Artificial Analysis Progress Index has more than doubled, from 160 to 358:\n\n➤ 481 of the 491 models on the Index were released\n\n➤ The top score was beaten on 23 separate https://t.co/5Co64HHDsB",
+      "url": "https://x.com/ArtificialAnlys/status/2122305411659497870"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122291183619559424"
+        ]
+      },
+      "author_id": "731917653506318336",
+      "conversation_id": "2122291190175310218",
+      "created_at": "2026-11-16T11:30:24.000Z",
+      "edit_history_tweet_ids": [
+        "2122291190175310218"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/ZjmSn9aiUX",
+            "end": 239,
+            "expanded_url": "https://x.com/TheRundownAI/status/2122291190175310218/photo/1",
+            "media_key": "3_2122291183619559424",
+            "start": 216,
+            "url": "https://t.co/ZjmSn9aiUX"
+          }
+        ]
+      },
+      "id": "2122291190175310218",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 5853,
+        "like_count": 97,
+        "quote_count": 0,
+        "reply_count": 10,
+        "retweet_count": 3
+      },
+      "text": "Top stories in AI today:\n\n- Musk, Nvidia staff rally to bring back Jensen Huang\n- The Rundown Roundtable: Our AI use cases\n- Turn a messy plan into a shared board\n- Report: OAI folds robotics team into core research https://t.co/ZjmSn9aiUX",
+      "url": "https://x.com/TheRundownAI/status/2122291190175310218"
+    },
+    {
+      "author_id": "1825243643529027584",
+      "conversation_id": "2122173382091317507",
+      "created_at": "2026-11-16T03:42:17.000Z",
+      "edit_history_tweet_ids": [
+        "2122173382091317507"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/tarakeeney/sta…",
+            "end": 188,
+            "expanded_url": "https://twitter.com/tarakeeney/status/2122051336921403580",
+            "start": 165,
+            "url": "https://t.co/evFY1nVTDD"
+          }
+        ]
+      },
+      "id": "2122173382091317507",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 73,
+        "impression_count": 33259,
+        "like_count": 194,
+        "quote_count": 1,
+        "reply_count": 9,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122051336921403580",
+          "type": "quoted"
+        }
+      ],
+      "text": "Anthropic/Dario live rent free in Sam's head\n\nbut I would also be worried if I lost the lead twice with GPT-4 and reasoning models (and maybe soon with loopers too) https://t.co/evFY1nVTDD",
+      "url": "https://x.com/scaling01/status/2122173382091317507"
+    },
+    {
+      "author_id": "1825243643529027584",
+      "conversation_id": "2122170405423022377",
+      "created_at": "2026-11-16T03:30:27.000Z",
+      "edit_history_tweet_ids": [
+        "2122170405423022377"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/tszzl/status/2…",
+            "end": 69,
+            "expanded_url": "https://twitter.com/tszzl/status/2122126851678359940",
+            "start": 46,
+            "url": "https://t.co/KaSOrYegtH"
+          }
+        ]
+      },
+      "id": "2122170405423022377",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 32,
+        "impression_count": 23002,
+        "like_count": 194,
+        "quote_count": 0,
+        "reply_count": 22,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122126851678359940",
+          "type": "quoted"
+        }
+      ],
+      "text": "is the nationalization of AI labs inevitable? https://t.co/KaSOrYegtH",
+      "url": "https://x.com/scaling01/status/2122170405423022377"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122160994856374272"
+        ]
+      },
+      "author_id": "1743487864934162432",
+      "conversation_id": "2122161629592953032",
+      "created_at": "2026-11-16T02:55:35.000Z",
+      "edit_history_tweet_ids": [
+        "2122161629592953032"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/dwh719Cq14",
+            "end": 302,
+            "expanded_url": "https://x.com/ArtificialAnlys/status/2122161629592953032/photo/1",
+            "media_key": "3_2122160994856374272",
+            "start": 279,
+            "url": "https://t.co/dwh719Cq14"
+          }
+        ]
+      },
+      "id": "2122161629592953032",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 1731,
+              "id": "1751810001751183361",
+              "start": 1721,
+              "username": "cognition"
+            },
+            {
+              "end": 2194,
+              "id": "1753339277386342400",
+              "start": 2181,
+              "username": "Alibaba_Qwen"
+            }
+          ]
+        },
+        "text": "Alibaba has launched Qwen4 Max, gaining 9 points over Qwen3.8 Max on the Artificial Analysis Intelligence Index and landing 3 points behind Kimi K3.1 Pro at ~11% lower Cost per Task\n\nQwen4 Max, using xhigh reasoning effort, scores 43 on the Intelligence Index, 9 points ahead of Qwen3.8 Max (xhigh) and 3 points behind Kimi K3.1 Pro (max, 46)\n\nKey takeaways:\n\n➤ Qwen4 Max improves on every evaluation in the Index vs Qwen3.8 Max (xhigh, 34): HLE-Diamond +21 points (24% to 45%), AA-Omniscience +18 points, AutomationBench-AA +17 points, CritPt v2 +13 points, Terminal-Bench-Science +11 points, Terminal-Bench 4.0 +9 points, GDP.pdf +3 points, FrontierCode 2.0 +3 points and AA-Briefcase +82 Elo.\n\n➤ Qwen4 Max costs $3.27 per Intelligence Index task, ~3x less than Qwen3.8 Max ($10.02) and ~11% less than Kimi K3.1 Pro ($3.68): This is driven by 25% lower per-token pricing than Qwen3.8 Max, 70% cheaper cache hits and lower token usage. Tencent Hy4 costs ~3x less per task ($1.03) than Qwen4 Max but scores 8 points lower on the Index.\n\n➤ Qwen4 Max uses 39% fewer output tokens per task than Qwen3.8 Max: ~105k output tokens per Intelligence Index task vs ~171k for Qwen3.8 Max, ~72k for Kimi K3.1 Pro and ~78k for Tencent Hy4. Qwen4 Max uses fewer tokens, while increasing 9 points on the Intelligence Index\n\n➤ Improvements in AA-Briefcase (knowledge work): On AA-Briefcase, our evaluation of agentic work across real business files, Qwen4 Max reaches 1686 Elo vs 1674 for Kimi K3.1 Pro and 1446 for Tencent Hy4.\n\n➤ Qwen4 Max trails Kimi K3.1 Pro on Terminal-Bench 4.0 and Tencent Hy4 on FrontierCode 2.0: Qwen4 Max scores 48% on Terminal-Bench 4.0 vs 67% for Kimi K3.1 Pro and 37% for Tencent Hy4. On FrontierCode 2.0, @cognition’s private evaluation of real-world coding tasks, it scores 26%, level with Kimi K3.1 Pro (26%) and behind Tencent Hy4 (31%).\n\nKey model details:\n\n➤ Context window: 1M tokens\n\n➤ Multimodal: Text and image input with text output\n\n➤ Pricing: $1.50/$4.50 per 1M input/output tokens on Alibaba's first-party APIs, with a $0.075 cache hit price. This is lower than Qwen3.8 Max across the board ($2.00/$6.00, with a $0.25 cache hit price)\n\n➤ Availability: @Alibaba_Qwen 's first-party APIs"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 213,
+        "impression_count": 444850,
+        "like_count": 1538,
+        "quote_count": 109,
+        "reply_count": 159,
+        "retweet_count": 101
+      },
+      "text": "Alibaba has launched Qwen4 Max, gaining 9 points over Qwen3.8 Max on the Artificial Analysis Intelligence Index and landing 3 points behind Kimi K3.1 Pro at ~11% lower Cost per Task\n\nQwen4 Max, using xhigh reasoning effort, scores 43 on the Intelligence Index, 9 points ahead of https://t.co/dwh719Cq14",
+      "url": "https://x.com/ArtificialAnlys/status/2122161629592953032"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122138315314855936"
+        ]
+      },
+      "author_id": "23113993",
+      "conversation_id": "2122138368981213661",
+      "created_at": "2026-11-16T01:23:09.000Z",
+      "edit_history_tweet_ids": [
+        "2122138368981213661"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/EHxYMQoXvi",
+            "end": 239,
+            "expanded_url": "https://x.com/minchoi/status/2122138368981213661/photo/1",
+            "media_key": "3_2122138315314855936",
+            "start": 216,
+            "url": "https://t.co/EHxYMQoXvi"
+          },
+          {
+            "display_url": "x.com/business/statu…",
+            "end": 263,
+            "expanded_url": "https://twitter.com/business/status/2122048247225000173",
+            "start": 240,
+            "url": "https://t.co/66T23mxyp0"
+          }
+        ]
+      },
+      "id": "2122138368981213661",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 9,
+        "impression_count": 15280,
+        "like_count": 138,
+        "quote_count": 2,
+        "reply_count": 35,
+        "retweet_count": 16
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122048247225000173",
+          "type": "quoted"
+        }
+      ],
+      "text": "Jensen Huang might be coming BACK to NVIDIA. 🤯\n\nJust DAYS after stepping down as CEO, he's reportedly discussing a return.\n\nSilicon Valley allies are even forming a \"war room\" to bring him back.\n\nPer Financial Times https://t.co/EHxYMQoXvi https://t.co/66T23mxyp0",
+      "url": "https://x.com/minchoi/status/2122138368981213661"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122125522415017984"
+        ]
+      },
+      "author_id": "1825243643529027584",
+      "conversation_id": "2122129783119311230",
+      "created_at": "2026-11-16T00:49:02.000Z",
+      "edit_history_tweet_ids": [
+        "2122129783119311230"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/D2OGoMmhQW",
+            "end": 289,
+            "expanded_url": "https://x.com/scaling01/status/2122129783119311230/photo/1",
+            "media_key": "3_2122125522415017984",
+            "start": 266,
+            "url": "https://t.co/D2OGoMmhQW"
+          }
+        ]
+      },
+      "id": "2122129783119311230",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 157,
+        "impression_count": 32693,
+        "like_count": 346,
+        "quote_count": 2,
+        "reply_count": 32,
+        "retweet_count": 13
+      },
+      "text": "im toying with a new idea\n\nit's pretty blasphemous. I do love my straight lines, but how about a bunch of s-curves?\n\nreasoning era\nagentic-RL-maxxing era\nloopmaxxer era (and multi-agent era)\n\nthe labs can probably make a lot nicer curves and connect the dots better https://t.co/D2OGoMmhQW",
+      "url": "https://x.com/scaling01/status/2122129783119311230"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1331,
+        "media_key": "3_2122351512974204928",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXQbdNNXIAAsYJ4.jpg",
+        "width": 2367
+      },
+      {
+        "height": 2040,
+        "media_key": "3_2122350221183320064",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXQaSA6agAAtMuL.jpg",
+        "width": 2464
+      },
+      {
+        "height": 1344,
+        "media_key": "3_2122303879618674688",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXPwIlIawAAESut.jpg",
+        "width": 2394
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2122291183619559424",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXPklk2WUAAgOw1.jpg",
+        "width": 1920
+      },
+      {
+        "height": 2240,
+        "media_key": "3_2122160994856374272",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXNuLl6akAA2GOq.jpg",
+        "width": 2434
+      },
+      {
+        "height": 1086,
+        "media_key": "3_2122138315314855936",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXNZjeCWgAAYOxW.jpg",
+        "width": 1448
+      },
+      {
+        "height": 1710,
+        "media_key": "3_2122125522415017984",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXNN60xWYAAE7ci.jpg",
+        "width": 3960
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122318230656110592"
+          ]
+        },
+        "author_id": "1364187449526808583",
+        "conversation_id": "2122318704260403562",
+        "created_at": "2026-11-16T13:19:44.000Z",
+        "edit_history_tweet_ids": [
+          "2122318704260403562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0XKCIBjXb1",
+              "end": 48,
+              "expanded_url": "https://x.com/ben_j_todd/status/2122318704260403562/photo/1",
+              "media_key": "3_2122318230656110592",
+              "start": 25,
+              "url": "https://t.co/0XKCIBjXb1"
+            }
+          ]
+        },
+        "id": "2122318704260403562",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 427,
+          "impression_count": 205905,
+          "like_count": 1131,
+          "quote_count": 51,
+          "reply_count": 52,
+          "retweet_count": 113
+        },
+        "text": "The METR graph, updated: https://t.co/0XKCIBjXb1"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122050699223597057"
+          ]
+        },
+        "author_id": "1947780792635297795",
+        "conversation_id": "2122051336921403580",
+        "created_at": "2026-11-15T19:37:19.000Z",
+        "edit_history_tweet_ids": [
+          "2122051003604214166",
+          "2122051336921403580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 170,
+              "id": "1714438092655149056",
+              "start": 162,
+              "username": "ChatGPT"
+            },
+            {
+              "end": 251,
+              "id": "4398626122",
+              "start": 244,
+              "username": "OpenAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6BxHFa1zBw",
+              "end": 297,
+              "expanded_url": "https://x.com/tarakeeney/status/2122051336921403580/video/1",
+              "media_key": "13_2122050699223597057",
+              "start": 274,
+              "url": "https://t.co/6BxHFa1zBw"
+            }
+          ]
+        },
+        "id": "2122051336921403580",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 336,
+          "impression_count": 107271,
+          "like_count": 866,
+          "quote_count": 10,
+          "reply_count": 56,
+          "retweet_count": 46
+        },
+        "text": "Introducing… SAM ALTMAN!!! 🤯 \n\nNo stage. No studio. \n\nJust two friends on a walk. \n\nSam like you've never seen him before!!!! Just 11 months ago, I started using @ChatGPT  to build my dream company. \n\nToday, I'm interviewing the man behind it. @OpenAI  \n\nFollow for part 2! https://t.co/6BxHFa1zBw"
+      },
+      {
+        "author_id": "1460283925",
+        "conversation_id": "2122126850516566317",
+        "created_at": "2026-11-16T00:37:23.000Z",
+        "edit_history_tweet_ids": [
+          "2122126851678359940"
+        ],
+        "id": "2122126851678359940",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 54491,
+          "like_count": 811,
+          "quote_count": 9,
+          "reply_count": 29,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122126850516566317",
+            "type": "replied_to"
+          }
+        ],
+        "text": "this has happened before very loudly in public with Fable and yet nobody seems to have reckoned with it at all or come to grips with where ultimate discretion lies. there is an unofficial licensing regime for frontier models. the feds consider it a potential weapons technology"
+      },
+      {
+        "author_id": "34713362",
+        "conversation_id": "2122048247225000173",
+        "created_at": "2026-11-15T19:25:02.000Z",
+        "edit_history_tweet_ids": [
+          "2122048247225000173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Ousted Nvidia Corp. chief executive officer Jensen Huang is discussing a possible comeback to the company just days after the board of directors pushed him out, the Financial Times reported.",
+              "display_url": "bloomberg.com/news/articles/…",
+              "end": 207,
+              "expanded_url": "https://www.bloomberg.com/news/articles/2026-11-15/huang-discusses-comeback-as-nvidia-chief-with-allies-ft-says?taid=6afa070e718669000140b3ee&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+              "images": [
+                {
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/news_img/2122048248823136256/oHI2qksM?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2122048248823136256/oHI2qksM?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 184,
+              "status": 200,
+              "title": "Huang Discusses Comeback as Nvidia Chief With Allies, FT Says",
+              "unwound_url": "https://www.bloomberg.com/news/articles/2026-11-15/huang-discusses-comeback-as-nvidia-chief-with-allies-ft-says?taid=6afa070e718669000140b3ee&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+              "url": "https://t.co/Wvt6N663gB"
+            }
+          ]
+        },
+        "id": "2122048247225000173",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 245,
+          "impression_count": 468991,
+          "like_count": 2840,
+          "quote_count": 240,
+          "reply_count": 282,
+          "retweet_count": 550
+        },
+        "text": "Ousted Nvidia chief executive officer Jensen Huang is discussing a possible comeback to the company just days after the board of directors pushed him out, the Financial Times reported https://t.co/Wvt6N663gB"
+      }
+    ],
+    "users": [
+      {
+        "id": "1825243643529027584",
+        "name": "Lisan al Gaib",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831493788679761920/-q9w6dzd_normal.jpg",
+        "public_metrics": {
+          "followers_count": 63682,
+          "following_count": 1405,
+          "like_count": 56867,
+          "listed_count": 1120,
+          "media_count": 5874,
+          "tweet_count": 25820
+        },
+        "username": "scaling01",
+        "verified": false
+      },
+      {
+        "id": "731917653506318336",
+        "name": "The Rundown AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672707817197965312/zsxkJv_T_normal.jpg",
+        "public_metrics": {
+          "followers_count": 231786,
+          "following_count": 119,
+          "like_count": 4625,
+          "listed_count": 4032,
+          "media_count": 3240,
+          "tweet_count": 5083
+        },
+        "username": "TheRundownAI",
+        "verified": true
+      },
+      {
+        "id": "1743487864934162432",
+        "name": "Artificial Analysis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042402069320290304/A8C1lP07_normal.jpg",
+        "public_metrics": {
+          "followers_count": 179839,
+          "following_count": 693,
+          "like_count": 2858,
+          "listed_count": 2628,
+          "media_count": 2999,
+          "tweet_count": 4201
+        },
+        "username": "ArtificialAnlys",
+        "verified": true
+      },
+      {
+        "id": "1635809139808141320",
+        "name": "Liquid AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1702611993327251456/PUUuOA4W_normal.jpg",
+        "public_metrics": {
+          "followers_count": 48127,
+          "following_count": 74,
+          "like_count": 3964,
+          "listed_count": 580,
+          "media_count": 263,
+          "tweet_count": 1729
+        },
+        "username": "liquidai",
+        "verified": true
+      },
+      {
+        "id": "23113993",
+        "name": "Min Choi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1638359113221517312/CBZaJFyA_normal.jpg",
+        "public_metrics": {
+          "followers_count": 392618,
+          "following_count": 1272,
+          "like_count": 54629,
+          "listed_count": 5007,
+          "media_count": 9152,
+          "tweet_count": 58509
+        },
+        "username": "minchoi",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122353504517857481",
+    "next_token": "b26v89c19zqg8o3juzow6b6l3irdpi568mbyycmar4v3x",
+    "oldest_id": "2122129783119311230",
+    "result_count": 11
+  }
+}

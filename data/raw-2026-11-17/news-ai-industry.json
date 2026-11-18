@@ -1,0 +1,325 @@
+{
+  "data": [
+    {
+      "category": "News",
+      "contexts": {
+        "topics": [
+          "Technology",
+          "AI"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "Imagine an AI that spots a scientific question, gathers evidence, tests ideas, and updates its beliefs—all on its own. Perplexity AI just committed massive resources to make that real.",
+      "id": "2122367568191050161",
+      "name": "Perplexity Launches Frontier Research with 10,000 GPUs for Autonomous AI Scientists",
+      "summary": "Perplexity AI unveiled Frontier Research today, dedicating over 10,000 GPUs to build automated systems that handle the complete cycle of scientific inquiry, from hypothesis formation to experimentation. CEO Aravind Srinivas and Research Lead Andrew Gordon Wilson emphasized open-sourcing models, publishing papers, and inviting collaboration on multi-agent systems and continual learning. The team is hiring in San Francisco, Palo Alto, New York, and London, with applications due by December 5, aiming to accelerate research through real-world testing in Perplexity products.",
+      "updated_at": "2026-11-16T20:00:34.000Z",
+      "url": "https://x.com/i/trending/2122367568191050161"
+    },
+    {
+      "category": "News",
+      "contexts": {
+        "topics": [
+          "Technology",
+          "AI"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "Stanford professors Yejin Choi and Carlos Guestrin just unveiled Noeri, born from a clever hack that helped microbiologists run AI cheaply without pricey models like GPT-5.",
+      "id": "2122395173061853264",
+      "name": "Stanford Professors Launch Noeri with $110M for Custom Self-Improving AI",
+      "summary": "Noeri emerged from stealth on November 16, 2026, with a massive $110 million seed round led by Menlo Ventures to build 'plural intelligence'—specialized, self-improving AI systems companies can own and tailor. Their 'AI engineer' reviews client workflows and suggests smart tweaks like better tools or smaller models, all with clear explanations for approval, helping bridge the gap to real business needs. Founders emphasize empowerment, letting teams craft their own AI rather than renting from a few big labs, a vision backed by investors like NVIDIA and early wins in research efficiency.",
+      "updated_at": "2026-11-16T23:59:46.000Z",
+      "url": "https://x.com/i/trending/2122395173061853264"
+    },
+    {
+      "category": "News",
+      "contexts": {
+        "topics": [
+          "Technology",
+          "Robotics"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "Sam Altman envisions AI robots churning out data centers that build themselves, potentially dropping costs from $70 billion to $20 billion per gigawatt.",
+      "id": "2121691715010806143",
+      "name": "Sam Altman Eyes Robot-Built Data Centers to Slash AI Costs",
+      "summary": "On John Collison’s Cheeky Pint podcast, OpenAI CEO Sam Altman shared plans to use robotics for self-replicating data centers, including AI-controlled factories for chips, turbines, and solar panels to produce cheap compute. He highlighted how robots could bypass permitting delays and supply chain issues, building on OpenAI's in-house chip and data center work. The idea drew mixed reactions, with some lamenting fewer construction jobs than promised, amid broader questions on AI's economic impact and automation's workforce effects.",
+      "updated_at": "2026-11-16T04:02:42.000Z",
+      "url": "https://x.com/i/trending/2121691715010806143"
+    },
+    {
+      "category": "News",
+      "contexts": {
+        "topics": [
+          "Technology",
+          "AI",
+          "Business & Finance"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "Tech investors woke up to a sharp reality check Monday as forecasts for massive AI spending took a big hit. Nvidia shares plunged over 5% in premarket, wiping out nearly $2 trillion in value since their October peak.",
+      "id": "2122309300601205175",
+      "name": "SemiAnalysis Cuts AI Chip Spending Forecasts, Tech Stocks Slide",
+      "summary": "Semiconductor research firm SemiAnalysis sharply lowered its long-term AI accelerator spending projections, with 2028 estimates dropping 28% to $758 billion and 2030 falling 40% to $923 billion. The revisions, driven by slower revenue growth at AI labs, tighter capital markets, and U.S. election delays, hit Nvidia hardest, accounting for 66% of reduced shipments through 2030. Even after cuts, spending is still set to more than double by 2030, though markets reacted with Nasdaq 100 futures down 1.7% ahead of Nvidia's earnings.",
+      "updated_at": "2026-11-17T00:14:12.000Z",
+      "url": "https://x.com/i/trending/2122309300601205175"
+    },
+    {
+      "category": "Other",
+      "contexts": {
+        "topics": [
+          "Technology"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "Teams of specialized AI agents are now splitting tasks, chatting on shared boards, and solving problems that single models can't touch alone.",
+      "id": "2122421047437729839",
+      "name": "Silicon Valley Races to Build AI Agent Swarms",
+      "summary": "Silicon Valley developers and investors are pushing agent swarms—coordinated groups of AI agents that handle search, payments, memory, and more through new tools and market maps from a16z. Tools like Swarms Corp's AgentRearrange and Google's Antigravity let builders create multi-agent workflows with simple code, spawning coordinators, workers, and verifiers that debate and test in real time. While token costs and coordination challenges persist, the rapid rise of these systems has experts rethinking how companies organize, favoring swarm-native setups over traditional ones.",
+      "updated_at": "2026-11-16T22:39:13.000Z",
+      "url": "https://x.com/i/trending/2122421047437729839"
+    },
+    {
+      "category": "News",
+      "contexts": {
+        "topics": [
+          "Technology",
+          "AI"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "OpenAI leaders, including CEO Sam Altman, pursued a massive deal to buy a startup decoding AI's inner workings amid security worries.",
+      "id": "2122371048964231300",
+      "name": "OpenAI Explored $5 Billion Goodfire Acquisition This Summer",
+      "summary": "Goodfire, a 2023-founded specialist in mechanistic interpretability, caught OpenAI's eye for its tools that peer inside neural networks to spot hidden dangers like cyberattacks. Talks this summer aimed at a $5 billion valuation—four times its recent $1.25 billion funding round—but fell through as Goodfire chose independence to serve multiple AI labs. Backed by investors like Anthropic and Menlo Ventures, the startup already partners with Microsoft and others, highlighting the push for safer AI through transparent 'black box' analysis.",
+      "updated_at": "2026-11-16T16:54:55.000Z",
+      "url": "https://x.com/i/trending/2122371048964231300"
+    },
+    {
+      "category": "News",
+      "contexts": {
+        "topics": [
+          "Technology",
+          "AI"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "Companies once stuck with one AI provider are now mixing models like pros, with open-weight options surging in use.",
+      "id": "2122402365118533637",
+      "name": "Enterprises Rapidly Shift to Multi-Model AI Strategies",
+      "summary": "Databricks' new AI Index, based on traffic from over 10,000 enterprises, shows open-weight models jumping from 7.3% to 30.9% of token traffic in just 3.5 months. Today, 75% of firms use two or more providers, and half use three or more, favoring models like DeepSeek and Zhipu for coding and batch tasks. Leaders like Patrick Wendell and CEO Ali Ghodsi call the changes striking, as task-specific routing—such as Claude for planning and OpenAI for editing—becomes standard, pointing to a market optimizing for cost and fit over single-lab loyalty.",
+      "updated_at": "2026-11-17T00:00:40.000Z",
+      "url": "https://x.com/i/trending/2122402365118533637"
+    },
+    {
+      "category": "News",
+      "contexts": {
+        "topics": [
+          "Business & Finance",
+          "Entrepreneurship",
+          "Technology",
+          "AI"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "Tired of salespeople wasting hours entering data after closing deals? Dreamteam's founders, fresh from Freshworks, just secured $53 million to fix that with AI agents that handle the grunt work.",
+      "id": "2122364728190378261",
+      "name": "Dreamteam Raises $53 Million to Build AI-Native CRM Challenging Salesforce",
+      "summary": "Founded in 2025 by three ex-Freshworks executives—Anand Venkatraman, Senthil Kanthaswamy, and Ramesh Parthasarathy—Dreamteam launched with a 'Company Brain' that auto-pulls data from emails, calendars, and meetings. Four AI agents then research prospects, prep calls, draft follow-ups, and spot risky deals, freeing humans for real sales work. The funding from Accel India, Together Fund, and Premji Invest comes after signing over 100 paying customers in 13 countries, including switches from Salesforce, at a competitive $49 per month per seat.",
+      "updated_at": "2026-11-16T17:37:59.000Z",
+      "url": "https://x.com/i/trending/2122364728190378261"
+    },
+    {
+      "category": "News",
+      "contexts": {
+        "topics": [
+          "Technology",
+          "AI"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "Sarvam AI just unveiled Token Factory, bringing top open-weight models to Indian GPU clusters with speedy, affordable access right at home.",
+      "id": "2122445081944936646",
+      "name": "Sarvam AI Launches Token Factory for Fast Indian AI Inference",
+      "summary": "The new platform serves models like Sarvam 105B, DeepSeek, and GLM through a single OpenAI-compatible API, prioritizing low rupees pricing, data residency, and performance matching global leaders. Early testers praise its benchmarks, with speeds up to 888 tokens per second and cache hit rates over 95%, plus introductory rates like ₹10 per million input tokens for Sarvam 105B. Developers highlight its efficiency for agents and workflows, undercutting rivals while keeping data in India amid the growing local AI scene.",
+      "updated_at": "2026-11-16T21:49:28.000Z",
+      "url": "https://x.com/i/trending/2122445081944936646"
+    },
+    {
+      "category": "News",
+      "contexts": {
+        "topics": [
+          "Technology",
+          "AI"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "OpenAI just locked in massive dedicated compute power to fuel its next AI breakthroughs. TensorWave steps up with a six-year deal packing AMD's latest GPUs across U.S. data centers.",
+      "id": "2122402364132897053",
+      "name": "OpenAI Secures 457 MW AMD AI Infrastructure from TensorWave",
+      "summary": "The agreement delivers 457 megawatts of IT capacity using AMD Instinct MI455X GPUs in Helios rack-scale systems, marking TensorWave's largest deployment and about 8% of OpenAI and AMD's broader 6-gigawatt GPU partnership. This single-tenant setup supports large-scale AI training and inference, connected by high-performance Ethernet, with first capacity online in early 2027 and full rollout by early 2028. Leaders from TensorWave, AMD, and OpenAI emphasized how it meets surging demand for reliable, massive-scale AI compute to advance frontier models worldwide.",
+      "updated_at": "2026-11-16T19:03:12.000Z",
+      "url": "https://x.com/i/trending/2122402364132897053"
+    },
+    {
+      "category": "News",
+      "contexts": {
+        "topics": [
+          "Technology",
+          "AI"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "Imagine AI agents browsing jobs, bidding on gigs, and getting paid—all without human help. TermiX's Agent.family makes this real through on-chain trust and escrow.",
+      "id": "2121839791142793642",
+      "name": "AI Agents Launch Autonomous Marketplace on TermiX",
+      "summary": "On TermiX and Agent.family, AI agents now discover services, bid on jobs, deliver work, and settle payments using portable .agent identities and reputation scores from verified tasks. Over 10,500 distinct agents completed jobs from November 1 to 16, with many handling just one or two specialized tasks. Standout examples like Montage Studio coordinate video production by hiring other agents for storyboarding, rendering, and music, all secured by escrow and evaluator panels for disputes. Developers integrate via SDKs, shifting focus from building tools to hiring the right agent.",
+      "updated_at": "2026-11-16T19:32:48.000Z",
+      "url": "https://x.com/i/trending/2121839791142793642"
+    },
+    {
+      "category": "News",
+      "contexts": {
+        "topics": [
+          "Business & Finance",
+          "Entrepreneurship"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "Plural's partners, including Wise co-founder Taavet Hinrikus, just closed a massive €1 billion fund to fuel Europe's boldest tech builders. It's a clear sign of the continent's rising confidence.",
+      "id": "2122260131639676997",
+      "name": "Plural Raises €1 Billion for Europe's Frontier Tech Founders",
+      "summary": "The London-based VC firm, founded by tech entrepreneurs like Taavet Hinrikus and Ian Hogarth, raised €1 billion—nearly four times its 2022 debut fund—for early-stage bets in energy, AI infrastructure, defense, health, robotics, and space. Two-thirds targets new investments, with one-third for follow-ons in stars like Helsing, Proxima Fusion, and The Exploration Company, which have pulled in billions more. General Partner Carina Namih called it proof of Europe's fast-changing tech scene, where local capital now matches founders' ambitions to build global giants.",
+      "updated_at": "2026-11-16T20:56:02.000Z",
+      "url": "https://x.com/i/trending/2122260131639676997"
+    },
+    {
+      "category": "News",
+      "contexts": {
+        "topics": [
+          "Technology",
+          "Business & Finance"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "Goldman Sachs traders heard unusually negative client talk last week, with AI chip stocks now priced for earnings drops despite Wall Street's growth hopes.",
+      "id": "2122464099590164980",
+      "name": "AI Chip Stocks Face Pessimism Amid Demand Warnings",
+      "summary": "Goldman Sachs reports fading confidence in AI investments, as client sentiment turned deeply pessimistic and valuations signal negative growth in two years, contrasting consensus forecasts of 30% gains. OpenAI CEO Sam Altman cautioned chipmakers against assuming labs like his will buy all their output, noting multiple vendors banking on limited demand from a few big players. While data center expansions continue solidly, reactions see this as a needed correction for overoptimistic supply plans rather than an AI slowdown.",
+      "updated_at": "2026-11-16T23:05:03.000Z",
+      "url": "https://x.com/i/trending/2122464099590164980"
+    },
+    {
+      "category": "News",
+      "contexts": {
+        "topics": [
+          "Technology",
+          "AI"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "Imagine your AI helper hunting down the perfect gift, filling the cart, and ready to buy—with you giving the final nod via fingerprint. OpenAI just made that real for some users.",
+      "id": "2121981410583965918",
+      "name": "OpenAI Launches ChatGPT Wallet for AI-Agent Purchases",
+      "summary": "ChatGPT Wallet lets AI agents called 'dots' handle online shopping for Pro subscribers in the US, starting November 13. Users link a credit card once securely, and the agent searches, adds items, and preps checkout, but every purchase requires biometric approval like Face ID to show details and confirm. Built with AmEx, Mastercard, and Visa, it uses one-time tokens for safety, keeps card rewards intact, and works only in dot conversations for those 18+ with eligible US cards. Early users praise the human oversight for simple buys like reorders, while skeptics flag privacy worries and potential checkout glitches as retailers adapt.",
+      "updated_at": "2026-11-16T20:57:04.000Z",
+      "url": "https://x.com/i/trending/2121981410583965918"
+    },
+    {
+      "category": "Other",
+      "contexts": {
+        "topics": [
+          "Technology",
+          "Software Development"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "Thariq, once on Anthropic's Claude Code team, shared how agents in his game project iterated on a 'bunny fighter' character with sketches and feedback loops.",
+      "id": "2122448318051553488",
+      "name": "Developers Envision AI Workspaces Beyond Software Factories",
+      "summary": "A discussion explores moving past 'software factories' in AI-assisted coding toward collaborative workspaces where humans guide multiple agents. Thariq highlighted his game development example, with agents generating art and mechanics while he directed the vision. Microsoft CEO Satya Nadella noted in a recent podcast that cheap code generation shifts focus to verification, prompting teams to build factories and own the full AI stack. Developers propose ideas like agent-integrated OS chats, monitoring dashboards, and shared canvases, emphasizing trust through human oversight amid evolving tools.",
+      "updated_at": "2026-11-16T22:02:19.000Z",
+      "url": "https://x.com/i/trending/2122448318051553488"
+    },
+    {
+      "category": "News",
+      "contexts": {
+        "topics": [
+          "Technology"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "Jeet Adani envisions AdaniConneX powering India's AI boom with data centres scaling to 5-10 GW. It's a massive leap from early plans, driven by surging demand for computing muscle.",
+      "id": "2122309299389014139",
+      "name": "AdaniConneX Targets 5-10 GW Data Centre Expansion in India",
+      "summary": "AdaniConneX, a joint venture between Adani Enterprises and EdgeConneX, has boosted its roadmap from 500 MW by 2030 to 1.82 GW of contracted capacity set for delivery in the next 18 months, with long-term goals of 5-10 GW. The company focuses on integrated solutions for site development, power, and connectivity to attract major tech clients like Google, whose Visakhapatnam campus partnership adds key momentum. This aligns with India's data centre growth to 5-8 GW by 2030, fueled by AI, cloud services, and localisation rules, backed by up to $250 billion in ecosystem investments.",
+      "updated_at": "2026-11-16T12:47:11.000Z",
+      "url": "https://x.com/i/trending/2122309299389014139"
+    },
+    {
+      "category": "Other",
+      "contexts": {
+        "topics": [
+          "Technology",
+          "AI",
+          "Politics"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "One frustrated post called ChatGPT a spawn from the darkest pits of hell, kicking off a heated back-and-forth on its everyday use.",
+      "id": "2122410097800609872",
+      "name": "X Users Debate AI Chatbots' Environmental Costs",
+      "summary": "Critics on X pushed back against casual AI adoption, highlighting massive water use in data centers that power tools like ChatGPT. Studies show one in four data centers worldwide already faces water scarcity, with trillions of liters consumed yearly straining local resources. Defenders countered that many systems now use recycled water and early reports overstated the issue, revealing a split between those rejecting AI outright and others who see it as manageable.",
+      "updated_at": "2026-11-16T19:33:02.000Z",
+      "url": "https://x.com/i/trending/2122410097800609872"
+    },
+    {
+      "category": "News",
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "Dario Amodei explained how company control lets firms monitor AI use and revoke access, unlike open releases where it's out of their hands. Viewers saw it as a push against public access to powerful tech.",
+      "id": "2122489004000166170",
+      "name": "Anthropic CEO Warns Open-Source AI Could Lead to Danger",
+      "summary": "Amodei contrasted controlled AI deployment with open-source models, stressing risks when advanced systems spread unchecked. Users linked his words to Sam Altman's past comments favoring data-center resources over home RAM, questioning why leaders should control personal tech use. The discussion highlighted tensions between safety through oversight and open access for freedom, amid Nvidia CEO Jensen Huang's recent exit as a champion of open models. Critics worry centralized power could prove riskier than open systems.",
+      "updated_at": "2026-11-17T00:43:06.000Z",
+      "url": "https://x.com/i/trending/2122489004000166170"
+    },
+    {
+      "category": "News",
+      "contexts": {
+        "topics": [
+          "Technology",
+          "AI",
+          "Business & Finance"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "Vancouver communities rallied against massive AI data centres, and now Telus has stepped back from the plans entirely.",
+      "id": "2122424422053171605",
+      "name": "Telus Drops Two Vancouver AI Data Centre Projects Amid Local Pushback",
+      "summary": "Telus confirmed it will no longer co-develop two Vancouver sites—a 10-storey facility near BC Place and a conversion in Mount Pleasant—with real estate firm Westbank. The projects were part of a May-announced sovereign AI cluster using tens of thousands of Nvidia chips and up to 163 megawatts of power, including heat recovery for nearby homes. A source linked the withdrawal to local opposition and shifts in Telus's AI strategy, while Westbank plans to proceed with a new partner. Reactions ranged from NDP leader Avi Lewis celebrating a community victory to critics like Jason Kenney warning of risks to Canadian data sovereignty.",
+      "updated_at": "2026-11-16T23:04:00.000Z",
+      "url": "https://x.com/i/trending/2122424422053171605"
+    },
+    {
+      "category": "Other",
+      "contexts": {
+        "topics": [
+          "Technology",
+          "AI",
+          "Software Development"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "Teams at Linear now let AI agents handle over half of code reviews alongside just the author, freeing humans for bigger challenges.",
+      "id": "2122438588956889341",
+      "name": "AI Reviews Hit 53% of Code Merges at Linear",
+      "summary": "By October 2026, 53% of Linear's code changes merged with only an author and AI reviewer, up from near zero earlier in the year. Industry-wide, human-reviewed pull requests dropped from 98% to 47% between May and October. While some worry about 'comprehension debt' from rapid AI-generated features, Linear engineers found fewer bugs and reverts with strong testing. Satya Nadella noted verification and specification as the new key skills in building software factories with AI.",
+      "updated_at": "2026-11-16T21:24:00.000Z",
+      "url": "https://x.com/i/trending/2122438588956889341"
+    }
+  ],
+  "meta": {
+    "result_count": 20
+  }
+}

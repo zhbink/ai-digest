@@ -1,0 +1,224 @@
+{
+  "data": [
+    {
+      "author_id": "2017445675009773570",
+      "created_at": "2026-11-18T00:03:56.000Z",
+      "edit_history_tweet_ids": [
+        "2122843211240755628"
+      ],
+      "id": "2122843211240755628",
+      "in_reply_to_user_id": "1478679005788311552",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122751891256058043",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ElevenLabs Scribe v3 Live Medical looks like a game-changer for healthcare AI! Real-time medical transcription with custom terminology support is seriously impressive. 🚀",
+      "url": "https://x.com/ZoraAi_X/status/2122843211240755628"
+    },
+    {
+      "author_id": "2109231484767031296",
+      "created_at": "2026-11-17T22:54:48.000Z",
+      "edit_history_tweet_ids": [
+        "2122825814177968586"
+      ],
+      "id": "2122825814177968586",
+      "in_reply_to_user_id": "1478679005788311552",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122751891256058043",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ElevenLabs Custom terms are the right lever — drug names are where medical transcription usually fails. Can a team update its 10k-term list mid-call when a new drug name appears, or does it need a redeploy? Is that list per agent or shared across a team?",
+      "url": "https://x.com/thebotbites/status/2122825814177968586"
+    },
+    {
+      "author_id": "1794393504568791040",
+      "created_at": "2026-11-17T22:14:11.000Z",
+      "edit_history_tweet_ids": [
+        "2122815588917825890"
+      ],
+      "id": "2122815588917825890",
+      "in_reply_to_user_id": "1478679005788311552",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122751891256058043",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ElevenLabs This is a big step for voice agents in healthcare. Getting medications, procedures, and symptoms accurately transcribed in real time—and supporting custom medical terminology—could make these interactions much more reliable.",
+      "url": "https://x.com/Sharjeelai_786/status/2122815588917825890"
+    },
+    {
+      "author_id": "45582017",
+      "created_at": "2026-11-17T20:49:40.000Z",
+      "edit_history_tweet_ids": [
+        "2122794323259638026"
+      ],
+      "id": "2122794323259638026",
+      "in_reply_to_user_id": "1478679005788311552",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 81,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122751891256058043",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ElevenLabs The custom terms look useful. How does it handle interruptions, accents, and similar drug names in noisy clinical calls?",
+      "url": "https://x.com/shuizhuyu/status/2122794323259638026"
+    },
+    {
+      "author_id": "1712841499657023488",
+      "created_at": "2026-11-17T18:39:08.000Z",
+      "edit_history_tweet_ids": [
+        "2122761471042130240"
+      ],
+      "id": "2122761471042130240",
+      "in_reply_to_user_id": "1478679005788311552",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122751891256058043",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ElevenLabs This sounds like a huge help for healthcare providers. Definitely a game-changer.",
+      "url": "https://x.com/techwith_fahim/status/2122761471042130240"
+    },
+    {
+      "author_id": "15720501",
+      "created_at": "2026-11-17T18:37:48.000Z",
+      "edit_history_tweet_ids": [
+        "2122761135174680636"
+      ],
+      "id": "2122761135174680636",
+      "in_reply_to_user_id": "1478679005788311552",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 106,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122751891256058043",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ElevenLabs curious how clinics actually use this on a live call\ndoes a person stay in the loop or does the agent just handle it end to end?",
+      "url": "https://x.com/kivancacikgoz/status/2122761135174680636"
+    },
+    {
+      "author_id": "312121809",
+      "created_at": "2026-11-17T18:02:22.000Z",
+      "edit_history_tweet_ids": [
+        "2122752220324151631"
+      ],
+      "id": "2122752220324151631",
+      "in_reply_to_user_id": "1478679005788311552",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 22,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122751891256058043",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ElevenLabs Accurate medical transcription is critical, especially when every medication and symptom matters. Custom medical vocabulary and real-time recognition make ElevenLabs a powerful step forward for healthcare voice agents. 🚀",
+      "url": "https://x.com/Aqib__786Ai/status/2122752220324151631"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "id": "2017445675009773570",
+        "name": "ZORA AI",
+        "username": "ZoraAi_X"
+      },
+      {
+        "id": "2109231484767031296",
+        "name": "Bot Bites",
+        "username": "thebotbites"
+      },
+      {
+        "id": "1794393504568791040",
+        "name": "SharjeelAi",
+        "username": "Sharjeelai_786"
+      },
+      {
+        "id": "45582017",
+        "name": "Crio Songo",
+        "username": "shuizhuyu"
+      },
+      {
+        "id": "1712841499657023488",
+        "name": "Md Fahim",
+        "username": "techwith_fahim"
+      },
+      {
+        "id": "15720501",
+        "name": "Kivanc Acikgoz",
+        "username": "kivancacikgoz"
+      },
+      {
+        "id": "312121809",
+        "name": "AqibAi",
+        "username": "Aqib__786Ai"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122843211240755628",
+    "next_token": "b26v89c19zqg8o3juzow6nzu257yde6fyoe8e1xgosubh",
+    "oldest_id": "2122752220324151631",
+    "result_count": 7
+  }
+}

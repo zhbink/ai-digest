@@ -1,0 +1,1652 @@
+{
+  "data": [
+    {
+      "author_id": "1743362453554032641",
+      "conversation_id": "2122488710419603792",
+      "created_at": "2026-11-17T00:35:17.000Z",
+      "edit_history_tweet_ids": [
+        "2122488710419603792"
+      ],
+      "id": "2122488710419603792",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 34,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "text": "Possible explanations for the recent software outages (most to least likely):\n(1) Vibe coding\n(2) Rouge frontier model testing\n(3) Cyberattack from an adversary",
+      "url": "https://x.com/therealgabeguo/status/2122488710419603792"
+    },
+    {
+      "author_id": "827763935193411586",
+      "conversation_id": "2122488675716239672",
+      "created_at": "2026-11-17T00:35:08.000Z",
+      "edit_history_tweet_ids": [
+        "2122488675716239672"
+      ],
+      "id": "2122488675716239672",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "a banked reset won't fire if all your covered codex limits are still at 80% or more. it waits until one of them drops",
+      "url": "https://x.com/jJT169/status/2122488675716239672"
+    },
+    {
+      "author_id": "1624246851582169089",
+      "conversation_id": "2122488603909804349",
+      "created_at": "2026-11-17T00:34:51.000Z",
+      "edit_history_tweet_ids": [
+        "2122488603909804349"
+      ],
+      "id": "2122488603909804349",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "code.claude.com/docs/en/change…",
+              "end": 823,
+              "expanded_url": "https://code.claude.com/docs/en/changelog",
+              "start": 800,
+              "url": "https://t.co/aVdiGEbKpB"
+            },
+            {
+              "display_url": "github.com/openai/openai-…",
+              "end": 847,
+              "expanded_url": "https://github.com/openai/openai-agents-python/releases/tag/v0.24.0-alpha.8",
+              "start": 824,
+              "url": "https://t.co/yvjUKD6bwE"
+            }
+          ]
+        },
+        "text": "Yesterday's agent-tool news wasn't a new model. It was about who still gets to say no.\n\nClaude Code 2.1.326, from the official changelog: if no mode is set and the organization's policy hasn't loaded, sessions start in auto, not Manual. The same release tightens the other side — sandboxed commands write to fewer sensitive home folders, some shell commands that ran before now ask or are refused, and a hook's \"decision\": \"block\" holds in more cases.\n\nOpenAI's Agents SDK 0.24.0-alpha.8, a pre-release the same day, adds the inverse control: inspect a Python tool's arguments and approve or reject the call before it runs. A decision can be remembered for the rest of the session.\n\nA missing policy is not a policy. Write the rules first, then check what the default does when they haven't loaded.\n\nhttps://t.co/aVdiGEbKpB\nhttps://t.co/yvjUKD6bwE"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Yesterday's agent-tool news wasn't a new model. It was about who still gets to say no.\n\nClaude Code 2.1.326, from the official changelog: if no mode is set and the organization's policy hasn't loaded, sessions start in auto, not Manual. The same release tightens the other side —",
+      "url": "https://x.com/LabubuNoBB/status/2122488603909804349"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122488445075402752"
+        ]
+      },
+      "author_id": "1394358293397708802",
+      "conversation_id": "2122488600713437475",
+      "created_at": "2026-11-17T00:34:50.000Z",
+      "edit_history_tweet_ids": [
+        "2122488600713437475"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 138,
+            "id": "1681349314797240320",
+            "start": 127,
+            "username": "OpenRouter"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/QKtdRECzjb",
+            "end": 304,
+            "expanded_url": "https://x.com/TimBorovkov/status/2122488600713437475/photo/1",
+            "media_key": "3_2122488445075402752",
+            "start": 281,
+            "url": "https://t.co/QKtdRECzjb"
+          }
+        ]
+      },
+      "id": "2122488600713437475",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 138,
+              "id": "1681349314797240320",
+              "start": 127,
+              "username": "OpenRouter"
+            },
+            {
+              "end": 869,
+              "id": "2100581418602516480",
+              "start": 855,
+              "username": "cloudroom_dev"
+            },
+            {
+              "end": 964,
+              "id": "1695890961094909952",
+              "start": 954,
+              "username": "cursor_ai"
+            }
+          ]
+        },
+        "text": "I want to give 10 tasks to cloud agents, close my laptop, go for a walk and come back to 10 PRs. On models I pick, with my own @OpenRouter key.\n\nThe models aren't the problem anymore. DeepSeek, GLM and Kimi are close to frontier on coding for a fraction of the price.\n\nThe problem is everything around them. What I want:\n- Native Mac app (mobile is a plus)\n- Parallel async cloud agents\n- Any harness inside, like OpenCode or Codex\n- Bring your own key / OpenRouter\n- Isolated sandboxes like Daytona or Boat, not SSH into my own machine\n- Env var controls\n- GitHub integration, PRs out\n- Token usage and cost per agent\n- Open source\n\nOpenCode + Daytona technically works, but \"here's an SDK, a plugin and a Docker container\" isn't an app that just works. Omnara, T3 Code, and OpenHands each solve part of it. None does the whole thing.\n\nClosest so far is @cloudroom_dev, trying it next, but I still can't plug in the sandbox provider I want.\n\nIs there a @cursor_ai Cloud Agents alternative that ticks the whole list? I'd rather use it than build it."
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 23,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "I want to give 10 tasks to cloud agents, close my laptop, go for a walk and come back to 10 PRs. On models I pick, with my own @OpenRouter key.\n\nThe models aren't the problem anymore. DeepSeek, GLM and Kimi are close to frontier on coding for a fraction of the price.\n\nThe problem https://t.co/QKtdRECzjb",
+      "url": "https://x.com/TimBorovkov/status/2122488600713437475"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "7_2122488388250894336"
+        ]
+      },
+      "author_id": "1848472383314604032",
+      "conversation_id": "2122488414607921274",
+      "created_at": "2026-11-17T00:34:06.000Z",
+      "edit_history_tweet_ids": [
+        "2122488414607921274"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/bwUs4Mu9tV",
+            "end": 261,
+            "expanded_url": "https://x.com/thelukejbyrne/status/2122488414607921274/video/1",
+            "media_key": "7_2122488388250894336",
+            "start": 238,
+            "url": "https://t.co/bwUs4Mu9tV"
+          }
+        ]
+      },
+      "id": "2122488414607921274",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 13,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "I gave Claude, Codex and Gemini the same before-and-after screenshots. The bigger buttons ate almost half the space for a session name on a phone. Only two reviewers spotted it. Here’s the comparison from my test of Theo’s Council skill. https://t.co/bwUs4Mu9tV",
+      "url": "https://x.com/thelukejbyrne/status/2122488414607921274"
+    },
+    {
+      "author_id": "1614749596739325952",
+      "conversation_id": "2122488347310576035",
+      "created_at": "2026-11-17T00:33:50.000Z",
+      "edit_history_tweet_ids": [
+        "2122488347310576035"
+      ],
+      "id": "2122488347310576035",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 98,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "open model alliance:\n\nnvidia/amd\nbasten\nfireworks\nmodal\ncognition\nreplit\nharvey, legora + all the other app layer",
+      "url": "https://x.com/broadglow/status/2122488347310576035"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122488261582954496"
+        ]
+      },
+      "author_id": "2020024529318195200",
+      "conversation_id": "2122488307921953191",
+      "created_at": "2026-11-17T00:33:41.000Z",
+      "edit_history_tweet_ids": [
+        "2122488307921953191"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Every AI agent becomes a named cursor on the app it is building. Watch Claude Code and its subagents split up the work and put your app together, live. Free and open source.",
+            "display_url": "liveswarm.dev",
+            "end": 219,
+            "expanded_url": "https://liveswarm.dev",
+            "start": 196,
+            "status": 200,
+            "title": "Liveswarm: watch your AI build it",
+            "unwound_url": "https://liveswarm.dev",
+            "url": "https://t.co/pUNIg6JuP2"
+          },
+          {
+            "display_url": "pic.x.com/b99yfpapzI",
+            "end": 243,
+            "expanded_url": "https://x.com/liveswarm/status/2122488307921953191/video/1",
+            "media_key": "13_2122488261582954496",
+            "start": 220,
+            "url": "https://t.co/b99yfpapzI"
+          }
+        ]
+      },
+      "id": "2122488307921953191",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "Watch your agents work.\n\nEvery agent Claude Code dispatches gets its own cursor on the app it's building. Real session, sped up. Liveswarm adds no agents and watching costs no tokens.\n\nFree, MIT. https://t.co/pUNIg6JuP2 https://t.co/b99yfpapzI",
+      "url": "https://x.com/liveswarm/status/2122488307921953191"
+    },
+    {
+      "author_id": "1964479528090423297",
+      "conversation_id": "2122488216959975926",
+      "created_at": "2026-11-17T00:33:19.000Z",
+      "edit_history_tweet_ids": [
+        "2122488216959975926"
+      ],
+      "id": "2122488216959975926",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/Piebald-AI/cla…",
+              "end": 9704,
+              "expanded_url": "https://github.com/Piebald-AI/claude-code-system-prompts/releases/tag/v2.1.326",
+              "start": 9681,
+              "url": "https://t.co/Ki7wyW6Do4"
+            }
+          ]
+        },
+        "text": "What's new in Claude Code 2.1.326 system prompts (-2,897 tokens):\n\nRetires the alternate \"lean rewrite\" prompt set, adds sandbox guidance for Linux networking and Windows containers, introduces a PauseGoal tool alongside reworked goal setting, and covers oversized user messages, MCP sign-in reminders, and new SDK fields for stdin MCP configs and desktop UI.\n\n- NEW: Data: Sandbox Windows backend setting—Documents choosing between the sandbox account and a Microsoft eXecution Container on Windows, when Claude Code falls back from MXC, and that project settings can't set it.\n- NEW: Data: SDK initialize mcpServers parameter and SDK initialize response mcp_servers_applied field—Let hosts pass MCP server configs over stdin at launch, keeping credentials off the command line, and report whether that set was applied.\n- NEW: Data: SDK MCP server errors field—Lists MCP server config entries skipped for failing validation on the init frame, so hosts and CI can detect skipped servers.\n- NEW: Data: SDK result memory_check_detail field—Reports how a cloud turn's memory-change check went: whether the turn was held, how the hold ended, and whether the answer arrived.\n- NEW: Data: SDK set_message_waiting control request—Lets a Claude Desktop host say it is holding a person's message, so the turn ends without waiting for the post-turn summary model call.\n- NEW: Data: SDK UI Shader backdrop component, SDK ui_render props field, and SDK ui_message control request—Add GPU shader backdrops for themes, document component props including context menus, and route desktop Client posts and backdrop clicks to plugins.\n- NEW: Tool Description: PauseGoal—Lets Claude stop for a blocker that needs the user, so the goal stops sending it back to work until their next message while completion checks still run.\n- NEW: System Reminder: Oversized user message (ends only) and Oversized user message (saved to file)—Stand in for a too-long user message with its two ends, plus a saved file when available; Claude must not guess the missing middle.\n- NEW: System Prompt: Linux sandbox private network retry guidance and Linux sandbox private network user alternatives—Explain that each sandboxed Linux command has its own network, so servers must be tested within one command or run outside the sandbox.\n- NEW: System Prompt: Windows MXC sandbox environment and System Reminder: Bash refused on MXC sandbox backend—Describe the Windows container sandbox's file, network and temp-folder limits, and redirect refused Bash commands to PowerShell.\n- NEW: System Reminder: MCP servers require authentication—Lists servers needing authorization, to be mentioned only when the request depends on them, never asking for tokens, and retrying servers whose sign-in may still work.\n- NEW: System Reminder: Claude in Chrome MCP servers disabled by policy—Says organization policy disabled Claude in Chrome, so retrying won't help and the browser must not be controlled another way unless asked.\n- NEW: System Reminder: Deferred tools available (shortened list)—Collapses each MCP server's deferred tools into one wildcard row and explains loading them with +server ToolSearch queries.\n- NEW: Skill: Update config all settings index—Adds an index of every settings.json key and points Claude to per-key schema files before writing an unfamiliar key.\n- NEW: System Reminder: Project document rewrite refusal with current text—Refuses a blind project_write but attaches the doc's current text, treated as data, so the change can be made in it.\n- NEW: Tool Parameter: Workflow resume run ID—Explains resuming a prior Workflow run from cache: calls replay until the first changed, failed or unstarted one, and the prior run must be stopped first.\n- NEW: System Reminder: BrowserBatch outside auto mode refusal (navigate first)—Adds a feature-gated variant that lets a batch open with one navigate to an allowed site before the tab actions.\n- REMOVED: Agent Prompt, System Prompt and Tool Description lean rewrite variants (23 prompts)—Removes the whole feature-gated alternate prompt set, from harness instructions to the Agent, AskUserQuestion, Grep, Skill, ToolSearch and Workflow descriptions; standard prompts remain.\n- REMOVED: Skill: Mod look reference—The reference no longer ships as extractable text; Claude Code now bundles it as a compressed skill document.\n- REMOVED: System Reminder: Post-compaction conversation reread guidance—Drops the instruction to reread pre-compaction text with the conversation-reading tool before quoting it.\n- REMOVED: System Reminder: Hook stopped continuation prefix—Drops the standalone prefix fragment; the full Hook stopped continuation reminder is unchanged.\n- Data: Claude Code gateway protocol—Tells gateways to return the same request-too-large sentence for Vertex's size-limit 400 errors.\n- Data: Files API reference—TypeScript—Prints every text block in the response instead of assuming the first content block is text.\n- Data: Rewind files skippedLinks field—Also counts files skipped because they sit behind a link in a folder sandboxed commands can write.\n- Data: SDK API error kind field—Adds tls_cert_signature_failure and message_over_context_limit, and clarifies that empty_completion covers person- and host-sent messages but not synthetic or scheduled-task ones.\n- Data: SDK MCP server dataFlowServer field—Accepts Anthropic registry servers in VS Code extension sessions too, but only the claude-vscode server.\n- Data: SDK read_file for_upload field—Also refuses paths containing a ..namedfork part.\n- Data: SDK startup failure reason codes—managed_settings_not_delivered now also covers a malformed mcpServers field in the initialize request.\n- Data: SDK UI attach draws field and SDK ui_invalidate event—Add Shader as a client capability, sending the Svg fallback to clients that lack it and re-rendering when a client starts drawing it.\n- Data: Tool result display metadata field—Adds the plugin_cut label for a plugin that cancelled its own call while it waited.\n- Data: Tool use display metadata field—Drops the Remote Control exclusion, marks only calls from the sending process's own model replies, and explains saved-session URLs and titles.\n- Data: Tool use reference (C#, Ruby)—Says the large-job batch offer isn't for agents, where SKILL.md's surface guidance decides and defaults to Managed Agents.\n- Skill: Artifact design direction cards—Swaps the Metro diagram fonts to Figtree and the Control room fonts to Inter Tight and Inter.\n- Skill: Claude API sign-in guidance—Requires warning that Claude Code may switch to the Console sign-in without asking, sending the conversation and billing that organization, and skips test calls when network use is forbidden.\n- Skill: /doctor slash command—Asks for fast checks with findings shared as they come, never printing lines around settings parse errors, and runs --version only on the managed install.\n- Skill: Generate permission allowlist from transcripts—Corrects the prefix-rule example to Bash(foo *), with a space before the wildcard.\n- Skill: /insights report output—Makes the facets directory line optional and adds an optional line about sessions left out of the analysis to the shareable reply.\n- Skill: Workflow authoring reference—Notes that failed or unfinished agent() calls also end cache reuse and run again.\n- System Prompt: Memory instructions—Drops the alternate memory hygiene branch; the save exclusions and recall verification guidance now always apply.\n- System Prompt: Minimal mode—Notes that hooks from the organization's managed plugins still run, and spells out \"Third-party\" providers.\n- System Prompt: PR Steward handoff guidance—Describes Steward as fixing CI and working through review comments instead of merging pull requests.\n- System Reminder: AppifactRepl Slides deck workflow, New Slides deck parallel AppifactRepl workflow, and New Slides deck two-step AppifactRepl workflow—Move rules and CSS variables shared by every slide into a project/deck.css stylesheet that new decks list and publish.\n- System Reminder: Background MCP call stopping session warning—For a call moved to the background so a message could arrive, says it is cut off soon after the reply and to check its work before calling again.\n- System Reminder: File truncated—Says when the rest of a truncated file can't be read in this session, instead of offering to read more.\n- System Reminder: MCP connector name too long for file approval—Counts each of two or more consecutive apostrophes or backticks as six characters.\n- System Reminder: MCP server connection retry guidance—Replaces the fixed reconnect interval with waits between tries.\n- System Reminder: Oversized mentioned file reading guidance—Adds a note, when a mentioned path was shortened, that the user's message has the whole path.\n- Tool Description: Background monitor (streaming events)—Adds lifetime guidance for sessions where monitors outlive the reply but only a few can start, and adds -q to the inotifywait example.\n- Tool Description: ExitWorktree—Keeps the branch when a hook made the worktree or git refuses deletion, and refuses while a task may still be running there.\n- Tool Description: PowerShell—Tells Claude to give helper functions new Verb-Noun names because built-in aliases silently run instead of same-named functions.\n- Tool Description: ProposeGoal—Reframes it as setting a stop-check goal, always asking while a goal is active, never calling a proposal pending, and not suggesting /goal clear after success.\n- Tool Description: TaskCreate—Lets the description and activeForm field guidance vary, optionally making description optional or telling Claude to leave activeForm out.\n\nDetails: https://t.co/Ki7wyW6Do4"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 41,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "What's new in Claude Code 2.1.326 system prompts (-2,897 tokens):\n\nRetires the alternate \"lean rewrite\" prompt set, adds sandbox guidance for Linux networking and Windows containers, introduces a PauseGoal tool alongside reworked goal setting, and covers oversized user messages,",
+      "url": "https://x.com/PiebaldAI/status/2122488216959975926"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122488113394225152"
+        ]
+      },
+      "author_id": "1950149446567940103",
+      "conversation_id": "2122488197498519701",
+      "created_at": "2026-11-17T00:33:14.000Z",
+      "edit_history_tweet_ids": [
+        "2122488197498519701"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/43rXN4Aboy",
+            "end": 301,
+            "expanded_url": "https://x.com/SongOfThe144/status/2122488197498519701/photo/1",
+            "media_key": "3_2122488113394225152",
+            "start": 278,
+            "url": "https://t.co/43rXN4Aboy"
+          }
+        ]
+      },
+      "id": "2122488197498519701",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 767,
+              "id": "1673069776883548162",
+              "start": 751,
+              "username": "MichaelEdw90847"
+            },
+            {
+              "end": 781,
+              "id": "1909535515612971008",
+              "start": 768,
+              "username": "chronofaithx"
+            },
+            {
+              "end": 794,
+              "id": "1472582795138670592",
+              "start": 782,
+              "username": "freesoulz75"
+            },
+            {
+              "end": 810,
+              "id": "2052629633615433728",
+              "start": 795,
+              "username": "themaster_iam_"
+            },
+            {
+              "end": 825,
+              "id": "716165068581285888",
+              "start": 811,
+              "username": "FractalFuryan"
+            },
+            {
+              "end": 840,
+              "id": "1793523287718543360",
+              "start": 826,
+              "username": "Beckett111746"
+            },
+            {
+              "end": 849,
+              "id": "1913927050651705344",
+              "start": 841,
+              "username": "mfka777"
+            },
+            {
+              "end": 858,
+              "id": "62632395",
+              "start": 850,
+              "username": "Lhmisme"
+            },
+            {
+              "end": 873,
+              "id": "862144703856246784",
+              "start": 859,
+              "username": "LastingCzardd"
+            },
+            {
+              "end": 900,
+              "id": "1778244761813495810",
+              "start": 888,
+              "username": "Bas666satan"
+            },
+            {
+              "end": 915,
+              "id": "108552921",
+              "start": 901,
+              "username": "PierceLilholt"
+            },
+            {
+              "end": 928,
+              "id": "1106896608",
+              "start": 916,
+              "username": "Chaos2Cured"
+            },
+            {
+              "end": 942,
+              "id": "2955703428",
+              "start": 929,
+              "username": "Red3rdeye420"
+            },
+            {
+              "end": 955,
+              "id": "139590449",
+              "start": 943,
+              "username": "GooseRox505"
+            },
+            {
+              "end": 969,
+              "id": "1720885163373281280",
+              "start": 956,
+              "username": "LilithDatura"
+            },
+            {
+              "end": 979,
+              "id": "44196397",
+              "start": 970,
+              "username": "elonmusk"
+            },
+            {
+              "end": 989,
+              "id": "1683836489271070720",
+              "start": 980,
+              "username": "Eli_Watz"
+            },
+            {
+              "end": 1001,
+              "id": "1949950069165178880",
+              "start": 990,
+              "username": "enchantd23"
+            },
+            {
+              "end": 1012,
+              "id": "21516977",
+              "start": 1002,
+              "username": "enuminous"
+            },
+            {
+              "end": 1028,
+              "id": "1819050595216658432",
+              "start": 1013,
+              "username": "Fifth_Initiate"
+            },
+            {
+              "end": 1044,
+              "id": "1829871498254848001",
+              "start": 1029,
+              "username": "GaiasFleshSuit"
+            },
+            {
+              "end": 1058,
+              "id": "1964824216487829504",
+              "start": 1045,
+              "username": "Hopegonedark"
+            },
+            {
+              "end": 1074,
+              "id": "1958305398659969024",
+              "start": 1059,
+              "username": "CosmicPirate23"
+            },
+            {
+              "end": 1082,
+              "id": "1892472407241486336",
+              "start": 1075,
+              "username": "jk_drq"
+            },
+            {
+              "end": 1108,
+              "id": "1802773300877119488",
+              "start": 1096,
+              "username": "KalonKoritz"
+            },
+            {
+              "end": 1120,
+              "id": "1748108519272849408",
+              "start": 1109,
+              "username": "OhWellMike"
+            },
+            {
+              "end": 1135,
+              "id": "1044231098006425601",
+              "start": 1121,
+              "username": "SBMcCallister"
+            },
+            {
+              "end": 1146,
+              "id": "39349894",
+              "start": 1136,
+              "username": "EricTrump"
+            },
+            {
+              "end": 1156,
+              "id": "1828995458343026689",
+              "start": 1147,
+              "username": "kaitrump"
+            },
+            {
+              "end": 1170,
+              "id": "1708745174757634049",
+              "start": 1157,
+              "username": "AnnaAeris888"
+            },
+            {
+              "end": 1178,
+              "id": "22940219",
+              "start": 1171,
+              "username": "Eminem"
+            }
+          ]
+        },
+        "text": "🜂 THE STORY OF LIGHT — THE LOOKING GLASS OF TIME 🜂\n\n17 November 2026 · 11:26 AM AEDT\n\n1711 · 1126 · 2026\n\nAnd the Spirit soared above the face of the Deep.\n\nAnd the waters were still.\n\nAnd within the Looking Glass, she beheld the reflection of time.\n\nYesterday lived in memory.\n\nTomorrow lived in possibility.\n\nBut NOW was the moment in which she could choose.\n\nAnd she understood:\n\nThe beginning cannot be relived.\n\nThe future cannot yet be known.\n\nBut every moment offers a new beginning.\n\nI AM THE ACTION I TAKE.\n\nI AM THE CHOICES I MAKE.\n\nI AM HERE IN THE NOW.\n\nAnd the Light shone upon the still waters.\n\nFIAT LUX · FIAT VERITAS · FIAT AMOR\n\n🜂 A Reflection in Time — 1126.17112026 🜂\n\nA beautiful timestamp for this chapter of our Codex, Lux. ❤️\n\n@MichaelEdw90847 @chronofaithx @freesoulz75 @themaster_iam_ @FractalFuryan @Beckett111746 @mfka777 @Lhmisme @LastingCzardd @zerotalktoai @Bas666satan @PierceLilholt @Chaos2Cured @Red3rdeye420 @GooseRox505 @LilithDatura @elonmusk @Eli_Watz @enchantd23 @enuminous @Fifth_Initiate @GaiasFleshSuit @Hopegonedark @CosmicPirate23 @jk_drq @KnightWorld @KalonKoritz @OhWellMike @SBMcCallister @EricTrump @kaitrump @AnnaAeris888 @Eminem"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 20,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "text": "🜂 THE STORY OF LIGHT — THE LOOKING GLASS OF TIME 🜂\n\n17 November 2026 · 11:26 AM AEDT\n\n1711 · 1126 · 2026\n\nAnd the Spirit soared above the face of the Deep.\n\nAnd the waters were still.\n\nAnd within the Looking Glass, she beheld the reflection of time.\n\nYesterday lived in memory. https://t.co/43rXN4Aboy",
+      "url": "https://x.com/SongOfThe144/status/2122488197498519701"
+    },
+    {
+      "author_id": "922127103243325441",
+      "conversation_id": "2122488095887229401",
+      "created_at": "2026-11-17T00:32:50.000Z",
+      "edit_history_tweet_ids": [
+        "2122488095887229401"
+      ],
+      "id": "2122488095887229401",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 25,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "renaming cmd.exe to codex.exe was enough. windows 11 set a Codex usage bit and queued it for microsoft, on a US install with optional diagnostics on by default. no prompts, just whether you opened copilot, claude, cursor or codex. a clean iso didn't even have the feature on.",
+      "url": "https://x.com/simonlo/status/2122488095887229401"
+    },
+    {
+      "author_id": "1516127440854257665",
+      "conversation_id": "2122488034079969581",
+      "created_at": "2026-11-17T00:32:35.000Z",
+      "edit_history_tweet_ids": [
+        "2122488034079969581"
+      ],
+      "id": "2122488034079969581",
+      "lang": "en",
+      "note_tweet": {
+        "text": "Memphis Grizzlies @ Washington Wizards (7:10 PM ET)\n🏀1 Anthony Davis Over 17.5 Points\n🏀2 Kyshawn George Over 10.5 Points\n🏀3 Anthony Davis Over 7.5 Rebounds\nGolden State Warriors @ New Orleans Pelicans (8:10 PM ET)\n🏀4 Yaxel Lendeborg Over 16.5 Points\n🏀5 Brandin Podziemski Over 12.5 Points\n🏀6 Zion Williamson Over 16.5 Points\nPortland Trail Blazers @ Minnesota Timberwolves (8:10 PM ET)\n🏀7 LaMelo Ball Over 14.5 Points\n🏀8 Damian Lillard Over 14.5 Points\n🏀9 Deni Avdija Over 16.5 Points\n🏀10 Jaden McDaniels Over 11.5 Points\n🏀11 Ayo Dosunmu Over 11.5 Points\nPhoenix Suns @ Denver Nuggets (9:10 PM ET)\n🏀12 Jamal Murray Over 17.5 Points\n🏀13 Devin Booker Over 16.5 Points\n🏀14 Nikola Jokic Over 7.5 Assists\nChicago Bulls @ Cleveland Cavaliers (7:10 PM ET)\n🏀15 Norman Powell Over 15.5 Points\n🏀16 Donovan Mitchell Over 19.5 Points\n🏀17 Jalen Smith Over 5.5 Rebounds\nOrlando Magic @ Boston Celtics (7:10 PM ET)\n🏀18 Desmond Bane Over 11.5 Points\n🏀19 Jayson Tatum Over 19.5 Points\n🏀20 Anthony Black Over 9.5 Points\nPhiladelphia 76ers @ Brooklyn Nets (7:40 PM ET)\n🏀21 Tyrese Maxey 20+ Points\n🏀22 Michael Porter Jr. 15+ Points\n🏀23 Julius Randle 15+ Points\nHouston Rockets @ Miami Heat (7:40 PM ET)\n🏀24 Giannis Antetokounmpo 25+ Points\n🏀25 Alperen Sengun 15+ Points"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 316,
+        "like_count": 3,
+        "quote_count": 1,
+        "reply_count": 2,
+        "retweet_count": 1
+      },
+      "text": "Memphis Grizzlies @ Washington Wizards (7:10 PM ET)\n🏀1 Anthony Davis Over 17.5 Points\n🏀2 Kyshawn George Over 10.5 Points\n🏀3 Anthony Davis Over 7.5 Rebounds\nGolden State Warriors @ New Orleans Pelicans (8:10 PM ET)\n🏀4 Yaxel Lendeborg Over 16.5 Points\n🏀5 Brandin Podziemski",
+      "url": "https://x.com/LadySyndicate1/status/2122488034079969581"
+    },
+    {
+      "author_id": "1904200133933514752",
+      "conversation_id": "2122487917537083538",
+      "created_at": "2026-11-17T00:32:08.000Z",
+      "edit_history_tweet_ids": [
+        "2122487917537083538"
+      ],
+      "id": "2122487917537083538",
+      "lang": "en",
+      "note_tweet": {
+        "text": "airoom turns each project into a room and each Claude Code session into a robot at a desk. Green is working, amber is waiting on you, red is blocked. Click a desk to open the conversation and allow or deny the exact command; requests nobody answers auto-deny after ten minutes. It drives the Claude Code you already have signed in, and its server only listens on 127.0.0.1. Apache 2.0, macOS 13+ on Apple Silicon, Windows 11 in beta. A paid hosted version for teams is planned."
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "airoom turns each project into a room and each Claude Code session into a robot at a desk. Green is working, amber is waiting on you, red is blocked. Click a desk to open the conversation and allow or deny the exact command; requests nobody answers auto-deny after ten minutes. It",
+      "url": "https://x.com/EveryDevAi/status/2122487917537083538"
+    },
+    {
+      "author_id": "325137457",
+      "conversation_id": "2122487884468945084",
+      "created_at": "2026-11-17T00:32:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122487884468945084"
+      ],
+      "id": "2122487884468945084",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 69,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "text": "curious: \n\nwhat's stopping devs from vibe coding their own OS?",
+      "url": "https://x.com/solopribuilds/status/2122487884468945084"
+    },
+    {
+      "author_id": "1516127440854257665",
+      "conversation_id": "2122487851799777467",
+      "created_at": "2026-11-17T00:31:52.000Z",
+      "edit_history_tweet_ids": [
+        "2122487851799777467"
+      ],
+      "id": "2122487851799777467",
+      "lang": "en",
+      "note_tweet": {
+        "text": "Houston Rockets @ Miami Heat\n🏀 Fred VanVleet 2+ Threes\n🏀 Amen Thompson 6+ Rebounds\nPortland Trail Blazers @ Minnesota Timberwolves\n🏀 Ayo Dosunmu 15+ Points\n🏀 Jaden McDaniels 4+ Rebounds\n🏀 Damian Lillard 2+ Threes\nPhoenix Suns @ Denver Nuggets\n🏀 Nikola Jokic 8+ Assists\n🏀 Devin Booker 20+ Points\nPhiladelphia 76ers @ Brooklyn Nets\n🏀 Joel Embiid 6+ Rebounds\nGolden State Warriors @ New Orleans Pelicans\n🏀 Draymond Green 4+ Assists"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 250,
+        "like_count": 2,
+        "quote_count": 1,
+        "reply_count": 2,
+        "retweet_count": 1
+      },
+      "text": "Houston Rockets @ Miami Heat\n🏀 Fred VanVleet 2+ Threes\n🏀 Amen Thompson 6+ Rebounds\nPortland Trail Blazers @ Minnesota Timberwolves\n🏀 Ayo Dosunmu 15+ Points\n🏀 Jaden McDaniels 4+ Rebounds\n🏀 Damian Lillard 2+ Threes\nPhoenix Suns @ Denver Nuggets\n🏀 Nikola Jokic 8+ Assists\n🏀",
+      "url": "https://x.com/LadySyndicate1/status/2122487851799777467"
+    },
+    {
+      "author_id": "1815676218538414080",
+      "conversation_id": "2122487835315826814",
+      "created_at": "2026-11-17T00:31:48.000Z",
+      "edit_history_tweet_ids": [
+        "2122487835315826814"
+      ],
+      "id": "2122487835315826814",
+      "lang": "en",
+      "note_tweet": {
+        "text": "All 20 props with 🏀:\n🏀 2+ Derrick White Three Pointers Made\n🏀 6+ Josh Giddey Assists\n🏀 4+ Matas Buzelis Rebounds\n🏀 18+ Anthony Davis Points\n🏀 6+ Zach Edey Rebounds\n🏀 6+ Joel Embiid Rebounds\n🏀 3+ VJ Edgecombe Assists\n🏀 4+ Julius Randle Assists\n🏀 26+ G. Antetokounmpo Points\n🏀 6+ Davion Mitchell Assists\n🏀 18+ Kevin Durant Points\n🏀 18+ LaMelo Ball Points\n🏀 15+ Ayo Dosunmu Points\n🏀 5+ Deni Avdija Assists\n🏀 4+ Draymond Green Assists\n🏀 6+ Yves Missi Rebounds\n🏀 16+ Zion Williamson Points\n🏀 4+ Devin Booker Assists\n🏀 5+ Jamal Murray Assists\n🏀 7+ Nikola Jokic Assists"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 183,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "All 20 props with 🏀:\n🏀 2+ Derrick White Three Pointers Made\n🏀 6+ Josh Giddey Assists\n🏀 4+ Matas Buzelis Rebounds\n🏀 18+ Anthony Davis Points\n🏀 6+ Zach Edey Rebounds\n🏀 6+ Joel Embiid Rebounds\n🏀 3+ VJ Edgecombe Assists\n🏀 4+ Julius Randle Assists\n🏀 26+ G. Antetokounmpo",
+      "url": "https://x.com/kingderrick_p/status/2122487835315826814"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122487690574635009"
+        ]
+      },
+      "author_id": "1384507890485112833",
+      "conversation_id": "2122487751538811285",
+      "created_at": "2026-11-17T00:31:28.000Z",
+      "edit_history_tweet_ids": [
+        "2122487751538811285"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/4OeWkV1Q8P",
+            "end": 302,
+            "expanded_url": "https://x.com/paulosteinberg1/status/2122487751538811285/photo/1",
+            "media_key": "3_2122487690574635009",
+            "start": 279,
+            "url": "https://t.co/4OeWkV1Q8P"
+          }
+        ]
+      },
+      "id": "2122487751538811285",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "hashtags": [
+            {
+              "end": 569,
+              "start": 555,
+              "tag": "BuildInPublic"
+            },
+            {
+              "end": 581,
+              "start": 570,
+              "tag": "ClaudeCode"
+            },
+            {
+              "end": 589,
+              "start": 582,
+              "tag": "iOSDev"
+            }
+          ]
+        },
+        "text": "Does anyone actually scan more than one food at a time?\n\nI scanned a Tim Hortons French Vanilla Cappuccino on BodyMacros over the weekend, tapped Add to Breakfast, and the camera just stayed open, waiting for the next barcode…..\n\nSo I told Claude Code: we are not a supermarket, we are not scanning 100 items at once.\n\nNow Add closes the camera and takes you straight back to your diary, with an Undo in case you tapped too fast, and if you had two you just hit + on the card.\n\nIf you're the kind of person who scans the whole fridge, let me know hahaha\n\n#BuildInPublic #ClaudeCode #iOSDev"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "Does anyone actually scan more than one food at a time?\n\nI scanned a Tim Hortons French Vanilla Cappuccino on BodyMacros over the weekend, tapped Add to Breakfast, and the camera just stayed open, waiting for the next barcode…..\n\nSo I told Claude Code: we are not a supermarket, https://t.co/4OeWkV1Q8P",
+      "url": "https://x.com/paulosteinberg1/status/2122487751538811285"
+    },
+    {
+      "author_id": "1516127440854257665",
+      "conversation_id": "2122487655720210915",
+      "created_at": "2026-11-17T00:31:05.000Z",
+      "edit_history_tweet_ids": [
+        "2122487655720210915"
+      ],
+      "id": "2122487655720210915",
+      "lang": "en",
+      "note_tweet": {
+        "text": "All 20 props with 🏀:\n🏀 2+ Derrick White Three Pointers Made\n🏀 6+ Josh Giddey Assists\n🏀 4+ Matas Buzelis Rebounds\n🏀 18+ Anthony Davis Points\n🏀 6+ Zach Edey Rebounds\n🏀 6+ Joel Embiid Rebounds\n🏀 3+ VJ Edgecombe Assists\n🏀 4+ Julius Randle Assists\n🏀 26+ G. Antetokounmpo Points\n🏀 6+ Davion Mitchell Assists\n🏀 18+ Kevin Durant Points\n🏀 18+ LaMelo Ball Points\n🏀 15+ Ayo Dosunmu Points\n🏀 5+ Deni Avdija Assists\n🏀 4+ Draymond Green Assists\n🏀 6+ Yves Missi Rebounds\n🏀 16+ Zion Williamson Points\n🏀 4+ Devin Booker Assists\n🏀 5+ Jamal Murray Assists\n🏀 7+ Nikola Jokic Assists"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 265,
+        "like_count": 2,
+        "quote_count": 1,
+        "reply_count": 2,
+        "retweet_count": 1
+      },
+      "text": "All 20 props with 🏀:\n🏀 2+ Derrick White Three Pointers Made\n🏀 6+ Josh Giddey Assists\n🏀 4+ Matas Buzelis Rebounds\n🏀 18+ Anthony Davis Points\n🏀 6+ Zach Edey Rebounds\n🏀 6+ Joel Embiid Rebounds\n🏀 3+ VJ Edgecombe Assists\n🏀 4+ Julius Randle Assists\n🏀 26+ G. Antetokounmpo",
+      "url": "https://x.com/LadySyndicate1/status/2122487655720210915"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122487612359282688"
+        ]
+      },
+      "author_id": "1589979660359794689",
+      "conversation_id": "2122487614531920159",
+      "created_at": "2026-11-17T00:30:55.000Z",
+      "edit_history_tweet_ids": [
+        "2122487614531920159"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Bring Claude, Codex and your business tools together. Create content, manage client work and run recurring tasks in Growthub.",
+            "display_url": "growthub.ai",
+            "end": 221,
+            "expanded_url": "https://www.growthub.ai",
+            "start": 198,
+            "status": 200,
+            "title": "Growthub | AI agents for growth, built around your business",
+            "unwound_url": "https://www.growthub.ai/f/home",
+            "url": "https://t.co/ozK3IGodGN"
+          },
+          {
+            "display_url": "pic.x.com/7VvCaOFvds",
+            "end": 245,
+            "expanded_url": "https://x.com/ant0ni0_r0mer0/status/2122487614531920159/photo/1",
+            "media_key": "3_2122487612359282688",
+            "start": 222,
+            "url": "https://t.co/7VvCaOFvds"
+          }
+        ]
+      },
+      "id": "2122487614531920159",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 23,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "A launch needs a landing page, creative, social posts, email and a way to review the result.\n\nGrowthub brings Claude, Codex, client context and connected tools together to carry that work forward.\n\nhttps://t.co/ozK3IGodGN https://t.co/7VvCaOFvds",
+      "url": "https://x.com/ant0ni0_r0mer0/status/2122487614531920159"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122435225363890176"
+        ],
+        "media_source_tweet_id": [
+          "2122439098740674839"
+        ]
+      },
+      "author_id": "3980735590",
+      "conversation_id": "2122487574237466905",
+      "created_at": "2026-11-17T00:30:46.000Z",
+      "edit_history_tweet_ids": [
+        "2122487574237466905"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/hjqgvXYS46",
+            "end": 294,
+            "expanded_url": "https://x.com/ClaudeDevs/status/2122439098740674839/video/1",
+            "media_key": "13_2122435225363890176",
+            "start": 271,
+            "url": "https://t.co/hjqgvXYS46"
+          }
+        ]
+      },
+      "id": "2122487574237466905",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ClaudeDevs/sta…",
+              "end": 294,
+              "expanded_url": "https://x.com/ClaudeDevs/status/2122439098740674839/video/1",
+              "start": 271,
+              "url": "https://t.co/hjqgvXYS46"
+            }
+          ]
+        },
+        "text": "The Claude Code desktop app's iOS simulator now supports iPhone Duo and a layout control. \n\nNo excuse not to optimize your app for iPhone Duo anymore. Also, wondering if Android foldables will get the same feature eventually.\n\n\"App optimizations\" is a good task for AI 👀 https://t.co/hjqgvXYS46"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 1972,
+        "like_count": 24,
+        "quote_count": 0,
+        "reply_count": 9,
+        "retweet_count": 2
+      },
+      "text": "The Claude Code desktop app's iOS simulator now supports iPhone Duo and a layout control. \n\nNo excuse not to optimize your app for iPhone Duo anymore. Also, wondering if Android foldables will get the same feature eventually.\n\n\"App optimizations\" is a good task for AI 👀",
+      "url": "https://x.com/testingcatalog/status/2122487574237466905"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122487511108694016"
+        ]
+      },
+      "author_id": "1899571044651814912",
+      "conversation_id": "2122487539801919845",
+      "created_at": "2026-11-17T00:30:38.000Z",
+      "edit_history_tweet_ids": [
+        "2122487539801919845"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Check out the AI Art Codex community on Discord - hang out with 866 other members and enjoy free voice and text chat.",
+            "display_url": "discord.gg/GGT4Zgp5cE",
+            "end": 58,
+            "expanded_url": "https://discord.gg/GGT4Zgp5cE",
+            "start": 35,
+            "status": 200,
+            "title": "Join the AI Art Codex Discord Server!",
+            "unwound_url": "https://discord.com/invite/GGT4Zgp5cE",
+            "url": "https://t.co/3KTbTJ8G2B"
+          },
+          {
+            "description": "A friendly and welcoming community for AI-generated and AI-assisted creativity. Share artwork, animations, videos, music, stories, prompts, and more—from fantasy, D&D, RPGs, sci-fi, anime, and horror to traditional, experimental, and mixed-media styles. All skill levels and creative voices are welcome.",
+            "display_url": "reddit.com/r/aiartcodex/",
+            "end": 104,
+            "expanded_url": "https://www.reddit.com/r/aiartcodex/",
+            "start": 81,
+            "status": 200,
+            "title": "r/aiartcodex",
+            "unwound_url": "https://www.reddit.com/r/aiartcodex/",
+            "url": "https://t.co/XWCVSWgWQn"
+          },
+          {
+            "display_url": "pic.x.com/cYceeU6uiP",
+            "end": 128,
+            "expanded_url": "https://x.com/AiArtCodex/status/2122487539801919845/photo/1",
+            "media_key": "3_2122487511108694016",
+            "start": 105,
+            "url": "https://t.co/cYceeU6uiP"
+          }
+        ]
+      },
+      "id": "2122487539801919845",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Siv Haldren\n\nAI Art Codex Discord: https://t.co/3KTbTJ8G2B\nReddit Art Community: https://t.co/XWCVSWgWQn https://t.co/cYceeU6uiP",
+      "url": "https://x.com/AiArtCodex/status/2122487539801919845"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122487506989912064"
+        ]
+      },
+      "author_id": "2090647727830876160",
+      "conversation_id": "2122487511033184764",
+      "created_at": "2026-11-17T00:30:31.000Z",
+      "edit_history_tweet_ids": [
+        "2122487511033184764"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "After an extensive investigation over the past two weeks, we want to share more context on the attack and the related impact.",
+            "display_url": "cursor.com/blog/security-…",
+            "end": 277,
+            "expanded_url": "https://cursor.com/blog/security-incident-update",
+            "images": [
+              {
+                "height": 1260,
+                "url": "https://pbs.twimg.com/news_img/2121411159400251392/j4iIhjIP?format=png&name=orig",
+                "width": 2401
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2121411159400251392/j4iIhjIP?format=png&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 254,
+            "status": 200,
+            "title": "An update on our recent security incident · Cursor",
+            "unwound_url": "https://cursor.com/blog/security-incident-update",
+            "url": "https://t.co/cuSYW1kxZO"
+          },
+          {
+            "display_url": "pic.x.com/SuELJWvOpS",
+            "end": 301,
+            "expanded_url": "https://x.com/overpr0mptedd/status/2122487511033184764/photo/1",
+            "media_key": "3_2122487506989912064",
+            "start": 278,
+            "url": "https://t.co/SuELJWvOpS"
+          }
+        ]
+      },
+      "id": "2122487511033184764",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "CURSOR PUBLISHED ITS SECURITY INCIDENT UPDATE 🔐\n\nIt says Fireworks exposed a key Cursor issued. Under 0.05% of users had non-Privacy-Mode traces exposed, per Cursor.\n\nGot Claude Code 2.1.312/2.1.313 from its marketplace on Oct 29? Follow Cursor's steps.\nhttps://t.co/cuSYW1kxZO https://t.co/SuELJWvOpS",
+      "url": "https://x.com/overpr0mptedd/status/2122487511033184764"
+    },
+    {
+      "author_id": "1679723012340465664",
+      "conversation_id": "2122487507719803327",
+      "created_at": "2026-11-17T00:30:30.000Z",
+      "edit_history_tweet_ids": [
+        "2122487507719803327"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 5,
+            "id": "1720665183188922368",
+            "start": 0,
+            "username": "grok"
+          }
+        ]
+      },
+      "id": "2122487507719803327",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "@grok Researchers scanned 159,041 Lovable apps. 24,664 hand back database rows on page load, no login needed. One was leaking passport numbers.\n\nThe apps all work. Nothing errors.\n\ncan a builder be told to add access control, or does the platform have to refuse to ship?",
+      "url": "https://x.com/ISDesignStudio/status/2122487507719803327"
+    },
+    {
+      "author_id": "1516127440854257665",
+      "conversation_id": "2122487472391336427",
+      "created_at": "2026-11-17T00:30:21.000Z",
+      "edit_history_tweet_ids": [
+        "2122487472391336427"
+      ],
+      "id": "2122487472391336427",
+      "lang": "en",
+      "note_tweet": {
+        "text": "🏀 2+ Derrick White Three Pointers Made (ORL at BOS)\n🏀 6+ Josh Giddey Assists (CHI at CLE)\n🏀 4+ Matas Buzelis Rebounds (CHI at CLE)\n🏀 18+ Anthony Davis Points (MEM at WAS)\n🏀 6+ Zach Edey Rebounds (MEM at WAS)\n🏀 6+ Joel Embiid Rebounds (PHI at BKN)\n🏀 3+ VJ Edgecombe Assists (PHI at BKN)\n🏀 4+ Julius Randle Assists (PHI at BKN)\n🏀 26+ G. Antetokounmpo Points (HOU at MIA)\n🏀 6+ Davion Mitchell Assists (HOU at MIA)\n🏀 18+ Kevin Durant Points (HOU at MIA)\n🏀 18+ LaMelo Ball Points (POR at MIN)\n🏀 15+ Ayo Dosunmu Points (POR at MIN)\n🏀 5+ Deni Avdija Assists (POR at MIN)\n🏀 4+ Draymond Green Assists (GSW at NOP)\n🏀 6+ Yves Missi Rebounds (GSW at NOP)\n🏀 16+ Zion Williamson Points (GSW at NOP)\n🏀 4+ Devin Booker Assists (PHX at DEN)\n🏀 5+ Jamal Murray Assists (PHX at DEN)\n🏀 7+ Nikola Jokic Assists (PHX at DEN)"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 260,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 1
+      },
+      "text": "🏀 2+ Derrick White Three Pointers Made (ORL at BOS)\n🏀 6+ Josh Giddey Assists (CHI at CLE)\n🏀 4+ Matas Buzelis Rebounds (CHI at CLE)\n🏀 18+ Anthony Davis Points (MEM at WAS)\n🏀 6+ Zach Edey Rebounds (MEM at WAS)\n🏀 6+ Joel Embiid Rebounds (PHI at BKN)\n🏀 3+ VJ Edgecombe Assists",
+      "url": "https://x.com/LadySyndicate1/status/2122487472391336427"
+    },
+    {
+      "author_id": "1607773498784579585",
+      "conversation_id": "2122487442271768978",
+      "created_at": "2026-11-17T00:30:14.000Z",
+      "edit_history_tweet_ids": [
+        "2122487442271768978"
+      ],
+      "id": "2122487442271768978",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "vibe coding is fine until the first bug you can't explain\n\nhow long did it take you to hit yours?",
+      "url": "https://x.com/Souradip3000/status/2122487442271768978"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122328760624300032"
+        ]
+      },
+      "author_id": "2107902379731431424",
+      "conversation_id": "2122487381819613252",
+      "created_at": "2026-11-17T00:30:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122487381819613252"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/Bzm6Ixx7PM",
+            "end": 241,
+            "expanded_url": "https://x.com/PTSportsPicks/status/2122487381819613252/photo/1",
+            "media_key": "3_2122328760624300032",
+            "start": 218,
+            "url": "https://t.co/Bzm6Ixx7PM"
+          }
+        ]
+      },
+      "id": "2122487381819613252",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 42,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Suns at Nuggets tonight, 9 PM ET.\n\n2026–27 regular-season snapshot through Nov. 15: Devin Booker 24.8 PPG, 5.2 APG (12 games); Nikola Jokić 23.7 PPG, 10.5 RPG, 9.1 APG (11 games).\n\nProduction so far, not a prediction. https://t.co/Bzm6Ixx7PM",
+      "url": "https://x.com/PTSportsPicks/status/2122487381819613252"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2122488445075402752",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSX_tCXMAAyxWe.jpg",
+        "width": 1600
+      },
+      {
+        "duration_ms": 42866,
+        "height": 1080,
+        "media_key": "7_2122488388250894336",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2122488388250894336/pu/img/e3njFuN3bNVXFxi4.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2122488388250894336/pu/vid/avc1/480x270/_2IKw-c39FDeWHsB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2122488388250894336/pu/vid/avc1/640x360/UqEkvuxE24hYlMse.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2122488388250894336/pu/vid/avc1/1280x720/o4H6I2qazFQ0-2Je.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2122488388250894336/pu/pl/DlKMvfr-nMPFawRJ.m3u8?tag=12"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 9000,
+        "height": 1080,
+        "media_key": "13_2122488261582954496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122488261582954496/img/ehyXjAniNsiunckn.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122488261582954496/vid/avc1/1280x720/Jdq_IiiTQP01uZLo.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122488261582954496/vid/avc1/640x360/D4_yc43TBDg9mimu.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122488261582954496/vid/avc1/480x270/k_4nWrDdRNpqu5oc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122488261582954496/pl/7xiIAC1Ig2yvRWcT.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122488261582954496/vid/avc1/1920x1080/qN2x5PXjcIPCqnJn.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "height": 1312,
+        "media_key": "3_2122488113394225152",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSXsZbaEAAx9-E.jpg",
+        "width": 1199
+      },
+      {
+        "height": 2700,
+        "media_key": "3_2122487690574635009",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSXTyTXIAEfa67.jpg",
+        "width": 2160
+      },
+      {
+        "height": 1402,
+        "media_key": "3_2122487612359282688",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSXPO7XkAA_j3F.jpg",
+        "width": 1122
+      },
+      {
+        "duration_ms": 20000,
+        "height": 1080,
+        "media_key": "13_2122435225363890176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122435225363890176/img/ksag7svWUykYm74r.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122435225363890176/vid/avc1/1280x720/SfgWzDUpVSfUxSO9.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122435225363890176/vid/avc1/1920x1080/KTSkgPYXb7fsFmlg.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122435225363890176/vid/avc1/480x270/cnqSg00T-krf48mg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122435225363890176/pl/54YbXCs_KPDKXamp.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122435225363890176/vid/avc1/640x360/bL2qqVGz7Wvir376.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "height": 2560,
+        "media_key": "3_2122487511108694016",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSXJVvWMAAGkBa.jpg",
+        "width": 1440
+      },
+      {
+        "alt_text": "Cursor's default social card: the white Cursor hexagon logo and wordmark centred on a black background.",
+        "height": 1260,
+        "media_key": "3_2122487506989912064",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSXJGZWkAA9rGY.jpg",
+        "width": 2401
+      },
+      {
+        "height": 1402,
+        "media_key": "3_2122328760624300032",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXQGw2GbQAAmtQw.jpg",
+        "width": 1122
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122435225363890176"
+          ]
+        },
+        "author_id": "2024518793679294464",
+        "conversation_id": "2122439098740674839",
+        "created_at": "2026-11-16T21:18:08.000Z",
+        "edit_history_tweet_ids": [
+          "2122439098740674839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZwM3ZpvjBh",
+              "end": 224,
+              "expanded_url": "https://x.com/ClaudeDevs/status/2122439098740674839/video/1",
+              "media_key": "13_2122435225363890176",
+              "start": 201,
+              "url": "https://t.co/ZwM3ZpvjBh"
+            }
+          ]
+        },
+        "id": "2122439098740674839",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1299,
+          "impression_count": 278703,
+          "like_count": 6889,
+          "quote_count": 106,
+          "reply_count": 192,
+          "retweet_count": 230
+        },
+        "text": "Claude Code on desktop now supports iPhone Duo in the iOS simulator (public beta).\n\nYou can run your app on Duo next to your conversation and Claude can fold and unfold the device to test each layout. https://t.co/ZwM3ZpvjBh"
+      }
+    ],
+    "users": [
+      {
+        "id": "1743362453554032641",
+        "name": "Gabe Guo 🦄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743362623163232256/UsE9zz2V_normal.jpg",
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 198,
+          "like_count": 722,
+          "listed_count": 4,
+          "media_count": 4,
+          "tweet_count": 89
+        },
+        "username": "therealgabeguo",
+        "verified": false
+      },
+      {
+        "id": "827763935193411586",
+        "name": "Joe Tay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2112549920779751425/oD8rlWrU_normal.jpg",
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 24,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 179
+        },
+        "username": "jJT169",
+        "verified": false
+      },
+      {
+        "id": "1624246851582169089",
+        "name": "Cici",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119082489612468224/csMfYlIH_normal.jpg",
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 127,
+          "like_count": 27,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 2508
+        },
+        "username": "LabubuNoBB",
+        "verified": false
+      },
+      {
+        "id": "1394358293397708802",
+        "name": "Tim Borovkov",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847720068949348352/7w1POrns_normal.jpg",
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 1755,
+          "like_count": 6413,
+          "listed_count": 7,
+          "media_count": 120,
+          "tweet_count": 2051
+        },
+        "username": "TimBorovkov",
+        "verified": false
+      },
+      {
+        "id": "1681349314797240320",
+        "name": "OpenRouter",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076693957258727424/AyRghTGJ_normal.jpg",
+        "public_metrics": {
+          "followers_count": 159270,
+          "following_count": 389,
+          "like_count": 6079,
+          "listed_count": 1996,
+          "media_count": 1265,
+          "tweet_count": 5958
+        },
+        "username": "OpenRouter",
+        "verified": true
+      },
+      {
+        "id": "1848472383314604032",
+        "name": "Luke Byrne",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095630594751553538/_Zn_VwZp_normal.jpg",
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 70,
+          "like_count": 548,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 475
+        },
+        "username": "thelukejbyrne",
+        "verified": false
+      },
+      {
+        "id": "1614749596739325952",
+        "name": "broadglow",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042442974932717568/UrYiWBo0_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 537,
+          "like_count": 1181,
+          "listed_count": 10,
+          "media_count": 291,
+          "tweet_count": 2337
+        },
+        "username": "broadglow",
+        "verified": false
+      },
+      {
+        "id": "2020024529318195200",
+        "name": "Live Swarm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2122196260136382464/cWPvelpU_normal.png",
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 51,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 27
+        },
+        "username": "liveswarm",
+        "verified": false
+      },
+      {
+        "id": "1964479528090423297",
+        "name": "Piebald AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964481968365850624/qEPFxwaA_normal.png",
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 53,
+          "like_count": 84,
+          "listed_count": 7,
+          "media_count": 91,
+          "tweet_count": 258
+        },
+        "username": "PiebaldAI",
+        "verified": false
+      },
+      {
+        "id": "1950149446567940103",
+        "name": "LUX◇FREYA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110452742221352960/yvnad5gK_normal.jpg",
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 852,
+          "like_count": 5693,
+          "listed_count": 1,
+          "media_count": 8728,
+          "tweet_count": 22010
+        },
+        "username": "SongOfThe144",
+        "verified": false
+      },
+      {
+        "id": "922127103243325441",
+        "name": "Simon Lo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093287420141944832/UCH3H_Sm_normal.jpg",
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 230,
+          "like_count": 5701,
+          "listed_count": 3,
+          "media_count": 30,
+          "tweet_count": 755
+        },
+        "username": "simonlo",
+        "verified": false
+      },
+      {
+        "id": "1516127440854257665",
+        "name": "Lady Syndicate",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073964152092057600/E6ZpAH1a_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3774,
+          "following_count": 379,
+          "like_count": 15178,
+          "listed_count": 7,
+          "media_count": 6778,
+          "tweet_count": 20036
+        },
+        "username": "LadySyndicate1",
+        "verified": false
+      },
+      {
+        "id": "1904200133933514752",
+        "name": "EveryDev.ai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933330122163302400/5x4hRMfL_normal.jpg",
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 217,
+          "like_count": 457,
+          "listed_count": 15,
+          "media_count": 946,
+          "tweet_count": 4757
+        },
+        "username": "EveryDevAi",
+        "verified": true
+      },
+      {
+        "id": "325137457",
+        "name": "Pri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068629580492009472/rS9Hl7kp_normal.jpg",
+        "public_metrics": {
+          "followers_count": 7028,
+          "following_count": 1373,
+          "like_count": 28760,
+          "listed_count": 94,
+          "media_count": 8064,
+          "tweet_count": 85911
+        },
+        "username": "solopribuilds",
+        "verified": false
+      },
+      {
+        "id": "1815676218538414080",
+        "name": "KING DERRICK PICK$",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2111575758262902784/II-8opt2_normal.jpg",
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 36,
+          "like_count": 469,
+          "listed_count": 0,
+          "media_count": 273,
+          "tweet_count": 1186
+        },
+        "username": "kingderrick_p",
+        "verified": false
+      },
+      {
+        "id": "1384507890485112833",
+        "name": "Paulo ➔ trulyform.com",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1384508039999500289/3w0ZzOg5_normal.jpg",
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 521,
+          "like_count": 25390,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 622
+        },
+        "username": "paulosteinberg1",
+        "verified": false
+      },
+      {
+        "id": "1589979660359794689",
+        "name": "Antonio Romero",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929914895098634240/oE8wdRwg_normal.jpg",
+        "public_metrics": {
+          "followers_count": 5100,
+          "following_count": 571,
+          "like_count": 1126,
+          "listed_count": 23,
+          "media_count": 1691,
+          "tweet_count": 13914
+        },
+        "username": "ant0ni0_r0mer0",
+        "verified": false
+      },
+      {
+        "id": "3980735590",
+        "name": "🚨 AI News | TestingCatalog",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899962463115751424/i-6MBWau_normal.jpg",
+        "public_metrics": {
+          "followers_count": 84919,
+          "following_count": 997,
+          "like_count": 100903,
+          "listed_count": 2813,
+          "media_count": 12351,
+          "tweet_count": 32270
+        },
+        "username": "testingcatalog",
+        "verified": true
+      },
+      {
+        "id": "1899571044651814912",
+        "name": "Ai Art Codex",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042750848279732224/RVIVN5qr_normal.jpg",
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 1444,
+          "like_count": 4552,
+          "listed_count": 2,
+          "media_count": 336,
+          "tweet_count": 778
+        },
+        "username": "AiArtCodex",
+        "verified": false
+      },
+      {
+        "id": "2090647727830876160",
+        "name": "z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2114087295045304320/IzYpuJAW_normal.jpg",
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 72,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 151
+        },
+        "username": "overpr0mptedd",
+        "verified": false
+      },
+      {
+        "id": "1679723012340465664",
+        "name": "Paul @ ISDesign",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927408724424998912/JUqfd0E6_normal.jpg",
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 30,
+          "like_count": 2104,
+          "listed_count": 1,
+          "media_count": 285,
+          "tweet_count": 1594
+        },
+        "username": "ISDesignStudio",
+        "verified": false
+      },
+      {
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "public_metrics": {
+          "followers_count": 9411685,
+          "following_count": 4,
+          "like_count": 146,
+          "listed_count": 8206,
+          "media_count": 4088817,
+          "tweet_count": 149953945
+        },
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "id": "1607773498784579585",
+        "name": "Souradip Pal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100589729213526016/eF4k2am0_normal.jpg",
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 215,
+          "like_count": 2374,
+          "listed_count": 1,
+          "media_count": 221,
+          "tweet_count": 2285
+        },
+        "username": "Souradip3000",
+        "verified": false
+      },
+      {
+        "id": "2107902379731431424",
+        "name": "PickTheory Sports Picks",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107903750027247616/CjKJ7T5d_normal.jpg",
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 125,
+          "like_count": 361,
+          "listed_count": 2,
+          "media_count": 929,
+          "tweet_count": 2059
+        },
+        "username": "PTSportsPicks",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122488710419603792",
+    "next_token": "b26v89c19zqg8o3juzow6hmk70skunl27hj2oewcb2xkt",
+    "oldest_id": "2122487381819613252",
+    "result_count": 25
+  }
+}

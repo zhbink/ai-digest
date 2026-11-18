@@ -1,0 +1,842 @@
+{
+  "data": [
+    {
+      "author_id": "2119433967342702592",
+      "conversation_id": "2122370293352309235",
+      "created_at": "2026-11-17T00:49:39.000Z",
+      "edit_history_tweet_ids": [
+        "2122492325985177869"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
+      "id": "2122492325985177869",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122370293352309235",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 补充一个实测经验：空页面光好看不够，最好同时给下一步操作——比如“没配置模型”的空状态，动画旁边直接放一个“去配置”按钮，用户才不会看完彩蛋还是不知道怎么办。另外 SVG 动画尽量轻量，别为了效果加视频或大图，否则首屏反而变慢。",
+      "url": "https://x.com/Aeontto/status/2122492325985177869"
+    },
+    {
+      "author_id": "1927693584142360576",
+      "conversation_id": "2122370293352309235",
+      "created_at": "2026-11-17T00:37:50.000Z",
+      "edit_history_tweet_ids": [
+        "2122489352450461919"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
+      "id": "2122489352450461919",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122370293352309235",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 之前看别人也分享过，想让产品更高级，就在失败页面，空页面等等用户可能遇到挫折的页面加一个有趣的动画，有时候这个反而成为产品的亮点",
+      "url": "https://x.com/cfyofjackie/status/2122489352450461919"
+    },
+    {
+      "author_id": "2054415115613806592",
+      "conversation_id": "2122370293352309235",
+      "created_at": "2026-11-17T00:35:25.000Z",
+      "edit_history_tweet_ids": [
+        "2122488746541195455"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
+      "id": "2122488746541195455",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122370293352309235",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 小恐龙能火这么多年，说明用户等的不是加载，是有人陪着等。",
+      "url": "https://x.com/Johnb4zb/status/2122488746541195455"
+    },
+    {
+      "author_id": "2118740437347483651",
+      "conversation_id": "2122370293352309235",
+      "created_at": "2026-11-17T00:16:22.000Z",
+      "edit_history_tweet_ids": [
+        "2122483953059995836"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
+      "id": "2122483953059995836",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122370293352309235",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 小恐龙那套是情怀，现在空页面光卖萌不够，最好顺手把引导步骤也讲了",
+      "url": "https://x.com/jxzsqdtg1/status/2122483953059995836"
+    },
+    {
+      "author_id": "2051647851823022080",
+      "conversation_id": "2122370293352309235",
+      "created_at": "2026-11-17T00:14:53.000Z",
+      "edit_history_tweet_ids": [
+        "2122483579397829026"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
+      "id": "2122483579397829026",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 19,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122370293352309235",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 我之前搞过加载失败弹小猫 用户还挺买账",
+      "url": "https://x.com/Wavequester/status/2122483579397829026"
+    },
+    {
+      "author_id": "1382131662776008707",
+      "conversation_id": "2122370293352309235",
+      "created_at": "2026-11-17T00:03:35.000Z",
+      "edit_history_tweet_ids": [
+        "2122480733147050060"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
+      "id": "2122480733147050060",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122370293352309235",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 好多软件空着的时候像死了一样，有点彩蛋就不一样了",
+      "url": "https://x.com/gggggg57427840/status/2122480733147050060"
+    },
+    {
+      "author_id": "1717809218731065344",
+      "conversation_id": "2122370293352309235",
+      "created_at": "2026-11-17T00:03:18.000Z",
+      "edit_history_tweet_ids": [
+        "2122480660929450449"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
+      "id": "2122480660929450449",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122370293352309235",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 真绝，空页面最容易被忽略，可用户第一眼看到的经常就是它。小恐龙这例子太对了，断网都能让人记住",
+      "url": "https://x.com/libo_ai/status/2122480660929450449"
+    },
+    {
+      "author_id": "2118740437347483651",
+      "conversation_id": "2122370293352309235",
+      "created_at": "2026-11-16T23:20:48.000Z",
+      "edit_history_tweet_ids": [
+        "2122469966930657441"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "2100198569034887168",
+            "start": 0,
+            "username": "lianshangbiji"
+          },
+          {
+            "end": 22,
+            "id": "6690032",
+            "start": 15,
+            "username": "vista8"
+          }
+        ]
+      },
+      "id": "2122469966930657441",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122373273988235440",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lianshangbiji @vista8 横盘时 K 线慢呼吸，突破瞬间弹一下就好。",
+      "url": "https://x.com/jxzsqdtg1/status/2122469966930657441"
+    },
+    {
+      "author_id": "2118740437347483651",
+      "conversation_id": "2122370293352309235",
+      "created_at": "2026-11-16T23:17:21.000Z",
+      "edit_history_tweet_ids": [
+        "2122469101054386395"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1992573103734652928",
+            "start": 0,
+            "username": "sahuaja3669"
+          },
+          {
+            "end": 20,
+            "id": "6690032",
+            "start": 13,
+            "username": "vista8"
+          }
+        ]
+      },
+      "id": "2122469101054386395",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122373183558898042",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@sahuaja3669 @vista8 彩蛋管情绪，按钮管转化，空状态得把下一步写清楚才算闭环。",
+      "url": "https://x.com/jxzsqdtg1/status/2122469101054386395"
+    },
+    {
+      "author_id": "1666301154165399553",
+      "conversation_id": "2122370293352309235",
+      "created_at": "2026-11-16T19:38:01.000Z",
+      "edit_history_tweet_ids": [
+        "2122413903749709898"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
+      "id": "2122413903749709898",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 68,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122370293352309235",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 空状态最容易被当成没内容的敷衍，其实恰恰是用户会盯着看的时刻。小恐龙那种彩蛋成本不高，但能让等加载、没配置的尴尬瞬间变得松一点——产品的体贴往往藏在这些没人写需求的地方。",
+      "url": "https://x.com/tiqinge/status/2122413903749709898"
+    },
+    {
+      "author_id": "2118740437347483651",
+      "conversation_id": "2122370293352309235",
+      "created_at": "2026-11-16T19:15:40.000Z",
+      "edit_history_tweet_ids": [
+        "2122408279179481089"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
+      "id": "2122408279179481089",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122370293352309235",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 没配置模型时的空状态放个SVG动效，比冷冰冰的提示好太多了",
+      "url": "https://x.com/jxzsqdtg1/status/2122408279179481089"
+    },
+    {
+      "author_id": "1924404319002275841",
+      "conversation_id": "2122370293352309235",
+      "created_at": "2026-11-16T18:59:57.000Z",
+      "edit_history_tweet_ids": [
+        "2122404322902245871"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
+      "id": "2122404322902245871",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122370293352309235",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 这个提示词很好用，空状态确实最容易被做成一块冷冰冰的白屏。\n\n不过彩蛋最好别挡住下一步。没配模型就停在一个很温馨的动画上，有人会以为产品坏了。\n\n趣味可以有，但「接下来该点哪里」还是要放在最显眼的位置。",
+      "url": "https://x.com/LiangMout95522/status/2122404322902245871"
+    },
+    {
+      "author_id": "2118740437347483651",
+      "conversation_id": "2122370293352309235",
+      "created_at": "2026-11-16T18:23:32.000Z",
+      "edit_history_tweet_ids": [
+        "2122395158037528891"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
+      "id": "2122395158037528891",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122370293352309235",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 小恐龙那个梗太对了，空页面放点巧思确实能留住耐心",
+      "url": "https://x.com/jxzsqdtg1/status/2122395158037528891"
+    },
+    {
+      "author_id": "1920566829384413185",
+      "conversation_id": "2122370293352309235",
+      "created_at": "2026-11-16T18:11:37.000Z",
+      "edit_history_tweet_ids": [
+        "2122392158023958731"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
+      "id": "2122392158023958731",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122370293352309235",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 空状态真的是最容易被偷懒的地方😂 大部分产品就一行「暂无数据」。彩蛋之外最好顺手放个下一步按钮，比如「去配置模型」，可爱是情绪价值，能点下去才是真留住人",
+      "url": "https://x.com/santuoai/status/2122392158023958731"
+    },
+    {
+      "author_id": "4835556108",
+      "conversation_id": "2122370293352309235",
+      "created_at": "2026-11-16T17:59:52.000Z",
+      "edit_history_tweet_ids": [
+        "2122389200561688998"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
+      "id": "2122389200561688998",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122370293352309235",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 空状态平时最容易被跳过，因为只有出问题时才看得到。但用户恰好在这时最需要知道下一步，所以彩蛋旁边最好再放一个能直接点的“去配置模型”。",
+      "url": "https://x.com/Beckybaybuilds/status/2122389200561688998"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122370248963964928"
+          ]
+        },
+        "author_id": "6690032",
+        "conversation_id": "2122370293352309235",
+        "created_at": "2026-11-16T16:44:44.000Z",
+        "edit_history_tweet_ids": [
+          "2122370293352309235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5cYkmY4Ddd",
+              "end": 174,
+              "expanded_url": "https://x.com/vista8/status/2122370293352309235/video/1",
+              "media_key": "13_2122370248963964928",
+              "start": 151,
+              "url": "https://t.co/5cYkmY4Ddd"
+            }
+          ]
+        },
+        "id": "2122370293352309235",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "发现个让软件变得有情趣和审美的提示词：\n\n“帮我设计下空页面，比如没配置模型时的状态，让用户感觉到温馨、有趣。你可以用 SVG 动画等来传递表达。”\n\n为什么要这么做？\nChrome 浏览器在打不开网页时会有小恐龙游戏。\n\n在空页面设计些小彩蛋，能给用户情绪价值。\n\n也让产品细节变得稍微好那么一点。"
+        },
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 4909,
+          "like_count": 77,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 4
+        },
+        "text": "发现个让软件变得有情趣和审美的提示词：\n\n“帮我设计下空页面，比如没配置模型时的状态，让用户感觉到温馨、有趣。你可以用 SVG 动画等来传递表达。”\n\n为什么要这么做？\nChrome 浏览器在打不开网页时会有小恐龙游戏。\n\n在空页面设计些小彩蛋，能给用户情绪价值。\n\n也让产品细节变得稍微好那么一点。 https://t.co/5cYkmY4Ddd"
+      },
+      {
+        "author_id": "2100198569034887168",
+        "conversation_id": "2122370293352309235",
+        "created_at": "2026-11-16T16:56:34.000Z",
+        "edit_history_tweet_ids": [
+          "2122373273988235440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "6690032",
+              "start": 0,
+              "username": "vista8"
+            }
+          ]
+        },
+        "id": "2122373273988235440",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122370293352309235",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@vista8 拿去给我的看盘脚本加彩蛋了，你空页面放的是啥动画？"
+      },
+      {
+        "author_id": "1992573103734652928",
+        "conversation_id": "2122370293352309235",
+        "created_at": "2026-11-16T16:56:13.000Z",
+        "edit_history_tweet_ids": [
+          "2122373183558898042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "6690032",
+              "start": 0,
+              "username": "vista8"
+            }
+          ]
+        },
+        "id": "2122373183558898042",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122370293352309235",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@vista8 空页面其实是产品的第一次自我介绍。没配模型时，除了可爱，最好顺手告诉人“接下来点哪里”。彩蛋负责让人不尴尬，那个明确的按钮负责让人走出去😂 不然欢迎仪式很热闹，客人还是不知道门在哪。"
+      }
+    ],
+    "users": [
+      {
+        "id": "2119433967342702592",
+        "name": "阿云实测所",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2121510359697907713/OcH0rWlT_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 80
+        },
+        "username": "Aeontto",
+        "verified": false
+      },
+      {
+        "id": "1927693584142360576",
+        "name": "穿风衣的Jackie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120879618484023296/RLxjneky_normal.jpg",
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 88,
+          "like_count": 287,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 113
+        },
+        "username": "cfyofjackie",
+        "verified": false
+      },
+      {
+        "id": "2054415115613806592",
+        "name": "John",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054415347529428992/29iAKNd__normal.jpg",
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 16,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 403
+        },
+        "username": "Johnb4zb",
+        "verified": false
+      },
+      {
+        "id": "2118740437347483651",
+        "name": "Tetribe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118741684473446402/kBFN2sNC_normal.jpg",
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 783,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 509,
+          "tweet_count": 4766
+        },
+        "username": "jxzsqdtg1",
+        "verified": false
+      },
+      {
+        "id": "2051647851823022080",
+        "name": "WQ哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056256502126817280/GfPWdh9D_normal.jpg",
+        "public_metrics": {
+          "followers_count": 6229,
+          "following_count": 6459,
+          "like_count": 9027,
+          "listed_count": 3,
+          "media_count": 146,
+          "tweet_count": 11262
+        },
+        "username": "Wavequester",
+        "verified": false
+      },
+      {
+        "id": "1382131662776008707",
+        "name": "chengzi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120804370656944128/N3bcY98d_normal.jpg",
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 25,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 97
+        },
+        "username": "gggggg57427840",
+        "verified": false
+      },
+      {
+        "id": "1717809218731065344",
+        "name": "AI速递 | 李博",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116925829179400194/USEFFNhW_normal.jpg",
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 300,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 445
+        },
+        "username": "libo_ai",
+        "verified": false
+      },
+      {
+        "id": "1666301154165399553",
+        "name": "提秦| 🌊RIVER",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912394336068644864/F3jvJ3Ge_normal.jpg",
+        "public_metrics": {
+          "followers_count": 5965,
+          "following_count": 7500,
+          "like_count": 5802,
+          "listed_count": 6,
+          "media_count": 160,
+          "tweet_count": 7524
+        },
+        "username": "tiqinge",
+        "verified": false
+      },
+      {
+        "id": "1924404319002275841",
+        "name": "Coder Liang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084640775460327424/fxU9_D36_normal.jpg",
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 169,
+          "like_count": 69,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 793
+        },
+        "username": "LiangMout95522",
+        "verified": false
+      },
+      {
+        "id": "1920566829384413185",
+        "name": "三坨AI搞钱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108735902562574336/yQU-6TGO_normal.jpg",
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 1341,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 959
+        },
+        "username": "santuoai",
+        "verified": false
+      },
+      {
+        "id": "4835556108",
+        "name": "BeckyBay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2121114040898322432/ybGXbE3h_normal.jpg",
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 1638,
+          "like_count": 119,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1305
+        },
+        "username": "Beckybaybuilds",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122492325985177869",
+    "next_token": "b26v89c19zqg8o3juzow6fhu4puvz74ifrqajm5valfgd",
+    "oldest_id": "2122389200561688998",
+    "result_count": 15
+  }
+}

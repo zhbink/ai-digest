@@ -1,0 +1,1835 @@
+{
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122233613844725760"
+        ]
+      },
+      "author_id": "1760502863854460928",
+      "created_at": "2026-11-16T07:44:29.000Z",
+      "edit_history_tweet_ids": [
+        "2122234335285989701"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 107,
+            "start": 84,
+            "url": "https://t.co/cGXd4LT0pB"
+          }
+        ]
+      },
+      "id": "2122234335285989701",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1187,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 5,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121945482838880421",
+          "type": "quoted"
+        }
+      ],
+      "text": "黄老板的这个H3打斗skill非常给力啊，强烈推荐！\n我直接一句话生成“美女和臭猫”打斗画面，还别说真有点那个味儿了！ https://t.co/bo0tvw0lLO https://t.co/cGXd4LT0pB",
+      "url": "https://x.com/GeekCatX/status/2122234335285989701"
+    },
+    {
+      "author_id": "1878345967780646912",
+      "created_at": "2026-11-16T07:12:51.000Z",
+      "edit_history_tweet_ids": [
+        "2122226376917000702"
+      ],
+      "id": "2122226376917000702",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 342,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 5,
+        "retweet_count": 0
+      },
+      "text": "AI 视频行业一个很值得研究的变化，是制作能力在不断提升，但普通制作服务的商业价值却可能越来越低。\n\n早期 AI 视频刚出现的时候，能把图片生成稳定的视频、解决人物一致性、做出一条完整的广告片，本身就是一项相对稀缺的能力。\n\n那时候客户找人做视频，买的不只是最终作品，还包括大量探索成本。",
+      "url": "https://x.com/UPing123zzz/status/2122226376917000702"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2120057934101266432"
+        ],
+        "media_source_tweet_id": [
+          "2120057994268254591"
+        ]
+      },
+      "author_id": "1974653328274714624",
+      "created_at": "2026-11-16T06:59:12.000Z",
+      "edit_history_tweet_ids": [
+        "2122222937738482151"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 118,
+            "start": 95,
+            "url": "https://t.co/hbIrUEwNDh"
+          }
+        ]
+      },
+      "id": "2122222937738482151",
+      "public_metrics": {
+        "bookmark_count": 69,
+        "impression_count": 20630,
+        "like_count": 166,
+        "quote_count": 3,
+        "reply_count": 7,
+        "retweet_count": 33
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122162102307586136",
+          "type": "quoted"
+        }
+      ],
+      "text": "那些天天黑马斯克的家伙来看看老马含金量，硅谷知名投资人，All-In播客常客Chamath Palihapitiya在最近的访谈里直接开炮：过去十年硅谷真正拿得出手的硬核技术突破几乎没有， https://t.co/hbIrUEwNDh",
+      "url": "https://x.com/AYi_AInotes/status/2122222937738482151"
+    },
+    {
+      "author_id": "1878345967780646912",
+      "created_at": "2026-11-16T06:25:45.000Z",
+      "edit_history_tweet_ids": [
+        "2122214521926529485"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 163,
+            "start": 140,
+            "url": "https://t.co/m3axc07hZe"
+          }
+        ]
+      },
+      "id": "2122214521926529485",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 235,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2064051835636498924",
+          "type": "quoted"
+        }
+      ],
+      "text": "未来 AI Agent 真正拉开差距的地方，可能已经不是模型有多聪明，而是出了问题以后，整个系统有没有能力发现问题、定位问题，甚至修复自己。\n\n这篇文章讲的 Self-Healing Agent Harness，我认为是一个值得所有 AI 工程师认真研究的方向。\n\n现在很多人做 https://t.co/m3axc07hZe",
+      "url": "https://x.com/UPing123zzz/status/2122214521926529485"
+    },
+    {
+      "article": {
+        "cover_media": "3_2122210777675513856",
+        "entities": {
+          "code": [
+            {
+              "code": "",
+              "content": "| 运行框架 | 工具 | 分数 | 每项 token | 相对基准 | 缓存命中 | 每项费用 |\n| --- | --- | --- | --- | --- | --- | --- |\n| Bash + 看图 | bash, view_media | 72.7% | 3.82M | 1.0×（基准） | 89% | 2.33 美元 |\n| 只用 Bash | bash | 74.9% | 5.38M | 1.39× | 72% | 5.33 美元 |\n| 结构化工具 A | 8 个文件工具 | 69.4% | 5.19M | 1.36× | 76% | 4.68 美元 |\n| 结构化工具 B | 7 个文件工具 | 72.7% | 5.01M | 1.31× | 84% | 3.01 美元 |",
+              "language": "none"
+            }
+          ],
+          "tweets": [
+            {
+              "id": "2121231816309059821"
+            }
+          ],
+          "urls": [
+            {
+              "text": "https://ai.engineer/code/2026/talks/philipp-schmid"
+            },
+            {
+              "text": "https://ai.engineer/code/2026/talks/philipp-schmid"
+            },
+            {
+              "text": "https://www.philschmid.de/code-mode"
+            }
+          ]
+        },
+        "media_entities": [
+          "3_2122205435189149696",
+          "3_2122206530250629120",
+          "3_2122206102377189376",
+          "3_2122205843122970624",
+          "3_2122205667188789248"
+        ],
+        "plain_text": "\n在刚刚结束的 AI Engineer Code Summit 2026 中，来自 Google Deepmind 团队的 Philipp Schmid 带来了分享「I deleted 90% of my harness (And It Got Better)」，在几天前他也发过博客「Why Agents Are Soon Only Going to Have 1 Tool」：\n \nPhilipp Schmid 的博客分享很有工程实践，推荐大家关注阅读！AI Engineer Code Summit 2026 也为 Philipp Schmid 演讲整理了文字稿：\nhttps://ai.engineer/code/2026/talks/philipp-schmid\nAI Engineer Code Summit 2026 两天演讲的整体解读：\n \n \n同一结果，路径可以差出近十倍 token\n他用一张后训练示意图说明：任务、模型、工具、计算环境和评分器都在，但模型只拿到结果的奖励，没有人规定必须按哪种工具顺序完成。于是同一项仓库改动，既可以拆成许多专用的读取和编辑调用，也可以写成一段内联的 Bash 脚本一次做完。\n \n他给的是说明性例子，任务是把 charge_customer 里的 amount 改成 amount_cents，并改完所有调用方。专用文件工具这条路径走了 10 轮，输入 token 大约 6 万，每一轮都要把上下文再送一遍；Bash 这条路径 2 轮，大约 7,000 个输入 token，4 个文件改完，检查也通过。他口头把这差距叫做大约 10 倍，这些 token 是每轮输入的估计值。\n只留一个 Bash，计划和记忆放进文件系统\n他说自己大约每半年会把编码智能体的运行框架推倒重来，问还需要多少。2025 年那一代大约有 10 到 20 个专用工具，分别负责编辑、规划和待办，系统提示词里还有大量规则。最近一次实验只留一个工具：Bash。\n \n标题：“A 1-tool agent: a computer instead of a toolbox”。这个 Bash 工具在干净的子 shell 里运行，参数只有命令、给用户看的说明，以及 async_after_ms（默认 120,000，也就是 120 秒）。命令超时后会转到后台继续跑，调用返回进程编号和日志路径；输出只保留头尾各 400 行，全文另存成文件。长任务、读日志、规划、记忆，都可以落到文件系统上。如果智能体本身是命令行程序，它还可以用 Bash 再调起自己，不必再做一套子智能体工具。读、搜、改和测试，在他看来都只是命令。\n但有一个实际限制：在终端里打印一张图片，得到的是二进制，模型看不见画面。所以他在评测里除了“只用 Bash”，还加了一组 Bash 加 view_media 的对照，后者会把图片送回成模型能看的形式。\n系统提示词也在变短。PPT 中每个点代表模型在用户提示之前就要读的 100 个 token：2025 年中期一个 16 个工具的编码智能体大约 12,400；2026 年他这套 Bash 加图片查看的一工具智能体是 574。数字来自已公开提示词和本地安装里的系统提示词加工具定义。\n分数差不多，费用和 token 并不一样\n同一模型、同一项任务，配套不同，调用次数可以差很多。他用 Gemini 4 Carbon 跑 DeepSWE 1.1 里的一道题，两边都通过：8 个结构化工具走了 47 次模型调用、4.2M token；只用 Bash 是 18 次、1.7M token。开头还可以并行读取，一进入改代码，专用编辑工具就会一轮只改一处。\n \n随后他把自己的一套 350 项以上、覆盖编码、终端和办公的任务，用 Gemini 4 Argon 跑了四种运行框架。分数落在 6 分以内，token 相差 39%。分数是三个基准的平均值，对照基准是 Bash 加查看图片。这些是他的自有评测，不是公开榜单。\n \n他明确说，每项任务只跑了一次，分数上的小差别可能只是噪声，不能靠这张表给准确率排名。真正拉开的是 token、缓存命中和每项费用。只用 Bash 的分数最高，达到 74.9%，但 token 最多、缓存命中最低，每项 5.33 美元，反而是最贵的。最省的是 Bash 加查看图片：3.82M token、89% 缓存命中、每项 2.33 美元。结构化工具 A 的费用大约是它的两倍。并不是工具越少就越便宜；少了看图能力，省下的工具可能会被更多 token 和更低的缓存吃回去。只看分数，这四行几乎可以当成同一档。\n模型越强，越能把工作合并进一次调用\n删除专用工具，并不会自动让弱一些的模型学会合并步骤。他用 Pi 这套运行框架，把大约六个月前发布的 Gemini 3.5 Flash 和 Gemini 4 Carbon，分别接到默认工具和只用 Bash 上。3.5 Flash 无论哪种接口，模型调用次数都差不多：用 Bash 时也常常是一条命令读文件、再一条命令修改，收益只有 0.95 到 1.7 倍，有的任务几乎没有变化。Carbon 则不同：只用 Bash 时，token 可以降到原先的 1/1.4 到 1/3.0；每次 Bash 调用里大约串 2.2 到 3.7 条命令，Flash 只有 1.3 到 1.8 条。\n \n有一道改名任务，两边都按演示实录。Carbon 加默认工具：5 次模型调用、15 次工具调用、17.2k token，基本上是每个文件读一次、再改一次，最后做检查。Carbon 只用 Bash：一次模型调用里用 Python 改完 4 个文件，再跑检查，只有 3.5k token。另一页幻灯把这个差别概括成：更好的模型，从 Argon 换到 Carbon，同一套只用 Bash 的框架，每项任务 token 少 34%；同一模型下，最重和最轻的运行框架又能让 token 相差 39%。他的判断是，2027 年会更经常问：解决一项任务要花多少 token。模型变强后，旧的细粒度工具和提示词可能还在逼它走一条更慢的路，所以新模型发布时，值得把运行框架再拆一次。\n下一步可能是能跑代码的那一个工具\n他打算大约六个月后再做一次同样的实验。眼前的趋势是回到某种代码模式：与其写自由的 Bash 命令，不如直接写 TypeScript 或 Python。幻灯上写的是：Bash 负责文件和进程，其余交给 exec(code)。他也说自己看重 MCP，尤其是现在可以返回结构化输出，模型才能在一轮里把更多动作串起来。安全是这套设计的一部分，不是少几个工具就能解决的：Bash 调用很难看清，如果中间有一层 TypeScript 抽象，就可以检查实际执行的操作；密钥和策略留在主机，不进沙箱。\n \n结尾三句话是：给模型的是一台计算机，不是一盒工具，也就是 Bash 和文件系统；新模型发布后，推倒一层再跑自己的评测；统计的是完成一项任务花掉的 token，而不只是准确率。口号是：“在模型删掉你的代码之前，先自己删。”",
+        "preview_text": "在刚刚结束的 AI Engineer Code Summit 2026 中，来自 Google Deepmind 团队的 Philipp Schmid 带来了分享「I deleted 90% of my harness (And It Got Better)」，在几天前他也发过博客「Why Agents Are Soon Only",
+        "title": "Google DeepMind 工程师 Philipp Schmid「I deleted 90% of my harness」：分数只差 6 分，费用差一倍多"
+      },
+      "author_id": "1727548535816724480",
+      "created_at": "2026-11-16T06:14:45.000Z",
+      "edit_history_tweet_ids": [
+        "2122211754763489767"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 73,
+            "id": "1141052916570214400",
+            "start": 61,
+            "username": "_philschmid"
+          },
+          {
+            "end": 175,
+            "id": "1376308155626360837",
+            "start": 161,
+            "username": "aiDotEngineer"
+          }
+        ]
+      },
+      "id": "2122211754763489767",
+      "public_metrics": {
+        "bookmark_count": 18,
+        "impression_count": 1467,
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 14,
+        "retweet_count": 2
+      },
+      "text": "在刚刚结束的 AI Engineer Code Summit 2026 中，来自 Google Deepmind 团队的 @_philschmid 带来了分享「I deleted 90% of my harness (And It Got Better)」\n\nHarness 删掉 90%，钱省下来了，结果影响也不大？\n\n@aiDotEngineer 官方把录像和文字稿都整理好了，赞，学起来！ https://t.co/RHadGKHx6C",
+      "url": "https://x.com/shao__meng/status/2122211754763489767"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122179763309883393"
+        ],
+        "media_source_tweet_id": [
+          "2122184794209714368"
+        ]
+      },
+      "author_id": "1717726640040783872",
+      "created_at": "2026-11-16T06:10:49.000Z",
+      "edit_history_tweet_ids": [
+        "2122210764429955281"
+      ],
+      "id": "2122210764429955281",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 858,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "把 X 帖子做成图片，不一定要启动浏览器截图。Vercel CEO Guillermo Rauch 开源了 xeet，用 Rust / WebAssembly 把帖子渲染成 PNG。\n\n据仓库介绍，渲染核心不依赖浏览器，也不访问网络或文件系统，支持明暗主题、中文和 Emoji 回退，以及「Show",
+      "url": "https://x.com/bozhou_ai/status/2122210764429955281"
+    },
+    {
+      "author_id": "1878345967780646912",
+      "created_at": "2026-11-16T06:02:04.000Z",
+      "edit_history_tweet_ids": [
+        "2122208560172122467"
+      ],
+      "id": "2122208560172122467",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 227,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "最近美国发生了一件非常值得关注的事情。\n\nPublic Citizen 等几家非营利组织，把 OpenAI、Google、Anthropic、Meta 和 SpaceX 旗下 AI 业务告上了法庭。\n\n他们提出的要求相当激进：希望法院阻止这些公司继续开发和部署能力更先进、可能失去人类有效控制的 AI 模型。",
+      "url": "https://x.com/UPing123zzz/status/2122208560172122467"
+    },
+    {
+      "author_id": "1760502863854460928",
+      "created_at": "2026-11-16T05:52:17.000Z",
+      "edit_history_tweet_ids": [
+        "2122206097683648745"
+      ],
+      "id": "2122206097683648745",
+      "public_metrics": {
+        "bookmark_count": 37,
+        "impression_count": 3758,
+        "like_count": 27,
+        "quote_count": 1,
+        "reply_count": 7,
+        "retweet_count": 1
+      },
+      "text": "天天折腾 Agent 和写 Skill 的兄弟们注意了，NVIDIA 搞了个照妖镜开源工具：SkillEvaluator。\n\n专门给各家 agent skill 跑体检打分，Apache-2.0 协议，逻辑分了三层：\n\n第一层：查语法规范、安全性，以及能不能被主流 agent 正常加载，完全不需要消耗 API key。",
+      "url": "https://x.com/GeekCatX/status/2122206097683648745"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122194862728417280"
+        ]
+      },
+      "author_id": "1974653328274714624",
+      "created_at": "2026-11-16T05:41:57.000Z",
+      "edit_history_tweet_ids": [
+        "2122203500910084375"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 52,
+            "id": "1919915608130650114",
+            "start": 37,
+            "username": "pamelaaaaa1218"
+          }
+        ],
+        "urls": [
+          {
+            "end": 200,
+            "start": 177,
+            "url": "https://t.co/61FNJ8PGpL"
+          }
+        ]
+      },
+      "id": "2122203500910084375",
+      "public_metrics": {
+        "bookmark_count": 13,
+        "impression_count": 2407,
+        "like_count": 23,
+        "quote_count": 0,
+        "reply_count": 11,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121325633871790248",
+          "type": "quoted"
+        }
+      ],
+      "text": "说个暴论，AI时代，一个人的品味和判断力才是唯一的护城河。\n说实话，刷到 @pamelaaaaa1218 这篇实战文章我才反应过来，以前我用AI还是太勤快了，我觉得这篇就是一个AI实践的优秀范式，强烈推荐！！！\n并且强烈建议直接把这篇教程直接喂给你的Codex，别再自己傻乎乎从头看到尾学怎么调GIF了， https://t.co/ncD5oealaR https://t.co/61FNJ8PGpL",
+      "url": "https://x.com/AYi_AInotes/status/2122203500910084375"
+    },
+    {
+      "author_id": "1878345967780646912",
+      "created_at": "2026-11-16T05:31:56.000Z",
+      "edit_history_tweet_ids": [
+        "2122200976962801732"
+      ],
+      "id": "2122200976962801732",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 342,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "text": "Grok Imagine 最近传出了一个挺值得关注的消息。\n\n根据 The Information 11 月 13 日的报道，SpaceX 旗下 AI 业务部门裁减了约 60 名参与 Grok Imagine 图像和视频生成开发的员工，只留下少量人员继续维护产品。\n\n与此同时，相关业务正在把更多资源投入 AI 编程工具和 Grok Bot 等 Agent 产品。",
+      "url": "https://x.com/UPing123zzz/status/2122200976962801732"
+    },
+    {
+      "author_id": "1878345967780646912",
+      "created_at": "2026-11-16T05:26:37.000Z",
+      "edit_history_tweet_ids": [
+        "2122199642016268334"
+      ],
+      "id": "2122199642016268334",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 680,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "text": "最近看到一项挺有意思的研究。\n\n美国研究机构 Unemployment Labs 分析了 DeepSeek、Kimi、MiniMax、蚂蚁集团公开发布的大模型权重，最后发现了一个意想不到的现象：\n\n这些模型的部分权重里，居然保留着可能用于识别底层 GPU 架构的数值特征。",
+      "url": "https://x.com/UPing123zzz/status/2122199642016268334"
+    },
+    {
+      "author_id": "1878345967780646912",
+      "created_at": "2026-11-16T05:13:26.000Z",
+      "edit_history_tweet_ids": [
+        "2122196322359054769"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 166,
+            "start": 143,
+            "url": "https://t.co/4CeDXxALSm"
+          }
+        ]
+      },
+      "id": "2122196322359054769",
+      "public_metrics": {
+        "bookmark_count": 58,
+        "impression_count": 3657,
+        "like_count": 79,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 7
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121907283936375193",
+          "type": "quoted"
+        }
+      ],
+      "text": "学 Python 有个挺有意思的现象。就是很多人已经把变量、循环、函数、类、装饰器、生成器都学了一遍，LeetCode 也刷了不少，甚至能看懂一大段 Python 代码。\n\n但真让他从零开发一个有实际业务需求的系统，反而不知道该从哪里开始。\n\n我觉得这才是学编程最容易陷入的一个误区。 https://t.co/4CeDXxALSm",
+      "url": "https://x.com/UPing123zzz/status/2122196322359054769"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122194479495168000"
+        ]
+      },
+      "author_id": "1760502863854460928",
+      "created_at": "2026-11-16T05:07:24.000Z",
+      "edit_history_tweet_ids": [
+        "2122194803907875075"
+      ],
+      "id": "2122194803907875075",
+      "public_metrics": {
+        "bookmark_count": 57,
+        "impression_count": 10439,
+        "like_count": 32,
+        "quote_count": 1,
+        "reply_count": 9,
+        "retweet_count": 4
+      },
+      "text": "Claude  悄悄上线了一个极其硬核的实验开关：Code Mode。\n\n以前用它干活，兄弟们肯定体会过那种便秘感： \n发一条指令，它跑一次 Bash，吐一堆长日志，再停下来分析下一步。不仅来回往返巨耗时间，上下文 token 也在疯狂空转。\n\n开了 Code Mode 后，它的干活逻辑完全变了： https://t.co/7BrIZGPXB3",
+      "url": "https://x.com/GeekCatX/status/2122194803907875075"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122192667643985920"
+        ]
+      },
+      "author_id": "1717726640040783872",
+      "created_at": "2026-11-16T04:58:59.000Z",
+      "edit_history_tweet_ids": [
+        "2122192685427569004"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 242,
+            "start": 219,
+            "url": "https://t.co/E1OxO2zoFW"
+          }
+        ]
+      },
+      "id": "2122192685427569004",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 906,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120528130599494031",
+          "type": "quoted"
+        }
+      ],
+      "text": "Qwen4-Max 已上线，正式调用 ID 是 qwen4-max。\n\n据千问官方介绍，新模型采用 MoE 架构，原生支持视觉，上下文窗口为 100 万 token。QwenCloud API 已开放，也可在 Qwen Studio、QwenWork 和 Qoder 试用。\n\n官方公布的 QwenCloud 价格为每百万 token：输入 1.5 美元、输出 4.5 美元、隐式缓存命中 https://t.co/AwWIA5FPeB https://t.co/E1OxO2zoFW",
+      "url": "https://x.com/bozhou_ai/status/2122192685427569004"
+    },
+    {
+      "author_id": "1878345967780646912",
+      "created_at": "2026-11-16T04:48:05.000Z",
+      "edit_history_tweet_ids": [
+        "2122189944475267344"
+      ],
+      "id": "2122189944475267344",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 467,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 1
+      },
+      "text": "OpenAI 最近完成了新一轮融资的首笔约 110 亿美元资金，估值达到 1.25 万亿美元。\n\n单看这个数字，已经足够夸张。\n\n但有意思的地方在于，它的融资规模和估值，低于此前市场报道中更激进的目标。\n\n与此同时，Anthropic 正在推进 IPO，初步发行价格区间为每股 70—78 美元，计划于 11 月 19",
+      "url": "https://x.com/UPing123zzz/status/2122189944475267344"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122189245502607360"
+        ]
+      },
+      "author_id": "1974653328274714624",
+      "created_at": "2026-11-16T04:45:34.000Z",
+      "edit_history_tweet_ids": [
+        "2122189309742645503"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 117,
+            "id": "1848201385709596672",
+            "start": 105,
+            "username": "mathemetica"
+          }
+        ],
+        "urls": [
+          {
+            "end": 192,
+            "start": 169,
+            "url": "https://t.co/k1DhBeQHaw"
+          }
+        ]
+      },
+      "id": "2122189309742645503",
+      "public_metrics": {
+        "bookmark_count": 214,
+        "impression_count": 25256,
+        "like_count": 314,
+        "quote_count": 9,
+        "reply_count": 8,
+        "retweet_count": 75
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121903811954647169",
+          "type": "quoted"
+        }
+      ],
+      "text": "刚刚载入人类航天史的那一幕，真的是再次见证历史了！！马斯克牛逼！SpaceX 用发射塔的机械筷子，稳稳接住了绕地球飞了 14 圈、22.5 小时后从轨道返回的上层级飞船 Ship 42，\n而最让人头皮发麻的是，@mathemetica 用几行高中物理公式就把这个看似科幻的操作彻底拆穿了。 https://t.co/sEWZAe2CTv https://t.co/k1DhBeQHaw",
+      "url": "https://x.com/AYi_AInotes/status/2122189309742645503"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122184916414955520"
+        ]
+      },
+      "author_id": "1727548535816724480",
+      "created_at": "2026-11-16T04:29:07.000Z",
+      "edit_history_tweet_ids": [
+        "2122185171965526089"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 62,
+            "id": "1917184992616321024",
+            "start": 50,
+            "username": "TensorTonic"
+          }
+        ],
+        "urls": [
+          {
+            "end": 214,
+            "start": 191,
+            "url": "https://t.co/kDcO9DUqce"
+          }
+        ]
+      },
+      "id": "2122185171965526089",
+      "public_metrics": {
+        "bookmark_count": 9,
+        "impression_count": 1275,
+        "like_count": 16,
+        "quote_count": 1,
+        "reply_count": 17,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122045727274881072",
+          "type": "quoted"
+        }
+      ],
+      "text": "TensorTonic「从第一性原理讲清评测」：同一模型换评分和配套，排行榜结论就可能翻转\n\n来自 @TensorTonic 的分享，作者先读了 Anthropic、OpenAI 和 Google DeepMind 的公开文章再写下看法，起草和核对数字时用了 AI。\n\n评的是模型和配套一起\n\n文中借用 Anthropic 今年 1 https://t.co/JZSivu1g5M https://t.co/kDcO9DUqce",
+      "url": "https://x.com/shao__meng/status/2122185171965526089"
+    },
+    {
+      "author_id": "1878345967780646912",
+      "created_at": "2026-11-16T04:26:24.000Z",
+      "edit_history_tweet_ids": [
+        "2122184485148258572"
+      ],
+      "id": "2122184485148258572",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 853,
+        "like_count": 4,
+        "quote_count": 1,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "text": "最近国产大模型的更新频率确实越来越夸张了。\n\n腾讯发布 Hy4，重点强化视觉理解、复杂推理和长任务 Agent 能力。\n\n阿里也开放了 Qwen4-Max-Preview，支持多模态理解、编程、工具调用和结构化输出，并且提供兼容主流 API 格式的接入方式。\n\n再加上 DeepSeek、GLM、MiniMax，以及国外的",
+      "url": "https://x.com/UPing123zzz/status/2122184485148258572"
+    },
+    {
+      "author_id": "452072245",
+      "created_at": "2026-11-16T04:16:50.000Z",
+      "edit_history_tweet_ids": [
+        "2122182080801259980"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 40,
+            "start": 17,
+            "url": "https://t.co/IhUiM12lj1"
+          }
+        ]
+      },
+      "id": "2122182080801259980",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 4561,
+        "like_count": 9,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122152282896863368",
+          "type": "quoted"
+        }
+      ],
+      "text": "健康永远第一位，明天我去医院复查 https://t.co/IhUiM12lj1",
+      "url": "https://x.com/lxfater/status/2122182080801259980"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122166502291857408"
+        ]
+      },
+      "author_id": "1974653328274714624",
+      "created_at": "2026-11-16T03:51:35.000Z",
+      "edit_history_tweet_ids": [
+        "2122175724215763375"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 161,
+            "start": 138,
+            "url": "https://t.co/kDV2AxdPv7"
+          }
+        ]
+      },
+      "id": "2122175724215763375",
+      "public_metrics": {
+        "bookmark_count": 110,
+        "impression_count": 5098,
+        "like_count": 109,
+        "quote_count": 0,
+        "reply_count": 15,
+        "retweet_count": 19
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122117988774236424",
+          "type": "quoted"
+        }
+      ],
+      "text": "看完这篇我彻底悟了，甚至忍不住想说个暴论，90%的人用AI视频抽卡抽到崩溃，根本原因就两个字，手贱，\n铁汁们，别再一抽废就换模型了，把这篇的七层提示词丢给 Claude，让它对着你的素材只改一层，做 AI 短剧的建议直接收藏。 https://t.co/9wWG0Hh2yX https://t.co/kDV2AxdPv7",
+      "url": "https://x.com/AYi_AInotes/status/2122175724215763375"
+    },
+    {
+      "author_id": "1878345967780646912",
+      "created_at": "2026-11-16T03:45:16.000Z",
+      "edit_history_tweet_ids": [
+        "2122174134650331164"
+      ],
+      "id": "2122174134650331164",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 302,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "text": "Google 最近推出 Gemini 4 Hydrogen，我看完它的官方介绍，反而觉得最有价值的不是某一项 Benchmark 又提高了多少分。\n\n而是它同时推出了一个叫 Orchestrator 的机制，让多个不同能力的模型在同一个开发任务中协同工作。\n\n这个变化其实挺值得做 Agent 的人研究。",
+      "url": "https://x.com/UPing123zzz/status/2122174134650331164"
+    },
+    {
+      "author_id": "1717726640040783872",
+      "created_at": "2026-11-16T03:37:37.000Z",
+      "edit_history_tweet_ids": [
+        "2122172207883501723"
+      ],
+      "id": "2122172207883501723",
+      "public_metrics": {
+        "bookmark_count": 121,
+        "impression_count": 10758,
+        "like_count": 84,
+        "quote_count": 0,
+        "reply_count": 8,
+        "retweet_count": 6
+      },
+      "text": "推荐大家在自己的全局记忆里面，都加上下面这一段提示词，让AI把每一件事情都做一个Git版本，我实测下来，效果非常好，Commit记录就是给到Agent最好的一个上下文。\n\n# Git 提交\n\n-",
+      "url": "https://x.com/bozhou_ai/status/2122172207883501723"
+    },
+    {
+      "author_id": "452072245",
+      "created_at": "2026-11-16T03:26:16.000Z",
+      "edit_history_tweet_ids": [
+        "2122169351713243359"
+      ],
+      "id": "2122169351713243359",
+      "public_metrics": {
+        "bookmark_count": 258,
+        "impression_count": 12159,
+        "like_count": 228,
+        "quote_count": 2,
+        "reply_count": 25,
+        "retweet_count": 40
+      },
+      "text": "有人把 681 份公开漏洞报告提炼成 AI 技能，然后开源了！\n\n装上之后，Claude Code 不再只会泛泛聊安全，而是按老手的路子查漏洞、验真伪、写报告。\n\n它能帮你：\n1. 管思路和范围：用代码锁死授权边界，按 6 阶段流程推进，不乱扫无关目标\n2. 排查 Web 漏洞：58 个专项 Skill 覆盖 XSS、SQL",
+      "url": "https://x.com/lxfater/status/2122169351713243359"
+    },
+    {
+      "author_id": "1878345967780646912",
+      "created_at": "2026-11-16T03:15:39.000Z",
+      "edit_history_tweet_ids": [
+        "2122166682823372897"
+      ],
+      "id": "2122166682823372897",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 471,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 8,
+        "retweet_count": 0
+      },
+      "text": "最近 Quantum Metric 发布了一份报告，里面有两组数据，我觉得非常值得所有做 Agent 的人研究。\n\n不到一年，AI Agent 访问品牌网站的会话数量增长了 25 倍，从 2025 年 10 月的 4.6 万次增长到了 2026 年 9 月的 114 万次。\n\n但与此同时，在报告观察到的零售网站中，AI Agent",
+      "url": "https://x.com/UPing123zzz/status/2122166682823372897"
+    },
+    {
+      "author_id": "1657474831",
+      "created_at": "2026-11-16T03:15:02.000Z",
+      "edit_history_tweet_ids": [
+        "2122166527273386320"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 52,
+            "start": 29,
+            "url": "https://t.co/jSUGITq2Fr"
+          }
+        ]
+      },
+      "id": "2122166527273386320",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 4745,
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122144550814957821",
+          "type": "quoted"
+        }
+      ],
+      "text": "早日康复！\n\n所有人，以后早点休息，活着等到AGI到来。 https://t.co/jSUGITq2Fr",
+      "url": "https://x.com/Gorden_Sun/status/2122166527273386320"
+    }
+  ],
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [2122152282896863368].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2122152282896863368",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2122152282896863368"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15083,
+        "height": 768,
+        "media_key": "13_2122233613844725760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122233613844725760/img/Hq7vicE1SvzkRKLH.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122233613844725760/pl/ntDb5iFfoiiqSupo.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122233613844725760/vid/avc1/472x270/q3XsNyUlcNY8Gvp8.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122233613844725760/vid/avc1/630x360/fIvgHBOqWpLLjj6R.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122233613844725760/vid/avc1/1260x720/JPqWoTQzQ36L0ASo.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122233613844725760/vid/avc1/1344x768/xIIawB-C0d2a0sWF.mp4"
+          }
+        ],
+        "width": 1344
+      },
+      {
+        "duration_ms": 46625,
+        "height": 720,
+        "media_key": "13_2120057934101266432",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2120057934101266432/img/1s9U7rjjmsbpCfQM.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2120057934101266432/vid/avc1/320x320/Ibn_wdAL0FS2zDhY.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2120057934101266432/vid/avc1/540x540/FHd9i14ocn2WA5d4.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2120057934101266432/vid/avc1/720x720/jHDT8TPNXnfQ59RF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2120057934101266432/pl/wcv9YA5DajlCS1aT.m3u8?v=a33"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2122210777675513856",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXObdVXawAAhS2_.jpg",
+        "width": 3000
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2122205435189149696",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXOWmXDaQAAQHk1.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2122206530250629120",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXOXmGeaYAAQei-.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2122206102377189376",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXOXNMhb0AA2xaH.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2122205843122970624",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXOW-GuaYAAfUtY.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2122205667188789248",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXOWz3Ub0AA1QRF.jpg",
+        "width": 1920
+      },
+      {
+        "duration_ms": 37166,
+        "height": 1080,
+        "media_key": "13_2122179763309883393",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122179763309883393/img/lpUKKhwQvbgHkqUg.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122179763309883393/vid/avc1/1920x1080/mmu2wBrGAXomHUfl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122179763309883393/pl/0OI0gakkb3ZQE-Ug.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122179763309883393/vid/avc1/640x360/thmCC6wo3Y7Ystdq.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122179763309883393/vid/avc1/480x270/GeXnA1g8gHZ2uhYV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122179763309883393/vid/avc1/1280x720/hFjTU3fqpaCN8tSJ.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 37500,
+        "height": 1350,
+        "media_key": "13_2122194862728417280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122194862728417280/img/mOsJ7Z9HHU3uLGgo.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122194862728417280/pl/OQ-nusngHvl9ccbq.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122194862728417280/vid/avc1/1080x1350/RWt7Tp0ZAnx5O-6i.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122194862728417280/vid/avc1/480x600/XIkHMgyTxx4gxhX4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122194862728417280/vid/avc1/720x900/qwaFdWoNJ1xveB2b.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122194862728417280/vid/avc1/320x400/5U58dDY1BSWhu6r-.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 1506,
+        "media_key": "3_2122194479495168000",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXOMop6awAABcb1.jpg",
+        "width": 3020
+      },
+      {
+        "height": 2731,
+        "media_key": "3_2122192667643985920",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXOK_MPbwAAPdfs.jpg",
+        "width": 4096
+      },
+      {
+        "duration_ms": 30000,
+        "height": 1350,
+        "media_key": "13_2122189245502607360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122189245502607360/img/GisOK6MsUyWSxAa9.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122189245502607360/vid/avc1/480x600/wmgzl9JCciIjF7kP.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122189245502607360/vid/avc1/1080x1350/CXziKs98s8NekQTt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122189245502607360/vid/avc1/720x900/WapwapZVanJbaUeb.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122189245502607360/vid/avc1/320x400/i8rjYgc06lCHYmG9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122189245502607360/pl/kYdVdTl2Ye69atrl.m3u8?v=cfc"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2122184916414955520",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXOD8AqbAAA5wBk.jpg",
+        "width": 2400
+      },
+      {
+        "duration_ms": 40700,
+        "height": 1350,
+        "media_key": "13_2122166502291857408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122166502291857408/img/qCPulUIKcWqBcWJu.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122166502291857408/vid/avc1/720x900/5XBaTD5D_j9eLTSi.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122166502291857408/vid/avc1/1080x1350/u69xGPH9zSE0XklH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122166502291857408/vid/avc1/480x600/yFH9iDYy4Nz8nJDL.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122166502291857408/vid/avc1/320x400/UiupRw76Xsf9Iu5v.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122166502291857408/pl/9JtYY8IH7IpIAUHG.m3u8?v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2121938180274573313"
+          ]
+        },
+        "author_id": "1998968758422179840",
+        "created_at": "2026-11-15T12:36:41.000Z",
+        "edit_history_tweet_ids": [
+          "2121945482838880421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "end": 201,
+              "start": 178,
+              "url": "https://t.co/4ygqPVQxkE"
+            }
+          ]
+        },
+        "id": "2121945482838880421",
+        "public_metrics": {
+          "bookmark_count": 261,
+          "impression_count": 43961,
+          "like_count": 197,
+          "quote_count": 18,
+          "reply_count": 83,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121775554429104299",
+            "type": "quoted"
+          }
+        ],
+        "text": "兄弟们，我花了整整两周！！\n终于把 MiniMax H3 的打戏做成了一个拿来就能用的 Skill：h3-fight，已经开源。\n\n打戏本来不是 H3 的强项：打得像流水账，机位死板，刀插进身体里，两个人打着打着就换了边。\n\n这两周我在本地 4090 48G 上，把社区底模、Pika H3 Flex、加速 https://t.co/b00XvnnTxv https://t.co/4ygqPVQxkE"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122160734335270912"
+          ]
+        },
+        "author_id": "1974653328274714624",
+        "created_at": "2026-11-16T02:57:27.000Z",
+        "edit_history_tweet_ids": [
+          "2122162102307586136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "end": 176,
+              "start": 153,
+              "url": "https://t.co/GFH03YhZ6o"
+            }
+          ]
+        },
+        "id": "2122162102307586136",
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 25776,
+          "like_count": 67,
+          "quote_count": 4,
+          "reply_count": 6,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122132540332868016",
+            "type": "quoted"
+          }
+        ],
+        "text": "说真的，花几十万去读两年商学院，真不如把黄仁勋15 年前在斯坦福教室里的这段创业分享反复刷几遍，老黄给斯坦福学生讲出来的每一句商业直觉，放到今天看全都被一一印证了，含金量比上两年 MBA 还顶。\n很多人以为商业大佬创业靠的是能预测未来的超能力，但 2009 https://t.co/ggDpHe9wuS https://t.co/GFH03YhZ6o"
+      },
+      {
+        "created_at": "2026-11-10T07:36:29.000Z",
+        "edit_history_tweet_ids": [
+          "2120057994268254591"
+        ],
+        "id": "2120057994268254591",
+        "public_metrics": {
+          "bookmark_count": 215,
+          "impression_count": 234180,
+          "like_count": 2753,
+          "quote_count": 43,
+          "reply_count": 148,
+          "retweet_count": 709
+        },
+        "text": "Chamath Palihapitiya on Elon Musk:\n\n\"In Silicon Valley, we have had a lost decade. What are the 2 or 3 most incredible technological achievements that Silicon Valley has created in the last decade. You've Elon Musk who created reusable rocketry. He created an entire global mesh https://t.co/SLxEs0HMSp"
+      },
+      {
+        "article": {
+          "cover_media": "3_2064051001066483712",
+          "entities": {
+            "code": [
+              {
+                "code": "git clone https://github.com/comet-ml/opik\ncd opik\n./opik.sh",
+                "content": "```bash\ngit clone https://github.com/comet-ml/opik\ncd opik\n./opik.sh\n```",
+                "language": "bash"
+              },
+              {
+                "code": "suite = opik.TestSuite(\"crm-agent-v2\")\nsuite.add_assertion(\"The response must include specific deal details, not just a count\")\nsuite.add_assertion(\"The response must never reveal unauthorized information\")\nsuite.run_tests()",
+                "content": "```python\nsuite = opik.TestSuite(\"crm-agent-v2\")\nsuite.add_assertion(\"The response must include specific deal details, not just a count\")\nsuite.add_assertion(\"The response must never reveal unauthorized information\")\nsuite.run_tests()\n```",
+                "language": "python"
+              },
+              {
+                "code": "import opik\n\n@opik.track\ndef my_agent(query: str):\n    # your agent logic here\n    ...",
+                "content": "```python\nimport opik\n\n@opik.track\ndef my_agent(query: str):\n    # your agent logic here\n    ...\n```",
+                "language": "python"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 21,
+                "start": 16,
+                "username": "opik"
+              }
+            ],
+            "urls": [
+              {
+                "text": "https://abs.twimg.com/emoji/v2/svg/1f31f.svg"
+              },
+              {
+                "text": "https://github.com/comet-ml/opik"
+              },
+              {
+                "text": "https://github.com/comet-ml/opik"
+              },
+              {
+                "text": "https://github.com/comet-ml/opik"
+              }
+            ]
+          },
+          "media_entities": [
+            "3_2063965206817144833",
+            "3_2063969154621964289",
+            "3_2063969762296946688",
+            "3_2063972378074554368",
+            "3_2063966492958613504",
+            "3_2063965533700296704",
+            "3_2063968770901839872",
+            "3_2063966280261287936",
+            "3_2063968107769864192"
+          ],
+          "plain_text": "When an AI agent fails in production, your observability tool shows you exactly what it did and almost nothing about how to fix it.\nYou get a clean trace of the run, every model call and tool that fired, how long each step took, and what it cost in tokens.\nWhat you don't get is why it broke, the change that would fix it, or any promise the same thing won't happen again next week.\nSo you scroll through the trace span by span, form a theory about what went wrong, write a patch by hand, and hope it doesn't break something that was working before.\nThen a new model ships with a fresh batch of failure modes, and you run that whole manual loop from the top.\nThe real bottleneck isn't your observability. It's everything that has to happen after the trace lands on your screen.\n \nCursor recently shared how much engineering goes into the harness around their agent, the layer of prompts, tools, and checks wrapped around the raw model. A better harness on the same model gives far better results, and that work never really ends.\nThis is where every observability platform leaves you. It answers what happened, then hands back why it happened, what to change, and how to keep it from breaking again.\nThat gap is the loop most teams are stuck in today. Here's why it keeps reopening, and what it finally takes to close it.\nWhy Current Observability Breaks at Scale\nMost agent observability platforms deliver a trace and stop.\nYou get a span tree, latency numbers, token costs, and a dashboard. What you don't get: why it failed, what to fix, or any guarantee it won't break again.\n\"What happened\" → the platform handles this\n\"Why it happened\" → manual\n\"Here's the fix\" → manual\n\"This won't break again\" → manual\nThat was a reasonable product in 2023. It's the wrong abstraction for teams running agents in production today.\nThe problem compounds itself. Every model upgrade introduces new failure modes. Every new tool adds new edge cases. The harness gets more complex faster than any team can manually track and repair.\nHere's the stack that does it.\n \nOpik: AI Observability & Evals For the Agentic Era\nOpik is an open-source logging, debugging, and optimization platform for AI agents and LLM applications. Opik is built around the premise that this loop should be automated, not staffed.\n \nThe Four-Layer Stack\nOpik's architecture is one connected workflow.\nTrace → Ollie diagnoses → Ollie proposes a fix → fix is applied and verified → Test Suite locks the failure as a regression test → back to Trace\n \nHere's each layer.\nLayer 1: Tracing\nEvery LLM call, tool invocation, and retrieval step is instrumented automatically with a single decorator.\n \nWorks with LangGraph, CrewAI, and 50+ frameworks out of the box. Every trace records which agent configuration was active for full reproducibility when you need to rerun a failing input later.\n That gives you full visibility. But visibility alone doesn't fix anything, which is where Layer 2 comes in.\nLayer 2: Ollie\nEvery other observability platform stops at \"here's your trace.\" Opik goes from trace to fixed code, powered by Ollie.\nOllie is a coding agent built into Opik. One agent, full context.\n \nWithout any code access, Ollie reads span trees, identifies failure modes, and explains the causal chain across every LLM call. Ask it, \"why did the final answer ignore the retrieved context?\" It walks the full span tree and surfaces the root cause.\nRun opik connect from your project root, and Ollie upgrades to full code-fix mode:\nReads your source files\nIdentifies the exact lines responsible\nProposes a diff; nothing changes without your explicit approval\nOnce you approve, Ollie reruns your agent against the exact inputs from the original failing trace, streams the new trace for side-by-side comparison, and locks the original failure as a regression case in your test suite.\nBad trace → root cause → diff → approve → rerun → regression locked\n \nLayer 3: Test Suites\nMost eval workflows: build a labeled dataset, define a numerical metric, compare floats. That model works for researchers. It doesn't match how engineers think about quality.\nOpik replaces it with plain-English assertions.\n \nOpik converts those into LLM-as-a-judge checks under the hood. Clean pass/fail per test case.\n \nThe part that changes the workflow: every failing trace you debug automatically becomes a new test case. The suite grows from real production failures, not synthetic scenarios someone wrote in advance.\nEvery cycle, the harness gets harder to break.\nBut even with a growing test suite, you still need a safe place to test changes before they ship. That's what Layer 4 is for.\nLayer 4: Agent sandbox\nMost playgrounds are prompt playgrounds. You change a system prompt and rerun one LLM call. That answers the wrong question.\nThe production question is, what happens to the entire agent graph when I change this.\nOpik's Agent Sandbox runs the fully instrumented agent end-to-end inside the UI. Change a prompt, swap a model, add a tool, and watch how the whole system responds across the full spanning tree. Every sandbox run produces a complete Opik trace.\nNon-developer stakeholders, PMs, domain experts, and QA can safely test configurations without touching git.\nThe Flywheel in Practice\nThe layers aren't independent features. They're one loop.\nInstrument with @opik.track. Declare an opik.Config. Something fails in production. Ollie reads the trace, reads your source, and proposes a fix. You approve. Ollie reruns the agent in the Sandbox against the original failing input. Fixes passes. Save it as a new Blueprint. The environment pointer promotes to staging. Original failure locked as a regression test.\n \nThe next failure enters the same loop.\nEvery cycle, the harness gets harder to break.\n​Closing the Loop\nObservability that ends at the trace made sense when agents were simple. Once they hit production, the real work is everything after the trace, and that is the part Opik runs for you instead of leaving it on your plate.\nThe whole stack ships in the open, Tracing, Ollie, Test Suites, the Agent Sandbox, a 6-algorithm Agent Optimizer, and 50+ framework integrations, with the project past 19.3K stars on GitHub.\nIt self-hosts in three commands:\n \nThe manual loop Cursor describes is the one Opik closes on its own, from a bad trace all the way to a locked regression test.\nIt is worth a look if you are running agents in production. \n\nCheck out Comet ML and Opik → \n( don't forget to star 🌟)\nWhat's the current state of observability in your agent stack, and where does the debugging loop break for your team right now?\n \nIf you are building an open-source tool that AI engineers would love, reach out. We only cover tools that pass our own test, so we'll try yours first and write about it only if it holds up.\nThanks to Comet ML for sponsoring today's issue.",
+          "preview_text": "When an AI agent fails in production, your observability tool shows you exactly what it did and almost nothing about how to fix it.\nYou get a clean trace of the run, every model call and tool that",
+          "title": "Your Agent Harness Should Repair Itself"
+        },
+        "author_id": "703601972",
+        "created_at": "2026-06-08T18:28:00.000Z",
+        "edit_history_tweet_ids": [
+          "2064051835636498924"
+        ],
+        "id": "2064051835636498924",
+        "public_metrics": {
+          "bookmark_count": 4608,
+          "impression_count": 2370130,
+          "like_count": 1858,
+          "quote_count": 25,
+          "reply_count": 46,
+          "retweet_count": 249
+        },
+        "text": "https://t.co/YUGDPxpYvy"
+      },
+      {
+        "created_at": "2026-11-16T04:27:37.000Z",
+        "edit_history_tweet_ids": [
+          "2122184794209714368"
+        ],
+        "id": "2122184794209714368",
+        "public_metrics": {
+          "bookmark_count": 1661,
+          "impression_count": 115201,
+          "like_count": 2163,
+          "quote_count": 36,
+          "reply_count": 203,
+          "retweet_count": 105
+        },
+        "text": "Introducing 𝚡𝚎𝚎𝚝: https://t.co/N50C5m5drC.\n\nA hermetic, pixel-perfect X post renderer in safe Rust / wasm. Zero browser, network, filesystem, system fonts. Renders a post to PNG in ~1ms (and 0.4 ms for @jack's \"setting up my twttr\" 😁).\n\nX is the global town square, and the https://t.co/pI98xghLqo"
+      },
+      {
+        "article": {
+          "cover_media": "3_2121219597764603904",
+          "entities": {
+            "tweets": [
+              {
+                "id": "2120089714749263956"
+              },
+              {
+                "id": "2119663242540876125"
+              }
+            ],
+            "urls": [
+              {
+                "text": "https://sticker.weixin.qq.com"
+              },
+              {
+                "text": "https://x.com/AYi_AInotes/status/2120089714749263956"
+              },
+              {
+                "text": "https://x.com/AdrianPunk115/status/2119663242540876125"
+              },
+              {
+                "text": "https://github.com/imraywang/ray-sticker-shop"
+              },
+              {
+                "text": "https://github.com/VaneAi888/vane-gpt-image-skills"
+              },
+              {
+                "text": "https://sticker.app.weavefox.cn/#/"
+              },
+              {
+                "text": "https://github.com/WoYun520/gif-factory"
+              },
+              {
+                "text": "https://sticker.weixin.qq.com/"
+              },
+              {
+                "text": "https://x.com/AdrianPunk115/status/2119663242540876125"
+              },
+              {
+                "text": "https://sticker.weixin.qq.com/"
+              },
+              {
+                "text": "https://x.com/AdrianPunk115/status/2119663242540876125"
+              },
+              {
+                "text": "https://sticker.weixin.qq.com/"
+              },
+              {
+                "text": "https://x.com/AYi_AInotes/status/2120089714749263956"
+              },
+              {
+                "text": "https://x.com/AYi_AInotes/status/2120089714749263956"
+              }
+            ]
+          },
+          "media_entities": [
+            "3_2121290432412016640",
+            "3_2121267622989946880",
+            "3_2121253648642777088",
+            "3_2121273992531283969",
+            "13_2121238953563201537",
+            "16_2121269376599109632",
+            "3_2121252060817661952",
+            "3_2121248763293704192",
+            "16_2121297388543582208",
+            "3_2121238953542217728",
+            "3_2121287518339637248",
+            "3_2121274403329806336",
+            "3_2121292521418686465",
+            "3_2121298015868874753",
+            "3_2121295939923324928",
+            "3_2121289027555053568"
+          ],
+          "plain_text": "想做一套微信表情包上架平台搞点儿“睡后收入”，但是又懒得自己学习教程，于是我干脆换了个思路：教程我懒得学，那就让Codex替我学！\n直接把X上的参考文章发给Codex，再提供角色图片和文案。至于动作怎么设计、GIF怎么合成、投稿素材怎么准备，让它自己研究和执行。我只负责看效果、提修改意见。\n \n目前我完成了16张自创IP「打工日常」系列动态表情，已经提交微信表情开放平台，目前还在等待审核。\n \n这篇就分享我的高质量微信动态表情包懒人制作流程，附上可以直接复制给Codex的提示词。从IP设计到微信投稿都能跟着做，后续还可以延伸到宠物表情包定制等副业方向。大家可以先用自己的作品跑通流程，再考虑接单！\n一、准备工具：先把参考教程交给Codex\n01｜需要哪些工具\nChatGPT：「Chat模式」负责前期IP角色设计；「Codex模式」负责研究制作方案、调用图像工具、处理GIF和填写输出投稿内容\n微信表情开放平台：https://sticker.weixin.qq.com，查看上传要求、准备投稿\n02｜让Codex先学习两篇参考教程\n这一步是我这套懒人方法的关键。\n我主要参考了X上两位老师的文章，先分享给大家：\n1️⃣ AYi老师：动态表情包制作与接单教程\n \nAYi老师这篇更偏向完整的制作和交付流程，从角色设定、聊天文案、动作拆帧，到GIF合成、质量检查和精准修改都有介绍，还分享了表情包定制的副业思路。提示词和脚本也很有参考价值。\n2️⃣ Punk老师：GIF表情包及个人IP制作\n \nPunk老师这篇主要围绕个人IP展开，介绍了如何保持角色一致性、制作带字表情，以及逐张或批量生成GIF。除了表情包，还延伸到了品牌Logo和周边设计。\n选好参考文章后，直接丢给Codex，让它学习其中制作动态表情包的方法，再根据我的需求自行制定方案。\n品牌周边、商品物料这些暂时用不上的内容，我就让它跳过了。\n至于后面怎么设计动作、怎么切帧、怎么合成GIF，都是Codex结合参考教程和可用工具自己规划的。\n可复制提示词 ①：让Codex学习并接管制作流程\n我想从0开始制作一套高质量的微信动态表情包，最后投稿到微信表情开放平台。请先认真学习下面两篇参考教程：https://x.com/AYi_AInotes/status/2120089714749263956、https://x.com/AdrianPunk115/status/2119663242540876125。重点学习动态表情包的制作思路和操作方法，品牌周边、商品物料等不相关的内容不用研究。我希望采用尽量省手工操作、同时保证成品质量的制作方式。角色形象、主题、文案和最终效果由我确认，具体制作方案、工具调用、动画处理、GIF合成及文件整理由你负责。请结合教程和当前可用工具，自行规划适合的制作流程，不需要我逐项指定技术实现方法。遇到需要我做选择的地方，记得让我确认。\n你负责说明想做什么，让Codex决定怎么完成，再根据结果调整。\n二、确定角色：没有IP就先用AI设计一个\n如果已经有喜欢的卡通形象、原创IP或宠物形象，可以直接拿来做参考。\n没有的话，也可以试试我的方法：把自己的头像交给ChatGPT，让它结合个人特征，设计一个专属的动物IP。\n我之前有一张经常使用的卡通头像，但如果直接用这个人物形象做表情包，感觉IP辨识度还不够强。\n因为自己比较喜欢小狗，所以我把卡通头像发给ChatGPT，希望它结合头像的风格和气质，帮我设计一只小狗形象。\n \n这里不是简单地把人物换成动物，而是希望新角色既能保留一些原本的个人特征，又是一只自然、可爱、有辨识度的小狗儿。\n01｜先提供参考图，让AI设计角色\n可复制提示词 ②：根据个人形象设计IP\n我想设计一个专属的动物IP，后续用来制作微信动态表情包。我上传的是自己目前使用的卡通头像，请参考它的整体风格、气质和有辨识度的特征，帮我设计一只[填写喜欢的动物]。希望新形象能让人联想到原来的头像，但不需要完全照搬人物的五官和造型。角色要保留动物原本的外形，不要强行拟人化。整体风格自然、可爱、有辨识度，适合后续制作不同情绪和动作的表情包。请先生成角色形象供我确认，暂时不用制作动态表情。\n02｜第一版不满意？直接告诉AI怎么改\n第一次生成的效果不一定满意。比如我最初的小狗带着明显的人类发型，看起来不太自然，于是让ChatGPT去掉拟人化的头发，保留小狗原本的样子。\n \n之后又尝试了不同品种，并调整了眼镜的颜色，才逐渐确定最终的样子。\n03｜给角色增加一个专属标志\n角色基本确定后，还可以考虑加入一些代表自己的元素。\n比如我在口水巾上，加入了字母P＋苹果图案组成的Logo。先让ChatGPT设计几种组合方案，挑选喜欢的版本，再应用到角色身上。\n \n大家也可以用自己的名字首字母、喜欢的符号等设计专属标志。不用复杂，有一个固定且容易辨认的小元素，就能增加角色的辨识度。\n04｜确定形象，交给Codex继续制作\n角色满意后，把最终参考图发给Codex，并明确哪些特征必须保留。\n可复制提示词 ③：固定角色形象\n这张图片是最终确认的IP参考图。后续制作所有动态表情时，请保持角色的毛色、身体比例、五官、配饰和专属标志一致。可以根据文案改变动作和情绪，但不要随意修改角色的固定特征。\n这样就可以进入下一步，开始制作动态表情了。\n三、确定主题：表情文案写什么\n建议先确定一个熟悉的主题，再找对应的聊天文案。\n第一次不用追求特别复杂的创意，真正会在你平时聊天里使用，比刻意设计一些新奇的句子更重要。\n这里分享两种方法。\n01｜方法一：从自己的口头禅里找\n这是我这次用的方法。因为做的是「打工」主题，我就想了想平时上班经常会说哪些话，稍微一想其实就有不少：\n「无语」「还不发钱」「不想干了」「还不下班」「我好困」「中午吃啥」「周五了！」……\n不用太追求特别的创意，直接用平时顺嘴说出来的话，简短、自然，能表达情绪就行。\n02｜方法二：看看别人做的案例\n如果实在没有思路，也可以去看看GitHub上现成的表情包Skill，或者直接在微信表情平台搜索同类作品，参考别人怎么选主题、设计聊天场景，再整理出适合自己的文案。\n \n下面是我收藏的Github仓库和网站，大家可以借鉴参考：\n表情包工坊 ray-sticker-shop：https://github.com/imraywang/ray-sticker-shop\nVane GPT 图像技能：https://github.com/VaneAi888/vane-gpt-image-skills\n贴纸/表情包灵感库：https://sticker.app.weavefox.cn/#/\nGIF 工厂：https://github.com/WoYun520/gif-factory\n文案确定后，直接交给Codex制作就可以了。\n四、制作动图：让Codex自己完成\n到了核心制作环节，反而是整个过程中最省事的一步。\n因为前面已经让Codex学习了参考教程，所以这里不需要自己再研究动画怎么做。\n我当时就是把确定好的形象和文案交给它，让它按照之前学习的方法直接制作。\n01｜先让Codex制作样图\n可复制提示词 ④：开始制作动态表情\n现在用之前确认的小狗形象，先制作三张微信动态表情：无语、还不发钱、不想干了。按照前面学习的参考教程，自行设计动作并制作成高质量动态GIF。保持角色形象一致，动作自然、有表现力，文字使用我给出的原文。做完先给我看效果，确认后再继续。\n02｜先看样图，动作够不够灵动\n第一批三张完成后，我先看了一下效果。\n最初的动作有些简单，表现力不太够，于是让Codex继续调整。\n其实在前面学习的两篇文章中，已经提到了动作变化、角色一致性和循环效果这些要点，所以Codex本身就有可以参考的修改方法。\n我只需要告诉它：动作可以再灵动一些，表情变化更明显一点。\n \n03｜继续制作剩余表情\n样图满意后，接下来就很简单了。继续把剩余文案交给Codex，让它沿用已经确定的角色和制作方式，直接做就行。\n可复制提示词 ⑤：继续制作剩余表情\n前面制作的动态效果已经确认，继续按照这个风格完成剩余表情。文案如下：[粘贴剩余文案]。每张结合文案设计不同的动作，保持角色形象和文字风格一致。做好后给我看效果，源图和GIF文件都保存好。\n04｜修改细节\n这一步主要就是自己看效果。\n把整套表情过一遍，发现哪里不太满意，就直接列出来让Codex调整。\n比如我这次修改过的几个地方：\n1️⃣「还不发钱」：增加金币\n原本是小狗摊开爪子的动作，我觉得掌心里如果有金币，会更符合文案的意思。\n \n2️⃣「还不下班」：时钟改成18:00\n因为我自己是下午六点下班，所以让它把表情里的时钟调整成18:00。\n \n3️⃣「差点儿意思」：保留自然的短爪\n有一次修改后，小狗的手臂反而变长了，看起来不自然，最后还是保留了之前的版本。\n直接告诉Codex哪张有问题、希望怎么改，已经满意的部分尽量不要动。\n五、微信表情开放平台：官方要什么，就截图让Codex做什么\n表情包制作完成后，打开微信表情开放平台：https://sticker.weixin.qq.com/，登录后台（需要确定你要绑定的视频号的微信），选择对应的投稿方式，按页面提示上传表情、填写信息和准备配套素材。\n01｜先了解投稿方式\n表情单品： 如果只是想先尝试一两张表情，可以在这里提交，不能被打赏。单品审核快，发布成功后会显示在你绑定的视频号主页。\n \n表情专辑： 如果围绕固定角色制作了完整系列，可以选择专辑投稿方式，只有专辑可以开通打赏功能。\n02｜直接截图官方要求\n这是我觉得投稿环节最省事的办法。\n进入后台后，把每个要上传、填写信息项的说明按钮点开，直接把官方的要求和示例截图发给Codex，让它按要求做图、调整尺寸，连需要填写的文字也可以一起帮忙准备。\n \n我主要负责上传文件、复制粘贴内容，以及最后确认。\n特别注意：每张表情的「表达意义词」。\n简单理解，就是别人平时聊天时，会输入什么词来搜索这张表情。\n比如想表达疑问，可能会搜索「什么意思」「？」；想表达无语，就会搜索「无语」。这些就是对应表情可以使用的意义词。\n \n所以填写时，不要只想着这张表情叫什么，而要想想别人会用什么词来搜索它。\n另外，每张表情还可以单独编辑首帧，建议选择动作最有表现力、最能传达表情含义的那一帧，不一定要用GIF默认的第一帧。\n六、预览确认，提交审核\n所有素材准备好之后，按照平台提示逐项上传。\n平台会提供表情预览，可以先看一下实际显示效果，确认文字、动作和整体呈现是否符合预期。\n \n如果还有不满意的地方，回到Codex调整，再重新上传对应文件。\n确认无误后，点击提交，等待官方审核即可。\n \n最后\n其实整套懒人方法的核心很简单：\n把制作表情包的参考教程交给Codex学习，自己确定角色和文案，剩下的制作、修改和文件处理尽量交给它完成。\n我们主要负责看效果、提意见，以及最后按照平台要求上传投稿。\n当然，懒人版不代表完全不用动脑，想做出质量更高的作品，还是需要自己把关最终效果。\n建议大家先把整个流程跑通，后面再扩展成完整系列，或者整理成固定工作流，制作不同主题的表情包。\n把繁琐的操作交给AI，把精力留给自己的创意和作品。\n等「小P狗打工记」表情专辑审核通过、正式上架后，欢迎大家下载使用！✌️\n \n\n\n \n我是Pamela，品牌人 → AI Builder 转型中，初来乍到，请大家多多指教～会继续分享更多干货合集，以及用 AI 搞钱的实操经验，本人致力于用 AI 解决实际问题，顺便赚点钱钱～有用的都会分享出来～坚信长期主义和真诚的力量～\n \n \n",
+          "preview_text": "想做一套微信表情包上架平台搞点儿“睡后收入”，但是又懒得自己学习教程，于是我干脆换了个思路：教程我懒得学，那就让Codex替我学！",
+          "title": "连教程都不用自己学！用Codex做高质量微信动态表情包（懒人版）"
+        },
+        "author_id": "1919915608130650114",
+        "created_at": "2026-11-13T19:33:38.000Z",
+        "edit_history_tweet_ids": [
+          "2121325633871790248"
+        ],
+        "id": "2121325633871790248",
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 12619,
+          "like_count": 121,
+          "quote_count": 8,
+          "reply_count": 31,
+          "retweet_count": 20
+        },
+        "text": "懒人用Codex做高质量微信表情包，原来可以如此简单！\n\n直接把参考文章丢给Codex，动作设计、GIF合成、投稿素材都让它自己处理，我只负责看效果、提修改意见。\n\n没有宠物、没有现成IP也没关系，用自己的头像就能设计专属角色。\n\n完整制作流程＋可复制提示词，需要的直接拿走 ↓ https://t.co/kE8hgSVIhC"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2121906998870511616",
+            "3_2121907133700509696",
+            "3_2121907142676369408",
+            "3_2121907277607170048"
+          ]
+        },
+        "author_id": "1896591753064685568",
+        "created_at": "2026-11-15T10:04:54.000Z",
+        "edit_history_tweet_ids": [
+          "2121907283936375193"
+        ],
+        "id": "2121907283936375193",
+        "public_metrics": {
+          "bookmark_count": 721,
+          "impression_count": 23393,
+          "like_count": 685,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 107
+        },
+        "text": "You Finally Understood PYTHON!! https://t.co/VPfXcME1yU"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2120527072565354496"
+          ]
+        },
+        "author_id": "1717726640040783872",
+        "created_at": "2026-11-11T14:44:38.000Z",
+        "edit_history_tweet_ids": [
+          "2120527233458860541",
+          "2120528130599494031"
+        ],
+        "id": "2120528130599494031",
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 67237,
+          "like_count": 50,
+          "quote_count": 9,
+          "reply_count": 31,
+          "retweet_count": 2
+        },
+        "text": "白墙黛瓦、满月当空，这座江南小院不是我在软件里一点点抠出来的，\n\n是 Qwen4-Max 预览版写 Python 脚本，直接驱动 Blender 搭出来的。\n\n没用现成资产包，工作流跟之前 GPT-6 Astra 徒手搓 3D 场景是同一套：模型写脚本，Blender 负责执行。这次提示词也是只有一句 https://t.co/X3OiiHDc6g"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2121903491983822848"
+          ]
+        },
+        "author_id": "1848201385709596672",
+        "created_at": "2026-11-15T09:51:06.000Z",
+        "edit_history_tweet_ids": [
+          "2121903811954647169"
+        ],
+        "id": "2121903811954647169",
+        "public_metrics": {
+          "bookmark_count": 2704,
+          "impression_count": 286336,
+          "like_count": 7292,
+          "quote_count": 116,
+          "reply_count": 162,
+          "retweet_count": 1281
+        },
+        "text": "SpaceX caught Starship with the tower on Nov 14, the first upper stage ever caught coming back from orbit.\n\nIt falls belly-first and drag caps its speed: v = √(2mg ÷ ρCdA), about 60 m/s with round numbers.\n\nThen it flips, burns from h = v² ÷ 2a and hits v → 0 right at the arms. https://t.co/uaT8v5jm4p"
+      },
+      {
+        "article": {
+          "cover_media": "3_2122026234498707456",
+          "entities": {
+            "urls": [
+              {
+                "text": "Claude.ai"
+              },
+              {
+                "text": "tensortonic.com/problems/sample-var-std"
+              },
+              {
+                "text": "tensortonic.com/problems/bootstrap-mean"
+              },
+              {
+                "text": "tensortonic.com/problems/cs336-l12-judge-length-debiasing"
+              },
+              {
+                "text": "tensortonic.com/problems/cs336-l12-pairwise-elo-fit"
+              },
+              {
+                "text": "tensortonic.com/problems/cs336-l12-multiple-choice-likelihood"
+              },
+              {
+                "text": "tensortonic.com/problems/expected-calibration-error"
+              },
+              {
+                "text": "tensortonic.com/guides/ml-evaluation-metrics"
+              },
+              {
+                "text": "tensortonic.com/ml-design/generative-evaluation"
+              }
+            ]
+          },
+          "media_entities": [
+            "3_2122033126436466688",
+            "3_2122034040190676992",
+            "3_2122033210817437697",
+            "3_2122032790795661312",
+            "3_2122033860045369344",
+            "3_2122034125905489920",
+            "3_2122034211536420864",
+            "3_2122034301344890880"
+          ],
+          "plain_text": "Whenever any frontier lab says its new model is better at coding, it means the model scored higher on some set of coding tasks graded in some particular way. When you change those tasks or infact, the grading, there's high chance the claim can also flip. So evals are honestly one of the most boring looking but most important parts of working with LLMs, and you should understand them properly before you trust any number on a leaderboard or ship a change based on one.\nSo what is an eval? It's basically a test for an AI system, you give it some input, run some grading logic on whatever comes out and you get a score. Sounds same as a unit test, but there is one big difference. A normal function gives you the same output for the same input every single time, while a language model can answer the same prompt differently on every run. OpenAI's evaluation guide says the same thing, and that's why evals behave much more like experiments than like unit tests.\nIn this article I\"ll build up evals from the basic pieces, using what Anthropic, OpenAI and Google DeepMind have actually published about how they do it.\nWhat is an eval actually made of?\nAnthropic put out an engineering post on agent evals in January 2026, and the vocabulary in it is really clean so I'm going to borrow it. A task is one test case, with defined inputs and success criteria. A trial is one attempt at that task, and you usually run a few of them because the model output keeps changing. A grader is the logic that scores some part of the result, and one task can have more than one grader. The transcript is the full record of a trial with every message, tool call and intermediate result, and the outcome is whatever the final state of the world is when the trial ends.\nThe transcript vs outcome difference matters alot more than it looks. Anthropic's example is a flight booking agent. The transcript can end with the agent saying \"your flight is booked\", but the outcome is whether a reservation actually exists in the database or not. If your grader only reads the agent's last message, it will happily pass an agent that just lied to you.\n \nThere are two more pieces. The evaluation harness is the infra that runs the tasks, records everything and adds up the scores. The agent harness, some people call it the scaffold, is the code that lets a model act like an agent in the first place, so its tools, prompts and the loop. When you evaluate \"an agent\" you are always evaluating the model and its harness together, and a better harness can move a score as much as a better model can.\nWho does the grading?\nThere are three kinds of graders and each one trades cost against nuance differently.\nCode based graders are the simplest ones. They check an exact string, run unit tests, look inside a database or count tool calls. They are fast, cheap and fully reproducible so debugging them is easy. The problem is they are brittle, a correct answer written in a slightly different format can still fail.\nModel based graders, which everyone calls LLM-as-judge, ask another model to score the output against a rubric, compare two answers or check a list of statements. They handle open ended answers pretty well and scale cheaply, but they are not deterministic and they have known biases. OpenAI's guide names two of them, position bias, where the judge's verdict depends on the order the answers show up in, and verbosity bias, where it just likes longer answers more. Both labs say you should check your judge against human labels before trusting it at scale. Anthropic also suggests giving the judge a way out, like letting it answer \"Unknown\" when it can't tell, and using a separate judge for each thing you're grading.\nHuman graders are the gold standard for quality and they're what you use to calibrate the other two. They are also slow and expensive, and for specialised tasks you need actual experts.\n \nIn practice good eval suites mix all three. Anthropic's advice is to use deterministic graders wherever they work, add model graders where you need judgement, and use humans carefully to keep the model graders honest.\nWhy should you grade the outcome and not the path?\nIt's tempting to write a grader that checks whether the agent took the exact steps you expected, in the order you expected. Anthropic warns against this, because agents keep finding valid routes you never thought about. In one case Claude Opus 4.5 \"failed\" a task from the τ2-bench flight booking benchmark because it found a loophole in the airline's policy that got the customer a better result than the intended answer.\nBad grading can also hide real ability. On CORE-Bench, which is a benchmark about reproducing scientific results, Opus 4.5 first scored 42%. Part of the reason was a grader so strict that it rejected \"96.12\" when the expected value was \"96.124991...\". After the team fixed the rigid grading, the ambiguous instructions and the tasks that couldn't be reproduced, and loosened the scaffold a bit, the same model scored 95%.\n \nSo grade the result that actually matters, and give partial credit when a task has multiple parts. A support agent that verifies the customer properly but then fails to issue the refund has still done better than one that fails at the very first step, and a good grader should be able to tell those two apart.\nWhy run the same task more than once?\nBecause the model is random, one trial tells you very little. There are two metrics people use to turn repeated trials into a number and they answer different questions.\npass@k is the chance that atleast one of k attempts succeeds. If one trial succeeds with probability p and trials are independent, it is:\n\\text{pass@}k = 1 - (1 - p)^k\nWhen you have actually run n samples per task and c of them passed, the standard unbiased estimate comes from OpenAI's Codex paper:\n\\text{pass@}k = \\mathbb{E}_{\\text{tasks}}\\left[ 1 - \\frac{\\binom{n-c}{k}}{\\binom{n}{k}} \\right]\npass^k, which you read as \"pass hat k\", is the chance that all k attempts succeed:\n\\text{pass}^k = p^k\nWith the same per trial success rate these two go in opposite directions. Anthropic's example uses a 75% success rate over three trials, where pass^3 is 0.75 cubed, so around 42%. With the same numbers, pass@3 comes out to around 98%.\n \nWhich one you want depends on your product. pass@k fits cases where one good answer is enough, like a coding assistant that can try a few patches and keep the one whose tests pass. pass^k fits anything customer facing, because a user who hits the one bad run out of three still had a bad experience.\nHow sure can you be about a score?\nAn eval score is a measurement so it has error bars, and most leaderboards just leave them out. Anthropic published a short statistics guide on this in late 2024, based on a paper by Evan Miller. The first recommendation is to treat the questions in an eval as a sample from a much bigger universe of possible questions, and report the standard error with every score:\n\\text{SE} = \\frac{s}{\\sqrt{n}}, \\qquad \\text{95\\% CI} = \\bar{x} \\pm 1.96 \\times \\text{SE}\nFor an eval scored right or wrong, the standard deviation s is the square root of p(1 - p). Say you have an eval with 500 questions and a model scores 80%. The standard error is about 1.8 percentage points, so the 95% interval goes from roughly 76.5% to 83.5%. If another model scores 82% on the same eval, those two numbers alone don't tell you which one is actually better.\nThe guide adds four more ideas. When questions are grouped, like a bunch of questions about the same reading passage, they are not independent and the standard error has to be clustered by group, and Anthropic says clustered errors on popular evals can be more than three times as big as the naive ones. Averaging several samples per question, or using the model's probability of the right answer when you can, removes some of the noise. Comparing two models on the same questions with a paired test cancels out how hard each question is, which helps alot because models tend to find the same questions hard, with correlations between 0.3 and 0.7 on popular evals. And before you build an eval, a power analysis tells you how many questions you need to detect the size of difference you actually care about.\n \nWhat is the difference between capability and regression evals?\nAnthropic splits evals by the question they answer. A capability eval asks what the system can do well, and it should start with a low pass rate so there's room to improve. A regression eval asks whether the system still does what it used to do, and it should sit close to 100% so any drop stands out straight away.\nThe two are connected. Once a capability eval climbs to a high pass rate it can graduate into the regression suite and run on every change. At that point it can't tell you anymore whether you're improving, which is what people mean when they say a benchmark is saturated. SWE-bench Verified is the usual example, frontier models now score above 80% on it, so there's very little room left to separate the best of them.\n \nWhat makes a good eval task?\nThe most practical advice in Anthropic's post is to start small and start early. Teams often wait until they can write hundreds of tasks, but 20 to 50 simple tasks taken from real failures is enough to begin, because early changes to a system have big effects that a small set can easily catch. OpenAI's guide says something similar, log everything while you develop so you can mine those logs for eval cases later.\nA good task is unambiguous. Anthropic's test for this is whether two experts would independently give the same pass or fail verdict. Every task should also have a reference solution that passes all of its graders, which proves the task is solvable in the first place. If a task scores 0% across a hundred trials, most of the time the task is broken and not the model, and an unspecified file path in a Terminal-Bench task is one example Anthropic gives.\nBalance matters too. If you only test cases where a behaviour should happen, you end up teaching the system to do it everywhere. When Anthropic built evals for web search in Claude.ai, they tested both questions that need a search and questions that don't, so the model learns when to search and when to just answer.\nEach trial should also start from a clean environment. In one of Anthropic's runs Claude scored better than it should have because it could read the git history left over from earlier trials. OpenAI's guide adds that your dataset should cover typical cases, edge cases and adversarial ones, and should look like real traffic, not whatever was easiest to write.\nCan the way you score make a model worse?\nYes it can, and OpenAI's research on hallucination is the clearest example of this. Most benchmarks score answers as right or wrong, nothing in between. Under that rule guessing is always the better strategy, because a guess sometimes gets a point while \"I don't know\" never does, so a model tuned only for accuracy learns to answer confidently even when it has no idea.\nOpenAI showed this with numbers from the GPT-5 system card on SimpleQA, which is a set of short factual questions. The older o4-mini abstained on only 1% of questions and got 24% right, but it was wrong 75% of the time. gpt-5-thinking-mini abstained on 52%, got 22% right and was wrong only 26% of the time. On an accuracy leaderboard the older model looks slightly better, even though it gives about three times as many wrong answers.\n \nOpenAI's fix is to change the scoring so that confident errors cost more than saying \"I don't know\", and to give some credit for showing uncertainty when it's appropriate.\nThe other way scores go wrong is contamination, where the model has already seen the test questions somewhere in its training data. Google DeepMind piloted what it calls double-blind evaluations in 2026, where outside evaluators tested a Gemini model with prompts Google never saw, and the evaluators never saw the model's weights either. That kind of setup keeps the test questions from leaking into the model's training data, but it still can't tell you whether the benchmark itself is measuring anything useful.\nAre automated evals enough on their own?\nNo single method catches everything. Anthropic describes evals using the Swiss cheese model from safety engineering. Automated evals run before launch and on every change, and after launch you add production monitoring, A/B tests, user feedback, manual review of transcripts and the occasional careful study with real people. Every layer has holes, the idea is just that the holes rarely line up.\n \nThe one habit that ties all of this together is reading transcripts. A score tells you how often something failed, but only the transcript tells you if the agent made a real mistake or the grader rejected a perfectly valid answer. Anthropic's rule of thumb is that every failure should look fair once you read it, and if it doesn't, the problem is in your eval and not the model.\nPractice it on TensorTonic\nMost of the maths behind good evals is only a few lines of code. You can compute the standard deviation that goes into a standard error at tensortonic.com/problems/sample-var-std, and build a confidence interval by bootstrapping at tensortonic.com/problems/bootstrap-mean. For model based grading, tensortonic.com/problems/cs336-l12-judge-length-debiasing deals with the verbosity bias of LLM judges, tensortonic.com/problems/cs336-l12-pairwise-elo-fit turns pairwise preferences into ratings, and tensortonic.com/problems/cs336-l12-multiple-choice-likelihood scores multiple choice answers by likelihood. tensortonic.com/problems/expected-calibration-error measures whether a model's confidence actually matches how often it's right.\nIf you want a broader overview, the guide at tensortonic.com/guides/ml-evaluation-metrics covers the classic metrics, and tensortonic.com/ml-design/generative-evaluation goes through how evaluation works for generative systems.\np.s. - I read through these lab posts and put down my own thoughts on them, and then AI helped me with the drafting and fact checking. So if something feels off or you think I missed something, do let me know.",
+          "preview_text": "Whenever any frontier lab says its new model is better at coding, it means the model scored higher on some set of coding tasks graded in some particular way. When you change those tasks or infact, the",
+          "title": "Evals Explained, From First Principles"
+        },
+        "author_id": "1917184992616321024",
+        "created_at": "2026-11-15T19:15:01.000Z",
+        "edit_history_tweet_ids": [
+          "2122045727274881072"
+        ],
+        "id": "2122045727274881072",
+        "public_metrics": {
+          "bookmark_count": 557,
+          "impression_count": 17103,
+          "like_count": 394,
+          "quote_count": 4,
+          "reply_count": 8,
+          "retweet_count": 36
+        },
+        "text": "https://t.co/GrlCfDJu3j"
+      },
+      {
+        "article": {
+          "cover_media": "3_2122117918523789312",
+          "entities": {
+            "code": [
+              {
+                "code": "改前｜6.5–10 秒：切全景，平视，固定镜头。诊台全貌，医生从右边走近一步……\n改后｜6.5–10 秒：切中景，平视，固定镜头。诊台和三个人都在画面里，橘猫在右侧前景，项圈上的椭圆小牌子清楚可见；医生从右边走近一步……",
+                "content": "```\n改前｜6.5–10 秒：切全景，平视，固定镜头。诊台全貌，医生从右边走近一步……\n改后｜6.5–10 秒：切中景，平视，固定镜头。诊台和三个人都在画面里，橘猫在右侧前景，项圈上的椭圆小牌子清楚可见；医生从右边走近一步……\n```",
+                "language": "none"
+              },
+              {
+                "code": "【素材段落 1–6】12 秒\n【参考】@图片1 是叶麦（只用长相、发型、马甲和腰包）；@图片2 是米扣，灰白小猫；@图片3 是布噜，奶白小狗；@图片4 是海风宠物诊所（只用空间布局：入口在左，照护围栏在右）。\n【风格】真人写实电影质感，自然柔光，低饱和，浅景深，真实皮肤和毛发质感。白天，柔和的自然光从左侧大窗照进来，室内暖白灯轻补。\n【站位】木框玻璃围栏在画面右侧，入口在叶麦的左后方。叶麦半蹲在围栏外，手里拿着刚喝空的小奶瓶；米扣两只白爪搭在围栏上，布噜一开始在围栏下方。米扣和布噜始终在围栏里，不越过围栏。\n【画面】0–3 秒：近景，低机位与米扣的眼睛齐平，固定镜头。米扣扒着围栏仰起小脸，盯着前景里虚化的奶瓶。\n3–6 秒：切侧面双人近景，平视，固定镜头。叶麦举起空奶瓶给米扣看，眼睛带笑；米扣舔了舔鼻尖，还盯着奶瓶。\n6–8 秒：切围栏正面近景，固定镜头。布噜从下面钻上来，挤到米扣旁边，下巴搭上围栏；米扣抬起白爪，轻轻按了按布噜的脑门。\n8–12 秒：切中景，固定镜头。叶麦把空奶瓶放到照护台上，起身转向左后方的入口，边走边应声。\n【声音】米扣说：「妈妈妈妈，我要喝奶。」（清亮、偏中性的幼小声音，软软的）；米扣说完，叶麦才笑着说：「刚喝完还喝呀？」（22 岁的年轻女声，清楚轻快）；米扣说：「我就再喝一小口。」；布噜说：「我也一小口。」（柔软明亮的幼小男生声音）；布噜说完，米扣说：「没说你。」；门铃响，叶麦扬声说：「来啦！」。猫狗的台词是意义翻译，口鼻只做自然的小动作，不做人类口型。音效：空奶瓶轻响，爪子搭围栏，门铃声。\n【保持】画面里只有叶麦、米扣和布噜；同一时刻只有一个角色开口；米扣和布噜一直在围栏里；叶麦肤色稳定，皮肤质感每一帧一致；不要字幕和画面文字，不要背景音乐。",
+                "content": "```\n【素材段落 1–6】12 秒\n【参考】@图片1 是叶麦（只用长相、发型、马甲和腰包）；@图片2 是米扣，灰白小猫；@图片3 是布噜，奶白小狗；@图片4 是海风宠物诊所（只用空间布局：入口在左，照护围栏在右）。\n【风格】真人写实电影质感，自然柔光，低饱和，浅景深，真实皮肤和毛发质感。白天，柔和的自然光从左侧大窗照进来，室内暖白灯轻补。\n【站位】木框玻璃围栏在画面右侧，入口在叶麦的左后方。叶麦半蹲在围栏外，手里拿着刚喝空的小奶瓶；米扣两只白爪搭在围栏上，布噜一开始在围栏下方。米扣和布噜始终在围栏里，不越过围栏。\n【画面】0–3 秒：近景，低机位与米扣的眼睛齐平，固定镜头。米扣扒着围栏仰起小脸，盯着前景里虚化的奶瓶。\n3–6 秒：切侧面双人近景，平视，固定镜头。叶麦举起空奶瓶给米扣看，眼睛带笑；米扣舔了舔鼻尖，还盯着奶瓶。\n6–8 秒：切围栏正面近景，固定镜头。布噜从下面钻上来，挤到米扣旁边，下巴搭上围栏；米扣抬起白爪，轻轻按了按布噜的脑门。\n8–12 秒：切中景，固定镜头。叶麦把空奶瓶放到照护台上，起身转向左后方的入口，边走边应声。\n【声音】米扣说：「妈妈妈妈，我要喝奶。」（清亮、偏中性的幼小声音，软软的）；米扣说完，叶麦才笑着说：「刚喝完还喝呀？」（22 岁的年轻女声，清楚轻快）；米扣说：「我就再喝一小口。」；布噜说：「我也一小口。」（柔软明亮的幼小男生声音）；布噜说完，米扣说：「没说你。」；门铃响，叶麦扬声说：「来啦！」。猫狗的台词是意义翻译，口鼻只做自然的小动作，不做人类口型。音效：空奶瓶轻响，爪子搭围栏，门铃声。\n【保持】画面里只有叶麦、米扣和布噜；同一时刻只有一个角色开口；米扣和布噜一直在围栏里；叶麦肤色稳定，皮肤质感每一帧一致；不要字幕和画面文字，不要背景音乐。\n```",
+                "language": "none"
+              },
+              {
+                "code": "画风：真人写实电影质感，自然柔光，低饱和，浅景深，真实皮肤和毛发质感。\n海风宠物诊所｜SC-001｜入口玻璃门在左，检查台在中间，照护围栏在右｜白天，柔和的自然光从左侧大窗照进来，室内暖白灯轻补。\n叶麦｜CH-001｜声音：22 岁的年轻女声，清楚轻快，语速中等偏快。\n米扣（灰白小猫）｜CH-004｜声音：清亮、偏中性的幼小声音，短句，允许自然停顿。\n布噜（奶白小狗）｜CH-005｜声音：柔软明亮的幼小男生声音，开心时略快。\n许晴（客人）｜CH-EP001-001｜声音：二十多岁的女声，说话急。\n医生｜CH-002｜声音：三十岁左右的男声，低沉平稳。\n橘猫｜CH-EP001-002｜橙色项圈上挂一块椭圆小牌子（身份板上没有，要在文字里写）｜声音：慢吞吞、有点闷的成年猫声。\n小牌子：椭圆形金属牌，挂在橘猫的项圈上。\n全片：猫狗的台词是意义翻译，口鼻只做自然的小动作；不要字幕和画面文字，不要背景音乐。",
+                "content": "```\n画风：真人写实电影质感，自然柔光，低饱和，浅景深，真实皮肤和毛发质感。\n海风宠物诊所｜SC-001｜入口玻璃门在左，检查台在中间，照护围栏在右｜白天，柔和的自然光从左侧大窗照进来，室内暖白灯轻补。\n叶麦｜CH-001｜声音：22 岁的年轻女声，清楚轻快，语速中等偏快。\n米扣（灰白小猫）｜CH-004｜声音：清亮、偏中性的幼小声音，短句，允许自然停顿。\n布噜（奶白小狗）｜CH-005｜声音：柔软明亮的幼小男生声音，开心时略快。\n许晴（客人）｜CH-EP001-001｜声音：二十多岁的女声，说话急。\n医生｜CH-002｜声音：三十岁左右的男声，低沉平稳。\n橘猫｜CH-EP001-002｜橙色项圈上挂一块椭圆小牌子（身份板上没有，要在文字里写）｜声音：慢吞吞、有点闷的成年猫声。\n小牌子：椭圆形金属牌，挂在橘猫的项圈上。\n全片：猫狗的台词是意义翻译，口鼻只做自然的小动作；不要字幕和画面文字，不要背景音乐。\n```",
+                "language": "none"
+              },
+              {
+                "code": "【素材段落 31–32】10 秒\n【参考】@图片1 是叶麦（只用长相、发型和马甲）；@图片2 是许晴；@图片3 是医生；@图片4 是橘猫，它戴着橙色项圈，项圈上挂着椭圆小牌子；@图片5 是海风宠物诊所（只用空间布局，检查台在中间）。\n【风格】真人写实电影质感，自然柔光，低饱和，浅景深，真实皮肤和毛发质感。白天，柔和的自然光从左侧大窗照进来，室内暖白灯轻补。\n【站位】诊台前，叶麦在画面左边，许晴在她右后方；橘猫在画面右侧前景，趴在宠物包口，面前是白瓷碟；医生站在诊台右边。摄影机在诊台这一侧，叶麦看橘猫时朝向画面右侧。\n【画面】0–6.5 秒：近景，平视，固定镜头。叶麦俯身盯着橘猫脖子上的小牌子，愣了一下，眉毛一挑，眼睛慢慢睁大；许晴在她身后凑过来看。\n6.5–10 秒：切全景，平视，固定镜头。诊台全貌，医生从右边走近一步，抬起右手示意大家先别动，叶麦和许晴转头看他。\n【声音】叶麦说：「等一下。」（轻声，像是发现了什么）停顿一秒，叶麦说：「刚才是不是这个牌子碰到碟子了？」（22 岁的年轻女声，语速放慢）；叶麦说完，许晴才说：「所以不是碗。」（恍然大悟）；医生说：「碟子先别动。把牌子固定一下，再试一次。」（三十岁左右的男声，低沉平稳）。\n【保持】画面里只有叶麦、许晴、医生和橘猫；同一时刻只有一个人开口，其他人嘴巴闭着在听；小牌子一直挂在橘猫的项圈上；三个人肤色稳定，皮肤质感每一帧一致；不要字幕和画面文字，不要背景音乐。",
+                "content": "```\n【素材段落 31–32】10 秒\n【参考】@图片1 是叶麦（只用长相、发型和马甲）；@图片2 是许晴；@图片3 是医生；@图片4 是橘猫，它戴着橙色项圈，项圈上挂着椭圆小牌子；@图片5 是海风宠物诊所（只用空间布局，检查台在中间）。\n【风格】真人写实电影质感，自然柔光，低饱和，浅景深，真实皮肤和毛发质感。白天，柔和的自然光从左侧大窗照进来，室内暖白灯轻补。\n【站位】诊台前，叶麦在画面左边，许晴在她右后方；橘猫在画面右侧前景，趴在宠物包口，面前是白瓷碟；医生站在诊台右边。摄影机在诊台这一侧，叶麦看橘猫时朝向画面右侧。\n【画面】0–6.5 秒：近景，平视，固定镜头。叶麦俯身盯着橘猫脖子上的小牌子，愣了一下，眉毛一挑，眼睛慢慢睁大；许晴在她身后凑过来看。\n6.5–10 秒：切全景，平视，固定镜头。诊台全貌，医生从右边走近一步，抬起右手示意大家先别动，叶麦和许晴转头看他。\n【声音】叶麦说：「等一下。」（轻声，像是发现了什么）停顿一秒，叶麦说：「刚才是不是这个牌子碰到碟子了？」（22 岁的年轻女声，语速放慢）；叶麦说完，许晴才说：「所以不是碗。」（恍然大悟）；医生说：「碟子先别动。把牌子固定一下，再试一次。」（三十岁左右的男声，低沉平稳）。\n【保持】画面里只有叶麦、许晴、医生和橘猫；同一时刻只有一个人开口，其他人嘴巴闭着在听；小牌子一直挂在橘猫的项圈上；三个人肤色稳定，皮肤质感每一帧一致；不要字幕和画面文字，不要背景音乐。\n```",
+                "language": "none"
+              },
+              {
+                "code": "改前｜【声音】叶麦说：「等一下。刚才是不是这个牌子碰到碟子了？」许晴说：「所以不是碗。」\n改后｜【声音】叶麦说：「等一下。」停顿一秒，叶麦说：「刚才是不是这个牌子碰到碟子了？」；叶麦说完，许晴才说：「所以不是碗。」",
+                "content": "```\n改前｜【声音】叶麦说：「等一下。刚才是不是这个牌子碰到碟子了？」许晴说：「所以不是碗。」\n改后｜【声音】叶麦说：「等一下。」停顿一秒，叶麦说：「刚才是不是这个牌子碰到碟子了？」；叶麦说完，许晴才说：「所以不是碗。」\n```",
+                "language": "none"
+              },
+              {
+                "code": "图片1 = CH-001 叶麦\n图片2 = CH-004 米扣\n图片3 = CH-005 布噜\n图片4 = SC-001 海风宠物诊所（入口玻璃门在左，检查台在中间，照护围栏在右）",
+                "content": "```\n图片1 = CH-001 叶麦\n图片2 = CH-004 米扣\n图片3 = CH-005 布噜\n图片4 = SC-001 海风宠物诊所（入口玻璃门在左，检查台在中间，照护围栏在右）\n```",
+                "language": "none"
+              },
+              {
+                "code": "段落｜废在哪｜改了哪一层｜改了什么\n40｜和 41 接在一起，米扣、布噜换了边｜站位｜写死「米扣在画面左边，布噜在右边」\n31–32｜许晴和叶麦一起张嘴（假设）｜声音｜写清先后，没说话的人闭嘴\n31–32｜全景里小牌子太小（假设）｜镜头｜全景收紧成中景",
+                "content": "```\n段落｜废在哪｜改了哪一层｜改了什么\n40｜和 41 接在一起，米扣、布噜换了边｜站位｜写死「米扣在画面左边，布噜在右边」\n31–32｜许晴和叶麦一起张嘴（假设）｜声音｜写清先后，没说话的人闭嘴\n31–32｜全景里小牌子太小（假设）｜镜头｜全景收紧成中景\n```",
+                "language": "none"
+              },
+              {
+                "code": "【素材段落 4】5 秒\n【参考】@图片2 是米扣，灰白小猫；@图片3 是布噜，奶白小狗；@图片4 是海风宠物诊所（只用空间布局：照护围栏在右）。\n【风格】真人写实电影质感，自然柔光，低饱和，浅景深，真实皮肤和毛发质感。白天，柔和的自然光从左侧大窗照进来，室内暖白灯轻补。\n【站位】镜头在围栏正面。米扣在画面左边，两只白爪搭在围栏上；布噜从画面右下方钻上来。两只小家伙一直在围栏里。\n【画面】0–5 秒：围栏正面近景，固定镜头。布噜从下面钻上来，挤到米扣右边，下巴搭上围栏，盯着前景里虚化的奶瓶；米扣扭头看它。镜头停在两颗挨在一起的小脑袋上。\n【声音】布噜说：「我也一小口。」（柔软明亮的幼小男生声音）；米扣闭着嘴在听。猫狗的台词是意义翻译，口鼻只做自然的小动作。\n【保持】画面里只有米扣和布噜；同一时刻只有一个角色开口；不要字幕和画面文字，不要背景音乐。",
+                "content": "```\n【素材段落 4】5 秒\n【参考】@图片2 是米扣，灰白小猫；@图片3 是布噜，奶白小狗；@图片4 是海风宠物诊所（只用空间布局：照护围栏在右）。\n【风格】真人写实电影质感，自然柔光，低饱和，浅景深，真实皮肤和毛发质感。白天，柔和的自然光从左侧大窗照进来，室内暖白灯轻补。\n【站位】镜头在围栏正面。米扣在画面左边，两只白爪搭在围栏上；布噜从画面右下方钻上来。两只小家伙一直在围栏里。\n【画面】0–5 秒：围栏正面近景，固定镜头。布噜从下面钻上来，挤到米扣右边，下巴搭上围栏，盯着前景里虚化的奶瓶；米扣扭头看它。镜头停在两颗挨在一起的小脑袋上。\n【声音】布噜说：「我也一小口。」（柔软明亮的幼小男生声音）；米扣闭着嘴在听。猫狗的台词是意义翻译，口鼻只做自然的小动作。\n【保持】画面里只有米扣和布噜；同一时刻只有一个角色开口；不要字幕和画面文字，不要背景音乐。\n```",
+                "language": "none"
+              },
+              {
+                "code": "改后｜【站位】镜头在围栏正面。米扣在画面左边，布噜在画面右边，和开场一样。两只小家伙一直在围栏里。",
+                "content": "```\n改后｜【站位】镜头在围栏正面。米扣在画面左边，布噜在画面右边，和开场一样。两只小家伙一直在围栏里。\n```",
+                "language": "none"
+              },
+              {
+                "code": "镜头 1｜0–3 秒｜近景｜低机位，固定｜米扣扒着围栏仰起小脸，前景是虚化的奶瓶｜米扣说\n镜头 2｜3–6 秒｜侧面双人近景｜平视，固定｜叶麦举起空奶瓶给米扣看｜叶麦说，米扣接\n镜头 3｜6–8 秒｜围栏正面近景｜固定｜布噜从下面钻上来，米扣按住它脑门｜布噜说，米扣接\n镜头 4｜8–12 秒｜中景｜固定｜叶麦放下奶瓶，起身往门口走｜叶麦应声",
+                "content": "```\n镜头 1｜0–3 秒｜近景｜低机位，固定｜米扣扒着围栏仰起小脸，前景是虚化的奶瓶｜米扣说\n镜头 2｜3–6 秒｜侧面双人近景｜平视，固定｜叶麦举起空奶瓶给米扣看｜叶麦说，米扣接\n镜头 3｜6–8 秒｜围栏正面近景｜固定｜布噜从下面钻上来，米扣按住它脑门｜布噜说，米扣接\n镜头 4｜8–12 秒｜中景｜固定｜叶麦放下奶瓶，起身往门口走｜叶麦应声\n```",
+                "language": "none"
+              },
+              {
+                "code": "素材段落 1–6｜妈妈妈妈，我要喝奶\n\n【段落目的】用@米扣 撒娇要奶、@布噜 立刻来蹭一口的幼崽日常建立可爱开场和“妈妈”关系称呼；门铃响后由@米扣 主动报客，借航空箱进入画面顺接宠物医院（@诊所） 病例。\n\n【目标模型】Seedance 2.5｜【总时长】12秒｜【画幅】16:9｜【目标分辨率】1280×720\n\n【全局风格与技术参数】\n视觉引擎与美学：高质量真人实拍宠物医院（@诊所） 职业轻喜剧，真实幼猫（@米扣） 幼犬（@布噜） 摄影质感；仅转译《爱情公寓》固定空间群戏的快速接话、动作接梗和反应镜头语法，保持当代中国街区诊所的生活真实。……\n（画质与摄影、光影与环境、音频与字幕、连续性与物理逻辑四小节略）\n\n【参考素材】人物：@叶麦、@许晴、@米扣、@布噜｜场景：@诊所｜道具：@道具（幼宠奶瓶、软航空箱）｜音色：@叶麦、@米扣、@布噜\n\n【开场承接】本集从诊所刚开门不久的安静日景开始。首镜贴近右后照护围栏，先只见@米扣 两只白爪和慢慢升起的小脑袋；@叶麦 半蹲在围栏外，手里是刚喝空的幼宠奶瓶，入口位于她左后方。\n\n【分镜头描述】\n镜头1（0.00—3.00秒）：【低机位幼猫（@米扣） 近景／轻微前推】使用65mm，摄影机在围栏外与@米扣 眼睛齐平，焦点先落在搭上围栏的两只白爪，再柔和跟焦到她努力仰高的小脸；浅景深让@叶麦 手里的空奶瓶成为柔化前景。@米扣 看着@叶麦，软软地喊：“妈妈妈妈，我要喝奶。”自然猫口鼻只做细小呼吸与短促猫声。\n\n（镜头2、镜头3略）\n\n镜头4（8.50—12.00秒）：【照护区到入口关系中景／快速转向后停稳】使用35mm，门铃响起时摄影机从围栏侧前方平稳转向左后玻璃门（@诊所），焦点先抓住两只幼宠同时转动的耳朵，再跟到起身的@叶麦 和被推开的门；中等景深让围栏、@叶麦 与入口路线都清楚。@米扣 立刻抬头：“有客人来啦。”@叶麦 把空奶瓶放上照护台，边走边朝门口应声：“来啦。”玻璃门（@诊所） 打开，@许晴 拎着的软航空箱（@道具） 先从画面下方进入，在她腿侧轻轻一晃，镜头停在箱体轮廓上。\n\n【结束帧交接】@叶麦 已离开围栏向左后入口迎客，空奶瓶稳放在右后照护台；@米扣 和@布噜 留在围栏内看向门口。@许晴 刚跨过玻璃门（@诊所），软航空箱（@道具） 在她腿侧完成一次轻摆。下一段以同一航空箱的灰色箱体作匹配切，时间略过接待与放置动作，箱子已稳稳落在中部检查台靠客户一侧。",
+                "content": "```\n素材段落 1–6｜妈妈妈妈，我要喝奶\n\n【段落目的】用@米扣 撒娇要奶、@布噜 立刻来蹭一口的幼崽日常建立可爱开场和“妈妈”关系称呼；门铃响后由@米扣 主动报客，借航空箱进入画面顺接宠物医院（@诊所） 病例。\n\n【目标模型】Seedance 2.5｜【总时长】12秒｜【画幅】16:9｜【目标分辨率】1280×720\n\n【全局风格与技术参数】\n视觉引擎与美学：高质量真人实拍宠物医院（@诊所） 职业轻喜剧，真实幼猫（@米扣） 幼犬（@布噜） 摄影质感；仅转译《爱情公寓》固定空间群戏的快速接话、动作接梗和反应镜头语法，保持当代中国街区诊所的生活真实。……\n（画质与摄影、光影与环境、音频与字幕、连续性与物理逻辑四小节略）\n\n【参考素材】人物：@叶麦、@许晴、@米扣、@布噜｜场景：@诊所｜道具：@道具（幼宠奶瓶、软航空箱）｜音色：@叶麦、@米扣、@布噜\n\n【开场承接】本集从诊所刚开门不久的安静日景开始。首镜贴近右后照护围栏，先只见@米扣 两只白爪和慢慢升起的小脑袋；@叶麦 半蹲在围栏外，手里是刚喝空的幼宠奶瓶，入口位于她左后方。\n\n【分镜头描述】\n镜头1（0.00—3.00秒）：【低机位幼猫（@米扣） 近景／轻微前推】使用65mm，摄影机在围栏外与@米扣 眼睛齐平，焦点先落在搭上围栏的两只白爪，再柔和跟焦到她努力仰高的小脸；浅景深让@叶麦 手里的空奶瓶成为柔化前景。@米扣 看着@叶麦，软软地喊：“妈妈妈妈，我要喝奶。”自然猫口鼻只做细小呼吸与短促猫声。\n\n（镜头2、镜头3略）\n\n镜头4（8.50—12.00秒）：【照护区到入口关系中景／快速转向后停稳】使用35mm，门铃响起时摄影机从围栏侧前方平稳转向左后玻璃门（@诊所），焦点先抓住两只幼宠同时转动的耳朵，再跟到起身的@叶麦 和被推开的门；中等景深让围栏、@叶麦 与入口路线都清楚。@米扣 立刻抬头：“有客人来啦。”@叶麦 把空奶瓶放上照护台，边走边朝门口应声：“来啦。”玻璃门（@诊所） 打开，@许晴 拎着的软航空箱（@道具） 先从画面下方进入，在她腿侧轻轻一晃，镜头停在箱体轮廓上。\n\n【结束帧交接】@叶麦 已离开围栏向左后入口迎客，空奶瓶稳放在右后照护台；@米扣 和@布噜 留在围栏内看向门口。@许晴 刚跨过玻璃门（@诊所），软航空箱（@道具） 在她腿侧完成一次轻摆。下一段以同一航空箱的灰色箱体作匹配切，时间略过接待与放置动作，箱子已稳稳落在中部检查台靠客户一侧。\n```",
+                "language": "none"
+              },
+              {
+                "code": "图片1 = CH-001 叶麦\n图片2 = CH-EP001-001 许晴\n图片3 = CH-002 医生\n图片4 = CH-EP001-002 橘猫\n图片5 = SC-001 海风宠物诊所（检查台在中间）",
+                "content": "```\n图片1 = CH-001 叶麦\n图片2 = CH-EP001-001 许晴\n图片3 = CH-002 医生\n图片4 = CH-EP001-002 橘猫\n图片5 = SC-001 海风宠物诊所（检查台在中间）\n```",
+                "language": "none"
+              },
+              {
+                "code": "【素材段落 X】X 秒\n【参考】@图片1 是……（只用……）；@图片2 是……\n【风格】……（从锁定卡复制）\n【站位】谁在左谁在右，摄影机在哪一侧，道具在谁手里\n【画面】0–X 秒：景别，角度，固定 / 运动。画面里发生什么，停在哪。\nX–X 秒：切近景，……\n【声音】某某说：「……」（语气）；某某内心独白：「……」；音效：……\n【保持】画面里只有……；……；不要字幕和画面文字，不要背景音乐",
+                "content": "```\n【素材段落 X】X 秒\n【参考】@图片1 是……（只用……）；@图片2 是……\n【风格】……（从锁定卡复制）\n【站位】谁在左谁在右，摄影机在哪一侧，道具在谁手里\n【画面】0–X 秒：景别，角度，固定 / 运动。画面里发生什么，停在哪。\nX–X 秒：切近景，……\n【声音】某某说：「……」（语气）；某某内心独白：「……」；音效：……\n【保持】画面里只有……；……；不要字幕和画面文字，不要背景音乐\n```",
+                "language": "none"
+              },
+              {
+                "code": "照护围栏｜镜头在正面时：米扣在左，布噜在右｜每段复制",
+                "content": "```\n照护围栏｜镜头在正面时：米扣在左，布噜在右｜每段复制\n```",
+                "language": "none"
+              },
+              {
+                "code": "△ 木框玻璃围栏里，米扣扒着围栏边，盯着一只奶瓶。\n米扣：（急切）妈妈，妈妈，我要喝奶。\n△ 叶麦拿着空奶瓶，蹲在围栏外。\n叶麦：（笑）刚喝完还喝呀？\n米扣：（眼巴巴）我就再喝一小口。\n△ 布噜挤到米扣旁边，下巴搭上围栏。\n布噜：我也一小口。\n米扣：没说你。\n△ 门口有人进来。叶麦起身，放下奶瓶往门口走。\n叶麦：（扬声）来啦！",
+                "content": "```\n△ 木框玻璃围栏里，米扣扒着围栏边，盯着一只奶瓶。\n米扣：（急切）妈妈，妈妈，我要喝奶。\n△ 叶麦拿着空奶瓶，蹲在围栏外。\n叶麦：（笑）刚喝完还喝呀？\n米扣：（眼巴巴）我就再喝一小口。\n△ 布噜挤到米扣旁边，下巴搭上围栏。\n布噜：我也一小口。\n米扣：没说你。\n△ 门口有人进来。叶麦起身，放下奶瓶往门口走。\n叶麦：（扬声）来啦！\n```",
+                "language": "none"
+              },
+              {
+                "code": "改前｜【站位】米扣和布噜在围栏里，看着门口。",
+                "content": "```\n改前｜【站位】米扣和布噜在围栏里，看着门口。\n```",
+                "language": "none"
+              },
+              {
+                "code": "你是 AI 短剧的视频导演。把下面的素材段落写成视频提示词。\n\n1. 先问我用哪个模型（H3 / Seedance 2.5 / 可灵 / 其他），一段最长多少秒。一段只讲一件事。\n2. 先列素材编号表：图片1 = 谁或哪个场景。每个素材只管一件事。\n3. 按七层想：参考、风格、站位、镜头、表演、声音、保持。\n4. 每个素材只点一次名，同一句写清用途；素材里有的长相、衣服，文字不再写。\n5. 风格和光照抄我的锁定卡，一个字不改。\n6. 站位先写最显眼的人；换镜头写「切 + 景别」，一镜到底不写「切」；有台词的镜头固定。\n7. 表演写看得见的动作：手、视线、呼吸，一拍一个动作。\n8. 台词一字不改，分「说 / 内心独白 / 画外音」；同一时刻只有一个人开口，写清先后。\n9. 不点名视觉毛病（油光、变形之类），只写想要的样子；不要字幕，不要背景音乐。\n10. H3、可灵用分块写法：【参考】【风格】【站位】【画面】【声音】【保持】。Seedance 2.5 用框架写法：段落目的、全局风格与技术参数、参考素材、开场承接、分镜头描述、结束帧交接。\n\n锁定卡：（粘贴）\n素材段落：（粘贴）\n参考素材：（图片1 是……，图片2 是……）",
+                "content": "```\n你是 AI 短剧的视频导演。把下面的素材段落写成视频提示词。\n\n1. 先问我用哪个模型（H3 / Seedance 2.5 / 可灵 / 其他），一段最长多少秒。一段只讲一件事。\n2. 先列素材编号表：图片1 = 谁或哪个场景。每个素材只管一件事。\n3. 按七层想：参考、风格、站位、镜头、表演、声音、保持。\n4. 每个素材只点一次名，同一句写清用途；素材里有的长相、衣服，文字不再写。\n5. 风格和光照抄我的锁定卡，一个字不改。\n6. 站位先写最显眼的人；换镜头写「切 + 景别」，一镜到底不写「切」；有台词的镜头固定。\n7. 表演写看得见的动作：手、视线、呼吸，一拍一个动作。\n8. 台词一字不改，分「说 / 内心独白 / 画外音」；同一时刻只有一个人开口，写清先后。\n9. 不点名视觉毛病（油光、变形之类），只写想要的样子；不要字幕，不要背景音乐。\n10. H3、可灵用分块写法：【参考】【风格】【站位】【画面】【声音】【保持】。Seedance 2.5 用框架写法：段落目的、全局风格与技术参数、参考素材、开场承接、分镜头描述、结束帧交接。\n\n锁定卡：（粘贴）\n素材段落：（粘贴）\n参考素材：（图片1 是……，图片2 是……）\n```",
+                "language": "none"
+              },
+              {
+                "code": "这是我的视频提示词和废片情况。先判断是运气问题还是提示词问题。\n如果是提示词问题，按「参考、风格、站位、镜头、表演、声音、保持」七层，告诉我只改哪一层、改哪一句，给我改好的完整提示词，其他层一个字不动。\n\n模型：（H3 / Seedance 2.5 / 可灵 / 其他）\n提示词：（粘贴）\n废片：第几秒，什么样；抽了几次，几次都这样",
+                "content": "```\n这是我的视频提示词和废片情况。先判断是运气问题还是提示词问题。\n如果是提示词问题，按「参考、风格、站位、镜头、表演、声音、保持」七层，告诉我只改哪一层、改哪一句，给我改好的完整提示词，其他层一个字不动。\n\n模型：（H3 / Seedance 2.5 / 可灵 / 其他）\n提示词：（粘贴）\n废片：第几秒，什么样；抽了几次，几次都这样\n```",
+                "language": "none"
+              },
+              {
+                "code": "△ 叶麦、许晴、橘猫凑在一起。叶麦盯着橘猫的脖子，愣住。\n叶麦：等一下。\n叶麦：刚才是不是这个牌子碰到碟子了？\n许晴：（恍然）所以不是碗。\n△ 医生走过来，抬手示意。\n医生：碟子先别动。把牌子固定一下，再试一次。",
+                "content": "```\n△ 叶麦、许晴、橘猫凑在一起。叶麦盯着橘猫的脖子，愣住。\n叶麦：等一下。\n叶麦：刚才是不是这个牌子碰到碟子了？\n许晴：（恍然）所以不是碗。\n△ 医生走过来，抬手示意。\n医生：碟子先别动。把牌子固定一下，再试一次。\n```",
+                "language": "none"
+              },
+              {
+                "code": "【段落目的】这一段讲什么，在整集里起什么作用\n【目标模型】【总时长】【画幅】【目标分辨率】\n\n【全局风格与技术参数】\n视觉引擎与美学：画风、风格参照、统一色谱、表演基调\n画质与摄影：构图、帧率、焦段组、景深、机位习惯\n光影与环境：主光从哪来、补光、环境里的声光细节\n音频与字幕：每个角色的声音描述、现场声、画面文字怎么处理\n连续性与物理逻辑：谁在哪、道具在谁手里、哪些边界不能越过\n\n【参考素材】人物 / 场景 / 道具 / 音色，每个点一次名\n【开场承接】这一段从什么画面开始，接上一段的哪里\n【分镜头描述】镜头1（0.00—3.00秒）：【景别／运镜】焦段、机位、焦点怎么走、动作、台词\n【结束帧交接】这一段停在什么画面，下一段怎么接",
+                "content": "```\n【段落目的】这一段讲什么，在整集里起什么作用\n【目标模型】【总时长】【画幅】【目标分辨率】\n\n【全局风格与技术参数】\n视觉引擎与美学：画风、风格参照、统一色谱、表演基调\n画质与摄影：构图、帧率、焦段组、景深、机位习惯\n光影与环境：主光从哪来、补光、环境里的声光细节\n音频与字幕：每个角色的声音描述、现场声、画面文字怎么处理\n连续性与物理逻辑：谁在哪、道具在谁手里、哪些边界不能越过\n\n【参考素材】人物 / 场景 / 道具 / 音色，每个点一次名\n【开场承接】这一段从什么画面开始，接上一段的哪里\n【分镜头描述】镜头1（0.00—3.00秒）：【景别／运镜】焦段、机位、焦点怎么走、动作、台词\n【结束帧交接】这一段停在什么画面，下一段怎么接\n```",
+                "language": "none"
+              },
+              {
+                "code": "2-1 围栏边\n素材段落 1｜米扣扒着围栏要奶：「妈妈，我要喝奶」\n素材段落 2｜叶麦：「刚喝完还喝呀？」\n素材段落 3｜米扣：「我就再喝一小口」\n素材段落 4｜布噜挤过来：「我也一小口」\n素材段落 5｜米扣：「没说你」\n素材段落 6｜有人进门，叶麦起身去迎\n\n2-2 诊台\n素材段落 7｜许晴放下宠物包，橘猫缩在里面\n素材段落 8｜布噜笑橘猫：「都这么大了，还躲里面呢」\n素材段落 9｜米扣：「别笑人家」，布噜：「我又不怕」\n素材段落 10｜许晴往碗里倒猫粮，叮叮当当\n素材段落 11｜布噜一缩，躲到米扣身后\n素材段落 12｜米扣：「你不也躲啦」，布噜：「我那是陪他」\n素材段落 13｜橘猫在包里：「又是这个声音」\n素材段落 14｜许晴：「医生，他两天没吃了」\n素材段落 15｜医生听诊，许晴一袋接一袋掏猫粮\n素材段落 16｜布噜扒着围栏：「他不吃，怎么还买这么多？」\n素材段落 17｜布噜：「我就帮他尝一口」，米扣：「你刚吃完」\n素材段落 18｜医生：「家里换过什么东西没有？」\n素材段落 19｜许晴手搭着橘猫：「能试的我都试了」\n素材段落 20｜六袋猫粮在诊台上一字排开\n素材段落 21｜许晴：「越着急，就越换」\n素材段落 22｜橘猫探头：「是那个碗老在我耳边响」\n素材段落 23｜布噜凑到碗边：「你怎么不叫？怕我啊？」\n素材段落 24｜米扣按住布噜：「别闹，他又没惹你」\n素材段落 25｜叶麦问碗和项圈，许晴：「碗是新换的」\n素材段落 26｜许晴摸项圈：小牌子也是那天刚挂上的\n素材段落 27｜医生：「先别再换新的了，咱们一样一样试」\n素材段落 28｜叶麦把碗换成白瓷碟\n素材段落 29｜特写：小牌子磕在碟沿上，叮\n素材段落 30｜米扣：「你看，动的是他脖子上的小牌子」\n素材段落 31｜叶麦：「等一下」，许晴：「所以不是碗」\n素材段落 32｜医生：「碟子先别动。把牌子固定一下」\n素材段落 33｜特写：把小牌子贴着项圈固定好\n素材段落 34｜布噜想凑过去，米扣拦住：「别过去吓他」\n素材段落 35｜橘猫走出宠物包，走到诊台中间\n素材段落 36｜橘猫吃起来，没有声响；布噜：「吃了！」\n素材段落 37｜医生：「这样就不响了」，叶麦：「这回安静了」\n素材段落 38｜许晴收起猫粮：「白买了六袋粮」\n素材段落 39｜医生叮嘱：吃了多少、喝水、精神，不吃就复诊\n素材段落 40｜布噜：「我可以帮忙」，米扣：「你先管好自己」\n\n2-3 前台\n素材段落 41｜许晴提包走了，布噜：「他真一袋都不留啊」\n素材段落 42｜铃铛一响，布噜缩到米扣身后\n素材段落 43｜布噜：「那你陪我一会儿」，米扣：「嗯」",
+                "content": "```\n2-1 围栏边\n素材段落 1｜米扣扒着围栏要奶：「妈妈，我要喝奶」\n素材段落 2｜叶麦：「刚喝完还喝呀？」\n素材段落 3｜米扣：「我就再喝一小口」\n素材段落 4｜布噜挤过来：「我也一小口」\n素材段落 5｜米扣：「没说你」\n素材段落 6｜有人进门，叶麦起身去迎\n\n2-2 诊台\n素材段落 7｜许晴放下宠物包，橘猫缩在里面\n素材段落 8｜布噜笑橘猫：「都这么大了，还躲里面呢」\n素材段落 9｜米扣：「别笑人家」，布噜：「我又不怕」\n素材段落 10｜许晴往碗里倒猫粮，叮叮当当\n素材段落 11｜布噜一缩，躲到米扣身后\n素材段落 12｜米扣：「你不也躲啦」，布噜：「我那是陪他」\n素材段落 13｜橘猫在包里：「又是这个声音」\n素材段落 14｜许晴：「医生，他两天没吃了」\n素材段落 15｜医生听诊，许晴一袋接一袋掏猫粮\n素材段落 16｜布噜扒着围栏：「他不吃，怎么还买这么多？」\n素材段落 17｜布噜：「我就帮他尝一口」，米扣：「你刚吃完」\n素材段落 18｜医生：「家里换过什么东西没有？」\n素材段落 19｜许晴手搭着橘猫：「能试的我都试了」\n素材段落 20｜六袋猫粮在诊台上一字排开\n素材段落 21｜许晴：「越着急，就越换」\n素材段落 22｜橘猫探头：「是那个碗老在我耳边响」\n素材段落 23｜布噜凑到碗边：「你怎么不叫？怕我啊？」\n素材段落 24｜米扣按住布噜：「别闹，他又没惹你」\n素材段落 25｜叶麦问碗和项圈，许晴：「碗是新换的」\n素材段落 26｜许晴摸项圈：小牌子也是那天刚挂上的\n素材段落 27｜医生：「先别再换新的了，咱们一样一样试」\n素材段落 28｜叶麦把碗换成白瓷碟\n素材段落 29｜特写：小牌子磕在碟沿上，叮\n素材段落 30｜米扣：「你看，动的是他脖子上的小牌子」\n素材段落 31｜叶麦：「等一下」，许晴：「所以不是碗」\n素材段落 32｜医生：「碟子先别动。把牌子固定一下」\n素材段落 33｜特写：把小牌子贴着项圈固定好\n素材段落 34｜布噜想凑过去，米扣拦住：「别过去吓他」\n素材段落 35｜橘猫走出宠物包，走到诊台中间\n素材段落 36｜橘猫吃起来，没有声响；布噜：「吃了！」\n素材段落 37｜医生：「这样就不响了」，叶麦：「这回安静了」\n素材段落 38｜许晴收起猫粮：「白买了六袋粮」\n素材段落 39｜医生叮嘱：吃了多少、喝水、精神，不吃就复诊\n素材段落 40｜布噜：「我可以帮忙」，米扣：「你先管好自己」\n\n2-3 前台\n素材段落 41｜许晴提包走了，布噜：「他真一袋都不留啊」\n素材段落 42｜铃铛一响，布噜缩到米扣身后\n素材段落 43｜布噜：「那你陪我一会儿」，米扣：「嗯」\n```",
+                "language": "none"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 67,
+                "start": 60,
+                "username": "image1"
+              },
+              {
+                "end": 75,
+                "start": 68,
+                "username": "image2"
+              }
+            ],
+            "urls": [
+              {
+                "text": "miliagent.com/chouka"
+              },
+              {
+                "text": "miliagent.com/library"
+              },
+              {
+                "text": "miliagent.com/chouka"
+              },
+              {
+                "text": "https://x.com/TuyetloanP81840/status/2121053387030733037?a=8IQuXHfvXcbeGILAonA&s=20"
+              },
+              {
+                "text": "https://x.com/TuyetloanP81840/status/2121053387030733037?a=8IQuXHfvXcbeGILAonA&s=20"
+              },
+              {
+                "text": "https://miliagent.com/chouka/"
+              },
+              {
+                "text": "https://miliagent.com/library/"
+              },
+              {
+                "text": "https://miliagent.com/chouka/"
+              }
+            ]
+          },
+          "media_entities": [
+            "3_2122117943962333184",
+            "3_2122117974039638016",
+            "3_2122117957249896448",
+            "3_2122117965034463232",
+            "3_2122117954515107840",
+            "3_2122117979303514113",
+            "3_2122117924274266112",
+            "3_2122117927449300992",
+            "3_2122117936009887744",
+            "3_2122117941412155392",
+            "3_2122117933258391552",
+            "3_2122117970549948416",
+            "3_2122117976602333184",
+            "3_2122117946348822528",
+            "3_2122117930502750208",
+            "3_2122117948898963456",
+            "3_2122117939012968448",
+            "3_2122117951763726336",
+            "3_2122117921183006720",
+            "3_2122117967479758848",
+            "3_2122117959787388928",
+            "3_2122117962387890176"
+          ],
+          "plain_text": "一段 10 秒的素材，抽十次才能用，和抽两次就能用，差的不只是五倍的钱，还有一整个晚上。\n我刚发的《醒醒，我饿了》第 2 集，全片 43 段素材，一共抽了 52 次，多抽的只有 9 次，至少 34 段是一次就过的。这篇把我怎么写提示词全拆开。\n这一集讲的刚好也是这件事：橘猫两天不吃饭，主人急得换了六袋猫粮。最后发现问题不在粮，是项圈上那块小牌子，橘猫一低头就磕在碗沿上，叮的一声，把它吓退了。\n医生只说了一句：「先别再换新的了，咱们一样一样试。」\n抽卡也是这样。一段抽废了，大多数人的第一反应是整段重写、换个说法再抽，抽不好就换模型。这就是在换猫粮。真正的问题，往往只是提示词里没写清楚的一处。找到它，只改它。\n \n先说结果，按需要跳着看 👇\n七层提示词架构（第三章）：把模型会猜的地方提前写死；H3 和 Seedance 2.5 各有一版写法（第四章），可灵等其他模型也能直接套\n一张锁定卡（第二章）：专门解决人物前后不一致\n一张废片诊断表（第六章）：哪种废片，改哪一层\n第 2 集完整拆解（第七章）：剧本 → 素材段落 → 提示词，同一场戏的 H3 版和 Seedance 2.5 版并排对比\n一个完整闭环（第七章最后）：用第 2 集一处真实穿帮，走一遍 锁定卡 → 写 → 抽 → 判断 → 只改一层 → 记一行 → 补回锁定卡\n抽卡最常见的 7 个坑（第八章）\n一个技能包（文末）：丢给任意 AI 就能帮你写提示词、改废片\n这是「一个人拍 AI 短剧」系列的第 4 篇。第 1 篇走了一遍全流程，之后按剧组岗位拆：编剧、分镜师、抽卡师、剪辑师。前两篇讲了剧本和分镜，这篇讲第三个岗位，抽卡师：把分镜表变成能用的视频素材，而且少抽几次。\n \n一、为什么总在抽卡：模型在猜\n先说清楚一件事：AI 视频一定有运气成分。同一段提示词跑两次，结果不会一模一样，偶尔手多一根指头、某一帧糊掉，换一抽就好了。\n但如果你一段素材抽了五次、八次还不能用，那基本不是运气。是提示词里有地方没写，模型只能猜。\n模型最常猜的是这三件事：\n1. 猜这是谁。 参考图丢进去了，但没说哪张是谁、管什么。这一段叫「小猫」，下一段叫「猫咪」，在模型眼里可能就是两只猫。\n2. 猜在哪、怎么拍。 谁在左谁在右，镜头多大、动不动、最后停在哪，没写。模型每次猜得不一样，人就瞬移，镜头就乱晃。\n3. 猜谁在说话。 两个人的台词写在一起，没写谁先谁后，模型就让两个人一起张嘴；心里话没标出来，角色就张着嘴把内心独白念出来。\n \n每一处让它猜的地方，都是一次抽卡的机会。少抽卡的办法只有一个：把它会猜的地方，提前写死。\n这件事和用哪个模型关系不大。H3、Seedance、可灵，都是读你给的参考素材和文字来生成，猜的地方一样多。模型之间的区别只在一段能多长、能喂多少素材、喜欢长提示词还是短提示词，第四章讲。\n这篇的案例《醒醒，我饿了》第 2 集，全部是用 H3 做的。第 1 篇主推 H3，是因为便宜，一段素材可以多抽几次。Seedance 2.5 是现在另一个最热门的模型，画质和复杂动作更强，所以第 2 集开场那场戏，我也按 Seedance 2.5 写了一版框架，放在第七章和 H3 版并排对比。可灵等其他模型，也能直接套这套方法。\n \n二、先做一张锁定卡：一部剧只写一次\n人物前后不一致，一半的原因不在模型，在你自己：每一段的提示词都是重新写的。\n第一段写「午后暖光」，第三段顺手写成「暖色的午后阳光」；第一段叫「米扣」，第五段写成「小猫」。你觉得是一个意思，模型觉得是两种光、两只猫。\n解决办法是开拍前做一张锁定卡：把全剧不变的东西写成固定句子，之后每一段都从卡里原样复制，一个字都不改。\n锁定卡写五样：\n画风一句：全剧共用的画风、色调、景深、质感\n场景光：每个场景一句，光从哪边来、冷还是暖、什么时间段\n角色：固定称呼、对应哪张身份板、一句固定的声音描述\n道具：实际尺寸，平时在谁手里\n全片固定要求：不要字幕和画面文字，不要背景音乐（配乐留到剪辑统一加）\n第 2 集的锁定卡，按这个格式写出来是这样：\n \nCH、SC 是我给资产编的号：CH 是全剧固定的角色，CH-EP 是只在某一集出场的角色，SC 是场景。编号写进锁定卡，哪张图对应谁，一眼就能查到。\n声音描述就照这个写：年龄 + 音色 + 语速，一句话。写定以后每段原样复制，同一个角色才不会这一段是少年音、下一段变成大叔音。\n最后一句「猫狗的台词是意义翻译」，是这部剧的一个专门设定：动物角色说话，画面里只保留自然的口鼻动作，不做人类那样的口型。会说话的猫狗，嘴动得太像人反而别扭。\n三条规矩：\n1. 称呼定了就不改。 第一段叫「米扣」，以后每段都叫「米扣」。分镜篇说过，每个角色要有一两个视觉标记，比如「灰白小猫」的「灰白」，它可以跟在名字后面，每段一字不差。\n2. 视觉标记当名字用，不展开写长相。 长相交给身份板，文字只负责让模型知道说的是谁。这一点第三章细讲。\n3. 想改，先改卡。 拍到一半发现光不对，先改锁定卡，再把所有段落统一换。不要只改眼前这一段。抽卡时踩到的坑也一样，补回卡里，下一集就不再踩（第七章最后有个例子）。\n \n \n三、七层提示词架构\n这是这篇的核心。\n第 1 篇我给过一个视频提示词模板，分【参考】【站位】【画面】【声音】【禁止】五块。后来做《醒醒，我饿了》这几集，我把它拆成了七层：\n参考：每个素材干什么\n风格：画风一句 + 这一场的光\n站位：谁在哪，摄影机在哪一侧，道具在谁手里\n镜头：几秒，切不切，每个镜头多大、动不动、停在哪\n表演：每一拍一个动作\n声音：谁开口、怎么说、什么音效\n保持：这一段必须守住的几件事\n为什么要分层？因为每一种废片，都对应一层没写清楚。脸变了，多半是参考层；人瞬移，是站位层；嘴对错人，是声音层。分清层，改的时候就知道改哪一句。\n七层是检查清单，不是每层都要写满。一个人、一个动作的 5 秒镜头，站位一句话就够了。\n \n第 1 层 参考：一个素材只干一件事\n参考图是人物一致性的根。规矩只有一句：一个素材只干一件事，并且在提示词里说清楚它干什么。\n角色身份板：管长相、发型、肤色、身材、服装，不管背景和版式\n场景图：管空间布局、陈设、光的方向，不管人物\n站位全景：管这场戏里谁站在哪\n道具图：管形状、材质、尺寸\n首帧图：管这一段从哪个画面开始\n具体怎么做：\n每个素材只点一次名，同一句写清用途。 「@图片1 是叶麦（只用长相和马甲）」。后面再提到她，直接写「叶麦」，不再写 @图片1。最怕的是开头堆一串「@图片1 @图片2 @图片3，保持人物和场景一致」，模型分不清谁是谁。\n素材负责的，文字就不再写。 这一条最反直觉。很多人怕模型认不出，在提示词里又把长相写一遍：「短发、圆脸、大眼睛、灰蓝马甲」。结果文字和图说得不完全一样，模型两头都想照顾，脸反而容易漂。文字只写这一段会变的：表情、动作、位置。\n反过来，身份板上没有的，才要在文字里写。第 2 集橘猫的身份板上没有项圈，可剧情离不开项圈上那块小牌子，所以每段都要写「橙色项圈上挂着椭圆小牌子」。\n这和分镜篇说的「每一镜都写视觉标记」不矛盾：标记是名字，只有两三个字；长相描述是一整串，交给图。\n只放这一段出场的人。 没出场的角色不放图，也不写。\n一段只放一张场景图。 正打、反打、全景三张都放进去，模型不知道用哪张，场景反而乱。我参考的一份短剧制作手册里也专门提过这个坑（后面的焦段、镜头组合和防穿帮清单，也出自这份手册）。\n多人的戏，放一张站位全景。 一张看得清所有人站在哪的大全景，比写一大段站位文字管用。可以提前用生图模型出，也可以从上一段素材里截一张站位正确的全景。对话戏需要正反打时，至少备两张场景图，其中一张要能看清人物位置。\n身份板要说明怎么读。 我的身份板是一张横图：左边一张大头像管脸，右边正面、侧面、背面三个全身管身材和衣服，全身图故意不带头，背景是白色或米白色。要告诉模型：大头像管脸，全身管衣服，背景和分栏不进画面。不说明的话，可能出现白底背景，或者同一个人分身成几个。竖版的身份板（上面头像、下面全身）也是一样的读法。\n \n多角色的段落，先一个一个单独试。 每个角色单独跑一段 4–5 秒，确认长相对了，再合到一起出长段。一上来就把三个人一起跑 15 秒，失败一次就白花一次钱。\n真人写实角色，用 AI 设计的形象。 不用真人照片，尤其不用明星脸：平台会拦，也有肖像权风险。一直过不了审核，就重新出一版角色图，有时候是撞了某个名人的脸。\n第 2 层 风格：写参照，不写形容词\n「电影感、高级感、氛围感、质感拉满」，这些词模型没法执行。它看得懂的是参照：\n日系写实真人电影，自然柔和的光，低饱和，克制的表演，生活化质感\n好莱坞宽银幕真人电影，戏剧化布光，浅景深，真实皮肤纹理\n手机直拍的生活视频，轻微手持晃动，自然曝光，环境声真实\n3D 游戏实机画面，真实材质，体积光，动作自然\n想更细，可以写摄影系统和焦段。常用的焦段这样记：\n24–28mm：交代空间关系、双人中景、人物移动方向\n35mm：常规中近景、人物关系、对手戏\n50mm：人物近景、正反打、情绪反应\n65mm：近景、小动物特写，后面 Seedance 框架里拍米扣的近景就用它\n85mm：眼神特写、强情绪落点、结尾钩子\n光也一样，要写具体：光从哪边来、硬还是软、冷还是暖、亮还是暗。第 1 篇的进阶部分讲过「一场戏锁一套光」，现在这句光写进锁定卡，每段复制，就不会一段暖一段冷。\n \n第 3 层 站位：先写最显眼的那个人\n站位回答四个问题：谁在左谁在右，摄影机在哪一侧，道具在谁手里，人往哪边走。\n分镜篇讲过站位表和轴线：对话戏的所有镜头，都在两人连线的同一侧拍，左右才不会反。到了提示词这一步，站位表里的内容原样写进每一段。\n多人的戏有个顺序：先写画面里最显眼的人在哪、在干什么，再写其他人的位置，最后写动作的先后。所有人同时做大动作，画面一定乱：一个人动，其他人看。\n道具要写到「在谁手里、哪只手、朝哪个方向」。比如：匕首必须始终在她右手，刀尖朝向对方胸口，不得换手，不得反手。第 2 集的小牌子也是这样：它是整集的线索，每一段都写「挂在橘猫的项圈上」，形状和尺寸写进锁定卡，它才不会一会儿大一会儿小，或者突然不见。\n \n动作要接上一段的结尾。上一段已经站起来了，这一段就从站着开始，不要重复上一段已经做完的动作。\n这一层我自己在第 2 集就踩过坑。米扣和布噜在同一个围栏里，镜头都在围栏正面：开场的素材段落 4 和结尾的素材段落 41，都是米扣在左、布噜在右；中间的素材段落 40 却变成了布噜在左。40 和 41 是紧挨着的两段，单看每一段都没问题，剪在一起，观众会觉得两只小家伙一眨眼换了位置。\n这种问题，多半是提示词里没把谁在左写死，模型每次都在猜，猜得不一样。每段的【站位】里都写一句「米扣在画面左边，布噜在右边」，就能避免。\n \n第 4 层 镜头：时长不等于要切\n这一层最容易写错的是「切」。\n一镜到底：不写「切」。 写镜头怎么连续运动、最后停在哪：「全景，镜头缓慢推到近景，停在她看向窗外的侧脸」。写了 8 秒，意思是这个镜头持续 8 秒，不是要拆成几个镜头。\n要切镜头：每次换镜头都写「切 + 景别」。 切中景、切近景、切特写。不要用「转到」「来到」「变成」代替「切」，模型会理解成镜头连续运动过去。\n用时间轴控制先后。 「0–3 秒」「3–7 秒」。没写「切」的时间轴，模型会当成一个镜头里的连续动作。\n有台词的镜头，镜头固定。 说话时推推拉拉，口型和脸都容易出问题。\n每个镜头写一个落点。 镜头最后停在什么画面：停在她的眼睛上，停在门口，停在桌上那块小牌子上。没有落点，模型就会随便晃到结束。\n \n几组常用的镜头组合，写对话戏时直接套：\n对话戏：正打近景 → 反打近景 → 手部或道具特写 → 双人关系镜头\n危机戏：人物反应近景 → 关键道具特写 → 双人关系中景 → 情绪落点特写\n结尾钩子：反差台词 → 对方沉默 → 眼神或手部特写停住\n第 5 层 表演：拆到看得见\n「她很紧张」「他很难过」，模型拍不出来。它拍得出来的是：她咽了一下口水，手指在衣角上来回搓。第 2 集叶麦发现小牌子那一下，提示词里写的也不是「很惊讶」，是「愣了一下，眉毛一挑，眼睛慢慢睁大」。\n我参考的课程资料里有两个公式，很好用：\n表情 = 情绪 + 脸 + 眼神 + 嘴：「委屈，眼眶泛红，泪水在眼里打转，嘴角往下压」\n动作 = 动作 + 情绪 + 身体状态 + 镜头：「她慢慢低下头，像是认输了，肩膀一点点塌下去，镜头缓慢推近」\n有台词的镜头，表演拆成三段：说之前、说的时候、说完之后。说之前先吸一口气，说到一半移开视线，说完抿住嘴。人物「木」，多半是因为提示词里只有台词，没有这三段。\n还有一条：一拍只给一个动作。「她站起来，走到窗边，拿起杯子，回头说话」，一个镜头四个动作，模型很容易做乱。大动作拆成准备、执行、结果。\n \n第 6 层 声音：谁说、怎么说、什么响\n短剧和普通 AI 短片最大的区别是角色要开口。这一层写不清，就是嘴对错人、心里话张嘴念、声音换人。\n台词分三种写。 当面开口写「说」；心里话写「内心独白」，并在画面里写明嘴唇不动；人不在画面里、声音还在，写「画外音」。\n语气写在台词前面。 公式是：语气 + 情绪 + 台词 + 停顿。\n（眼巴巴）我就再喝一小口。\n（轻声，像是发现了什么）等一下……刚才是不是这个牌子碰到碟子了？\n要停顿就用省略号。\n同一时刻只让一个人开口。 一个镜头里两个人都有台词，写清谁先谁后：「米扣说完，叶麦才笑着回了一句」。没说话的人，写明嘴巴闭着在听。5 秒的镜头放一两句台词正好。\n声音描述从锁定卡复制。 每个角色一句固定的声音描述，每段原样复制。第一段满意了，可以把这个角色说话的几秒剪出来，当后面每一段的音频参考。\n让声音推动画面。 门锁一响，她抬眼；碗被碰响，小狗往后退半步。声音和动作写在同一句里，画面就有了因果。第 2 集整集都靠这个：小牌子磕在碟沿上的那一声「叮」，就是剧情的开关。\n默认不要背景音乐。 每段都配乐，几十段接起来一会儿一个调。配乐留到剪辑时统一加，这是下一篇的内容。\n \n第 7 层 保持：写你要的样子\n第 1 篇的模板最后一块叫【禁止】，现在我改成了【保持】。原因是一次实测。\n功能性的排除照样写：不要字幕和画面文字、不要背景音乐、画面里只有某某和某某、同一角色不要复制成多人。\n但视觉上的毛病，不要点名。皮肤油光、脸上高光、手指变形、塑料感，哪怕前面加了「不要」，也别写进去。\n我在 H3 上做过对照：同一张人物图、同样的参数、同一个 seed（随机种子，固定以后，同样的输入出来的结果几乎一样），只改皮肤那一句。提示词里点名不想要的皮肤效果，人物一转头，脸上反而冒出一层白色油光；换成只写想要的状态，整段都稳。后来又换了两张人物图，用同样的写法，也都是稳的。\n所以改写成你要的样子：肤色稳定、毛孔自然、皮肤质感每一帧一致、柔和漫射光、曝光不变、手部动作自然。用 Seedance 和其他模型，我也建议这么写。\n \n【保持】里还可以放这一段最容易穿帮的几件事，短剧里最常见的是这几条：\n不加剧本里没有的人\n关键道具不换手、不消失、不变形\n人物不瞬移，上一镜在床边，下一镜别突然到门口\n写了刺伤、摔倒这类快速动作，要写清动作完成了\n \n四、同一套七层，三种写法\n七层是想的顺序。真正写出来，不同模型喜欢不同的写法。\n先看三个模型的基本盘：\nH3：一段 4–15 秒（时长只能填整数，想要 12.5 秒就填 13，剪辑时再修），最多喂 9 张图、3 段视频、3 段音频\nSeedance 2.5：一段 4–30 秒，能喂的参考素材比 H3 多得多（最多 50 个：30 张图、10 段视频、10 段音频；各平台开放的上限不一样）\n可灵 3.0：一段 3–15 秒\n平台会更新，以你看到的为准。\n还有一句很重要：模型能出多长，不等于一段该塞多少内容。 一段只讲一件事：一个动作、一次情绪转折，或一两句关键台词。\n时长跟着内容走，不要每段都写一样长：只有一句短台词或一个反应，4 秒左右就够；有动作、有两三句台词，给到 8 秒左右；H3 和可灵最长 15 秒，能短就短。台词量可以这样估：每 10 个字约 2 秒，再留 1 秒给动作和停顿。第 2 集的 43 段就是这样，有的 4 秒，有的 8 秒。\n用 Seedance 2.5 想做更长的段落，每个镜头都要按秒写清楚，下面的框架就是这么做的。内容塞得越多，写得就要越细，不然模型要猜的地方就越多。\n写法 A：分块写法（H3、可灵和大多数模型）\n每块各管一层，哪块出问题改哪块。它是第 1 篇 H3 模板的升级版：加了【风格】，【禁止】改成【保持】，七层里的镜头和表演，都写在【画面】里。在 RunningHub 上跑 H3，输入 @ 就能选图。\n可直接复制 👇\n \n平台有单独的「负面提示词」框的，功能性的排除可以放进去，视觉毛病照样不写。\n写法 B：Seedance 2.5 框架\nSeedance 2.5 的画质和复杂运镜更强，一段也能做得更长，所以我给它写的是一份更完整的框架。七层还是那七层，只是每层写得更细，还多了两块专门管段落之间怎么接。\n可直接复制 👇\n \n和七层对一下：\n全局风格与技术参数，就是风格层，加上锁定卡里的光和声音\n连续性与物理逻辑，就是站位层和保持层\n参考素材，就是参考层\n分镜头描述，把镜头、表演、声音三层按秒写在一起\n开场承接和结束帧交接是新加的两块，管「这一段从哪接、停在哪」，下一段才接得上\n每个镜头写到焦段和焦点怎么走：Seedance 2.5 的画质和运镜更强，镜头语言写得越细，越能用上它。第七章有一段完整的例子。\n用的时候注意一点：在支持 Seedance 2.5 的平台上，先上传参考素材，再在提示词里用 @ 点名（接口里一般写作 @image1、@image2）。我框架里写的 @叶麦、@米扣，是为了方便读，复制过去以后要换成平台里对应的素材。\n简单的单人段落用不着这么全，压成四块就够：【风格】一句，【参考】每个素材一句，一段按时间顺序写的画面，【排除】一句不要字幕、不要背景音乐。一两百字，适合快速试和改版。\n \n写法 C：官方完整版（H3 进阶）\nMiniMax 官方给 H3 参考生视频定了一个英文六段格式：subject_definitions、summary、retention_analysis、detailed_description、overall_soundscape、non_diegetic_music。每张图是谁、保留多少、镜头怎么排、声音放哪，都有固定位置，台词保留中文原文。\n它比分块写法长得多，但多角色、复杂调度的段落更稳。新手先用写法 A，遇到三个人以上、调度复杂的段落再试它。技能包里有完整的格式说明和例子，这里不展开。\n没装技能包，也能直接用\n把下面这段、你的锁定卡和素材段落一起发给任意 AI，它就按七层帮你写。\n可直接复制 👇\n \n实操路线：7 步走成一个闭环\n规则讲了很多，真正动手时只有这 7 步。第 1 步一部剧做一次，第 7 步一集做一次，中间 5 步每一段都走：\n锁定卡：画风一句、每个场景的光、角色的称呼、编号和声音、道具、全片固定要求。\n写：先列素材编号表，这一段用哪几张图，每张只管一件事，身份板上没有、剧情又要的东西写进文字；再按模板写，H3、可灵用分块写法，Seedance 2.5 用框架，七层过一遍再交。\n抽：先抽一次，能用就收；不能用，同一版再抽 1–2 次。能固定 seed 的，改个数字就是换一抽；长段先跑 5 秒预览，对了再出完整时长。\n判断：每次废的地方都不一样，是运气，再抽；两次以上废在同一处，是提示词。能剪能补的，先救。\n只改一层：对照诊断表找到那一层，只改它，其他一个字不动。\n记一行：在记录表里记下这一段、改了哪一层、改了什么、结果。\n补回锁定卡：一集做完，看记录表里哪一层总在改，把有效的写法补进锁定卡。\n改完回到第 3 步，直到能用。卡补全了，下一集从第 1 步起就少踩一个坑。第七章最后，用第 2 集的一处穿帮把这 7 步完整走一遍。\n \n \n五、人物一致性：开拍前对一遍\n人物一致性是抽卡次数最大的来源。前面各层讲过的办法，我收成了一张开拍前的检查图。其中有两条前面没细讲：\n转身改小，或者拆镜：能用眼神看过去，就别转头；非转不可，拆成两个镜头\n用上一段接力：上一段的结尾满意，就截下最后一帧，当下一段的首帧或参考\n \n \n六、抽卡怎么抽：先判断，再动手\n提示词写好了，开始抽。这一章讲抽废了以后怎么办。\n1. 先判断：是运气，还是提示词\n第一抽能用就收。不能用，同一版提示词再抽 1–2 次，看废在哪：\n每次废的地方都不一样：运气问题，再抽一次\n两次以上废在同一个地方：提示词问题，再抽多少次都一样\n平台能固定 seed 的（比如我那个 H3 工作流，seed 是固定的，改个数字就是换一抽），判断起来最清楚；看不到 seed 设置的平台，每次都是新的一抽，至少看两次结果再下结论。\n2. 能剪就剪，能补就补\n重抽之前，先看这条废片能不能救：\n能剪就剪。 问题只在开头或结尾几帧，剪掉\n能补就补。 问题在中间一小段：截下出问题前的那一帧，用生图模型改好，当首帧（或首尾帧）只补这一小段，再插回原来的位置。首帧就是指定视频从这张图开始，首尾帧是开头、结尾两张图都指定\n最后才重抽\n \n3. 一次只改一层\n这是整篇最重要的一条，也是第 2 集里医生那句话：先别再换新的了，咱们一样一样试。\n改提示词时，参考素材、上传顺序、seed、时长、分辨率全部不动，只改出问题的那一层。改完和上一版比同一秒的画面，放大到原尺寸看，缩略图看不出脸和皮肤的细微变化。\n一次改三处，好了不知道是哪一处起的作用，坏了也不知道该退哪一处。\n4. 对照诊断表，找到那一层\n我把最常见的废片整理成了一张表，挑最常用的放这里，完整版在技能包里：\n脸变了 → 参考层、镜头层：身份板干净、删掉文字里的长相、转头改小或拆镜、光不变\n一个角色变成两个 → 参考层：只放出场角色的图，写「画面里只有某某」「同一角色不要复制成多人」\n左右颠倒、人物瞬移 → 站位层：写清左右和机位侧，放站位全景\n想切没切 → 镜头层：写「切 + 景别」，新镜头开头写清景别和画面里有什么\n人物木 → 表演层：拆成手、呼吸、身体、视线\n嘴对错人 → 声音层：写清谁先谁后，没说话的人嘴巴闭着\n皮肤发油、塑料感 → 保持层：删掉所有描述毛病的词，改写成想要的状态\n画面平 → 按风格、镜头、表演、环境的顺序升级，别堆「电影感」\n \n可直接复制 👇（没装技能包时，把废片情况发给任意 AI）\n \n5. 记下来，攒出你自己的架构\n每抽一次，记一行：哪一段、第几版、改了哪一层、改了什么、结果、废在哪、下一版改哪层；平台能设 seed 的，seed 也顺手记上。\n一集做完，回头看「改了哪一层」这一列。哪一层总在改，就说明你的锁定卡或者习惯写法在那一层有缺口。把有效的写法补进锁定卡，下一集就少抽几次。\n这就是「属于你自己的提示词架构」：不是从别人那里抄来的模板，是你抽废的卡攒出来的。我把这张记录表也放进了技能包，会自动统计你哪一层改得最多。\n \n七、案例：第 2 集「谁才胆小」完整拆解\n最后用第 2 集，把七层、写法和诊断串一遍。这一集全部是用 H3 出的，43 段素材一共抽了 52 次，多抽的只有 9 次。\n1. 剧本和素材段落\n第 2 集一共三场，都在海风宠物诊所：围栏边、诊台、前台。六个角色：叶麦、米扣、布噜，和这一集新出场的医生、许晴、橘猫。\n主线开头讲过了：六袋猫粮，一块小牌子。另一条线是布噜一直笑橘猫胆小，最后门口的铃铛一响，它自己躲到了米扣身后，这就是标题「谁才胆小」。\n这部剧是 16:9 横屏（第 1 篇的例子是 9:16 竖屏，画幅在平台参数里改）。按分镜篇的方法，整集拆成 43 段素材。一段只讲一件事：一个动作，或者一两句台词：\n \n表里没写时长，因为每段多长跟着内容定。像素材段落 4，布噜只有一句「我也一小口」，4–5 秒就够；素材段落 39，医生要交代吃了多少、喝水、精神、不吃就复诊，就得给到 8 秒左右。\n \n2. 主案例：开场这场戏（素材段落 1–6），H3 版和 Seedance 2.5 版\n第 2 集的开场：米扣撒娇要奶，布噜也来蹭一口，门口来了客人，叶麦去迎。在上面的表里，是素材段落 1–6。\n剧本节选：\n \n拆成四个镜头：\n \n素材编号表（H3）：\n \nH3 版：分块写法\n这场戏是用 H3 出的。为了和后面的 Seedance 版并排对照，下面按七层，把这 6 段合成一段 12 秒的 H3 提示词。在 H3 工作流里，时长填 12，画面比例选 16:9，seed 固定：\n \n合成版是为了和 Seedance 版对照，台词排得比较密。真正出片时，按表里的 6 段分开抽，一段一两句台词就够。拆回单段，以素材段落 4 为例：\n \n单段只有一个动作、一句台词，模型要猜的东西少了一大半。表里 43 段，每段都只放这么多。\nSeedance 2.5 版：框架写法（节选）\n这一集成片用的是 H3。Seedance 版放在这里，是为了看同一场戏换个模型，写法差在哪。按 Seedance 2.5 的框架写，完整版有两千字左右，这里只放骨架和其中两个镜头：\n \n同一场戏，两版差在哪：\n长度：H3 版七百多字，Seedance 完整版两千字左右。不是 Seedance 一定要写长，是它的画质和运镜更强，写得越细越能用上；H3 一段最长 15 秒，提示词把七层写清楚就够了。\n摄影语言：Seedance 版每个镜头都写了焦段（节选里的两个镜头分别是 65mm 和 35mm）、焦点从哪跟到哪、景深多深；H3 版只写到景别和机位。\n衔接：Seedance 版多了【开场承接】和【结束帧交接】。结尾写明「下一段以同一只航空箱作匹配切」，第 7 段（许晴放下宠物包）一开头就接得上。匹配切，就是上一段结尾和下一段开头用同一个东西接起来，看上去像没断过。H3 版靠锁定卡和每段的【站位】保持连续。\n风格参照：Seedance 版写的是「仅转译《爱情公寓》固定空间群戏的快速接话、动作接梗和反应镜头语法」。只借它的拍法，不借它的画面和人物，这就是第 2 层说的写参照。\n画面里出现的东西多一点：Seedance 版让许晴在这一段结尾就进门，米扣还多报了一句「有客人来啦」，一段能讲的事更多；H3 版到叶麦起身就停。\n一样的地方：七层都在。参考素材每个点一次名，声音描述一字不差，动物台词都是意义翻译，都不要画面文字。\n \n所以换模型，不是换一套思路，是同一套七层换一种写法。\n3. 第二个案例：素材段落 31–32「等一下」\n这一段把短剧最难的几件事都占了：三个人加一只猫同框，三个人都有台词，还有一个小道具要看得清。\n剧本节选：\n \n素材编号表：\n \n场景用的是整个诊所那一张，和开场那场戏是同一张图，场景前后才对得上。三个人站在哪，写在【站位】里。橘猫的身份板上没有项圈，所以项圈和小牌子要在文字里写出来。\nH3 版：分块写法\n下面同样按七层，把这两段合成一段 10 秒来写：\n \n逐层看，每一句在防什么：\n参考：五张图各点一次名，三个人的长相一个字没写，交给身份板；身份板上没有的项圈和小牌子，用文字补上。\n风格：两句都从锁定卡复制，和这一集其他段落完全一样。\n站位：先写最显眼的叶麦，再写许晴、橘猫、医生。写了「叶麦看橘猫时朝向画面右侧」，两个镜头之间她的朝向就不会反。\n镜头：两个镜头都固定，因为都有台词；第 2 个镜头写了「切全景」，开头就交代画面里有什么。\n表演：叶麦不是「很惊讶」，是「愣了一下，眉毛一挑，眼睛慢慢睁大」；医生不是「很冷静」，是「走近一步，抬起右手」。\n声音：三个人四句台词，写死了先后：「停顿一秒」「叶麦说完，许晴才说」。\n保持：小牌子是整集的线索，单独写一句「一直挂在项圈上」。\n \n4. 废片怎么改：改前和改后\n前面讲的都是怎么写。最后看怎么改，先看第 2 集里真实出现的一处。\n真实的一处：围栏里左右换了位置\n第三章说过：开场的素材段落 4 和结尾的素材段落 41 都是米扣在左，中间的素材段落 40 却变成了布噜在左。按第六章判断，镜头都在围栏正面、只有左右反了，这是站位层的问题。\n这类问题，常见的写法是这样，只说了在哪，没说谁在左：\n \n改成：\n \n还有一步更重要：这一句不能只加在第 40 段。凡是镜头在围栏正面的段落，都要写同一句。最省事的办法，是把「围栏正面：米扣在左，布噜在右」写进锁定卡，每段复制。\n假设一：许晴和叶麦一起张嘴\n用素材段落 31–32 再看一个。抽两次都这样，是提示词问题，改声音层：\n \n【保持】里再补一句「同一时刻只有一个人开口，其他人嘴巴闭着在听」。别的层不动。\n假设二：全景里小牌子不见了\n先看能不能剪：全景只有 3.5 秒，问题在末尾就剪掉。剪不掉，再改：\n \n景别从全景收紧到中景，小牌子在画面里就不会小到看不见。\n每一种，都只改一层。\n5. 串起来：一个完整的闭环\n43 段抽了 52 次，多抽的只有 9 次，也就是说，至少 34 段是一次就过的。回头看这一集，省下抽卡的主要是三件事：\n段切得短：全片不到三分钟，拆成 43 段，一段只有一个动作或一两句台词，模型要猜的地方本来就少。时长跟着内容走，一句台词的 4 秒左右，台词多、有动作的给到 8 秒。\n锁定卡每段原样复制：画风、光、称呼、声音，43 段一个字不改，人和光就不会前后打架。\n先列素材编号表：每段先写清哪张图是谁、管什么，长相交给身份板，文字只写这一段会变的东西。\n但锁定卡不是一次就能写全的。左右换位这个坑，正好把整套流程走了一圈：\n锁定卡：第 2 集的锁定卡里，没有「围栏里谁在左」这一句\n写：【站位】也就只写了在围栏里，谁在左留给模型猜\n抽：每段单看都能用，就收了\n判断：剪在一起才看出来，素材段落 40 和 41 换了边。镜头都在围栏正面，只有左右反了，是站位层的问题\n只改一层：只动【站位】这一句，写死「米扣在画面左边，布噜在右边」，其他层一个字不动\n记一行：在记录表里记下来\n补回锁定卡：把这一句加进锁定卡，以后每段复制\n记录表挑最要紧的四列，就这样记（完整的表在技能包里；后两行是上面的两个假设，用来示范怎么记）：\n \n下一集开拍前，锁定卡就多了这一行：\n \n换成 Seedance 2.5 也是同一圈，只是这一句写进框架的【连续性与物理逻辑】，同样每段复制。\n锁定卡 → 写 → 抽 → 判断 → 只改一层 → 记一行 → 补回锁定卡。卡越补越全，下一集模型要猜的地方就越少，多抽的也就越少。\n \n八、抽卡最常见的 7 个坑\n最后把全文的坑收成一张清单。前 3 个，第 2 集里就能找到。\n左右换了位置：同一个围栏，几段之间猫狗换了边。→ 站位写死，写进锁定卡\n身份板上没有的，没在文字里写：橘猫的身份板上没有项圈，不写，项圈和小牌子就会时有时无。→ 身份板上没有的，每段都写\n一次改好几处：抽废了整段重写。→ 一次只改一层，第 2 集医生那句话\n称呼前后不统一：这一段「米扣」，下一段「小猫」。→ 称呼写进锁定卡，一字不差\n文字里又把长相写一遍：和身份板说得不一样，脸反而漂。→ 长相交给身份板\n点名视觉毛病：写「不要油光」，反而招来油光。→ 只写想要的样子\n场景图一次喂好几张：模型不知道用哪张，场景反而乱。→ 一段一张，最好是能看到整个空间的那一张\n \n \n九、技能包：丢给任意 AI 就能用\n上面这套方法，我做成了一个技能「短剧抽卡师」，和前两篇的技能包一样，是一个文件夹，下载就能用：\n任意 AI 对话（ChatGPT、DeepSeek、豆包、Kimi、Claude 都行）：把 `SKILL.md` 拖进对话框，或者全选复制粘贴进去，不用安装\nClaude：在「自定义 → 技能」里上传压缩包，装一次以后每次都能用\nCodex：解压后放进技能文件夹\n \n它不绑模型。第一次用，它会先问你用 H3、Seedance 2.5 还是可灵，再按对应的写法出提示词：H3 用分块写法，Seedance 2.5 用第七章那种框架。\n它能做三件事，正好对上前面那个闭环：\n写提示词：贴一段分镜或素材段落，说清每张参考图是什么。第一次用，它先带你做一张锁定卡，再写出能直接粘贴的提示词\n改废片：说清废在第几秒、是什么样。它先判断是运气还是提示词，再告诉你只改哪一层、怎么改\n一集做完，补回锁定卡：跟它说「这一集做完了，帮我复盘」，它看你哪一层总在改，把有效的写法补进锁定卡\n包里还有一张抽卡记录表：每抽一次记一行，一集做完自动统计你哪一层改得最多。\n要说清楚的一点：点「生成」还是你自己在平台上点。技能负责把提示词写对、改对，不替你调用模型，也不花你的钱。\n推荐串起来用：先用「短剧总编剧」写剧本，再用「短剧分镜师」拆分镜和素材段落，最后用「短剧抽卡师」写提示词、抽卡。下载和安装方法都在这一页，点开就是资料库里的 N°06 👇\nmiliagent.com/chouka\n剧本和分镜的技能包，在资料库：miliagent.com/library\n \n看完这篇，马上可以做三件事：\n给你正在做的剧，写一张锁定卡\n挑一段素材，按第四章的模板写一版，先抽一次\n废了就按诊断表只改一层，在记录表里记一行；一集做完，把反复改的写法补回锁定卡\n回到开头那只橘猫。\n客人换了六袋猫粮，每一袋都没问题。问题从头到尾只在一块小小的牌子上。\n抽卡也是这样。多数时候，模型没问题，剧本和分镜也没问题，问题只在提示词里没写清楚的那一处。别急着整段重写，也别急着换模型。\n先别再换新的了，咱们一样一样试。\n剧本、分镜、抽卡，到这里，素材就齐了。下一篇是系列最后一篇，讲剪辑师：怎么把四十几段素材剪成一集，调色、配乐、片头、声音，一样一样来。\n这篇比较长，建议先收藏，抽卡的时候对着来。技能包就放在我的个人主页上，点开直接下载 👇\nmiliagent.com/chouka\n\n\nhttps://x.com/TuyetloanP81840/status/2121053387030733037?a=8IQuXHfvXcbeGILAonA&s=20",
+          "preview_text": "一段 10 秒的素材，抽十次才能用，和抽两次就能用，差的不只是五倍的钱，还有一整个晚上。\n我刚发的《醒醒，我饿了》第 2 集，全片 43 段素材，一共抽了 52 次，多抽的只有 9 次，至少 34",
+          "title": "H3 和 Seedance 如何减少抽卡：AI 短剧的七层提示词架构，附我在用的抽卡技能"
+        },
+        "author_id": "2057932282732883968",
+        "created_at": "2026-11-16T00:02:10.000Z",
+        "edit_history_tweet_ids": [
+          "2122117988774236424"
+        ],
+        "id": "2122117988774236424",
+        "public_metrics": {
+          "bookmark_count": 504,
+          "impression_count": 31271,
+          "like_count": 373,
+          "quote_count": 12,
+          "reply_count": 33,
+          "retweet_count": 38
+        },
+        "text": "https://t.co/z3DU1tUdaa"
+      },
+      {
+        "author_id": "364478145",
+        "created_at": "2026-11-16T01:47:43.000Z",
+        "edit_history_tweet_ids": [
+          "2122144550814957821"
+        ],
+        "id": "2122144550814957821",
+        "public_metrics": {
+          "bookmark_count": 366,
+          "impression_count": 640364,
+          "like_count": 3362,
+          "quote_count": 106,
+          "reply_count": 1337,
+          "retweet_count": 112
+        },
+        "text": "说件事。\n\n本人 10 月 16 日晚回家途中，突发急性心梗，寡妇血管完全被血栓堵死，强撑到家，胸背痛加剧到无法忍受。紧急赶往医院，到急诊室几分钟后心脏骤停，医护人员当场 CPR 抢救回来，随后推入手术室，清理血栓安装支架。\n\n今天是术后一个月，身体和心脏都恢复都很好。\n\n目前在家静养，勿扰。"
+      }
+    ],
+    "users": [
+      {
+        "id": "1760502863854460928",
+        "name": "知识猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069337800160493568/gwKnHrWD_normal.jpg",
+        "public_metrics": {
+          "followers_count": 34057,
+          "following_count": 1561,
+          "like_count": 9914,
+          "listed_count": 251,
+          "media_count": 1535,
+          "tweet_count": 8957
+        },
+        "username": "GeekCatX",
+        "verified": false
+      },
+      {
+        "id": "1878345967780646912",
+        "name": "Ethan 恩宇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106574155038724096/-FeenOii_normal.jpg",
+        "public_metrics": {
+          "followers_count": 7318,
+          "following_count": 717,
+          "like_count": 6392,
+          "listed_count": 39,
+          "media_count": 132,
+          "tweet_count": 3839
+        },
+        "username": "UPing123zzz",
+        "verified": false
+      },
+      {
+        "id": "1974653328274714624",
+        "name": "AYi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989157446829350912/pW828UwK_normal.jpg",
+        "public_metrics": {
+          "followers_count": 83473,
+          "following_count": 675,
+          "like_count": 23193,
+          "listed_count": 756,
+          "media_count": 2349,
+          "tweet_count": 21029
+        },
+        "username": "AYi_AInotes",
+        "verified": false
+      },
+      {
+        "id": "1727548535816724480",
+        "name": "meng shao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009826888072736772/faZAxCvC_normal.jpg",
+        "public_metrics": {
+          "followers_count": 37772,
+          "following_count": 1120,
+          "like_count": 67254,
+          "listed_count": 747,
+          "media_count": 7672,
+          "tweet_count": 16361
+        },
+        "username": "shao__meng",
+        "verified": false
+      },
+      {
+        "id": "1141052916570214400",
+        "name": "Philipp Schmid",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066207048648323072/u-UPEKOH_normal.jpg",
+        "public_metrics": {
+          "followers_count": 127411,
+          "following_count": 1221,
+          "like_count": 8405,
+          "listed_count": 1584,
+          "media_count": 2020,
+          "tweet_count": 6547
+        },
+        "username": "_philschmid",
+        "verified": false
+      },
+      {
+        "id": "1376308155626360837",
+        "name": "AI.Engineer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088074761607987200/25voc1vQ_normal.jpg",
+        "public_metrics": {
+          "followers_count": 71638,
+          "following_count": 125,
+          "like_count": 3369,
+          "listed_count": 971,
+          "media_count": 978,
+          "tweet_count": 3844
+        },
+        "username": "aiDotEngineer",
+        "verified": true
+      },
+      {
+        "id": "1717726640040783872",
+        "name": "泊舟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040464227811590144/r1-3gG2y_normal.jpg",
+        "public_metrics": {
+          "followers_count": 33656,
+          "following_count": 859,
+          "like_count": 7861,
+          "listed_count": 401,
+          "media_count": 690,
+          "tweet_count": 6897
+        },
+        "username": "bozhou_ai",
+        "verified": false
+      },
+      {
+        "id": "1919915608130650114",
+        "name": "PamelaAI·H",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108438041111003136/wmPmSJcc_normal.jpg",
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 201,
+          "like_count": 934,
+          "listed_count": 4,
+          "media_count": 47,
+          "tweet_count": 470
+        },
+        "username": "pamelaaaaa1218",
+        "verified": false
+      },
+      {
+        "id": "1848201385709596672",
+        "name": "Mathematica",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011663865151700994/11Kxg5Rn_normal.jpg",
+        "public_metrics": {
+          "followers_count": 76064,
+          "following_count": 203,
+          "like_count": 4549,
+          "listed_count": 367,
+          "media_count": 3174,
+          "tweet_count": 3253
+        },
+        "username": "mathemetica",
+        "verified": false
+      },
+      {
+        "id": "1917184992616321024",
+        "name": "TensorTonic",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116623001546629120/KHQnPwUa_normal.jpg",
+        "public_metrics": {
+          "followers_count": 11771,
+          "following_count": 1,
+          "like_count": 791,
+          "listed_count": 50,
+          "media_count": 115,
+          "tweet_count": 388
+        },
+        "username": "TensorTonic",
+        "verified": false
+      },
+      {
+        "id": "452072245",
+        "name": "铁锤人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005527237874089984/LyyR6wom_normal.jpg",
+        "public_metrics": {
+          "followers_count": 109356,
+          "following_count": 1435,
+          "like_count": 8897,
+          "listed_count": 1318,
+          "media_count": 1599,
+          "tweet_count": 14741
+        },
+        "username": "lxfater",
+        "verified": false
+      },
+      {
+        "id": "1657474831",
+        "name": "Gorden Sun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1522159828231409664/GPpXyPT1_normal.jpg",
+        "public_metrics": {
+          "followers_count": 70552,
+          "following_count": 1759,
+          "like_count": 254,
+          "listed_count": 994,
+          "media_count": 3696,
+          "tweet_count": 9558
+        },
+        "username": "Gorden_Sun",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122234335285989701",
+    "next_token": "b26v89c19zqg8o3juzow6b7s4nykw6zno52pfx773wjgd",
+    "oldest_id": "2122166527273386320",
+    "result_count": 25
+  }
+}

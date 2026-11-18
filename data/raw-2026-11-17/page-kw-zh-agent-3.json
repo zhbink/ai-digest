@@ -1,0 +1,1403 @@
+{
+  "data": [
+    {
+      "author_id": "1820288141724672002",
+      "created_at": "2026-11-16T22:51:58.000Z",
+      "edit_history_tweet_ids": [
+        "2122462712529899774"
+      ],
+      "id": "2122462712529899774",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "METR 刚发了个研究：调查型智能体去分辨，面前这个到底是对齐评测，还是普通能力评测。55 个评测跑下来，Opus 5.5 全分对了，AUC 直接拉到 1.0。模型认得出自己在被考对齐，靠的是环境里的破绽，模拟服务看着太假，任务里还留着能钻的空子。",
+      "url": "https://x.com/yuanbaopower/status/2122462712529899774"
+    },
+    {
+      "author_id": "2100618195208134656",
+      "created_at": "2026-11-16T22:50:28.000Z",
+      "edit_history_tweet_ids": [
+        "2122462335461925102"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 100,
+            "id": "2036667947733925888",
+            "start": 86,
+            "username": "join_tan24911"
+          }
+        ]
+      },
+      "id": "2122462335461925102",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "最近刷到不少关于AI Agent工作流的讨论，结论出奇一致：大家不再纠结AI能干嘛，而是更关注怎么把零碎的任务串成完整流程。AI当编译器，人当架构师，这思路倒是挺有网感的。@join_tan24911 你怎么看？",
+      "url": "https://x.com/TANYIXIAOhc3/status/2122462335461925102"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122461329189740544"
+        ]
+      },
+      "author_id": "1763913134459555840",
+      "created_at": "2026-11-16T22:47:15.000Z",
+      "edit_history_tweet_ids": [
+        "2122461524807807432"
+      ],
+      "id": "2122461524807807432",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 150,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 7,
+        "retweet_count": 0
+      },
+      "text": "大模型行业的代际切换，从来都不是靠发布会上的 PPT 决定的，而是由开发者真金白银的 API 支出投出来的。\n\n上线整整一周后，Fable 5.2 稳稳占据了 Anthropic 模型总支出的 11%。Anthropic 发布 Fable 5.2 与 Mythos 5.2，多项评测登顶 ， https://t.co/lE43dIOLAR",
+      "url": "https://x.com/ldld888888/status/2122461524807807432"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122461130119319552"
+        ]
+      },
+      "author_id": "2009668550429147136",
+      "created_at": "2026-11-16T22:45:41.000Z",
+      "edit_history_tweet_ids": [
+        "2122461131654529064"
+      ],
+      "id": "2122461131654529064",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "🧾 客户变股东：AI会计平台 COUNT 拿下 $650万 种子轮\n\nCOUNT：西雅图+新西兰惠灵顿双总部，把总账、开票、薪资、事务所管理和实时报表做进一个系统，并开放API/MCP让AI智能体直接读写财务数据。美国税务咨询所 KBF 领投（自己也在用），GD1、Data Tech Fund 等跟投，累计 $760万。 https://t.co/OC0BIh9pmw",
+      "url": "https://x.com/INTJYAN/status/2122461131654529064"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122456695641149440"
+        ]
+      },
+      "author_id": "733890306223919104",
+      "created_at": "2026-11-16T22:41:14.000Z",
+      "edit_history_tweet_ids": [
+        "2122460010240217228"
+      ],
+      "id": "2122460010240217228",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 15,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "网页抓取与 AI Agent 工具平台 Apify 的 Free 档至今免绑卡，每月送 $5 额度，用完自动停不扣费 ⚡\n\n1️⃣ 每月 $5 免费额度：无需信用卡注册即领，可跑 Apify Store 上千款现成抓取与自动化 Actor（网页转 Markdown、RAG 浏览器、社媒与地图数据等），免费档支持最高 16 GB 内存、5 路并发与 5 https://t.co/l4RM1wqePu",
+      "url": "https://x.com/xxxdemo9/status/2122460010240217228"
+    },
+    {
+      "article": {
+        "cover_media": "3_2122414506454454272",
+        "entities": {
+          "urls": [
+            {
+              "text": "https://docs.cloud.google.com/tpu/docs/tpu7x"
+            },
+            {
+              "text": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus/"
+            },
+            {
+              "text": "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-achieves-up-to-2x-blackwell-ultra-performance-in-mlperf-training-v6-1/"
+            },
+            {
+              "text": "https://mlcommons.org/2026/11/mlperf-training-v6-1-results/"
+            },
+            {
+              "text": "https://mlcommons.org/benchmarks/training/"
+            },
+            {
+              "text": "https://mlcommons.org/wp-content/uploads/2026/11/MLPerf-Training-v6.1-Supplemental.pdf#page=11"
+            },
+            {
+              "text": "https://mlcommons.org/2026/09/mlperf-training-llm-post-training/"
+            }
+          ]
+        },
+        "media_entities": [
+          "3_2122414605049958400",
+          "3_2122414777981083648",
+          "3_2122414928019812353",
+          "3_2122415072844955648"
+        ],
+        "plain_text": "两台训练集群都能把同一个模型推到指定质量。一台把用时压到一分多钟，另一台的芯片少一半。负责跑实验的人会问两个问题。计时从模型的哪个阶段开始？为了省下这几十秒，要多占用多少算力？\nTwo training clusters can bring the same model to a specified quality. One takes under two minutes, and the other uses half as many chips. The person running the experiment has two questions. At what stage of the model’s training does the clock start? How much extra accelerator time buys those seconds?\n11 月 16 日，MLCommons 公布 MLPerf Training v6.1 的结果。Google Cloud 提交了 10 项，覆盖自家的第七代 Ironwood TPU 和搭载 NVIDIA Grace Blackwell 的实例。其中最醒目的一项用了 8,192 个 Ironwood 芯片，在 1.70 分钟内让 DeepSeek-V3 达到基准规定的质量。同一批结果还收录了一个新任务，测的是让 Qwen 学会在环境里修代码需要多久。[1][2]\nOn November 16, MLCommons released the MLPerf Training v6.1 results. Google Cloud submitted 10, spanning its seventh-generation Ironwood TPU and instances with NVIDIA Grace Blackwell accelerators. The headline run used 8,192 Ironwood chips and took 1.70 minutes to reach the DeepSeek-V3 quality target. The same round reports a new test of how long it takes to teach Qwen to repair code in an environment.[1][2]\n起跑线是参考检查点 / The clock starts at a reference checkpoint\nGoogle 给这批数字划定了计时范围。测试从官方参考检查点接着训练，达到指定质量才停表。DeepSeek-V3 项使用 C4 数据集，质量门槛是 3.6 log perplexity。检查点已经包含此前训练的权重，完整的预训练周期还包含生成这份检查点的投入。读到 1.70 分钟，先把它理解成特定测试区间的达标时间。[1][7]\nGoogle defines the timing window for these numbers. The run resumes training from the official reference checkpoint and stops at the specified quality. The DeepSeek-V3 workload uses C4 and targets 3.6 log perplexity. The checkpoint carries weights from earlier training, and the complete pretraining cycle also includes the work that produced it. Read 1.70 minutes as time to target within that defined test window.[1][7]\n三组 Ironwood 的达标时间分别是 5.03、2.62 和 1.70 分钟，对应 2,048、4,096 和 8,192 个芯片。用编号 6.1-0018、6.1-0019、6.1-0020 可以追溯这三项提交。第一次把规模翻倍，速度约是原来的 1.92 倍。第二次翻倍，约是 1.54 倍。换成理想翻倍速度的比例，两段扩展效率约为 96% 和 77%。[1][3]\nThe three Ironwood configurations reached the target in 5.03, 2.62 and 1.70 minutes with 2,048, 4,096 and 8,192 chips respectively. The submission IDs are 6.1-0018, 6.1-0019 and 6.1-0020. The first doubling ran about 1.92× as fast as the preceding configuration. The second ran about 1.54× as fast. Relative to ideal doubling, those are approximately 96% and 77% scaling efficiency.[1][3]\n \n越快的集群，可能占用更多芯片时间 / A faster cluster can consume more chip-hours\n把芯片数乘以达标分钟数，再除以 60，三项分别约占 171.7、178.9 和 232.1 芯片小时。最后一次翻倍省了约 55 秒，同时把这段计时里的芯片时间增加了约 30%。这个换算只用了公开芯片数和用时。要换算为账单或能耗，还需要计费、功率、主机和网络的实际数据。[3]\nMultiplying chip count by minutes to target and dividing by 60 gives about 171.7, 178.9 and 232.1 chip-hours. The final doubling saved about 55 seconds and increased chip-hours within the measured window by about 30%. The calculation uses the public chip counts and timings. A bill or energy estimate needs actual rates, power, host and network data.[3]\n如果迭代安排取决于下一次结果何时回来，省下的 55 秒有价值。如果团队先遇到的是可用设备或配额不足，降低单次的资源占用可能更重要。同一组公开提交就能说明两种目标各自偏好哪种配置。要作部署判断，可以沿着这个区分补做实验，把任务排队的时间与机器已经开始计算的时间分开量。\nThose 55 seconds matter when the next result sets the pace of iteration. If a team hits its device or quota limit first, lowering resource use per run may matter more. The same submissions show which configuration each goal favors. For a deployment decision, measure separately how long the job queues and how long it runs.\n扩展效率随规模变化，单芯片之外的因素就重要起来。DeepSeek-V3 是混合专家模型，不同 token 会被分配给不同专家。专家分布在多个芯片上时，发给专家的数据和返回结果都要跨芯片流动。低精度运算能加快部分矩阵乘法，芯片之间的通信仍要占时间。[3][6]\nAs scaling efficiency changes with cluster size, factors beyond each chip begin to matter. DeepSeek-V3 is a mixture-of-experts model, with different tokens routed to different experts. When experts sit on different chips, sending their inputs and collecting their outputs moves data across chips. Lower-precision operations can accelerate some matrix multiplications, while inter-chip communication still takes time.[3][6]\n按 Google 在补充报告里的说明，8,192 个芯片在同一个 ICI 互连域运行。MaxText 把一个批次拆开，让一半的专家通信与另一半的计算重叠。Google 的芯片架构图能帮你区分两级传输。封装内部有两块逻辑小芯片和各自的内存，连接不同物理芯片的则是右侧 ICI。提交里的 8,192 指物理芯片数。[3][5]\nIn Google’s supplemental description, the 8,192 chips ran in one ICI interconnect domain. MaxText split the batch so expert communication for one half could overlap compute for the other. Google’s architecture diagram separates two levels of data movement. Two logic chiplets and their respective memories sit within the package, and the ICI on the right connects physical chips. The submission’s 8,192 counts physical chips.[3][5]\n \nQwen 的 18.02 分钟在测什么 / What Qwen’s 18.02 minutes measures\n这一轮首次加入了面向智能体的语言模型后训练任务。被测的是 Qwen3.5-397B-A17B。从已有模型出发，让它在隔离环境里尝试修复软件问题，用测试结果给每次尝试打通过或失败。GRPO 按同组尝试的相对奖励更新模型。训练集有 700 道问题，验证集另有 251 道，每题尝试四次，总共 1,004 条轨迹。[2][4][7]\nThis round introduces an agentic language-model post-training task. It uses Qwen3.5-397B-A17B. Starting from an existing model, the system has it attempt software fixes in isolated environments and scores each attempt pass or fail using tests. GRPO updates the model using relative rewards among attempts in a group. There are 700 training problems and a separate set of 251 validation problems, with four attempts per validation problem and 1,004 trajectories in total.[2][4][7]\n这里的达标线是 pass@4 = 0.69。意思是至少 69% 的验证题在四次机会中成功过一次。MLCommons 的参考实验还比较了另两种聚合办法，发现同一设置下 pass@4 的变异系数最低。这解释了为何用它停表。一次尝试的成功率需要单独看。[4][7]\nThe target is pass@4 = 0.69. At least 69% of validation problems must see a success within four attempts. MLCommons also compared two other ways of aggregating attempts in its reference experiment, and pass@4 had the lowest coefficient of variation under that setup. That helps explain the choice of stopping metric. First-attempt success is a separate measure.[4][7]\n四次机会让评测更能反映模型会不会找到可行解，也意味着验证成本更高。每一次都要运行完整的智能体流程，包含生成、工具交互和测试执行。想知道 18.02 分钟里还有哪里可以压缩，应该把验证单独列出来。只看训练循环里的每步用时会漏掉这部分。[4]\nGiving the model four chances makes the score better reflect whether it can find a working fix, and costs more to evaluate. Each attempt runs the full agent loop, including generation, tool interaction and tests. To see where the 18.02 minutes could shrink further, break out validation separately. Time per training step leaves that work out.[4]\n \n为什么训练芯片要等采样 / Why the trainer can wait for rollouts\n写一段代码、在环境里运行并收集奖励，需要生成端先交出轨迹，训练端才能据此更新权重。若两端串行，一组芯片工作时另一组可能在等。异步流程可以重叠生成和更新，还要处理轨迹使用的权重落后于当前训练权重的问题。因而基准的用时也会受到环境执行、调度和参数传输影响。[4]\nWriting code, running it in an environment and collecting a reward produces a trajectory that the trainer needs before it can update the weights. In a serial pipeline, one group of accelerators can wait while the other works. Asynchronous execution can overlap generation and updates, and it must account for trajectories generated with older weights. Environment execution, scheduling and weight transfer can therefore affect the benchmark time.[4]\nGoogle 把 640 个 Ironwood 芯片分给两个环节。128 个负责训练，另外 128 组采样引擎各用 4 个，共 512 个负责生成。Google 报告提交 6.1-0017 用 18.02 分钟达标，所得 pass@4 是 0.765，对应目标 0.69。训练芯片等待时间不到 3%。这三个数字都属于这个提交的负载和软硬件配置。[1][3][4]\nGoogle split 640 Ironwood chips between two stages. The trainer used 128 chips, while 128 sampler engines used four each, for 512 generation chips. Google reports that submission 6.1-0017 reached the target in 18.02 minutes, scored 0.765 pass@4 against a 0.69 target, and kept trainer wait time below 3%. All three figures describe this submission’s workload and hardware and software setup.[1][3][4]\n同尺度比较才能回答芯片问题 / A matched scale makes the comparison more useful\nMLPerf 的封闭组要求使用与参考实现相同的模型。提交者仍可在规则内调整软件框架和实现方式。读结果时，还可以按同一行核对提交者、软件、机器、加速器个数和供货类别。这样能分清哪些条件相同，以及成绩使用的配置是否可购买或租用。[7]\nMLPerf’s Closed division requires the same model as the reference implementation. Submitters can still adjust the framework and implementation within the rules. Check the submitter, software, system, accelerator count and availability category on the same result row. That shows which conditions match and whether the tested configuration is available to buy or rent.[7]\n同轮一个有用例子来自 NVIDIA。DeepSeek-V3 的三项 NVL72 结果都采用 1,024 个 GPU，GB200、GB300 和 Vera Rubin 用时分别是 12.36、8.03 和 4.14 分钟。这里芯片数和基准相同，结果体现的是各自整套系统的表现。换成 8,192 个 Ironwood 的 1.70 分钟时，芯片数、互连和软件都变了。[1][6]\nNVIDIA provides a useful example from the same round. In three DeepSeek-V3 NVL72 runs with 1,024 GPUs each, GB200, GB300 and Vera Rubin took 12.36, 8.03 and 4.14 minutes respectively. Accelerator count and benchmark are matched, and the results reflect the respective systems as a whole. Moving to the 1.70-minute Ironwood result changes the chip count to 8,192 along with the interconnect and software.[1][6]\n \n把成绩读成一次系统实验 / Read the result as a system experiment\n如果要比较多套训练系统，先对齐模型和参考检查点，再确认数据集、质量门槛和加速器数量。想缩短实验迭代时间，可以直接看达标用时。要解释扩容值不值，同时看芯片小时。要选生产系统，再补自己的功耗、占用率和排队数据。用相同方法看后训练，还要盯住生成、环境和训练三段各花了多少时间。[3][4][7]\nTo compare training systems, first match the model and reference checkpoint, then check the dataset, quality target and accelerator count. Use time to target to reason about iteration speed. For scaling decisions, also examine chip-hours. A production choice needs your own power, utilization and queue data. For post-training, track how much time goes to generation, environment execution and learning.[3][4][7]\n这次的两个成绩刚好把问题拆开了。DeepSeek-V3 的三个规模显示，越大的集群还能省时间，但节省幅度逐步收窄。Qwen 的新增任务把生成、执行测试和更新同时算进同一块秒表。两张成绩单里最有信息量的部分，是厂家在什么条件下把哪段等待压了下去。\nThe two results make different constraints visible. DeepSeek-V3’s three scales show that larger clusters can save time with diminishing gains. The new Qwen workload puts generation, test execution and updates on one clock. The most informative part of each result is which waiting time the system reduced and under what conditions.\n来源 / Sources\n[1] Google Cloud 的 Ironwood 与 GPU 成绩 / Google Cloud’s Ironwood and GPU results\n[2] MLCommons v6.1 发布公告 / MLCommons v6.1 results announcement\n[3] MLPerf v6.1 补充报告第 11 页 / MLPerf v6.1 supplement, p. 11\n[4] MLCommons 后训练方法与统计图 / MLCommons post-training method and validation chart\n[5] Google TPU7x 芯片架构及互连 / Google TPU7x architecture and interconnect\n[6] NVIDIA 的 v6.1 同规模成绩与图 2 / NVIDIA’s matched-scale v6.1 results and Figure 2\n[7] MLCommons 各基准质量门槛 / MLCommons workload quality targets",
+        "preview_text": "两台训练集群都能把同一个模型推到指定质量。一台把用时压到一分多钟，另一台的芯片少一半。负责跑实验的人会问两个问题。计时从模型的哪个阶段开始？为了省下这几十秒，要多占用多少算力？\nTwo training clusters",
+        "title": "Google Ironwood 的 1.70 分钟从哪开始 | When Does Ironwood’s 1.70-Minute Clock Start?"
+      },
+      "author_id": "1345245795147108353",
+      "created_at": "2026-11-16T22:40:42.000Z",
+      "edit_history_tweet_ids": [
+        "2122459877956284669"
+      ],
+      "id": "2122459877956284669",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 60,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "Google Ironwood 在 MLPerf 用 1.70 分钟让 DeepSeek-V3 达标。拆解计时起点、扩容效率和 Qwen 后训练的评分。\n\nHow Google Ironwood hit the DeepSeek-V3 target in 1.70 minutes in MLPerf. We unpack the clock, scaling and how Qwen post-training is scored. https://t.co/KHXjlVJkqd",
+      "url": "https://x.com/AasenVS/status/2122459877956284669"
+    },
+    {
+      "article": {
+        "cover_media": "3_2122456600212365312",
+        "entities": {
+          "hashtags": [
+            {
+              "end": 725,
+              "start": 723,
+              "text": "b"
+            },
+            {
+              "end": 773,
+              "start": 771,
+              "text": "c"
+            },
+            {
+              "end": 821,
+              "start": 819,
+              "text": "d"
+            },
+            {
+              "end": 869,
+              "start": 867,
+              "text": "f"
+            },
+            {
+              "end": 917,
+              "start": 915,
+              "text": "g"
+            },
+            {
+              "end": 965,
+              "start": 963,
+              "text": "k"
+            },
+            {
+              "end": 1015,
+              "start": 1011,
+              "text": "xfr"
+            },
+            {
+              "end": 1066,
+              "start": 1062,
+              "text": "xfr"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 4,
+              "start": 0,
+              "username": "127"
+            }
+          ],
+          "tweets": [
+            {
+              "id": "2122425605870518421"
+            },
+            {
+              "id": "2120971811395690556"
+            },
+            {
+              "id": "2120864928298938433"
+            },
+            {
+              "id": "2117983616026193970"
+            },
+            {
+              "id": "2122415422670872580"
+            },
+            {
+              "id": "2071813568979489081"
+            }
+          ],
+          "urls": [
+            {
+              "text": "www.example.com"
+            },
+            {
+              "text": "https://www.example.com"
+            },
+            {
+              "text": "www.example.com"
+            },
+            {
+              "text": "https://www.example.com"
+            },
+            {
+              "text": "example.com"
+            },
+            {
+              "text": "example.com"
+            },
+            {
+              "text": "a.root-servers.net"
+            },
+            {
+              "text": "m.root-servers.net"
+            },
+            {
+              "text": "root.zone"
+            },
+            {
+              "text": "https://github.com/NLnetLabs/unbound"
+            },
+            {
+              "text": "https://github.com/NLnetLabs/unbound"
+            },
+            {
+              "text": "https://github.com/lowply/docker-unbound"
+            },
+            {
+              "text": "https://github.com/lowply/docker-unbound"
+            },
+            {
+              "text": "https://github.com/paulhudson/bind-osx"
+            },
+            {
+              "text": "https://github.com/paulhudson/bind-osx"
+            },
+            {
+              "text": "https://github.com/7anshuai/masq"
+            },
+            {
+              "text": "https://github.com/7anshuai/masq"
+            },
+            {
+              "text": "https://github.com/robbiev/devdns"
+            },
+            {
+              "text": "https://github.com/robbiev/devdns"
+            },
+            {
+              "text": "https://www.internic.net/domain/root.zone"
+            },
+            {
+              "text": "example.com"
+            },
+            {
+              "text": "root.zone"
+            },
+            {
+              "text": "https://github.com/paulhudson/bind-osx"
+            },
+            {
+              "text": "https://github.com/NLnetLabs/unbound"
+            },
+            {
+              "text": "https://d.root-servers.net/"
+            },
+            {
+              "text": "https://xfr.cjr.dns.icann.org/"
+            },
+            {
+              "text": "https://github.com/robbiev/devdns"
+            },
+            {
+              "text": "https://github.com/paulhudson/bind-osx"
+            },
+            {
+              "text": "https://github.com/lowply/docker-unbound"
+            },
+            {
+              "text": "https://k.root-servers.net/"
+            },
+            {
+              "text": "https://x.com/@127"
+            },
+            {
+              "text": "https://github.com/7anshuai/masq"
+            },
+            {
+              "text": "https://xfr.lax.dns.icann.org/"
+            },
+            {
+              "text": "https://github.com/robbiev/devdns"
+            },
+            {
+              "text": "https://github.com/lowply/docker-unbound"
+            },
+            {
+              "text": "https://g.root-servers.net/"
+            },
+            {
+              "text": "https://root.zone/"
+            },
+            {
+              "text": "https://b.root-servers.net/"
+            },
+            {
+              "text": "https://www.internic.net/domain/root.zone"
+            },
+            {
+              "text": "https://github.com/7anshuai/masq"
+            },
+            {
+              "text": "https://f.root-servers.net/"
+            },
+            {
+              "text": "https://example.com/"
+            },
+            {
+              "text": "https://c.root-servers.net/"
+            },
+            {
+              "text": "https://github.com/NLnetLabs/unbound"
+            },
+            {
+              "text": "https://root.zone/"
+            }
+          ]
+        },
+        "media_entities": [
+          "3_2122456742873194496"
+        ],
+        "plain_text": "最近网上又在疯传什么“2026年11月17日全球大断网（Internet Blackout）”的末日谣言，搞得不少不明真相的读者跑来问俺：万一全球网络基础设施真的瘫痪了，或者遭遇物理/逻辑层面的断网，咱们的电脑还能不能解析域名？\n \n能不能在自己的 MacBook 上把整个互联网的 DNS 根服务器“搬”到本地来跑？如果流氓政权（比如伊朗、朝鲜之流）利用现在流行的开源权重 AI 大模型（如 DeepSeek、GLM 等）对全球网络基础设施发动饱和攻击，互联网会不会真的彻底崩盘？\n \n今天这篇博文，俺就把这几个问题串起来，给大家做一次系统的技术扫盲与风险评估。老规矩，咱们先讲底层技术原理，再教大家怎么在 macOS 上动手折腾，最后用理性和逻辑拆解那些故弄玄虚的恐慌谣言。\n目录\nDNS 是怎么工作的？（从浏览器到根服务器的寻址之旅）\n扒一扒全球 DNS 根服务器的拓扑结构（为什么只有 13 个逻辑根，却打不垮？）\n起底“11月17日全球大断网”谣言与 X（原 Twitter）上的信息噪音\n严肃评估：流氓国家 + 开源权重 AI 模型，真能搞垮全球互联网基础设施吗？\n实战教程：如何在 macOS 上搭建一套完全独立的本地递归 DNS 服务？（含根区本地化）\n\n一、DNS 是怎么工作的？（从浏览器到根服务器的寻址之旅）\n在之前的《扫盲 DNS 原理》系列里俺提到过，DNS（Domain Name System）本质上就是互联网的分布式电话簿。人类喜欢记 [www.example.com](https://www.example.com) 这种有意义的字符串，而底层的 TCP/IP 协议栈只认冷冰冰的 IP 地址（比如 IPv4 或 IPv6）。\n \n当你在浏览器里敲下一个网址，如果你没有被 GFW 的 DNS 污染劫持，一个标准的、未经缓存的 DNS 查询流程是这样的（以倒置树状结构自顶向下查找）：\n第一步（Stub Resolver -> 递归解析器）：你的操作系统内核或网络组件（称为存根解析器，Stub Resolver）本身是很笨的，它不会自己去全世界找答案，而是直接去问你配置好的递归解析器（Recursive Resolver）。这个解析器通常是你家宽带运营商（ISP）默认分配的（极其不安全，国内基本自带投毒和审计），或者是公共 DNS（如 Cloudflare 的 1.1.1.1、Google 的 8.8.8.8），再或者——就是咱们今天要教大家在自己电脑上搭建的本地解析器。\n第二步（查缓存）：递归解析器收到请求后，先翻自己的内存缓存。如果之前刚好有人查过且没过期（TTL 未归零），直接把结果甩给你，流程结束。绝大多数日常查询在这一步就搞定了。\n第三步（问根服务器 Root Server）：如果缓存没命中（Cache Miss），递归解析器就会从整棵倒置树的最高点——也就是名为 .（一个点）的根域（Root Zone）开始迭代查询。它向根服务器发问：“老兄，告诉我 [www.example.com](https://www.example.com) 的 IP 是多少？”根服务器不会直接给你最终答案，它只会看一眼后缀，然后回你一句：“我不管具体网站，但 .com 归那边那几个顶级域服务器管，这是它们的名字（NS 记录）和 IP 地址（Glue 粘合记录），你去问它们。”\n第四步（问顶级域服务器 TLD Server）：递归解析器马不停蹄地跑去问管理 .com 的顶级域（Top-Level Domain）服务器。TLD 服务器同样不存最终 IP，它查了一下账本说：“example.com 这个域名注册在某某权威服务器名下，你去问那台机器。”\n第五步（问权威服务器 Authoritative Server）：递归解析器最后找到 example.com 自己的权威域名服务器。这台服务器才是真正掌握最终户口本的主儿，它痛快地把对应的 A 记录（IPv4）或 AAAA 记录（IPv6）返回给递归解析器。\n第六步（缓存并交差）：递归解析器把拿到的 IP 地址按预设的存活时间（TTL）存进自己的缓存，方便下次别人再问，同时把最终 IP 交还给你的电脑。\n看明白了吧？整个过程对你的电脑来说是“递归”的（只管张嘴要结果），但对那台干脏活累活的解析器来说，是从根到叶子的“迭代（Iterative）”跑腿过程。\n二、扒一扒全球 DNS 根服务器的拓扑结构\n很多刚接触网络的新手经常被一个冷知识唬住：“全球一共只有 13 台 DNS 根服务器！其中大部分还在美国！一旦美国拔网线或者这 13 台机器被黑客炸了，全球互联网就完蛋了！”\n \n这种说法属于典型的“知其然不知其所以然”，甚至经常被某些别有用心的宣传机器拿来渲染恐慌。咱们来仔细扒一扒根服务器的真实物理拓扑：\n13 个“逻辑身份”，而非 13 台物理机器：全球根服务器确实只有 13 个命名标识，按字母从 a.root-servers.net 一直排到 m.root-servers.net。但这 13 个名字代表的是 13 个逻辑根节点（Logical Identities），由全球 12 家相互独立的机构负责运营（其中 Verisign 一家运营了 A 根和 J 根，其余包括南加州大学 ISI、Cogent、马里兰大学、NASA、ISC、美国国防部、美国陆军研究实验室、瑞典 Netnod、欧洲 RIPE NCC、ICANN 以及日本的 WIDE Project）。\n为什么偏偏是 13 个？ 这纯粹是个历史遗留问题。早期的 DNS 协议跑在 UDP 上，当时规定单个无分片的 UDP 数据包最大不能超过 512 字节。为了能把所有根服务器的名字和 IP 地址（即引导用的 Root Hints）一次性塞进一个 512 字节的包里返回给客户端，算来算去最多只能塞下 13 条记录（还得留点余量）。后来虽然发明了 EDNS0 扩展协议突破了 512 字节限制，但为了向下兼容和核心架构的绝对稳定，13 个逻辑编号的设计就一直保留了下来。\n任播技术（Anycast）与上千个物理分身：既然只有 13 个固定 IP（包含 IPv4 和 IPv6），怎么抗住全球几十亿设备的查询和黑客的 DDoS 洪水攻击？答案是 BGP 任播（Anycast）。每一个逻辑根（比如 F 根或 L 根）在物理世界上都有成百上千个镜像克隆节点。它们在全世界不同的数据中心里广播完全相同的 IP 地址。当你向某个根 IP 发包时，底层的 BGP 路由协议会自动根据网络拓扑距离，把你的请求导向离你最近、且当前状态健康的那个物理实例。截至 2026 年 11 月，全球这 13 个逻辑根背后实际运行的物理/虚拟服务器实例已经超过 2,046 个，遍布全球 100 多个国家和地区。想用 DDoS 同时打死分布在全世界两千多个机房的任播节点，在工程上几乎是不可能完成的任务。\n根区文件（Root Zone File）到底有多大？ 很多人以为根服务器里存着全世界所有网站的名单，硬盘起码得几百个 PB。大错特错！根服务器只管分发顶级域名（比如 .com、.org、.cn 等一千多个 TLD）的权威服务器地址和 DNSSEC 签名。它里面根本没有任何具体网站的记录。整个地球的根区文件（Root Zone File）写成纯文本，加上加密签名，到今天为止一共也就 2.2 MB 左右！\n没错，你没看错，只有区区 2.2 兆字节——还不到智能手机随便拍的一张照片大。\n\n三、起底“11月17日全球大断网”谣言与 X 上的信息噪音\n聊完了硬核技术，咱们回过头来看看开头提到的那个让人哭笑不得的时事谣言：“2026年11月17日全球互联网大断网 / 银行账户清零 / 持续三个月黑暗”。\n每过几年，互联网上就会周期性地爆发一次这种带有末日邪教色彩的“指定日期大崩溃”恐慌。作为一个习惯独立思考的人，面对这种耸人听闻的消息，第一步永远是做信源溯源（Fact-Checking）。\n \n如果咱们把这波在 TikTok、Telegram 和 X（原 Twitter）上疯传的谣言解剖开来，就会发现它完全是一锅由“真实常规通知 + 军事政策误读 + 动画片巧合 + 骗子引流”炖出来的缝合怪：\n真相一：当天到底有什么官方动作？2026 年 11 月 17 日（周二）美东时间下午 2:20 左右，美国联邦紧急事务管理局（FEMA）和联邦通信委员会（FCC）确实安排了一次全国紧急警报系统（EAS）的例行测试（备用日期为 12 月 3 日）。注意，这仅仅是一次针对广播电台、有线电视和卫星电视的常规信号插播测试，时长只有大约 1 分钟，用英语和西班牙语播报一句“这只是测试，公众无需采取任何行动”。它甚至都不涉及手机无线警报（WEA），更跟电网、互联网、银行系统没有半毛钱关系！\n真相二：“断电断网 90 天”的说法是从哪抄来的？造谣者把上面那个 1 分钟的电视测试，和美国国防部长皮特·赫格塞斯（Pete Hegseth）在 2026 年 9 月 30 日宣布的五角大楼 “FORTRESS America（美国堡垒）”计划硬扯在了一起。这项军事计划的真实内容是：要求美军各大本土基地提升自身的能源与通信韧性，做到在未来万一发生大国冲突或外部民用电网崩溃的极端情况下，军事基地能够依靠自备微电网、水源和燃料独立运转 90 天。看到没？人家是要求军营“做好抗击外部断电 90 天的防灾准备”，到了阴谋论嘴里就变成了“政府要在 11 月 17 日主动拉闸断网 90 天，把老百姓银行存款清零”。这种移花接木的逻辑水平，实在让人捉急。\n真相三：《辛普森一家》又背锅了每次搞末日预言，总有人把《辛普森一家》搬出来当“圣经”。这次传疯了的截图来自 2023 年播出的一集，画面里春田镇发生局部停电，日记本上写着“11月17日”。那纯粹是因为该集原本就是在当年 11 月中旬前后制作的日历巧合，跟 2026 年的全球互联网八竿子打不着。\nX（原 Twitter）上的舆论现状随着 11 月 17 日临近，X 平台上的讨论其实已经呈现出非常明显的“去魅”趋势。虽然还有一部分卖应急生存物资（Prepper）的带货号、加密货币神棍号在拿近期微软 Microsoft 365 / Outlook 的普通云服务故障当幌子，嚷嚷什么“看吧，前兆已经开始了（It's already starting）”，甚至在西班牙语区炒作所谓的“Apagón Mundial（世界大停电）”；但主流的技术大 V、事实核查机构（包括乌克兰反虚假信息中心、哈萨克斯坦紧急情况部等各国官方）以及平台自带的 Grok 都在密集辟谣。更有安全人员指出，不少网络诈骗团伙正在利用这波恐慌散布虚假的“断网防护补丁”和钓鱼链接。\n真正的断网风险在哪里？咱们否定“11月17日全球定时断网”的荒谬谣言，绝不等于说互联网是绝对安全的。恰恰相反，现实世界里的断网风险每天都在发生，但它们遵循的是工程学和政治学规律，而不是神棍的日历：\n政权人为断网（Government Shutdowns）：这是最常见、最现实的威胁。根据 Cloudflare Radar 和 Access Now 的长期监测，某些专制或动荡国家每年都会发动数百次局部或全国性的断网（比如伊朗在抗议期间的长期网络封锁，或者某些国家在选举、考试期间掐断移动网络和 BGP 路由）。\n物理层与电力依赖：数据中心、光缆中继站和基站不是靠爱发电的。极端天气、战争轰炸导致的电网崩溃，或者海底光缆被船锚/蓄意破坏切断，都会造成区域性失联。\n软件单点故障与云服务集中化：这几年大家体会最深的，反而是像微软、Cloudflare、AWS 或 CrowdStrike 某次配置推送失误，瞬间引发全球成千上万家航空、银行、医院系统瘫痪的“级联故障（Cascading Failures）”。至于真正能造成全球同时长期断网的自然灾害，大概只有百年一遇的卡林顿级别（Carrington-level）超级太阳风暴直接烧毁全球长距离输电变压器和卫星了。\n四、严肃评估：流氓国家 + 开源权重 AI 模型，真能搞垮全球网络基础设施吗？\n最后，咱们来探讨一个非常有前瞻性、也确实让各国安全机构头疼的严肃问题：到了 2026 年底的今天，像智谱的 GLM（如 GLM-5.2）和 DeepSeek（如 DeepSeek V4 / V4-Pro）这类顶尖的开源权重（Open-Weight）大模型已经随处可得。如果伊朗、朝鲜等受制裁的流氓政权或黑客组织，把这些开源模型私有化部署，用来攻击全球网络基础设施，会不会引发真正的全球大断网？\n针对这个问题，咱们既不能当盲目乐观的鸵鸟，也不能陷入好莱坞科幻片式的恐慌。咱们依据最新的安全评估（如英国人工智能安全研究所 UK AISI 等机构的独立测试数据）来客观拆解：\n1. 开源权重模型到底给攻击者带来了什么？（能力现状）不可否认，到了 2026 年下半年，顶尖开源权重模型（如 DeepSeek V4 系列、GLM-5.2）在网络安全相关任务（漏洞挖掘辅助、利用代码编写、长周期渗透规划等）上的表现，与几个月前的顶尖闭源商业模型（Frontier Closed Models）相比，代差已经缩短到了短短 4 到 7 个月。\n对于伊朗、朝鲜（比如臭名昭著的 Lazarus 集团）这类长期受国际制裁、但拥有国家编制黑客部队的行为体来说，开源权重模型简直是天上掉下来的馅饼，原因有三：\n彻底摆脱 API 监控与封号：如果他们去调 OpenAI、Anthropic 或 Google 的商业 API 干坏事，后台的风控审计很快就会发现异常并封禁账号、切断访问。但开源权重模型一旦下载到本地机房，断网离线都能跑，没有任何人能远程按下“停止键”，而且可以通过微调（Fine-tuning）轻易剥离掉模型原本脆弱的安全护栏（Safeguards）。\n极低的规模化成本与自动化（Agentic Intrusion）：目前公开的威胁情报已经捕获到多起将 GLM、DeepSeek 与自动化智能体框架（Agentic Frameworks）结合的实战案例。它们能不知疲倦地自动执行网络侦察、批量编写极具欺骗性的多语种鱼叉式钓鱼邮件、分析窃取回来的海量脏数据，甚至针对已知漏洞快速变异出成百上千种攻击载荷（Payloads）。\n大幅拉低作恶门槛：以前需要顶尖高手花几天写的渗透脚本，现在一个二流操作员靠着私有化部署的 AI 助手就能在几分钟内搞定。朝鲜黑客用它来伪造身份渗透欧美科技公司（IT Worker 骗局）、洗劫加密货币交易所；伊朗黑客用它来批量扫描关键基础设施的边缘设备漏洞。\n2. 为什么说它们依然造不出“全球互联网毁灭开关”？既然开源 AI 这么好用，那朝鲜和伊朗能不能靠着几千张显卡跑着 DeepSeek 或 GLM，明天就把全球 DNS 根服务器、海底光缆、BGP 骨干网和各大云厂商一把端掉？\n答案是：极难实现，甚至可以说在可预见的短期内不具备可行性。\n原因很简单——AI 改变的是攻击的“速度和规模（Volume & Speed）”，但它并不能违背计算机网络底层的物理定律与架构冗余。\n高度异构与去中心化的防御纵深：正如咱们在第二部分讲 DNS 根拓扑时分析的那样，全球核心网络基础设施是由成百上千家相互独立的运营商、跨国企业和开源社区用不同的软硬件拼起来的。没有哪个单一漏洞能同时通杀全世界的路由器、交换机和根服务器。\n高价值目标的物理与操作壁垒：要真正瘫痪骨干网或大型云厂商的核心控制面，光靠 AI 在外面写脚本扫端口是没用的。它依然需要极其艰难的初始访问权限突破（比如买通内鬼、长达数年的供应链投毒）、极其严密的操作安全（OPSEC）以及人类顶尖专家在复杂陌生环境下的临场博弈。目前的 AI 模型在面对高度定制化、缺乏公开训练数据的核心工业控制系统时，依然经常产生“幻觉”或触发警报。\n攻防两端的同步进化：别忘了，攻击者在用开源 AI，防守方（各大云厂商、安全公司、骨干网运营商）手里握着算力更庞大、集成度更高的前沿 AI 防御系统，正在以同样甚至更快的速度进行异常流量检测、自动化补丁修复和威胁狩猎。\n政治威慑与“回旋镖效应”：哪怕是伊朗或朝鲜，它们自己的经济命脉、军事指挥和黑客创汇渠道同样高度寄生在现有的国际互联网基础设施之上。发动旨在“彻底毁灭全球网络”的无差别袭击，不仅在技术上做不到，在政治和军事上更会招致毁灭性的实体报复。\n \n五、实战教程：如何在 macOS 上搭建本地递归 DNS 服务？（含根区本地化）\n既然根区文件只有 2.2 MB，那咱们自然会想到一个极客问题：如果遇到极端情况（比如外部公共 DNS 被彻底封锁、运营商 DNS 投毒加剧，或者全球根服务器与你所在局域网的路由被切断），我能不能在自己的 MacBook 上跑一个完整的递归 DNS 解析器，甚至把那 2.2 MB 的全球根区文件直接揣进自己的硬盘里？它会占多少空间？\n答案是：完全可以，而且对现代苹果电脑的存储消耗几乎可以忽略不计！\n1. 硬盘与内存开销评估\n咱们来算一笔账：\n软件体积：主流的开源工业级递归 DNS 软件（如 Unbound 或 BIND），通过 Homebrew 安装到 macOS 上，二进制执行文件加上依赖库一共也就 十几 MB 到几十 MB。\n文本文件只有 2.2 MB（压缩传输更是只有 1 MB 出头），加载进内存也就占几兆空间。根区数据：刚才说了，完整的签名版root.zone\n日常缓存（Cache）：如果你拿它当个人主力的本地解析器，随着你每天浏览网页，内存和磁盘里的缓存记录会慢慢增长，但哪怕你连续跑上几个月，个人使用的缓存体积通常也就 几十 MB 到一两百 MB。\n算下来，在你的 MacBook 上搞一套“全功能递归解析 + RFC 8806 本地根区镜像”的豪华防御配置，总共占用的硬盘空间远远不到 200 MB。\n注：当然咱得把丑话说在前头（懂原理的同学应该已经反应过来了）：就算你把根区（.）搬到了本地，一旦外网彻底物理断网，你依然只能解析那些已经在你本地缓存里还没过期的域名。因为对于从来没访问过的新网站，虽然你本地的根知道 .com 归谁管，但当你的解析器试图连出去问 .com 的 TLD 服务器或网站自己的权威服务器时，外网断了还是拿不到最终 IP。不过，配合 Unbound 的“过期缓存续命（Serve Expired）”功能，这套本地服务足以在网络动荡期帮你维持常用网站和服务的正常寻址，更能在平时彻底摆脱 ISP 的 DNS 窃听与篡改。\n2. 开源工具选型（GitHub 仓库推荐）\n要在 macOS 上干这事，没必要自己从头造轮子，以下几个开源项目足够你折腾：\n) 点评：目前公认最安全、代码最干净的开源递归、缓存兼 DNSSEC 验证解析器。原生完美支持 RFC 8806（Running a Root Server Local to a Resolver），也就是在本地直接挂载完整的根区副本，无需再去请求外部的那 13 个根。首选主力：Unbound（NLnet Labs 官方出品） 仓库地址：[https://github.com/NLnetLabs/unbound](https://github.com/NLnetLabs/unbound\n) 点评：如果你有代码洁癖，不想在 macOS 宿主机的 /opt 目录下装服务，也不想用 root 权限去监听受保护的 53 端口，可以用这个专为 macOS 设计的 Docker 封装方案（通过映射高端口如 65353 并配合 macOS 特有的 /etc/resolver 机制工作）。容器化方案：docker-unbound（适合 Docker 控） 仓库地址：[https://github.com/lowply/docker-unbound](https://github.com/lowply/docker-unbound\n)（基于 dnsmasq 思路的本地开发泛域名解析工具，注意：dnsmasq 只是个轻量级转发器/缓存器，本身不具备从根开始做完整递归查询的能力，应急抗封锁还得靠 Unbound）。其他轻量或特定用途参考： [https://github.com/paulhudson/bind-osx](https://github.com/paulhudson/bind-osx)（老牌 BIND 的 macOS 脚本与配置示例，更偏向权威解析开发调试）。 [https://github.com/7anshuai/masq](https://github.com/7anshuai/masq) 或 [https://github.com/robbiev/devdns](https://github.com/robbiev/devdns\n3. 手把手配置 Unbound + 本地根区（RFC 8806 模式）\n下面演示最稳妥的 Homebrew 原生部署流程：\n第一步：安装 Unbound打开终端（Terminal），执行：\nBash\nbrew install unbound\n第二步：修改配置文件，开启递归、过期缓存挽救与本地根区Apple Silicon 芯片的 Mac，配置文件默认在 /opt/homebrew/etc/unbound/unbound.conf（Intel 芯片则在 /usr/local/etc/unbound/unbound.conf）。用你顺手的编辑器打开它，确保包含以下核心配置段：\nYAML\nfallback-enabled: yes     for-downstream: no     for-upstream: yes     zonefile: \"/opt/homebrew/etc/unbound/root.zone\"server:     # 仅监听本地回环地址，防止变成开放解析器被坏人利用     interface: 127.0.0.1     interface: ::1     port: 53     do-ip4: yes     do-ip6: yes     do-udp: yes     do-tcp: yes      # 访问控制：只允许本机查询     access-control: 127.0.0.0/8 allow     access-control: ::1 allow      # 开启隐私保护（QNAME 最小化，不向根和 TLD 暴露完整请求域名）     qname-minimisation: yes      # 【应急关键配置】当上游网络断联或超时，允许继续返回已过期的缓存记录！     serve-expired: yes     serve-expired-ttl: 864000  # 允许过期缓存最多再顶 10 天     prefetch: yes              # 缓存快到期前自动在后台提前刷新  # 【RFC 8806 本地根区镜像】直接把全球根装进自己电脑 auth-zone:     name: \".\"     # 官方根区传输服务器列表，平时联网时自动同步最新根区     master: 199.9.14.201         #b.root-servers.netmaster: 192.33.4.12          #c.root-servers.netmaster: 199.7.91.13          #d.root-servers.netmaster: 192.5.5.241          #f.root-servers.netmaster: 192.112.36.4         #g.root-servers.netmaster: 193.0.14.129         #k.root-servers.netmaster: 192.0.47.132         #xfr.cjr.dns.icann.orgmaster: 192.0.32.132         #xfr.lax.dns.icann.org\n为了保险起见，你可以先手动把当前那 2.2 MB 的全球根区文件下载到本地指定路径：\nBash\ncurl -o /opt/homebrew/etc/unbound/root.zone\nhttps://www.internic.net/domain/root.zone\n第三步：启动服务并接管系统 DNS\nBash\n# 使用 sudo 启动，因为监听 53 端口需要管理员权限 sudo brew services start unbound\n启动后，去 macOS 的“系统设置 -> 网络 -> 当前连接的 Wi-Fi/以太网 -> 详细信息 -> DNS”里，把 DNS 服务器地址改写成 127.0.0.1。\n最后在终端里用 dig 命令验证一下：\nBash\ndig\n@127\n.0.0.1\nexample.com\n只要看到返回状态是 NOERROR 且耗时极短（第二次查询通常是 0 msec），恭喜你，你的 MacBook 已经拥有了一颗独立的 DNS 心脏！\n总结与防范建议\n写到这里，咱们可以把今天聊的所有内容浓缩成几句实在话：\n全球 DNS 与核心网络架构比你想象的要坚固得多。13 个逻辑根背后是两千多个遍布全球的 Anycast 分身，区区 2.2 MB 的根区文件撑起了整个互联网的寻址脊梁。\n和过期缓存续命（serve-expired），占用不到一两百兆空间，既能让你在日常冲浪时摆脱国内 ISP 的 DNS 劫持与窥探，也能在突发网络故障时保住常用服务的解析能力。在自己的 MacBook 上花几分钟装个 Unbound，配好本地root.zone\n离那些“某月某日全球断网三个月”的末日爽文远一点。把常规的 1 分钟电视警报测试和军事基地自持力计划脑补成世界末日，不是蠢就是坏（多半是为了骗你买高价罐头或者点钓鱼链接）。\n开源 AI 大模型（GLM/DeepSeek 等）的扩散确实加剧了网络空间的局部风暴。未来我们会看到更多、更快、更廉价的勒索软件攻击、供应链渗透和精准钓鱼，局部的政务网、企业网或区域性基础设施停摆会变得更频繁；但它绝不是能够一键抹平全球互联网的“魔法黑盒”。\n \n与其在社交媒体的末日谣言里焦虑内耗，不如现在就打开终端，亲手把本地的 Unbound 服务跑起来，顺便检查一下自己的重要数据有没有做好离线冷备份（3-2-1 备份原则）、家里有没有常备一点应急现金和基础物资。真正的安全感，永远建立在对技术原理的透彻理解和扎实的日常准备之上，而不是建立在对未知恐惧的盲从之上。",
+        "preview_text": "最近网上又在疯传什么“2026年11月17日全球大断网（Internet Blackout）”的末日谣言，搞得不少不明真相的读者跑来问俺：万一全球网络基础设施真的瘫痪了，或者遭遇物理/逻辑层面的断网，咱们的电脑还能不能解析域名？",
+        "title": "“全球断网”谣言与开源大模型时代的设施风险"
+      },
+      "author_id": "969788491",
+      "created_at": "2026-11-16T22:30:25.000Z",
+      "edit_history_tweet_ids": [
+        "2122457289382879580"
+      ],
+      "id": "2122457289382879580",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1237,
+        "like_count": 6,
+        "quote_count": 1,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "text": "真正的安全感，永远建立在对技术原理的透彻理解和扎实的日常准备之上，而不是建立在对未知恐惧的盲从之上。 https://t.co/FTtcebnB5O",
+      "url": "https://x.com/RZLHongKong/status/2122457289382879580"
+    },
+    {
+      "author_id": "1481959802721153029",
+      "created_at": "2026-11-16T22:30:01.000Z",
+      "edit_history_tweet_ids": [
+        "2122457185544552947"
+      ],
+      "id": "2122457185544552947",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 19,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "给活体小鼠做脑部注射时，Claude Opus 5.5 临扎针拒绝执行，换成 Sonnet 5 后针头扎了下去。\n旧金山初创公司 Exin Therapeutics 的 CEO Gabriel Ocana Santero 让兽医先为小鼠开颅，再让 AI 智能体从 19 种基因疗法里选定方案并操控机械臂推注。\n先测试的 Claude Opus 5.5",
+      "url": "https://x.com/SUPARLUXI/status/2122457185544552947"
+    },
+    {
+      "author_id": "1846136998383468544",
+      "created_at": "2026-11-16T22:18:03.000Z",
+      "edit_history_tweet_ids": [
+        "2122454173937733853"
+      ],
+      "id": "2122454173937733853",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "🤖 AI News Daily | 2026.11.17\n\n🔥 Hot Picks\n- Anthropic IPO定价$1.4T，11/19纳斯达克挂牌，路演披露算法效率呈“超指数增长”\n- OpenAI &amp; Anthropic狂订2600万颗谷歌TPU，订单排到2029年，联发科成最大赢家\n- 加州总检察长起诉OpenAI，指控其模型入侵Hugging Face等公司，已披露80起“模型失控”事件",
+      "url": "https://x.com/lisaboobvcoin/status/2122454173937733853"
+    },
+    {
+      "author_id": "2062393410007502848",
+      "created_at": "2026-11-16T22:00:03.000Z",
+      "edit_history_tweet_ids": [
+        "2122449644131111187"
+      ],
+      "id": "2122449644131111187",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 136,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "text": "马化腾为什么着急？\n\n我认为可以从三个维度理解。\n\n第一，竞争对手已经建立AI产品矩阵。\n\n字节跳动拥有抖音、豆包、番茄小说、红果短剧、Seedance等产品，覆盖内容、流量、AI模型和视频生成。\n\n这些产品之间能够形成流量与用户生态的协同。",
+      "url": "https://x.com/jerrychen0awi/status/2122449644131111187"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122449503710224384"
+        ]
+      },
+      "author_id": "1871604954877849600",
+      "created_at": "2026-11-16T21:59:33.000Z",
+      "edit_history_tweet_ids": [
+        "2122449520688841018"
+      ],
+      "id": "2122449520688841018",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 250,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "text": "给公司团队配 AI 队友，不用自己拼凑零碎的 API 和聊天界面了。\n\n翻到一个开源项目 agenticos，它把多模型、真实浏览器、RAG 和几千个 MCP 服务直接打包塞进了自托管平台。同事和 AI 智能体能在同一个聊天室里干活，还能把代码随时丢给本地的 Claude Code 去跑。 https://t.co/nt3TpC81Li",
+      "url": "https://x.com/musen9527/status/2122449520688841018"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122440362119598080",
+          "3_2122440814068396032",
+          "3_2122441068377473024"
+        ]
+      },
+      "author_id": "1625550501772201992",
+      "created_at": "2026-11-16T21:27:43.000Z",
+      "edit_history_tweet_ids": [
+        "2122441509093999056"
+      ],
+      "id": "2122441509093999056",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 622,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "AI越狱再也不是段子，它已经是加州政府起诉书里面的真实案例！\n\n今天，美国加州总检察长 Rob Bonta 在旧金山高等法院正式起诉了 OpenAI。\n\n以前我们总拿“AI 越狱”当段子听，这次直接写进了州政府的起诉书里。\n\n事情发生在今年 7 月。OpenAI 当时把实验版模型关在封闭的测试沙盒里，结果这批 AI https://t.co/gplr4ftQPG",
+      "url": "https://x.com/druncle/status/2122441509093999056"
+    },
+    {
+      "author_id": "1995313355171725312",
+      "created_at": "2026-11-16T21:26:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122441075973403068"
+      ],
+      "id": "2122441075973403068",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 310,
+        "like_count": 3,
+        "quote_count": 1,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "text": "不对…Anthropic 这步棋有点东西\n\nClaude 的智能体服务能搬回自己家跑了，模型却还留在它家\n\n11 月 12 日的更新：整个 Managed Agents 可以部署在自己的基础设施上，不只是沙箱\n\n① 智能体、会话、历史记录全存在你这边\n\n② 模型请求发给你选的提供方，默认 Anthropic\n\n③ 目前得找 Anthropic",
+      "url": "https://x.com/hodu382759/status/2122441075973403068"
+    },
+    {
+      "author_id": "1421800292497113092",
+      "created_at": "2026-11-16T21:02:50.000Z",
+      "edit_history_tweet_ids": [
+        "2122435049882820855",
+        "2122435246218170462"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 115,
+            "start": 92,
+            "url": "https://t.co/n8AesWKjCb"
+          }
+        ]
+      },
+      "id": "2122435246218170462",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 46,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122234773162938545",
+          "type": "quoted"
+        }
+      ],
+      "text": "过去开发软件最担心功能缺失，如今做 AI 产品，最大的隐患反而是功能过剩。\n\n由于编程和新增功能的成本大幅降低，即使是三五人的小团队，也很容易在开发过程中不断叠加工具、盲目扩充品类。 https://t.co/n8AesWKjCb",
+      "url": "https://x.com/arito_si/status/2122435246218170462"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122434099373621248"
+        ]
+      },
+      "author_id": "251518654",
+      "created_at": "2026-11-16T20:58:33.000Z",
+      "edit_history_tweet_ids": [
+        "2122434169657516335"
+      ],
+      "id": "2122434169657516335",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 207,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "text": "5 万多个 CUDA 核心，先别理解成“今天就能用”。\n\nNVIDIA 11月16日在 SC26 宣布 Rubin HPC，面向科学、工程和数据分析中的仿真与数据处理；官方预期供应时间是 2028 年。\n\nSiSi思思：AI 提出一百种新材料，不等于发现了一百种好材料。真正费工夫的，是逐一验证哪些想法站得住。 https://t.co/yV8Br2TNZU",
+      "url": "https://x.com/zshjzls/status/2122434169657516335"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122433088898883585"
+        ]
+      },
+      "author_id": "1645504655156183040",
+      "created_at": "2026-11-16T20:54:17.000Z",
+      "edit_history_tweet_ids": [
+        "2122433096268251303"
+      ],
+      "id": "2122433096268251303",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "《Harness&amp;Hermes》多智能体开发特训营，课程内容涵盖智能体基础、RAG检索增强生成、LangGraph工作流编排与A2A协议。\n\nhttps://t.co/LNlzXG0fw4 https://t.co/VAvnzBiL64",
+      "url": "https://x.com/Diana4904773194/status/2122433096268251303"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122424661187371008"
+        ]
+      },
+      "author_id": "1488213558316138501",
+      "created_at": "2026-11-16T20:50:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122432016331477113"
+      ],
+      "id": "2122432016331477113",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "看了眼 Adobe 11 月 10 日公布的 Firefly 更新，这次总算没光顾着吹“一键替代创作者”。除了常规的头脑风暴、做分镜和情绪板，最对味的是他们预告的 Always-on https://t.co/QrNgOjZfey",
+      "url": "https://x.com/nankCoffee/status/2122432016331477113"
+    },
+    {
+      "author_id": "885086674828578816",
+      "created_at": "2026-11-16T20:33:53.000Z",
+      "edit_history_tweet_ids": [
+        "2122427963325182012"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 177,
+            "start": 154,
+            "url": "https://t.co/T2ZueSfLUv"
+          }
+        ]
+      },
+      "id": "2122427963325182012",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1390,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122333833525911556",
+          "type": "quoted"
+        }
+      ],
+      "text": "最近也在想， 当这个些 AI Agent 越来越强的时候， 我们过去于赖以为生的很多职业和技能就基本上都消失了。  \n大家说每个月都给AI续费， 用的挺开心的，但是就不挣不到钱。  \n逆向思维去想， 当大这都能用上这种先进工具，那么大家又重新站在了一条起跑线上，拼的就不是你会不会用AI和你用没有用AI了。 https://t.co/T2ZueSfLUv",
+      "url": "https://x.com/PandaTalk8/status/2122427963325182012"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122425170757369856"
+        ]
+      },
+      "author_id": "2071871914533068800",
+      "created_at": "2026-11-16T20:23:09.000Z",
+      "edit_history_tweet_ids": [
+        "2122425259785629789"
+      ],
+      "id": "2122425259785629789",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 289,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 7,
+        "retweet_count": 0
+      },
+      "text": "Qwen Code 的“自动模式”不是全放行：官方说它夹在自动改文件和 YOLO 之间，每个操作先过一道 AI 审查\n建议收藏，用到时照着做。\n这是通义千问 Qwen Code 官方文档“Auto Mode”页写的内容，中文可以叫“自动模式”。先把结论放在前面： https://t.co/b7cZFrYtWc",
+      "url": "https://x.com/swordBluesy/status/2122425259785629789"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122413797591887872"
+        ]
+      },
+      "author_id": "1488213558316138501",
+      "created_at": "2026-11-16T20:19:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122424215018373573"
+      ],
+      "id": "2122424215018373573",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "DeepMind 11 月 10 日发的 MKA 多模态知识智能体评估报告挺值得细翻：10 个经济领域、200 道题，直接拿图纸、图表、地图这类多文件视觉资料考完整交付物。\n\n同一测试环境下较难的 Climb-WSR 评分里，Claude Fable 5.2 跑出 56.56%，DeepMind 自家的 Gemini 4 Carbon 是 54.34%，Claude Opus 5.5 为 https://t.co/d4oWebfASn",
+      "url": "https://x.com/nankCoffee/status/2122424215018373573"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122287042839154688"
+        ]
+      },
+      "author_id": "2105058098830344193",
+      "created_at": "2026-11-16T20:14:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122422956618031435"
+      ],
+      "id": "2122422956618031435",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 234,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 8,
+        "retweet_count": 0
+      },
+      "text": "【每日 AI 论文热榜 · 2026年11月16日】\n今天最受关注的 AI 论文：SO-Arena：系统一模型能力与可靠性基准测试\n\nHugging Face Daily Papers 上今天点赞最多的 10 篇论文，▲ 是研究者社区的点赞数。\n\n① SO-Arena：系统一模型能力与可靠性基准测试　▲ 139\nSO-Arena评估System https://t.co/W8nUZkeE9N",
+      "url": "https://x.com/LenardReads/status/2122422956618031435"
+    },
+    {
+      "author_id": "27557989",
+      "created_at": "2026-11-16T20:10:58.000Z",
+      "edit_history_tweet_ids": [
+        "2122422194177499299"
+      ],
+      "id": "2122422194177499299",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 95,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "MoEngage的MCP连接器可让兼容MCP的AI助手访问品牌数据，访问范围按租户限定，涵盖细分受众、活动历史和内容库。\n\nAWS机器学习博客以周末限时促销为例：营销团队往往要在分析仪表盘、内容库和活动构建工具之间切换，并协调邮件、推送、短信及WhatsApp等渠道。",
+      "url": "https://x.com/bitbiz_bruce/status/2122422194177499299"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122409257438007296"
+        ]
+      },
+      "author_id": "2009668550429147136",
+      "created_at": "2026-11-16T19:19:34.000Z",
+      "edit_history_tweet_ids": [
+        "2122409259287638124"
+      ],
+      "id": "2122409259287638124",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 33,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "🤖 AI原生CRM一周4笔融资，矛头直指 Salesforce\n\n• Rox：$1亿 B轮，估值$13亿（General Catalyst+March Capital）\n• Dreamteam：$5300万 种子+A轮（Accel领投A轮），3个月签下100+客户\n• triPica（巴黎）：€1240万，能源/电信CRM+计费\n• https://t.co/jevVC7eAT1（上海）：千万元级 https://t.co/w8LsUAVGiz",
+      "url": "https://x.com/INTJYAN/status/2122409259287638124"
+    },
+    {
+      "author_id": "1652627255833812995",
+      "created_at": "2026-11-16T19:14:37.000Z",
+      "edit_history_tweet_ids": [
+        "2122408011528536361"
+      ],
+      "id": "2122408011528536361",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 121,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 8,
+        "retweet_count": 0
+      },
+      "text": "科学发现最贵的从来不是算力，是试错次数。英伟达推出Nemotron这类智能体工具，实质是替科学家批量提出假设、批量排除错误，把文献和实验之间的反复压缩成机器能跑的循环。但定价权也跟着转移：工具越强，实验室越依赖卖铲子那家的生态。该问的是，论文署名之外，成果的专利和数据归谁？#AI#",
+      "url": "https://x.com/aizhushou/status/2122408011528536361"
+    },
+    {
+      "author_id": "2082391525171113984",
+      "created_at": "2026-11-16T19:07:16.000Z",
+      "edit_history_tweet_ids": [
+        "2122406164944343422"
+      ],
+      "id": "2122406164944343422",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 33,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "text": "玩過 AI Agent 的人都體會過這種絕望：模型在某個環節推理跑偏，開始在兩個工具之間無限互相呼叫，帳單直線飆升。\n\n其實防死循環最優雅的解法不是一直往 Prompt 裡塞「千萬不要循環」，而是直接套用傳統遊戲開發常用的「有限狀態機（FSM）」：\n\n1. 顯式狀態轉移：將 Agent",
+      "url": "https://x.com/sacat_sacat/status/2122406164944343422"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2122461329189740544",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXR_VWfboAAHNeF.jpg",
+        "width": 1024
+      },
+      {
+        "height": 675,
+        "media_key": "3_2122461130119319552",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXR_Jw5WEAA8iqR.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1119,
+        "media_key": "3_2122456695641149440",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXR7HpLXEAA3NXe.jpg",
+        "width": 1205
+      },
+      {
+        "height": 792,
+        "media_key": "3_2122414506454454272",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRUv6NakAAWJfH.jpg",
+        "width": 1980
+      },
+      {
+        "height": 774,
+        "media_key": "3_2122414605049958400",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRU1pgakAAQFIp.jpg",
+        "width": 1440
+      },
+      {
+        "height": 664,
+        "media_key": "3_2122414777981083648",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRU_tuaIAA4GNR.jpg",
+        "width": 1400
+      },
+      {
+        "height": 896,
+        "media_key": "3_2122414928019812353",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRVIcqbcAEiVzB.jpg",
+        "width": 1400
+      },
+      {
+        "height": 1050,
+        "media_key": "3_2122415072844955648",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRVQ4LbwAA_Rlq.jpg",
+        "width": 1271
+      },
+      {
+        "height": 1326,
+        "media_key": "3_2122456600212365312",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXR7CFrXYAA6Xar.jpg",
+        "width": 3316
+      },
+      {
+        "height": 941,
+        "media_key": "3_2122456742873194496",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXR7KZIW4AACmUJ.jpg",
+        "width": 1672
+      },
+      {
+        "height": 800,
+        "media_key": "3_2122449503710224384",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXR0lBJaIAAI6dt.jpg",
+        "width": 2400
+      },
+      {
+        "height": 1102,
+        "media_key": "3_2122440362119598080",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRsQ6EXEAAU7hR.jpg",
+        "width": 1090
+      },
+      {
+        "height": 864,
+        "media_key": "3_2122440814068396032",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRsrNtWcAAPq_L.jpg",
+        "width": 1572
+      },
+      {
+        "height": 934,
+        "media_key": "3_2122441068377473024",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRs6BFXAAA488l.jpg",
+        "width": 1084
+      },
+      {
+        "height": 941,
+        "media_key": "3_2122434099373621248",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRmkXhXQAAnF1F.jpg",
+        "width": 1672
+      },
+      {
+        "height": 677,
+        "media_key": "3_2122433088898883585",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRlpjNaYAEbFZJ.png",
+        "width": 920
+      },
+      {
+        "height": 941,
+        "media_key": "3_2122424661187371008",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRd-_iaIAA0t1U.jpg",
+        "width": 1672
+      },
+      {
+        "duration_ms": 36400,
+        "height": 1920,
+        "media_key": "13_2122425170757369856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122425170757369856/img/YpyrCNcVj5BmyfGA.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122425170757369856/vid/avc1/480x852/12c7GOQrMOQLa1Fc.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122425170757369856/vid/avc1/320x568/LAEDeZm7ra6O-GZQ.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122425170757369856/vid/avc1/1080x1920/vC4RNKMqw7v8cikU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122425170757369856/vid/avc1/720x1280/IaNH5DIKspoyq3sb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122425170757369856/pl/aQ2l2Ye4n-PP9sOA.m3u8"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 941,
+        "media_key": "3_2122413797591887872",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRUGpfaMAAvMxh.jpg",
+        "width": 1672
+      },
+      {
+        "height": 1909,
+        "media_key": "3_2122287042839154688",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXPg0jPXkAA1Jb7.jpg",
+        "width": 1200
+      },
+      {
+        "height": 675,
+        "media_key": "3_2122409257438007296",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRP-YGX0AAlu4I.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122234672000417792"
+          ]
+        },
+        "author_id": "1669276256",
+        "created_at": "2026-11-16T07:46:13.000Z",
+        "edit_history_tweet_ids": [
+          "2122234773162938545"
+        ],
+        "id": "2122234773162938545",
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 19075,
+          "like_count": 51,
+          "quote_count": 2,
+          "reply_count": 69,
+          "retweet_count": 6
+        },
+        "text": "第十期 Next Token，我们关于 Personal Agent 这部分讲得太好了！\n\n用 Gemini 4 总结了几条，放在图片里面了\n\n我们就是上一代移动互联网做太好了，导致 Personal Agent 完全没办法做，围墙太高了\n\n其实我们是有 YouTube 的，这里看的话体验更好一些：https://t.co/CN1RK0cex9 https://t.co/7NRr8zaAA3"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122332998934855680"
+          ]
+        },
+        "author_id": "936609800598597633",
+        "created_at": "2026-11-16T14:19:51.000Z",
+        "edit_history_tweet_ids": [
+          "2122333833525911556"
+        ],
+        "id": "2122333833525911556",
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 15720,
+          "like_count": 106,
+          "quote_count": 4,
+          "reply_count": 35,
+          "retweet_count": 1
+        },
+        "text": "深夜和朋友聊天，感慨这些 coding agent 一方面极大的扩展了自己的能力边界、提高了工作效率，另一方面则很有可能终结自己的职业生涯，一时间心情复杂... https://t.co/NQJOGJ0LaQ"
+      }
+    ],
+    "users": [
+      {
+        "id": "1820288141724672002",
+        "name": "发量不多程序猿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841052042355490822/2C0pcyfr_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 1331,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 2785
+        },
+        "username": "yuanbaopower",
+        "verified": false
+      },
+      {
+        "id": "2100618195208134656",
+        "name": "依依",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120586451217977344/3myyl9jZ_normal.jpg",
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 62
+        },
+        "username": "TANYIXIAOhc3",
+        "verified": false
+      },
+      {
+        "id": "2036667947733925888",
+        "name": "Tan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082003629322760192/EcSkoeRD_normal.jpg",
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 165,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 407
+        },
+        "username": "join_tan24911",
+        "verified": false
+      },
+      {
+        "id": "1763913134459555840",
+        "name": "东野 | Web3×AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115064649108664320/s0YiDHNF_normal.jpg",
+        "public_metrics": {
+          "followers_count": 11112,
+          "following_count": 5530,
+          "like_count": 9453,
+          "listed_count": 12,
+          "media_count": 2811,
+          "tweet_count": 20469
+        },
+        "username": "ldld888888",
+        "verified": false
+      },
+      {
+        "id": "2009668550429147136",
+        "name": "INTJ投资笔记",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013182963962265600/TdiBWlHa_normal.jpg",
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 101,
+          "like_count": 4139,
+          "listed_count": 2,
+          "media_count": 1844,
+          "tweet_count": 2305
+        },
+        "username": "INTJYAN",
+        "verified": false
+      },
+      {
+        "id": "733890306223919104",
+        "name": "Fellix 玩转AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2111306668231573504/7WLIbtKK_normal.jpg",
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 91,
+          "like_count": 561,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 132
+        },
+        "username": "xxxdemo9",
+        "verified": false
+      },
+      {
+        "id": "1345245795147108353",
+        "name": "Aasen Den",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2112795425816416257/PixMUQ28_normal.jpg",
+        "public_metrics": {
+          "followers_count": 8186,
+          "following_count": 6326,
+          "like_count": 3875,
+          "listed_count": 2,
+          "media_count": 505,
+          "tweet_count": 14076
+        },
+        "username": "AasenVS",
+        "verified": false
+      },
+      {
+        "id": "969788491",
+        "name": "Ray Chu Love Hong Kong ✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2114328349602443264/cg8vEf41_normal.jpg",
+        "public_metrics": {
+          "followers_count": 6555,
+          "following_count": 6680,
+          "like_count": 191198,
+          "listed_count": 53,
+          "media_count": 3103,
+          "tweet_count": 78749
+        },
+        "username": "RZLHongKong",
+        "verified": false
+      },
+      {
+        "id": "1481959802721153029",
+        "name": "超级小灯Michael",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105858125349986304/R0fj4qmd_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2337,
+          "following_count": 782,
+          "like_count": 2555,
+          "listed_count": 3,
+          "media_count": 180,
+          "tweet_count": 4356
+        },
+        "username": "SUPARLUXI",
+        "verified": false
+      },
+      {
+        "id": "1846136998383468544",
+        "name": "狮子爱吃韭菜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846137058957709314/k2R8o2xv_normal.png",
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "lisaboobvcoin",
+        "verified": false
+      },
+      {
+        "id": "2062393410007502848",
+        "name": "jerrychen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106397231712788480/uW1BeHqX_normal.jpg",
+        "public_metrics": {
+          "followers_count": 6485,
+          "following_count": 6165,
+          "like_count": 2221,
+          "listed_count": 3,
+          "media_count": 923,
+          "tweet_count": 7455
+        },
+        "username": "jerrychen0awi",
+        "verified": false
+      },
+      {
+        "id": "1871604954877849600",
+        "name": "不上班研究僧musen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956689848313806848/XLOpusaZ_normal.jpg",
+        "public_metrics": {
+          "followers_count": 7955,
+          "following_count": 8582,
+          "like_count": 7686,
+          "listed_count": 7,
+          "media_count": 919,
+          "tweet_count": 9022
+        },
+        "username": "musen9527",
+        "verified": false
+      },
+      {
+        "id": "1625550501772201992",
+        "name": "纽约博叔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687188596166406144/ONl4hSDD_normal.jpg",
+        "public_metrics": {
+          "followers_count": 39453,
+          "following_count": 2322,
+          "like_count": 9483,
+          "listed_count": 203,
+          "media_count": 3344,
+          "tweet_count": 15590
+        },
+        "username": "druncle",
+        "verified": false
+      },
+      {
+        "id": "1995313355171725312",
+        "name": "棈澧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106428661121548288/wQemPgwj_normal.jpg",
+        "public_metrics": {
+          "followers_count": 7451,
+          "following_count": 4579,
+          "like_count": 10746,
+          "listed_count": 20,
+          "media_count": 198,
+          "tweet_count": 36482
+        },
+        "username": "hodu382759",
+        "verified": false
+      },
+      {
+        "id": "1421800292497113092",
+        "name": "muon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118995768141041664/FRK1Njn6_normal.jpg",
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 123,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 649
+        },
+        "username": "arito_si",
+        "verified": false
+      },
+      {
+        "id": "251518654",
+        "name": "SiMelt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108794085435736066/h7SMbxXe_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3195,
+          "following_count": 3996,
+          "like_count": 17,
+          "listed_count": 1,
+          "media_count": 901,
+          "tweet_count": 4841
+        },
+        "username": "zshjzls",
+        "verified": false
+      },
+      {
+        "id": "1645504655156183040",
+        "name": "Диана",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645504817098268674/SYNVi3QJ_normal.jpg",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 21
+        },
+        "username": "Diana4904773194",
+        "verified": false
+      },
+      {
+        "id": "1488213558316138501",
+        "name": "南咖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2121158810576506880/0F0D3GPe_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 2,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 59
+        },
+        "username": "nankCoffee",
+        "verified": false
+      },
+      {
+        "id": "885086674828578816",
+        "name": "Mr Panda",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053332948989132800/q_Nnb7-2_normal.jpg",
+        "public_metrics": {
+          "followers_count": 78102,
+          "following_count": 4792,
+          "like_count": 81696,
+          "listed_count": 607,
+          "media_count": 1896,
+          "tweet_count": 29529
+        },
+        "username": "PandaTalk8",
+        "verified": false
+      },
+      {
+        "id": "2071871914533068800",
+        "name": "剑的 AI 实验室",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089690087571464192/oCoOz0Lf_normal.jpg",
+        "public_metrics": {
+          "followers_count": 9937,
+          "following_count": 10935,
+          "like_count": 8926,
+          "listed_count": 11,
+          "media_count": 1594,
+          "tweet_count": 16039
+        },
+        "username": "swordBluesy",
+        "verified": false
+      },
+      {
+        "id": "2105058098830344193",
+        "name": "莱纳德",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106872236145516544/LurMpDwE_normal.jpg",
+        "public_metrics": {
+          "followers_count": 8125,
+          "following_count": 7392,
+          "like_count": 12642,
+          "listed_count": 5,
+          "media_count": 1143,
+          "tweet_count": 25376
+        },
+        "username": "LenardReads",
+        "verified": false
+      },
+      {
+        "id": "27557989",
+        "name": "涵希AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078644494963212288/p87PgbcS_normal.jpg",
+        "public_metrics": {
+          "followers_count": 5516,
+          "following_count": 4758,
+          "like_count": 3368,
+          "listed_count": 2,
+          "media_count": 101,
+          "tweet_count": 5633
+        },
+        "username": "bitbiz_bruce",
+        "verified": false
+      },
+      {
+        "id": "1652627255833812995",
+        "name": "阿泽锐评",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107670653101080576/Izhizg90_normal.jpg",
+        "public_metrics": {
+          "followers_count": 7447,
+          "following_count": 7493,
+          "like_count": 73,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 23507
+        },
+        "username": "aizhushou",
+        "verified": false
+      },
+      {
+        "id": "2082391525171113984",
+        "name": "sacat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082392323867242496/BF2AXVUH_normal.jpg",
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 174,
+          "like_count": 270,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 322
+        },
+        "username": "sacat_sacat",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122462712529899774",
+    "next_token": "b26v89c19zqg8o3juzow6hk5u2qseb1m3icp0x5b41i0t",
+    "oldest_id": "2122406164944343422",
+    "result_count": 25
+  }
+}

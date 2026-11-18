@@ -1,0 +1,104 @@
+{
+  "data": [
+    {
+      "author_id": "2097932038787751936",
+      "created_at": "2026-11-17T16:48:45.000Z",
+      "edit_history_tweet_ids": [
+        "2122733692963738083"
+      ],
+      "id": "2122733692963738083",
+      "in_reply_to_user_id": "1315639147248246785",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 45,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122517837927616949",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GithubProjects Great.\nAm I suppose to be excited about filing taxes?",
+      "url": "https://x.com/ArtsySciFientis/status/2122733692963738083"
+    },
+    {
+      "author_id": "1762982023780794368",
+      "created_at": "2026-11-17T14:50:29.000Z",
+      "edit_history_tweet_ids": [
+        "2122703928940974304"
+      ],
+      "id": "2122703928940974304",
+      "in_reply_to_user_id": "1315639147248246785",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 52,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122517837927616949",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GithubProjects what does this mean? im not American enough to know",
+      "url": "https://x.com/zrovihr/status/2122703928940974304"
+    },
+    {
+      "author_id": "1315639147248246785",
+      "created_at": "2026-11-17T02:31:04.000Z",
+      "edit_history_tweet_ids": [
+        "2122517850384728421"
+      ],
+      "id": "2122517850384728421",
+      "in_reply_to_user_id": "1315639147248246785",
+      "public_metrics": {
+        "bookmark_count": 12,
+        "impression_count": 2433,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122517837927616949",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Explore it here:\nhttps://t.co/VOPHsQm5IV",
+      "url": "https://x.com/GithubProjects/status/2122517850384728421"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "id": "2097932038787751936",
+        "name": "Monique Haylock",
+        "username": "ArtsySciFientis"
+      },
+      {
+        "id": "1762982023780794368",
+        "name": "Zrov",
+        "username": "zrovihr"
+      },
+      {
+        "id": "1315639147248246785",
+        "name": "GitHub Projects Community",
+        "username": "GithubProjects"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122733692963738083",
+    "next_token": "b26v89c19zqg8o3juzow6jp6te70zv5nh035tei03j7nh",
+    "oldest_id": "2122517850384728421",
+    "result_count": 3
+  }
+}

@@ -1,0 +1,660 @@
+{
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122465591847952385"
+        ]
+      },
+      "author_id": "4398626122",
+      "conversation_id": "2122465625109090646",
+      "created_at": "2026-11-16T23:03:33.000Z",
+      "edit_history_tweet_ids": [
+        "2122465625109090646"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 145,
+            "id": "1133543547599228928",
+            "start": 135,
+            "username": "AbridgeHQ"
+          },
+          {
+            "end": 158,
+            "id": "1832112231288598529",
+            "start": 147,
+            "username": "AmbienceAI"
+          },
+          {
+            "end": 166,
+            "id": "37687077",
+            "start": 160,
+            "username": "Cigna"
+          },
+          {
+            "end": 178,
+            "id": "122473388",
+            "start": 168,
+            "username": "CVSHealth"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/hbRzj5WTFA",
+            "end": 290,
+            "expanded_url": "https://x.com/OpenAI/status/2122465625109090646/video/1",
+            "media_key": "13_2122465591847952385",
+            "start": 267,
+            "url": "https://t.co/hbRzj5WTFA"
+          }
+        ]
+      },
+      "id": "2122465625109090646",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 145,
+              "id": "1133543547599228928",
+              "start": 135,
+              "username": "AbridgeHQ"
+            },
+            {
+              "end": 158,
+              "id": "1832112231288598529",
+              "start": 147,
+              "username": "AmbienceAI"
+            },
+            {
+              "end": 166,
+              "id": "37687077",
+              "start": 160,
+              "username": "Cigna"
+            },
+            {
+              "end": 178,
+              "id": "122473388",
+              "start": 168,
+              "username": "CVSHealth"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "openai.com/index/advancin…",
+              "end": 548,
+              "expanded_url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
+              "start": 525,
+              "url": "https://t.co/NI35X8pG57"
+            }
+          ]
+        },
+        "text": "ChatGPT for Healthcare is advancing with more capable computer-use agents, stronger clinical answers, and 20+ new healthcare plugins.\n\n@AbridgeHQ, @AmbienceAI, @Cigna, @CVSHealth, and other leading healthcare organizations are putting our models to work across prior authorizations, referrals, discharge planning, and patient outreach.\n\nTogether, these advances connect medical evidence with practical help across the tools teams already use—so they can spend less time navigating systems and more time caring for patients.\n\nhttps://t.co/NI35X8pG57"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 186,
+        "impression_count": 125839,
+        "like_count": 1060,
+        "quote_count": 53,
+        "reply_count": 194,
+        "retweet_count": 86
+      },
+      "text": "ChatGPT for Healthcare is advancing with more capable computer-use agents, stronger clinical answers, and 20+ new healthcare plugins.\n\n@AbridgeHQ, @AmbienceAI, @Cigna, @CVSHealth, and other leading healthcare organizations are putting our models to work across prior https://t.co/hbRzj5WTFA",
+      "url": "https://x.com/OpenAI/status/2122465625109090646"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122379074245173248"
+        ]
+      },
+      "author_id": "4398626122",
+      "conversation_id": "2122380010287960095",
+      "created_at": "2026-11-16T17:23:21.000Z",
+      "edit_history_tweet_ids": [
+        "2122380010287960095"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/oM09TAa3W3",
+            "end": 302,
+            "expanded_url": "https://x.com/OpenAI/status/2122380010287960095/video/1",
+            "media_key": "13_2122379074245173248",
+            "start": 279,
+            "url": "https://t.co/oM09TAa3W3"
+          }
+        ]
+      },
+      "id": "2122380010287960095",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "openai.com/index/science-…",
+              "end": 374,
+              "expanded_url": "https://www.openai.com/index/science-at-the-frontier/",
+              "start": 351,
+              "url": "https://t.co/T4qTuVNEzz"
+            }
+          ]
+        },
+        "text": "Scientists reported nearly doubling their productivity with AI in our study of more than 1,800 participants in the ChatGPT for Academic Researchers program.\n\nUsing privacy-preserving methods, we looked at how they use ChatGPT across their work—from developing ideas to analyzing data and writing code—and what it could mean for scientific discovery.\n\nhttps://t.co/T4qTuVNEzz"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 433,
+        "impression_count": 287412,
+        "like_count": 2986,
+        "quote_count": 112,
+        "reply_count": 324,
+        "retweet_count": 210
+      },
+      "text": "Scientists reported nearly doubling their productivity with AI in our study of more than 1,800 participants in the ChatGPT for Academic Researchers program.\n\nUsing privacy-preserving methods, we looked at how they use ChatGPT across their work—from developing ideas to analyzing https://t.co/oM09TAa3W3",
+      "url": "https://x.com/OpenAI/status/2122380010287960095"
+    },
+    {
+      "author_id": "4398626122",
+      "conversation_id": "2122377585523126615",
+      "created_at": "2026-11-16T17:13:42.000Z",
+      "edit_history_tweet_ids": [
+        "2122377585523126615"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+            "display_url": "openai.com/index/expandin…",
+            "end": 248,
+            "expanded_url": "https://www.openai.com/index/expanding-chatgpt-for-academic-researchers/",
+            "images": [
+              {
+                "height": 900,
+                "url": "https://pbs.twimg.com/news_img/2122375802247667712/WsgDsZ_-?format=jpg&name=orig",
+                "width": 1600
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2122375802247667712/WsgDsZ_-?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 225,
+            "status": 200,
+            "title": "Broadening access to AI for scientists",
+            "unwound_url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers/",
+            "url": "https://t.co/eJwqO9Q2WG"
+          },
+          {
+            "display_url": "x.com/OpenAI/status/…",
+            "end": 272,
+            "expanded_url": "https://twitter.com/OpenAI/status/2082516370949062989",
+            "start": 249,
+            "url": "https://t.co/IffpbKLQWW"
+          }
+        ]
+      },
+      "id": "2122377585523126615",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1317,
+        "impression_count": 390888,
+        "like_count": 3151,
+        "quote_count": 132,
+        "reply_count": 319,
+        "retweet_count": 253
+      },
+      "referenced_tweets": [
+        {
+          "id": "2082516370949062989",
+          "type": "quoted"
+        }
+      ],
+      "text": "We’re expanding free access to our frontier models for up to 200,000 scientists worldwide, with training and support.\n\nApplications open Nov. 23. By default, we don’t use data shared through the program to train our models.\n\nhttps://t.co/eJwqO9Q2WG https://t.co/IffpbKLQWW",
+      "url": "https://x.com/OpenAI/status/2122377585523126615"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122366473234534400"
+        ]
+      },
+      "author_id": "4783690002",
+      "conversation_id": "2122366992376107167",
+      "created_at": "2026-11-16T16:31:37.000Z",
+      "edit_history_tweet_ids": [
+        "2122366992376107167"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 126,
+            "id": "1965856473084473347",
+            "start": 114,
+            "username": "antigravity"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/pe1QLnFxh8",
+            "end": 225,
+            "expanded_url": "https://x.com/GoogleDeepMind/status/2122366992376107167/photo/1",
+            "media_key": "3_2122366473234534400",
+            "start": 202,
+            "url": "https://t.co/pe1QLnFxh8"
+          }
+        ]
+      },
+      "id": "2122366992376107167",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 126,
+              "id": "1965856473084473347",
+              "start": 114,
+              "username": "Antigravity"
+            }
+          ]
+        },
+        "text": "What happens when you put Gemini 4 Carbon to work in the lab? 🔬\n\nResearchers are using our latest model in Google @Antigravity to tackle multi-step problems across physics, math, and the life sciences."
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 80,
+        "impression_count": 65184,
+        "like_count": 721,
+        "quote_count": 16,
+        "reply_count": 158,
+        "retweet_count": 43
+      },
+      "text": "What happens when you put Gemini 4 Carbon to work in the lab? 🔬\n\nResearchers are using our latest model in Google @Antigravity to tackle multi-step problems across physics, math, and the life sciences. https://t.co/pe1QLnFxh8",
+      "url": "https://x.com/GoogleDeepMind/status/2122366992376107167"
+    },
+    {
+      "author_id": "4398626122",
+      "conversation_id": "2122359930628063248",
+      "created_at": "2026-11-16T16:03:33.000Z",
+      "edit_history_tweet_ids": [
+        "2122359930628063248"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 34,
+            "id": "1655925560596373506",
+            "start": 19,
+            "username": "ApolloResearch"
+          },
+          {
+            "end": 47,
+            "id": "1706770561903497216",
+            "start": 36,
+            "username": "METR_Evals"
+          },
+          {
+            "end": 61,
+            "id": "1844990000754196482",
+            "start": 49,
+            "username": "TransluceAI"
+          },
+          {
+            "end": 78,
+            "id": "1818809548037062656",
+            "start": 67,
+            "username": "GoodfireAI"
+          }
+        ]
+      },
+      "id": "2122359930628063248",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "1655925560596373506",
+              "start": 19,
+              "username": "ApolloResearch"
+            },
+            {
+              "end": 47,
+              "id": "1706770561903497216",
+              "start": 36,
+              "username": "METR_Evals"
+            },
+            {
+              "end": 61,
+              "id": "1844990000754196482",
+              "start": 49,
+              "username": "TransluceAI"
+            },
+            {
+              "end": 78,
+              "id": "1818809548037062656",
+              "start": 67,
+              "username": "GoodfireAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "openai.com/index/our-firs…",
+              "end": 401,
+              "expanded_url": "https://openai.com/index/our-first-phase-of-embedded-assessments/",
+              "start": 378,
+              "url": "https://t.co/SNAAG0uHmp"
+            }
+          ]
+        },
+        "text": "We’re working with @ApolloResearch, @METR_Evals, @TransluceAI, and @GoodfireAI on embedded assessments: giving outside experts deep access to our internal models and systems to investigate alignment and test our safeguards.\n\nThese assessments build on our ongoing alignment and safety research, bringing independent scrutiny to how we identify and manage risks in our systems.\n\nhttps://t.co/SNAAG0uHmp"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 456,
+        "impression_count": 631623,
+        "like_count": 2764,
+        "quote_count": 282,
+        "reply_count": 572,
+        "retweet_count": 267
+      },
+      "text": "We’re working with @ApolloResearch, @METR_Evals, @TransluceAI, and @GoodfireAI on embedded assessments: giving outside experts deep access to our internal models and systems to investigate alignment and test our safeguards.\n\nThese assessments build on our ongoing alignment and",
+      "url": "https://x.com/OpenAI/status/2122359930628063248"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 54080,
+        "height": 1080,
+        "media_key": "13_2122465591847952385",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122465591847952385/img/9iPTw4fcBJ6BvW3f.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122465591847952385/vid/avc1/1280x720/AweXxrNxHeZ1TusG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122465591847952385/pl/tzjLu_tDxhPkETK6.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122465591847952385/vid/avc1/640x360/oib1FbavcyfkjTOr.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122465591847952385/vid/avc1/1920x1080/tvy45AprGu6A-YH4.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122465591847952385/vid/avc1/480x270/mfUn1o84ZA6X8wgu.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 38634,
+        "height": 1080,
+        "media_key": "13_2122379074245173248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122379074245173248/img/rOj7iXc8zJXjYimx.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122379074245173248/vid/avc1/640x360/4c77_YGgsAKqtOJf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122379074245173248/pl/ALsqsS0hmbQEgoc6.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122379074245173248/vid/avc1/480x270/dKh32aD3-JdZK_JN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122379074245173248/vid/avc1/1280x720/UME7pLAxVIVd5uGO.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122379074245173248/vid/avc1/1920x1080/DjSA-RF8ZuHcAqPB.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2122366473234534400",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXQpEAhX0AATz3c.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2082514978586963969"
+          ]
+        },
+        "author_id": "4398626122",
+        "conversation_id": "2082516370949062989",
+        "created_at": "2026-07-29T17:19:28.000Z",
+        "edit_history_tweet_ids": [
+          "2082516370949062989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nrHn1no0wQ",
+              "end": 272,
+              "expanded_url": "https://x.com/OpenAI/status/2082516370949062989/video/1",
+              "media_key": "13_2082514978586963969",
+              "start": 249,
+              "url": "https://t.co/nrHn1no0wQ"
+            }
+          ]
+        },
+        "id": "2082516370949062989",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3580,
+          "impression_count": 6718747,
+          "like_count": 11379,
+          "quote_count": 1120,
+          "reply_count": 946,
+          "retweet_count": 1329
+        },
+        "text": "We’re giving scientists, mathematicians, and engineers free access to our frontier models—starting with 10,000 researchers and expanding to 100,000 through 2027.\n\nChatGPT for Academic Researchers is built to accelerate discovery across disciplines. https://t.co/nrHn1no0wQ"
+      }
+    ],
+    "users": [
+      {
+        "id": "4398626122",
+        "name": "OpenAI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "public_metrics": {
+          "followers_count": 5543340,
+          "following_count": 4,
+          "like_count": 2613,
+          "listed_count": 33792,
+          "media_count": 771,
+          "tweet_count": 2250
+        },
+        "username": "OpenAI",
+        "verified": true
+      },
+      {
+        "id": "1133543547599228928",
+        "name": "Abridge",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790801568809271296/2KIOiAuR_normal.jpg",
+        "public_metrics": {
+          "followers_count": 4957,
+          "following_count": 193,
+          "like_count": 1043,
+          "listed_count": 81,
+          "media_count": 517,
+          "tweet_count": 954
+        },
+        "username": "AbridgeHQ",
+        "verified": true
+      },
+      {
+        "id": "1832112231288598529",
+        "name": "Ambience Healthcare",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832141900238966784/eGZRMSbc_normal.png",
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 124,
+          "like_count": 84,
+          "listed_count": 15,
+          "media_count": 106,
+          "tweet_count": 256
+        },
+        "username": "AmbienceAI",
+        "verified": false
+      },
+      {
+        "id": "37687077",
+        "name": "Cigna Healthcare",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886527248515178496/15hRQYQe_normal.jpg",
+        "public_metrics": {
+          "followers_count": 50967,
+          "following_count": 2071,
+          "like_count": 4764,
+          "listed_count": 803,
+          "media_count": 8076,
+          "tweet_count": 32599
+        },
+        "username": "Cigna",
+        "verified": true
+      },
+      {
+        "id": "122473388",
+        "name": "CVS Health",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598310355075227650/6YP8gVlL_normal.jpg",
+        "public_metrics": {
+          "followers_count": 64458,
+          "following_count": 35,
+          "like_count": 16407,
+          "listed_count": 702,
+          "media_count": 2165,
+          "tweet_count": 13241
+        },
+        "username": "CVSHealth",
+        "verified": false
+      },
+      {
+        "id": "4783690002",
+        "name": "Google DeepMind",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1612236,
+          "following_count": 265,
+          "like_count": 2962,
+          "listed_count": 19118,
+          "media_count": 2017,
+          "tweet_count": 4640
+        },
+        "username": "GoogleDeepMind",
+        "verified": true
+      },
+      {
+        "id": "1965856473084473347",
+        "name": "Google Antigravity",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990585614279049216/-Zz6T2nk_normal.png",
+        "public_metrics": {
+          "followers_count": 214860,
+          "following_count": 20,
+          "like_count": 144,
+          "listed_count": 1522,
+          "media_count": 229,
+          "tweet_count": 460
+        },
+        "username": "antigravity",
+        "verified": true
+      },
+      {
+        "id": "1655925560596373506",
+        "name": "Apollo Research",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663548513148633088/VbohMMpy_normal.jpg",
+        "public_metrics": {
+          "followers_count": 14351,
+          "following_count": 0,
+          "like_count": 47,
+          "listed_count": 210,
+          "media_count": 173,
+          "tweet_count": 451
+        },
+        "username": "ApolloResearch",
+        "verified": true
+      },
+      {
+        "id": "1706770561903497216",
+        "name": "METR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021827383431757824/AeVvT0rU_normal.jpg",
+        "public_metrics": {
+          "followers_count": 67616,
+          "following_count": 47,
+          "like_count": 1710,
+          "listed_count": 944,
+          "media_count": 188,
+          "tweet_count": 777
+        },
+        "username": "METR_Evals",
+        "verified": true
+      },
+      {
+        "id": "1844990000754196482",
+        "name": "Transluce",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848604619917717504/UjBzCIUP_normal.jpg",
+        "public_metrics": {
+          "followers_count": 13064,
+          "following_count": 22,
+          "like_count": 304,
+          "listed_count": 176,
+          "media_count": 141,
+          "tweet_count": 401
+        },
+        "username": "TransluceAI",
+        "verified": false
+      },
+      {
+        "id": "1818809548037062656",
+        "name": "Goodfire",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892027414768910341/4VDlUa3M_normal.png",
+        "public_metrics": {
+          "followers_count": 29966,
+          "following_count": 51,
+          "like_count": 1943,
+          "listed_count": 298,
+          "media_count": 228,
+          "tweet_count": 926
+        },
+        "username": "GoodfireAI",
+        "verified": true
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122465625109090646",
+    "next_token": "b26v89c19zqg8o3juzow6fgxrh89hy17wp67z6af9qfst",
+    "oldest_id": "2122359930628063248",
+    "result_count": 5
+  }
+}

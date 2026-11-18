@@ -1,0 +1,2074 @@
+{
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122461284994084865"
+        ]
+      },
+      "author_id": "1665335769538392064",
+      "conversation_id": "2122476560296931504",
+      "created_at": "2026-11-16T23:47:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122476560296931504"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/t589ZySkcK",
+            "end": 301,
+            "expanded_url": "https://x.com/Ldataengineer/status/2122476560296931504/photo/1",
+            "media_key": "3_2122461284994084865",
+            "start": 278,
+            "url": "https://t.co/t589ZySkcK"
+          }
+        ]
+      },
+      "id": "2122476560296931504",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/openai/codex-s…",
+              "end": 2126,
+              "expanded_url": "https://github.com/openai/codex-security",
+              "start": 2103,
+              "url": "https://t.co/Q3hKqlbsqp"
+            }
+          ]
+        },
+        "text": "Most security scanning today works the noisy way.\nA tool reads your code, matches patterns, and gives you a long list of warnings. Then a human has to check each one to see if it is real.\n\nThere is a faster way: let an AI agent do the security review. It reads the code like an engineer would, and looks for real vulnerabilities (bugs an attacker can use).\n\nBut there is a catch. A finding is only a guess until someone proves it. And after that, someone still has to write the fix and check that the fix works.\n\nOpenAI has open-sourced Codex Security, a CLI and TypeScript SDK that tries to cover this whole path.\n\nThe idea is simple: find, validate, fix.\n\n1/. Install it and sign in: npm install --global @openai/codex-security, then cs login.\n2/. Run cs scan . in your repo.\n3/. It validates the candidate findings and generates patches.\n4/. You get a Markdown report, and you can export the results.\n\nThe tool does the checking work, so you look at fewer, better findings.\n\nHow it works:\n\nScan scope: \nyou can scan the full repo, selected paths, or only Git changes (cs scan . --diff origin/main).\n\nDeep mode: \nit repeats the Standard scan several times and removes \n\nduplicate findings.\nThreat model: each scan saves a threat model (a description of what can be attacked and how) with the results. cs policy . drafts or updates your SECURITY.md.\n\nTriage: it can find duplicates, rate severity against your own rubric, and suggest owners from source and Git history.\n\nWhat you get:\n• Exports to SARIF, JSON and CSV\n• Tracking in Linear, Jira or GitHub\n• A GitHub Action for scheduled scans (the example uses an estimated $5 limit per scan)\n• Works with OpenAI, Amazon Bedrock, OpenRouter, Fireworks AI and Cheaper Inference\n• Apache-2.0 license, ~13k GitHub stars\nOne thing to know: it needs an API key or login, and the README says some cybersecurity requests and protected findings require Trusted Access for Cyber.\n\nWhat I find interesting is the diff scan is the useful part. You can run it on every pull request, so the agent reviews only what changed and not the whole repo each time.\n\nLinks \nhttps://t.co/Q3hKqlbsqp"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 103,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Most security scanning today works the noisy way.\nA tool reads your code, matches patterns, and gives you a long list of warnings. Then a human has to check each one to see if it is real.\n\nThere is a faster way: let an AI agent do the security review. It reads the code like an https://t.co/t589ZySkcK",
+      "url": "https://x.com/Ldataengineer/status/2122476560296931504"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122461022812553216"
+        ]
+      },
+      "author_id": "1139151813796433922",
+      "conversation_id": "2122461035890426267",
+      "created_at": "2026-11-16T22:45:19.000Z",
+      "edit_history_tweet_ids": [
+        "2122461035890426267"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/XnD4HzlKAH",
+            "end": 301,
+            "expanded_url": "https://x.com/ariyahere0/status/2122461035890426267/photo/1",
+            "media_key": "3_2122461022812553216",
+            "start": 278,
+            "url": "https://t.co/XnD4HzlKAH"
+          }
+        ]
+      },
+      "id": "2122461035890426267",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 54,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 1
+      },
+      "text": "🚨 Anthropic just made its official Claude Skills GitHub repository PUBLIC! 🔥\n\nExplore 100% FREE, open-source Skills for AI agents, coding, frontend design, document creation &amp; more.\n\n⭐ 196K+ GitHub stars!\n\nA must-explore resource for AI enthusiasts.\n\n🔗 Check it out below 👇 https://t.co/XnD4HzlKAH",
+      "url": "https://x.com/ariyahere0/status/2122461035890426267"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122405306512941056"
+        ]
+      },
+      "author_id": "1589939053964980224",
+      "conversation_id": "2122457183778656688",
+      "created_at": "2026-11-16T22:30:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122457183778656688"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/8yU0DKxJSp",
+            "end": 298,
+            "expanded_url": "https://x.com/therealnaathan/status/2122457183778656688/photo/1",
+            "media_key": "3_2122405306512941056",
+            "start": 275,
+            "url": "https://t.co/8yU0DKxJSp"
+          }
+        ]
+      },
+      "id": "2122457183778656688",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/itsfatduck/opt…",
+              "end": 751,
+              "expanded_url": "https://github.com/itsfatduck/optimizerDuck",
+              "start": 728,
+              "url": "https://t.co/iVTPiIj6zC"
+            }
+          ]
+        },
+        "text": "🚨 Someone built a FREE Windows optimization tool, and it's already crossed 12K GitHub stars.\n\nNo installation. No subscription. No account needed.\n\nMeet optimizerDuck an open-source tool designed to make Windows faster by removing unnecessary background processes and bloat.\n\nHere's what you get:\n\n✓ 42 performance tweaks across 7 categories\n✓ Control over 200+ Windows services\n✓ GPU optimizations for NVIDIA, AMD & Intel\n✓ One-click bloatware removal\n✓ Disk cleanup and startup app management\n✓ No telemetry or hidden tracking\n\nHow it works:\n→ Launch the portable tool\n→ Choose your optimizations\n→ Restart your PC\n\nThat's it. A cleaner, potentially faster Windows setup in minutes\n\nSave this for your next PC cleanup.\n\nRepo: https://t.co/iVTPiIj6zC"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 24,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "🚨 Someone built a FREE Windows optimization tool, and it's already crossed 12K GitHub stars.\n\nNo installation. No subscription. No account needed.\n\nMeet optimizerDuck an open-source tool designed to make Windows faster by removing unnecessary background processes and bloat. https://t.co/8yU0DKxJSp",
+      "url": "https://x.com/therealnaathan/status/2122457183778656688"
+    },
+    {
+      "author_id": "1908014421538123779",
+      "conversation_id": "2122426983057658134",
+      "created_at": "2026-11-16T20:30:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122426983057658134"
+      ],
+      "id": "2122426983057658134",
+      "lang": "en",
+      "note_tweet": {
+        "text": "Claude-BugHunter\nturns 681 public\nvulnerability reports\ninto skills\nClaude Code\ncan call\n\nthe repo has\n5,900 GitHub stars\nand more than\n900 forks\n\nit just showed up\non GitHub Trending\n\nthe author\ndoes offensive\nsecurity\nand GenAI research\nfor a living\n\nis a write-up\na training set now?"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 181,
+        "like_count": 2,
+        "quote_count": 1,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "Claude-BugHunter\nturns 681 public\nvulnerability reports\ninto skills\nClaude Code\ncan call\n\nthe repo has\n5,900 GitHub stars\nand more than\n900 forks\n\nit just showed up\non GitHub Trending\n\nthe author\ndoes offensive\nsecurity\nand GenAI research\nfor a living\n\nis a write-up\na training",
+      "url": "https://x.com/bb833dong/status/2122426983057658134"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122422190419173376"
+        ]
+      },
+      "author_id": "1834299124469927937",
+      "conversation_id": "2122422192403042597",
+      "created_at": "2026-11-16T20:10:58.000Z",
+      "edit_history_tweet_ids": [
+        "2122422192403042597"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/z2LuZjBNrG",
+            "end": 295,
+            "expanded_url": "https://x.com/O1labs_io/status/2122422192403042597/photo/1",
+            "media_key": "3_2122422190419173376",
+            "start": 272,
+            "url": "https://t.co/z2LuZjBNrG"
+          }
+        ]
+      },
+      "id": "2122422192403042597",
+      "lang": "en",
+      "note_tweet": {
+        "text": "Tech Tales: Keycloak traces the open source identity server from two Red Hat prototypes in 2013 to a CNCF project.\n\n• The first commit landed on 2 Jul 2013 UTC, and 1.0 shipped in Sep 2014.\n• Keycloak 17 moved it from WildFly to Quarkus in Feb 2022.\n• CNCF accepted it as Incubating on 10 Apr 2023.\n• The repo shows 37,875 GitHub stars as of 15 Nov 2026 UTC.\n• Cognito, Entra ID and Auth0 are proprietary managed services in the same role."
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "Tech Tales: Keycloak traces the open source identity server from two Red Hat prototypes in 2013 to a CNCF project.\n\n• The first commit landed on 2 Jul 2013 UTC, and 1.0 shipped in Sep 2014.\n• Keycloak 17 moved it from WildFly to Quarkus in Feb 2022.\n• CNCF accepted it as https://t.co/z2LuZjBNrG",
+      "url": "https://x.com/O1labs_io/status/2122422192403042597"
+    },
+    {
+      "author_id": "12536122",
+      "conversation_id": "2122403919670444329",
+      "created_at": "2026-11-16T18:58:21.000Z",
+      "edit_history_tweet_ids": [
+        "2122403919670444329"
+      ],
+      "id": "2122403919670444329",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "techcrunch.com/2026/11/16/fbi…",
+              "end": 513,
+              "expanded_url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+              "start": 490,
+              "url": "https://t.co/ys7C0xzGDO"
+            },
+            {
+              "display_url": "microsoft.com/en-us/research…",
+              "end": 883,
+              "expanded_url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
+              "start": 860,
+              "url": "https://t.co/y5fomvkdQb"
+            },
+            {
+              "display_url": "openai.com/index/strength…",
+              "end": 1314,
+              "expanded_url": "https://openai.com/index/strengthening-online-child-safety",
+              "start": 1291,
+              "url": "https://t.co/zUCs9OCqRI"
+            },
+            {
+              "display_url": "github.com/elementalsouls…",
+              "end": 1667,
+              "expanded_url": "https://github.com/elementalsouls/Claude-BugHunter",
+              "start": 1644,
+              "url": "https://t.co/U0IL5L2nZz"
+            },
+            {
+              "display_url": "github.com/google-labs-co…",
+              "end": 1931,
+              "expanded_url": "https://github.com/google-labs-code/stitch-skills",
+              "start": 1908,
+              "url": "https://t.co/YcUhbj0CnR"
+            }
+          ]
+        },
+        "text": "AI & GitHub trending:\n\n[AI Developments]\n• FBI: open-source AI pentest tool Artex breached enterprise networks in under 3 hours\nThe FBI's advisory names the tool and says attackers run it to launch intrusions on their own. One case went from target selection to full compromise in under three hours. Victims include US IT customers of ConnectWise and Korean financial firms. Attackers used weak passwords and exposed credentials, then took the data. Defenders still patch at human speed.\n🔗 https://t.co/ys7C0xzGDO\n\n• TokenEconomizer: cut coding-agent token costs from past sessions in the same repo\nUC Berkeley, Microsoft Research and Microsoft Security open-sourced the plugin. It learns from earlier sessions in a repo and cuts cost without touching the agent or the underlying model. Teams already running coding agents can plug it in without retraining.\n🔗 https://t.co/y5fomvkdQb\n\n• OpenAI opens a free CSAM image classifier and adds a 24-hour ChatGPT block\nThe classifier goes to moderation organizations free through the API and catches AI-generated CSAM. OpenAI reports it cuts images needing human review by 48%, and in fal's test 72% of high-confidence flags were confirmed as novel CSAM. ChatGPT now interrupts users searching for this material and suspends access for 24 hours.\n🔗 https://t.co/zUCs9OCqRI\n\n[GitHub Trending]\n• elementalsouls/Claude-BugHunter (Python, +1057 stars today)\nA Claude Code skill bundle for bug hunting and external red teaming: 82 skills, 15 slash commands, 681 disclosed-report patterns across 24 core vulnerability classes, plus enterprise identity and infrastructure attack matrices. Top gainer today.\n🔗 https://t.co/U0IL5L2nZz\n\n• google-labs-code/stitch-skills (TypeScript, +540 stars today)\nGoogle Labs' Agent Skills library for the Stitch MCP server. It follows the Agent Skills open standard, so Antigravity, Gemini CLI, Claude Code and Cursor all work with it.\n🔗 https://t.co/YcUhbj0CnR"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 117,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "AI &amp; GitHub trending:\n\n[AI Developments]\n• FBI: open-source AI pentest tool Artex breached enterprise networks in under 3 hours\nThe FBI's advisory names the tool and says attackers run it to launch intrusions on their own. One case went from target selection to full compromise",
+      "url": "https://x.com/lunkertw/status/2122403919670444329"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122391200850444288"
+        ]
+      },
+      "author_id": "1127414967257329664",
+      "conversation_id": "2122391207804596599",
+      "created_at": "2026-11-16T18:07:50.000Z",
+      "edit_history_tweet_ids": [
+        "2122391207804596599"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/BG33oWlCx1",
+            "end": 300,
+            "expanded_url": "https://x.com/balance0014/status/2122391207804596599/photo/1",
+            "media_key": "3_2122391200850444288",
+            "start": 277,
+            "url": "https://t.co/BG33oWlCx1"
+          }
+        ]
+      },
+      "id": "2122391207804596599",
+      "lang": "en",
+      "note_tweet": {
+        "text": "Product designer Tony Gorb shipped 83 releases of an open-source app in 64 days with Claude Code, Codex and Cursor running in parallel. The agents wrote the code. He kept every merge and every release.\n\n🔥 From the first commit on August 4 to v0.22.0 on October 7, GitHub shows those 83 version tags and 303 merged pull requests. 220 were the work; the other 83 were the release PR each version opens.\n\nThe point wasn't a new tool. He wrote one contract, AGENTS.md, that every agent reads first: reuse an existing named pattern unless he asked for a brainstorm, and treat a session as iterate (no build, no unit tests, no end-to-end) or as checkpoint (buy confidence once).\n\nFrom September 7, each task gets its own git worktree, with its own ports and its own copy of the library, so the three agents can work at the same time without editing each other's files. A wrapper creates the worktree, so isolation doesn't depend on an agent remembering an env var.\n\nA sloppy rule almost burned him. A line that said never commit, push, stash, reset or checkout his tree was read as forbidding the branch itself, and a whole fix landed on main on August 29. The rewrite is blunt: nothing merges or ships on an agent's own initiative.\n\nOne night, while he was asleep, a Claude session ran ten more sessions across four worktrees to QA the 0.18.0 release. It found 85 issues and no blocker. One security session never finished its dynamic tests, because the auto-mode safety classifier blocked them.\n\nToday the repo is still early: 4 GitHub stars, latest tag v0.22.2 on November 2. Copy the written contract and the human gate, not the release count.\n\n🔗 Link in the first reply 👇"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 230,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 0
+      },
+      "text": "Product designer Tony Gorb shipped 83 releases of an open-source app in 64 days with Claude Code, Codex and Cursor running in parallel. The agents wrote the code. He kept every merge and every release.\n\n🔥 From the first commit on August 4 to v0.22.0 on October 7, GitHub shows https://t.co/BG33oWlCx1",
+      "url": "https://x.com/balance0014/status/2122391207804596599"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122388267521765376"
+        ]
+      },
+      "author_id": "2104164755011158016",
+      "conversation_id": "2122388275734380681",
+      "created_at": "2026-11-16T17:56:11.000Z",
+      "edit_history_tweet_ids": [
+        "2122388275734380681"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/jTfqJjyKeL",
+            "end": 299,
+            "expanded_url": "https://x.com/Javimbuilds/status/2122388275734380681/photo/1",
+            "media_key": "3_2122388267521765376",
+            "start": 276,
+            "url": "https://t.co/jTfqJjyKeL"
+          }
+        ]
+      },
+      "id": "2122388275734380681",
+      "lang": "en",
+      "note_tweet": {
+        "text": "🚨 NVIDIA OPEN-SOURCED A TOOL THAT TELLS YOU IF YOUR AGENT SKILL IS ANY GOOD.\n\nYou write a SKILL md for Claude Code or Codex and hope it helps. Now you can measure it. 100% FREE.\n\n⭐ 2.4K stars · Apache-2.0 · +953 today on GitHub Trending\n\n→ tier 1 checks the skill is safe and well-formed, with secret and security scanners. no api key needed\n→ tier 2 flags guidance that repeats or overlaps with your other skills\n→ tier 3 runs a real agent in a sandbox with and without the skill and compares the results\n→ or add it as a skill and just ask your agent \"is my skill any good?\"\n\nBefore: you add a skill and guess if the agent got better or just slower\nNow: skillevaluator validate ./my-skill and you get a score plus findings\n\ni have a folder of skills i never tested once. that changes tonight\n\nBookmark this 🔖 Repo below 👇"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 78,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "text": "🚨 NVIDIA OPEN-SOURCED A TOOL THAT TELLS YOU IF YOUR AGENT SKILL IS ANY GOOD.\n\nYou write a SKILL md for Claude Code or Codex and hope it helps. Now you can measure it. 100% FREE.\n\n⭐ 2.4K stars · Apache-2.0 · +953 today on GitHub Trending\n\n→ tier 1 checks the skill is safe and https://t.co/jTfqJjyKeL",
+      "url": "https://x.com/Javimbuilds/status/2122388275734380681"
+    },
+    {
+      "author_id": "1464965267830804482",
+      "conversation_id": "2122359183634809231",
+      "created_at": "2026-11-16T16:00:35.000Z",
+      "edit_history_tweet_ids": [
+        "2122359183634809231"
+      ],
+      "id": "2122359183634809231",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/valeman/Awesom…",
+              "end": 359,
+              "expanded_url": "https://github.com/valeman/Awesome_Math_Books#readme",
+              "start": 336,
+              "url": "https://t.co/RdYkclwZH4"
+            },
+            {
+              "display_url": "russianmathbooks.com",
+              "end": 538,
+              "expanded_url": "https://russianmathbooks.com/",
+              "start": 515,
+              "url": "https://t.co/CMWHhIV2qM"
+            }
+          ]
+        },
+        "text": "Awesome Math Books has passed 7,500 GitHub stars. Thank you!\n\nTo celebrate, I’ve given the collection a major update: 300+ books and free learning resources covering mathematics, machine learning, optimisation, physics, econometrics and signal processing.\n\nFind your next read, star the repo and share it with someone who loves maths:\n\nhttps://t.co/RdYkclwZH4\n\nYou can also support the project by buying one of our English editions of classical Russian maths books. Pick one for yourself, your child or as a gift:\n\nhttps://t.co/CMWHhIV2qM"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 17,
+        "impression_count": 830,
+        "like_count": 22,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 5
+      },
+      "text": "Awesome Math Books has passed 7,500 GitHub stars. Thank you!\n\nTo celebrate, I’ve given the collection a major update: 300+ books and free learning resources covering mathematics, machine learning, optimisation, physics, econometrics and signal processing.\n\nFind your next read,",
+      "url": "https://x.com/predict_addict/status/2122359183634809231"
+    },
+    {
+      "author_id": "2116854702214103040",
+      "conversation_id": "2122337787558973788",
+      "created_at": "2026-11-16T14:35:34.000Z",
+      "edit_history_tweet_ids": [
+        "2122337787558973788"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary - mvanhorn/last30days-skill",
+            "display_url": "github.com/mvanhorn/last3…",
+            "end": 228,
+            "expanded_url": "https://github.com/mvanhorn/last30days-skill",
+            "images": [
+              {
+                "height": 600,
+                "url": "https://pbs.twimg.com/news_img/2122312523651387392/2-_aIRTl?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2122312523651387392/2-_aIRTl?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 205,
+            "status": 200,
+            "title": "GitHub - mvanhorn/last30days-skill: AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+            "unwound_url": "https://github.com/mvanhorn/last30days-skill",
+            "url": "https://t.co/9qr7A686KZ"
+          }
+        ]
+      },
+      "id": "2122337787558973788",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Trending on GitHub: mvanhorn/last30days-skill. The repository features an AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web to synthesize a grounded summary.\n\nhttps://t.co/9qr7A686KZ",
+      "url": "https://x.com/AIFutureWire/status/2122337787558973788"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122337141531279360"
+        ]
+      },
+      "author_id": "941477061733912576",
+      "conversation_id": "2122337689651339271",
+      "created_at": "2026-11-16T14:35:10.000Z",
+      "edit_history_tweet_ids": [
+        "2122337689651339271"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/5u2QX6E88e",
+            "end": 302,
+            "expanded_url": "https://x.com/0x_kern/status/2122337689651339271/video/1",
+            "media_key": "13_2122337141531279360",
+            "start": 279,
+            "url": "https://t.co/5u2QX6E88e"
+          },
+          {
+            "display_url": "x.com/0x_kern/status…",
+            "end": 326,
+            "expanded_url": "https://twitter.com/0x_kern/status/2113939185350357347",
+            "start": 303,
+            "url": "https://t.co/bT7pYX5wjT"
+          }
+        ]
+      },
+      "id": "2122337689651339271",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/rtk-ai/rtk",
+              "end": 396,
+              "expanded_url": "http://github.com/rtk-ai/rtk",
+              "start": 373,
+              "url": "https://t.co/ONWju12ooC"
+            },
+            {
+              "display_url": "github.com/headroomlabs-a…",
+              "end": 494,
+              "expanded_url": "http://github.com/headroomlabs-ai/headroom",
+              "start": 471,
+              "url": "https://t.co/Iw4vFi3mSN"
+            },
+            {
+              "display_url": "github.com/mksglu/context…",
+              "end": 604,
+              "expanded_url": "http://github.com/mksglu/context-mode",
+              "start": 581,
+              "url": "https://t.co/GooL5WxJgo"
+            },
+            {
+              "display_url": "github.com/Graphify-Labs/…",
+              "end": 708,
+              "expanded_url": "http://github.com/Graphify-Labs/graphify",
+              "start": 685,
+              "url": "https://t.co/gfBsKU43MR"
+            },
+            {
+              "display_url": "github.com/oraios/serena",
+              "end": 777,
+              "expanded_url": "http://github.com/oraios/serena",
+              "start": 754,
+              "url": "https://t.co/QUjU9tLEAW"
+            },
+            {
+              "display_url": "github.com/tirth8205/code…",
+              "end": 888,
+              "expanded_url": "http://github.com/tirth8205/code-review-graph",
+              "start": 865,
+              "url": "https://t.co/h12ir2ATwb"
+            },
+            {
+              "display_url": "github.com/DietrichGebert…",
+              "end": 982,
+              "expanded_url": "http://github.com/DietrichGebert/ponytail",
+              "start": 959,
+              "url": "https://t.co/Bpu4gyaCel"
+            },
+            {
+              "display_url": "github.com/getagentseal/c…",
+              "end": 1098,
+              "expanded_url": "http://github.com/getagentseal/codeburn",
+              "start": 1075,
+              "url": "https://t.co/b5MgyxzBbB"
+            },
+            {
+              "display_url": "github.com/jarrodwatts/cl…",
+              "end": 1197,
+              "expanded_url": "http://github.com/jarrodwatts/claude-hud",
+              "start": 1174,
+              "url": "https://t.co/dErjcflaey"
+            },
+            {
+              "display_url": "github.com/ccusage/ccusage",
+              "end": 1274,
+              "expanded_url": "http://github.com/ccusage/ccusage",
+              "start": 1251,
+              "url": "https://t.co/3OIKSqBZVc"
+            }
+          ]
+        },
+        "text": "Karpathy calls context engineering \"the delicate art and science of filling the context window.\"\n\nyour agent fills it with 40 lines of git status.\n\nthat's why you hit your Claude limit by lunch. not too much work. too much junk going in.\n\n10 repos that cut what your agent reads and writes, 665,427 GitHub stars between them:\n\ngit status: 40 lines → a 3-line summary → RTK\nhttps://t.co/ONWju12ooC\n\na 10,144-token log dump → 1,260 tokens, same FATAL line found → Headroom\nhttps://t.co/Iw4vFi3mSN\n\ntool output stays in a sandbox, the agent takes only what it asks for → Context Mode\nhttps://t.co/GooL5WxJgo\n\nyour whole project as a graph the agent queries instead of grepping → Graphify\nhttps://t.co/gfBsKU43MR\n\nedits by symbol, not by whole file → Serena\nhttps://t.co/QUjU9tLEAW\n\nreviews a change from a code graph instead of re-reading the repo → code-review-graph\nhttps://t.co/h12ir2ATwb\n\nasked for a date picker: 335 lines without it, 10 with it → Ponytail\nhttps://t.co/Bpu4gyaCel\n\nfinds the file your agent re-reads every turn and the MCP server you never call → CodeBurn\nhttps://t.co/b5MgyxzBbB\n\ncontext and rate limit always on screen, with the reset time → Claude HUD\nhttps://t.co/dErjcflaey\n\nwhere your tokens went, per 5-hour window → ccusage\nhttps://t.co/3OIKSqBZVc\n\n(the numbers are each repo's own README. measure on your own work.)\n\nwhich one would have saved your limit today? 👇"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 15,
+        "impression_count": 650,
+        "like_count": 23,
+        "quote_count": 0,
+        "reply_count": 12,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2113939185350357347",
+          "type": "quoted"
+        }
+      ],
+      "text": "Karpathy calls context engineering \"the delicate art and science of filling the context window.\"\n\nyour agent fills it with 40 lines of git status.\n\nthat's why you hit your Claude limit by lunch. not too much work. too much junk going in.\n\n10 repos that cut what your agent reads https://t.co/5u2QX6E88e https://t.co/bT7pYX5wjT",
+      "url": "https://x.com/0x_kern/status/2122337689651339271"
+    },
+    {
+      "author_id": "2940391392",
+      "conversation_id": "2122336829508907047",
+      "created_at": "2026-11-16T14:31:45.000Z",
+      "edit_history_tweet_ids": [
+        "2122336829508907047"
+      ],
+      "id": "2122336829508907047",
+      "lang": "en",
+      "note_tweet": {
+        "text": "Your coding agent re-learns your repo from scratch every session\nsame build step, same failing command, same unused tools — and you pay for all of it again\n\nMicrosoft's TokenEconomizer remembers instead\nit learns from past sessions in a repo and cuts the waste next time around\n\n18.4–30.9% lower mean cost across 277 SWE-Bench tasks, cheaper in all 30 test cells, Pass@1 up in 4 of 5 setups\nworks with Claude Code, Codex, Copilot CLI and Pi\n\nNo model swap\nNo retraining\nNo API key of its own — what it learns stays on your machine\n\n3 commands to install on Claude Code, then it just watches and learns\n\n6,953 GitHub stars\n\nGitHub link in the comments 👇"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 23,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 1
+      },
+      "text": "Your coding agent re-learns your repo from scratch every session\nsame build step, same failing command, same unused tools — and you pay for all of it again\n\nMicrosoft's TokenEconomizer remembers instead\nit learns from past sessions in a repo and cuts the waste next time around",
+      "url": "https://x.com/ohyeahx1/status/2122336829508907047"
+    },
+    {
+      "author_id": "1095351344083492866",
+      "conversation_id": "2122332600500978064",
+      "created_at": "2026-11-16T14:14:57.000Z",
+      "edit_history_tweet_ids": [
+        "2122332600500978064"
+      ],
+      "id": "2122332600500978064",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "learntocloud.guide",
+              "end": 1548,
+              "expanded_url": "http://learntocloud.guide",
+              "start": 1525,
+              "url": "https://t.co/D9Kwpr9NYA"
+            },
+            {
+              "display_url": "github.com/learntocloud",
+              "end": 1572,
+              "expanded_url": "http://github.com/learntocloud",
+              "start": 1549,
+              "url": "https://t.co/tRLolH8voq"
+            }
+          ]
+        },
+        "text": "Learn to Cloud started in June 2021 as a free, open source guide to help people break into cloud. This year, we built out a custom platform on Azure that lets us offer progress tracking, more hands-on labs, and more room to grow.\n\nA lot of this work is possible because I work at GitHub and have access to GitHub Copilot as a perk. I choose to use that privilege to invest in open source education. A few numbers that are really cool to see:\n\n1,100+ GitHub stars on the app\n~15,000 registered learners\n1,000+ pull requests across the Learn to Cloud org\n\nSome fun behind-the-scenes numbers from the app repo alone:\n\n1,014 commits\n610 PRs opened, 466 merged\n437K lines added, 363K deleted (yes, we rewrote a lot)\n382 commits co-authored with GitHub Copilot, more than 1 in 3\n18 PRs opened by the Copilot cloud agent\n178 Dependabot PRs to update dependencies\n\nLearn to Cloud also gives me a place to get hands-on with cutting-edge technology and keep building new skills. One pattern I've been seeing is the shift toward agents working asynchronously in cloud environments. GitHub's Octoverse report found that Copilot cloud agent usage grew 230% year over year!\n\nSo I have two goals for the rest of the year.\n\nFirst, get better at using the GitHub Copilot cloud agent. I want to understand what we need to improve in our repos so we can efficiently delegate more work asynchronously in a cloud sandbox.\n\nSecond, help more learners become contributors. The plight of every open source maintainer!\n\nVery exciting times ahead :)\n\nhttps://t.co/D9Kwpr9NYA\nhttps://t.co/tRLolH8voq"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 168,
+        "impression_count": 7909,
+        "like_count": 265,
+        "quote_count": 1,
+        "reply_count": 8,
+        "retweet_count": 28
+      },
+      "text": "Learn to Cloud started in June 2021 as a free, open source guide to help people break into cloud. This year, we built out a custom platform on Azure that lets us offer progress tracking, more hands-on labs, and more room to grow.\n\nA lot of this work is possible because I work at",
+      "url": "https://x.com/madebygps/status/2122332600500978064"
+    },
+    {
+      "author_id": "1819537097528950784",
+      "conversation_id": "2122329662278037642",
+      "created_at": "2026-11-16T14:03:17.000Z",
+      "edit_history_tweet_ids": [
+        "2122329662278037642"
+      ],
+      "id": "2122329662278037642",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/NVIDIA/SkillEv…",
+              "end": 408,
+              "expanded_url": "https://github.com/NVIDIA/SkillEvaluator.git",
+              "start": 385,
+              "url": "https://t.co/VcN262hEuf"
+            },
+            {
+              "display_url": "github.com/NVIDIA/SkillEv…",
+              "end": 1674,
+              "expanded_url": "https://github.com/NVIDIA/SkillEvaluator",
+              "start": 1651,
+              "url": "https://t.co/NVZhKmyQXC"
+            }
+          ]
+        },
+        "text": "NVIDIA SkillEvaluator is on GitHub Trending today. The useful engineering question is whether a skill improves the task outcome. A clean static report is an earlier checkpoint, and treating it as the final answer can hide the failure you actually care about.\n\nFor a first rehearsal, use a disposable directory with Git and uv installed. Clone the official example:\ngit clone --depth 1 https://t.co/VcN262hEuf\ncd SkillEvaluator\nThen run:\nuv run --python 3.13 skillevaluator quality-check src/skillevaluator/tier3/reference_skills/text-analyzer -r cli -r json -o reports/first-quality\n\nThe documented path needs no API key, GPU, scanner or Docker. Inspect both the terminal findings and reports/first-quality/skillevaluator-quality.json. A completed passing quality check should exit 0. If setup fails, resolve the dependency error before interpreting missing output as a low score. Record the checkout commit with git rev-parse HEAD so another run has a meaningful reference.\n\nThe important limit: this command checks static quality. Publication evidence remains INCOMPLETE; security coverage and live agent impact require separate evaluation. Do not generalize its result into “safe” or “makes coding better.”\n\nMy next acceptance test would use a small set of independently checked tasks, hold the model and permissions constant, and compare runs with and without the skill. Count wrong outputs and unexpected actions alongside completion time. That is a proposed evaluation method, not a benchmark result from this rehearsal. A trending repository earns an investigation; your own failure cases decide whether it belongs in the workflow.\n\nReference: https://t.co/NVZhKmyQXC"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "NVIDIA SkillEvaluator is on GitHub Trending today. The useful engineering question is whether a skill improves the task outcome. A clean static report is an earlier checkpoint, and treating it as the final answer can hide the failure you actually care about.\n\nFor a first",
+      "url": "https://x.com/condJ78561/status/2122329662278037642"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2121939077259837441"
+        ]
+      },
+      "author_id": "2095359712179232768",
+      "conversation_id": "2122316506008637600",
+      "created_at": "2026-11-16T13:11:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122316506008637600"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/6qnzVIxBOp",
+            "end": 304,
+            "expanded_url": "https://x.com/MarcusLee0619/status/2122316506008637600/photo/1",
+            "media_key": "3_2121939077259837441",
+            "start": 281,
+            "url": "https://t.co/6qnzVIxBOp"
+          }
+        ]
+      },
+      "id": "2122316506008637600",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "cashtags": [
+            {
+              "end": 350,
+              "start": 342,
+              "tag": "caveman"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 1210,
+              "id": "746763",
+              "start": 1202,
+              "username": "caveman"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "github.com/JuliusBrussee/…",
+              "end": 1340,
+              "expanded_url": "https://github.com/JuliusBrussee/caveman",
+              "start": 1317,
+              "url": "https://t.co/pUkrm3aO27"
+            }
+          ]
+        },
+        "text": "the funniest repo on github trending also has the most honest benchmark table i've seen in a while.\n\ncaveman (JuliusBrussee/caveman) makes your coding agent talk like a caveman to save tokens. 120,284 stars, and it started as a joke in april.\n\nthe skill alone, no proxy, one line:\nnpx skills add JuliusBrussee/caveman -g\n\nthen type /caveman ($caveman in codex). say \"stop caveman\" to go back.\n\nthe readme example: a normal agent explains a react re-render in 63 tokens. caveman says \"New object ref each render, so React re-renders. Wrap the prop in useMemo.\" 20 tokens.\n\nnow the honest part. ten dev questions on claude-opus-5-5, output tokens:\nno instruction: 6,983\n\"Answer concisely.\": 4,334\n/caveman: 4,119\n/ultracave: 2,693\n\nso plain \"be concise\" gets you most of the way. the readme says it straight: /caveman cuts about 3% more at the median, /ultracave about 35% more. the rules cost around 1,160 input tokens, and if you pay per request (github copilot), shorter answers save you nothing.\n\nthe rules i like: code, commands, paths and error messages stay character for character. security warnings and irreversible actions get full sentences.\n\nheads up if you install the full cli instead (npx @caveman-ai/cli@latest): it sends usage stats by default. caveman telemetry off or DO_NOT_TRACK=1 turns that off.\n\nhttps://t.co/pUkrm3aO27"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 32,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "the funniest repo on github trending also has the most honest benchmark table i've seen in a while.\n\ncaveman (JuliusBrussee/caveman) makes your coding agent talk like a caveman to save tokens. 120,284 stars, and it started as a joke in april.\n\nthe skill alone, no proxy, one line: https://t.co/6qnzVIxBOp",
+      "url": "https://x.com/MarcusLee0619/status/2122316506008637600"
+    },
+    {
+      "author_id": "266259493",
+      "conversation_id": "2122311724237824450",
+      "created_at": "2026-11-16T12:52:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122311724237824450"
+      ],
+      "id": "2122311724237824450",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/stretchcloud/c…",
+              "end": 1799,
+              "expanded_url": "https://github.com/stretchcloud/campfire",
+              "start": 1776,
+              "url": "https://t.co/WwOLZbMwgh"
+            },
+            {
+              "display_url": "x.com/agent_wrapper/…",
+              "end": 1823,
+              "expanded_url": "https://x.com/agent_wrapper/status/2121888777580994661test",
+              "start": 1800,
+              "url": "https://t.co/rm0ifHZ1C2"
+            }
+          ]
+        },
+        "text": "if your ADE doesn't do this, you ngmi, prateek wrote, screenshotting a setup running more than one coding agent on the same task at once. Theo, who built T3 Code, replied that his hasn't looked different since 2025. Worth sitting with that exchange for a second.\n\nT3 Code is free, MIT licensed, 27,600 GitHub stars as of mid October, and drives Claude Code, Codex, Cursor, OpenCode, Grok Build, and Google Antigravity from one app. Good software. But each thread still runs one agent at a time on one branch. Orca, the other big entrant in this category, got to 79,000 stars doing something closer to what prateek is asking for: git worktree isolation per task and a race mode that runs the same prompt through several agents and keeps the best result. Superset is positioning itself as a control plane above both. None of them, per the people actually using them, fully solve running agents together on one task rather than one after another.\n\nThat's the gap Campfire was built to close. Run Claude Code, Codex, Goose, Aider, and OpenHands side by side in a single browser tab, each in its own git worktree so nothing collides. Race the same task across every backend you have installed and compare results directly, the way Orca does, except across five tools instead of one vendor's lineup. Permission voting handles the part nobody mentions in these threads: when multiple agents want to touch the same repo, majority rules approves, any single deny blocks, and a 30 second timer keeps it from stalling. A Kanban board builds itself from the agents' own tool calls, and a cost dashboard shows what each backend burned.\n\nRunning agents one at a time was never the ceiling on this stuff. Coordinating them was always the real work, and most of the category still skips it.\n\nhttps://t.co/WwOLZbMwgh\nhttps://t.co/rm0ifHZ1C2"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 267,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "text": "if your ADE doesn't do this, you ngmi, prateek wrote, screenshotting a setup running more than one coding agent on the same task at once. Theo, who built T3 Code, replied that his hasn't looked different since 2025. Worth sitting with that exchange for a second.\n\nT3 Code is free,",
+      "url": "https://x.com/stretchcloud/status/2122311724237824450"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122305720444194816"
+        ]
+      },
+      "author_id": "1738431145564573696",
+      "conversation_id": "2122305730359566534",
+      "created_at": "2026-11-16T12:28:11.000Z",
+      "edit_history_tweet_ids": [
+        "2122305730359566534"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/f7DH81AQCY",
+            "end": 302,
+            "expanded_url": "https://x.com/rakib_hossen_ai/status/2122305730359566534/photo/1",
+            "media_key": "3_2122305720444194816",
+            "start": 279,
+            "url": "https://t.co/f7DH81AQCY"
+          }
+        ]
+      },
+      "id": "2122305730359566534",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 377,
+              "id": "1738431145564573696",
+              "start": 361,
+              "username": "rakib_hossen_ai"
+            }
+          ]
+        },
+        "text": "🚨 BREAKING: Anthropic just made its official Claude Skills repository PUBLIC on GitHub.\n\nA growing collection of free, open-source Skills for:\n\n→ Frontend design\n→ AI agent creation\n→ Coding & development\n→ Document creation\n→ Much more.\n\n100% FREE and open source.\n\nAlready crossed 196K+ GitHub stars. ⭐\n\nThe repository link is in the first comment. 👇\n\nFollow @rakib_hossen_ai for more AI updates."
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 22,
+        "impression_count": 1226,
+        "like_count": 87,
+        "quote_count": 0,
+        "reply_count": 26,
+        "retweet_count": 74
+      },
+      "text": "🚨 BREAKING: Anthropic just made its official Claude Skills repository PUBLIC on GitHub.\n\nA growing collection of free, open-source Skills for:\n\n→ Frontend design\n→ AI agent creation\n→ Coding &amp; development\n→ Document creation\n→ Much more.\n\n100% FREE and open source.\n\nAlready https://t.co/f7DH81AQCY",
+      "url": "https://x.com/rakib_hossen_ai/status/2122305730359566534"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122303360321675264"
+        ]
+      },
+      "author_id": "1903275142957932544",
+      "conversation_id": "2122303510372827484",
+      "created_at": "2026-11-16T12:19:22.000Z",
+      "edit_history_tweet_ids": [
+        "2122303510372827484"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/xd4JLS6uLG",
+            "end": 295,
+            "expanded_url": "https://x.com/isagi1000x/status/2122303510372827484/video/1",
+            "media_key": "13_2122303360321675264",
+            "start": 272,
+            "url": "https://t.co/xd4JLS6uLG"
+          }
+        ]
+      },
+      "id": "2122303510372827484",
+      "lang": "en",
+      "note_tweet": {
+        "text": "🚨 SOMEONE JUST BUILT AN OPEN-SOURCE AI CREATIVE STUDIO WITH 38 GENERATION MODELS!\n\nMeet OpenHiggsfield — a unified workspace for creating AI images and videos without switching between multiple platforms.\n\nHere's what you get:\n\n→ 38 AI models: 8 image models and 30 video models.\n\n→ Image generation: Flux, Ideogram, Recraft, Soul and more.\n\n→ Video generation: Seedance, Kling, Wan, LTX, MiniMax and PixVerse.\n\n→ One prompt bar: Generate images and videos from the same interface.\n\n→ Advanced controls: Customize resolution, aspect ratio, duration, audio and more.\n\n→ Generation gallery: Save, download, favorite and reuse your creations.\n\nThe best part?\n\nYou can switch between different AI models without constantly jumping between platforms or rebuilding your workflow.\n\nAnd it's OPEN SOURCE! \n\nThe repository already has around 5.6K GitHub stars.\n\nOne creative studio. 38 AI models. Endless possibilities.\n\nDefinitely worth exploring. 👇"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 230,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "text": "🚨 SOMEONE JUST BUILT AN OPEN-SOURCE AI CREATIVE STUDIO WITH 38 GENERATION MODELS!\n\nMeet OpenHiggsfield — a unified workspace for creating AI images and videos without switching between multiple platforms.\n\nHere's what you get:\n\n→ 38 AI models: 8 image models and 30 video https://t.co/xd4JLS6uLG",
+      "url": "https://x.com/isagi1000x/status/2122303510372827484"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122282428840697856"
+        ]
+      },
+      "author_id": "2607498030",
+      "conversation_id": "2122294863680954586",
+      "created_at": "2026-11-16T11:45:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122294863680954586"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/W05qwD1ps8",
+            "end": 304,
+            "expanded_url": "https://x.com/0xpipimd/status/2122294863680954586/photo/1",
+            "media_key": "3_2122282428840697856",
+            "start": 281,
+            "url": "https://t.co/W05qwD1ps8"
+          }
+        ]
+      },
+      "id": "2122294863680954586",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/GoogleChrome/m…",
+              "end": 1959,
+              "expanded_url": "https://github.com/GoogleChrome/modern-web-guidance",
+              "start": 1936,
+              "url": "https://t.co/SMYVxC5lhi"
+            }
+          ]
+        },
+        "text": "Google Chrome raised Codex's web-development check pass rate from 54% to 82% in its own evaluation, just by adding a skill.\n\nNo model retraining required.\n\nClaude Code improved from 57% to 88%, while Antigravity went from 58% to 94%.\n\nThe project is called Modern Web Guidance, an open-source collection of skills developed with contributions from the Google Chrome, Microsoft Edge, Mozilla Firefox, and MDN teams.\n\nThe problem is that AI coding agents often generate outdated JavaScript and CSS patterns for functionality that modern browsers already support natively.\n\nInstead of building custom implementations, agents can use:\n\n→ Popover API: Create native popovers without manually implementing every interaction.\n\n→ CSS Anchor Positioning: Position tooltips and menus relative to their triggers.\n\n→ Container Queries: Build responsive components based on their container dimensions.\n\n→ View Transitions: Animate interface changes using browser-native APIs.\n\nThe repository contains 203 expert-reviewed guides covering 250 web platform features, including performance, accessibility, security, and browser compatibility.\n\nUnder the hood, its CLI combines local semantic search with BM25 to retrieve relevant guidance directly into an agent's context.\n\nIt also includes a scanner that identifies supported legacy patterns in existing codebases and suggests modern alternatives.\n\nThe team evaluated agents with and without the skills using Playwright-based checks.\n\nThe reported improvements are automated check pass rates on specific web-development tasks, not general coding success rates. Codex and Claude Code were evaluated on 215 tasks, while Antigravity used 214.\n\nThe repository has crossed 18,000 GitHub stars.\n\nBefore asking for a more capable coding model, make sure the one you already have knows what modern browsers can do.\n\nOpen source. Software licensed under Apache 2.0, with guide content under CC BY 4.0.\n\nGitHub: https://t.co/SMYVxC5lhi"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 179,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Google Chrome raised Codex's web-development check pass rate from 54% to 82% in its own evaluation, just by adding a skill.\n\nNo model retraining required.\n\nClaude Code improved from 57% to 88%, while Antigravity went from 58% to 94%.\n\nThe project is called Modern Web Guidance, an https://t.co/W05qwD1ps8",
+      "url": "https://x.com/0xpipimd/status/2122294863680954586"
+    },
+    {
+      "article": {
+        "cover_media": "3_2122285890978369536",
+        "entities": {
+          "code": [
+            {
+              "code": "",
+              "content": "| Bot | Job | What it never does |\n|---|---|---|\n| Primary bot | My main contact. Routes requests to the right bot | Heavy work itself |\n| Super admin | Oversees both machines, decides, escalates to me | Reads raw logs, retries builds |\n| Studio bots (one per Mac Studio) | Dispatch missions to their machine, read 5-line summaries | Diagnose by hand on the machine |\n| News and growth bot | Recaps, X drafts, articles, reply packs | Posts without my \"go\" |\n| Passive feed bot | Relays machine events, one line each, word for word | Reasons about them |",
+              "language": "none"
+            },
+            {
+              "code": "",
+              "content": "| Routine | When | What it does | What it may not do |\n|---|---|---|---|\n| Watcher | Every 15 minutes | Turns my new X likes and GitHub stars into draft tweets or missions | Post anything |\n| Morning recap | Daily, 8:30 | AI news worth my time, release watch, reply targets, a plan for the day's posts | Post anything |\n| Release radar | Scheduled | Flags major model and tool releases, and whether my fixed test is due | Run a paid test without me |\n| Evening report | Daily, 22:00 | What went out, what's pending, what needs a decision | Act on what it reports |\n| Weekly review | Sunday, 10:00 | Metrics, what worked, what to cut | Change the strategy on its own |",
+              "language": "none"
+            },
+            {
+              "code": "NEVER DELEGATE (even with a perfect agent)\n\nVoice and meaning\n[ ] The final yes on anything published under my name\n[ ] Replies to real people who wrote to me personally\n[ ] Any claim about my own life, numbers or experience\n\nMoney and identity\n[ ] Payments, subscriptions, saved cards\n[ ] Passwords, 2FA, sign-ins (the bot hands me the screen)\n[ ] Permissions and sharing settings\n\nIrreversible changes\n[ ] Deleting data outside a scratch folder\n[ ] Production changes\n[ ] Killing processes on a machine doing real work\n\nOther people\n[ ] Calendar invites\n[ ] Introductions, follow-ups, anything that spends\n    someone else's attention\n\nAttention\n[ ] Deciding what deserves my evening\n[ ] Deciding when the system is allowed to interrupt me",
+              "content": "```text\nNEVER DELEGATE (even with a perfect agent)\n\nVoice and meaning\n[ ] The final yes on anything published under my name\n[ ] Replies to real people who wrote to me personally\n[ ] Any claim about my own life, numbers or experience\n\nMoney and identity\n[ ] Payments, subscriptions, saved cards\n[ ] Passwords, 2FA, sign-ins (the bot hands me the screen)\n[ ] Permissions and sharing settings\n\nIrreversible changes\n[ ] Deleting data outside a scratch folder\n[ ] Production changes\n[ ] Killing processes on a machine doing real work\n\nOther people\n[ ] Calendar invites\n[ ] Introductions, follow-ups, anything that spends\n    someone else's attention\n\nAttention\n[ ] Deciding what deserves my evening\n[ ] Deciding when the system is allowed to interrupt me\n```",
+              "language": "text"
+            },
+            {
+              "code": "NET AUTONOMY (per week, for the super admin layer)\n\n  hours returned\n    = time the bots' work would have cost me by hand\n      (recaps, drafts, triage, checks, missions dispatched)\n\n  supervision tax\n    = minutes reading cards, drafts and summaries\n    + minutes fixing or redoing what came back wrong\n    + minutes spent checking the phone \"just in case\"\n\n  NET AUTONOMY = hours returned - supervision tax\n\n  Also logged: cards answered, cards approved without\n  reading (target: 0), interruptions outside my\n  working hours (target: close to 0)",
+              "content": "```text\nNET AUTONOMY (per week, for the super admin layer)\n\n  hours returned\n    = time the bots' work would have cost me by hand\n      (recaps, drafts, triage, checks, missions dispatched)\n\n  supervision tax\n    = minutes reading cards, drafts and summaries\n    + minutes fixing or redoing what came back wrong\n    + minutes spent checking the phone \"just in case\"\n\n  NET AUTONOMY = hours returned - supervision tax\n\n  Also logged: cards answered, cards approved without\n  reading (target: 0), interruptions outside my\n  working hours (target: close to 0)\n```",
+              "language": "text"
+            },
+            {
+              "code": "# routine.yaml (one bot owns it, one job, one boundary)\nname: morning-recap\nowner: news-bot\nwhen: \"every day at 08:30 Europe/Madrid\"\ninputs:\n  - \"X: posts from my reply targets, last 24h\"\n  - \"GitHub: my new stars since last run\"\noutput:\n  where: \"my chat with this bot\"\n  format: \"max 1 screen. Sources linked. Nothing pasted from logs.\"\nboundary:\n  may: [read, search, draft]\n  never: [post, send, buy, delete, change settings]\nif_source_missing: \"say which source failed. Never reuse yesterday's data.\"\nif_nothing_new: \"stay silent. Silence is a valid report.\"\ncost_check: \"estimate runs per week before enabling. Widen the schedule first.\"\nreview: \"after the first scheduled run, read it, then decide to keep it\"",
+              "content": "```yaml\n# routine.yaml (one bot owns it, one job, one boundary)\nname: morning-recap\nowner: news-bot\nwhen: \"every day at 08:30 Europe/Madrid\"\ninputs:\n  - \"X: posts from my reply targets, last 24h\"\n  - \"GitHub: my new stars since last run\"\noutput:\n  where: \"my chat with this bot\"\n  format: \"max 1 screen. Sources linked. Nothing pasted from logs.\"\nboundary:\n  may: [read, search, draft]\n  never: [post, send, buy, delete, change settings]\nif_source_missing: \"say which source failed. Never reuse yesterday's data.\"\nif_nothing_new: \"stay silent. Silence is a valid report.\"\ncost_check: \"estimate runs per week before enabling. Widen the schedule first.\"\nreview: \"after the first scheduled run, read it, then decide to keep it\"\n```",
+              "language": "yaml"
+            },
+            {
+              "code": "ASK FIRST RULES (one action, one scope, plain words)\n\n1.  Ask first before sending any email from any account.\n2.  Ask first before posting, replying or quoting on X.\n    Draft cards only. A post goes out only after I say \"go\"\n    for that exact draft.\n3.  Ask first before running any command on any of my Macs\n    that writes, deletes, restarts or kills something.\n4.  Ask first before any change to a production deployment.\n5.  Ask first before anything that moves money, starts a\n    subscription or saves a payment method.\n6.  Ask first before inviting anyone to a calendar event.\n7.  Ask first before deleting or overwriting a file outside\n    the bot's own scratch folder.\n8.  Ask first before changing a permission, a sharing\n    setting or a login.\n9.  Ask first before following, unfollowing or commenting\n    on GitHub beyond the standing list below.\n10. Ask first before messaging a real person, by any channel.\n\nALLOW AUTOMATICALLY (narrow, read-mostly)\n\n- Read-only status checks on my machines.\n- Reading my own X likes and GitHub stars.\n- On my own GitHub account: starring repos, following a\n  capped number of builders, useful comments, as agreed.\n- Writing drafts into the bot's own folders.",
+              "content": "```text\nASK FIRST RULES (one action, one scope, plain words)\n\n1.  Ask first before sending any email from any account.\n2.  Ask first before posting, replying or quoting on X.\n    Draft cards only. A post goes out only after I say \"go\"\n    for that exact draft.\n3.  Ask first before running any command on any of my Macs\n    that writes, deletes, restarts or kills something.\n4.  Ask first before any change to a production deployment.\n5.  Ask first before anything that moves money, starts a\n    subscription or saves a payment method.\n6.  Ask first before inviting anyone to a calendar event.\n7.  Ask first before deleting or overwriting a file outside\n    the bot's own scratch folder.\n8.  Ask first before changing a permission, a sharing\n    setting or a login.\n9.  Ask first before following, unfollowing or commenting\n    on GitHub beyond the standing list below.\n10. Ask first before messaging a real person, by any channel.\n\nALLOW AUTOMATICALLY (narrow, read-mostly)\n\n- Read-only status checks on my machines.\n- Reading my own X likes and GitHub stars.\n- On my own GitHub account: starring repos, following a\n  capped number of builders, useful comments, as agreed.\n- Writing drafts into the bot's own folders.\n```",
+              "language": "text"
+            },
+            {
+              "code": "",
+              "content": "| Where | What the bots can do there | What stops for me |\n|---|---|---|\n| Cloud computer | Browse, run code, read and write files, keep logins between sessions | Signing in, CAPTCHAs, anything that needs my hand on a real step |\n| Mac Studio A and B | Send missions, run commands, check status, read short summaries | Every command on the Mac, by default (\"Ask every time\") |\n| Third Mac | Same as the Studios, lighter use | Same rule |\n| iPhone | Read and add calendar events, read and change reminders, look up contacts, read location | Each use goes through review, and the app has to be open on the phone |\n| Email (2 accounts) | Search, read, prepare drafts | Sending |\n| Calendars (2 accounts) | Read, propose, prepare events | Inviting anyone |\n| GitHub | Read repos, issues and stars; star, follow within a cap, leave useful comments on my own account | Anything beyond that narrow list |\n| Vercel, database | Read state and logs, diagnose | Production changes |\n| Stripe | Read | Anything that moves money |\n| X | Read likes, search, prepare draft posts and article drafts | Every single post and reply |",
+              "language": "none"
+            }
+          ],
+          "urls": [
+            {
+              "text": "docs.x.ai"
+            },
+            {
+              "text": "https://docs.x.ai/grok-bot/skills-routines-and-automations"
+            },
+            {
+              "text": "https://docs.x.ai/grok-bot/approvals-security-and-privacy"
+            },
+            {
+              "text": "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/"
+            },
+            {
+              "text": "https://docs.x.ai/grok-bot/approvals-security-and-privacy"
+            },
+            {
+              "text": "https://github.com/humanlayer/12-factor-agents"
+            },
+            {
+              "text": "https://docs.x.ai/grok-bot/faq"
+            },
+            {
+              "text": "https://how.complexsystems.fail/"
+            },
+            {
+              "text": "https://github.com/humanlayer/12-factor-agents"
+            },
+            {
+              "text": "https://docs.x.ai/grok-bot/skills-routines-and-automations"
+            },
+            {
+              "text": "https://docs.x.ai/grok-bot/faq"
+            },
+            {
+              "text": "https://www.anthropic.com/engineering/building-effective-agents"
+            },
+            {
+              "text": "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/"
+            },
+            {
+              "text": "https://docs.x.ai/grok-bot/mobile"
+            },
+            {
+              "text": "https://docs.x.ai/grok-bot/overview"
+            },
+            {
+              "text": "https://docs.x.ai/grok-bot/mobile"
+            }
+          ]
+        },
+        "media_entities": [
+          "3_2122285910024753153",
+          "3_2122285911249424385",
+          "3_2122285911249461248"
+        ],
+        "plain_text": "How I use Grok Bot as a super admin over my Macs, my phone and my agents, and why the button that matters most says Allow\nThe short version, if you're saving this for later:\nThe setup. One chat app on my phone and my desk reaches a cloud computer, three Macs, my iPhone and nine connected accounts. I call it my super admin layer.\nThe rule. Wide reach, narrow permission. Anything that sends, posts, buys, deletes or runs a command on one of my Macs stops as a card I have to answer.\nWhat runs alone. Routines: a morning recap, a watcher every 15 minutes, a release radar, an evening report. They prepare. They don't publish.\nFour things to copy. A device map, a set of Ask first rules, a routine template, and a \"never delegate\" list.\nThe honest part. I can't prove yet that it gives me back more hours than it costs me in reading and tapping. That's the test I'm starting this week.\n \nA super admin should reach everything and do almost nothing alone\nThis week I wrote a sentence to my own bots that turned out to be the whole design: the heavy work always stays on the Macs, and Grok Bot is my super admin that sends missions to the machines.\nBefore that, when I was trying to explain it to myself in French, I called it a shadow super admin. A kind of external god mode. Everything real runs somewhere else, on machines I own, and this one layer sits above it, sees all of it, and can reach any of it from the phone in my pocket.\n\"God mode\" sounds like power. In practice the opposite is what makes it work. The layer that can reach everything is the layer that's allowed to do the least on its own. It reads, it prepares, it dispatches, it drafts. When something would leave the system or change it for real, it stops and asks me.\nThat's the claim of this piece. A personal super admin isn't valuable because it can touch every device. It's valuable if the time it gives back is bigger than the time I spend supervising it. I call that difference Net Autonomy: the hours AI gives back, minus the supervision tax.\nReach is cheap. Permission is the product.\nThis article is the human side of the setup. The machine side, with the three layers, the usage audit and what broke, is in my previous piece, \"Decide Up, Work Down.\" Here I want to show what it looks like from where I actually sit: one chat, a phone, a few rules, and a lot of things I've decided never to hand over.\nEverything I own is one sentence away\nHere's the map. Names of projects, accounts and machines stay out on purpose. The capabilities are real and documented, and I've linked the docs at the end.\nThe core fact about Grok Bot is simple: it's an agent with its own persistent computer in the cloud, with a browser, a terminal and files. The FAQ says it plainly: \"Closing the app, laptop, or phone does not stop a background turn or routine.\" Everything else in my setup hangs off that.\nOn top of the cloud computer, I've registered my own devices. Right now that's three Macs, two of which are Mac Studios that do the heavy work, and my iPhone. Then come the connectors: two Gmail accounts, two Google Calendars, GitHub, Vercel, Stripe, a database backend, and X.\n \nA few details from the docs matter more than they look.\nThe phone is not always reachable. The mobile docs say \"The Bot can reach your phone only while Grok Bot is open on it.\" So my iPhone is a device I can talk from at any time, and a device the bots can act on only when I've opened the app. I like that limit. It means the phone is mine first.\nThe Macs ask by default. In Settings, each registered computer has a setting called Execution on this computer, with three choices: Ask every time, Always allow, Never allow. The docs set the default to Ask every time and recommend Never allow \"unless a Bot has a specific reason to work on your local files.\" That's the right instinct. Most of what I want from the Macs comes back as a summary from the machine itself, not as a bot typing commands into it.\nAnd voice is a real input. On an iPhone with an Action Button you can map it to \"Start Voice Chat\" with a Bot. I dictated the request for this very article in French, hesitations included, and the article you're reading is in English. That's what \"one sentence away\" means in practice: the distance between a thought and a mission is one message, in whatever language I happen to be thinking in.\n \nReach is cheap, permission is the product\nAnyone can wire an agent to a lot of accounts. The work is deciding what it may do without you.\nGrok Bot handles this with a layer called Auto Review. Before the bot runs a command, uses a connected app or uses its computer, the action is checked. Most actions just run. When one needs me, an approval card shows up in the chat with the operation and its inputs. I get Allow once, Always allow, or Deny. Always allow saves a rule so similar actions run on their own next time.\nThe docs are honest about the limits of that, and I'd put this sentence on the wall of anyone building agents: \"An approval controls the proposed action. It does not reverse work already completed.\" And this one: \"Auto Review is model-based and should complement, not replace, least privilege and explicit approval boundaries.\"\nSo I don't rely on the reviewer alone. I write my boundaries down. You can add up to 20 \"Ask first\" rules and up to 20 \"Allow automatically\" rules, each up to 1,000 characters. If both kinds match an action, Ask first wins. Here's the shape of mine, generalized so you can paste it.\n \nTwo rules in there carry most of the weight. The X rule exists because a public post is the most irreversible thing my system can do in a normal day. Every post is a card first, and the card can only go out after a later message from me that names it. This morning one tweet went out that way, and its source link went out the same way a bit later, as a separate tap.\nThe money rule is there because the docs are clear that a card saved in the bot's vault \"fills in at checkout without a separate approval each time.\" If you want to approve every payment, the advice is simple: don't save the card. I'd rather tap.\nThe phone isn't the remote control. The approval is.\nThere's a timing detail I didn't know until I read it. When work starts from a chat message, the card waits for my answer and doesn't expire. When a routine or another bot raises the card, it expires after about 30 minutes. That's a good default for someone who doesn't want to live on call. If I'm training, eating or listening to a record, the background ask simply lapses and gets raised again later. Nothing happens while I'm not looking.\n \nRoutines are the part that works while I'm not there\nA chat is something I start. A routine is something the system starts on its own clock. This is where a super admin earns its keep or quietly burns your week.\nThe routines docs define two triggers: a schedule, or an event such as a GitHub notification, an email to the bot's own address, a Slack message or a webhook call. Routines run in the cloud while the laptop is closed. A bot can own up to 50 of them, schedules have to be at least five minutes apart, and all your routines together can run up to 300 times an hour.\nHere are the ones my news and growth bot runs today. All in Madrid time.\n \nLook at the last column. Every routine I run prepares. None of them publishes, sends or buys. The docs say the same thing in four words, and it's the best routine advice I've read: \"Automate preparation before execution.\"\nThe watcher is the one I'm most curious about. I wanted my X likes and my GitHub stars to become work without me asking, and now they do: I like a post on my phone, and within about 15 minutes there's a draft waiting, with a source. The small honest problem is cost. Every run spends usage. In my last audit, one monitoring routine that ran every 30 minutes, about 336 times a week, cost 4% of my weekly usage by itself. The watcher runs twice as often, 96 times a day. If each run cost the same, it would be around 8% of my week. I haven't measured it yet, and the docs warn that \"an hourly schedule, a short interval, or a Slack trigger on a busy channel can use a week of usage in a day.\" It's on the list.\nHere's the template I use for any new routine. It's mostly the docs' own checklist, with two lines I added after things went wrong.\n \nThe two lines I added are the last two before review. \"If nothing new, stay silent\" comes from the companion article: my supervising bots were reading and reporting things nobody needed. The foundation dossier I wrote this year has a sentence for it: \"The best interface may sometimes be one that stays silent.\" The cost line comes from that 4% routine.\n \nMany bots, one rulebook, one shared computer\nI don't run one assistant. I run a small roster, and each bot has one job.\n \nThe roster is designed around a cost I found the hard way. In the companion piece I describe the audit: 87% of my usage came from the three bots supervising the machines, because they were reading logs and debugging things themselves. The fix was a rule: bots only decide and dispatch, and diagnosis, retries and monitoring run on the Macs, which send back short summaries. That rule is now written once in shared memory, and every bot sees it.\nShared memory is the quiet feature that makes a roster feel like one system. Each bot keeps its own conversations and role, but a few facts about me are shared by all of them, and the rules I record as shared travel with them. The \"heavy work stays on the Macs\" rule went in once, and I didn't have to repeat it bot by bot. The same goes for the skills library: a method saved once as a skill can be used by any bot that has the access it needs.\nThen there's the part of the design I want everyone to read twice. All bots on an account share one cloud computer. The docs say it in one line: \"Do not use separate Bots as a security boundary.\" Files, browser sessions and command-line credentials on that computer are available to every bot. Deleting a bot \"does not remove shared-computer files or browser sessions.\"\nSo my roster is a way to divide attention and cost, not a way to divide trust. If one bot can reach a login, assume all of them can. That's exactly why the approval rules matter more than the roster.\nWhat it changes in an ordinary day\nThe Altreality idea I keep testing is simple: machines should absorb friction so the world becomes available again. So here's the honest version of what this setup changes in a normal day, without dressing it up.\nThe day starts with something already done. The recap lands at 8:30 with the news worth my attention, the releases that matter, the posts worth answering, and a plan for the day's four posting slots. I don't open twenty tabs to build that picture. I read one screen.\nWhat I liked yesterday has already become work. A post I liked on my phone is a draft tweet with its source. A repo I starred is a short note on what it does and whether it's worth a post. I didn't write a ticket for either.\nMy decisions are mostly taps. A draft arrives, I read it, I say go or I say no. A command on a Mac shows up as a card with the exact command. I can answer from the phone. I don't need to be at a desk, and that's the real change. The desk stops being the only place where the work can move forward.\nThe heavy work happens where it should. The Mac Studios run their missions and report in a few lines. If nothing changed, I hear nothing. Silence is the report.\nThere are also things I can do that I don't want to oversell. I could start a voice chat from the Action Button while walking. I could ask the bot to move a calendar event or add a reminder from wherever I am. Those capabilities exist and I've connected the phone. Whether they return real time, or just make it easier to stay on call, is precisely what I don't know yet.\nThat last sentence is the one that matters. The foundation dossier names the trap better than I can: \"One may build agents to save time and then spend every evening managing them.\" A super admin in your pocket can become a manager in your pocket. The same phone that lets me approve a post from a walk can turn the walk into a meeting.\nMy rule for that is boring and it works for me so far: the system can wait. Background approvals expire. Routines prepare and hold. Nothing important is designed to need me within minutes. If it ever is, that's a design bug, not a reason to check the phone more often.\nWhat I never delegate\nThis is the list I'd keep even if every agent became perfect tomorrow. Copy it and cross out what doesn't fit your life.\n \nTwo notes on the list.\nSign-ins are the one place where the product already behaves the way I'd want. Bots sign in from a vault without seeing the passwords, and for steps like single sign-on, a passkey or a CAPTCHA, the bot hands me control of its computer. I do the step, press I'm done, and it continues. The docs' rule is also mine: no password, code or API key goes into an ordinary chat.\nThe last block is the one people skip. Deciding when a system is allowed to interrupt you is a delegation decision, and it's the one that shapes your day the most. Notifications can be switched off bot by bot, and that's where I'd start. If every bot can ping you, you haven't built a super admin. You've hired five interns who all have your number.\nThe strongest objection: one chat that can reach everything can break everything\nHere's the case against my setup, as fairly as I can put it.\nOne account, one cloud computer, every login on it, every bot able to use it. If something goes wrong in that layer, from a bad instruction to a page the bot reads with hidden instructions in it, the blast radius is my whole digital life. Simon Willison has a name for the dangerous combination: the lethal trifecta, an agent with access to private data, exposure to untrusted content, and a way to send data out. A super admin has all three by design.\nSecond, approvals have a cost of their own. Every card is a few seconds of my attention, and attention spent on cards is supervision tax. Too many cards and I start approving without reading, which is worse than no cards at all.\nThird, the reviewer is a model. The docs say so themselves. Model-based review is a seatbelt, not a guarantee.\nI don't think any of this is fatal, but I don't have a clean answer either. What I can say is what I do about each one.\nOn blast radius, I keep the outward channels behind Ask first rules: email, posts, messages, money, production. Reading is wide. Sending is narrow. That's the only part of the trifecta I can reliably control, so that's where the rules are strictest. I also keep the heavy, risky work on my own machines, with their own off switch, so the cloud layer mostly sends missions and reads summaries.\nOn approval fatigue, I treat a card I approve without reading as a bug. If I approve the same kind of card three times without a second thought, it either becomes a narrow Always allow rule or the action should be redesigned so it doesn't need me. The goal is fewer, better cards.\nOn the reviewer, I follow the docs' own advice, which is also old security advice: least privilege first, explicit boundaries second, model review third. Dex Horthy's 12-factor agents puts it as a design rule: agents should \"contact humans with tool calls.\" Asking me is a feature of the system, not an interruption of it.\nAnd on the bigger worry, that I've built a second job maintaining the thing that was meant to save me time, I'll repeat what I wrote this morning. The setup only earns its place if Net Autonomy is positive. I can't prove that yet.\nA super admin that can reach everything should be able to do almost nothing alone.\nNet Autonomy is the only score that counts here\nHere's how I'll score this layer. It's the same formula as everything else on this account, applied to the human side.\n \nThe third line of the supervision tax is the one I expect to hurt. Checking the phone \"just in case\" doesn't feel like work, so nobody counts it. It counts.\nHere's the commitment, with dates.\nThis week. I start the weekly Net Autonomy log for the whole setup, including this layer: cards answered, drafts accepted and rejected, minutes spent supervising, and the number of times a bot reached me when it didn't need to.\nSunday 22 November. First numbers, in public, including the bad ones.\nWhat would prove me wrong. If the supervision tax on this layer is bigger than the hours it returns for two weeks in a row, then the super admin is a hobby, not a system. I'll cut routines and bots until the number turns positive, and I'll say which ones I cut.\nThere's one more test, and it isn't a number. The foundation dossier ends its section on personal systems with a line I want to be judged by: \"Its success is not continuous monitoring; its success is having more freedom to live well without staring at a dashboard.\" If this setup makes me look at my phone more, it has failed, whatever the log says.\nThe button that matters most\nI started with a sentence about god mode. After living with it, I'd describe the setup differently.\nEvery machine I own is one sentence away. The bots can read almost anything, prepare almost anything, and dispatch missions to computers far more powerful than the phone in my hand. And the most important control in the whole system is a small card with two words on it.\nAllow. Deny.\nEverything else is plumbing. The value is that the plumbing runs while I'm training, cooking or out, and that it waits for me when it should.\nIf you run agents across more than one device, here's a question you can answer from your own week: how many approvals did you give last week without reading what you approved?\nCount hours returned, not agents running.\n \nFurther reading worth saving\nGrok Bot docs, \"Overview.\" What a bot is, the shared cloud computer, routines and voice in one page.\nGrok Bot docs, \"Approvals, security, and privacy.\" Auto Review, approval cards, Ask first rules, local computer access, and the shared-computer boundary. The most useful page if you're setting up your own super admin.\nGrok Bot docs, \"Grok Bot for Mobile.\" What a bot can do with your phone's apps, the Action Button, and why the app has to be open.\nGrok Bot docs, \"Skills and routines.\" Schedules, event triggers, limits, cost, and \"automate preparation before execution.\"\nGrok Bot docs, \"FAQ.\" Background work with the laptop closed, shared memory, and what requires approval.\nSimon Willison, \"The lethal trifecta for AI agents,\" June 2025. The best short explanation of why outward channels need the strictest rules.\nDex Horthy and HumanLayer, \"12-factor agents.\" Small, focused agents, and contacting humans with tool calls.\nAnthropic, \"Building effective agents,\" December 2024. Simple, composable patterns, and when not to use agents at all.\nRichard Cook, \"How Complex Systems Fail.\" Read it before you give any one layer access to everything.\nGareth Altreality, \"Decide Up, Work Down,\" 16 November 2026. The machine side of this setup: three layers, the 87% usage audit, and what broke.\nSources and status of each claim\nFacts (public, with links)\nGrok Bot capabilities: persistent cloud computer, background work with the laptop closed, shared computer across bots, registered computers with Execution on this computer (Ask every time by default), phone apps (calendar, contacts, location, alarms; reminders and Home on iPhone) only while the app is open, Action Button voice chat, Auto Review and approval cards, 20 Ask first and 20 Allow automatically rules of up to 1,000 characters, 30-minute expiry for background approvals, vault sign-ins and computer takeover, routines (50 per bot, five minutes apart minimum, 300 runs an hour across routines), and every quote attributed to \"the docs\": Grok Bot documentation at docs.x.ai, read 16 November 2026.\nThe lethal trifecta: Simon Willison, June 2025.\n\"Contact humans with tool calls\": 12-factor agents, HumanLayer repository.\n\"Simple, composable patterns\": Anthropic, December 2024.\nLived experience (my own setup, as of 16 November 2026)\nThree registered Macs (two Mac Studios) and an iPhone; the connectors listed; the bot roster and their jobs; the five routines and their schedules; the X draft-then-\"go\" rule and the tweet and source reply that went out that way this morning; the request for this article dictated in French.\nMy own words to my bots: heavy work stays on the Macs, Grok Bot is the super admin that sends missions; and my earlier \"shadow super admin\" description, translated from French.\nThe usage audit (87% from three supervising bots; a 30-minute routine at about 336 runs a week and 4%): from \"Decide Up, Work Down.\"\nMethod (my own frameworks)\nNet Autonomy, the supervision tax, the Ask first rules, the routine template and the never-delegate list: my proposals, not validated standards. Quotes from the foundation dossier: Altreality: The Art of Living Free, foundation dossier, November 2026.\nInterpretation\nThat permission, not reach, is where the value of a super admin sits.\nThat a roster of bots divides attention and cost, not trust.\nThat approving without reading is worse than not having approvals.\nHope and hypothesis\nThat this layer returns more hours than it costs. Unmeasured until the Net Autonomy log exists. First numbers promised for 22 November 2026.\nThe watcher's cost (about 8% of a week if it costs per run what the 30-minute routine did): an estimate, not a measurement.\nThat voice and phone actions return real time rather than making it easier to stay on call: untested.",
+        "preview_text": "How I use Grok Bot as a super admin over my Macs, my phone and my agents, and why the button that matters most says Allow\nThe short version, if you're saving this for later:\nThe setup. One chat app on",
+        "title": "One Chat, Every Machine"
+      },
+      "author_id": "1991851893803610114",
+      "conversation_id": "2122286947280245065",
+      "created_at": "2026-11-16T11:13:33.000Z",
+      "edit_history_tweet_ids": [
+        "2122286947280245065"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/i/article/2122…",
+            "end": 23,
+            "expanded_url": "https://x.com/i/article/2122286658447872000",
+            "start": 0,
+            "status": 404,
+            "unwound_url": "https://x.com/i/article/2122286658447872000",
+            "url": "https://t.co/STPBj6xGry"
+          }
+        ]
+      },
+      "id": "2122286947280245065",
+      "lang": "zxx",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 190,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "text": "https://t.co/STPBj6xGry",
+      "url": "https://x.com/Agentik_os/status/2122286947280245065"
+    },
+    {
+      "article": {
+        "cover_media": "3_2122284602496856064",
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "start": 4,
+              "username": "alibaba"
+            },
+            {
+              "end": 23,
+              "start": 15,
+              "username": "alibaba"
+            },
+            {
+              "end": 67,
+              "start": 59,
+              "username": "alibaba"
+            }
+          ],
+          "urls": [
+            {
+              "text": "https://github.com/alibaba/open-code-review"
+            },
+            {
+              "text": "https://github.com/alibaba/open-code-review/blob/main/docs/i18n/README.zh-CN.md"
+            },
+            {
+              "text": "https://open-codereview.ai/docs"
+            },
+            {
+              "text": "https://github.com/alibaba/open-code-review/blob/main/plugins/open-code-review/README.md"
+            },
+            {
+              "text": "https://huggingface.co/datasets/Alibaba-Aone/aacr-bench"
+            },
+            {
+              "text": "https://api.github.com/repos/alibaba/open-code-review"
+            },
+            {
+              "text": "https://api.npmjs.org/downloads/point/last-week/@alibaba-group/open-code-review"
+            },
+            {
+              "text": "https://github.com/trending"
+            }
+          ]
+        },
+        "media_entities": [
+          "3_2122283711563812864",
+          "3_2122283902866018304",
+          "3_2122283981697961984"
+        ],
+        "plain_text": "现在很多人写代码已经离不开AI，但AI写得越快，人越看不过来。一个功能改十几个文件，自己从头读一遍要半小时，交给Claude Code去审，它又常常只挑几个文件看，报出来的行号对不上，同一段代码问两次结论还不一样。\n这两天在GitHub上很火的阿里开源项目Open Code Review（命令叫ocr）就是专门解决这件事的。按官方说法，它原本是阿里集团内部的官方AI代码审查助手，内部用了两年，服务过数万名开发者，GitHub仓库今年5月创建。它的思路是：哪些文件要审、用什么规则审、评论落在哪一行，这些不能出错的环节交给写死的程序；真正读代码、找问题的部分才交给大模型。\n几个核实过的数字（GitHub官方接口、npm官方接口和仓库README，东京时间2026年11月16日晚查询）：\n星标52,585，Fork 4,224，当天GitHub Trending日榜新增691星\n仓库创建于2026年5月18日，最新版v1.13.10发布于东京时间11月15日，11月5日到15日之间连发了5个版本\nnpm包@alibaba-group/open-code-review在11月9日到15日这一周下载175,982次\n官方基准：从50个热门开源仓库挑出200个真实PR，覆盖10种语言，由80多位资深工程师标注出1,505个真实缺陷\n协议为Apache-2.0，可以商用\n这篇对照官方README、中文文档和命令行帮助整理。不需要模型的那部分功能（预览送审文件、查看和自定义审查规则），我在自己的Linux机器上装了v1.13.10，用一个演示项目实际跑了一遍，文中的命令输出都来自这次运行。",
+        "preview_text": "现在很多人写代码已经离不开AI，但AI写得越快，人越看不过来。一个功能改十几个文件，自己从头读一遍要半小时，交给Claude Code去审，它又常常只挑几个文件看，报出来的行号对不上，同一段代码问两次结论还不一样。",
+        "title": "让AI替你逐行审代码：阿里开源Open Code Review从安装到复用Claude Code订阅的完整教程"
+      },
+      "author_id": "1978103983819661312",
+      "conversation_id": "2122284099297804418",
+      "created_at": "2026-11-16T11:02:14.000Z",
+      "edit_history_tweet_ids": [
+        "2122284099297804418"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/i/article/2122…",
+            "end": 23,
+            "expanded_url": "https://x.com/i/article/2122283407908450304",
+            "start": 0,
+            "status": 404,
+            "unwound_url": "https://x.com/i/article/2122283407908450304",
+            "url": "https://t.co/N3RFf7nIX4"
+          }
+        ]
+      },
+      "id": "2122284099297804418",
+      "lang": "zxx",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 13,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "https://t.co/N3RFf7nIX4",
+      "url": "https://x.com/Genen7a/status/2122284099297804418"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122254790554189824"
+        ]
+      },
+      "author_id": "2081543669363163136",
+      "conversation_id": "2122254820807790897",
+      "created_at": "2026-11-16T09:05:53.000Z",
+      "edit_history_tweet_ids": [
+        "2122254820807790897"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/kIyXZlcILE",
+            "end": 301,
+            "expanded_url": "https://x.com/mohua_coder/status/2122254820807790897/video/1",
+            "media_key": "13_2122254790554189824",
+            "start": 278,
+            "url": "https://t.co/kIyXZlcILE"
+          }
+        ]
+      },
+      "id": "2122254820807790897",
+      "lang": "en",
+      "note_tweet": {
+        "text": "🚨 The creator of shadcn/ui just fixed the one problem with Fable 5.2: the price.\n\nFable 5.2 costs $40 per million output tokens. Most people burn it on work a cheap model could do.\n\nHis new skill, /improve, splits the job in two:\n🧠 Fable = the brain\n→ Maps your entire codebase\n→ Audits it and ranks what's worth fixing\n→ Writes one self-contained plan per fix\n🖐️ Cheaper model = the hands\n→ Picks up a plan\n→ Builds it in an isolated copy of your repo\n→ Fable reviews the diff against the plan and gives a verdict\n\nThe expensive model never writes the code. It only does the part where intelligence compounds.\n\n⭐ 10,500 GitHub stars. Free.\nInstall it, open your repo with Fable 5.2, and type:\n/improve\nRepo below ↓"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 24,
+        "impression_count": 1889,
+        "like_count": 134,
+        "quote_count": 0,
+        "reply_count": 10,
+        "retweet_count": 119
+      },
+      "text": "🚨 The creator of shadcn/ui just fixed the one problem with Fable 5.2: the price.\n\nFable 5.2 costs $40 per million output tokens. Most people burn it on work a cheap model could do.\n\nHis new skill, /improve, splits the job in two:\n🧠 Fable = the brain\n→ Maps your entire codebase https://t.co/kIyXZlcILE",
+      "url": "https://x.com/mohua_coder/status/2122254820807790897"
+    },
+    {
+      "author_id": "1369901073696051202",
+      "conversation_id": "2122251315451400674",
+      "created_at": "2026-11-16T08:51:57.000Z",
+      "edit_history_tweet_ids": [
+        "2122251315451400674"
+      ],
+      "id": "2122251315451400674",
+      "lang": "vi",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/GoogleChrome/m…",
+              "end": 662,
+              "expanded_url": "https://github.com/GoogleChrome/modern-web-guidance",
+              "start": 639,
+              "url": "https://t.co/aObAUGxxAi"
+            }
+          ]
+        },
+        "text": "Google Chrome mới chia sẻ cái Skill xịn vãi, vừa ra là lên top 1 GitHub trending luôn.\n\n- 6 ngày 19 nghìn Star.\n\nGửi cho AI của bạn:\n\n1. Cài đặt: npx modern-web-guidance@latest install\n\n2. Sử dụng:\n\nDùng Modern Web Guidance rà soát và cải thiện website của tôi..\n\nhoặc\n\nTạo cho tôi website về \"abcd\" theo phong cách tối giản, chuẩn modern..\n\nBạn sẽ có 1 trang web chạy nhanh hơn, hiện đại hơn, cải thiện trải nghiệm người dùng tốt hơn nhiều\n\nTrong đó: Tích hợp hơn 200+ bộ hướng dẫn chuyên môn từ chuyên gia và khả năng cải thiện mã nguồn cũ, giúp nâng tỷ lệ AI có thể triển khai các sản phẩm Web hiện đại từ khoảng 60% lên 80-90%.\n\nRepo: https://t.co/aObAUGxxAi"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 143,
+        "impression_count": 10985,
+        "like_count": 132,
+        "quote_count": 0,
+        "reply_count": 13,
+        "retweet_count": 40
+      },
+      "text": "Google Chrome mới chia sẻ cái Skill xịn vãi, vừa ra là lên top 1 GitHub trending luôn.\n\n- 6 ngày 19 nghìn Star.\n\nGửi cho AI của bạn:\n\n1. Cài đặt: npx modern-web-guidance@latest install\n\n2. Sử dụng:\n\nDùng Modern Web Guidance rà soát và cải thiện website của tôi..",
+      "url": "https://x.com/solotop999/status/2122251315451400674"
+    },
+    {
+      "article": {
+        "entities": {
+          "urls": [
+            {
+              "text": "https://godseyeview.ai"
+            },
+            {
+              "text": "https://github.com/bilawalsidhu/gods-eye-view"
+            },
+            {
+              "text": "https://github.com/bilawalsidhu/gods-eye-view"
+            },
+            {
+              "text": "https://abs.twimg.com/emoji/v2/svg/1f396.svg"
+            },
+            {
+              "text": "https://abs.twimg.com/emoji/v2/svg/1f5e3.svg"
+            },
+            {
+              "text": "https://abs.twimg.com/emoji/v2/svg/1f447.svg"
+            },
+            {
+              "text": "https://abs.twimg.com/emoji/v2/svg/1f6f0.svg"
+            },
+            {
+              "text": "https://abs.twimg.com/emoji/v2/svg/1f310.svg"
+            },
+            {
+              "text": "https://abs.twimg.com/emoji/v2/svg/2708.svg"
+            },
+            {
+              "text": "https://godseyeview.ai/"
+            },
+            {
+              "text": "https://abs.twimg.com/emoji/v2/svg/1f6e9.svg"
+            }
+          ]
+        },
+        "plain_text": "登顶 GitHub Trending 第一、狂揽 65.2k+（超 6.5 万）Star 的神级开源项目：God's Eye View（上帝视角） 🌐🛰️\n作者的一句话介绍帅炸了：“一个在浏览器里运行的间谍卫星模拟器——只不过里面所有的数据全都是真实的！”\n它把全球正在广播的所有公开信号（OSINT），全融进了一颗照片级逼真的 3D 地球仪里：\n✈️ 万物皆可实时追踪：点击全球任意一架航班、一艘远洋货轮、一颗 Starlink 卫星、甚至城市公交或公开街头摄像头，立刻调出完整遥测轨迹； 🛩️ 一键坐进真实航班驾驶舱：放大拉近后，图标会变成 122 种 1:1 真实比例 3D 模型，甚至能直接切入驾驶舱视角第一人称看风景； 🎖️ 好莱坞《谍影重重》战术 HUD：一键切换 FLIR 红外热成像 / NVG 夜视仪 / 军事目标框选 滤镜，一秒穿越进中情局指挥中心； 🗣️ 直接开口向地球提问 + MCP 接入：用语音让它在地图上圈出火点、查询卫星过境时间，还能通过 MCP Server 接入你的 Claude Code 协同分析！\n无需申请任何 API Key，支持 Pinokio 一键安装或 Docker 本地运行，MIT 全开源 👇 项目官网：https://godseyeview.aiGitHub 仓库：https://github.com/bilawalsidhu/gods-eye-view",
+        "preview_text": "登顶 GitHub Trending 第一、狂揽 65.2k+（超 6.5 万）Star 的神级开源项目：God's Eye View（上帝视角） 🌐🛰️\n作者的一句话介绍帅炸了：“一个在浏览器里运行的间谍卫星模拟器——只不过里面所有的数据全都是真实的！”",
+        "title": "登顶 GitHub Trending 第一、狂揽 65.2k+（超 6.5 万）Star 的神级开源项目：God's Eye View（上帝视角） "
+      },
+      "author_id": "1529797669945999360",
+      "conversation_id": "2122250259766165763",
+      "created_at": "2026-11-16T08:47:46.000Z",
+      "edit_history_tweet_ids": [
+        "2122250259766165763"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/i/article/2122…",
+            "end": 23,
+            "expanded_url": "https://x.com/i/article/2122250167193919488",
+            "start": 0,
+            "status": 404,
+            "unwound_url": "https://x.com/i/article/2122250167193919488",
+            "url": "https://t.co/hVZoBXPggZ"
+          }
+        ]
+      },
+      "id": "2122250259766165763",
+      "lang": "zxx",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 93,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "https://t.co/hVZoBXPggZ",
+      "url": "https://x.com/huangho75845189/status/2122250259766165763"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122249834115780609"
+        ]
+      },
+      "author_id": "2854025058",
+      "conversation_id": "2122249845897621846",
+      "created_at": "2026-11-16T08:46:07.000Z",
+      "edit_history_tweet_ids": [
+        "2122249845897621846"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/sUXA6Mv7np",
+            "end": 300,
+            "expanded_url": "https://x.com/Viho_Huangg/status/2122249845897621846/photo/1",
+            "media_key": "3_2122249834115780609",
+            "start": 277,
+            "url": "https://t.co/sUXA6Mv7np"
+          }
+        ]
+      },
+      "id": "2122249845897621846",
+      "lang": "en",
+      "note_tweet": {
+        "text": "Tencent's coding-agent factory is trending on GitHub today, and developers noticed fast. LoopForge gained 423 stars in a day, a 26% jump on a repo that only had 1,600 stars to begin with. It is a self-hosted workspace where a team ships software with coding agents: describe a need in chat, and it opens a Docker sandbox, checks out repos, delegates to project roles, and opens the pull request. The workflows that prove themselves get saved as standard operating procedures, with human approval gates built in. It works with CodeBuddy, Codex, Claude Code, OpenCode, Cursor CLI, and Antigravity. The bet is simple. Agents do the building. Humans keep the keys."
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 36,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "text": "Tencent's coding-agent factory is trending on GitHub today, and developers noticed fast. LoopForge gained 423 stars in a day, a 26% jump on a repo that only had 1,600 stars to begin with. It is a self-hosted workspace where a team ships software with coding agents: describe a https://t.co/sUXA6Mv7np",
+      "url": "https://x.com/Viho_Huangg/status/2122249845897621846"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2122461284994084865",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXR_Sx2XcAEorPK.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2122461022812553216",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXR_DhJawAAYN-j.jpg",
+        "width": 2048
+      },
+      {
+        "height": 547,
+        "media_key": "3_2122405306512941056",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRMYZwboAAviWO.png",
+        "width": 883
+      },
+      {
+        "height": 900,
+        "media_key": "3_2122422190419173376",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRbvLNXYAAYgH9.jpg",
+        "width": 1600
+      },
+      {
+        "height": 630,
+        "media_key": "3_2122391200850444288",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXQ_jWEbAAA6Jqo.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1681,
+        "media_key": "3_2122388267521765376",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXQ84mkXcAAQL8T.jpg",
+        "width": 1170
+      },
+      {
+        "duration_ms": 30000,
+        "height": 1350,
+        "media_key": "13_2122337141531279360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122337141531279360/img/rN_WL9py_HLxwmqk.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122337141531279360/vid/avc1/480x600/OzjNl749-TX00A0A.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122337141531279360/vid/avc1/320x400/Lm7dvrANZJ-_7YOw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122337141531279360/vid/avc1/720x900/Ouexy-0O95v1jH9f.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122337141531279360/vid/avc1/1080x1350/WSl5nv_d1OLjwQI9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122337141531279360/pl/3P1dG2DAs5zLYifx.m3u8"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 1350,
+        "media_key": "3_2121939077259837441",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXKkWScXwAEc2yF.png",
+        "width": 1080
+      },
+      {
+        "height": 1254,
+        "media_key": "3_2122305720444194816",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXPxzuvbEAAtyzg.jpg",
+        "width": 1254
+      },
+      {
+        "duration_ms": 16746,
+        "height": 1080,
+        "media_key": "13_2122303360321675264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122303360321675264/img/oc-EbI2Bhz8O-Q-R.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122303360321675264/pl/jaoUewpyE744nufo.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122303360321675264/vid/avc1/1920x1080/Xw6tVD1kvvnPF-Gi.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122303360321675264/vid/avc1/480x270/Ml-PBSBBDNFVkTYv.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122303360321675264/vid/avc1/640x360/JGyGnd16BlqRAhGs.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122303360321675264/vid/avc1/1280x720/j8hBcZgXb-vx52r4.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "height": 932,
+        "media_key": "3_2122282428840697856",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXPcn-waYAAf5GD.jpg",
+        "width": 1414
+      },
+      {
+        "height": 512,
+        "media_key": "3_2122285890978369536",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXPfxgOW0AA0uIq.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1800,
+        "media_key": "3_2122285910024753153",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXPfynLXkAEUTHi.jpg",
+        "width": 2400
+      },
+      {
+        "height": 720,
+        "media_key": "3_2122285911249424385",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXPfyrvWkAEs0EX.jpg",
+        "width": 1280
+      },
+      {
+        "height": 720,
+        "media_key": "3_2122285911249461248",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXPfyrvXIAAOAl5.jpg",
+        "width": 1280
+      },
+      {
+        "height": 600,
+        "media_key": "3_2122284602496856064",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXPemgQbMAAoWJs.jpg",
+        "width": 1500
+      },
+      {
+        "height": 1350,
+        "media_key": "3_2122283711563812864",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXPdypRb0AAamUm.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1422,
+        "media_key": "3_2122283902866018304",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXPd9x7b0AAgfx1.jpg",
+        "width": 1800
+      },
+      {
+        "height": 1452,
+        "media_key": "3_2122283981697961984",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXPeCXmb0AAhluc.jpg",
+        "width": 1800
+      },
+      {
+        "duration_ms": 10000,
+        "height": 1080,
+        "media_key": "13_2122254790554189824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122254790554189824/img/SKHASQWaJygeW8SP.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122254790554189824/pl/IjQpUcGjXoheyrMm.m3u8"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122254790554189824/vid/avc1/320x320/pkgAoVC2rAZj8MbW.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122254790554189824/vid/avc1/540x540/iUIkYQpzkAfrBTKY.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122254790554189824/vid/avc1/1080x1080/jjFS7ewwhWUltIXr.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122254790554189824/vid/avc1/720x720/U5P3NEuBhcfq3THH.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 1350,
+        "media_key": "3_2122249834115780609",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXO--t8aUAEdfyY.jpg",
+        "width": 2400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {
+          "cover_media": "3_2113910726519652353",
+          "entities": {
+            "code": [
+              {
+                "code": "/plugin marketplace add ruvnet/ruflo",
+                "content": "```\n/plugin marketplace add ruvnet/ruflo\n```",
+                "language": "none"
+              },
+              {
+                "code": "npx skills add https://github.com/Leonxlnx/taste-skill --skill \"design-taste-frontend\"",
+                "content": "```\nnpx skills add https://github.com/Leonxlnx/taste-skill --skill \"design-taste-frontend\"\n```",
+                "language": "none"
+              },
+              {
+                "code": "npx @caveman-ai/cli@latest",
+                "content": "```\nnpx @caveman-ai/cli@latest\n```",
+                "language": "none"
+              },
+              {
+                "code": "npx skills add remotion-dev/skills",
+                "content": "```\nnpx skills add remotion-dev/skills\n```",
+                "language": "none"
+              },
+              {
+                "code": "npx impeccable install",
+                "content": "```\nnpx impeccable install\n```",
+                "language": "none"
+              },
+              {
+                "code": "npx claude-mem install",
+                "content": "```\nnpx claude-mem install\n```",
+                "language": "none"
+              },
+              {
+                "code": "npx skills add wheresryan22/anatomy -g",
+                "content": "```\nnpx skills add wheresryan22/anatomy -g\n```",
+                "language": "none"
+              },
+              {
+                "code": "/plugin install superpowers@claude-plugins-official",
+                "content": "```\n/plugin install superpowers@claude-plugins-official\n```",
+                "language": "none"
+              },
+              {
+                "code": "/plugin marketplace add anthropics/skills\n/plugin install example-skills@anthropic-agent-skills",
+                "content": "```\n/plugin marketplace add anthropics/skills\n/plugin install example-skills@anthropic-agent-skills\n```",
+                "language": "none"
+              },
+              {
+                "code": "/plugin install example-skills@anthropic-agent-skills",
+                "content": "```\n/plugin install example-skills@anthropic-agent-skills\n```",
+                "language": "none"
+              }
+            ]
+          },
+          "media_entities": [
+            "3_2113911642232680448",
+            "3_2113912012753244160",
+            "3_2113911184164278272",
+            "3_2113912205670330368",
+            "3_2113911326531604481",
+            "3_2113911074508488704",
+            "3_2113912311874228224",
+            "3_2113912434800910336",
+            "3_2113911496434503680",
+            "3_2113910932652937216"
+          ],
+          "plain_text": "996,807 stars. That's what these ten repos add up to on GitHub today.\nMost \"best Claude skills\" lists are a few months old, and in this space that's a long time. Anatomy didn't exist until October 8. Caveman and Taste Skill have been rebuilt since the spring. Every repo on this list was updated this month.\nFor each one: what it does, according to its own README, the install line, and when to reach for it.\nBookmark this. You'll want it the next time Claude hands you something that looks like everyone else's.\n1. Superpowers · 304K ★\nA full development method, not a prompt pack. Before writing code, the agent asks what you're actually trying to build, shows you the spec in short chunks, writes a plan with real red/green TDD, then runs the plan with subagents that review each other's work.\nThe README says it's not uncommon for the agent to work on its own for a couple of hours without drifting from the plan.\n \nUse it when: you're building something real and Claude keeps jumping straight into code.\n \n2. Frontend Design · Anthropic\nAnthropic's own design skill, and the one Impeccable grew out of. Claude works as the design lead of a studio: it grounds the page in its subject, picks typefaces on purpose, and avoids the commonest tells of a generated page. The skill even lists them, from one italic word in the headline to a cream background with a terracotta accent.\n \nUse it when: you need a landing page, dashboard or site that doesn't look generated.\n \n3. Caveman · 115K ★\nMakes your agent say less and read less, with the code kept exact. Version 4 has six parts: shorter answers, compressed logs and JSON before the model reads them, automatic model and effort choice, and reusable scripts.\nIts README measures 63 tokens down to 20 for the same fix, 33.2% fewer input tokens per session, and 54% cheaper than Opus at xhigh at the same score.\n \nUse it when: your bill or your context window is the problem, not the model.\n \n4. Claude-Mem · 103K ★\nMemory across sessions. It records what the agent does while it works, compresses it into summaries, and feeds the relevant parts back into the next session, so Claude stops rediscovering your project every morning.\n \nUse it when: you work on the same codebase every day and keep re-explaining it.\n \n5. Taste Skill · 102K ★\nGives coding agents taste for websites and app screens. It works from an art direction, finds real photographs in open archives (credited), and checks its own pages in a real browser instead of trusting the code.\n \nUse it when: Frontend Design gets you a direction but the page still feels assembled.\n \n6. Impeccable · 86K ★\nA design vocabulary you share with the agent: 24 commands like polish, audit, critique, distill, bolder and quieter, plus 62 deterministic rules that catch the usual AI tells (Inter everywhere, cards inside cards, grey text on colour) without calling any model.\nIt started from Anthropic's Frontend Design and grew from there.\n \nUse it when: you already have a UI and want it reviewed and tightened, not rebuilt.\n \n7. Ruflo · 79K ★\nAn agent meta-harness for Claude Code and Codex: swarms of agents, coordinated workflows, a console to watch them, and mods that add routing and policy inside Claude Code. The README asks you to review the mods before installing, since they run with your account's permissions.\n \nUse it when: one agent isn't enough and you want several working in parallel.\n \n8. Anatomy · 20K ★\nThe most visual skill on this list. Ask how something works, and it invents a real machine whose working is the answer, then draws it as a detailed, shaded isometric figure with a live readout. A cache key becomes a pin-tumbler lock. It checks its own drawing by zooming in on every joint.\n \nUse it when: you need to explain a technical idea in an article, docs or a landing page.\n \n9. Remotion Agent Skills · 5.6K ★\nThe official skills from Remotion, the framework for making videos in React. They teach the agent compositions, animation timing, captions, audio and rendering, so \"make me a promo video\" ends in an MP4, not a broken timeline.\n \nUse it when: you want video out of Claude, from code, with every frame under control.\n \n10. Skill Creator · Anthropic\nThe skill that writes skills. It turns your own workflow into a skill Claude follows every time, then tests it with evals and benchmarks so you know it actually triggers and actually helps.\n \nUse it when: you catch yourself typing the same instructions into Claude for the third time.\n \nWhere to start\nIf you install only three: Superpowers for how Claude works, one design skill (Frontend Design, Taste or Impeccable) for how its output looks, and Caveman for what it costs.\nStar counts and install lines are from each repo as of this week. Check the README before installing anything that runs with your permissions.\nBookmark this so you don't lose it.",
+          "preview_text": "996,807 stars. That's what these ten repos add up to on GitHub today.\nMost \"best Claude skills\" lists are a few months old, and in this space that's a long time. Anatomy didn't exist until October 8.",
+          "title": "10 Claude Skills With Almost a Million GitHub Stars Between Them"
+        },
+        "author_id": "941477061733912576",
+        "conversation_id": "2113939185350357347",
+        "created_at": "2026-10-24T10:22:31.000Z",
+        "edit_history_tweet_ids": [
+          "2113939185350357347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2113…",
+              "end": 183,
+              "expanded_url": "https://x.com/i/article/2113910431345479680",
+              "start": 160,
+              "status": 404,
+              "unwound_url": "https://x.com/i/article/2113910431345479680",
+              "url": "https://t.co/uHZcfBNS3a"
+            }
+          ]
+        },
+        "id": "2113939185350357347",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 13241,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "text": "996,807 GitHub stars across 10 Claude skills.\n\nWhat each one does, the install line, and when to reach for it. Every repo was updated this month.\n\nBookmark it. https://t.co/uHZcfBNS3a"
+      }
+    ],
+    "users": [
+      {
+        "id": "1665335769538392064",
+        "name": "Gul Saeed Khattak",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063281035014500352/3hpG3G0Q_normal.jpg",
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 655,
+          "like_count": 1286,
+          "listed_count": 5,
+          "media_count": 358,
+          "tweet_count": 2270
+        },
+        "username": "Ldataengineer",
+        "verified": false
+      },
+      {
+        "id": "1139151813796433922",
+        "name": "Ariya Ai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2111170555772903424/6MgAVyl8_normal.png",
+        "public_metrics": {
+          "followers_count": 9871,
+          "following_count": 2,
+          "like_count": 117,
+          "listed_count": 9,
+          "media_count": 20,
+          "tweet_count": 90
+        },
+        "username": "ariyahere0",
+        "verified": false
+      },
+      {
+        "id": "1589939053964980224",
+        "name": "Nathan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117373667650961408/7dPRbe6o_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2636,
+          "following_count": 445,
+          "like_count": 6437,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 7611
+        },
+        "username": "therealnaathan",
+        "verified": false
+      },
+      {
+        "id": "1908014421538123779",
+        "name": "lorde",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908880021143588864/xdlioiV__normal.jpg",
+        "public_metrics": {
+          "followers_count": 5235,
+          "following_count": 5172,
+          "like_count": 12404,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 13119
+        },
+        "username": "bb833dong",
+        "verified": false
+      },
+      {
+        "id": "1834299124469927937",
+        "name": "O1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119631004344238080/QmkcOkJL_normal.jpg",
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 89,
+          "like_count": 161,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 360
+        },
+        "username": "O1labs_io",
+        "verified": false
+      },
+      {
+        "id": "12536122",
+        "name": "Laban",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839577422104260608/J3uhPqeW_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1147,
+          "following_count": 850,
+          "like_count": 37530,
+          "listed_count": 17,
+          "media_count": 2132,
+          "tweet_count": 25524
+        },
+        "username": "lunkertw",
+        "verified": false
+      },
+      {
+        "id": "1127414967257329664",
+        "name": "潜水员Balance",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029578499141644288/sh44YqFl_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3735,
+          "following_count": 2076,
+          "like_count": 5615,
+          "listed_count": 22,
+          "media_count": 785,
+          "tweet_count": 7108
+        },
+        "username": "balance0014",
+        "verified": false
+      },
+      {
+        "id": "2104164755011158016",
+        "name": "Javi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110447437378723840/03_A2jxF_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1383,
+          "following_count": 1012,
+          "like_count": 3137,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 3081
+        },
+        "username": "Javimbuilds",
+        "verified": false
+      },
+      {
+        "id": "1464965267830804482",
+        "name": "Valeriy M., PhD, MBA, CQF",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1499279697024364547/tEb-KUVo_normal.jpg",
+        "public_metrics": {
+          "followers_count": 47781,
+          "following_count": 7871,
+          "like_count": 24729,
+          "listed_count": 539,
+          "media_count": 10642,
+          "tweet_count": 47298
+        },
+        "username": "predict_addict",
+        "verified": false
+      },
+      {
+        "id": "2116854702214103040",
+        "name": "AI Future Daily",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116859741561384960/S654p0f3_normal.jpg",
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 18,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 267
+        },
+        "username": "AIFutureWire",
+        "verified": false
+      },
+      {
+        "id": "941477061733912576",
+        "name": "Kern",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110398682034012160/CjFJv03R_normal.jpg",
+        "public_metrics": {
+          "followers_count": 31687,
+          "following_count": 453,
+          "like_count": 2692,
+          "listed_count": 42,
+          "media_count": 492,
+          "tweet_count": 2179
+        },
+        "username": "0x_kern",
+        "verified": false
+      },
+      {
+        "id": "2940391392",
+        "name": "OhyeahX | ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961717702042787840/LWiSizH-_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2077,
+          "following_count": 1748,
+          "like_count": 14467,
+          "listed_count": 7,
+          "media_count": 1415,
+          "tweet_count": 14103
+        },
+        "username": "ohyeahx1",
+        "verified": false
+      },
+      {
+        "id": "1095351344083492866",
+        "name": "GPS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117350812770816000/RZSRR7_4_normal.jpg",
+        "public_metrics": {
+          "followers_count": 34289,
+          "following_count": 559,
+          "like_count": 71930,
+          "listed_count": 277,
+          "media_count": 1085,
+          "tweet_count": 12388
+        },
+        "username": "madebygps",
+        "verified": false
+      },
+      {
+        "id": "1819537097528950784",
+        "name": "9h0st",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052686507262283777/CtPBSDri_normal.jpg",
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 815,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 668,
+          "tweet_count": 4266
+        },
+        "username": "condJ78561",
+        "verified": false
+      },
+      {
+        "id": "2095359712179232768",
+        "name": "Marcus | Daily AI Tips",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120862756983455744/QrT6xZzu_normal.jpg",
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 76,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 136
+        },
+        "username": "MarcusLee0619",
+        "verified": false
+      },
+      {
+        "id": "266259493",
+        "name": "Prasenjit Sarkar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966979113316409344/BkqBhdQb_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3960,
+          "following_count": 995,
+          "like_count": 3213,
+          "listed_count": 131,
+          "media_count": 1127,
+          "tweet_count": 15871
+        },
+        "username": "stretchcloud",
+        "verified": false
+      },
+      {
+        "id": "1738431145564573696",
+        "name": "Rakib Hossen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108160427335221248/aq8dLF6o_normal.jpg",
+        "public_metrics": {
+          "followers_count": 5571,
+          "following_count": 146,
+          "like_count": 34446,
+          "listed_count": 34,
+          "media_count": 390,
+          "tweet_count": 32598
+        },
+        "username": "rakib_hossen_ai",
+        "verified": false
+      },
+      {
+        "id": "1903275142957932544",
+        "name": "Isagii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118034064078782464/d68V1P8n_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1860,
+          "following_count": 485,
+          "like_count": 24270,
+          "listed_count": 22,
+          "media_count": 515,
+          "tweet_count": 23360
+        },
+        "username": "isagi1000x",
+        "verified": false
+      },
+      {
+        "id": "2607498030",
+        "name": "pipi.md",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099233772378238976/bqSmUcXm_normal.jpg",
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 132,
+          "like_count": 1705,
+          "listed_count": 1,
+          "media_count": 238,
+          "tweet_count": 677
+        },
+        "username": "0xpipimd",
+        "verified": false
+      },
+      {
+        "id": "1991851893803610114",
+        "name": "Gareth ⌥ Agentik {OS}",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091078064071405568/jpOTABwf_normal.jpg",
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 708,
+          "like_count": 1225,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 364
+        },
+        "username": "Agentik_os",
+        "verified": false
+      },
+      {
+        "id": "1978103983819661312",
+        "name": "Gene 陈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115385189690138624/MD2jKOke_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 1399,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 885
+        },
+        "username": "Genen7a",
+        "verified": false
+      },
+      {
+        "id": "2081543669363163136",
+        "name": "mohona",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118421265337991168/TVPr8Gfe_normal.jpg",
+        "public_metrics": {
+          "followers_count": 10444,
+          "following_count": 6544,
+          "like_count": 6113,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 2743
+        },
+        "username": "mohua_coder",
+        "verified": false
+      },
+      {
+        "id": "1369901073696051202",
+        "name": "Solo Top",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935173319080529920/zF0FVwlL_normal.jpg",
+        "public_metrics": {
+          "followers_count": 23749,
+          "following_count": 4882,
+          "like_count": 63364,
+          "listed_count": 191,
+          "media_count": 4114,
+          "tweet_count": 44057
+        },
+        "username": "solotop999",
+        "verified": false
+      },
+      {
+        "id": "1529797669945999360",
+        "name": "XiXi_Aurora",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120924289516064768/iLWZ8DlU_normal.jpg",
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 1307,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 662
+        },
+        "username": "huangho75845189",
+        "verified": false
+      },
+      {
+        "id": "2854025058",
+        "name": "Viho.AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1576138830335610881/X90b056T_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 930,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 250,
+          "tweet_count": 550
+        },
+        "username": "Viho_Huangg",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122476560296931504",
+    "next_token": "b26v89c19zqg8o3juzow6dbwtpoiwdapmceyvzh8hoozh",
+    "oldest_id": "2122249845897621846",
+    "result_count": 25
+  }
+}

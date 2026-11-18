@@ -1,0 +1,313 @@
+{
+  "data": [
+    {
+      "author_id": "1915346463762374658",
+      "created_at": "2026-11-16T14:55:30.000Z",
+      "edit_history_tweet_ids": [
+        "2122342805687451869"
+      ],
+      "id": "2122342805687451869",
+      "in_reply_to_user_id": "1760502863854460928",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122206097683648745",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GeekCatX 这工具来得正是时候，写 skill 全靠手感真不行，先拿自己的几个 skill 跑一遍看看分",
+      "url": "https://x.com/yetuantuan168/status/2122342805687451869"
+    },
+    {
+      "author_id": "1341560664658071553",
+      "created_at": "2026-11-16T06:59:10.000Z",
+      "edit_history_tweet_ids": [
+        "2122222932919484478"
+      ],
+      "id": "2122222932919484478",
+      "in_reply_to_user_id": "1760502863854460928",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122206097683648745",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GeekCatX README 还区分了两件事：quality-check 不用模型和扫描器，但不算完整安全检查；完整 Tier 1 即使加 --no-llm，扫描器跑不起来也会标 INCOMPLETE。",
+      "url": "https://x.com/ziziran2/status/2122222932919484478"
+    },
+    {
+      "author_id": "2116814577694539776",
+      "created_at": "2026-11-16T06:16:09.000Z",
+      "edit_history_tweet_ids": [
+        "2122212107215380597"
+      ],
+      "id": "2122212107215380597",
+      "in_reply_to_user_id": "1760502863854460928",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122206097683648745",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GeekCatX Skill打分分三层这设计好，回关",
+      "url": "https://x.com/NNYYC12/status/2122212107215380597"
+    },
+    {
+      "author_id": "1793230114206982144",
+      "created_at": "2026-11-16T06:00:20.000Z",
+      "edit_history_tweet_ids": [
+        "2122208126732845077"
+      ],
+      "id": "2122208126732845077",
+      "in_reply_to_user_id": "1760502863854460928",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 80,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122206097683648745",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GeekCatX skill市场该出个大众点评",
+      "url": "https://x.com/aaugeART/status/2122208126732845077"
+    },
+    {
+      "author_id": "1947116786643857408",
+      "created_at": "2026-11-16T05:58:51.000Z",
+      "edit_history_tweet_ids": [
+        "2122207753385222432"
+      ],
+      "id": "2122207753385222432",
+      "in_reply_to_user_id": "1760502863854460928",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 69,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122206097683648745",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GeekCatX “不需要消耗 API key”这句我多看了一眼，上次 skill 空转把额度烧得心慌，行吧，我把手机扣过去了",
+      "url": "https://x.com/luoyike2003/status/2122207753385222432"
+    },
+    {
+      "author_id": "2032151681711161351",
+      "created_at": "2026-11-16T05:56:56.000Z",
+      "edit_history_tweet_ids": [
+        "2122207271409074207"
+      ],
+      "id": "2122207271409074207",
+      "in_reply_to_user_id": "1760502863854460928",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 53,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122206097683648745",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GeekCatX Skill 这块终于有人做评测了",
+      "url": "https://x.com/KlofL91123/status/2122207271409074207"
+    },
+    {
+      "author_id": "1760502863854460928",
+      "created_at": "2026-11-16T05:52:46.000Z",
+      "edit_history_tweet_ids": [
+        "2122206220245442634"
+      ],
+      "id": "2122206220245442634",
+      "in_reply_to_user_id": "1760502863854460928",
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 543,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122206097683648745",
+          "type": "replied_to"
+        }
+      ],
+      "text": "项目开源仓库地址： https://t.co/pxCuf9SNKY\n写复杂 Agent 指令集或者打算商用 Skill 的兄弟，建议拿这个自测一遍格式兼容性和死锁逻辑。",
+      "url": "https://x.com/GeekCatX/status/2122206220245442634"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1760502863854460928",
+        "created_at": "2026-11-16T05:52:17.000Z",
+        "edit_history_tweet_ids": [
+          "2122206097683648745"
+        ],
+        "id": "2122206097683648745",
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 3810,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "text": "天天折腾 Agent 和写 Skill 的兄弟们注意了，NVIDIA 搞了个照妖镜开源工具：SkillEvaluator。\n\n专门给各家 agent skill 跑体检打分，Apache-2.0 协议，逻辑分了三层：\n\n第一层：查语法规范、安全性，以及能不能被主流 agent 正常加载，完全不需要消耗 API key。"
+      }
+    ],
+    "users": [
+      {
+        "id": "1915346463762374658",
+        "name": "阿锋｜AI创业日记",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118908456514289664/ZUn6KaNi_normal.jpg",
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 74,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 87
+        },
+        "username": "yetuantuan168",
+        "verified": false
+      },
+      {
+        "id": "1341560664658071553",
+        "name": "ziziran",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117562925585985536/vjQhKlSz_normal.jpg",
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 1347,
+          "like_count": 1816,
+          "listed_count": 7,
+          "media_count": 171,
+          "tweet_count": 1920
+        },
+        "username": "ziziran2",
+        "verified": false
+      },
+      {
+        "id": "2116814577694539776",
+        "name": "嘟嘟牛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117567773123710976/B68KYvY0_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 1915,
+          "like_count": 2000,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2578
+        },
+        "username": "NNYYC12",
+        "verified": false
+      },
+      {
+        "id": "1793230114206982144",
+        "name": "Tan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815375148872273920/4fas0WS__normal.jpg",
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 191,
+          "like_count": 2089,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 2449
+        },
+        "username": "aaugeART",
+        "verified": false
+      },
+      {
+        "id": "1947116786643857408",
+        "name": "洛一可🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947591148782166016/RagPmesg_normal.jpg",
+        "public_metrics": {
+          "followers_count": 7699,
+          "following_count": 3797,
+          "like_count": 4918,
+          "listed_count": 7,
+          "media_count": 327,
+          "tweet_count": 6827
+        },
+        "username": "luoyike2003",
+        "verified": false
+      },
+      {
+        "id": "2032151681711161351",
+        "name": "夜猫研究所",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2111210326763110400/_eFup3yG_normal.jpg",
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 568,
+          "like_count": 580,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 2371
+        },
+        "username": "KlofL91123",
+        "verified": false
+      },
+      {
+        "id": "1760502863854460928",
+        "name": "知识猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069337800160493568/gwKnHrWD_normal.jpg",
+        "public_metrics": {
+          "followers_count": 34059,
+          "following_count": 1561,
+          "like_count": 9914,
+          "listed_count": 251,
+          "media_count": 1535,
+          "tweet_count": 8957
+        },
+        "username": "GeekCatX",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122342805687451869",
+    "next_token": "b26v89c19zqg8o3juzow6dapjf15uch6isl743h0zwu4d",
+    "oldest_id": "2122206220245442634",
+    "result_count": 7
+  }
+}

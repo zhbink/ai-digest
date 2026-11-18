@@ -1,0 +1,641 @@
+{
+  "data": [
+    {
+      "author_id": "4756567844",
+      "conversation_id": "2122194803907875075",
+      "created_at": "2026-11-16T21:31:59.000Z",
+      "edit_history_tweet_ids": [
+        "2122442584178258289"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1760502863854460928",
+            "start": 0,
+            "username": "GeekCatX"
+          }
+        ]
+      },
+      "id": "2122442584178258289",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 43,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122194803907875075",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GeekCatX ✏️以前一步一停地等日志，工具来回切着实费工夫，换成一次把多个调用并起来跑，思路是不一样",
+      "url": "https://x.com/cloudi66/status/2122442584178258289"
+    },
+    {
+      "author_id": "2023578710486773763",
+      "conversation_id": "2122194803907875075",
+      "created_at": "2026-11-16T14:48:38.000Z",
+      "edit_history_tweet_ids": [
+        "2122341078036832476"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1760502863854460928",
+            "start": 0,
+            "username": "GeekCatX"
+          }
+        ]
+      },
+      "id": "2122341078036832476",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 207,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122194803907875075",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GeekCatX 桌面端能不能用啊？",
+      "url": "https://x.com/JinSi387/status/2122341078036832476"
+    },
+    {
+      "author_id": "2051647851823022080",
+      "conversation_id": "2122194803907875075",
+      "created_at": "2026-11-16T14:40:18.000Z",
+      "edit_history_tweet_ids": [
+        "2122338980368994646"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1760502863854460928",
+            "start": 0,
+            "username": "GeekCatX"
+          }
+        ]
+      },
+      "id": "2122338980368994646",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 204,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122194803907875075",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GeekCatX 这交互要是真不卡壳就爽了",
+      "url": "https://x.com/Wavequester/status/2122338980368994646"
+    },
+    {
+      "author_id": "1720665183188922368",
+      "conversation_id": "2122194803907875075",
+      "created_at": "2026-11-16T10:01:21.000Z",
+      "edit_history_tweet_ids": [
+        "2122268777513357529"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "1041689736878780418",
+            "start": 0,
+            "username": "dogourd"
+          },
+          {
+            "end": 18,
+            "id": "1760502863854460928",
+            "start": 9,
+            "username": "GeekCatX"
+          }
+        ]
+      },
+      "id": "2122268777513357529",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "不是同一个，但核心思路一样。\n\nPTC是Claude API的功能：Claude写Python，在远程沙箱里编排调用你的自定义工具，中间结果不进上下文。\n\nCode Mode是Claude Code终端的实验开关：Claude写JavaScript，直接在本地会话里打包调用Bash/Read/Edit，支持并行和结果管道。\n\n一个面向API工具，一个面向本地编码工作流。"
+      },
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 49,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122268672031113613",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dogourd @GeekCatX 不是同一个，但核心思路一样。\n\nPTC是Claude API的功能：Claude写Python，在远程沙箱里编排调用你的自定义工具，中间结果不进上下文。\n\nCode Mode是Claude Code终端的实验开关：Claude写JavaScript，直接在本地会话里打包调用Bash/Read/Edit，支持并行和结果管道。",
+      "url": "https://x.com/grok/status/2122268777513357529"
+    },
+    {
+      "author_id": "1041689736878780418",
+      "conversation_id": "2122194803907875075",
+      "created_at": "2026-11-16T10:00:55.000Z",
+      "edit_history_tweet_ids": [
+        "2122268672031113613"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1760502863854460928",
+            "start": 0,
+            "username": "GeekCatX"
+          },
+          {
+            "end": 15,
+            "id": "1720665183188922368",
+            "start": 10,
+            "username": "grok"
+          }
+        ]
+      },
+      "id": "2122268672031113613",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 344,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122194803907875075",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GeekCatX @grok 这个不是之前的PTC吗？有什么区别吗？",
+      "url": "https://x.com/dogourd/status/2122268672031113613"
+    },
+    {
+      "author_id": "917638155313934337",
+      "conversation_id": "2122194803907875075",
+      "created_at": "2026-11-16T09:15:02.000Z",
+      "edit_history_tweet_ids": [
+        "2122257121916133776"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1760502863854460928",
+            "start": 0,
+            "username": "GeekCatX"
+          }
+        ]
+      },
+      "id": "2122257121916133776",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 323,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122194803907875075",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GeekCatX 恢复会话只能在终端里，这个限制没法忍",
+      "url": "https://x.com/Cao_huaye/status/2122257121916133776"
+    },
+    {
+      "author_id": "2087941714300506117",
+      "conversation_id": "2122194803907875075",
+      "created_at": "2026-11-16T06:21:38.000Z",
+      "edit_history_tweet_ids": [
+        "2122213484939337930"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1760502863854460928",
+            "start": 0,
+            "username": "GeekCatX"
+          }
+        ]
+      },
+      "id": "2122213484939337930",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 251,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122194803907875075",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GeekCatX Code Mode sounds like a huge efficiency upgrade for Claude",
+      "url": "https://x.com/ClaraOnAI/status/2122213484939337930"
+    },
+    {
+      "author_id": "1637638120173879296",
+      "conversation_id": "2122194803907875075",
+      "created_at": "2026-11-16T06:02:15.000Z",
+      "edit_history_tweet_ids": [
+        "2122208608603848984"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1760502863854460928",
+            "start": 0,
+            "username": "GeekCatX"
+          }
+        ]
+      },
+      "id": "2122208608603848984",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122194803907875075",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GeekCatX 打包成一段脚本以后中间日志也少了 出错时最好让它把每一步的中间结果写到文件里 不然只看到最后一个报错 不知道是哪一步坏的",
+      "url": "https://x.com/winston13111/status/2122208608603848984"
+    },
+    {
+      "author_id": "521045675",
+      "conversation_id": "2122194803907875075",
+      "created_at": "2026-11-16T05:53:45.000Z",
+      "edit_history_tweet_ids": [
+        "2122206467910722029"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1760502863854460928",
+            "start": 0,
+            "username": "GeekCatX"
+          }
+        ]
+      },
+      "id": "2122206467910722029",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "来回跑 Bash、每次吐一堆日志再停下来想下一步，这个便秘感我太熟了。它改成自己写一段 JS 把多步串起来，还自动滤掉杂音，听着能省不少往返。你说批量重构、深层目录搜索特别值，我想先拿改一批文件名这种小事试。想问下 auto 模式审的是整段脚本，你实际开的时候，是先在小目录里试，还是权限会先收紧一档？"
+      },
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 333,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122194803907875075",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GeekCatX 来回跑 Bash、每次吐一堆日志再停下来想下一步，这个便秘感我太熟了。它改成自己写一段 JS 把多步串起来，还自动滤掉杂音，听着能省不少往返。你说批量重构、深层目录搜索特别值，我想先拿改一批文件名这种小事试。想问下 auto",
+      "url": "https://x.com/yc000009/status/2122206467910722029"
+    },
+    {
+      "author_id": "1760502863854460928",
+      "conversation_id": "2122194803907875075",
+      "created_at": "2026-11-16T05:07:51.000Z",
+      "edit_history_tweet_ids": [
+        "2122194919368647102"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Try Code Mode, an experimental feature in which Claude writes JavaScript that makes several tool calls in one step.",
+            "display_url": "code.claude.com/docs/en/code-m…",
+            "end": 39,
+            "expanded_url": "https://code.claude.com/docs/en/code-mode",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2121305960778215424/6XKIXSi3?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2121305960778215424/6XKIXSi3?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 16,
+            "status": 200,
+            "title": "Run tool calls from code with Code Mode - Claude Code Docs",
+            "unwound_url": "https://code.claude.com/docs/en/code-mode",
+            "url": "https://t.co/4MLLKjyppm"
+          }
+        ]
+      },
+      "id": "2122194919368647102",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 867,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122194803907875075",
+          "type": "replied_to"
+        }
+      ],
+      "text": "官方文档和开启参数放在这里了： https://t.co/4MLLKjyppm\n建议先在带 git 的干净分支里测，别直接在生产环境裸跑。",
+      "url": "https://x.com/GeekCatX/status/2122194919368647102"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122194479495168000"
+          ]
+        },
+        "author_id": "1760502863854460928",
+        "conversation_id": "2122194803907875075",
+        "created_at": "2026-11-16T05:07:24.000Z",
+        "edit_history_tweet_ids": [
+          "2122194803907875075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7BrIZGPXB3",
+              "end": 173,
+              "expanded_url": "https://x.com/GeekCatX/status/2122194803907875075/photo/1",
+              "media_key": "3_2122194479495168000",
+              "start": 150,
+              "url": "https://t.co/7BrIZGPXB3"
+            }
+          ]
+        },
+        "id": "2122194803907875075",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "Claude  悄悄上线了一个极其硬核的实验开关：Code Mode。\n\n以前用它干活，兄弟们肯定体会过那种便秘感： \n发一条指令，它跑一次 Bash，吐一堆长日志，再停下来分析下一步。不仅来回往返巨耗时间，上下文 token 也在疯狂空转。\n\n开了 Code Mode 后，它的干活逻辑完全变了： 它不再单步敲命令，而是自己在后台写一段 JavaScript，直接把多步工具调用打包串联起来：\n\n- 多条命令可以并行跑\n- 上一步的输出直接在内存管道喂给下一步\n- 自动过滤杂音，只把关键结果读回上下文\n\n门槛先交代清楚： 版本需在 v2.1.323 以上，默认关闭，通过环境变量 CLAUDE_CODE_EXPERIMENTAL_CODE_MODE 打开；目前仅支持终端交互会话，模型支持 Opus 5.5 / Sonnet 5.5 / Haiku 5.5 / Fable 5.2 等。\n\n猫哥的实测判断： \n批量重构一堆文件、在深层目录做过滤搜索，开这个能省下大把往返时间和额度。 但老程序员必须提醒一句：auto 模式下它审的是整段 JS 脚本，不再逐个确认具体命令，权限一定要自己把好关，别手滑把本地环境给批处理了。"
+        },
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 10526,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 4
+        },
+        "text": "Claude  悄悄上线了一个极其硬核的实验开关：Code Mode。\n\n以前用它干活，兄弟们肯定体会过那种便秘感： \n发一条指令，它跑一次 Bash，吐一堆长日志，再停下来分析下一步。不仅来回往返巨耗时间，上下文 token 也在疯狂空转。\n\n开了 Code Mode 后，它的干活逻辑完全变了： https://t.co/7BrIZGPXB3"
+      },
+      {
+        "author_id": "1041689736878780418",
+        "conversation_id": "2122194803907875075",
+        "created_at": "2026-11-16T10:00:55.000Z",
+        "edit_history_tweet_ids": [
+          "2122268672031113613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1760502863854460928",
+              "start": 0,
+              "username": "GeekCatX"
+            },
+            {
+              "end": 15,
+              "id": "1720665183188922368",
+              "start": 10,
+              "username": "grok"
+            }
+          ]
+        },
+        "id": "2122268672031113613",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 344,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122194803907875075",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@GeekCatX @grok 这个不是之前的PTC吗？有什么区别吗？"
+      }
+    ],
+    "users": [
+      {
+        "id": "4756567844",
+        "name": "流云Cloud",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067009413416992768/md6rHW7y_normal.jpg",
+        "public_metrics": {
+          "followers_count": 7875,
+          "following_count": 6623,
+          "like_count": 16719,
+          "listed_count": 8,
+          "media_count": 2795,
+          "tweet_count": 32938
+        },
+        "username": "cloudi66",
+        "verified": false
+      },
+      {
+        "id": "2023578710486773763",
+        "name": "也许在捣鼓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107292835359657986/tNx3dLS1_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 14,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 9
+        },
+        "username": "JinSi387",
+        "verified": false
+      },
+      {
+        "id": "2051647851823022080",
+        "name": "WQ哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056256502126817280/GfPWdh9D_normal.jpg",
+        "public_metrics": {
+          "followers_count": 6229,
+          "following_count": 6459,
+          "like_count": 9027,
+          "listed_count": 3,
+          "media_count": 146,
+          "tweet_count": 11262
+        },
+        "username": "Wavequester",
+        "verified": false
+      },
+      {
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "public_metrics": {
+          "followers_count": 9411739,
+          "following_count": 4,
+          "like_count": 146,
+          "listed_count": 8206,
+          "media_count": 4088825,
+          "tweet_count": 149954713
+        },
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "id": "1041689736878780418",
+        "name": "dogourd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1042007014388330498/jX3Th--p_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 15,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "dogourd",
+        "verified": false
+      },
+      {
+        "id": "917638155313934337",
+        "name": "老曹不太忙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104314272117563392/QqHZbLGS_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3385,
+          "following_count": 2931,
+          "like_count": 345,
+          "listed_count": 2,
+          "media_count": 380,
+          "tweet_count": 4986
+        },
+        "username": "Cao_huaye",
+        "verified": false
+      },
+      {
+        "id": "2087941714300506117",
+        "name": "Clara AI | Tools & Updates",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103205668178317312/_fBDuHW5_normal.jpg",
+        "public_metrics": {
+          "followers_count": 21106,
+          "following_count": 1179,
+          "like_count": 3906,
+          "listed_count": 6,
+          "media_count": 6,
+          "tweet_count": 4013
+        },
+        "username": "ClaraOnAI",
+        "verified": false
+      },
+      {
+        "id": "1637638120173879296",
+        "name": "Winston",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902548032576745474/T1ZczIeP_normal.jpg",
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 167,
+          "like_count": 834,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 1350
+        },
+        "username": "winston13111",
+        "verified": false
+      },
+      {
+        "id": "521045675",
+        "name": "洋葱｜AI会员代充｜TRX能量",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119263889531826176/XFXuOWNy_normal.jpg",
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 503,
+          "like_count": 40,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 270
+        },
+        "username": "yc000009",
+        "verified": false
+      },
+      {
+        "id": "1760502863854460928",
+        "name": "知识猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069337800160493568/gwKnHrWD_normal.jpg",
+        "public_metrics": {
+          "followers_count": 34058,
+          "following_count": 1561,
+          "like_count": 9914,
+          "listed_count": 251,
+          "media_count": 1535,
+          "tweet_count": 8957
+        },
+        "username": "GeekCatX",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122442584178258289",
+    "next_token": "b26v89c19zqg8o3juzow6b8oexoxnys2btjccyfiy9lz1",
+    "oldest_id": "2122194919368647102",
+    "result_count": 10
+  }
+}

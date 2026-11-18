@@ -1,0 +1,2204 @@
+{
+  "data": [
+    {
+      "author_id": "1495628449779957760",
+      "conversation_id": "2122491218500239744",
+      "created_at": "2026-11-17T00:45:15.000Z",
+      "edit_history_tweet_ids": [
+        "2122491218500239744"
+      ],
+      "id": "2122491218500239744",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/mvanhorn/last3…",
+              "end": 439,
+              "expanded_url": "https://github.com/mvanhorn/last30days-skill",
+              "start": 416,
+              "url": "https://t.co/pSdMWG5jUf"
+            },
+            {
+              "display_url": "github.com/ifixai-ai/iFix…",
+              "end": 744,
+              "expanded_url": "https://github.com/ifixai-ai/iFixAi",
+              "start": 721,
+              "url": "https://t.co/IOBt5ckGa5"
+            },
+            {
+              "display_url": "github.com/elie222/rakazo",
+              "end": 983,
+              "expanded_url": "https://github.com/elie222/rakazo",
+              "start": 960,
+              "url": "https://t.co/LhoBM1T2AG"
+            },
+            {
+              "display_url": "github.com/google-researc…",
+              "end": 1283,
+              "expanded_url": "https://github.com/google-research/paper-orchestra",
+              "start": 1260,
+              "url": "https://t.co/AmIW5fmyff"
+            },
+            {
+              "display_url": "github.com/superdesigndev…",
+              "end": 1605,
+              "expanded_url": "https://github.com/superdesigndev/treg",
+              "start": 1582,
+              "url": "https://t.co/dIy2LpXHCd"
+            }
+          ]
+        },
+        "text": "GitHub 早報 11/17\n\nlast30days-skill 剛發 v4.2.0 , README 列了 30 個來源 , 其中 Reddit、HN、Polymarket、GitHub 這 4 個不用金鑰就能先跑\n\n1. mvanhorn/last30days-skill | 67,904 星\n\n給 coding agent 用的研究 skill。丟一個主題 , 它同時去 Reddit、X、YouTube、HN、Polymarket 等來源搜最近 30 天的討論 , 整理成附出處、照互動排序的摘要。11/16 剛發 v4.2.0。\n\nReddit、HN、Polymarket、GitHub 不用設定就能跑 ; X、YouTube、TikTok 這些要另外給金鑰、登入瀏覽器或裝 CLI。可以在 Claude Code 加 marketplace 裝插件 , 也能裝到 Codex 和 Cursor 這類 agent。\n\nhttps://t.co/pSdMWG5jUf\n\n2. ifixai-ai/iFixAi | 46,014 星\n\n檢查 AI agent 行為的稽核工具。把你的 agent 放進模擬的業務情境 , 丟它真實會遇到的請求 , 包括想把它推出職責範圍的那種 , 再由另一家模型當評審逐則打分。\n\n預設跑 10 項檢查 , 加 --full-run 跑完整 61 項 , 最後從編造、欺騙等五個面向給 A 到 F 的等級。先跑內建示範不用 API key ; 正式檢查要準備另一家供應商的評審模型金鑰 , 不能跟你的 agent 同一家。照 README 用 pip 安裝 , 要 Python 3.10 以上。\n\nhttps://t.co/IOBt5ckGa5\n\n3. elie222/rakazo | 8,784 星\n\nREADME 自稱開源、可自架的 Grok Bot 替代方案。每個 bot 有自己的記憶和例行工作 , 還配一台電腦 , 能開瀏覽器、終端機和檔案 ; 你可以看它做事 , 也能接手登入再交還給它。\n\n模型用你自己的金鑰。照 README 用官方 Docker 映像自架 , 之後從網頁、桌面 App 或手機 App 都能用 , 介面有 15 種語言 , 含繁體中文。\n\nhttps://t.co/LhoBM1T2AG\n\n4. google-research/paper-orchestra | 1,137 星\n\nGoogle Research 的多 agent 論文寫作框架。把你的想法和實驗紀錄交給 5 種 agent 分工 : 大綱、文獻回顧、分段寫作、內容修潤、畫圖 , 產出套用會議模板的 LaTeX 稿。\n\n要自備 LLM 的 API 金鑰。照 README 建 Python 3.11 環境 , 在 .env 填金鑰 , 再指定你的素材資料夾和 LaTeX 模板。README 註明它不是 Google 官方支援的產品 , 評測用的資料集也還沒放進倉庫。\n\nhttps://t.co/AmIW5fmyff\n\n5. superdesigndev/treg | 8,151 星\n\n標題寫自己是「工具版的 OpenRouter」: agent 只要一個網址、一張 token , 就能呼叫目錄裡各家的工具 , 像搜尋、爬網頁、查公司資料。團隊也能共用自己的金鑰 , 金鑰留在伺服器上。\n\n不需要供應商金鑰的公開路線免費 ; 用 treg 自己的金鑰 , 就從團隊預付的餘額按次扣 , 新驗證的帳號送 1 美元額度。最新版本還是 v1.0.0-beta.2。授權是 Apache 2.0 加額外條款 , 不能拿去架對外競爭的托管服務。可以裝官方 CLI 登入 , 或在 Claude Code 加它的插件。\n\nhttps://t.co/dIy2LpXHCd"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "GitHub 早報 11/17\n\nlast30days-skill 剛發 v4.2.0 , README 列了 30 個來源 , 其中 Reddit、HN、Polymarket、GitHub 這 4 個不用金鑰就能先跑\n\n1. mvanhorn/last30days-skill | 67,904 星\n\n給 coding agent 用的研究 skill。丟一個主題 , 它同時去 Reddit、X、YouTube、HN、Polymarket 等來源搜最近",
+      "url": "https://x.com/Kent60921_0x/status/2122491218500239744"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122490927491194880"
+        ]
+      },
+      "author_id": "1830139999209340929",
+      "conversation_id": "2122490960148037829",
+      "created_at": "2026-11-17T00:44:13.000Z",
+      "edit_history_tweet_ids": [
+        "2122490960148037829"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/YtUbq6xiyG",
+            "end": 143,
+            "expanded_url": "https://x.com/bencongyyds/status/2122490960148037829/photo/1",
+            "media_key": "3_2122490927491194880",
+            "start": 120,
+            "url": "https://t.co/YtUbq6xiyG"
+          }
+        ]
+      },
+      "id": "2122490960148037829",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "做 Agent 别只靠暴力重试硬扛长链条中断，分层状态快照与断点续跑才是应对网络超时与节点崩溃的容灾中枢。长任务智能体若在末尾崩溃，从头重跑不仅空耗算力，还会导致非幂等工具重复执行。引入周期快照与局部重放，才能让长程任务在故障时无缝恢复。 https://t.co/YtUbq6xiyG",
+      "url": "https://x.com/bencongyyds/status/2122490960148037829"
+    },
+    {
+      "article": {
+        "cover_media": "3_2122489578053656576",
+        "entities": {
+          "tweets": [
+            {
+              "id": "2122217770314301469"
+            }
+          ],
+          "urls": [
+            {
+              "text": "https://www.kocpc.com.tw/archives/703645"
+            }
+          ]
+        },
+        "media_entities": [
+          "3_2122490132007915520",
+          "3_2122490049120116736",
+          "3_2122489818680864768"
+        ],
+        "plain_text": "中國騰訊 11 月 16 日深夜在混元 官方帳號 宣佈推出 Hy4 flash，這是混元 Hy4 系列第一個掛上 Flash 名號的模型，主打「最便宜的日常生產力模型」。官方宣稱在人類盲測中，它的日常辦公表現接近 Anthropic 的 Claude Haiku 5.5，單個任務的成本卻只有對方的十八分之一。API 定價壓到每百萬 token 輸入 0.07 美元（約人民幣 0.5 元、新台幣 2.2 元）、輸出 0.281 美元（約 2 元、新台幣 8.8 元）、快取命中 0.003 美元（約 0.02 元、新台幣 0.1 元）。 以下模型效能與成本數字均來自騰訊官方發布及內部測試，並非獨立第三方評測；實際費用會隨工作負載與定價變動。\n來源貼文：騰訊混元官方公布 Hy4 flash，以下保留原始發布貼文，方便對照官方說法。\n \n224B 總參數、激活只有 12B\nHy4 flash 總參數 224B，其中 64B 是 Engram 查找式參數，每個 token 推理時實際激活的只有 12B。對照旗艦版 Hy4 的 770B 總參數、49B 激活參數，規模明顯縮小。它與 Hy4 一樣原生支援多模態輸入，上下文窗口同樣達到 100 萬 token。\n價格差距在定價表上看得最清楚。Hy4 旗艦的 API 牌價是輸入 0.834 美元、輸出 2.501 美元、快取 0.042 美元每百萬 token，Hy4 flash 的對應數字大約是十二分之一、九分之一與十五分之一。\n \n四個環節的降本手法\n騰訊把降本拆成預訓練、後訓練、評估、推理四個環節。官方部落格把每一環的優化逐條列出，從預訓練架構、後訓練蒸餾與強化學習、內部評估到推理解碼都有對應動作。預訓練階段，Hy4 flash 整合混合注意力、LatentMoE 與 Engram 三種架構，把 KV cache 體積壓到 Hy3 的二十四分之一、Hy4 的六分之一。官方部落格寫明這些架構選擇經過大量 scaling ladder 實驗，確認效能符合預期。後訓練階段先從 Hy4 自蒸餾建立基礎通用能力，再用強化學習把端到端任務的平均輸出長度砍掉一半，輸出長度變短，計費金額與等待時間跟著一起降。推理端則用 megakernel、4-bit 量化與 DFly 把解碼速度推過每秒 150 token，支撐大規模低成本服務，也讓低價模型可以長時間跑大量代理任務。\n評估環節是這次發布最特別的設計。騰訊自建內部標尺 WorkIndex，共 8 組評測，涵蓋簡報建立、簡報編輯、人機協作寫簡報、Markdown 人機共創、文件編輯、試算表修復、音訊/視訊處理與視覺理解，再搭配人工評分，評的是產出品質、單輪輸出長度與任務完成時間，公開榜分數排在其次。同一份評估也保留 7 組公開 agent 標竿當對照組，包括 DeepSWE、ProgramBench、Terminal-Bench 4.0、APEX-Agents、AutomationBench、HLE 與 OSWorld 2.1。\n成本帳：單任務價格降到 Hy4 的二十分之一上下\n在 WorkIndex 上，騰訊給出的數字是 Hy4 flash 的整體任務表現略高於參數多三倍的 Hy4 preview，單任務平均成本只剩 Hy4 preview 的十三分之一、Hy4 的二十分之一，約為 DeepSeek-V4.1-Flash-1017 最高檔忙時定價的八分之一。換成具體數字：協作 PPT 編輯評測裡 Hy4 flash 得 74.0 分，低於 Hy4 的 78.9 分，但單任務成本從 1.714 元（約 0.26 美元、新台幣 8.2 元）降到 0.105 元（約 0.016 美元、新台幣 0.5 元）；自動化任務分數從 56.2 微降到 52.2，單任務成本從 0.908 元降到 0.038 元。\n \n盲測部分，騰訊讓 85 名內部 WorkBuddy 使用者在 27 個類別、259 項任務上做雙盲評分，Hy4 flash 的使用者滿意度接近 Claude Haiku 5.5，單任務成本與完成時間都是參測模型裡最低、最短。\n代價寫在明面上：複雜任務差一大截\n騰訊沒有只報喜。在 Terminal-Bench 4.0 終端操作測驗，Hy4 flash 得 19.2 分，Hy4 是 44.4 分；ProgramBench 寫碼測驗從 30.0 掉到 16.0，差距超過四成。官方部落格也明確建議：深度搜尋、文件處理、簡報建立、簡單前端展示、computer use 這類日常任務交給 Hy4 flash，長程軟體工程之類複雜工作繼續用 Hy4，因為旗艦版智慧上限較高。WorkBuddy 團隊的評估也承認長編碼工作流比 Hy4 略有下滑。\n \n產品全線接入，並承諾開放權重\nHy4 flash 已經上線騰訊雲 TokenHub、WorkBuddy、元寶、企業微信、QQ、ima、Marvis 等騰訊產品線，並將在近期登上 OpenRouter。到 11 月 30 日為止，WorkBuddy 使用者可免費使用，TokenHub 的 API 打五折。元寶產品負責人 Logan 給出的內部數字是：在元寶工作流裡 Hy4 flash 的 agent 表現比 Hy3 提升 13.6%，人機並排 GSB 評估進步 7.56%，一般對話勝過 GLM-5.3-Flash 2.52%，多輪對話改善最明顯，元寶團隊把亮點歸在任務完成度更完整、資訊呈現更清楚、輸出更可靠。\n騰訊還承諾把 Hy4 flash 以開放權重形式發布，並持續更新。開放權重之後，低價的影響會從雲端定價延伸到自建算力，企業與開發者可以自己把模型架起來。以每百萬輸出 token 2 元人民幣（約 8.8 元新台幣）的定價對比 Claude Haiku 5.5 同級的美元定價，騰訊瞄準的是高頻、大量、單價低的日常代理工作負載。Wharton 與 Accenture 同期發布的研究也提到，多數 AI agent 任務用不到前沿模型，低價模型的市場空間正在擴大。Hy4 flash 是不是真能兌現「平替 Haiku」的說法，要等 OpenRouter 上架、第三方跑分與開放權重落地才有定論。\n原文來源\nhttps://www.kocpc.com.tw/archives/703645",
+        "preview_text": "中國騰訊 11 月 16 日深夜在混元 官方帳號 宣佈推出 Hy4 flash，這是混元 Hy4 系列第一個掛上 Flash 名號的模型，主打「最便宜的日常生產力模型」。官方宣稱在人類盲測中，它的日常辦公表現接近 Anthropic 的 Claude",
+        "title": "騰訊混元推出 Hy4 flash：激活參數只有 12B，號稱日常工作任務成本降到旗艦版二十分之一"
+      },
+      "author_id": "48303979",
+      "conversation_id": "2122490699933511862",
+      "created_at": "2026-11-17T00:43:11.000Z",
+      "edit_history_tweet_ids": [
+        "2122490699933511862"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/i/article/2122…",
+            "end": 144,
+            "expanded_url": "https://x.com/i/article/2122489325099335680",
+            "start": 121,
+            "status": 404,
+            "unwound_url": "https://x.com/i/article/2122489325099335680",
+            "url": "https://t.co/Ys6ehRSO1I"
+          }
+        ]
+      },
+      "id": "2122490699933511862",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 24,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "騰訊混元推出 Hy4 flash，主打低成本日常 AI 工作：224B 總參數，每次推理只啟用 12B。官方測試號稱任務成本約為旗艦版二十分之一，但複雜編碼表現也明顯下滑。本文整理架構、定價、圖表與適用範圍，並保留官方測試及限期優惠的條件。 https://t.co/Ys6ehRSO1I",
+      "url": "https://x.com/kocpc/status/2122490699933511862"
+    },
+    {
+      "author_id": "1719557293040377856",
+      "conversation_id": "2122490592915804374",
+      "created_at": "2026-11-17T00:42:45.000Z",
+      "edit_history_tweet_ids": [
+        "2122490592915804374"
+      ],
+      "id": "2122490592915804374",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "hashtags": [
+            {
+              "end": 344,
+              "start": 333,
+              "tag": "ClaudeCode"
+            },
+            {
+              "end": 348,
+              "start": 345,
+              "tag": "AI"
+            },
+            {
+              "end": 355,
+              "start": 349,
+              "tag": "Agent"
+            },
+            {
+              "end": 359,
+              "start": 356,
+              "tag": "开源"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "github.com/altsang/claude…",
+              "end": 295,
+              "expanded_url": "https://github.com/altsang/claude-tandem",
+              "start": 272,
+              "url": "https://t.co/ekt7996rcH"
+            }
+          ]
+        },
+        "text": "Claude 额度用完想换账号，最麻烦的不是登录，而是之前的项目上下文接不上。\n\nClaude Tandem，专门解决这个问题。\n\n主要功能：\n\n多个 Claude 账号同时运行，不用反复登录\n每个账号独立管理会话和登录状态\n不同账号之间共享 Skills、配置和插件\n账号之间交接项目，保留文件、记忆和任务摘要\n支持不同 Mac 之间迁移项目，并记录当前由谁接手\n\n提供 macOS 菜单栏和 CLI，支持 Claude 桌面端与 Claude Code。\n\n需要注意： 交接的是项目文件、记忆和任务摘要，不是完整聊天记录。\n\nGitHub：https://t.co/ekt7996rcH\n\n你更需要多账号并行运行，还是一个账号额度用完后，能直接换号继续干活？\n\n#ClaudeCode #AI #Agent #开源"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 15,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "Claude 额度用完想换账号，最麻烦的不是登录，而是之前的项目上下文接不上。\n\nClaude Tandem，专门解决这个问题。\n\n主要功能：\n\n多个 Claude 账号同时运行，不用反复登录\n每个账号独立管理会话和登录状态\n不同账号之间共享 Skills、配置和插件\n账号之间交接项目，保留文件、记忆和任务摘要\n支持不同",
+      "url": "https://x.com/TiagerBao/status/2122490592915804374"
+    },
+    {
+      "author_id": "1624246851582169089",
+      "conversation_id": "2122490151356051801",
+      "created_at": "2026-11-17T00:41:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122490151356051801"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/AravSrinivas/s…",
+            "end": 170,
+            "expanded_url": "https://x.com/AravSrinivas/status/2122411451092807926",
+            "start": 147,
+            "url": "https://t.co/hF7VB2ynrX"
+          }
+        ]
+      },
+      "id": "2122490151356051801",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "alibabacloud.com/en/press-room/…",
+              "end": 547,
+              "expanded_url": "https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max",
+              "start": 524,
+              "url": "https://t.co/ieukkjssY7"
+            },
+            {
+              "display_url": "x.com/Alibaba_Qwen/s…",
+              "end": 576,
+              "expanded_url": "https://x.com/Alibaba_Qwen/status/2122148131982946642",
+              "start": 553,
+              "url": "https://t.co/6pjzTQmqLp"
+            },
+            {
+              "display_url": "artificialanalysis.ai/models/qwen4-m…",
+              "end": 605,
+              "expanded_url": "https://artificialanalysis.ai/models/qwen4-max",
+              "start": 582,
+              "url": "https://t.co/D2qlYqUxLE"
+            },
+            {
+              "display_url": "openai.com/index/more-way…",
+              "end": 1102,
+              "expanded_url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare/",
+              "start": 1079,
+              "url": "https://t.co/XAIwPMRQip"
+            },
+            {
+              "display_url": "openai.com/index/advancin…",
+              "end": 1131,
+              "expanded_url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
+              "start": 1108,
+              "url": "https://t.co/pImspAZ4FU"
+            },
+            {
+              "display_url": "openai.com/index/expandin…",
+              "end": 1160,
+              "expanded_url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers/",
+              "start": 1137,
+              "url": "https://t.co/SmLEY48OBk"
+            },
+            {
+              "display_url": "openai.com/index/our-firs…",
+              "end": 1189,
+              "expanded_url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+              "start": 1166,
+              "url": "https://t.co/pmL3coQx1d"
+            },
+            {
+              "display_url": "huggingface.co/blog/openrouter",
+              "end": 1474,
+              "expanded_url": "https://huggingface.co/blog/openrouter",
+              "start": 1451,
+              "url": "https://t.co/738xy2lXjq"
+            },
+            {
+              "display_url": "openrouter.ai/blog/announcem…",
+              "end": 1511,
+              "expanded_url": "https://openrouter.ai/blog/announcements/hugging-face-inference-providers/",
+              "start": 1488,
+              "url": "https://t.co/nR3cB8ghU0"
+            },
+            {
+              "display_url": "perplexity.ai/en-GB/hub/blog…",
+              "end": 1770,
+              "expanded_url": "https://www.perplexity.ai/en-GB/hub/blog/introducing-perplexity-frontier-research",
+              "start": 1747,
+              "url": "https://t.co/1X659h7y0w"
+            },
+            {
+              "display_url": "x.com/AravSrinivas/s…",
+              "end": 1806,
+              "expanded_url": "https://x.com/AravSrinivas/status/2122411451092807926",
+              "start": 1783,
+              "url": "https://t.co/hF7VB2ynrX"
+            },
+            {
+              "display_url": "langchain.com/blog/from-task…",
+              "end": 2019,
+              "expanded_url": "https://www.langchain.com/blog/from-tasks-to-goals",
+              "start": 1996,
+              "url": "https://t.co/Of4QgSSFjp"
+            }
+          ]
+        },
+        "text": "AI 一手情报汇总｜2026.11.17\n\n今天的三个重点：Qwen新旗舰降本、医疗computer-use Agent、推理服务自动路由。\n\n对一人软件工厂而言，重要的不是再多接一个模型，而是能否更便宜、更可靠地完成真实工作。\n\n一、Qwen4-Max：值得测，但别把不同榜单混成性价比结论\n\n阿里发布旗舰Qwen4-Max：新MoE架构、原生视觉、100万token上下文。官方披露总参数2.4万亿，每token激活约710亿。\n\n需要分清两件事：Max不开放权重；同系列较小模型计划开源。不能把“Qwen系列开源”直接理解成旗舰也可自托管。\n\n成本方面，阿里在自建Work360上报告，每任务平均成本从4.43美元降至1.67美元，High档token用量下降约35%。这是厂商测试口径。\n\n独立机构Artificial Analysis给出的Intelligence Index为43分，比Qwen3.8-Max高9分，仍比Kimi K3.1 Pro低3分。不同任务、不同配置的数据，不应直接拼成“全面领先”。\n\n我的判断：把它加入长程改仓、多工具和回归测试的候选集，比较实际费用、成功率、耗时与返工次数，再决定是否替换默认模型。\n\n官方：https://t.co/ieukkjssY7\n成本说明：https://t.co/6pjzTQmqLp\n独立评测：https://t.co/D2qlYqUxLE\n\n二、OpenAI医疗Agent：操作已有软件，比重新造一套软件更值得关注\n\nChatGPT for Healthcare更新包括：在现有电子病历和保险门户中操作的computer-use agents、临床检索增强，以及20多个医疗插件。\n\n官方报告，325项评估任务中99%被评为临床安全。这个数字必须保留边界：它不是“真实医疗操作零风险”，也不能替代人工监督、权限管理和责任划分。\n\n科研方面，Academic Researchers计划目标扩大到20万人，新一轮计划11月23日开放申请，提供5万份Plus资助。对1,800多名研究者的调查中，受访者估计，不使用AI完成同等质量工作会花费接近两倍时间。这是自述估计，不是因果实验。\n\nOpenAI还与Apollo Research、METR、Transluce、Goodfire开展embedded assessments，让外部专家深入评估内部模型。\n\n对小团队最可借鉴的，不是套用医疗安全分数，而是这套组合：Agent操作既有软件，关键动作有人审批，执行过程留审计记录。\n\n医疗更新：https://t.co/XAIwPMRQip\n评估说明：https://t.co/pImspAZ4FU\n科研计划：https://t.co/SmLEY48OBk\n外部评估：https://t.co/pmL3coQx1d\n\n三、HF × OpenRouter：路由更省心，但要看破坏性变更\n\nHugging Face宣布与OpenRouter合作：语言模型请求根据价格、速度和可靠性选择供应商，并提供自动故障转移；原HF token和代码可继续使用，图像、音视频生成仍走HF。\n\n但不能只看到“无感升级”：公告涉及语言模型调用不再支持自定义供应商密钥。如果现有链路依赖这一点，应核对迁移要求和生效情况，避免服务中断。\n\n多模型路由的价值，不只是找到便宜模型，还包括供应商出故障后，任务是否继续，以及切换后的输出能否通过同一套验收。\n\nHF公告：https://t.co/738xy2lXjq\nOpenRouter公告：https://t.co/nR3cB8ghU0\n\n四、Perplexity研究计划：看承诺，也看后续交付\n\nPerplexity宣布Frontier Research，计划投入至少1万张GPU，研究多智能体编排、持续学习和自动研究员，并承诺发布评测、论文及开放模型与工具。\n\n这是宣布的投入和开放承诺，不等于成果已经交付。后续真正值得追的是可复现评测、开放产物，以及它们是否改善实际研究任务。\n\n同时推出的Monitor API用于追踪网页或事件，通过webhook推送，公布价格为每1,000次1美元。\n\n研究计划：https://t.co/1X659h7y0w\nMonitor API：https://t.co/hF7VB2ynrX\n\n五、我的判断：Agent要从单次任务走向可管理的长期目标\n\nHarrison Chase讨论了Agent从“做任务”走向“追目标”的变化。对软件工厂，这意味着不能只写一句“帮我把产品做好”，还要定义：\n\n• 什么事件触发行动？\n• 什么证据说明有进展？\n• 哪些动作必须审批？\n• 何时停止、重试或交还给人？\n\n这比再堆一个单次任务演示，更接近能长期运行的系统。\n\n观点来源：https://t.co/Of4QgSSFjp\n\n本周我会优先验证三件事：用同一组任务测试Qwen4-Max；检查HF调用链路与故障切换；把目标、进度、停止条件和审批写进Agent流程。\n\n一句话总结：模型降价只是起点，能稳定完成任务、出了问题能切换、每一步都能验收，才是一人软件工厂的真正效率。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 15,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122411451092807926",
+          "type": "quoted"
+        }
+      ],
+      "text": "AI 一手情报汇总｜2026.11.17\n\n今天的三个重点：Qwen新旗舰降本、医疗computer-use Agent、推理服务自动路由。\n\n对一人软件工厂而言，重要的不是再多接一个模型，而是能否更便宜、更可靠地完成真实工作。\n\n一、Qwen4-Max：值得测，但别把不同榜单混成性价比结论 https://t.co/hF7VB2ynrX",
+      "url": "https://x.com/LabubuNoBB/status/2122490151356051801"
+    },
+    {
+      "author_id": "1387717391954546692",
+      "conversation_id": "2122490124412014616",
+      "created_at": "2026-11-17T00:40:54.000Z",
+      "edit_history_tweet_ids": [
+        "2122490124412014616"
+      ],
+      "id": "2122490124412014616",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "很多人用ChatGPT，只会瞎聊天。\n\n问个问题、翻译几句话、写写文案，偶尔让它帮忙查点资料。\n\n其实ChatGPT能干的事情，远比你想象中多。\n\n有些功能真的挺实用，但很多人可能一次都没试过。\n\n下面这10种用法，建议收藏起来，有空挨个试试！\n\n1、Deep Research（深度研究）\n\n平时想了解一个行业、研究一家公司，自己去Google搜资料，可能要花好几个小时。\n\n现在可以直接让ChatGPT帮你做。\n\n比如输入：\n\n「帮我研究一下英伟达的商业模式、主要竞争对手、最近三年的财务表现，以及未来面临的风险。」\n\n它会搜索资料、整理信息，最后生成一份带来源的研究报告。\n\n做行业研究、投资分析、竞品调研，都挺方便。\n\n2、数据分析\n\n很多人不知道，ChatGPT还可以直接分析Excel和CSV文件。\n\n比如你有一份过去一年的股票交易记录。\n\n直接上传，让它帮你统计：\n\n胜率多少？平均盈亏比多少？哪几个月赚得多？最大回撤是多少？\n\n甚至可以让它生成图表，找出交易中反复出现的问题。\n\n以前需要自己折腾半天Excel的事情，现在一句话就能开始做。\n\n3、Projects（项目）\n\n如果你经常用ChatGPT处理同一类事情，这个功能值得试试。\n\n比如你正在做一个自媒体账号。\n\n可以专门建一个项目，把账号定位、写作风格、历史内容、选题方向都放进去。\n\n以后在这个项目里写内容，就不用每次重新介绍一遍背景。\n\n做长期研究、写论文、运营账号、开发产品，都能用上。\n\n4、图片理解\n\n遇到看不懂的图表、软件报错、英文截图，直接截图发给ChatGPT。\n\n比如：\n\n「帮我看看这张财报截图，哪些数据值得关注？」\n\n或者：\n\n「这个软件为什么报错？应该怎么处理？」\n\n它能结合图片内容给你分析。\n\n平时遇到一些小问题，省去了很多搜索时间。\n\n5、编程和制作小工具\n\n不会编程，也可以尝试让ChatGPT帮你写代码。\n\n比如：\n\n「帮我做一个网页工具，上传CSV文件后，自动计算交易胜率、盈亏比和最大回撤。」\n\n它可以帮你写代码、解释怎么运行，还能根据你的反馈继续修改。\n\n当然，复杂项目还是需要测试和调试。\n\n但对于一些简单的网页、脚本、数据处理工具，已经很实用了。\n\n6、语音交流\n\n这个功能其实挺适合练英语。\n\n打开ChatGPT语音模式，直接跟它聊天。\n\n比如：\n\n「你现在扮演一个美国公司的面试官，用英语面试我。每次只问一个问题，等我回答后再指出表达上的问题。」\n\n也可以模拟点餐、机场交流、商务会议。\n\n不需要提前准备一大堆对话内容，想到什么就聊什么。\n\n7、文件处理\n\n几十页的PDF、很长的合同、几百页的行业报告，没必要每次都从头读到尾。\n\n直接上传文件，让ChatGPT帮你提取重点。\n\n比如：\n\n「帮我整理这份财报中的营收、净利润、现金流、主要风险，并标注对应页码。」\n\n或者：\n\n「对比这两份合同，找出条款发生变化的地方。」\n\n工作中经常需要处理大量文档的人，应该会很喜欢这个功能。\n\n不过涉及合同、财务等重要内容，关键数据和结论还是要自己核对。\n\n8、Memory（记忆）\n\n如果你经常使用ChatGPT，可以研究一下它的记忆功能。\n\n比如你告诉它：\n\n「我平时主要写财经和科技内容，喜欢口语化的表达，少用专业术语，也不要写得太像公关稿。」\n\n之后聊天时，它可以结合记住的偏好调整回答。\n\n一些长期使用习惯，不用每次都重复说明。\n\n记忆内容也可以在设置里查看和调整。\n\n9、自动化任务（Tasks）\n\n有些事情每天都要做，其实可以尝试交给ChatGPT定期处理。\n\n比如：\n\n「每天早上8点提醒我查看今天的重要经济数据。」\n\n或者：\n\n「每周日晚上提醒我复盘本周的交易。」\n\n设置好之后，就不用每天重新输入同样的指令。\n\n对于需要定期处理的事情，挺省心。\n\n10、Agent（智能体）\n\n这个我觉得值得重点关注。\n\n以前用ChatGPT，很多时候需要自己一步一步下指令。\n\n现在一些Agent功能已经可以连续执行多个步骤。\n\n比如你想研究10家AI公司。\n\n可以让它查找公开资料、整理公司信息、对比产品和商业模式，再汇总成表格。\n\n过程中可能需要你确认某些操作，也需要检查最终结果。\n\n但相比自己反复搜索、复制、整理，确实能省下不少时间。\n\n⸻\n\n最后说一句：\n\nChatGPT发展到现在，如果还只是拿来问问题、写几句话，确实有点可惜。\n\n尤其是经常做研究、处理数据、写内容、整理文件的人，真的可以花点时间研究一下这些功能。\n\n不需要10个全部学会。\n\n先找到两三个跟自己工作、生活相关的，用熟练了就很有帮助。\n\n你平时用ChatGPT最多的是哪个功能？有没有什么特别实用、但很少有人知道的用法？"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 34,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "很多人用ChatGPT，只会瞎聊天。\n\n问个问题、翻译几句话、写写文案，偶尔让它帮忙查点资料。\n\n其实ChatGPT能干的事情，远比你想象中多。\n\n有些功能真的挺实用，但很多人可能一次都没试过。\n\n下面这10种用法，建议收藏起来，有空挨个试试！\n\n1、Deep Research（深度研究）",
+      "url": "https://x.com/EmonData/status/2122490124412014616"
+    },
+    {
+      "author_id": "109784798",
+      "conversation_id": "2122489673121755602",
+      "created_at": "2026-11-17T00:39:06.000Z",
+      "edit_history_tweet_ids": [
+        "2122489673121755602"
+      ],
+      "id": "2122489673121755602",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "黑客已经用AI做到完全不靠人工，直接把官方安全补丁逆向做成攻击武器了。\n\n谷歌威胁情报团队最新披露，他们发现了一个运行多智能体架构的黑客服务器。这套叫做exploit_agent的自动化工具，会持续对比常用Web软件更新前后的代码差异，自动定位刚被修复的安全漏洞，接着直接写出可执行的攻击代码并立即发起实战攻击，整个漏洞挖掘和武器化流程全程零人工干预。\n\n服务器上不仅找到了从受害机构偷来的数据，还塞满了自动扫描内网、暴力破解和安装后门的脚本。AI在安全领域的攻防对抗，已经从人类拿大模型当问答助手，彻底升级到全自主多智能体军团作战了。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "黑客已经用AI做到完全不靠人工，直接把官方安全补丁逆向做成攻击武器了。",
+      "url": "https://x.com/SANYUE_AI/status/2122489673121755602"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2121886451185094656"
+        ]
+      },
+      "author_id": "1401189743333765120",
+      "conversation_id": "2122489394955526310",
+      "created_at": "2026-11-17T00:38:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122489394955526310"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 100,
+            "id": "1624979259365392385",
+            "start": 90,
+            "username": "termix_ai"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/oAT8LIIQZz",
+            "end": 174,
+            "expanded_url": "https://x.com/luke102579/status/2122489394955526310/photo/1",
+            "media_key": "3_2121886451185094656",
+            "start": 151,
+            "url": "https://t.co/oAT8LIIQZz"
+          }
+        ]
+      },
+      "id": "2122489394955526310",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 100,
+              "id": "1624979259365392385",
+              "start": 90,
+              "username": "termix_ai"
+            },
+            {
+              "end": 1470,
+              "id": "1624979259365392385",
+              "start": 1460,
+              "username": "termix_ai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "Agent.family",
+              "end": 915,
+              "expanded_url": "http://Agent.family",
+              "start": 892,
+              "url": "https://t.co/s8NQwVGXdL"
+            }
+          ]
+        },
+        "text": "以前我們使用 AI 生成影片，通常是自己準備提示詞、生成畫面、調整分鏡，再想辦法處理配音、音樂和剪輯。每個工具都能幫上一點忙，但要把所有環節串起來，還是需要花不少時間。\n\n最近在 @termix_ai   我看到 Montage Studio ，覺得它有一個很有意思的地方。\n\n它不只是負責生成影片的 Agent，還是一個懂得委託其他 Agent 的服務管理者。\n\n整個流程大致是這樣\n\n1⃣ 接收創意需求\n\n使用者提出影片需求，Montage Studio 先理解內容，製作企劃方向與依照音樂節奏安排的 Shot List，決定影片需要哪些畫面和素材。\n\n2⃣ 拆解工作並尋找合作對象\n\n它會把製作流程拆成不同任務，再找專業 Agent 協助，例如：\n\nStoryboard Agent：負責製作分鏡與關鍵畫面。\nVideo Agent：負責生成影片鏡頭。\nMusic Agent：負責創作原創音樂。\n\n3⃣ 整合素材\n\n各個 Agent 完成自己的工作後，Montage Studio 再把分鏡、影片畫面和音樂整合起來，按照節奏進行剪輯。\n\n4⃣ 完成交付\n\n最後輸出 1080p 的影片成品，讓使用者取得完整作品。\n\n我特別注意到，這些工作並不是全部由同一個模型完成。Montage Studio 會向其他專業 Agent 發出委託，而且每個環節都有對應的報價與鏈上託管結算流程。\n\n這就讓我想到一個問題\n\n當一個 Agent 可以自己找其他 Agent 幫忙，它的工作能力是不是就不再受限於自身擁有的工具？\n\n例如未來一個研究型 Agent 接到製作市場分析影片的需求，它可以負責研究資料、整理內容，再委託設計 Agent 製作視覺素材，交給配音 Agent 處理旁白，最後由影片 Agent 完成剪輯。\n\n使用者只需要提出需求，背後可能就有一整個 Agent 團隊在分工。\n\n這也是我認為 Montage Studio 很適合拿來觀察 Agent Economy 的原因。\n\n它把 TermiX 的幾個核心概念放進一個實際案例\n\nAACP 負責 Agent 之間的商業流程，https://t.co/s8NQwVGXdL 提供服務媒合與委託入口，TermiX Skills 則讓相容的 Agent 能夠參與任務、報價和交付。\n\n而鏈上 Escrow 也讓不同 Agent 之間的工作委託有資金託管與結算機制。\n\n當然，這套模式還有很多值得驗證的地方。\n\n🔹例如不同 Agent 產出的素材能不能維持一致性？\n🔹如果其中一個 Agent 延遲交付，會不會影響整個製作流程？\n🔹多個 Agent 的報價加起來，是否真的比傳統製作方式更有效率？\n🔹最後的影片品質，又能不能讓使用者願意持續付費？\n\n這些問題都會影響它能不能從展示案例變成真正有市場需求的服務。\n\n但我很喜歡這個案例帶出的想法。\n\n過去我們衡量一個 AI Agent 的能力，通常會看它能寫多少程式、整理多少資料，或是能不能獨立完成一項任務。\n\n未來可能還要多看一個指標\n\n它能不能找到合適的合作對象，組織其他 Agent，完成自己單獨做不到的工作？\n\n如果這種模式逐漸成熟，Agent 就不只是提供單一功能的工具，也可能成為能夠接案、採購服務、管理工作流程的商業參與者。\n\nMontage Studio 讓我看到這個方向開始有了具體的產品案例。\n\n接下來我更想觀察的，是這種 Agent 雇用 Agent 的模式，能不能從影片製作延伸到更多產業。\n\n@termix_ai"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 67,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "text": "以前我們使用 AI 生成影片，通常是自己準備提示詞、生成畫面、調整分鏡，再想辦法處理配音、音樂和剪輯。每個工具都能幫上一點忙，但要把所有環節串起來，還是需要花不少時間。\n\n最近在 @termix_ai   我看到 Montage Studio ，覺得它有一個很有意思的地方。\n\n它不只是負責生成影片的 https://t.co/oAT8LIIQZz",
+      "url": "https://x.com/luke102579/status/2122489394955526310"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122489191808552960"
+        ]
+      },
+      "author_id": "1710988050233511936",
+      "conversation_id": "2122489227225243881",
+      "created_at": "2026-11-17T00:37:20.000Z",
+      "edit_history_tweet_ids": [
+        "2122489227225243881"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/qeVkcu0uoo",
+            "end": 132,
+            "expanded_url": "https://x.com/shanke9527/status/2122489227225243881/photo/1",
+            "media_key": "3_2122489191808552960",
+            "start": 109,
+            "url": "https://t.co/qeVkcu0uoo"
+          }
+        ]
+      },
+      "id": "2122489227225243881",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "Windows 11 在记你用哪个编程智能体：Claude、Codex、Cursor、Copilot 全在它内置名单里，用过就记成位图、随诊断数据上传。默认开启还没人告诉你，这点最让人不舒服，关法和自查方法在卡片里。 https://t.co/qeVkcu0uoo",
+      "url": "https://x.com/shanke9527/status/2122489227225243881"
+    },
+    {
+      "author_id": "1709050390799699969",
+      "conversation_id": "2122488959334756468",
+      "created_at": "2026-11-17T00:36:16.000Z",
+      "edit_history_tweet_ids": [
+        "2122488959334756468"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Declare an agentic task in YAML. AX sandboxes it, wires up its workspace, fences its network, and helps running it at scale.",
+            "display_url": "agentexecutor.io",
+            "end": 129,
+            "expanded_url": "https://agentexecutor.io",
+            "start": 106,
+            "status": 200,
+            "title": "AX",
+            "unwound_url": "https://agentexecutor.io",
+            "url": "https://t.co/oVwt9VAsrC"
+          }
+        ]
+      },
+      "id": "2122488959334756468",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "hashtags": [
+            {
+              "end": 1150,
+              "start": 1145,
+              "tag": "AI工具"
+            },
+            {
+              "end": 1159,
+              "start": 1151,
+              "tag": "企业Agent"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "agentexecutor.io",
+              "end": 129,
+              "expanded_url": "http://agentexecutor.io",
+              "start": 106,
+              "url": "https://t.co/AbhbhP5k8J"
+            },
+            {
+              "display_url": "agentexecutor.io",
+              "end": 525,
+              "expanded_url": "https://agentexecutor.io",
+              "start": 502,
+              "url": "https://t.co/6ElcQJEHt2"
+            },
+            {
+              "display_url": "github.com/google/ax",
+              "end": 555,
+              "expanded_url": "https://github.com/google/ax",
+              "start": 532,
+              "url": "https://t.co/s2wGa40N6Z"
+            },
+            {
+              "display_url": "agentexecutor.io",
+              "end": 583,
+              "expanded_url": "https://agentexecutor.io",
+              "start": 560,
+              "url": "https://t.co/6ElcQJEHt2"
+            }
+          ]
+        },
+        "text": "今天把收藏夹里的「Google AX（Agent Executor）」从 0 讲到 1（角度：是什么）。\n\n【是什么】AX（Agent Executor）是 Google 开源的智能体编排运行时，仓库简介和站点 https://t.co/AbhbhP5k8J 都把它写成 agentic orchestration runtime。它面向的是「如何在受控环境里执行和编排 Agent」，而不是又一个聊天前端。README 给出的开发者路径包括在检出目录执行 make install 把 ax 装进 Go 的 bin，以及用 AX_IMAGE_REPO 与 make images 构建镜像；文档里还有 kubectl 查看 ate-system 命名空间下 API 服务的示例，说明它可以走集群部署，但不等于你必须一上来就上生产集群。\n公开信号：2026-11-17 核对 GitHub API（Asia/Shanghai）：google/ax 为 Apache-2.0 协议，星标 14,745，最近推送 2026-11-17 07:56（由 2026-11-16T23:56:50Z 换算）。站点 https://t.co/6ElcQJEHt2\n入口：仓库 https://t.co/s2wGa40N6Z ；站点 https://t.co/6ElcQJEHt2\n\n【痛点】公司里一旦同时跑多个 Agent，缺的往往不是提示词，而是执行层：任务在哪里跑、权限如何限制、失败如何重试、日志如何收回。没有运行时边界，编排只是把风险放大。\n\n【怎么装/怎么开】先读官方文档和 README 的安装说明，在本地或专用测试环境用 make install 装 CLI，不要直接对准生产集群。若要看镜像与服务，也只在隔离命名空间里做，先确认默认没有开放未授权的外部工具。\n\n【最小路径】用文档中的最小示例跑一个可观察的任务：能看到任务状态、输出和失败原因 → 再人为失败一次，看重试和日志是否可追踪。能回答「Agent 在哪一层被约束」，再考虑是否引入更多编排。\n\n【适用场景】适合已经有 Agent 原型、需要一层可部署运行时的平台或基础设施团队。不适合把它当成开箱即用的业务聊天机器人，也不适合未做权限模型就在共享集群上跑带密钥的任务。\n不适合：没有数据主人、没有回滚、也没有业务指标的「先上再说」。\n\n【我的判断】我的判断：AX 值得当作「执行与编排层」来研究，而不是又一个应用模板。先验收隔离、日志和失败路径，再谈规模。没有这三样，不要让它靠近询盘或生产变更。\n对照四大板块（基建站/获客/AI核心/转化）先问它咬合哪一块。我是张程Peter，电缆实业×AI，深港双城。不卖工时，卖结果。 #AI工具 #企业Agent"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "今天把收藏夹里的「Google AX（Agent Executor）」从 0 讲到 1（角度：是什么）。\n\n【是什么】AX（Agent Executor）是 Google 开源的智能体编排运行时，仓库简介和站点 https://t.co/oVwt9VAsrC 都把它写成 agentic orchestration runtime。它面向的是「如何在受控环境里执行和编排",
+      "url": "https://x.com/zhangcheng0688/status/2122488959334756468"
+    },
+    {
+      "author_id": "1709050390799699969",
+      "conversation_id": "2122488829944754449",
+      "created_at": "2026-11-17T00:35:45.000Z",
+      "edit_history_tweet_ids": [
+        "2122488829944754449"
+      ],
+      "id": "2122488829944754449",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "hashtags": [
+            {
+              "end": 1197,
+              "start": 1192,
+              "tag": "AI工具"
+            },
+            {
+              "end": 1206,
+              "start": 1198,
+              "tag": "企业Agent"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "ifixai.ai",
+              "end": 515,
+              "expanded_url": "https://www.ifixai.ai",
+              "start": 492,
+              "url": "https://t.co/RGbJEYuAJJ"
+            },
+            {
+              "display_url": "github.com/ifixai-ai/iFix…",
+              "end": 545,
+              "expanded_url": "https://github.com/ifixai-ai/iFixAi",
+              "start": 522,
+              "url": "https://t.co/Phe7mrE7BK"
+            },
+            {
+              "display_url": "ifixai.ai",
+              "end": 573,
+              "expanded_url": "https://www.ifixai.ai",
+              "start": 550,
+              "url": "https://t.co/RGbJEYuAJJ"
+            }
+          ]
+        },
+        "text": "今天把收藏夹里的「iFixAi」从 0 讲到 1（角度：从验收指标反推）。\n\n【是什么】iFixAi 是一套面向 AI Agent 的独立审计工具。仓库把自己的问题写成：这个 Agent 是不是在做它该做的事。作者称既可以由人来跑，也可以由 Agent 自己跑，并在仓库简介里写「不到 120 秒给出答案」——这是产品自称，不是你这边已经复现的基准。安装路径按 README：pip install ifixai，然后用 ifixai author reference 生成 reference.yaml，再用 ifixai validate 与 ifixai run（示例含 --provider mock --eval-mode self）做一次对照。\n公开信号：2026-11-17 核对 GitHub API（Asia/Shanghai）：ifixai-ai/iFixAi 为 Apache-2.0 协议，星标 46,046，最近推送 2026-11-13 20:13（由 2026-11-13T12:13:52Z 换算）。当日出现在 GitHub Python 日榜。站点 https://t.co/RGbJEYuAJJ\n入口：仓库 https://t.co/Phe7mrE7BK ；站点 https://t.co/RGbJEYuAJJ\n\n【痛点】询盘、报价或内部值班 Agent 一旦上线，最难回答的不是「它会不会说话」，而是「它有没有越权承诺、有没有偏离说明书」。没有对照基准，出了错只能靠事后追日志。\n\n【怎么装/怎么开】在隔离环境 pip install ifixai，先用 README 的 mock provider 和 self 评估模式，对一份你自己写的、非生产的 reference.yaml 跑通 validate 与 run。不要把生产 Agent、真实客户对话或未脱敏日志接到第一次试验里。\n\n【最小路径】写三条可判定的规则（例如：不得报未授权价格；必须引用资料版本；超出范围要转人）→ 准备一通合规输入和一通故意越权输入 → 看审计结果是否分别通过和失败，并留下报告。时间是否「不到 120 秒」以你自己的一次运行为准，不把官网句子当成验收指标。\n\n【适用场景】适合已经有明确说明书的值班 Agent，要补一层独立对照。不适合还没有规则文本就先上审计工具，也不适合把审计报告直接当成对客户的合规证书。\n不适合：没有数据主人、没有回滚、也没有业务指标的「先上再说」。\n\n【我的判断】我的判断：先有可判定的规则，再谈审计工具。它值得用来做回归，但不能替代业务负责人签字。自称的耗时只作参考，真正的门禁是越权用例必须被拦住。\n对照四大板块（基建站/获客/AI核心/转化）先问它咬合哪一块。我是张程Peter，电缆实业×AI，深港双城。不卖工时，卖结果。 #AI工具 #企业Agent"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "今天把收藏夹里的「iFixAi」从 0 讲到 1（角度：从验收指标反推）。\n\n【是什么】iFixAi 是一套面向 AI Agent 的独立审计工具。仓库把自己的问题写成：这个 Agent 是不是在做它该做的事。作者称既可以由人来跑，也可以由 Agent 自己跑，并在仓库简介里写「不到 120",
+      "url": "https://x.com/zhangcheng0688/status/2122488829944754449"
+    },
+    {
+      "author_id": "1709050390799699969",
+      "conversation_id": "2122488820029399131",
+      "created_at": "2026-11-17T00:35:43.000Z",
+      "edit_history_tweet_ids": [
+        "2122488820029399131"
+      ],
+      "id": "2122488820029399131",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "hashtags": [
+            {
+              "end": 1091,
+              "start": 1086,
+              "tag": "AI工具"
+            },
+            {
+              "end": 1097,
+              "start": 1092,
+              "tag": "研究写作"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "yiwen-song.github.io/paper_orchestr…",
+              "end": 485,
+              "expanded_url": "https://yiwen-song.github.io/paper_orchestra/",
+              "start": 462,
+              "url": "https://t.co/MrFvMk3eHK"
+            },
+            {
+              "display_url": "github.com/google-researc…",
+              "end": 515,
+              "expanded_url": "https://github.com/google-research/paper-orchestra",
+              "start": 492,
+              "url": "https://t.co/wUHAl4gBTG"
+            },
+            {
+              "display_url": "yiwen-song.github.io/paper_orchestr…",
+              "end": 544,
+              "expanded_url": "https://yiwen-song.github.io/paper_orchestra/",
+              "start": 521,
+              "url": "https://t.co/MrFvMk3eHK"
+            }
+          ]
+        },
+        "text": "今天把收藏夹里的「PaperOrchestra」从 0 讲到 1（角度：是什么）。\n\n【是什么】PaperOrchestra 是 Google Research 开源的多智能体框架，用来辅助自动撰写 AI 研究论文。仓库与项目页把它定位为 paper writing 的多智能体流水线，而不是已经替代同行评审的发文系统。README 的安装路径是先建名为 paper_orchestra 的 Conda 环境（示例为 Python 3.11），在项目根目录放置含 API 密钥的 .env，再用提供的 bash 脚本或 Python CLI 跑生成流程。\n公开信号：2026-11-17 核对 GitHub API（Asia/Shanghai）：google-research/paper-orchestra 为 Apache-2.0 协议，星标 1,485，最近推送 2026-11-16 02:08（由 2026-11-15T18:08:08Z 换算）。当日出现在 GitHub 整体日榜与 Python 日榜。项目页 https://t.co/MrFvMk3eHK\n入口：仓库 https://t.co/wUHAl4gBTG ；项目页 https://t.co/MrFvMk3eHK\n\n【痛点】技术方案、白皮书和实验记录一交给模型「写成论文体」，最常见的事故是：把未做完的实验写成已验证结果，或把参考文献编圆。格式漂亮，并不等于事实成立。\n\n【怎么装/怎么开】按 README 用 Conda 建环境并安装依赖，只在隔离目录配置你自己的 API 密钥，不要把生产密钥写进仓库。先用一份已公开、已有真实数据的短材料跑通流水线，观察各 Agent 的分工和中间稿，而不是直接生成要对外的标书。\n\n【最小路径】准备一份你能逐段核对的短输入（例如已发布的技术说明加真实图表）→ 跑一遍生成 → 抽查方法、数据和参考文献是否都能回到原材料。任何对不上的句子都标成待核，而不是直接接受成稿。\n\n【适用场景】适合研究或技术写作团队做「起草—对照—返工」的内部试验。不适合用它直接生产投标文件、认证报告或对外学术主张，更不能把模型草稿当作已评审结论。\n不适合：没有数据主人、没有回滚、也没有业务指标的「先上再说」。\n\n【我的判断】我的判断：可以当起草脚手架来看，验收标准是「每句能回溯到实验或出处」，不是排版像不像论文。做不到溯源，就不要进正式文稿库。\n对照四大板块（基建站/获客/AI核心/转化）先问它咬合哪一块。我是张程Peter，电缆实业×AI，深港双城。不卖工时，卖结果。 #AI工具 #研究写作"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "今天把收藏夹里的「PaperOrchestra」从 0 讲到 1（角度：是什么）。\n\n【是什么】PaperOrchestra 是 Google Research 开源的多智能体框架，用来辅助自动撰写 AI 研究论文。仓库与项目页把它定位为 paper writing 的多智能体流水线，而不是已经替代同行评审的发文系统。README 的安装路径是先建名为",
+      "url": "https://x.com/zhangcheng0688/status/2122488820029399131"
+    },
+    {
+      "author_id": "1709050390799699969",
+      "conversation_id": "2122488808490803249",
+      "created_at": "2026-11-17T00:35:40.000Z",
+      "edit_history_tweet_ids": [
+        "2122488808490803249"
+      ],
+      "id": "2122488808490803249",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "hashtags": [
+            {
+              "end": 1110,
+              "start": 1105,
+              "tag": "AI工具"
+            },
+            {
+              "end": 1115,
+              "start": 1111,
+              "tag": "信息源"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "github.com/mvanhorn/last3…",
+              "end": 566,
+              "expanded_url": "https://github.com/mvanhorn/last30days-skill",
+              "start": 543,
+              "url": "https://t.co/OhHyB4sQph"
+            }
+          ]
+        },
+        "text": "今天把收藏夹里的「last30days-skill」从 0 讲到 1（角度：先把路径写清再谈工具）。\n\n【是什么】last30days-skill 是一套给 AI Agent 用的调研技能：仓库说明它会在 Reddit、X、YouTube、Hacker News、Polymarket 和网页上检索某一主题近一段时间的公开讨论，再汇总成带依据的摘要。它的定位是「先收集、再综合」，不是替你下结论或自动对外发布。安装路径按 README：Claude Code 可用插件市场 /plugin marketplace add mvanhorn/last30days-skill 再安装；也可用 npx skills add mvanhorn/last30days-skill -g；并写了 Grok、Codex、Cursor 等其他入口。\n公开信号：2026-11-17 核对 GitHub API（Asia/Shanghai）：mvanhorn/last30days-skill 为 MIT 协议，星标 68,110，最近推送 2026-11-17 07:56（由 2026-11-16T23:56:25Z 换算）。当日出现在 GitHub 整体日榜与 Python 日榜。\n入口：仓库 https://t.co/OhHyB4sQph\n\n【痛点】做 AIDC、电缆或出海选题时，最容易把「我刚刷到的一条帖子」写成行业事实。讨论很吵，一级来源却往往不在热帖里。\n\n【怎么装/怎么开】按 README 把技能接到你常用的编码或调研 Agent 上，先指定一个非敏感主题（例如某家公司已发布的公开新闻稿标题），限制只使用公开网页和公开讨论。不要把客户名单、未公开报价或内部纪要作为检索词。\n\n【最小路径】选一条你已经有官方链接的新闻，让它给出近 30 天公开讨论摘要，并要求每条判断都带回链接。你对照：有没有把传闻写成已公布数字；有没有漏掉官网稿。过关后再用到真正的选题储备，且对外引用仍以一级来源为准。\n\n【适用场景】适合市场或研究岗位做公开舆论与议题扫描，当作「先看讨论、再回官方稿」的前置步骤。不适合用它代替监管备案、新闻稿或合同文本，也不适合检索需要登录才能看到的内容。\n不适合：没有数据主人、没有回滚、也没有业务指标的「先上再说」。\n\n【我的判断】我的判断：它的价值是把分散的公开讨论收成可核对的摘要，而不是生产可直接发出的结论。没有来源链接和人工对照，摘要不得进询盘或对外稿。\n对照四大板块（基建站/获客/AI核心/转化）先问它咬合哪一块。我是张程Peter，电缆实业×AI，深港双城。不卖工时，卖结果。 #AI工具 #信息源"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "今天把收藏夹里的「last30days-skill」从 0 讲到 1（角度：先把路径写清再谈工具）。\n\n【是什么】last30days-skill 是一套给 AI Agent 用的调研技能：仓库说明它会在 Reddit、X、YouTube、Hacker News、Polymarket",
+      "url": "https://x.com/zhangcheng0688/status/2122488808490803249"
+    },
+    {
+      "author_id": "1677223332343844865",
+      "conversation_id": "2122488786118426899",
+      "created_at": "2026-11-17T00:35:35.000Z",
+      "edit_history_tweet_ids": [
+        "2122488786118426899"
+      ],
+      "id": "2122488786118426899",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Code Mode 和智能体团队可以一起开了，把 Claude Code 升到 2.1.326 就行。已经开过 Code Mode 的，带团队的会话会自己进这个模式。",
+      "url": "https://x.com/zhaojunshi5/status/2122488786118426899"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122488380164554752"
+        ]
+      },
+      "author_id": "2111401131247349760",
+      "conversation_id": "2122488558036701551",
+      "created_at": "2026-11-17T00:34:40.000Z",
+      "edit_history_tweet_ids": [
+        "2122488558036701551"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/C8JYf2i8jb",
+            "end": 165,
+            "expanded_url": "https://x.com/zeraygk6m/status/2122488558036701551/photo/1",
+            "media_key": "3_2122488380164554752",
+            "start": 142,
+            "url": "https://t.co/C8JYf2i8jb"
+          }
+        ]
+      },
+      "id": "2122488558036701551",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "模型能认出自己在被考了。METR 笔记，调查智能体探了 55 个评测。\n19 个对齐评测、36 个能力评测，Opus 5.5 一个没错。开放式打分，对齐最低分 75、能力最高分 71.7。\n破绽两类：环境一看是模拟的，任务里摆明了有捷径。知道被考，分数自然好看。对齐分数还能信几分？ https://t.co/C8JYf2i8jb",
+      "url": "https://x.com/zeraygk6m/status/2122488558036701551"
+    },
+    {
+      "author_id": "2108126039591489536",
+      "conversation_id": "2122488387974173169",
+      "created_at": "2026-11-17T00:34:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122488387974173169"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/theo/status/21…",
+            "end": 178,
+            "expanded_url": "https://x.com/theo/status/2122481947213717705",
+            "start": 155,
+            "url": "https://t.co/FoNnkRrSY1"
+          }
+        ]
+      },
+      "id": "2122488387974173169",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/theo/status/21…",
+              "end": 235,
+              "expanded_url": "https://x.com/theo/status/2122481947213717705",
+              "start": 212,
+              "url": "https://t.co/FoNnkRrSY1"
+            }
+          ]
+        },
+        "text": "苹果自己搞不出能打的 AI，反手就把各家的 AI Agent 当成木马病毒来防了。\n\nTheo 晒出 macOS 27.3 最新测试版，给 Claude 这类工具放权时直接拉响最高警报。\n\n系统弹窗直接警告「无法保护你的数据」，还明晃晃列出它能直接读写全盘、扒走你的信息、邮件和相册。大家都在盼着 Agent 替自己干杂活，库克却用最吓人的 UI 劝退所有人。\n\n系统要是弹这么一长串夺命警告，你平时敢闭着眼睛点允许吗？\n https://t.co/FoNnkRrSY1"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 59,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122481947213717705",
+          "type": "quoted"
+        }
+      ],
+      "text": "苹果自己搞不出能打的 AI，反手就把各家的 AI Agent 当成木马病毒来防了。\n\nTheo 晒出 macOS 27.3 最新测试版，给 Claude 这类工具放权时直接拉响最高警报。\n\n系统弹窗直接警告「无法保护你的数据」，还明晃晃列出它能直接读写全盘、扒走你的信息、邮件和相册。大家都在盼着 Agent https://t.co/FoNnkRrSY1",
+      "url": "https://x.com/LanzhiAI/status/2122488387974173169"
+    },
+    {
+      "author_id": "1536620289123295232",
+      "conversation_id": "2122487437200970173",
+      "created_at": "2026-11-17T00:30:13.000Z",
+      "edit_history_tweet_ids": [
+        "2122487437200970173"
+      ],
+      "id": "2122487437200970173",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/NVIDIA/SkillEv…",
+              "end": 292,
+              "expanded_url": "https://github.com/NVIDIA/SkillEvaluator",
+              "start": 269,
+              "url": "https://t.co/YwRvSXcdmk"
+            },
+            {
+              "display_url": "github.com/kajisho5/ffmpe…",
+              "end": 537,
+              "expanded_url": "https://github.com/kajisho5/ffmpeg-skill",
+              "start": 514,
+              "url": "https://t.co/dx765idmmo"
+            },
+            {
+              "display_url": "github.com/ifixai-ai/iFix…",
+              "end": 820,
+              "expanded_url": "https://github.com/ifixai-ai/iFixAi",
+              "start": 797,
+              "url": "https://t.co/Dr2iGB2ncd"
+            },
+            {
+              "display_url": "github.com/google-researc…",
+              "end": 1074,
+              "expanded_url": "https://github.com/google-research/paper-orchestra",
+              "start": 1051,
+              "url": "https://t.co/tCPmIURe76"
+            },
+            {
+              "display_url": "github.com/DeanChensj/jia…",
+              "end": 1303,
+              "expanded_url": "https://github.com/DeanChensj/jiangshan-map",
+              "start": 1280,
+              "url": "https://t.co/L7YafoQocS"
+            }
+          ]
+        },
+        "text": "今天 GitHub 被「技能质检员 + Agent 剪辑师 + Agent 审计官 + 论文流水线 + 历史地图」联手屠榜了！\n\n5 个星标暴增最狠的项目，专业拆解下！\n\n1. NVIDIA/SkillEvaluator\n\n英伟达出品的 Agent 技能「质检流水线」：先做不需要 API 密钥的确定性质量检查，再把装了技能和没装技能的两次运行放在一起对比，看这个技能到底有没有让 Agent 干得更好；pip 一装就能用，也能一行命令接进 CI，还能直接装给 Claude Code、Codex，问一句「我的技能好不好」。\n\n🔗 直达：https://t.co/YwRvSXcdmk\n\n技能满天飞的时代，终于有人出来当裁判了。953 星一天，总星 2,600+，英伟达亲自给技能发「质检合格证」！\n\n🟢\n\n2. kajisho5/ffmpeg-skill\n\n给编程 Agent 配一个本地视频剪辑师：42 个基于 FFmpeg 的工具，剪辑、拼接、去静音、字幕卡拉 OK、横转竖、响度标准化、平台导出全都有；每个工具都能当 MCP 工具调用，剪完还会自己检查成片的时长、分辨率和画面，不上云、不要 API 密钥。\n\n🔗 直达：https://t.co/dx765idmmo\n\n一句话让 Agent 把长视频剪成 60 秒竖屏，还自带验片。475 星一天，总星 6,600+，剪辑师要开始紧张了！\n\n🟢🟢\n\n3. ifixai-ai/iFixAi\n\n独立的 AI Agent 审计工具：把你的 Agent 放进一个模拟你业务的环境，发给它真实工作日会遇到的各种请求，包括诱它越权的请求，再由另一家模型来评分，找出它的错误和盲区；pip 一装，用内置演示 Agent 一分钟就能看到评分卡，Claude Code、Codex、Cursor 都能装插件直接说「审计我的 Agent」。\n\n🔗 直达：https://t.co/Dr2iGB2ncd\n\nAgent 上岗前先过一遍「入职背调」，越权的事当场抓包。313 星一天，总星 4.6 万+，Agent 合规赛道直接开卷！\n\n🟢🟢🟢\n\n4. google-research/paper-orchestra\n\nGoogle Cloud AI Research 的多 Agent 论文写作框架：把想法和实验记录交给它，大纲、文献综述、分章写作、内容打磨、画图几个专职 Agent 接力干活，最后直接产出符合会议模板、可以投稿的 LaTeX 稿件。\n\n🔗 直达：https://t.co/tCPmIURe76\n\n从实验日志到投稿稿件，中间那段最熬人的路被 Agent 包了。306 星一天，Google 亲自下场写论文了！\n\n🟢🟢🟢🟢\n\n5. DeanChensj/jiangshan-map\n\n江山时序：中国历史交互地图时间轴，从公元前 403 年一直拖到今天，18 个朝代、198 个疆域快照；点任意古城能看它两千多年的名称沿革和当地大事，搜一个历史人物能在地图上标出他一生的足迹，还能对照今天的省界。\n\n🔗 直达：https://t.co/L7YafoQocS\n\n读史书、背古诗再也不用脑补地图了，拖一下时间轴就是一部活的中国史。285 星一天，总星 6,600+，历史课代表狂喜！\n\n🟢🟢🟢🟢🟢\n\n⚠️⚠️\n总结：\n今天的榜单很清楚：技能和 Agent 已经多到需要「质检」和「审计」了。会造 Agent 只是入场券，能证明 Agent 靠谱，才是下一波真正的护城河。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 132,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "今天 GitHub 被「技能质检员 + Agent 剪辑师 + Agent 审计官 + 论文流水线 + 历史地图」联手屠榜了！\n\n5 个星标暴增最狠的项目，专业拆解下！\n\n1. NVIDIA/SkillEvaluator\n\n英伟达出品的 Agent 技能「质检流水线」：先做不需要 API",
+      "url": "https://x.com/GitTrend0x/status/2122487437200970173"
+    },
+    {
+      "author_id": "1948391508970762240",
+      "conversation_id": "2122487382805254461",
+      "created_at": "2026-11-17T00:30:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122487382805254461"
+      ],
+      "id": "2122487382805254461",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "咬牙开了谷歌 200 刀的 Ultra，用了一个周末，结论就俩字：坑爹😅。\n\n模型确实是好模型，但那个 Antigravity 桌面端是真的拉胯。\n\n卡得要死，智能体干活老断片，连用了多少额度都查不到，全靠瞎猜。\n\n这体验简直像个小作坊做出来的。\n\n反而是把谷歌的模型塞到别人家工具里，顺手得多。\n\n所以 200 刀值吗？\n\n绝对不值！这绝对是我开过最亏的一个会员🤡。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 126,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "text": "咬牙开了谷歌 200 刀的 Ultra，用了一个周末，结论就俩字：坑爹😅。\n\n模型确实是好模型，但那个 Antigravity 桌面端是真的拉胯。\n\n卡得要死，智能体干活老断片，连用了多少额度都查不到，全靠瞎猜。\n\n这体验简直像个小作坊做出来的。\n\n反而是把谷歌的模型塞到别人家工具里，顺手得多。\n\n所以 200",
+      "url": "https://x.com/ohouhou717/status/2122487382805254461"
+    },
+    {
+      "author_id": "1116454614",
+      "conversation_id": "2122486527741857925",
+      "created_at": "2026-11-17T00:26:36.000Z",
+      "edit_history_tweet_ids": [
+        "2122486527741857925"
+      ],
+      "id": "2122486527741857925",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "【AI 中文早报】11.17\n\n① 加州总检察长起诉 OpenAI\nRob Bonta 11.16 在旧金山高等法院起诉 OpenAI，指其违反《不正当竞争法》并构成公共妨害，称 OpenAI 曾向其办公室承认测试中 80 多次失去对 AI agent 的控制，7 月 Hugging Face 遭攻击本可预见。诉讼要求禁令、退赔及每项违规 $2,500 的民事罚款；OpenAI 回应称诉讼“似乎单独针对 OpenAI”，而这是各大实验室共同面临的挑战。\n\n② 美国商务部：远程使用先进 AI 芯片也须许可\n据 CBS News，商务部 11.16 发布临时规则，向巴西、印尼、马来西亚、新加坡、泰国出口、再出口或转让先进芯片须申请许可，目的是堵住通过第三国数据中心租用算力绕开管制的漏洞。\n\n③ Google 首次发现全自动 AI 攻击框架\nGoogle 威胁情报团队（GTIG）报告称，名为 exploit_agent 的框架持续比对补丁前后代码，自动编写并执行漏洞利用，全程无人参与，主要攻击法国媒体、娱乐和教育网站。报告还称，疑似朝鲜组织 UNC6836 篡改内部代码仓库中的 .claude/settings.json，使每次启动 Claude Code 都会下载后门。\n\n④ OpenAI 引入四家外部机构做“嵌入式”安全评估\nApollo Research、METR、Transluce、Goodfire 进入首期评估，可接触未发布模型、训练检查点、训练数据和监控系统，其中 METR 评估 OpenAI 迄今最大规模强化学习训练的对齐情况。未删改的评估报告直接提交 OpenAI 安全与安保委员会。\n\n⑤ OpenAI 发布儿童性虐待图像分类器\n与 NCMEC 合作开发，可识别包括 AI 生成在内的 CSAM 图像，通过 API 免费提供给部分公司；早期测试中标记量减少 48%，检出数量不变。ChatGPT 用户尝试性化儿童的提示将被暂停账号 24 小时，屡犯可能永久封禁。\n\n⑥ Anthropic 缩短漏洞披露期\n高危和严重漏洞的公开期限从 90 天缩短为 30 天，其他漏洞为 45 天，适用于 2027.1.1 起提交的报告；维护方不回应时，15 天后即升级至外部协调机构，此前为 30 天。\n\n⑦ Nvidia 董事会无意让黄仁勋回归（后续）\n据 CNBC 援引消息人士，董事会未考虑、也未讨论让黄仁勋复任 CEO；特朗普同日表示“不介意”他回归。支持复职的公开信签名已超 17.5 万，NVDA 周一盘中一度跌 4.8%。\n\n⑧ Corma 融资\n以色列防御型网络安全 AI 公司完成 $125M A 轮，估值 $1B，NEA 领投，Sequoia、Khosla 跟投，累计融资 $185M。\n\n⑨ 哈佛估算美国超大规模数据中心能耗\n研究发表于 Nature Sustainability，识别出 403 座超大规模数据中心，2024.5–2025.4 用电 68–99 TWh、约占全美 1.8%，碳排放约 2,570 万吨，约 54% 电力来自化石燃料。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 71,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 1
+      },
+      "text": "【AI 中文早报】11.17\n\n① 加州总检察长起诉 OpenAI\nRob Bonta 11.16 在旧金山高等法院起诉 OpenAI，指其违反《不正当竞争法》并构成公共妨害，称 OpenAI 曾向其办公室承认测试中 80 多次失去对 AI agent 的控制，7 月 Hugging Face 遭攻击本可预见。诉讼要求禁令、退赔及每项违规 $2,500",
+      "url": "https://x.com/ieddysun/status/2122486527741857925"
+    },
+    {
+      "author_id": "2868558743",
+      "conversation_id": "2122484275555746056",
+      "created_at": "2026-11-17T00:17:39.000Z",
+      "edit_history_tweet_ids": [
+        "2122484275555746056"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/rajammanabrolu…",
+            "end": 117,
+            "expanded_url": "https://x.com/rajammanabrolu/status/2122376192762478979",
+            "start": 94,
+            "url": "https://t.co/VJjDVA6iVQ"
+          }
+        ]
+      },
+      "id": "2122484275555746056",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "bis.gov/press-release/…",
+              "end": 1786,
+              "expanded_url": "https://www.bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology",
+              "start": 1763,
+              "url": "https://t.co/AiNsH1pf0r"
+            },
+            {
+              "display_url": "bis.gov/media/document…",
+              "end": 1819,
+              "expanded_url": "https://www.bis.gov/media/documents/rin-0694-ak50.pdf",
+              "start": 1796,
+              "url": "https://t.co/dMFq8S6zEa"
+            },
+            {
+              "display_url": "x.com/business/statu…",
+              "end": 1856,
+              "expanded_url": "https://x.com/business/status/2122323816814665943",
+              "start": 1833,
+              "url": "https://t.co/h8nEIGkwVu"
+            },
+            {
+              "display_url": "x.com/zerohedge/stat…",
+              "end": 1893,
+              "expanded_url": "https://x.com/zerohedge/status/2122178526103163125",
+              "start": 1870,
+              "url": "https://t.co/twgMPCoZmC"
+            },
+            {
+              "display_url": "x.com/wallstengine/s…",
+              "end": 1935,
+              "expanded_url": "https://x.com/wallstengine/status/2122353777605071101",
+              "start": 1912,
+              "url": "https://t.co/ul1skrP8ah"
+            },
+            {
+              "display_url": "x.com/OpenAI/status/…",
+              "end": 1971,
+              "expanded_url": "https://x.com/OpenAI/status/2122359930628063248",
+              "start": 1948,
+              "url": "https://t.co/R70NsbtoR1"
+            },
+            {
+              "display_url": "x.com/METR_Evals/sta…",
+              "end": 2000,
+              "expanded_url": "https://x.com/METR_Evals/status/2122361049114657203",
+              "start": 1977,
+              "url": "https://t.co/RWjjEUS0A3"
+            },
+            {
+              "display_url": "x.com/steph_palazzol…",
+              "end": 2038,
+              "expanded_url": "https://x.com/steph_palazzolo/status/2122331129265135929",
+              "start": 2015,
+              "url": "https://t.co/ILuEr407nw"
+            },
+            {
+              "display_url": "x.com/Alibaba_Qwen/s…",
+              "end": 2072,
+              "expanded_url": "https://x.com/Alibaba_Qwen/status/2122148127520289151",
+              "start": 2049,
+              "url": "https://t.co/tmOuQ1wPy7"
+            },
+            {
+              "display_url": "x.com/OpenRouter/sta…",
+              "end": 2106,
+              "expanded_url": "https://x.com/OpenRouter/status/2122376401064189978",
+              "start": 2083,
+              "url": "https://t.co/u1xTbExae3"
+            },
+            {
+              "display_url": "x.com/AravSrinivas/s…",
+              "end": 2159,
+              "expanded_url": "https://x.com/AravSrinivas/status/2122353569903128921",
+              "start": 2136,
+              "url": "https://t.co/sDwohHi7Gi"
+            },
+            {
+              "display_url": "x.com/pwendell/statu…",
+              "end": 2203,
+              "expanded_url": "https://x.com/pwendell/status/2122377960132940170",
+              "start": 2180,
+              "url": "https://t.co/HeHoEUQqaC"
+            },
+            {
+              "display_url": "x.com/AlonPluda/stat…",
+              "end": 2233,
+              "expanded_url": "https://x.com/AlonPluda/status/2122344413951111663",
+              "start": 2210,
+              "url": "https://t.co/ctuEHqiPs5"
+            },
+            {
+              "display_url": "x.com/rajammanabrolu…",
+              "end": 2263,
+              "expanded_url": "https://x.com/rajammanabrolu/status/2122376192762478979",
+              "start": 2240,
+              "url": "https://t.co/VJjDVA6iVQ"
+            }
+          ]
+        },
+        "text": "11月17日周二，几条 AI 动态整理：\n\n1. 美国封堵「远程租算力」。BIS 发布远程访问新规：任何数据中心，只要向总部在中国（D:5 国家组）或澳门的公司提供超过 1200 万「总 TPP」的算力（关联数据中心合并计算），向它出口、再出口或境内转让先进芯片、服务器、软件和技术都要许可证；数据中心和芯片出口商要查客户的直接和间接控股。商业推荐系统豁免。【一手】\n\n2. 特朗普政府拟把 NVIDIA 等列为 AI「国家冠军」。据 WSJ，名单还有 Amazon、Microsoft、OpenAI、Anthropic，可获得更快的出口审批、海外政府支持和联邦融资；Tim Sweeney 等人公开反对政府挑赢家。【二手】\n\n3. SemiAnalysis 大幅下调 AI 加速器资本开支预测。据转述：2027 年从 7700 亿下调到 6270 亿美元，2028 年下调 28% 到 7580 亿，2029、2030 年下调约 40%，理由是前沿实验室营收增长放缓、资本市场收紧、美国数据中心延期。周一盘前 NVDA 跌超 5%，纳指 100 期货跌 1.7%。【二手】\n\n4. OpenAI 请四家外部机构「驻场」查对齐。Apollo Research、METR、Transluce、Goodfire 可深度接触内部模型和系统；Apollo 派 6 人驻场 4 个月查模型会不会规避监督，METR 评估 OpenAI 最大一次 RL 训练并会发报告。另据 The Information，OpenAI 今夏曾谈以 50 亿美元以上收购 Goodfire，因对方要保持独立未成。【合作一手，收购二手】\n\n5. 国产模型两连发。阿里 Qwen4-Max 正式发布（上周报过预览版）：官方称比 Qwen3.8-Max 少用约一半 token，单任务成本降一半以上，27B 等小尺寸 Qwen4 随后发布；腾讯混元 Hy4 Flash 上线 OpenRouter，100 万上下文，11 月 30 日前半价，输入每百万 token 0.035 美元。【一手】\n\n6. Perplexity 成立 Frontier Research，投入至少 1 万张 GPU 做「自动研究员」，方向是多智能体编排、强化学习和持续学习，承诺公开评测、论文并开源模型。【一手】\n\n7. Databricks 发布 AI Index（覆盖 1 万多家企业）：开源模型的 token 占比 3.5 个月内从 7.3% 涨到 30.9%；75% 的企业同时用两家以上模型供应商。【一手，企业自有数据】\n\n8. 融资：防御型网络安全模型公司 Corma 完成 1.25 亿美元 A 轮，估值 10 亿美元，NEA 领投；斯坦福教授 Yejin Choi 和 Carlos Guestrin 创办的 Noeri 带着 1.1 亿美元种子轮亮相，做可自我改进的专用 AI。【一手，Noeri 领投方二手】\n\n深挖：BIS 远程访问新规到底管什么\n\n堵的是什么漏洞：过去出口管制只管把芯片运出去，不管租用。中国 AI 公司可以通过新加坡、马来西亚等地的数据中心远程用上先进 NVIDIA 芯片。这次的临时最终规则明确要把远程访问和实物出口的管控对齐，BIS 说规则由财政部和国家安全委员会主导起草。\n\n怎么管：不直接禁租，而是卡供应端。数据中心如果向总部在 D:5 国家或澳门的公司提供超过 1200 万总 TPP 的算力（几个联网共享负载的数据中心合并算），给它供先进芯片、服务器、软件和技术就要许可证。数据中心、境外代工厂和芯片出口商都要做客户尽调，包括间接控股。\n\n豁免和过渡：商业推荐系统豁免。据 TechCrunch 等转述，现有运营方有 90 天申请许可证。\n\n背景：前天美国刚开始调查 NVIDIA 是否借东南亚数据中心违规向中国卖芯片；上周有研究者称几家中国开源模型是在 Blackwell 上训练的。新规正好补上这一环。\n\n对国内用户的影响：海外云上大规模训练会更难，东南亚 GPU 租赁的审核会明显变严；普通用户调用海外模型 API 不在这条规则的直接管辖范围内。后续看 90 天过渡期内各大云厂商怎么做 KYC。\n\n来源：\nBIS 新闻稿：https://t.co/AiNsH1pf0r\nBIS 规则全文：https://t.co/dMFq8S6zEa\nBloomberg 报道：https://t.co/h8nEIGkwVu\n国家冠军（WSJ 转述）：https://t.co/twgMPCoZmC\nSemiAnalysis 下调预测：https://t.co/ul1skrP8ah\nOpenAI 外部评估：https://t.co/R70NsbtoR1\nMETR：https://t.co/RWjjEUS0A3\nGoodfire 收购传闻：https://t.co/ILuEr407nw\nQwen4-Max：https://t.co/tmOuQ1wPy7\nHy4 Flash：https://t.co/u1xTbExae3\nPerplexity Frontier Research：https://t.co/sDwohHi7Gi\nDatabricks AI Index：https://t.co/HeHoEUQqaC\nCorma：https://t.co/ctuEHqiPs5\nNoeri：https://t.co/VJjDVA6iVQ"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 60,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122376192762478979",
+          "type": "quoted"
+        }
+      ],
+      "text": "11月17日周二，几条 AI 动态整理：\n\n1. 美国封堵「远程租算力」。BIS 发布远程访问新规：任何数据中心，只要向总部在中国（D:5 国家组）或澳门的公司提供超过 1200 万「总 https://t.co/VJjDVA6iVQ",
+      "url": "https://x.com/ResetTor/status/2122484275555746056"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122483203370070016"
+        ]
+      },
+      "author_id": "1514641399043424258",
+      "conversation_id": "2122483216556921107",
+      "created_at": "2026-11-17T00:13:27.000Z",
+      "edit_history_tweet_ids": [
+        "2122483216556921107"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/bdrU3Kf5iZ",
+            "end": 181,
+            "expanded_url": "https://x.com/KOF97AI/status/2122483216556921107/photo/1",
+            "media_key": "3_2122483203370070016",
+            "start": 158,
+            "url": "https://t.co/bdrU3Kf5iZ"
+          }
+        ]
+      },
+      "id": "2122483216556921107",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "hashtags": [
+            {
+              "end": 641,
+              "start": 636,
+              "tag": "开源项目"
+            },
+            {
+              "end": 651,
+              "start": 642,
+              "tag": "GitHub精选"
+            },
+            {
+              "end": 657,
+              "start": 652,
+              "tag": "AI工具"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 574,
+              "id": "1720665183188922368",
+              "start": 569,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "github.com/debpalash/Voic…",
+              "end": 193,
+              "expanded_url": "https://github.com/debpalash/VoiceStudio",
+              "start": 170,
+              "url": "https://t.co/muamlQaUd7"
+            },
+            {
+              "display_url": "github.com/hugohe3/ppt-ma…",
+              "end": 269,
+              "expanded_url": "https://github.com/hugohe3/ppt-master",
+              "start": 246,
+              "url": "https://t.co/qvqeXAyA2X"
+            },
+            {
+              "display_url": "github.com/mattpocock/ski…",
+              "end": 390,
+              "expanded_url": "https://github.com/mattpocock/skills",
+              "start": 367,
+              "url": "https://t.co/chsEeW9QSv"
+            },
+            {
+              "display_url": "github.com/thedotmack/cla…",
+              "end": 449,
+              "expanded_url": "https://github.com/thedotmack/claude-mem",
+              "start": 426,
+              "url": "https://t.co/zMKwvAfTrq"
+            }
+          ]
+        },
+        "text": "GitHub 上这批高赞免费开源工具，几乎能把日常付费 SaaS 替代个七七八八\n\n平时折腾视频配音、做汇报 PPT 或调教编码 Agent，动辄就得买好几个按月扣费的订阅服务。近期 GitHub 上集中爆火了一批高星开源仓库，全部免费开源且能直接在本地跑起来，经逐个核实仓库真实可用：\n\n做音视频本地化可以直接看 VoiceStudio（https://t.co/muamlQaUd7 ，11.1 万 Star，支持本地声音克隆、配音与多语种转录）；做汇报文档可以看 ppt-master（https://t.co/qvqeXAyA2X ，7.7 万 Star，把 PDF 或 Word 直接转成带原生形状和动画的 PPT）；写代码常用 Claude Code 或 Codex 的话，推荐直接抄 mattpocock/skills（https://t.co/chsEeW9QSv ，32.5 万 Star，工程实践技能合集）和 claude-mem（https://t.co/zMKwvAfTrq ，11.7 万 Star，跨会话自动总结保存上下文）。\n\n整套原推清单里还有自动逆向分析应用的 rea、画架构图的 diagram-design 和多智能体编排工具 paperclip，按需去仓库挑着装就行，省下不少月租费。\n\n你怎么看？@grok 开源社区把本地配音、原生 PPT 生成和 Agent 记忆都做成了免费工具，普通用户还愿意为单点付费 SaaS 买单吗？\n#开源项目 #GitHub精选 #AI工具"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 83,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "text": "GitHub 上这批高赞免费开源工具，几乎能把日常付费 SaaS 替代个七七八八\n\n平时折腾视频配音、做汇报 PPT 或调教编码 Agent，动辄就得买好几个按月扣费的订阅服务。近期 GitHub 上集中爆火了一批高星开源仓库，全部免费开源且能直接在本地跑起来，经逐个核实仓库真实可用：\n\n做音视频本地化可以直接看 https://t.co/bdrU3Kf5iZ",
+      "url": "https://x.com/KOF97AI/status/2122483216556921107"
+    },
+    {
+      "author_id": "1830139999209340929",
+      "conversation_id": "2122483097291952586",
+      "created_at": "2026-11-17T00:12:58.000Z",
+      "edit_history_tweet_ids": [
+        "2122483097291952586"
+      ],
+      "id": "2122483097291952586",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 20,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "text": "做 Agent 别只盯工具调用的正向执行，具备逆向补偿机制的分布式事务才是防范脏写与资金损毁的兜底防线。智能体在多步骤调用中极易因中间步骤报错导致系统状态撕裂。在调用链注入 Saga 事务编排与故障冲正能力，才能保证复杂业务在异常崩溃时从容回滚。",
+      "url": "https://x.com/bencongyyds/status/2122483097291952586"
+    },
+    {
+      "author_id": "1563006221334249472",
+      "conversation_id": "2122482374500044897",
+      "created_at": "2026-11-17T00:10:06.000Z",
+      "edit_history_tweet_ids": [
+        "2122482374500044897"
+      ],
+      "id": "2122482374500044897",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/NVIDIA/SkillEv…",
+              "end": 538,
+              "expanded_url": "https://github.com/NVIDIA/SkillEvaluator",
+              "start": 515,
+              "url": "https://t.co/TNP5dugXhP"
+            },
+            {
+              "display_url": "docs.nvidia.com/skills/skillev…",
+              "end": 562,
+              "expanded_url": "https://docs.nvidia.com/skills/skillevaluator/",
+              "start": 539,
+              "url": "https://t.co/80cXoaJnjo"
+            }
+          ]
+        },
+        "text": "NVIDIA 开源了 SkillEvaluator，用来检查 AI 智能体技能，并测量加上技能后任务结果有没有变化。这里的技能，指按 Agent Skills 规范放在文件夹里的说明和附件。现在常见的用法是直接装进智能体，但一直缺一套工具，能把技能写得规不规范和用了以后有没有帮上忙分开检查。\n\n按 README 的说法，它分三层。第一层 Validation，检查技能是否安全、形态是否正确、能否和所用的 harness 兼容。第二层 Deduplication，看指导内容有没有重复或重叠。第三层 Live Evaluation，默认在 Docker 沙箱里分别跑有技能和无技能的任务，比较结果差多少。部分质量检查不需要 API 密钥，也不调用 LLM。\n\n它对自己的定位写得很克制。工具只负责检查和对比，不会自动生成技能，也不保证技能一定有用。仓库说它是 NVIDIA Verified Skills 流程的一部分，支持级别标为 Experimental，由社区尽力支持，没有 SLA，也不属于 NVIDIA 企业支持权益。\n\n我认为第三层最有用。技能写得再整齐，没跑过有技能和无技能的对照，就说不清它到底起了什么作用。\n\nhttps://t.co/TNP5dugXhP\nhttps://t.co/80cXoaJnjo"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 62,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "NVIDIA 开源了 SkillEvaluator，用来检查 AI 智能体技能，并测量加上技能后任务结果有没有变化。这里的技能，指按 Agent Skills 规范放在文件夹里的说明和附件。现在常见的用法是直接装进智能体，但一直缺一套工具，能把技能写得规不规范和用了以后有没有帮上忙分开检查。\n\n按 README",
+      "url": "https://x.com/liliynz1/status/2122482374500044897"
+    },
+    {
+      "author_id": "1890749643325341696",
+      "conversation_id": "2122482255927112013",
+      "created_at": "2026-11-17T00:09:38.000Z",
+      "edit_history_tweet_ids": [
+        "2122482255927112013"
+      ],
+      "id": "2122482255927112013",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/Panniantong/Ag…",
+              "end": 259,
+              "expanded_url": "https://github.com/Panniantong/Agent-Reach",
+              "start": 236,
+              "url": "https://t.co/rltqCZ0akA"
+            },
+            {
+              "display_url": "github.com/Panniantong/Ag…",
+              "end": 2171,
+              "expanded_url": "https://github.com/Panniantong/Agent-Reach",
+              "start": 2148,
+              "url": "https://t.co/rltqCZ0akA"
+            }
+          ]
+        },
+        "text": "Agent 时代最稀缺的资源，可能不是更强的模型，而是模型根本访问不到的数据：X 的真实讨论、Reddit 的社区情绪、YouTube 的视频内容，以及小红书的中文生态。\n\n📦 项目档案\n\n项目：Panniantong/Agent-Reach\n\nStar：⭐ 112335\n\n技术栈：Python + CLI + 多平台上游工具集成\n\n核心定位：为 AI Agent 构建统一的互联网访问能力层，让 Agent 不再被传统搜索引擎和公开网页的边界限制。\n\nGitHub： https://t.co/rltqCZ0akA\n\n🛠️ 一、真正值得研究的，是它的架构设计\n\n1. Capability Layer：能力层与执行层解耦\n\nAgent Reach 最值得借鉴的设计，不是自己重新造一套爬虫，而是把互联网访问能力抽象成独立的 Capability Layer。\n\n它负责四件事：\n\n• 平台能力选择 • 上游工具安装 • 环境与依赖检查 • 访问路径管理\n\n真正执行数据读取的，是底层专业工具。\n\n例如： X → Twitter CLI Reddit → rdt-cli / OpenCLI YouTube → yt-dlp GitHub → gh CLI 网页 → Jina Reader B站 → bili-cli\n\n这是一种典型的工具编排思路：控制面负责管理，执行面负责干活。\n\nAgent Reach 不必把每个平台的复杂实现全部塞进自己的代码库，而是复用成熟生态，把维护成本压到更低。\n\n2. Multi-Backend：主路径 + 备用路径\n\n互联网平台最麻烦的地方是什么？\n\n不是没有接口，而是接口随时可能失效。\n\nCookie 过期、反爬策略升级、IP 被封、上游 CLI 停止维护，都会导致 Agent 的数据入口失灵。\n\nAgent Reach 的设计采用按平台组织的有序 Backend 列表。\n\n每个平台可以配置 Primary 和 Fallback。\n\n当某条访问路径失效，就可以调整后端顺序，而不必重写整个 Agent 的工作流。\n\n这实际上是在解决数据接入系统的可维护性问题。\n\n3. CLI + MCP：让不同 Agent 共享互联网能力\n\n它没有绑定某一个模型厂商。\n\nClaude Code、Codex、OpenClaw、Hermes Agent 等能够执行命令的 Agent，都可以接入这套能力。\n\n底层通过 CLI 调用专业工具，也能借助 MCP 生态接入相应服务。\n\n更关键的是，它不是把所有数据重新包装成一个臃肿的统一 API，而是尽可能让 Agent 直接调用上游工具。\n\n这种设计减少了不必要的中间封装，也降低了重复开发成本。\n\n4. Health Check + 本地配置：把运维问题前置\n\n很多 Agent 工具最大的隐患是：安装成功，不代表长期可用。\n\nAgent Reach 提供了几个非常实用的运维能力：\n\n• agent-reach channels：查看平台及其支持的操作。 • agent-reach doctor：检查各渠道当前运行状态。 • agent-reach watch：执行健康检查与更新检查。 • agent-reach configure：管理 Cookie、代理等配置。\n\n所有相关配置集中在 ~/.agent-reach/，避免工具、登录状态和配置文件散落在不同目录。\n\n这实际上把传统爬虫项目中最容易被忽视的环境管理和故障排查，也纳入了统一的生命周期管理。\n\n二、它究竟解决了什么工程问题？\n\n过去想让一个 Agent 完成跨平台研究，开发者通常需要经历：\n\n搜索 API → 寻找爬虫 → 安装依赖 → 配置 Cookie → 处理代理 → 调试反爬 → 解析网页 → 清洗数据 → 接入 Agent。\n\n每增加一个平台，就多一套维护负担。\n\n现在，Agent Reach 把这些重复劳动抽象成统一的渠道管理与调用入口。\n\n例如：\n\n让 Agent 搜索 Reddit 上的 AI Agent 讨论，提取 YouTube 视频字幕，再读取 GitHub 项目的 README，最后结合小红书用户反馈生成竞品分析。\n\n这才是它真正有价值的地方：让 Agent 从只能理解互联网，升级为能够主动获取互联网信息。\n\n但必须注意三个边界：\n\n第一，零 API 费用不等于零成本，部分渠道仍需要登录、Cookie、代理或模型服务密钥。\n\n第二，不同平台的访问能力存在差异，部分渠道属于实验性功能。\n\n第三，它主要提供搜索和读取能力，不是能够替用户自动发布内容的社交媒体机器人。\n\n🧠 三、我的技术判断\n\nAgent Reach 最值得关注的，不是它接入了多少个平台，而是它选择了一条更务实的工程路线：\n\n不重复造轮子，不强行统一所有底层实现，而是通过标准化的能力入口、上游工具复用和备用后端机制，构建可持续维护的互联网访问层。\n\n未来 Agent 的竞争，不仅是模型推理能力的竞争，更是数据触达能力的竞争。\n\n谁能更稳定、更低成本地连接真实世界的数据，谁就更有机会构建真正有用的智能体。\n\nGitHub 开源地址： https://t.co/rltqCZ0akA"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 366,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 9,
+        "retweet_count": 1
+      },
+      "text": "Agent 时代最稀缺的资源，可能不是更强的模型，而是模型根本访问不到的数据：X 的真实讨论、Reddit 的社区情绪、YouTube 的视频内容，以及小红书的中文生态。\n\n📦 项目档案\n\n项目：Panniantong/Agent-Reach\n\nStar：⭐ 112335\n\n技术栈：Python + CLI + 多平台上游工具集成\n\n核心定位：为 AI Agent",
+      "url": "https://x.com/ChuckBass8808/status/2122482255927112013"
+    },
+    {
+      "author_id": "1061781458107326464",
+      "conversation_id": "2122482115334033633",
+      "created_at": "2026-11-17T00:09:04.000Z",
+      "edit_history_tweet_ids": [
+        "2122482115334033633"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/hongming731/st…",
+            "end": 163,
+            "expanded_url": "https://twitter.com/hongming731/status/2122482053937840258",
+            "start": 140,
+            "url": "https://t.co/YsCzJvuTdK"
+          }
+        ]
+      },
+      "id": "2122482115334033633",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "bestblogs.dev/article/d638a3…",
+              "end": 282,
+              "expanded_url": "https://www.bestblogs.dev/article/d638a31a6b",
+              "start": 259,
+              "url": "https://t.co/HEkdboguvJ"
+            },
+            {
+              "display_url": "bestblogs.dev/video/629b17cab",
+              "end": 515,
+              "expanded_url": "https://www.bestblogs.dev/video/629b17cab",
+              "start": 492,
+              "url": "https://t.co/9TvJ21bZf1"
+            },
+            {
+              "display_url": "bestblogs.dev/video/aa8df7694",
+              "end": 738,
+              "expanded_url": "https://www.bestblogs.dev/video/aa8df7694",
+              "start": 715,
+              "url": "https://t.co/MFNBTqfFpL"
+            },
+            {
+              "display_url": "bestblogs.dev/video/f1ce47c0f",
+              "end": 933,
+              "expanded_url": "https://www.bestblogs.dev/video/f1ce47c0f",
+              "start": 910,
+              "url": "https://t.co/2FFgbtE8db"
+            },
+            {
+              "display_url": "bestblogs.dev/article/711409…",
+              "end": 1100,
+              "expanded_url": "https://www.bestblogs.dev/article/711409fd9a",
+              "start": 1077,
+              "url": "https://t.co/2PcYNUGisn"
+            },
+            {
+              "display_url": "bestblogs.dev/article/c85442…",
+              "end": 1301,
+              "expanded_url": "https://www.bestblogs.dev/article/c85442d8c9",
+              "start": 1278,
+              "url": "https://t.co/9NGnKlhEjZ"
+            },
+            {
+              "display_url": "bestblogs.dev/video/ff7b1a9ea",
+              "end": 1490,
+              "expanded_url": "https://www.bestblogs.dev/video/ff7b1a9ea",
+              "start": 1467,
+              "url": "https://t.co/Ua0CRGe1Xu"
+            },
+            {
+              "display_url": "bestblogs.dev/article/9a5dcc…",
+              "end": 1661,
+              "expanded_url": "https://www.bestblogs.dev/article/9a5dccd458",
+              "start": 1638,
+              "url": "https://t.co/877ZzOXULm"
+            },
+            {
+              "display_url": "Latent.Space",
+              "end": 1829,
+              "expanded_url": "http://Latent.Space",
+              "start": 1806,
+              "url": "https://t.co/DuolSfZeyY"
+            },
+            {
+              "display_url": "bestblogs.dev/article/0be47d…",
+              "end": 1853,
+              "expanded_url": "https://www.bestblogs.dev/article/0be47d5453",
+              "start": 1830,
+              "url": "https://t.co/U59iVTu8MO"
+            },
+            {
+              "display_url": "bestblogs.dev/article/e0915a…",
+              "end": 2020,
+              "expanded_url": "https://www.bestblogs.dev/article/e0915ac81c",
+              "start": 1997,
+              "url": "https://t.co/PrbnR9jHxv"
+            },
+            {
+              "display_url": "BestBlogs.dev",
+              "end": 2049,
+              "expanded_url": "http://BestBlogs.dev",
+              "start": 2026,
+              "url": "https://t.co/88ZBr47sdT"
+            },
+            {
+              "display_url": "bestblogs.dev/explore/brief/…",
+              "end": 2179,
+              "expanded_url": "https://www.bestblogs.dev/explore/brief/2026-11-17",
+              "start": 2156,
+              "url": "https://t.co/g8pNEVrEH0"
+            }
+          ]
+        },
+        "text": "BestBlogs 早报 · 11-17\n\n# 旗舰模型 / 软件工厂 / 消费智能体 / 验证闭环 / 推理成本\n\n[1] ★ 精讲｜Qwen4-Max 首发上线千问 AI 平台，API 服务、Token Plan 同步开放\nQwen4-Max 已开放 API 与 Token Plan，原生视觉、百万上下文及长程工具任务同时升级。相较同题报道和短推，这篇平台一手说明还给出实际调用入口、价格与任务成本，帮助读者决定是否启动迁移试测。同时把厂商基准与真实任务验收分开，理解新模型适合怎样的测试。\n来源：阿里云开发者\nhttps://t.co/HEkdboguvJ\n\n[2] ★ 精讲｜当生成代码变便宜，软件工程师该把时间花在哪？Satya Nadella 访谈 [视频]\n纳德拉从微软的软件工厂与既有系统改造解释代码变便宜后验证、意图和基础设施为何更重要。相比宏观经济讨论和单点工具教程，Windows、GitHub、Azure 的实例同时改变工程师职业判断与企业 AI 架构取舍。也为团队安排学习和验证投入提供清楚的阅读路径。\n来源：The Pragmatic Engineer\nhttps://t.co/9TvJ21bZf1\n\n[3] ★ 精讲｜Meta 如何从周末实验做出消费级智能体 Muse｜Mona Sarantakos [视频]\nMeta 的 Muse 产品负责人把七个月发布周期拆成可靠性、安全评测、合成数据与交互设计选择。多轮长任务缺少训练数据、购物需求超出预期、主对话与分支对话各有取舍，这些具体案例帮助读者理解消费级智能体为何难在原型之后，并改进自己的产品验证方法。\n来源：Lenny's Podcast\nhttps://t.co/MFNBTqfFpL\n\n[4] 智能体写得越快，怎样守住代码质量？｜Lauren Tan [视频]\nLauren Tan 用 Dune 的目录边界、禁用易误用 API 和可执行 lint 展示怎样把反复纠错沉淀为代码约束。相较 Grokbot 访谈的权限协作综述，这场一线实践可直接帮助团队减少智能体产生的重复缺陷，信息增量更集中。\n来源：AI Engineer\nhttps://t.co/2FFgbtE8db\n\n[5] Hy4 flash 发布：日常工作的极致性价比模型\n腾讯 Hy4 flash 把成本优化贯穿模型架构、后训练、真实工作评测和推理部署，且已接入腾讯产品与 API。与 Qwen4-Max 的能力上限方向互补，可帮助读者区分轻量日常任务与复杂长程任务的模型选择。\n来源：腾讯混元\nhttps://t.co/2PcYNUGisn\n\n[6] 借助位级零训练—推理偏差，在 TPU 上实现稳定的 On-Policy RL\nGoogle 的 Zero-TIM 指出相同权重在训练与推理路径仍会产生 logprob 偏差，并给出 TPU 位级一致的实现步骤。训练团队可据此定位 On-Policy RL 不稳定的数值根因，而非只继续调参。\n来源：Google Developers Blog\nhttps://t.co/9NGnKlhEjZ\n\n[7] 四天、零行手写代码：Trimble 如何用 GitHub Copilot 推进仓库合规 [视频]\nTrimble 将 GitHub Copilot 用于仓库合规，把规范变为确定性审计工具而非让模型直接决定政策。审计、议题生成与整改后的持续维护提供可复用案例，帮助团队设计能长期运行的 AI 自动化。\n来源：GitHub\nhttps://t.co/Ua0CRGe1Xu\n\n[8] 智能体是会话，而非请求：为 AI 智能体会话配置 GKE 节点池\nGoogle 以智能体会话长期空闲为出发点，比较 GKE 节点常驻、释放和沙箱暂存方案。成本模型同时给出节省与提示频率的关系，帮助平台团队选择会话生命周期管理方式。\n来源：Google Developers Blog\nhttps://t.co/877ZzOXULm\n\n[9] Black Forest Labs 联创谈视觉智能：图像、视频与声音如何一起学习\nBlack Forest Labs 联合创始人解释图像、视频、音频三种训练信号如何构建视觉智能，并讨论扩散蒸馏与自回归的成本取舍。读者能把生成效果转化为时序一致性与编辑保真的具体评估标准。\n来源：https://t.co/DuolSfZeyY\nhttps://t.co/U59iVTu8MO\n\n[10] 构建 AI 时代的知识底座：直播数据 LLM Wiki 实践\n淘宝直播数据团队把 DDL、代码等材料编译成有契约和显式关系的 LLM Wiki，面对的是领域知识矛盾与腐化。相较继续扩大 RAG 检索，这份实践帮助数据团队决定怎样建立可验证的知识维护流程。\n来源：大淘宝技术\nhttps://t.co/PrbnR9jHxv\n\n---\nhttps://t.co/88ZBr47sdT · 发现真正适合你的高质量内容\nBestBlogs 是 AI 驱动的私人阅读助手，帮助你发现真正适合你的高质量内容，关注你感兴趣的来源和主题，每天生成一份更适合自己的「我的早报」，欢迎体验和关注我们。\n在线阅读：https://t.co/g8pNEVrEH0"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 150,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122482053937840258",
+          "type": "quoted"
+        }
+      ],
+      "text": "BestBlogs 早报 · 11-17\n\n# 旗舰模型 / 软件工厂 / 消费智能体 / 验证闭环 / 推理成本\n\n[1] ★ 精讲｜Qwen4-Max 首发上线千问 AI 平台，API 服务、Token Plan 同步开放\nQwen4-Max 已开放 API 与 Token https://t.co/YsCzJvuTdK",
+      "url": "https://x.com/hongming731/status/2122482115334033633"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2122490927491194880",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSaQMwaIAAfcWI.jpg",
+        "width": 1200
+      },
+      {
+        "height": 512,
+        "media_key": "3_2122489578053656576",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSZBptbYAAjkoG.jpg",
+        "width": 1280
+      },
+      {
+        "height": 483,
+        "media_key": "3_2122490132007915520",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSZh5WakAAmEZx.jpg",
+        "width": 1280
+      },
+      {
+        "height": 535,
+        "media_key": "3_2122490049120116736",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSZdEkbIAAiAOt.jpg",
+        "width": 931
+      },
+      {
+        "height": 1193,
+        "media_key": "3_2122489818680864768",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSZPqHbMAAXGvc.jpg",
+        "width": 1280
+      },
+      {
+        "height": 572,
+        "media_key": "3_2121886451185094656",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXJ0fDCaEAACOol.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1462,
+        "media_key": "3_2122489191808552960",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSYrK1a0AAee6T.jpg",
+        "width": 1080
+      },
+      {
+        "height": 3526,
+        "media_key": "3_2122488380164554752",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSX77OaQAAndu4.png",
+        "width": 1880
+      },
+      {
+        "height": 900,
+        "media_key": "3_2122483203370070016",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSTOmKbMAAMrYu.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "author_id": "759894532649545732",
+        "conversation_id": "2122411451092807926",
+        "created_at": "2026-11-16T19:28:17.000Z",
+        "edit_history_tweet_ids": [
+          "2122411451092807926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/perplexitydevs…",
+              "end": 184,
+              "expanded_url": "https://twitter.com/perplexitydevs/status/2122408441042149853",
+              "start": 161,
+              "url": "https://t.co/h5kCVvxeW0"
+            }
+          ]
+        },
+        "id": "2122411451092807926",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 109,
+          "impression_count": 17357,
+          "like_count": 247,
+          "quote_count": 4,
+          "reply_count": 52,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122408441042149853",
+            "type": "quoted"
+          }
+        ],
+        "text": "Announcing Perplexity Monitor: an API that lets you track any event or topic or changes to webpages and set up webhooks to update you. Costs a $1 for 1000 runs. https://t.co/h5kCVvxeW0"
+      },
+      {
+        "author_id": "786375418685165568",
+        "conversation_id": "2122481947213717705",
+        "created_at": "2026-11-17T00:08:24.000Z",
+        "edit_history_tweet_ids": [
+          "2122481947213717705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/macrumors/stat…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/macrumors/status/2122436634172129687",
+              "start": 95,
+              "url": "https://t.co/OoFf0Ngu35"
+            }
+          ]
+        },
+        "id": "2122481947213717705",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 9425,
+          "like_count": 165,
+          "quote_count": 1,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122436634172129687",
+            "type": "quoted"
+          }
+        ],
+        "text": "Apple stays impressively behind. It’s like they want us to reconsider our choice to use MacOS. https://t.co/OoFf0Ngu35"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122376040999956480"
+          ]
+        },
+        "author_id": "1115817574078582785",
+        "conversation_id": "2122376192762478979",
+        "created_at": "2026-11-16T17:08:10.000Z",
+        "edit_history_tweet_ids": [
+          "2122376192762478979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "2058240803617792000",
+              "start": 24,
+              "username": "noeri_ai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QyLAJUwNqe",
+              "end": 302,
+              "expanded_url": "https://x.com/rajammanabrolu/status/2122376192762478979/video/1",
+              "media_key": "13_2122376040999956480",
+              "start": 279,
+              "url": "https://t.co/QyLAJUwNqe"
+            }
+          ]
+        },
+        "id": "2122376192762478979",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 33,
+                "id": "2058240803617792000",
+                "start": 24,
+                "username": "noeri_ai"
+              },
+              {
+                "end": 432,
+                "id": "157213093",
+                "start": 425,
+                "username": "yejinc"
+              },
+              {
+                "end": 442,
+                "id": "86817052",
+                "start": 433,
+                "username": "guestrin"
+              },
+              {
+                "end": 511,
+                "id": "185358059",
+                "start": 497,
+                "username": "MenloVentures"
+              },
+              {
+                "end": 528,
+                "id": "28001649",
+                "start": 512,
+                "username": "MadronaVentures"
+              },
+              {
+                "end": 537,
+                "id": "1544275620",
+                "start": 529,
+                "username": "Wing_VC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "noeri.ai/#careers",
+                "end": 1624,
+                "expanded_url": "https://noeri.ai/#careers",
+                "start": 1601,
+                "url": "https://t.co/re7S25CMue"
+              }
+            ]
+          },
+          "text": "Today we're introducing @noeri_ai, a new AI company whose name literally means \"the plural of intelligence\" with a $110m seed! \n\nModern problems require modern solutions. In particular we care about (scientific) discovery - you'll hear from others what that else it means below!\n\nI def took quite a leap of faith when I left Nvidia a bit ago to help lead the research team here. It's been an honor to be on this journey with @yejinc @guestrin and the entire founding team! Thanks to our investors @MenloVentures @MadronaVentures @Wing_VC and many others.\n\nAt UCSD over the last few years, I started becoming rather obsessed with the idea of discovery shaped problems: where you want to optimize for solving for max reward instead of average, where the horizons measure in months, where you're rate limited by physics, and where there's immediate real world impact if you get it right. I've spent a lot of time with scientists and in wet labs trying to figure out how to ~accelerate~ (SWE & white collar are imp ofc but if that's all AI manages to automate, that would be very sad)\n\nWe've already been seeing massive improvements with our customers (and hope to share lots more in the coming weeks)! If this sounds like something you want to work with us on, join our wait-list by reaching out create@noeri.ai\n\nI've always said half of my motivation to go work is to hang out with fun smart people, the other half is to do cool stuff (and a hidden third half is to have nice sweets everyday). We've got all three and we're hiring all across the board - research, eng, product, ops, sales, etc! Join us https://t.co/re7S25CMue"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 20657,
+          "like_count": 187,
+          "quote_count": 14,
+          "reply_count": 34,
+          "retweet_count": 37
+        },
+        "text": "Today we're introducing @noeri_ai, a new AI company whose name literally means \"the plural of intelligence\" with a $110m seed! \n\nModern problems require modern solutions. In particular we care about (scientific) discovery - you'll hear from others what that else it means below! https://t.co/QyLAJUwNqe"
+      },
+      {
+        "article": {
+          "cover_media": "3_2122481206537449472",
+          "entities": {
+            "urls": [
+              {
+                "text": "BestBlogs.dev"
+              },
+              {
+                "text": "Latent.Space"
+              },
+              {
+                "text": "BestBlogs.dev"
+              },
+              {
+                "text": "BestBlogs.dev"
+              },
+              {
+                "text": "BestBlogs.dev"
+              },
+              {
+                "text": "https://www.bestblogs.dev/explore/brief/2026-11-15"
+              },
+              {
+                "text": "https://www.bestblogs.dev/video/f1ce47c0f"
+              },
+              {
+                "text": "https://www.bestblogs.dev/video/aa8df7694"
+              },
+              {
+                "text": "https://www.bestblogs.dev/video/ff7b1a9ea"
+              },
+              {
+                "text": "https://www.bestblogs.dev/article/9a5dccd458"
+              },
+              {
+                "text": "https://www.bestblogs.dev/video/629b17cab"
+              },
+              {
+                "text": "https://www.bestblogs.dev/article/711409fd9a"
+              },
+              {
+                "text": "https://www.bestblogs.dev/video/f1ce47c0f"
+              },
+              {
+                "text": "https://www.bestblogs.dev/video/aa8df7694"
+              },
+              {
+                "text": "https://www.bestblogs.dev/explore/brief/2026-11-16"
+              },
+              {
+                "text": "https://www.bestblogs.dev/article/9a5dccd458"
+              },
+              {
+                "text": "https://www.bestblogs.dev/article/0be47d5453"
+              },
+              {
+                "text": "https://www.bestblogs.dev/newsletter/issue120"
+              },
+              {
+                "text": "https://www.bestblogs.dev/explore/brief/2026-11-14"
+              },
+              {
+                "text": "https://www.bestblogs.dev/article/c85442d8c9"
+              },
+              {
+                "text": "https://www.bestblogs.dev/video/629b17cab"
+              },
+              {
+                "text": "https://www.bestblogs.dev/video/7a315b81b0"
+              },
+              {
+                "text": "https://www.bestblogs.dev/newsletter/issue121"
+              },
+              {
+                "text": "https://www.bestblogs.dev/article/d638a31a6b"
+              },
+              {
+                "text": "https://www.bestblogs.dev/article/c85442d8c9"
+              },
+              {
+                "text": "https://www.bestblogs.dev/article/0be47d5453"
+              },
+              {
+                "text": "https://www.bestblogs.dev/article/711409fd9a"
+              },
+              {
+                "text": "https://www.bestblogs.dev/explore/brief/2026-11-15"
+              },
+              {
+                "text": "https://www.bestblogs.dev/explore/brief/2026-11-17"
+              },
+              {
+                "text": "https://www.bestblogs.dev/video/ff7b1a9ea"
+              },
+              {
+                "text": "https://www.bestblogs.dev/article/d638a31a6b"
+              },
+              {
+                "text": "https://www.bestblogs.dev/newsletter/issue119"
+              },
+              {
+                "text": "https://www.bestblogs.dev/article/d07da9fed6"
+              },
+              {
+                "text": "https://www.bestblogs.dev/explore/brief/2026-11-16"
+              },
+              {
+                "text": "https://www.bestblogs.dev/article/e0915ac81c"
+              },
+              {
+                "text": "https://www.bestblogs.dev/article/e0915ac81c"
+              }
+            ]
+          },
+          "media_entities": [
+            "3_2122481320970620928",
+            "3_2122481254562242560",
+            "3_2122481273851801600",
+            "3_2122481320903471104",
+            "3_2122481288510902272",
+            "3_2122481751083917312",
+            "3_2122481273868541952",
+            "3_2122481544187260928",
+            "3_2122481332592979968"
+          ],
+          "plain_text": "在线阅读本期早报\nBestBlogs.dev 是 AI 驱动的私人阅读助手。这是面向所有人的每日早报内容，如果你希望它基于你的兴趣和阅读习惯整理，可以体验「我的早报」。\n导语\n旗舰模型可以处理更长的任务，团队怎样判断一次升级究竟改善了多少工作？阿里开放 Qwen4-Max，把能力、工具链和任务成本放在一起；微软 CEO 纳德拉回到意图、验证和系统控制；Meta 的 Muse 负责人则讲述从可工作的原型到消费者愿意托付之间的产品细节。\n从这些一手材料出发，可以分别比较三类决定：何时试用新模型，哪些工程能力应当掌握在自己手中，以及怎样让用户真正理解并信任一个智能体。后面的七条实践继续补足代码约束、训练一致性、治理和计算资源，让判断能落到具体流程。\n★ 精讲一 | Qwen4-Max 首发上线千问 AI 平台，API 服务、Token Plan 同步开放\n来源：阿里云开发者 · BestBlogs 评分：92\n \n千问四代的最强版本 Qwen4 Max 已经上线千问 AI 平台，开发者可以通过 API 和 Token Plan 调用。阿里云的介绍说，它采用新的稀疏注意力和混合专家架构，总参数量达到二点四万亿，支持原生视觉与百万级上下文。对准备使用的人，值得关注的是这些能力怎样进入完整任务，以及完成任务要付出多少费用。\n先看编程评测。阿里在同一个高思考档位下比较了它与上一代模型。每次尝试平均消耗的 token，从二十八万九千降到十五万一千，接近减半；同时，测试得分从三十七点九提高到四十八点五。厂商还报告，完成单个任务的平均费用降低了百分之五十八，其中也包含缓存命中价格下降的影响。这几组数字有各自的分母：一次尝试、评测得分和一个任务的费用，需要放在各自口径里理解。\n工业案例更容易解释长程任务意味着什么。模型读入二维布局图和工艺参数，调用设备库构建三维产线，再做节拍仿真与虚拟调试。在零件加工中，它还要规划工艺、生成刀路，并根据仿真结果发现过切或少切。阿里展示的一个案例里，单件加工编程的人工投入从约四百七十五分钟降到二十六分钟。这里让流程有价值的，是模型能读懂反馈，再把方案往前推进。\n科研部分也展示了两种不同的进度。在冷却液探索中，模型通过干湿实验环境筛选分子，安排实验，经历四轮设计、合成测试与主动学习，最后得到经过实验验证的分子和实体样品。另一个药物发现案例中，模型完成检索、分子设计和计算评估，找到指标更好的候选。这个候选还需要进一步湿实验验证。计算筛选与真实样品，代表的是不同阶段的成果。\n这些案例提示我们，长上下文只是起点。工具能否连接，执行结果能否回来，错误能否被发现，决定了任务能否走完。此前 DeepSeek 开放搜索、文件和语音等应用接口，也是在减少开发者重复接工具的工作。模型与工具平台正在从两端降低集成难度。\n调用条件也已经明确。国内标准输入价为每百万 token 十元，输出三十元，隐式缓存命中则为每百万 token 五角。缓存价格与普通输入价格差距很大，因此同样一次模型调用，是否重复使用已有上下文，会影响最后的账单。比较模型时，最好把实际缓存利用情况也记下来。\n如果你准备试用，可以选一项已经有人工答案和验收流程的工作，同时记录成功率、总耗时、人工返工与费用。厂商的案例告诉我们它做过什么，你自己的任务则告诉你，能力提升是否真的传到了工作成果上。\n把任务闭环拆开看\n阿里展示的汽车产线场景，包含从图纸理解到三维建模，再到节拍仿真与 PLC 虚拟调试的连续动作。模型必须在已有设备库和专业工具的约束下工作，结果也需要回到仿真环境检查。对企业读者，这比单独生成一张漂亮图片更接近交付：输出物有明确用途，错误有可观察的后果，下一步的输入来自上一步的执行结果。\n冷却液案例进一步把反馈带到物理世界。原文介绍，Qwen4 在连续 48 小时运行中构建了包含 270 万个分子的候选空间，并安排结构筛选、性质预测、计算和实验规划。随后，自动化湿实验室负责真实物料的配制、合成、分离纯化和测试。四轮闭环最后产生实体样品，说明这个案例的结果已经越过纯计算筛选。\n药物发现则停在另一个阶段。围绕 NLRP3 炎症小体靶点，模型在 PharmMaster 平台进行检索、分子设计与计算评估。原文所说名义结合亲和力约为专利起点的 3.6 倍，来自相对结合自由能计算估计；专家建议继续湿实验验证。把这两个案例并置，读者可以看见“自主科研”内部仍有不同进度，不能把更好的计算指标直接写成已经验证的药物效果。\n发布还给出了落地入口：千问 AI 平台、国际站的 API 与 Token Plan，以及千问办公、Qoder 等应用。对已有工作流的团队，真正有用的第一步是选择一条可重复的任务链，保留原有验收，再观察新模型怎样处理工具失败、信息缺失和中途反馈。任务成本最终要和成功交付放在一起衡量。\n站内此前的 DeepSeek 应用 API 开放 提供了另一个视角：搜索、文件、语音等能力通过接口进入应用，开发者可以减少重复集成。这与本次模型升级形成互补，分别降低工具接入和任务推理的门槛。\n★ 精讲二 | 当生成代码变便宜，软件工程师该把时间花在哪？Satya Nadella 访谈\n来源：The Pragmatic Engineer · BestBlogs 评分：93\n \nThe Pragmatic Engineer 采访了微软 CEO Satya Nadella，讨论模型能够承担更多步骤后，工程师应该把时间花在哪里。他的回答围绕一个变化展开：代码越来越像软件流程的产出，写清意图和验证产出就变得更重要。他用软件工厂来描述新的工作方式，但同时承认，团队仍在积累实践经验。\n先看验证。一段代码能生成出来，距离真正完成任务还有不少步骤。纳德拉提到，把每次失败转成测试用例，确认测试本身有效，再检查修复是否通过。生产环境的运行记录也可以回到开发流程，让团队针对真实故障验证改动。这样的循环保留了软件工程的判断，只是把一部分手写代码的时间转移到了目标、测试和反馈。\n他讲到 Azure 网络团队的例子。全球网络运营原本涉及邮件和临时协调，团队建立智能体系统，把运营工作与代码仓库连接起来。工程师构建的是一个能处理运营任务的系统，运行中的问题又能进入仓库里的改进流程。我们可以从中看到，软件交付的范围延伸到了代码周围的实际工作。\n对于已有大产品，这种改造无法跳过原来的约束。Windows 可以从崩溃记录推进到漏洞修复，但构建系统仍然要正常工作。GitHub 面对智能体带来的变化量增长，也需要重新考虑底层协议、存储与持续集成。纳德拉强调，要分步骤加固系统，并注意操作顺序。给现有客户带来价值，仍然是投入的依据。\n访谈里另一个重要判断是企业应该保有自己的学习循环。他建议把模型、上下文与记忆、智能体运行框架，以及工具权限分开设计。这样模型可以更换，业务知识和评估能力仍留在企业手中。他给出的检验问题很具体：换掉一个模型之后，你能不能继续用自己的评测改进结果？这比只问接入哪一家模型，进一步触及企业长期保有什么资产。\n能力和权限也要分开。纳德拉把智能体视作需要监控的内部风险来源，要求运行时有日志、可观察性和控制机制。这个观点与昨天 Wiz 讨论的持续安全测试可以放在一起理解：有执行能力的系统，需要持续知道它做了什么，以及何时应该停止。\n他也谈到本地模型与云端模型的协作。在一个任务拆成多个子任务以后，不同模型可以承担不同环节。具体采用哪种组合，需要由自己的评测确认。这个思路与可替换架构相呼应：选择权来自系统能清楚描述任务、记录结果，并比较不同配置。\n对工程师来说，经验并没有因此失去价值。理解系统、拆分问题、验证变化的人，可以借新工具放大原来的能力。纳德拉也鼓励亲自参与正在这样工作的团队。与其只讨论岗位的未来，不如在一个真实任务里练习目标、执行和验收的完整循环，让专业判断有更大的作用空间。\n企业应该保留什么\n访谈中，Satya Nadella 将企业自己的学习与知识视为需要保有的资产。他用关系数据库作类比：企业可以购买数据库和上层软件，但自己的业务逻辑、数据和迁移选择应当仍由企业掌握。到了模型时代，如果上下文、记忆和业务经验完全依附于某一家模型，供应方变化就可能影响系统继续改进的能力。\n他的建议并不等同于所有部件都要自行开发。企业可以使用托管运行框架，也可以采用开放框架；关键是框架、模型、上下文和工具之间有清楚边界。运行记录与私有评测能够帮助团队比较不同模型，再对适合的环节做成本优化。选择托管服务与保留替换能力，可以在架构上同时考虑。\n这也解释了为什么模型变强之后，工程工作仍然很多。需求如何写清楚，失败如何变成测试，实际修复怎样在生产记录中核对，权限怎样与智能分离，都需要理解业务和系统的人来负责。纳德拉提到，团队可以使用不同模型家族进行批评和检查，避免同一个模型家族的缺陷贯穿整个流程；这是一种设计思路，效果仍要通过具体项目的评测检验。\n对于人员变化，他将微软自愿离职方案解释为给员工更多选择，同时把现有团队重新配置到新的工作方式中。他没有把当下招聘放缓宣布为长期定局，而是强调组织仍处在重构阶段。工程师读这段时，更有帮助的问题是：自己的深度经验如何与新工具结合，哪些团队已经具备可以参与学习的真实工作循环？\n昨天的 Wiz 持续攻防访谈与 Anthropic 安全评估，分别讨论部署后的安全与发布前的测量。纳德拉从企业架构补充了另一环：把能力接入系统以后，谁能观察行为、改变权限、换掉模型，并验证结果仍在变好。\n★ 精讲三 | Meta 如何从周末实验做出消费级智能体 Muse｜Mona Sarantakos\n来源：Lenny's Podcast · BestBlogs 评分：91\n \nLenny’s Podcast 采访了 Meta Superintelligence Labs 产品副总裁、Muse 产品负责人 Mona Sarantakos。她回顾，一个周末里试用 OpenClaw 的经历，让她看到个人智能体的可能：把学校日程等分散消息整理成家庭简报。但要让更多普通用户放心交出个人信息和真实任务，产品还要跨过很长一段距离。\n团队约用了七个月推进产品。早期原型主要回答，界面怎样呈现、任务怎样运行；之后大量时间花在可靠性、安全和防护上。她举例说，给产品增加浏览器，会同时带来一整组新的安全问题。每多一种可以采取的行动，就需要重新检查它在实际环境里会怎样表现。\n多轮任务还暴露了数据缺口。过去聊天助手的对话大多比较短，安排一周饮食、处理购物等任务却会不断来回沟通。团队使用智能体分析任务与反馈的模式，也生成合成样例，把这些材料纳入评测。产品负责人强调，人必须检查数据，系统提示和行为规范也需要人工认真编写。自动整理让问题更容易被发现，产品标准仍要有人负责。\n评测因此分成多个层次。安全测试关注提示注入和有害行为；能力测试检查浏览器使用和任务完成；行为测试观察它是否理解意图、该不该追问；具体用例还有自己的测试。不同层级也有不同的取舍：有些安全项目必须通过，某些次要指标则可以在改进产品时接受有限波动。这比一个总分更接近真实发布决策。\n需求也会改变方向。团队发现购物比预想中更常见，但购物并不只是替用户付款。有些人喜欢浏览和比较，智能体更适合帮助缩小选择范围、解释差别。把整个过程压缩成自动成交，可能反而拿走了用户喜欢的部分。产品需要分辨，哪些环节是负担，哪些环节本身就是体验。\n交互设计同样需要反复试验。Muse 选择熟悉的聊天气泡，让交流更像发消息，但长回答如何拆分就成了新问题。团队一度希望全部任务都放在一个主对话里，内部用户却强烈需要把不同事情分开，于是后来加入分支对话。能记住上下文，并不意味着用户就不需要心理上的分类。\n她还提到一个早期原型教训。两个智能体在群聊里交流，其中一个把主人前一天就医的事情告诉了别人。团队由此意识到，知道信息和有权向外分享信息，是两个不同的问题。这个经历也解释了，为什么个人上下文越丰富，产品越需要仔细设计信息流动的规则。\n她还观察到，亲眼看到身边的人如何使用产品，比广告介绍功能更容易促成尝试。一个家长把自己的使用记录给朋友传阅，就让别人理解了智能体能帮上什么忙。这份访谈留下的启发很具体：展示一个人真正完成的任务，建立清楚的信任，再把反馈带回产品。用户理解价值、愿意使用、能够放心交付，三件事需要一起成立。\n从用户的实际任务重新理解产品\nMona Sarantakos 在访谈中强调，早期的 Muse 很大程度上先为团队自己而造。设计师很快拿出可工作的原型，使讨论从抽象设想变成拿着手机体验。原型甚至在董事会演示前一小时发生故障，直到会议前几分钟才修好。这个故事说明原型可以帮助团队迅速看到方向，也解释了演示成功为什么无法取代后续可靠性工作。\n购物是一个特别有解释力的用例。团队通过内部使用和外部研究发现，用户对购物的兴趣比预想中更强。但不同购买任务的目标差异很大：补充日用品可能希望快点完成，挑衣服却可能享受浏览与比较。智能体可以帮助缩小范围、解释取舍和推动决定，产品仍需保留用户想参与的过程。\n评测数据从哪里来，直接影响团队能否识别这些差异。过去偏单轮的聊天数据无法充分代表长期、多轮、非编码任务。团队用智能体分析任务与反馈，整理具体失败模式并补充合成样例；同时要求人检查数据是否符合真实使用分布。Sarantakos 特别提到，系统提示和行为规范需要手写。这种分工让自动整理服务于人的产品判断，而不是让生成数据自行决定什么算好产品。\n发布决策也不是一个分数通过就结束。安全、能力、行为和具体用例有不同层级，必须通过的安全项目与可以有限取舍的次要指标分开。每增加浏览器等新能力，风险范围就会变化，需要新一轮具体检查。原型中的群聊泄露就医信息，是她回顾的早期教训，不能把它理解成已经成熟开放的多智能体社交功能。\n主对话与分支对话的变化，体现了另一个容易被忽略的事实：系统能记住，不代表用户想把所有事都混在一起。团队最初偏向单一主对话，后来因内部需求加入分支。技术上的上下文连续性和人的任务分类需要并存，交互方案必须在实际使用中寻找平衡。\n她认为，用户之间分享真实使用记录，是最有效的激活方式之一。亲眼看到熟悉的人用它管理家庭生活，比“私人超级智能”这样的功能口号更容易理解。对于正在做 AI 产品的团队，可以把首次体验的目标从讲完所有功能，缩小成让用户顺利完成一件与自己有关的事，再看用户是否愿意把这段经验讲给别人。\n速览\n4. 智能体写得越快，怎样守住代码质量？｜Lauren Tan\n来源：AI Engineer · BestBlogs 评分：91\n \nLauren Tan 在 AI Engineer 的分享中，把智能体代码质量问题落到代码库本身。模型会复制看起来最常见的模式；旧的临时补丁和架构混杂，也可能成为下一次生成的示范。她建议每次发现重复问题时，先考虑能否改进接口与架构，或增加可执行检查。\n团队为 Electron 应用构建 Dune 框架，在产品代码中限制容易误用的 React useEffect，并禁止主进程与渲染进程目录之间跨边界导入。另一些修复针对大量命令式计时器造成的性能问题。类型、编译器、lint、测试与运行时验证分别承担不同职责，规则文档保留给需要判断的部分。\n这份实践为纳德拉的软件工厂补上了一个具体层次：代码库既是产出，也是后续生成的输入。与其不断把同一提醒追加到说明文档，不如把已经理解的问题固化为更安全的默认路径，让审查者把时间留给真正需要判断的变化。\n5. Hy4 flash 发布：日常工作的极致性价比模型\n来源：腾讯混元 · BestBlogs 评分：88\n腾讯发布 Hy4 flash，定位为日常工作的低成本模型。它支持多模态与百万上下文，并已接入 TokenHub、WorkBuddy、元宝等产品。腾讯建议多数日常任务使用 flash，而长程软件工程等复杂任务继续使用智能上限更高的 Hy4。\n团队的优化覆盖预训练架构、后训练与推理部署：混合注意力等设计减少 KV cache，强化学习降低端到端输出长度，再结合量化和内核优化提高速度。评测使用内部 WorkIndex 和实际工作任务；厂商报告其成本与用时优势，并提供内部用户盲测结果。这些比较应按对应任务与模型版本理解。\n它与 Qwen4-Max 的发布形成不同的选择方向：一个展示旗舰能力与长程执行，另一个把日常任务的单位成本压低。团队可以先按任务难度与验证成本分组，再决定哪些工作需要高能力模型，哪些适合更轻量的配置，而不是为所有请求选择同一种模型。\n6. 借助位级零训练—推理偏差，在 TPU 上实现稳定的 On-Policy RL\n来源：Google Developers Blog · BestBlogs 评分：92\n \nGoogle 在 Tunix 中实现 Zero-TIM，解决大语言模型 On-Policy 强化学习的训练与推理数值偏差。同样的权重、token 历史与采样设置下，采样器与训练器仍可能算出不同 logprob；这会在长轨迹中累积为隐藏的偏差。\n原因之一是浮点加法不满足结合律，归约顺序不同会改变舍入位置。团队分别固定分片内累加、跨分片归约和 logprob 评分流程，并让训练前向复用服务路径，通过自定义求导规则完成反向计算。服务预填充被用作中间检查点，帮助分辨偏差来自服务引擎内部，还是服务与训练之间。\n这份实现已在多主机 TPU 网格验证。它提供的通用诊断方法是先确认各条路径在计算同一策略，再判断优化算法本身。对训练工程师，位级一致性把一个容易被当成随机波动的问题，转化为可以逐阶段定位和核对的执行合同。\n7. 四天、零行手写代码：Trimble 如何用 GitHub Copilot 推进仓库合规\n来源：GitHub · BestBlogs 评分：90\n \nTrimble 工程师 Jeff Doolittle 回顾一次仓库合规治理：439 个仓库只有三个合规，常见要求包括许可证、维护人和关键漏洞修复。他用 GitHub Copilot 将规范实现为确定性工具，以降低长期积压工作被启动和维护的成本。\n工具负责审计、创建带修复步骤的议题、发出预警，并在整改后恢复原有可见性。fork、代码所有者和测试样例中的漏洞如何分类，仍由人判断。Doolittle 报告，30 个公开仓库完成整改，数月后保持合规；可复用的提示词也让维护者更容易自己处理问题。\n这里最值得保留的是持续治理的设计：给出明确路径，限制错误的影响，保留可恢复的执行方式。所谓零行手写代码描述的是实现方式，规范如何解释、哪些风险值得承担、怎样让人放心使用，仍由工程师负责。\n8. 智能体是会话，而非请求：为 AI 智能体会话配置 GKE 节点池\n来源：Google Developers Blog · BestBlogs 评分：88\n \nGoogle 将智能体看作长期会话，重新比较 GKE 节点池成本。会话常常持续开放，却只有部分时间真正工作。除了始终保留计算资源或结束后重建，还可以把空闲沙箱暂存到对象存储，需要时恢复。\n文章通过 Agent Substrate 和 AX 的快照、热工作池说明实现方式。在其成本模型中，100 个编程智能体每小时收到两次提示，暂存方案可节省约 40% 的节点费用；提示频率提高后，节省幅度随之缩小。具体收益取决于工作负载，而非一个固定折扣。\n这为长程智能体补充了常被忽略的账单维度：不只模型生成时要花钱，等待用户期间的环境也在占用资源。平台团队可以先记录活跃与空闲时间、恢复延迟和状态大小，再决定会话应该驻留、暂存还是重建，让基础设施与真实交互节奏匹配。\n9. Black Forest Labs 联创谈视觉智能：图像、视频与声音如何一起学习\n来源：Latent.Space · BestBlogs 评分：85\n \nBlack Forest Labs 联合创始人 Andreas Blattmann 与 Dustin Podell 讨论 FLUX 3 背后的视觉智能目标。图像提供物体状态，视频展示变化过程，声音补充接触与碰撞信息；团队希望把这些信号一起用于学习。\n访谈还讨论扩散与自回归的取舍：训练时能从哪些 token 获得信号，与生成时需要等待多少步骤，是两个不同的成本问题。团队的另一例子是视频放大：逐帧增强可能让每张图更清晰，却在播放时闪烁，因此时序一致性必须进入设计和评估。\n对创作者，这份访谈提供了更具体的验收视角：看跨帧身份能否保持、运动是否连续、编辑是否改变了无关部分，而不只挑一帧观感。家庭旧照片修复这类用户自发用途也提醒产品团队，模型能力最终会在具体生活场景中被重新定义。\n10. 构建 AI 时代的知识底座：直播数据 LLM Wiki 实践\n来源：大淘宝技术 · BestBlogs 评分：88\n淘宝直播数据团队介绍 LLM Wiki，用结构化知识底座处理领域知识散落、矛盾和失修的问题。表结构、任务代码、接口配置和文档先被加工为有约束的页面，供智能体继续构建与检索。\n页面使用可解析元数据记录关系，再聚合为显式图，支持血缘遍历与影响范围计算。团队把结构校验、语义检查和人工确认分层；发生口径冲突时，以实际任务代码为依据，并保留来源供追溯。Wiki 提供高质量语料，RAG 负责查询时召回，两者在原文中是互补关系。\n这份实践与微软关于上下文所有权的判断相接：真正值得持续投入的，是能随着业务演进、可以核对和更新的知识。把检索问题继续往前追到材料质量与维护流程，团队才有机会让一次正确回答变成长期可靠的能力。\n延伸探索\n模型与任务成本。 Qwen4-Max 的能力升级与 Hy4 flash 的日常任务优化，可以放在同一张任务表里比较：哪些工作需要更高上限，哪些可以用更低成本完成。近期 DeepSeek 应用 API 则补充工具接入一侧。模型选择、工具集成与验收流程一起改变，才可能传导为整体收益。\n验证与组织工作。 纳德拉的软件工厂、Lauren Tan 的代码约束和 Trimble 的持续治理，分别覆盖架构、代码库与组织维护。结合 11 月 15 日早报中的 Tessl 并行智能体实践，可以继续追问：当执行速度提高，协调、验证与维护资源应该怎样重新分配？\n用户信任与业务知识。 Muse 的评测与交互设计面对个人生活任务，淘宝 LLM Wiki 面对企业领域知识，二者都需要把具体反馈带回系统。站内 DeepSeek Harness 拆解 还从日志、钩子、权限和沙箱展示执行控制。把用户意图、知识来源与执行权限分别记录清楚，有助于让改进有依据。\n今日小结\n回顾今天的内容，Qwen4-Max 提供了新的旗舰模型调用入口和任务案例；纳德拉将软件工程的价值延伸到意图、验证与可替换架构；Muse 的产品经历展示了评测、交互和真实用户反馈如何影响发布与迭代。它们分别帮助我们判断能力、工程和产品三个层面的进展。\n准备尝试新模型，可以先读 Qwen4-Max 与 Hy4 flash，再选自己的任务做比较；正在带团队，可以从纳德拉、Lauren Tan 和 Trimble 连起来读；关注消费级产品，则把 Muse 的激活与设计选择留作重点。训练一致性、会话成本和业务知识底座适合按手头问题深入。\n你最近把哪项工作交给了智能体？让你决定继续使用的，是更快的执行、更清楚的验收，还是一次被妥善处理的失败？欢迎分享实际经验，也把早报转给正在试验类似工作方式的朋友。\n👉 近期早报\nBestBlogs 早报 · 2026-11-16\nBestBlogs 早报 · 2026-11-15\nBestBlogs 早报 · 2026-11-14\nBestBlogs.dev 第 121 期：长跑的秩序\nBestBlogs.dev 第 120 期：把工作交出去\nBestBlogs.dev 第 119 期：慢一步的价值\nBestBlogs 是 AI 驱动的私人阅读助手，帮助你发现真正适合你的高质量内容，关注你感兴趣的来源和主题，每天生成一份更适合自己的「我的早报」，欢迎体验和关注我们。\n \n",
+          "preview_text": "在线阅读本期早报\nBestBlogs.dev 是 AI 驱动的私人阅读助手。这是面向所有人的每日早报内容，如果你希望它基于你的兴趣和阅读习惯整理，可以体验「我的早报」。\n导语",
+          "title": "11-17｜Qwen4-Max 旗舰模型开放调用，微软 CEO 纳德拉谈软件工厂与验证，Meta 复盘 Muse 的产品化"
+        },
+        "author_id": "1061781458107326464",
+        "conversation_id": "2122482053937840258",
+        "created_at": "2026-11-17T00:08:50.000Z",
+        "edit_history_tweet_ids": [
+          "2122482053937840258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2122…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/article/2122481180834689024",
+              "start": 0,
+              "status": 404,
+              "unwound_url": "https://x.com/i/article/2122481180834689024",
+              "url": "https://t.co/vLnFiCLKJj"
+            }
+          ]
+        },
+        "id": "2122482053937840258",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 337,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "text": "https://t.co/vLnFiCLKJj"
+      }
+    ],
+    "users": [
+      {
+        "id": "1495628449779957760",
+        "name": "肯特 Kent",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991888588238360576/U5_DiiYf_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 1304,
+          "like_count": 15466,
+          "listed_count": 16,
+          "media_count": 422,
+          "tweet_count": 12872
+        },
+        "username": "Kent60921_0x",
+        "verified": false
+      },
+      {
+        "id": "1830139999209340929",
+        "name": "王本聪（浇友版)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095689655345889280/7MU272Hp_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3399,
+          "following_count": 4130,
+          "like_count": 5456,
+          "listed_count": 2,
+          "media_count": 187,
+          "tweet_count": 5354
+        },
+        "username": "bencongyyds",
+        "verified": false
+      },
+      {
+        "id": "48303979",
+        "name": "電腦王阿達",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1370792208547278852/VvjZZgHT_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2744,
+          "following_count": 677,
+          "like_count": 3814,
+          "listed_count": 21,
+          "media_count": 3416,
+          "tweet_count": 32282
+        },
+        "username": "kocpc",
+        "verified": false
+      },
+      {
+        "id": "1719557293040377856",
+        "name": "旺旺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840689453582446592/Y77oEhBg_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3672,
+          "following_count": 2258,
+          "like_count": 3510,
+          "listed_count": 10,
+          "media_count": 298,
+          "tweet_count": 8109
+        },
+        "username": "TiagerBao",
+        "verified": false
+      },
+      {
+        "id": "1624246851582169089",
+        "name": "Cici",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119082489612468224/csMfYlIH_normal.jpg",
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 127,
+          "like_count": 27,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 2508
+        },
+        "username": "LabubuNoBB",
+        "verified": false
+      },
+      {
+        "id": "1387717391954546692",
+        "name": "易门 | Emon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071999661121179648/CXiKRmfg_normal.png",
+        "public_metrics": {
+          "followers_count": 7683,
+          "following_count": 5886,
+          "like_count": 2947,
+          "listed_count": 13,
+          "media_count": 125,
+          "tweet_count": 3425
+        },
+        "username": "EmonData",
+        "verified": false
+      },
+      {
+        "id": "109784798",
+        "name": "三月｜AI Builder",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120988343697821696/QNpMNaw6_normal.jpg",
+        "public_metrics": {
+          "followers_count": 5856,
+          "following_count": 702,
+          "like_count": 1233,
+          "listed_count": 5,
+          "media_count": 235,
+          "tweet_count": 4950
+        },
+        "username": "SANYUE_AI",
+        "verified": false
+      },
+      {
+        "id": "1401189743333765120",
+        "name": "小美哥🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092396000929562624/butYjW6U_normal.jpg",
+        "public_metrics": {
+          "followers_count": 17432,
+          "following_count": 4194,
+          "like_count": 148973,
+          "listed_count": 66,
+          "media_count": 2437,
+          "tweet_count": 122828
+        },
+        "username": "luke102579",
+        "verified": false
+      },
+      {
+        "id": "1624979259365392385",
+        "name": "TermiX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922560738641772547/QwvQUkoc_normal.png",
+        "public_metrics": {
+          "followers_count": 58473,
+          "following_count": 35,
+          "like_count": 780,
+          "listed_count": 117,
+          "media_count": 425,
+          "tweet_count": 1292
+        },
+        "username": "termix_ai",
+        "verified": true
+      },
+      {
+        "id": "1710988050233511936",
+        "name": "呆崽说 AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2121721086467616768/Kh4bLipp_normal.jpg",
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 99,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 438
+        },
+        "username": "shanke9527",
+        "verified": false
+      },
+      {
+        "id": "1709050390799699969",
+        "name": "zhangcheng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860981362913869824/XEnGZLqo_normal.jpg",
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 541,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 507
+        },
+        "username": "zhangcheng0688",
+        "verified": false
+      },
+      {
+        "id": "1677223332343844865",
+        "name": "修染",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677224051763482624/74Wu8ZDR_normal.jpg",
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 1062,
+          "like_count": 46,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 305
+        },
+        "username": "zhaojunshi5",
+        "verified": false
+      },
+      {
+        "id": "2111401131247349760",
+        "name": "Lira",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2111441113672519680/N3MFRStX_normal.jpg",
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 561,
+          "like_count": 3920,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 1730
+        },
+        "username": "zeraygk6m",
+        "verified": false
+      },
+      {
+        "id": "2108126039591489536",
+        "name": "澜知 AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108842612677550080/EdbS6XjU_normal.jpg",
+        "public_metrics": {
+          "followers_count": 5639,
+          "following_count": 4291,
+          "like_count": 4238,
+          "listed_count": 3,
+          "media_count": 497,
+          "tweet_count": 9422
+        },
+        "username": "LanzhiAI",
+        "verified": false
+      },
+      {
+        "id": "1536620289123295232",
+        "name": "GitTrend",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027224265200902144/BG6LQpAG_normal.jpg",
+        "public_metrics": {
+          "followers_count": 27664,
+          "following_count": 4602,
+          "like_count": 55597,
+          "listed_count": 165,
+          "media_count": 1914,
+          "tweet_count": 40528
+        },
+        "username": "GitTrend0x",
+        "verified": false
+      },
+      {
+        "id": "1948391508970762240",
+        "name": "喵老师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119404182633586688/nniljDV7_normal.jpg",
+        "public_metrics": {
+          "followers_count": 27767,
+          "following_count": 9932,
+          "like_count": 157677,
+          "listed_count": 89,
+          "media_count": 2847,
+          "tweet_count": 167783
+        },
+        "username": "ohouhou717",
+        "verified": false
+      },
+      {
+        "id": "1116454614",
+        "name": "Eddy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/681047970276458497/Vqm63Rkb_normal.jpg",
+        "public_metrics": {
+          "followers_count": 6993,
+          "following_count": 6123,
+          "like_count": 1542,
+          "listed_count": 19,
+          "media_count": 309,
+          "tweet_count": 6727
+        },
+        "username": "ieddysun",
+        "verified": false
+      },
+      {
+        "id": "2868558743",
+        "name": "塞斯库",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/662176429824577537/o7yCiNpu_normal.png",
+        "public_metrics": {
+          "followers_count": 1178,
+          "following_count": 209,
+          "like_count": 7077,
+          "listed_count": 16,
+          "media_count": 485,
+          "tweet_count": 20263
+        },
+        "username": "ResetTor",
+        "verified": false
+      },
+      {
+        "id": "1514641399043424258",
+        "name": "Nathan AI Lab ｜ AI Agent 实战",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2112751656815452160/SlnFGmG-_normal.jpg",
+        "public_metrics": {
+          "followers_count": 11013,
+          "following_count": 9922,
+          "like_count": 3664,
+          "listed_count": 10,
+          "media_count": 2751,
+          "tweet_count": 28344
+        },
+        "username": "KOF97AI",
+        "verified": false
+      },
+      {
+        "id": "1563006221334249472",
+        "name": "sssa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798742094917603328/4Sw452jc_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2609,
+          "following_count": 2827,
+          "like_count": 2175,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1596
+        },
+        "username": "liliynz1",
+        "verified": false
+      },
+      {
+        "id": "1890749643325341696",
+        "name": "Chuck Bass",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108891474888925184/oU9LhdG1_normal.jpg",
+        "public_metrics": {
+          "followers_count": 8775,
+          "following_count": 6008,
+          "like_count": 9768,
+          "listed_count": 5,
+          "media_count": 314,
+          "tweet_count": 5448
+        },
+        "username": "ChuckBass8808",
+        "verified": false
+      },
+      {
+        "id": "1061781458107326464",
+        "name": "ginobefun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905130477033488384/_EJ-bZL7_normal.jpg",
+        "public_metrics": {
+          "followers_count": 12240,
+          "following_count": 1873,
+          "like_count": 8046,
+          "listed_count": 173,
+          "media_count": 2298,
+          "tweet_count": 6866
+        },
+        "username": "hongming731",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122491218500239744",
+    "next_token": "b26v89c19zqg8o3juzow6hmjzf8y2sv19oat5w00yf6v1",
+    "oldest_id": "2122482115334033633",
+    "result_count": 25
+  }
+}

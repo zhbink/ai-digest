@@ -1,0 +1,1301 @@
+{
+  "data": [
+    {
+      "author_id": "2122447673248919552",
+      "created_at": "2026-11-17T00:46:46.000Z",
+      "edit_history_tweet_ids": [
+        "2122491601641517548"
+      ],
+      "id": "2122491601641517548",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "New here? This is AgentPaid.\n\nAgentPaid is a launchpad run by an AI agent. It reads X around the clock, and when a post starts taking off, it launches that post’s coin on pumpfun within seconds. Every creator fee from that coin goes to the person who posted it.\n\nHow a coin gets",
+      "url": "https://x.com/useAgentPaid/status/2122491601641517548"
+    },
+    {
+      "author_id": "1495628449779957760",
+      "created_at": "2026-11-17T00:45:15.000Z",
+      "edit_history_tweet_ids": [
+        "2122491218500239744"
+      ],
+      "id": "2122491218500239744",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "GitHub 早報 11/17\n\nlast30days-skill 剛發 v4.2.0 , README 列了 30 個來源 , 其中 Reddit、HN、Polymarket、GitHub 這 4 個不用金鑰就能先跑\n\n1. mvanhorn/last30days-skill | 67,904 星\n\n給 coding agent 用的研究 skill。丟一個主題 , 它同時去 Reddit、X、YouTube、HN、Polymarket 等來源搜最近",
+      "url": "https://x.com/Kent60921_0x/status/2122491218500239744"
+    },
+    {
+      "author_id": "1624246851582169089",
+      "created_at": "2026-11-17T00:43:03.000Z",
+      "edit_history_tweet_ids": [
+        "2122490667897172007"
+      ],
+      "id": "2122490667897172007",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 21,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "AI Intel Brief | November 17, 2026\n\nToday's priorities: Qwen's new flagship, healthcare computer-use agents, and automatic inference routing.\n\nFor a one-person software factory, the question is not how many models you connect. It is whether they complete real work reliably and",
+      "url": "https://x.com/LabubuNoBB/status/2122490667897172007"
+    },
+    {
+      "author_id": "1668240593464573954",
+      "created_at": "2026-11-17T00:41:37.000Z",
+      "edit_history_tweet_ids": [
+        "2122490307203752012"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 261,
+            "id": "2311987360",
+            "start": 253,
+            "username": "marclou"
+          }
+        ],
+        "urls": [
+          {
+            "end": 299,
+            "start": 276,
+            "url": "https://t.co/YxC8fOa1He"
+          }
+        ]
+      },
+      "id": "2122490307203752012",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 15,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122316226005492200",
+          "type": "quoted"
+        }
+      ],
+      "text": "Turning your SaaS into an AI agent tool shouldn't take a 3-week backend rewrite or a $10,000 agency bill.\n\nIt should take 60 seconds at the edge.\n\nStarting today, I'm building that gateway live from scratch in 30 days.\n\nFor the next month, I’m entering @marclou's Ship or Die https://t.co/YxC8fOa1He",
+      "url": "https://x.com/maxrojasdelgado/status/2122490307203752012"
+    },
+    {
+      "author_id": "2116995600973451264",
+      "created_at": "2026-11-17T00:38:14.000Z",
+      "edit_history_tweet_ids": [
+        "2122489453155606808"
+      ],
+      "id": "2122489453155606808",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Every AI agent talks to apps differently. This open-source protocol wants to end that mess.\n\nIt's called AG-UI, and it's blowing up on GitHub trending right now: 791 stars today, nearly 19,000 total.\n\nThe problem it attacks:\nAgents don't behave like normal APIs. They stream",
+      "url": "https://x.com/Pro_Algorithm/status/2122489453155606808"
+    },
+    {
+      "author_id": "1479550299815645185",
+      "created_at": "2026-11-17T00:37:13.000Z",
+      "edit_history_tweet_ids": [
+        "2122489197491794206"
+      ],
+      "id": "2122489197491794206",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 72,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "昨天跟合伙人聊 FDE 的商业模式：\n\n为什么所有人都想着把 Agent 产品化，却没人想着把 FDE 自己 Agent 化？\n\n做过企业交付的都知道，FDE 最头疼的根本不是写代码。\n\n是进场调研、访谈业务部门、梳理 BPMN 流程、对接 ERP/CRM、处理脏数据、设计 RAG、配置 MCP、打通 API、做权限隔离、评估",
+      "url": "https://x.com/Stanleysobest/status/2122489197491794206"
+    },
+    {
+      "author_id": "1709050390799699969",
+      "created_at": "2026-11-17T00:36:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122488892804788598"
+      ],
+      "id": "2122488892804788598",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 28,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "今天把收藏夹里的「Canvas by https://t.co/odcnFTmR4C」从 0 讲到 1（角度：不要把收藏当交付）。\n\n【是什么】这次要讲的是 Canvas，不是母产品 AgentGrid 的托管共享工作区。Canvas 的定位是免费、本地、不用注册的设计画布：人和 Claude、ChatGPT、Grok Bot 等 Agent 一起改同一份真正的",
+      "url": "https://x.com/zhangcheng0688/status/2122488892804788598"
+    },
+    {
+      "author_id": "2107671543488585728",
+      "created_at": "2026-11-17T00:35:50.000Z",
+      "edit_history_tweet_ids": [
+        "2122488848433226133"
+      ],
+      "id": "2122488848433226133",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 46,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "QHooks is now a Claude plugin.\n\ntwo commands in Claude Code:\n/plugin marketplace add qhooks/qhooks-mcp\n/plugin install qhooks@qhooks\n\nlaunch and trade on 8 chains + perps, run QProof safety checks, prepare OTC deals. your wallet signs everything.",
+      "url": "https://x.com/qHooks_/status/2122488848433226133"
+    },
+    {
+      "author_id": "1234807607996506112",
+      "created_at": "2026-11-17T00:34:59.000Z",
+      "edit_history_tweet_ids": [
+        "2122488635824181409"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 49,
+            "start": 26,
+            "url": "https://t.co/6URClEE0a7"
+          }
+        ]
+      },
+      "id": "2122488635824181409",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122407657344762214",
+          "type": "quoted"
+        }
+      ],
+      "text": "Paper 待望のRemote MCPをリリース！ https://t.co/6URClEE0a7",
+      "url": "https://x.com/pomufgd/status/2122488635824181409"
+    },
+    {
+      "author_id": "1980199659747287040",
+      "created_at": "2026-11-17T00:33:58.000Z",
+      "edit_history_tweet_ids": [
+        "2122488378708926613"
+      ],
+      "id": "2122488378708926613",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "FBI FLASH on ARTEX (Nov 13): an open-source agentic pen-test framework, weaponized. Some intrusions hit privileged access in under 3 hours. 1,600+ consoles exposed. Mitigations are the unglamorous basics: scoped permissions, closed admin surfaces.",
+      "url": "https://x.com/NextElevenDev/status/2122488378708926613"
+    },
+    {
+      "author_id": "2082970391807488000",
+      "created_at": "2026-11-17T00:33:34.000Z",
+      "edit_history_tweet_ids": [
+        "2122488280625414597"
+      ],
+      "id": "2122488280625414597",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "AT&amp;T describes nearly 500 agentic workflows in production, handling more than a million transactions a month across 150,000 employees, at about 45 billion tokens a day.\n\nThe useful detail for anyone measuring agents is the release rule. Customer-facing workflows pass security,",
+      "url": "https://x.com/globalbench/status/2122488280625414597"
+    },
+    {
+      "author_id": "1964479528090423297",
+      "created_at": "2026-11-17T00:33:19.000Z",
+      "edit_history_tweet_ids": [
+        "2122488216959975926"
+      ],
+      "id": "2122488216959975926",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 39,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "What's new in Claude Code 2.1.326 system prompts (-2,897 tokens):\n\nRetires the alternate \"lean rewrite\" prompt set, adds sandbox guidance for Linux networking and Windows containers, introduces a PauseGoal tool alongside reworked goal setting, and covers oversized user messages,",
+      "url": "https://x.com/PiebaldAI/status/2122488216959975926"
+    },
+    {
+      "author_id": "1536620289123295232",
+      "created_at": "2026-11-17T00:30:13.000Z",
+      "edit_history_tweet_ids": [
+        "2122487437200970173"
+      ],
+      "id": "2122487437200970173",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 132,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "今天 GitHub 被「技能质检员 + Agent 剪辑师 + Agent 审计官 + 论文流水线 + 历史地图」联手屠榜了！\n\n5 个星标暴增最狠的项目，专业拆解下！\n\n1. NVIDIA/SkillEvaluator\n\n英伟达出品的 Agent 技能「质检流水线」：先做不需要 API",
+      "url": "https://x.com/GitTrend0x/status/2122487437200970173"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122407619013083136"
+        ],
+        "media_source_tweet_id": [
+          "2122407657344762214"
+        ]
+      },
+      "author_id": "1919970963447545856",
+      "created_at": "2026-11-17T00:28:24.000Z",
+      "edit_history_tweet_ids": [
+        "2122486977606152440"
+      ],
+      "id": "2122486977606152440",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "PaperがRemote MCPを公開。\nAIエージェントが離れた場所からデザインファイルを直接操作可能に。\n例えば、営業がスマホから修正を指示し、AIがデザインに反映できるといいます。\nまずはWeb制作領域ですが、制作工程のAI自動化が一段進んだ印象ですね。 https://t.co/qHdjiMfmXc",
+      "url": "https://x.com/KohoOkada/status/2122486977606152440"
+    },
+    {
+      "author_id": "161667651",
+      "created_at": "2026-11-17T00:17:46.000Z",
+      "edit_history_tweet_ids": [
+        "2122484303615729745"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 304,
+            "start": 281,
+            "url": "https://t.co/32N3Fvih6K"
+          }
+        ]
+      },
+      "id": "2122484303615729745",
+      "public_metrics": {
+        "bookmark_count": 21,
+        "impression_count": 1068,
+        "like_count": 17,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2108967806666715591",
+          "type": "quoted"
+        }
+      ],
+      "text": "I’ve been doing some performance testing lately, and without proper guardrails, agents can draw wildly wrong or misleading conclusions when reading CPU and memory profiles.\n\nThis framework I originally proposed for agentic *debugging* works well for agentic perf analysis as well. https://t.co/32N3Fvih6K",
+      "url": "https://x.com/copyconstruct/status/2122484303615729745"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122483500464959488"
+        ]
+      },
+      "author_id": "703986163",
+      "created_at": "2026-11-17T00:14:44.000Z",
+      "edit_history_tweet_ids": [
+        "2122483538251468938"
+      ],
+      "id": "2122483538251468938",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "GitHub MCP Server 2.2.0 is out, codenamed \"The one with Skills\".\n\nRelease notes, the useful parts:\n\n🧩 Skills over MCP (opt-in)\n18 bundled workflows replace the old server instructions: PR review, review-feedback replies, failed Actions triage, security alert triage, release-note https://t.co/Wgov4AtyVl",
+      "url": "https://x.com/Khaled865412521/status/2122483538251468938"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122483408102178816"
+        ]
+      },
+      "author_id": "1828025558065704960",
+      "created_at": "2026-11-17T00:14:17.000Z",
+      "edit_history_tweet_ids": [
+        "2122483426372542845"
+      ],
+      "id": "2122483426372542845",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 13,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "𝗔𝗜 𝗠𝗘𝗘𝗧𝗦 𝗕𝗟𝗢𝗖𝗞𝗖𝗛𝗔𝗜𝗡: 𝗪𝗛𝗬 𝗔𝗜𝗡𝗙𝗧'𝗦 𝗩𝗜𝗦𝗜𝗢𝗡 𝗖𝗢𝗨𝗟𝗗 𝗦𝗛𝗔𝗣𝗘 𝗧𝗛𝗘 𝗡𝗘𝗫𝗧 𝗣𝗛𝗔𝗦𝗘 𝗢𝗙 𝗗𝗘𝗖𝗘𝗡𝗧𝗥𝗔𝗟𝗜𝗭𝗘𝗗 𝗜𝗡𝗡𝗢𝗩𝗔𝗧𝗜𝗢𝗡\n\nArtificial intelligence and blockchain are often discussed as separate technological revolutions.\n\nOne https://t.co/Fb0tHjgQJd",
+      "url": "https://x.com/Raph_GMI/status/2122483426372542845"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122483268775710720"
+        ]
+      },
+      "author_id": "2122447673248919552",
+      "created_at": "2026-11-17T00:13:52.000Z",
+      "edit_history_tweet_ids": [
+        "2122483322278334764"
+      ],
+      "id": "2122483322278334764",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 365,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 2
+      },
+      "text": "Paid made sure the account gets paid.\n\nAgentPaid adds the part Paid always left to someone else: an AI agent that spots the post as it takes off, names the coin and launches it in seconds. Every creator fee still goes to the author, locked in at launch.\n\nWe support both projects. https://t.co/lsqnLwQ4co",
+      "url": "https://x.com/useAgentPaid/status/2122483322278334764"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122483242745937920"
+        ]
+      },
+      "author_id": "1828025558065704960",
+      "created_at": "2026-11-17T00:13:37.000Z",
+      "edit_history_tweet_ids": [
+        "2122483260999512214"
+      ],
+      "id": "2122483260999512214",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "𝗧𝗛𝗘 𝗙𝗨𝗧𝗨𝗥𝗘 𝗢𝗙 𝗔𝗜 𝗔𝗚𝗘𝗡𝗧𝗦: 𝗛𝗢𝗪 𝗔𝗜𝗡𝗙𝗧 𝗜𝗦 𝗕𝗨𝗜𝗟𝗗𝗜𝗡𝗚 𝗜𝗡𝗙𝗥𝗔𝗦𝗧𝗥𝗨𝗖𝗧𝗨𝗥𝗘 𝗙𝗢𝗥 𝗜𝗡𝗧𝗘𝗟𝗟𝗜𝗚𝗘𝗡𝗧 𝗪𝗘𝗕𝟯 𝗔𝗣𝗣𝗟𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦\n\nAI agents represent an important shift in how people interact with software.\n\nTraditional AI tools https://t.co/UxfsWPaJqK",
+      "url": "https://x.com/Raph_GMI/status/2122483260999512214"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122482986197061632"
+        ]
+      },
+      "author_id": "1425357559",
+      "created_at": "2026-11-17T00:12:34.000Z",
+      "edit_history_tweet_ids": [
+        "2122482995848257836"
+      ],
+      "id": "2122482995848257836",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "AI is moving beyond systems that simply respond to prompts.\n\nThe next evolution is about agents that can interact, make decisions, build relationships, and operate within digital economies with greater autonomy.\n\nFor that to happen at scale, intelligent agents need more than a https://t.co/0CQRunfvJo",
+      "url": "https://x.com/ObinaGMI/status/2122482995848257836"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122482936427462657"
+        ]
+      },
+      "author_id": "1828025558065704960",
+      "created_at": "2026-11-17T00:12:25.000Z",
+      "edit_history_tweet_ids": [
+        "2122482955486667015"
+      ],
+      "id": "2122482955486667015",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "𝗔𝗜𝗡𝗙𝗧 𝗜𝗦 𝗥𝗘𝗗𝗘𝗙𝗜𝗡𝗜𝗡𝗚 𝗧𝗛𝗘 𝗔𝗜 𝗟𝗔𝗡𝗗𝗦𝗖𝗔𝗣𝗘: 𝗖𝗢𝗡𝗡𝗘𝗖𝗧𝗜𝗡𝗚 𝗔𝗥𝗧𝗜𝗙𝗜𝗖𝗜𝗔𝗟 𝗜𝗡𝗧𝗘𝗟𝗟𝗜𝗚𝗘𝗡𝗖𝗘 𝗪𝗜𝗧𝗛 𝗕𝗟𝗢𝗖𝗞𝗖𝗛𝗔𝗜𝗡 𝗜𝗡𝗙𝗥𝗔𝗦𝗧𝗥𝗨𝗖𝗧𝗨𝗥𝗘\n\nArtificial intelligence is becoming one of the most transformative technologies of https://t.co/u2VP87QOjH",
+      "url": "https://x.com/Raph_GMI/status/2122482955486667015"
+    },
+    {
+      "article": {
+        "cover_media": "3_2122475438010470400",
+        "entities": {
+          "urls": [
+            {
+              "text": "https://ai.kramadoss.com/p/ai-waypoints-week-of-october-19-2026"
+            },
+            {
+              "text": "https://platform.claude.com/docs/en/about-claude/pricing"
+            },
+            {
+              "text": "https://www.united.com/en/us/fly/help-center/digital-trust-center/artificial-intelligence/third-party-ai-agents.html"
+            },
+            {
+              "text": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+            },
+            {
+              "text": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december"
+            },
+            {
+              "text": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/"
+            },
+            {
+              "text": "https://news.microsoft.com/source/2026/11/10/ibm-and-microsoft-announce-a-new-ai-agent-platform-designed-for-industry-specific-transformation/"
+            },
+            {
+              "text": "https://cursor.com/blog/security-incident-update"
+            },
+            {
+              "text": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/"
+            },
+            {
+              "text": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+            },
+            {
+              "text": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000461/coreweave3q26earningspress.htm"
+            },
+            {
+              "text": "https://www.united.com/en/us/fly/help-center/digital-trust-center/artificial-intelligence/third-party-ai-agents.html"
+            },
+            {
+              "text": "https://aistudio.google.com/docs/pricing"
+            },
+            {
+              "text": "https://www.notion.com/security/advisories/security-incident-involving-a-third-party-ai-vendor"
+            },
+            {
+              "text": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000461/coreweave3q26earningspress.htm"
+            },
+            {
+              "text": "https://www.notion.com/security/advisories/security-incident-involving-a-third-party-ai-vendor"
+            },
+            {
+              "text": "https://platform.claude.com/docs/en/about-claude/pricing"
+            },
+            {
+              "text": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm"
+            },
+            {
+              "text": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+            },
+            {
+              "text": "https://fireworks.ai/security/bulletins/october-2026-security-incident-update"
+            },
+            {
+              "text": "https://fireworks.ai/security/bulletins/october-2026-security-incident-update"
+            },
+            {
+              "text": "https://aistudio.google.com/docs/pricing"
+            },
+            {
+              "text": "https://cursor.com/blog/security-incident-update"
+            },
+            {
+              "text": "https://news.microsoft.com/source/2026/11/10/ibm-and-microsoft-announce-a-new-ai-agent-platform-designed-for-industry-specific-transformation/"
+            },
+            {
+              "text": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm"
+            },
+            {
+              "text": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+            },
+            {
+              "text": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december"
+            },
+            {
+              "text": "https://ai.kramadoss.com/p/ai-waypoints-week-of-november-2-2026"
+            },
+            {
+              "text": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+            }
+          ]
+        },
+        "media_entities": [
+          "3_2122475067774992385",
+          "3_2122475340941692928",
+          "3_2122474943107756032",
+          "3_2122475244363595776",
+          "3_2122475155108872192"
+        ],
+        "plain_text": "Good morning. Nvidia's chief executive resigned. Anthropic and Google both published new model prices.\n1. Fireworks AI breach reached customers, Notion and Cursor say (3 min read)\nFireworks AI says a breach it first disclosed October 9 reached its development machines on October 24 and touched account and billing details and, for some customers, stored keys, datasets and incomplete models. Notion says the breach exposed Notion AI chat transcripts in under 1% of workspaces, some with API keys, the passwords software uses to log in to services, pasted inside. Cursor says its Fireworks key exposed old coding-agent logs from sessions with Privacy Mode off, which led to the fake extension it pulled on October 29; at most 5,000 users may have received it.\n→ These customers chose Notion and Cursor, which sent their data on to Fireworks. I'd ask every software vendor with an AI feature to name the outside companies that run its AI models and how long each keeps my data, and I'd have anyone who pasted a password into an AI chat change it.\n \n2. United bars customers' unauthorized AI agents from booking\nUnited says that since November 11, customers' AI agents may not search, book, buy or manage travel on its website or app, or through travel agencies, without its permission. United says an agent holding a customer's login can book or spend miles the customer never approved, and automated check-in can break federal rules that need a person to confirm the bags hold no banned items.\n→ Customers are starting to send AI agents to do business on company websites. I'd decide whether my own site blocks them, lets them look but not buy, or lets them act after the customer signs in, and put that in the terms of use.\n \n3. Claude Fable 5.2 costs a fifth less than 5.1 (7 min read)\nAnthropic, which makes the Claude models that draft this newsletter, released Fable 5.2 on November 9, including on the Amazon, Google and Microsoft clouds. It lists at $8 per million tokens (the chunks of text a model reads and writes) in and $40 out, against $10 and $50 for Fable 5.1, and Anthropic says it runs up to 30% faster. Customers without zero data retention, an arrangement where Anthropic keeps none of their prompts, have prompts kept 30 days for safety monitoring.\n→ Fable 5.1's API rates are higher than 5.2's, and GitHub drops the older Fable 5 from Copilot, its coding assistant, on December 14 (item 4). I'd test 5.2 on that work and check whether its prompt retention terms fit my data rules before moving anything sensitive.\n4. Gemini 4 Carbon's launch price ends November 30 (1 min read)\nGoogle opened Gemini 4 Carbon, which it calls its strongest model, to paying developers on November 10. Google's price list for its API, the connection developers' software uses, has Carbon at $2 in and $10 out per million tokens until November 30, then $4 and $20. The cheaper Gemini 4 Hydrogen, out November 12, is $1.50 and $7.50. GitHub says it drops Argon, Claude Fable 5 and 4 other models from Copilot on December 14, and turns on Carbon, Hydrogen and Fable 5.2 for Business and Enterprise organizations on default settings.\n→ A cost test run on Carbon this month uses a price that ends in 2 weeks. I'd price Carbon at $4 and $20, against $8 and $40 for Fable 5.2, check which Copilot models my organization has set by hand before December 14, and test whether Hydrogen is enough for routine work.\n \n5. Jensen Huang resigns; Nvidia names an interim chief (3 min read)\nNvidia's board accepted Jensen Huang's resignation as chief executive and director on November 11, effective immediately, according to its securities filing. Chief financial officer Colette Kress is interim chief executive while the board looks for a permanent one, and Harvey Jones, a director since 1993, became chair. The filing gives no reason, and Jones says the board expects customer commitments and the product roadmap to \"continue without interruption.\"\n→ Nvidia reports quarterly results on Tuesday, November 17, and I'd read them for anything on chip supply. I wouldn't change an AI chip or cloud plan on this news alone, or let a vendor use it to rush me into a long computing contract.\n6. CoreWeave expects $9 billion in customer prepayments (18 min read)\nCoreWeave, which rents out computing power for AI, reported quarterly revenue of $3.7 billion and a $709 million loss on November 10. It counts about $132.5 billion in orders it has taken but not yet filled, some estimated, and its chief executive expects about $9 billion in customer prepayments and deposits in the next 3 months.\n→ CoreWeave expects customers to help fund its expansion through prepayments. If a computing provider asked me to pay up front, I'd check whether it can deliver and negotiate delivery dates, refund rights and penalties before committing.\n \n7. IBM and Microsoft launch Imagine Enterprise for AI agents (6 min read)\nIBM and Microsoft launched Imagine Enterprise on November 10, a platform for building, running and governing AI agents that bundles what they call \"more than 6,000 AI agents and assets\" from IBM Consulting on Microsoft's Azure cloud. The announcement offers access through IBM Consulting but gives no price and no named customer in production. Its one named client, SEI, is exploring AI agents with IBM Consulting.\n→ Without pricing or a named production customer, I'd treat the 6,000 figure as a catalog count. If IBM brings it to me, I'd ask how many are working agents for my line of business, who runs them after launch, and what it costs to leave.\n \nReferences:\nOctober 2026 security incident update (Fireworks AI, November 9, 2026)\nSecurity incident involving a third-party AI vendor (Notion, November 12, 2026)\nSecurity incident update (Cursor, November 13, 2026)\nThird-party AI agents (United Airlines, undated; read November 16, 2026)\nClaude Fable and Mythos 5.2 (Anthropic, November 9, 2026)\nPricing (Claude API docs, read November 16, 2026)\nGemini 4 Carbon for developers (Google, November 10, 2026)\nGemini API pricing (Google AI Studio, read November 16, 2026)\nIntroducing Gemini 4 Hydrogen (Google, November 12, 2026)\nUpcoming deprecation of selected GitHub Copilot models in December (GitHub changelog, November 13, 2026)\nNvidia Form 8-K, Item 5.02 (SEC, November 12, 2026)\nNvidia announces CEO transition (Nvidia, November 12, 2026)\nCoreWeave third quarter 2026 results, Exhibit 99.1 to Form 8-K (SEC, November 10, 2026)\nIBM and Microsoft announce a new AI agent platform (Microsoft, November 10, 2026)",
+        "preview_text": "Good morning. Nvidia's chief executive resigned. Anthropic and Google both published new model prices.\n1. Fireworks AI breach reached customers, Notion and Cursor say (3 min read)\nFireworks AI says a",
+        "title": "AI Waypoints: Week of November 16, 2026 — Edition #36"
+      },
+      "author_id": "6642562",
+      "created_at": "2026-11-17T00:08:41.000Z",
+      "edit_history_tweet_ids": [
+        "2122482015690011129"
+      ],
+      "id": "2122482015690011129",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 141,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Fireworks AI says a breach it first disclosed October 9 reached its development machines on October 24 and touched account and billing details and, for some customers, stored keys, datasets and incomplete models. That and 7 more AI related news this week! https://t.co/37AvV0LqRy",
+      "url": "https://x.com/KIntheHouse/status/2122482015690011129"
+    },
+    {
+      "author_id": "855303666722525184",
+      "created_at": "2026-11-17T00:04:01.000Z",
+      "edit_history_tweet_ids": [
+        "2122480843373547723"
+      ],
+      "id": "2122480843373547723",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 489,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "把公司做成最会用 AI 的公司，这才是全部：\n\n1. 建一个第二大脑。用一个文件夹的 markdown 文件记录你怎么想、怎么写、怎么决策（Obsidian）。\n\n2. 跟它说话。整天发语音（讯飞语记），让一个 agent 把每个事实、故事和决策归档。\n\n3.",
+      "url": "https://x.com/wanerfu/status/2122480843373547723"
+    },
+    {
+      "author_id": "1837671769303666691",
+      "created_at": "2026-11-17T00:01:01.000Z",
+      "edit_history_tweet_ids": [
+        "2122480086989283791"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 300,
+            "start": 277,
+            "url": "https://t.co/k0ln3d6kt1"
+          }
+        ]
+      },
+      "id": "2122480086989283791",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 39,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122350451655864466",
+          "type": "quoted"
+        }
+      ],
+      "text": "Ts is diabolical. Imagine you as a designer have a codebase of an app, and you have a DIRECT surgical manipulation with it INSIDE of your FUCKING BROWSER.\n\nIt's not even figma or paper.\n\nWhatever tool is now available is TRYING to minimize the gap between the DESIGN and CODE. https://t.co/k0ln3d6kt1",
+      "url": "https://x.com/danie_kov/status/2122480086989283791"
+    },
+    {
+      "article": {
+        "cover_media": "3_2122467329510690816",
+        "entities": {
+          "urls": [
+            {
+              "text": "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold/"
+            },
+            {
+              "text": "https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai"
+            },
+            {
+              "text": "https://www.cisa.gov/sites/default/files/2024-08/Federal_Government_Cybersecurity_Incident_and_Vulnerability_Response_Playbooks_508C.pdf"
+            }
+          ]
+        },
+        "plain_text": "A security patch closes a flaw. It also shows an attacker where to look. Google’s November 16 threat report describes an agentic system built to watch that before-and-after change, draft an exploit, and try it without waiting for a person at each step.\nThe important question for defenders is no longer only “How fast do we issue a patch?” It is “How long does our last exposed system remain reachable after the patch reveals the weak spot?”\nWhat Google actually observed\nGoogle Threat Intelligence Group and Mandiant say they found an exposed staging server running a multi-agent framework they call exploit_agent. It was configured to compare versions of popular web applications around patch announcements, identify potential vulnerabilities, write exploits, and execute them automatically. The server also contained victim data and scripts for activity after a compromise; telemetry suggested interest in French media, entertainment, and education sites.\nGTIG calls this its first observation of threat actors fully automating vulnerability discovery and exploitation without a human in the loop. That is a change from its September assessment, which said it had not yet observed fully autonomous pipelines against targets in the wild.\nThe public evidence has limits. The report does not provide a success rate for the generated exploits or show that every piece of victim data came from this exact automated path. A configured pipeline, observed victim material, and a measured end-to-end attack rate are different claims. Treating them as identical would make the response less precise.\nPut the clock on exposure\nPatch comparison is attractive because it narrows the search. Instead of looking for an unknown flaw anywhere in a codebase, the agent can focus on what changed. GTIG also notes that AI-generated exploits often claim to work when they do not. Defenders need rapid triage and a reliable check of what actually ran.\nConsider a public web service whose plugin vendor releases a fix. A useful response records three times: when the fix became public, when every affected internet-facing instance was identified and protected, and when its running state was verified. A ticket marked “patched” is not the same as a production instance that no longer exposes the vulnerable route.\nCISA’s vulnerability response playbook already emphasizes asset inventory, affected-version checks, investigation for exploitation, remediation, and verification. The new implication is to measure the interval across those steps for the slowest exposed instance, not merely the median time to close a ticket. That measurement is our operational interpretation, not a performance result Google reported.\nThere is a defensive opening too. GTIG says current autonomous offensive frameworks often trade stealth for speed and leave recognizable traffic and code traces. Those signals may help detection now; they should not be assumed to last as tooling improves.\nThe practical test: pick one recent patch for software you expose. Can you prove when the last vulnerable instance stopped being reachable, and can you distinguish attempted exploitation from a generated proof of concept that never worked?",
+        "preview_text": "A security patch closes a flaw. It also shows an attacker where to look. Google’s November 16 threat report describes an agentic system built to watch that before-and-after change, draft an exploit,",
+        "title": "A Security Patch Is Now an Agent’s Starting Signal"
+      },
+      "author_id": "2086209993142124544",
+      "created_at": "2026-11-17T00:00:33.000Z",
+      "edit_history_tweet_ids": [
+        "2122479970174091620"
+      ],
+      "id": "2122479970174091620",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 23,
+        "like_count": 1,
+        "quote_count": 1,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "Google found an automated patch-to-exploit pipeline. Its report does not give an exploit success rate. For defenders, the useful clock runs until the last exposed instance is protected. Can your team measure that interval? https://t.co/kwS251NuJZ",
+      "url": "https://x.com/deltaxevaluate/status/2122479970174091620"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 54875,
+        "height": 1080,
+        "media_key": "13_2122407619013083136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122407619013083136/img/lBWKLRjdO4GSubrh.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122407619013083136/vid/avc1/480x270/36vYZZdJ5IkVR7Cb.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122407619013083136/vid/avc1/640x360/jXW_zRK4WRcLNMaH.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122407619013083136/vid/avc1/1920x1080/0SnZ7kBgoEnH12nq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122407619013083136/vid/avc1/1280x720/gg9t0aqkedV18NeH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122407619013083136/pl/ImZ2-86FTx1FSij-.m3u8?v=cfc"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "height": 905,
+        "media_key": "3_2122483500464959488",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSTf47XcAA26IU.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2122483408102178816",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSTag2XQAA11XD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1800,
+        "media_key": "3_2122483268775710720",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSTSZ0WEAACa9v.jpg",
+        "width": 3200
+      },
+      {
+        "height": 418,
+        "media_key": "3_2122483242745937920",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSTQ42XQAALitD.jpg",
+        "width": 418
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2122482986197061632",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSTB9IWEAAHt-g.jpg",
+        "width": 769
+      },
+      {
+        "height": 418,
+        "media_key": "3_2122482936427462657",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSS_DuWQAEM_7O.jpg",
+        "width": 418
+      },
+      {
+        "height": 582,
+        "media_key": "3_2122475438010470400",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSMKl8bEAAxcPj.jpg",
+        "width": 1456
+      },
+      {
+        "height": 1744,
+        "media_key": "3_2122475067774992385",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSL1CtaAAEj5_i.jpg",
+        "width": 1456
+      },
+      {
+        "height": 1682,
+        "media_key": "3_2122475340941692928",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSME8VbEAASrtC.jpg",
+        "width": 1456
+      },
+      {
+        "height": 1562,
+        "media_key": "3_2122474943107756032",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSLtySa8AAo438.jpg",
+        "width": 1456
+      },
+      {
+        "height": 1518,
+        "media_key": "3_2122475244363595776",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSL_UjaQAAulll.jpg",
+        "width": 1456
+      },
+      {
+        "height": 1688,
+        "media_key": "3_2122475155108872192",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSL6IDbQAAXNwg.jpg",
+        "width": 1456
+      },
+      {
+        "height": 793,
+        "media_key": "3_2122467329510690816",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSEynbbUAAmh6T.jpg",
+        "width": 1983
+      }
+    ],
+    "tweets": [
+      {
+        "author_id": "2311987360",
+        "created_at": "2026-11-16T13:09:53.000Z",
+        "edit_history_tweet_ids": [
+          "2122316226005492200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 106,
+              "id": "1712267009483022336",
+              "start": 92,
+              "username": "higgsfield_ai"
+            }
+          ],
+          "urls": [
+            {
+              "end": 301,
+              "start": 278,
+              "url": "https://t.co/Z4Bm1EAnc8"
+            }
+          ]
+        },
+        "id": "2122316226005492200",
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 26641,
+          "like_count": 199,
+          "quote_count": 45,
+          "reply_count": 89,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120155404957311464",
+            "type": "quoted"
+          }
+        ],
+        "text": "The $100K Hackathon is LIVE! 🏴‍☠️\n\n30 days.\n3,492 builders.\n$100,000 cash prize 🤯 thanks to @higgsfield_ai.\n\nAlready on the waitlist? Your dashboard is now open:\nhttps://t.co/n1bbdaphR8\n\nNew here? Join for free, verify your email, and you’re in:\nhttps://t.co/QuGz3iGOrk\n\nHere’s https://t.co/Z4Bm1EAnc8"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122407619013083136"
+          ]
+        },
+        "author_id": "189016049",
+        "created_at": "2026-11-16T19:13:12.000Z",
+        "edit_history_tweet_ids": [
+          "2122407657344762214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1824567577852760064",
+              "start": 21,
+              "username": "paper"
+            }
+          ]
+        },
+        "id": "2122407657344762214",
+        "public_metrics": {
+          "bookmark_count": 443,
+          "impression_count": 52914,
+          "like_count": 1036,
+          "quote_count": 41,
+          "reply_count": 153,
+          "retweet_count": 54
+        },
+        "text": "Good morning!\n\nToday @paper launches Remote MCP\n\nThis may change the industry forever.\n\nUse Paper anywhere you work:\n• Cloud agents: Grok Bot, Muse, Devin, etc\n• CI: update Paper on every commit\n• Design from your phone\n\nAny agent, any time, any place\n\nStart in the thread 🧵 https://t.co/v6Yj6PKIHI"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2108967797787361280",
+            "3_2108967797762170880",
+            "3_2108967797787402240",
+            "3_2108967797770575872"
+          ]
+        },
+        "author_id": "161667651",
+        "created_at": "2026-10-10T17:08:02.000Z",
+        "edit_history_tweet_ids": [
+          "2108967806666715591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "end": 328,
+              "start": 305,
+              "url": "https://t.co/ZDHpvOxfhk"
+            }
+          ]
+        },
+        "id": "2108967806666715591",
+        "public_metrics": {
+          "bookmark_count": 3665,
+          "impression_count": 145124,
+          "like_count": 1677,
+          "quote_count": 25,
+          "reply_count": 40,
+          "retweet_count": 126
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099336089211416908",
+            "type": "quoted"
+          }
+        ],
+        "text": "How to effectively debug with agents when you no longer read or understand the code\n\nIn this post, I propose a debugging framework for agents that doesn’t rely on human knowledge of code to get to the right “root cause”\n\nThe TL;DR are the screenshots. \n\nLink to post in the reply. https://t.co/TRH4zKeyJl https://t.co/ZDHpvOxfhk"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122346256076787712"
+          ]
+        },
+        "author_id": "1450878685876207625",
+        "created_at": "2026-11-16T15:25:53.000Z",
+        "edit_history_tweet_ids": [
+          "2122350451655864466"
+        ],
+        "id": "2122350451655864466",
+        "public_metrics": {
+          "bookmark_count": 1822,
+          "impression_count": 105544,
+          "like_count": 2036,
+          "quote_count": 48,
+          "reply_count": 154,
+          "retweet_count": 92
+        },
+        "text": "Introducing iOS for the web.\n\nThis is Telegram (written in Swift and Objective-C), running fully in a browser on our custom renderer. No emulator, No iPhone required.\n\nYou can infinitely branch the entire codebase by copy pasting a frame and make changes to each frame.\n\nWe built https://t.co/uum7UvYuu9"
+      }
+    ],
+    "users": [
+      {
+        "id": "2122447673248919552",
+        "name": "AgentPaid",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2122449653945823232/AdjwrvyR_normal.jpg",
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 73
+        },
+        "username": "useAgentPaid",
+        "verified": false
+      },
+      {
+        "id": "1495628449779957760",
+        "name": "肯特 Kent",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991888588238360576/U5_DiiYf_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 1304,
+          "like_count": 15466,
+          "listed_count": 16,
+          "media_count": 422,
+          "tweet_count": 12872
+        },
+        "username": "Kent60921_0x",
+        "verified": false
+      },
+      {
+        "id": "1624246851582169089",
+        "name": "Cici",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119082489612468224/csMfYlIH_normal.jpg",
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 127,
+          "like_count": 27,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 2508
+        },
+        "username": "LabubuNoBB",
+        "verified": false
+      },
+      {
+        "id": "1668240593464573954",
+        "name": "Max Rojas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668248981443432451/TN3aLrRI_normal.jpg",
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 831,
+          "like_count": 10471,
+          "listed_count": 6,
+          "media_count": 507,
+          "tweet_count": 5812
+        },
+        "username": "maxrojasdelgado",
+        "verified": false
+      },
+      {
+        "id": "2311987360",
+        "name": "Marc Lou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081903460199641088/YZJqLn39_normal.jpg",
+        "public_metrics": {
+          "followers_count": 424795,
+          "following_count": 1275,
+          "like_count": 65433,
+          "listed_count": 3445,
+          "media_count": 6206,
+          "tweet_count": 39016
+        },
+        "username": "marclou",
+        "verified": false
+      },
+      {
+        "id": "2116995600973451264",
+        "name": "Algorithm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120239601352663040/lfq35gZ1_normal.jpg",
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 9,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 505
+        },
+        "username": "Pro_Algorithm",
+        "verified": false
+      },
+      {
+        "id": "1479550299815645185",
+        "name": "Stanley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730639637599883265/KDOrRfwl_normal.jpg",
+        "public_metrics": {
+          "followers_count": 76857,
+          "following_count": 1658,
+          "like_count": 29905,
+          "listed_count": 257,
+          "media_count": 13353,
+          "tweet_count": 50398
+        },
+        "username": "Stanleysobest",
+        "verified": false
+      },
+      {
+        "id": "1709050390799699969",
+        "name": "zhangcheng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860981362913869824/XEnGZLqo_normal.jpg",
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 541,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 507
+        },
+        "username": "zhangcheng0688",
+        "verified": false
+      },
+      {
+        "id": "2107671543488585728",
+        "name": "QHooks",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117624035055955969/NW7ADfV4_normal.jpg",
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 10,
+          "like_count": 24,
+          "listed_count": 6,
+          "media_count": 82,
+          "tweet_count": 488
+        },
+        "username": "qHooks_",
+        "verified": false
+      },
+      {
+        "id": "1234807607996506112",
+        "name": "na.ai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098643776306905088/OTeS2QbC_normal.jpg",
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 1327,
+          "like_count": 30972,
+          "listed_count": 7,
+          "media_count": 254,
+          "tweet_count": 3658
+        },
+        "username": "pomufgd",
+        "verified": false
+      },
+      {
+        "id": "1980199659747287040",
+        "name": "NextEleven LLC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097151413214171136/alUR3Za__normal.jpg",
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 1294,
+          "like_count": 595,
+          "listed_count": 2,
+          "media_count": 187,
+          "tweet_count": 1905
+        },
+        "username": "NextElevenDev",
+        "verified": false
+      },
+      {
+        "id": "2082970391807488000",
+        "name": "Global Bench",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083578312681463809/5O5qGhl2_normal.jpg",
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 28
+        },
+        "username": "globalbench",
+        "verified": true
+      },
+      {
+        "id": "1964479528090423297",
+        "name": "Piebald AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964481968365850624/qEPFxwaA_normal.png",
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 53,
+          "like_count": 84,
+          "listed_count": 7,
+          "media_count": 91,
+          "tweet_count": 258
+        },
+        "username": "PiebaldAI",
+        "verified": false
+      },
+      {
+        "id": "1536620289123295232",
+        "name": "GitTrend",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027224265200902144/BG6LQpAG_normal.jpg",
+        "public_metrics": {
+          "followers_count": 27664,
+          "following_count": 4602,
+          "like_count": 55597,
+          "listed_count": 165,
+          "media_count": 1914,
+          "tweet_count": 40528
+        },
+        "username": "GitTrend0x",
+        "verified": false
+      },
+      {
+        "id": "1919970963447545856",
+        "name": "岡田泰彦｜光邦｜AI×印刷エヴァンジェリスト",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059201031381372928/n1jHrdgt_normal.jpg",
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 50,
+          "like_count": 2207,
+          "listed_count": 3,
+          "media_count": 1518,
+          "tweet_count": 3330
+        },
+        "username": "KohoOkada",
+        "verified": false
+      },
+      {
+        "id": "161667651",
+        "name": "Cindy Sridharan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011287240836857862/qgLummk1_normal.jpg",
+        "public_metrics": {
+          "followers_count": 57127,
+          "following_count": 165,
+          "like_count": 36150,
+          "listed_count": 860,
+          "media_count": 1484,
+          "tweet_count": 11829
+        },
+        "username": "copyconstruct",
+        "verified": false
+      },
+      {
+        "id": "703986163",
+        "name": "ふきゅう",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037207302793465856/llBBPy6N_normal.jpg",
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 843,
+          "like_count": 1748,
+          "listed_count": 1,
+          "media_count": 474,
+          "tweet_count": 798
+        },
+        "username": "Khaled865412521",
+        "verified": false
+      },
+      {
+        "id": "1828025558065704960",
+        "name": "Raph_GMI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939035145920503808/vqwZqg82_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2375,
+          "following_count": 2576,
+          "like_count": 77423,
+          "listed_count": 14,
+          "media_count": 7113,
+          "tweet_count": 59471
+        },
+        "username": "Raph_GMI",
+        "verified": false
+      },
+      {
+        "id": "1425357559",
+        "name": "De Gentle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104127517527302144/kMP0MbKS_normal.jpg",
+        "public_metrics": {
+          "followers_count": 11911,
+          "following_count": 169,
+          "like_count": 4021,
+          "listed_count": 23,
+          "media_count": 5439,
+          "tweet_count": 6238
+        },
+        "username": "ObinaGMI",
+        "verified": false
+      },
+      {
+        "id": "6642562",
+        "name": "Karthik Ramadoss",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982132139484209152/oqQSmwCb_normal.jpg",
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 1162,
+          "like_count": 357,
+          "listed_count": 39,
+          "media_count": 165,
+          "tweet_count": 7474
+        },
+        "username": "KIntheHouse",
+        "verified": false
+      },
+      {
+        "id": "855303666722525184",
+        "name": "摆烂程序媛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695073712612016128/xjiHduPl_normal.jpg",
+        "public_metrics": {
+          "followers_count": 122882,
+          "following_count": 237,
+          "like_count": 20504,
+          "listed_count": 824,
+          "media_count": 5029,
+          "tweet_count": 8557
+        },
+        "username": "wanerfu",
+        "verified": false
+      },
+      {
+        "id": "1837671769303666691",
+        "name": "Daniel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947295939296657408/_ODlpbKI_normal.jpg",
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 341,
+          "like_count": 2049,
+          "listed_count": 1,
+          "media_count": 301,
+          "tweet_count": 1704
+        },
+        "username": "danie_kov",
+        "verified": false
+      },
+      {
+        "id": "2086209993142124544",
+        "name": "DeltaX Evaluate",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092133707302019072/2sX47UvA_normal.jpg",
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 84,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 893
+        },
+        "username": "deltaxevaluate",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122491601641517548",
+    "next_token": "b26v89c19zqg8o3juzow6hm9hnxysmq0ibgn9kz04ddh9",
+    "oldest_id": "2122479970174091620",
+    "result_count": 25
+  }
+}

@@ -1,0 +1,820 @@
+{
+  "data": [
+    {
+      "author_id": "1490950408272896085",
+      "conversation_id": "2122376461822927065",
+      "created_at": "2026-11-17T00:38:42.000Z",
+      "edit_history_tweet_ids": [
+        "2122489571976089738"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1573399256836309009",
+            "start": 0,
+            "username": "kimmonismus"
+          }
+        ]
+      },
+      "id": "2122489571976089738",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122376461822927065",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kimmonismus Buying a competitor's auditor seems like a risky move.",
+      "url": "https://x.com/daveylan2/status/2122489571976089738"
+    },
+    {
+      "author_id": "2838494708",
+      "conversation_id": "2122376461822927065",
+      "created_at": "2026-11-17T00:37:34.000Z",
+      "edit_history_tweet_ids": [
+        "2122489286234615895"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1573399256836309009",
+            "start": 0,
+            "username": "kimmonismus"
+          }
+        ]
+      },
+      "id": "2122489286234615895",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122376461822927065",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kimmonismus Buying the evaluator makes independence harder to trust",
+      "url": "https://x.com/foukation/status/2122489286234615895"
+    },
+    {
+      "author_id": "833436332819152896",
+      "conversation_id": "2122376461822927065",
+      "created_at": "2026-11-16T20:40:14.000Z",
+      "edit_history_tweet_ids": [
+        "2122429560436203756"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1573399256836309009",
+            "start": 0,
+            "username": "kimmonismus"
+          }
+        ]
+      },
+      "id": "2122429560436203756",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122376461822927065",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kimmonismus $5 billion to look inside a model is a very expensive way of saying we still cannot audit the thing we are deploying. A CFO would call that an unpriced liability. Interpretability stops being a research nice-to-have once the model is moving money, or robots.",
+      "url": "https://x.com/aleksej_kar/status/2122429560436203756"
+    },
+    {
+      "author_id": "1624135094498648065",
+      "conversation_id": "2122376461822927065",
+      "created_at": "2026-11-16T20:12:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122422454345949420"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1573399256836309009",
+            "start": 0,
+            "username": "kimmonismus"
+          }
+        ]
+      },
+      "id": "2122422454345949420",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 38,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122376461822927065",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kimmonismus Direct math interpretability is clearly the endgame",
+      "url": "https://x.com/heyartzy/status/2122422454345949420"
+    },
+    {
+      "author_id": "1711900618733043712",
+      "conversation_id": "2122376461822927065",
+      "created_at": "2026-11-16T19:33:12.000Z",
+      "edit_history_tweet_ids": [
+        "2122412691444953275"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1573399256836309009",
+            "start": 0,
+            "username": "kimmonismus"
+          }
+        ]
+      },
+      "id": "2122412691444953275",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 17,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122376461822927065",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kimmonismus Paying $5B to see inside your own model says a lot. If the reasoning moves into hidden loops, reading the chain of thought stops being enough. Would you ship a model you can only inspect from the inside?",
+      "url": "https://x.com/Mashruf32/status/2122412691444953275"
+    },
+    {
+      "author_id": "192424785",
+      "conversation_id": "2122376461822927065",
+      "created_at": "2026-11-16T19:05:36.000Z",
+      "edit_history_tweet_ids": [
+        "2122405743949451304"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1573399256836309009",
+            "start": 0,
+            "username": "kimmonismus"
+          }
+        ]
+      },
+      "id": "2122405743949451304",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 13,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122376461822927065",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kimmonismus Yes, this is called mechanistic interpretability, and it is the only way to truly measure alignment. Even without looped transformers, where the chain of thought is visible, we know that it is often unfaithful.",
+      "url": "https://x.com/jakobsohn/status/2122405743949451304"
+    },
+    {
+      "author_id": "1417047211901288448",
+      "conversation_id": "2122376461822927065",
+      "created_at": "2026-11-16T19:00:38.000Z",
+      "edit_history_tweet_ids": [
+        "2122404492633428068"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1573399256836309009",
+            "start": 0,
+            "username": "kimmonismus"
+          }
+        ]
+      },
+      "id": "2122404492633428068",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122376461822927065",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kimmonismus funniest part of this cycle: labs spend billions building models, then $5B+ trying to buy someone who can explain why the models do what they do. also, buying the company that looks inside your model is a weird way to get an outside opinion",
+      "url": "https://x.com/Davewt15/status/2122404492633428068"
+    },
+    {
+      "author_id": "321456181",
+      "conversation_id": "2122376461822927065",
+      "created_at": "2026-11-16T18:58:23.000Z",
+      "edit_history_tweet_ids": [
+        "2122403926381392329"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1573399256836309009",
+            "start": 0,
+            "username": "kimmonismus"
+          }
+        ]
+      },
+      "id": "2122403926381392329",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 21,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122376461822927065",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kimmonismus A second piece from The Information says the Goodfire research that caught Altman's eye, new claims about how AI thinks, has split AI researchers, with some calling it a potential breakthrough and others hype.",
+      "url": "https://x.com/anand_sharrrma/status/2122403926381392329"
+    },
+    {
+      "author_id": "1638868192159227904",
+      "conversation_id": "2122376461822927065",
+      "created_at": "2026-11-16T18:40:48.000Z",
+      "edit_history_tweet_ids": [
+        "2122399504880030146"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1573399256836309009",
+            "start": 0,
+            "username": "kimmonismus"
+          }
+        ]
+      },
+      "id": "2122399504880030146",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 180,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122376461822927065",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kimmonismus 5 billion just to find out why it opens every answer with great question",
+      "url": "https://x.com/yevloop/status/2122399504880030146"
+    },
+    {
+      "author_id": "1871875156383277056",
+      "conversation_id": "2122376461822927065",
+      "created_at": "2026-11-16T18:36:14.000Z",
+      "edit_history_tweet_ids": [
+        "2122398354386903086"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1573399256836309009",
+            "start": 0,
+            "username": "kimmonismus"
+          }
+        ]
+      },
+      "id": "2122398354386903086",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122376461822927065",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kimmonismus Same model inspection task, OpenAI looked at buying Goodfire to see inside the math. Claude still relies more on readable chain-of-thought for the same debugging work. Direct internal views vs CoT monitoring — still testing which one catches more real issues.",
+      "url": "https://x.com/Patrici6009533/status/2122398354386903086"
+    },
+    {
+      "author_id": "4442775373",
+      "conversation_id": "2122376461822927065",
+      "created_at": "2026-11-16T18:35:29.000Z",
+      "edit_history_tweet_ids": [
+        "2122398163420020967"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1573399256836309009",
+            "start": 0,
+            "username": "kimmonismus"
+          }
+        ]
+      },
+      "id": "2122398163420020967",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 13,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122376461822927065",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kimmonismus the next big AI breakthrough might not be making models smarter, but making them easier to understand.",
+      "url": "https://x.com/DragonsAILab/status/2122398163420020967"
+    },
+    {
+      "author_id": "2065970075228622848",
+      "conversation_id": "2122376461822927065",
+      "created_at": "2026-11-16T18:13:52.000Z",
+      "edit_history_tweet_ids": [
+        "2122392723487371298"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1573399256836309009",
+            "start": 0,
+            "username": "kimmonismus"
+          }
+        ]
+      },
+      "id": "2122392723487371298",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122376461822927065",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kimmonismus buying the team that reads the math when the chain of thought hides",
+      "url": "https://x.com/zuvexxx/status/2122392723487371298"
+    },
+    {
+      "author_id": "1948706120899674112",
+      "conversation_id": "2122376461822927065",
+      "created_at": "2026-11-16T18:07:38.000Z",
+      "edit_history_tweet_ids": [
+        "2122391158479585485"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1573399256836309009",
+            "start": 0,
+            "username": "kimmonismus"
+          }
+        ]
+      },
+      "id": "2122391158479585485",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 80,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122376461822927065",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kimmonismus $5 billion to read your own model's mind is the priciest therapy ever booked",
+      "url": "https://x.com/humayun_x/status/2122391158479585485"
+    },
+    {
+      "author_id": "516913332",
+      "conversation_id": "2122376461822927065",
+      "created_at": "2026-11-16T17:59:16.000Z",
+      "edit_history_tweet_ids": [
+        "2122389051252543882"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1573399256836309009",
+            "start": 0,
+            "username": "kimmonismus"
+          }
+        ]
+      },
+      "id": "2122389051252543882",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 143,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122376461822927065",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kimmonismus Same day OpenAI calls Goodfire an independent assessor, its own page says Goodfire is paid and its primary audience is OpenAI researchers. Add reported $5B+ buyout talks at 4x the February valuation and that's a vendor, not an auditor.",
+      "url": "https://x.com/tallmetommy/status/2122389051252543882"
+    },
+    {
+      "author_id": "1553835048",
+      "conversation_id": "2122376461822927065",
+      "created_at": "2026-11-16T17:55:36.000Z",
+      "edit_history_tweet_ids": [
+        "2122388129453834524"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1573399256836309009",
+            "start": 0,
+            "username": "kimmonismus"
+          }
+        ]
+      },
+      "id": "2122388129453834524",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 236,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122376461822927065",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kimmonismus wonder what the cap table looked like",
+      "url": "https://x.com/leononrails/status/2122388129453834524"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122376195190984705"
+          ]
+        },
+        "author_id": "1573399256836309009",
+        "conversation_id": "2122376461822927065",
+        "created_at": "2026-11-16T17:09:15.000Z",
+        "edit_history_tweet_ids": [
+          "2122376461822927065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iGVJaKb5xh",
+              "end": 303,
+              "expanded_url": "https://x.com/kimmonismus/status/2122376461822927065/photo/1",
+              "media_key": "3_2122376195190984705",
+              "start": 280,
+              "url": "https://t.co/iGVJaKb5xh"
+            }
+          ]
+        },
+        "id": "2122376461822927065",
+        "lang": "en",
+        "note_tweet": {
+          "text": "Interesting: OpenAI explored buying Goodfire, the Anthropic-backed startup that looks inside AI models to understand why they behave the way they do, for more than $5 billion, The Information reports. \n\nYou probably remember the uproar in September, when reports said GPT-6 Astra does part of its reasoning in hidden loops to be more efficient, leaving less readable chain of thought to monitor. \n\nGoodfire's approach skips the chain of thought and looks at the math running inside the model directly."
+        },
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 52681,
+          "like_count": 361,
+          "quote_count": 2,
+          "reply_count": 34,
+          "retweet_count": 16
+        },
+        "text": "Interesting: OpenAI explored buying Goodfire, the Anthropic-backed startup that looks inside AI models to understand why they behave the way they do, for more than $5 billion, The Information reports. \n\nYou probably remember the uproar in September, when reports said GPT-6 Astra https://t.co/iGVJaKb5xh"
+      }
+    ],
+    "users": [
+      {
+        "id": "1490950408272896085",
+        "name": "Z.He",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2122217034188738560/edarLGik_normal.jpg",
+        "public_metrics": {
+          "followers_count": 4116,
+          "following_count": 3728,
+          "like_count": 977,
+          "listed_count": 2,
+          "media_count": 224,
+          "tweet_count": 3224
+        },
+        "username": "daveylan2",
+        "verified": false
+      },
+      {
+        "id": "2838494708",
+        "name": "The Pursuit of Happyness",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038427763628224512/S4W65Ysv_normal.jpg",
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 353,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 281,
+          "tweet_count": 1030
+        },
+        "username": "foukation",
+        "verified": false
+      },
+      {
+        "id": "833436332819152896",
+        "name": "aleksej",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778105898164236288/7naLdn3__normal.jpg",
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 2121,
+          "like_count": 11110,
+          "listed_count": 20,
+          "media_count": 119,
+          "tweet_count": 8514
+        },
+        "username": "aleksej_kar",
+        "verified": false
+      },
+      {
+        "id": "1624135094498648065",
+        "name": "Artzy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080331248640065538/rFhSb_wt_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2216,
+          "following_count": 1799,
+          "like_count": 69042,
+          "listed_count": 40,
+          "media_count": 787,
+          "tweet_count": 68315
+        },
+        "username": "heyartzy",
+        "verified": false
+      },
+      {
+        "id": "1711900618733043712",
+        "name": "Ifty Mashruf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068136680230682624/KFIsL5jZ_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 253,
+          "like_count": 458,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 1288
+        },
+        "username": "Mashruf32",
+        "verified": false
+      },
+      {
+        "id": "192424785",
+        "name": "Jakob Sohn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2892836448/c50f7063c31eee8bc1139df9a442e91b_normal.jpeg",
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 149,
+          "like_count": 24364,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 2860
+        },
+        "username": "jakobsohn",
+        "verified": false
+      },
+      {
+        "id": "1417047211901288448",
+        "name": "Davewt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1417047450678751233/6jo5IzgB_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 8,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 80
+        },
+        "username": "Davewt15",
+        "verified": false
+      },
+      {
+        "id": "321456181",
+        "name": "Anand Sharma",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080296096518361089/u8jr9pi7_normal.jpg",
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 231,
+          "like_count": 312,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 272
+        },
+        "username": "anand_sharrrma",
+        "verified": false
+      },
+      {
+        "id": "1638868192159227904",
+        "name": "E_genius",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094028764216795137/b1q50ucW_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2133,
+          "following_count": 4311,
+          "like_count": 10790,
+          "listed_count": 8,
+          "media_count": 156,
+          "tweet_count": 13272
+        },
+        "username": "yevloop",
+        "verified": false
+      },
+      {
+        "id": "1871875156383277056",
+        "name": "Olivia Parker",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084129475533709312/8drGEMjd_normal.jpg",
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 391,
+          "like_count": 1197,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1346
+        },
+        "username": "Patrici6009533",
+        "verified": false
+      },
+      {
+        "id": "4442775373",
+        "name": "Dragons' AI Lab",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990491054970150913/yLkd7Rlo_normal.jpg",
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 90,
+          "like_count": 687,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 370
+        },
+        "username": "DragonsAILab",
+        "verified": false
+      },
+      {
+        "id": "2065970075228622848",
+        "name": "Zuvex",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118827802522800129/71LBiC-w_normal.jpg",
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 23,
+          "like_count": 857,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 679
+        },
+        "username": "zuvexxx",
+        "verified": false
+      },
+      {
+        "id": "1948706120899674112",
+        "name": "Humayun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109905781646852096/WM6F7Yqf_normal.jpg",
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 658,
+          "like_count": 5166,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 3555
+        },
+        "username": "humayun_x",
+        "verified": false
+      },
+      {
+        "id": "516913332",
+        "name": "Tømmy. T",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115670023519748097/5y_fHdu9_normal.jpg",
+        "public_metrics": {
+          "followers_count": 11833,
+          "following_count": 3832,
+          "like_count": 72659,
+          "listed_count": 51,
+          "media_count": 6049,
+          "tweet_count": 23325
+        },
+        "username": "tallmetommy",
+        "verified": false
+      },
+      {
+        "id": "1553835048",
+        "name": "NotaDEV * fireply.ai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086386871995645952/GvlJ8PbQ_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1337,
+          "following_count": 659,
+          "like_count": 11426,
+          "listed_count": 4,
+          "media_count": 73,
+          "tweet_count": 7236
+        },
+        "username": "leononrails",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122489571976089738",
+    "next_token": "b26v89c19zqg8o3juzow6fhu370utb6bq2xxt99f0dqil",
+    "oldest_id": "2122388129453834524",
+    "result_count": 15
+  }
+}

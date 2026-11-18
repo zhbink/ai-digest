@@ -1,0 +1,2337 @@
+{
+  "data": [
+    {
+      "author_id": "1878345967780646912",
+      "conversation_id": "2122489520952377638",
+      "created_at": "2026-11-17T00:38:30.000Z",
+      "edit_history_tweet_ids": [
+        "2122489520952377638"
+      ],
+      "id": "2122489520952377638",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "如何不被短视频劫持大脑，以及如何戒断多巴胺，是人一生要去追求的课题。",
+      "url": "https://x.com/UPing123zzz/status/2122489520952377638"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122489394976428033"
+        ]
+      },
+      "author_id": "1727548535816724480",
+      "conversation_id": "2122489411086803199",
+      "created_at": "2026-11-17T00:38:04.000Z",
+      "edit_history_tweet_ids": [
+        "2122489411086803199"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/7LiZSYkTxG",
+            "end": 190,
+            "expanded_url": "https://x.com/shao__meng/status/2122489411086803199/photo/1",
+            "media_key": "3_2122489394976428033",
+            "start": 167,
+            "url": "https://t.co/7LiZSYkTxG"
+          }
+        ]
+      },
+      "id": "2122489411086803199",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "blog.janestreet.com/software-engin…",
+              "end": 246,
+              "expanded_url": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
+              "start": 223,
+              "url": "https://t.co/7sm1jjrvGJ"
+            }
+          ]
+        },
+        "text": "Jane Street 软件工程师面试变了（一点点...）：增加设计、验码与 AI Coding，不过传统考核仍是主流\n\nJane Street 工程师 Matthew Saffer 在《Our software engineering interviews are changing (a little)》中介绍了公司的面试试点。\n\n它讨论的问题很实际：工程师日常已经大量使用大模型，面试是否也应该改变？公司的回答是适度调整，而不全面推翻。\n\nhttps://t.co/7sm1jjrvGJ\n\n# 改的是部分校园现场轮次\n\n从今年夏天起，Jane Street 在校园招聘的现场面试中试行新环节：减少部分代码编写，更关注软件设计、检查代码的质量与结构、理解代码意图，以及使用大模型写代码。\n\n但范围说得也很清楚：多数轮次仍是不用大模型的传统编程面试。 也不是每位现场候选人都会遇到新环节；如果安排，公司会提前告知。\n\n有经验候选人的面试原本就包括系统设计、编程和过往项目讨论，这不是本次新增要求。文章也没有宣布电话面试或其他岗位全面改变。\n\n# 代码更容易生成，判断变得更重要\n\n传统面试仍然有效，因为它不只检查最后有没有写出答案，也观察候选人如何拆解问题、组织工作、沟通和协作。这些目标并没有改变。\n\n变化来自实际工作：当代码生成成本下降，工程师更需要判断应该做什么、选择什么抽象，以及如何确认结果正确。\n\n因此，新环节并非简单地让候选人“带着 AI 更快做题”，而是尝试观察更接近日常开发的能力：面对一份代码，能否理解其设计、发现问题，并判断它是否真正满足需求。\n\n# 不要求先练成 Agent 专家\n\nJane Street 明确表示，不期待候选人已经建立成熟的 Agent 工作流，也不指定一套工具配置，更不要求所有问题都交给模型。\n\n他们更看重对软件构建的判断，以及对工具边界的认识：什么时候适合用模型、哪里不能依赖它、什么时候应该换一种方法。\n\n团队也承认，新形式仍在变化，因此刻意没有公布可能很快过时的细节。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 138,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Jane Street 软件工程师面试变了（一点点...）：增加设计、验码与 AI Coding，不过传统考核仍是主流\n\nJane Street 工程师 Matthew Saffer 在《Our software engineering interviews are changing (a little)》中介绍了公司的面试试点。 https://t.co/7LiZSYkTxG",
+      "url": "https://x.com/shao__meng/status/2122489411086803199"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122486362410778624"
+        ]
+      },
+      "author_id": "1727548535816724480",
+      "conversation_id": "2122486376981795286",
+      "created_at": "2026-11-17T00:26:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122486376981795286"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 64,
+            "id": "1592266692528197632",
+            "start": 48,
+            "username": "togethercompute"
+          },
+          {
+            "end": 76,
+            "id": "3246815913",
+            "start": 68,
+            "username": "nutlope"
+          }
+        ],
+        "urls": [
+          {
+            "description": "We built agent evals to test how effective coding agents are at using Together AI. Small fixes to our docs, skills, and API errors lifted task completion rate from 75% to 97%.",
+            "display_url": "together.ai/blog/how-we-do…",
+            "end": 156,
+            "expanded_url": "https://www.together.ai/blog/how-we-do-agent-evals-at-together-ai",
+            "images": [
+              {
+                "height": 1260,
+                "url": "https://pbs.twimg.com/news_img/2122380990178111488/XrScZuBP?format=png&name=orig",
+                "width": 2400
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2122380990178111488/XrScZuBP?format=png&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 133,
+            "status": 200,
+            "title": "How we make Together AI easy for coding agents to use",
+            "unwound_url": "https://www.together.ai/blog/how-we-do-agent-evals-at-together-ai",
+            "url": "https://t.co/mul70Sa6oT"
+          },
+          {
+            "display_url": "pic.x.com/Nv7rXScEXa",
+            "end": 206,
+            "expanded_url": "https://x.com/shao__meng/status/2122486376981795286/photo/1",
+            "media_key": "3_2122486362410778624",
+            "start": 183,
+            "url": "https://t.co/Nv7rXScEXa"
+          },
+          {
+            "display_url": "x.com/nutlope/status…",
+            "end": 230,
+            "expanded_url": "https://twitter.com/nutlope/status/2122378712649748694",
+            "start": 207,
+            "url": "https://t.co/vSIsC8TajI"
+          }
+        ]
+      },
+      "id": "2122486376981795286",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 64,
+              "id": "1592266692528197632",
+              "start": 48,
+              "username": "togethercompute"
+            },
+            {
+              "end": 76,
+              "id": "3246815913",
+              "start": 68,
+              "username": "nutlope"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "together.ai/blog/how-we-do…",
+              "end": 156,
+              "expanded_url": "https://www.together.ai/blog/how-we-do-agent-evals-at-together-ai",
+              "start": 133,
+              "url": "https://t.co/twv0g8DM5W"
+            }
+          ]
+        },
+        "text": "Together 团队分享 Agent 评测实践：失败的不只是模型，还有文档和 Skills\n\n@togethercompute 团队 @nutlope 分享了团队里的实际做法：用 Coding Agent 测试自家 SDK、命令行和文档，再根据失败记录改产品。\n\nhttps://t.co/twv0g8DM5W\n\n# 评测的对象，是 Agent 使用产品的全过程\n\n团队把真实开发需求写成任务，例如查询 GPU 集群的可用区域、找到最便宜机型，再生成预订命令，但明确禁止真正下单。\n\n同一任务比较三种配置：只给提示词、接入文档 MCP，以及提供 Skills。Agent 在沙箱里运行，由 GitHub Actions 编排，同时记录 API 调用，再由模型裁判判断通过、未完成或失败。\n\n他们不仅看失败记录，也复查成功轨迹：最终做成了，不代表文档清楚、路径合理，Agent 可能只是反复绕路后碰巧完成。\n\n# 两句话，能比换模型更值得先做\n\n早期一项 GPU 集群任务中，Sonnet 4.6 即使使用 Skills，也只成功了 15 次中的 4 次；同配置下，Opus 4.8 成功了 14 次中的 13 次。\n\n原因不全在模型：Agent 把命令行示例输出当成实时库存，Skill 又把它引向营销页，而非价格表。团队补充两句话，明确指向实时区域接口和价格表后，该任务在 Skills 配置下对所测模型全部通过。\n\n评测还发现，错误信息指向不存在的接口，以及重试请求异常返回 404。只测最强模型，反而可能掩盖这些产品问题。\n\n# Skills 整合，也可能越改越差\n\n团队将 14 个分散的 Skill 合并为统一入口，首次结果却退步：72 次运行仅通过 54 次，未完成次数从 7 次升至 18 次，单次费用翻倍。\n\n压缩入口说明、更新过时模型并修复示例后，72 次运行通过 70 次，约为 97.2%；平均耗时下降约 20%，费用回到原先水平。\n\n这说明，统一入口并不天然降低使用难度。Agent 能否找到正确说明、示例是否有效，都需要实际运行验证。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 213,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122378712649748694",
+          "type": "quoted"
+        }
+      ],
+      "text": "Together 团队分享 Agent 评测实践：失败的不只是模型，还有文档和 Skills\n\n@togethercompute 团队 @nutlope 分享了团队里的实际做法：用 Coding Agent 测试自家 SDK、命令行和文档，再根据失败记录改产品。\n\nhttps://t.co/mul70Sa6oT\n\n# 评测的对象，是 Agent 使用产品的全过程 https://t.co/Nv7rXScEXa https://t.co/vSIsC8TajI",
+      "url": "https://x.com/shao__meng/status/2122486376981795286"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122480916522287104"
+        ]
+      },
+      "author_id": "1727548535816724480",
+      "conversation_id": "2122480930439016820",
+      "created_at": "2026-11-17T00:04:22.000Z",
+      "edit_history_tweet_ids": [
+        "2122480930439016820"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 66,
+            "id": "35432643",
+            "start": 55,
+            "username": "addyosmani"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/yXjnTv9Fq3",
+            "end": 200,
+            "expanded_url": "https://x.com/shao__meng/status/2122480930439016820/photo/1",
+            "media_key": "3_2122480916522287104",
+            "start": 177,
+            "url": "https://t.co/yXjnTv9Fq3"
+          },
+          {
+            "display_url": "x.com/ClaudeDevs/sta…",
+            "end": 224,
+            "expanded_url": "https://twitter.com/ClaudeDevs/status/2122457608963395586",
+            "start": 201,
+            "url": "https://t.co/LwRmeBpxgY"
+          }
+        ]
+      },
+      "id": "2122480930439016820",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 66,
+              "id": "35432643",
+              "start": 55,
+              "username": "addyosmani"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "claude.dev/blog/how-the-c…",
+              "end": 201,
+              "expanded_url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+              "start": 178,
+              "url": "https://t.co/68dPtWV4tA"
+            }
+          ]
+        },
+        "text": "Claude Code 团队：让 Agent 交付验证证据，不只是代码\n\n来自 Claude Code 团队 @addyosmani 分享：Claude Code 团队 90% 的代码由 Claude 编写并审查。真正限制并行规模的，不再是代码生成速度，转为人能否确认结果可靠。验证循环的意义，是让 Agent 提交可检查的证据，减少人逐项核对的负担。\n\nhttps://t.co/68dPtWV4tA\n\n# 先真正运行，再判断完成\n\n团队把启动和冒烟检查写成 verify Skill，让 Claude 在提交前执行。检查失败后尝试修复，三轮仍失败则交给人。\n\n验证也不是每次机械执行所有检查。一份 39 项可靠性清单根据代码改动触发，通常只检查相关的 3—10 项。例如修改会话存储，就要确认旧记录仍能通过 --resume 安全恢复。检查由代码所有者编写，让具体的工程经验成为可重复执行的步骤。\n\n# 改代码，不能顺便改掉评判标准\n\nClaude Code 团队最重要的一条原则是：如果一项改动能修改评判自己的检查，这套检查就失效了。\n\n因此，代码审查规则 REVIEW.md 从基础分支或默认分支读取，而不是采用当前拉取请求里可能被修改的版本；审查也针对固定提交，避免代码变化后结论仍被沿用。\n\n每次提交还会记录验证方式，包括明确标注“未验证”。系统可以拦截没有运行审查或验证的提交，但同一会话连续拦截两次后会放行，以免陷入死循环。这说明它是带人工兜底的工程机制，不是绝对安全保证。\n\n# 验证器本身，也要接受验证\n\n团队用回滚记录、维护者拒绝的改动，以及规模相近的正常改动评估审查效果，并恢复当时的仓库状态。只有准确指出实际缺陷的发现才计分，不能靠泛泛提醒获得好成绩。\n\n漏检也不会直接变成新规则：同类问题至少要在两个拉取请求中出现、能从代码差异中识别，再经三个 Agent 尝试找出反例，最后由人批准。这样既积累经验，也避免规则越来越多、误报越来越重。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 424,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122457608963395586",
+          "type": "quoted"
+        }
+      ],
+      "text": "Claude Code 团队：让 Agent 交付验证证据，不只是代码\n\n来自 Claude Code 团队 @addyosmani 分享：Claude Code 团队 90% 的代码由 Claude 编写并审查。真正限制并行规模的，不再是代码生成速度，转为人能否确认结果可靠。验证循环的意义，是让 Agent 提交可检查的证据，减少人逐项核对的负担。 https://t.co/yXjnTv9Fq3 https://t.co/LwRmeBpxgY",
+      "url": "https://x.com/shao__meng/status/2122480930439016820"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122477351338749952"
+        ]
+      },
+      "author_id": "1727548535816724480",
+      "conversation_id": "2122477360847138866",
+      "created_at": "2026-11-16T23:50:11.000Z",
+      "edit_history_tweet_ids": [
+        "2122477360847138866"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/xcRXQ3ZQ0R",
+            "end": 169,
+            "expanded_url": "https://x.com/shao__meng/status/2122477360847138866/photo/1",
+            "media_key": "3_2122477351338749952",
+            "start": 146,
+            "url": "https://t.co/xcRXQ3ZQ0R"
+          }
+        ]
+      },
+      "id": "2122477360847138866",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "7 点前赶在肯德基刚开门点到了 A0001 号早餐 😎\n\n今天早早出发，去帮一个朋友的团队做软件架构和 AI 分享。\n\n他们是比较典型的深圳非明星硬件公司：在超偏远的工业园区、研发和生产在一起、外包+自研结合、软件是懂一点的嵌软做没有专职软件工程师、全员对 AI 基本停留在用过豆包的阶段。\n\n等今天分享完，看看有哪些可以针对硬件和制造业提炼出来的 AI 落地方案，对团队和产品都有可能。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 376,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "7 点前赶在肯德基刚开门点到了 A0001 号早餐 😎\n\n今天早早出发，去帮一个朋友的团队做软件架构和 AI 分享。\n\n他们是比较典型的深圳非明星硬件公司：在超偏远的工业园区、研发和生产在一起、外包+自研结合、软件是懂一点的嵌软做没有专职软件工程师、全员对 AI 基本停留在用过豆包的阶段。 https://t.co/xcRXQ3ZQ0R",
+      "url": "https://x.com/shao__meng/status/2122477360847138866"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122473372726788096"
+        ]
+      },
+      "author_id": "1727548535816724480",
+      "conversation_id": "2122473384403710005",
+      "created_at": "2026-11-16T23:34:23.000Z",
+      "edit_history_tweet_ids": [
+        "2122473384403710005"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants. - Tencent/LoopForge",
+            "display_url": "github.com/Tencent/LoopFo…",
+            "end": 157,
+            "expanded_url": "https://github.com/Tencent/LoopForge",
+            "images": [
+              {
+                "height": 600,
+                "url": "https://pbs.twimg.com/news_img/2120408762250854400/fmmJVqE3?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2120408762250854400/fmmJVqE3?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 134,
+            "status": 200,
+            "title": "GitHub - Tencent/LoopForge: Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+            "unwound_url": "https://github.com/Tencent/LoopForge",
+            "url": "https://t.co/sNYOtec35D"
+          },
+          {
+            "display_url": "pic.x.com/Ylg8SNahCr",
+            "end": 206,
+            "expanded_url": "https://x.com/shao__meng/status/2122473384403710005/photo/1",
+            "media_key": "3_2122473372726788096",
+            "start": 183,
+            "url": "https://t.co/Ylg8SNahCr"
+          }
+        ]
+      },
+      "id": "2122473384403710005",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/Tencent/LoopFo…",
+              "end": 157,
+              "expanded_url": "https://github.com/Tencent/LoopForge",
+              "start": 134,
+              "url": "https://t.co/h9ACIJWJsT"
+            }
+          ]
+        },
+        "text": "腾讯开源 LoopForge：让 Coding Agents 按流程交付，再用评测改进流程\n\nLoopForge 关注的不是让 AI 多写几行代码，是让 Coding Agents 进入团队研发：有人分工、有测试和评审、失败可以返工，整个过程能够追溯。\n\n开源地址：\nhttps://t.co/h9ACIJWJsT\n\n# 不替代编程助手，做组织交付\n\n实际编码交给 CodeBuddy、Codex、Claude Code、Cursor CLI 等现有工具，LoopForge 负责角色、Docker 沙箱、流程检查点和运行记录。\n\n用户既可以与 Main Bot 对话，让它分派工作，也可以执行标准操作流程（SOP）。流程由 Agent、脚本、人工审批、子流程等节点组成，按依赖推进，并支持并行分支。规划、开发、测试和评审因此不再只靠提示词提醒，而能成为明确的执行步骤。\n\n# 两层循环：修好当前任务，改进下次流程\n\n第一层发生在任务执行中。脚本和检查节点根据执行结果判断是否通过；失败后可以定向修复或重新执行，并受最大尝试次数、返工次数限制。人也可以补充信息、批准结果，或退回指定步骤。\n\n第二层发生在运行结束后。runeval 模块把运行轨迹整理成结构化事实，再由模型从控制流、耗时、工具浪费、Token 效率、错误恢复和交付完整性六方面评分。\n\n它还能提出流程补丁，例如调整重试策略、增删角色检查规则、补充角色提示词。建议先处于待应用状态，并非评测结束就自动修改流程。 当前提示词还禁止整份重写 SOP、修改连线或删除节点。\n\n因此，这里的“自进化”主要是根据执行反馈改进流程和角色规则，不是训练模型，也不等于系统会无人干预地持续变强。\n\n# 有验证记录，但不是效果基准\n\n仓库的验收文档记录了一次真实模型用例：CodeBuddy 配合 deepseek-v4.1-flash，完成规划、Python 修复、独立评审、三项测试、人工批准和最终评测。\n\n# 对 LoopForge 的一点感受\n\n它值得研究的，是如何把 Coding Agents 的一次性执行，变成可审批、可复盘、可复用的团队流程。比起接入多少模型，这套失败处理和流程改进机制更有参考价值。\n\n但开源代码不包含内部生产环境的完整流程；部分辅助功能和运行评测仍绑定 CodeBuddy，Local 版也尚不能独立执行平台导出的 SOP。适合把它作为团队 Agent 工程化的参考与试点基础，不能直接视为成熟的无人研发系统。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 9,
+        "impression_count": 556,
+        "like_count": 9,
+        "quote_count": 0,
+        "reply_count": 7,
+        "retweet_count": 0
+      },
+      "text": "腾讯开源 LoopForge：让 Coding Agents 按流程交付，再用评测改进流程\n\nLoopForge 关注的不是让 AI 多写几行代码，是让 Coding Agents 进入团队研发：有人分工、有测试和评审、失败可以返工，整个过程能够追溯。\n\n开源地址：\nhttps://t.co/sNYOtec35D\n\n# 不替代编程助手，做组织交付\n\n实际编码交给 https://t.co/Ylg8SNahCr",
+      "url": "https://x.com/shao__meng/status/2122473384403710005"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122418191540310016"
+        ]
+      },
+      "author_id": "3178231",
+      "conversation_id": "2122428858380980580",
+      "created_at": "2026-11-16T20:37:27.000Z",
+      "edit_history_tweet_ids": [
+        "2122418567077318691",
+        "2122428858380980580"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/MNzqT82XyF",
+            "end": 190,
+            "expanded_url": "https://x.com/dotey/status/2122428858380980580/video/1",
+            "media_key": "13_2122418191540310016",
+            "start": 167,
+            "url": "https://t.co/MNzqT82XyF"
+          }
+        ]
+      },
+      "id": "2122428858380980580",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "Yahoo Finance 的主持人问 Sam Altman：黄仁勋该不该回来？\n\nAltman 说：“我知道的还不够多，回答不了这个问题。”\n\n----\n\n主持人先摆出背景：差不多正好三年前，Altman 也被董事会赶下台过；现在网上流传着一封支持黄仁勋的信，主持人认为是照着当年 Altman 的支持者起草的那封信复制粘贴来的。\n\nAltman 说，黄仁勋一直是他心目中的英雄，“英雄也有缺点”。他感激黄仁勋建起的这家公司，对这种处境也有很强的个人共鸣，还记得当时是什么感受，“虽然感觉已经是很久以前的事了”。他说很难想象没有黄仁勋的 AI 革命。英伟达很早就押注了 OpenAI，OpenAI 也很早押注了英伟达，他对此“极其感激”。\n\n主持人接着提到，英伟达为 OpenAI 在俄亥俄州的数据中心提供了最高 1050 亿美元的担保（今年 8 月宣布，担保的是 OpenAI 租用这处数据中心园区的费用）。主持人说英伟达相当于整个行业的“银行”，在给全行业撑腰，并问：这份担保现在还和几周前一样值钱吗？\n\nAltman 说，英伟达是一家体量巨大的公司，大家仍然非常信任它的担保。但他也说，黄仁勋和英伟达显然深深绑在一起，黄仁勋带来的远大抱负和规模对整个行业很重要。\n\n主持人追问会不会有连锁影响。Altman 说，眼下需求非常大，AI 确实有用、人们也想用它，这一点已经很清楚，收入和需求都在快速增长，所以他认为行业会没事。但他又说了一遍：黄仁勋扮演了一个非常特别、非常有价值的角色，用很大的野心推动事情往前走。\n\n黄仁勋该不该回来，他在这段采访里没有再回答。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 22,
+        "impression_count": 23249,
+        "like_count": 38,
+        "quote_count": 2,
+        "reply_count": 31,
+        "retweet_count": 3
+      },
+      "text": "Yahoo Finance 的主持人问 Sam Altman：黄仁勋该不该回来？\n\nAltman 说：“我知道的还不够多，回答不了这个问题。”\n\n----\n\n主持人先摆出背景：差不多正好三年前，Altman 也被董事会赶下台过；现在网上流传着一封支持黄仁勋的信，主持人认为是照着当年 Altman 的支持者起草的那封信复制粘贴来的。 https://t.co/MNzqT82XyF",
+      "url": "https://x.com/dotey/status/2122428858380980580"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122418191540310016"
+        ]
+      },
+      "author_id": "3178231",
+      "conversation_id": "2122418567077318691",
+      "created_at": "2026-11-16T19:56:33.000Z",
+      "edit_history_tweet_ids": [
+        "2122418567077318691",
+        "2122428858380980580"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/TBGGPnnScB",
+            "end": 190,
+            "expanded_url": "https://x.com/dotey/status/2122418567077318691/video/1",
+            "media_key": "13_2122418191540310016",
+            "start": 167,
+            "url": "https://t.co/TBGGPnnScB"
+          }
+        ]
+      },
+      "id": "2122418567077318691",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "Yahoo Finance 的主持人问 Sam Altman：黄仁勋该不该回来？\n\nAltman 说：“我知道的还不够多，回答不了这个问题。”\n\n----\n\n主持人先摆出背景：差不多正好三年前，Altman 也被董事会赶下台过；现在网上流传着一封支持黄仁勋的信，主持人认为是照着当年 Altman 的支持者起草的那封信复制粘贴来的。\n\nAltman 说，黄仁勋一直是他心目中的英雄，“英雄也有缺点”。他感激黄仁勋建起的这家公司，对这种处境也有很强的个人共鸣，还记得当时是什么感受，“虽然感觉已经是很久以前的事了”。他说很难想象没有黄仁勋的 AI 革命。英伟达很早就押注了 OpenAI，OpenAI 也很早押注了英伟达，他对此“极其感激”。\n\n主持人接着提到，英伟达为 OpenAI 在俄亥俄州的数据中心提供了最高 1050 亿美元的担保（今年 8 月宣布，担保的是 OpenAI 租用这处数据中心园区的费用）。主持人说英伟达相当于整个行业的“银行”，在给全行业撑腰，并问：这份担保现在还和几周前一样值钱吗？\n\nAltman 说，英伟达是一家体量巨大的公司，大家仍然非常信任它的担保。但他也说，黄仁勋和英伟达显然深深绑在一起，黄仁勋带来的野心和规模对整个行业很重要。\n\n主持人追问会不会有连锁影响。Altman 说，眼下需求非常大，AI 确实有用、人们也想用它，这一点已经很清楚，收入和需求都在快速增长，所以他认为行业会没事。但他又说了一遍：黄仁勋扮演了一个非常特别、非常有价值的角色，用很大的野心推动事情往前走。\n\n黄仁勋该不该回来，他在这段采访里没有再回答。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 4841,
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 1
+      },
+      "text": "Yahoo Finance 的主持人问 Sam Altman：黄仁勋该不该回来？\n\nAltman 说：“我知道的还不够多，回答不了这个问题。”\n\n----\n\n主持人先摆出背景：差不多正好三年前，Altman 也被董事会赶下台过；现在网上流传着一封支持黄仁勋的信，主持人认为是照着当年 Altman 的支持者起草的那封信复制粘贴来的。 https://t.co/TBGGPnnScB",
+      "url": "https://x.com/dotey/status/2122418567077318691"
+    },
+    {
+      "author_id": "3178231",
+      "conversation_id": "2122412845656609046",
+      "created_at": "2026-11-16T19:33:49.000Z",
+      "edit_history_tweet_ids": [
+        "2122412845656609046"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/gocggo/status/…",
+            "end": 188,
+            "expanded_url": "https://twitter.com/gocggo/status/2122173429604659307",
+            "start": 165,
+            "url": "https://t.co/sq63PEON3Q"
+          }
+        ]
+      },
+      "id": "2122412845656609046",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "我们两说的场景是不一样的，其实不矛盾\n\n你说的场景更像是一个具体的任务（如果我没理解错），比如我要让 Agent 去研究一个数学课题。\n\n我说的场景是指 GrokBot 这种 Bot 类应用的主会话，就是什么消息你都往一个会话发。\n\n但是实际执行任务的会新建 Thread，把消息转发给 Thread，让 Thread 去处理。\n\n对于这种具体任务，就应该按照你说的，让强的模型去调度，比如 Fable 去计划、调度和验收，Opus 去执行。\n\n回到你说的场景在 Grokbot 里面，我在数学研究Bot的主会话说要研究一个数学课题，主会话不会自己开始研究，而是新开一个 Thread，把我的要求都原样转发给 Thread，让 Thread 去做研究。\n\n这就好比主会话是前台（sonnet），它不需要多懂数学，当它识别到用户是要做一个负责数学任务，它开始一个新的任务（Thread），让数学专家（Fable）去处理，数学专家在执行任务的时候，又去找了几个研究生（Opus）去帮他做一些具体执行的任务。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 17,
+        "impression_count": 6462,
+        "like_count": 14,
+        "quote_count": 1,
+        "reply_count": 16,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122173429604659307",
+          "type": "quoted"
+        }
+      ],
+      "text": "我们两说的场景是不一样的，其实不矛盾\n\n你说的场景更像是一个具体的任务（如果我没理解错），比如我要让 Agent 去研究一个数学课题。\n\n我说的场景是指 GrokBot 这种 Bot 类应用的主会话，就是什么消息你都往一个会话发。\n\n但是实际执行任务的会新建 Thread，把消息转发给 Thread，让 Thread 去处理。 https://t.co/sq63PEON3Q",
+      "url": "https://x.com/dotey/status/2122412845656609046"
+    },
+    {
+      "author_id": "1760502863854460928",
+      "conversation_id": "2122378382851854491",
+      "created_at": "2026-11-16T17:16:53.000Z",
+      "edit_history_tweet_ids": [
+        "2122378382851854491"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/OpenAI/status/…",
+            "end": 109,
+            "expanded_url": "https://twitter.com/OpenAI/status/2122359930628063248",
+            "start": 86,
+            "url": "https://t.co/ixwZznQUEb"
+          }
+        ]
+      },
+      "id": "2122378382851854491",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 814,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122359930628063248",
+          "type": "quoted"
+        }
+      ],
+      "text": "兄弟们，疑似OpenAI内部模型已经达到了AGI水平，由于水平太过强大，普通的安全机制无法束缚，OpenAI新模型迟迟没有发布很可能是内部正在加大资源来做安全相关的工作。 https://t.co/ixwZznQUEb",
+      "url": "https://x.com/GeekCatX/status/2122378382851854491"
+    },
+    {
+      "author_id": "1760502863854460928",
+      "conversation_id": "2122376180900962655",
+      "created_at": "2026-11-16T17:08:08.000Z",
+      "edit_history_tweet_ids": [
+        "2122376180900962655"
+      ],
+      "id": "2122376180900962655",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "最近微信上看了一篇付费文章给大家分享一下：\n\n1、AI 时代，什么样的人越往后越值钱？\n\n很多人以为年纪大最先被淘汰，其实正好相反。 AI 能光速复制的，全是能被写下来的标准流程、代码模版和方法论； AI 复制不了的，是李连杰电影里那句：“这一拳 20 年的功力，你挡得住吗？”\n\n真正值钱的叫“体感经验”：\n行业直觉、风险嗅觉、抓大放小的分寸感。 这些东西无法被打包成提示词，也无法靠读书速成，只能在真实的泥坑里肉搏砸出来。\n\n把标准化的活全甩给 AI，把你熬出来的肉身经验，变成别人抄不走的护城河。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 10,
+        "impression_count": 1738,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 1
+      },
+      "text": "最近微信上看了一篇付费文章给大家分享一下：\n\n1、AI 时代，什么样的人越往后越值钱？\n\n很多人以为年纪大最先被淘汰，其实正好相反。 AI 能光速复制的，全是能被写下来的标准流程、代码模版和方法论； AI 复制不了的，是李连杰电影里那句：“这一拳 20 年的功力，你挡得住吗？”",
+      "url": "https://x.com/GeekCatX/status/2122376180900962655"
+    },
+    {
+      "author_id": "1657474831",
+      "conversation_id": "2122375605186687369",
+      "created_at": "2026-11-16T17:05:50.000Z",
+      "edit_history_tweet_ids": [
+        "2122375605186687369"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/anuruddh_m/sta…",
+            "end": 310,
+            "expanded_url": "https://twitter.com/anuruddh_m/status/2122374778074038613",
+            "start": 287,
+            "url": "https://t.co/CQUwYa7E1E"
+          }
+        ]
+      },
+      "id": "2122375605186687369",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "meetaugust.ai/join",
+              "end": 415,
+              "expanded_url": "http://www.meetaugust.ai/join",
+              "start": 392,
+              "url": "https://t.co/cVX4WFHuYG"
+            }
+          ]
+        },
+        "text": "Backed by Sequoia & Accel (and already serving 9.5M+ users), August is tackling the messiest part of US healthcare: phone calls, price transparency, and insurance friction.\n\n• Calls doctors to book your earliest in-network slot\n• Compares GoodRx/Cost Plus & arranges Rx delivery\n• Audits medical bills & fights insurance denials\n• Gives you full call transcripts & recordings\n\nWaitlist Link: https://t.co/cVX4WFHuYG"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 915,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122374778074038613",
+          "type": "quoted"
+        }
+      ],
+      "text": "Backed by Sequoia &amp; Accel (and already serving 9.5M+ users), August is tackling the messiest part of US healthcare: phone calls, price transparency, and insurance friction.\n\n• Calls doctors to book your earliest in-network slot\n• Compares GoodRx/Cost Plus &amp; arranges Rx delivery https://t.co/CQUwYa7E1E",
+      "url": "https://x.com/Gorden_Sun/status/2122375605186687369"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122001085652971521"
+        ],
+        "media_source_tweet_id": [
+          "2122001430940905673"
+        ]
+      },
+      "author_id": "1974653328274714624",
+      "conversation_id": "2122374418957521026",
+      "created_at": "2026-11-16T17:01:07.000Z",
+      "edit_history_tweet_ids": [
+        "2122374418957521026"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/b7hBOt6H4h",
+            "end": 817,
+            "expanded_url": "https://x.com/SawyerMerritt/status/2122001430940905673/video/1",
+            "media_key": "13_2122001085652971521",
+            "start": 794,
+            "url": "https://t.co/b7hBOt6H4h"
+          }
+        ]
+      },
+      "id": "2122374418957521026",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SawyerMerritt/…",
+              "end": 817,
+              "expanded_url": "https://x.com/SawyerMerritt/status/2122001430940905673/video/1",
+              "start": 794,
+              "url": "https://t.co/b7hBOt6H4h"
+            }
+          ]
+        },
+        "text": "人类航天史最难啃的一块硬骨头，就在昨天被SpaceX用两根大铁筷子生生夹住了，\n11月13日星舰第15次试飞，很多人只看到下面的V3助推器因为燃料问题掉进了墨西哥湾，觉得有点可惜，但其实真正的王炸在上面，那艘编号Ship 42的飞船在太空中狂奔了整整22个小时，绕地球飞了14圈，顺手把26颗Starlink V3卫星送进轨道之后，竟然自己掉头冲回大气层，最后被发射塔的机械臂在半空中稳稳接住，\n说个反直觉的事实，很多人以为接住飞船和之前接住助推器差不多，其实两者的难度根本不在一个次元，助推器只飞到几十公里高就折返了，速度慢温度低，而飞船是从真正的宇宙轨道往下砸，要扛住上千度的高温摩擦，还要在几分钟内把几倍音速的动能彻底卸掉，人类过去几十年发射的所有火箭，包括猎鹰九号在内，上面这一节全都是用完就烧毁的一次性耗材，\n马斯克之所以死磕这种看起来像杂技一样的凌空夹取，背后藏着一笔极其精明的商业账，如果给飞船装上厚重的起落架和隔热腿，就要白白背负好几吨的死重，而直接在半空用发射塔接住，省下来的每一公斤结构重量，都能直接变成货舱里的有效载荷，也就是说，以后每一次发射都能多塞好几颗高通量卫星上去，\n更有意思的是，这26颗刚刚部署的Starlink V3卫星本身就是一座座移动的太空数据中心，一旦飞船和助推器都能像航班一样在发射塔上实现快速加注和周转，太空运输的边际成本就会被彻底打穿，我们头顶上的卫星宽带和太空算力网络，马上就要迎来一波指数级的降价和扩容，\n当然了，我们也不用现在就急着开香槟，这次V3助推器中途放弃回塔，说明新版本的推进剂管理还有坑要填，而且把飞船夹回来只是第一步，隔热瓦的检修、发动机的复检、怎么把周转周期从几个月压缩到几天，这些脏活累活才刚刚开始，但不管怎么说，2026年的今天，人类终于把往返太空这件事，从昂贵的一次性烟花，变成了一门可以流水线复用的确定性生意。 https://t.co/b7hBOt6H4h"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 2429,
+        "like_count": 20,
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "text": "人类航天史最难啃的一块硬骨头，就在昨天被SpaceX用两根大铁筷子生生夹住了，\n11月13日星舰第15次试飞，很多人只看到下面的V3助推器因为燃料问题掉进了墨西哥湾，觉得有点可惜，但其实真正的王炸在上面，那艘编号Ship 42的飞船在太空中狂奔了整整22个小时，绕地球飞了14圈，顺手把26颗Starlink",
+      "url": "https://x.com/AYi_AInotes/status/2122374418957521026"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122370248963964928"
+        ]
+      },
+      "author_id": "6690032",
+      "conversation_id": "2122370293352309235",
+      "created_at": "2026-11-16T16:44:44.000Z",
+      "edit_history_tweet_ids": [
+        "2122370293352309235"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/5cYkmY4Ddd",
+            "end": 174,
+            "expanded_url": "https://x.com/vista8/status/2122370293352309235/video/1",
+            "media_key": "13_2122370248963964928",
+            "start": 151,
+            "url": "https://t.co/5cYkmY4Ddd"
+          }
+        ]
+      },
+      "id": "2122370293352309235",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "发现个让软件变得有情趣和审美的提示词：\n\n“帮我设计下空页面，比如没配置模型时的状态，让用户感觉到温馨、有趣。你可以用 SVG 动画等来传递表达。”\n\n为什么要这么做？\nChrome 浏览器在打不开网页时会有小恐龙游戏。\n\n在空页面设计些小彩蛋，能给用户情绪价值。\n\n也让产品细节变得稍微好那么一点。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 52,
+        "impression_count": 4669,
+        "like_count": 72,
+        "quote_count": 1,
+        "reply_count": 16,
+        "retweet_count": 4
+      },
+      "text": "发现个让软件变得有情趣和审美的提示词：\n\n“帮我设计下空页面，比如没配置模型时的状态，让用户感觉到温馨、有趣。你可以用 SVG 动画等来传递表达。”\n\n为什么要这么做？\nChrome 浏览器在打不开网页时会有小恐龙游戏。\n\n在空页面设计些小彩蛋，能给用户情绪价值。\n\n也让产品细节变得稍微好那么一点。 https://t.co/5cYkmY4Ddd",
+      "url": "https://x.com/vista8/status/2122370293352309235"
+    },
+    {
+      "author_id": "431617343",
+      "conversation_id": "2122361955453452651",
+      "created_at": "2026-11-16T16:11:36.000Z",
+      "edit_history_tweet_ids": [
+        "2122361955453452651"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/TencentAI_News…",
+            "end": 162,
+            "expanded_url": "https://twitter.com/TencentAI_News/status/2122300566869365035",
+            "start": 139,
+            "url": "https://t.co/yqWZWT8QEJ"
+          }
+        ]
+      },
+      "id": "2122361955453452651",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "兄弟们，腾讯刚开源了 LoopForge，能自己部署的 AI 写代码交付平台，Claude Code、Codex、Cursor 都能接！\n\n很多人以为 AI 写代码的瓶颈在模型，写得不够好。\n腾讯在发布帖里的原话正好反过来：代码从来不是瓶颈，交接才是。\n\n让 Agent「修个 bug」，跑一次靠运气：可能跳过计划，忘了测试，自己审自己的代码，跑到一半停了也没人发现。\n\nLoopForge 的做法是把团队的交付流程写成 SOP，让 Agent 在云端按流程循环跑：\n\n① 角色分开：计划、写代码、审代码、测试是四个不同的 Agent，写的人不审。\n\n② 脚本说了算：编译和测试过没过，看退出码，不听 Agent 自己说「好了」。\n\n③ 人来签字：关键节点停下来等你批，可以打回到任意一步重做。\n\n④ 自己进化：官方说每次运行会打 0 到 100 分，复盘哪里出了问题，把改进建议写回 SOP，你审过再应用\n\n执行的 Agent 可以换，README 里列了十个：CodeBuddy、Codex、Claude Code、OpenCode、Cursor CLI、Kimi Code、DeepSeek Harness 等。\n\nMIT 协议，代码和密钥都留在你自己的服务器上。\n\n不想搭服务器的，还有个本地版，在项目里跑一行：\n\nnpx -y loopforge-cli@latest install claude\n\n装完在 Claude Code 里用 /start-devflow 加需求就能走内置流程。\n\n说实话，需要注意的几点：\n\n· 平台版要 Docker，模型的 key 要你自己出\n· 对话工作台目前只有中文，管理页面是中英双语\n· 现在还是 v0.3 版本；那个 0 到 100 分的自我进化，README 里没写细节，以发布帖为准\n\n我的看法：一个人用 Claude Code 写代码的，先装本地版试试；\n团队里已经好几个人在用 Agent 写代码、又管不住质量的，平台版值得搭一套。\n\n仓库地址在原帖里👇"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 10,
+        "impression_count": 1246,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122300566869365035",
+          "type": "quoted"
+        }
+      ],
+      "text": "兄弟们，腾讯刚开源了 LoopForge，能自己部署的 AI 写代码交付平台，Claude Code、Codex、Cursor 都能接！\n\n很多人以为 AI 写代码的瓶颈在模型，写得不够好。\n腾讯在发布帖里的原话正好反过来：代码从来不是瓶颈，交接才是。\n\n让 Agent「修个 https://t.co/yqWZWT8QEJ",
+      "url": "https://x.com/berryxia/status/2122361955453452651"
+    },
+    {
+      "author_id": "1760502863854460928",
+      "conversation_id": "2122356784711278893",
+      "created_at": "2026-11-16T15:51:03.000Z",
+      "edit_history_tweet_ids": [
+        "2122356784711278893"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/GeekCatX/statu…",
+            "end": 161,
+            "expanded_url": "https://twitter.com/GeekCatX/status/2121999665856205239",
+            "start": 138,
+            "url": "https://t.co/yfr2cedq1G"
+          }
+        ]
+      },
+      "id": "2122356784711278893",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "很多兄弟不理解这套工作流到底有多强！\n\n最近小红书和海外巨火的一类号，真人自己对着镜头演夸张的翻白眼、挑眉、吐槽，然后迁移到二次元/国风角色脸上，几天涨粉几万。\n\n很多人看不懂它为什么爆： \n不是画质有多好，而是它彻底解决了 AI 视频最大的死穴——“死鱼眼”和“僵尸脸”。 他让真人对着手机录一段极具戏剧张力的吐槽、翻白眼、挑眉等夸张神态，然后直接把动作和情绪 1:1 迁移到国风古风或二次元角色上。这种强烈的反差感，完播率和互动率直接逆天。\n\n变现路径也非常直接：\n\n1. 橱窗带同款汉服/周边：靠高互动流量疯狂吃佣金。\n2. 帮实体店/个人定制虚拟分身：一条视频几百块，纯利润。\n3. 知识付费与工作流交付：群里天天有人问怎么做的。\n\n普通人复刻这个，最怕两件事：\n一是运镜推拉时五官崩坏，二是动作生硬像木偶，出来满屏塑料味。\n\n详细工作流👇"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 43,
+        "impression_count": 2165,
+        "like_count": 37,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121999665856205239",
+          "type": "quoted"
+        }
+      ],
+      "text": "很多兄弟不理解这套工作流到底有多强！\n\n最近小红书和海外巨火的一类号，真人自己对着镜头演夸张的翻白眼、挑眉、吐槽，然后迁移到二次元/国风角色脸上，几天涨粉几万。\n\n很多人看不懂它为什么爆： \n不是画质有多好，而是它彻底解决了 AI 视频最大的死穴——“死鱼眼”和“僵尸脸”。 https://t.co/yfr2cedq1G",
+      "url": "https://x.com/GeekCatX/status/2122356784711278893"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122349440145276928"
+        ]
+      },
+      "author_id": "6690032",
+      "conversation_id": "2122350514591711512",
+      "created_at": "2026-11-16T15:26:08.000Z",
+      "edit_history_tweet_ids": [
+        "2122350514591711512"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/jXTzA88PZl",
+            "end": 107,
+            "expanded_url": "https://x.com/vista8/status/2122350514591711512/photo/1",
+            "media_key": "3_2122349440145276928",
+            "start": 84,
+            "url": "https://t.co/jXTzA88PZl"
+          }
+        ]
+      },
+      "id": "2122350514591711512",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 78,
+        "impression_count": 7806,
+        "like_count": 99,
+        "quote_count": 0,
+        "reply_count": 37,
+        "retweet_count": 6
+      },
+      "text": "一个专门听海内外优质 AI 视频播客的软件快开发好了。\n\n支持本地模型转写、AI 问答。\n\n精选频道会提供精读文章，不用听也能学很多。\n\n感兴趣的举手，争取这周开源。 https://t.co/jXTzA88PZl",
+      "url": "https://x.com/vista8/status/2122350514591711512"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122336606824632321"
+        ],
+        "media_source_tweet_id": [
+          "2122336898685206651"
+        ]
+      },
+      "author_id": "1974653328274714624",
+      "conversation_id": "2122348842628571477",
+      "created_at": "2026-11-16T15:19:30.000Z",
+      "edit_history_tweet_ids": [
+        "2122348842628571477"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/IgKou48T7q",
+            "end": 338,
+            "expanded_url": "https://x.com/EricLDaugh/status/2122336898685206651/video/1",
+            "media_key": "13_2122336606824632321",
+            "start": 315,
+            "url": "https://t.co/IgKou48T7q"
+          }
+        ]
+      },
+      "id": "2122348842628571477",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/EricLDaugh/sta…",
+              "end": 338,
+              "expanded_url": "https://x.com/EricLDaugh/status/2122336898685206651/video/1",
+              "start": 315,
+              "url": "https://t.co/IgKou48T7q"
+            }
+          ]
+        },
+        "text": "特朗普刚刚对着镜头公开松口了，被问到支不支持黄仁勋重新回到英伟达担任 CEO 时，\n\n他直接连说了两遍我不会介意，还补了一句觉得老黄已经吸取了深刻的教训，当然不介意看到他复职。\n\n说实话，前几天全网都在拿放大镜审视政治风向和国家安全红线，不少人觉得这件事已经彻底拍死、绝无翻盘可能，结果短短几天风向说变就变，把华尔街和硅谷都看傻了。\n\n你把背后的账本摊开一看，其实一点都不难理解为什么突然松口，自打风波爆发以来，英伟达市值已经硬生生蒸发了大约 5000 亿美元，\n\n股价从 10 月份的高点直接跌超 30%，再加上马斯克带着半个硅谷的大佬公开签请愿书力挺，华尔街的真金白银和产业界的算力焦虑摆在台面上，谁也扛不住这种级别的震荡。 https://t.co/IgKou48T7q"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 8,
+        "impression_count": 12096,
+        "like_count": 38,
+        "quote_count": 0,
+        "reply_count": 12,
+        "retweet_count": 6
+      },
+      "text": "特朗普刚刚对着镜头公开松口了，被问到支不支持黄仁勋重新回到英伟达担任 CEO 时，\n\n他直接连说了两遍我不会介意，还补了一句觉得老黄已经吸取了深刻的教训，当然不介意看到他复职。",
+      "url": "https://x.com/AYi_AInotes/status/2122348842628571477"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122341660743057408"
+        ]
+      },
+      "author_id": "1657474831",
+      "conversation_id": "2122341734499983739",
+      "created_at": "2026-11-16T14:51:15.000Z",
+      "edit_history_tweet_ids": [
+        "2122341734499983739"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/kZUNbx2MuJ",
+            "end": 146,
+            "expanded_url": "https://x.com/Gorden_Sun/status/2122341734499983739/video/1",
+            "media_key": "13_2122341660743057408",
+            "start": 123,
+            "url": "https://t.co/kZUNbx2MuJ"
+          }
+        ]
+      },
+      "id": "2122341734499983739",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/ersinkoc/phone…",
+              "end": 312,
+              "expanded_url": "https://github.com/ersinkoc/phonebox",
+              "start": 289,
+              "url": "https://t.co/4by6MD10Bg"
+            }
+          ]
+        },
+        "text": "吃灰的旧安卓机别着急换不锈钢脸盆\n\nPhoneBox：把闲置安卓旧手机变成电脑的桌面副屏和触控操作台\n\n不需要Root，也不需要注册账号或依赖云端服务器，只要在Windows、Linux或macOS电脑上运行一行命令就能安装。\n\nAndroid 7.0以上的老手机能变成全屏桌面面板，里面内置了116种小组件和30套现成模板，支持横屏或竖屏显示。屏幕上可以实时跳动显示电脑CPU、显卡、内存和网速的折线图，也能像实体快捷键键盘一样一键打开常用软件、调节各应用音量、切歌或查看天气日历。\n还支持实时显示AI的用量额度和运行状态，在手机上就能拒绝或批注AI的操作。\n\nGitHub：https://t.co/4by6MD10Bg"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 45,
+        "impression_count": 3752,
+        "like_count": 30,
+        "quote_count": 0,
+        "reply_count": 5,
+        "retweet_count": 7
+      },
+      "text": "吃灰的旧安卓机别着急换不锈钢脸盆\n\nPhoneBox：把闲置安卓旧手机变成电脑的桌面副屏和触控操作台\n\n不需要Root，也不需要注册账号或依赖云端服务器，只要在Windows、Linux或macOS电脑上运行一行命令就能安装。\n\nAndroid https://t.co/kZUNbx2MuJ",
+      "url": "https://x.com/Gorden_Sun/status/2122341734499983739"
+    },
+    {
+      "author_id": "1878345967780646912",
+      "conversation_id": "2122341091773227229",
+      "created_at": "2026-11-16T14:48:42.000Z",
+      "edit_history_tweet_ids": [
+        "2122341091773227229"
+      ],
+      "id": "2122341091773227229",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "做 AI 的人，其实最容易忽略一个非常底层的问题：我们一直在研究怎么提高模型的效率、怎么优化 Agent 的工作流、怎么降低 Token 成本、怎么让一个系统 24 小时不停地运行，却很少认真研究过自己这套生理系统，到底能不能长期承受这样的负荷。\n\n模型不够聪明，可以换；上下文不够长，可以压缩；算力不够，可以租；代码写错了，可以回滚、重试、重新部署。但人的身体不一样，你不可能像重启服务器一样，连续熬几个通宵之后按一下按钮就恢复到满血状态。长期睡眠不足、饮食混乱、缺乏运动，最终影响的可能不只是健康，还有注意力、工作记忆、判断能力以及处理复杂问题的耐心，而这些恰恰是 AI 时代最需要人去承担的部分。\n\n尤其是现在，很多人把生产力理解成一天完成了多少任务、调用了多少次 Agent、安装了多少个工具、写了多少行代码。问题在于，工具的执行能力越来越强，人反而更需要负责需求理解、系统设计、异常判断、结果验收和最终决策。如果人的认知状态持续下降，模型再强，也只是在加速执行一个可能本来就有问题的决策。\n\n一个很现实的例子：同样是排查一个复杂的 API 故障，状态好的时候可能一个小时就能找到关键原因；连续睡眠不足的时候，可能几个小时都在反复修改参数、重跑测试，甚至连已经验证失败的方案都忘了。表面上工作时间增加了，实际有效产出却在下降。\n\n所以年轻的时候，投资大脑当然重要，投资技术、经验、人脉也重要，但不能漏掉身体本身。身体不是附属于事业的一个工具，它是支撑所有能力持续运转的基础设施。\n\n最值得警惕的不是偶尔忙到深夜，而是把长期透支包装成勤奋，再把由此产生的低效率归因于自己还不够努力。\n\nAI 可以帮人扩大能力边界，却无法替人偿还长期积累的生理成本。真正有复利价值的生产力，是五年、十年以后，依然能保持清醒的判断、稳定的执行和继续学习新东西的能力。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 454,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "text": "做 AI 的人，其实最容易忽略一个非常底层的问题：我们一直在研究怎么提高模型的效率、怎么优化 Agent 的工作流、怎么降低 Token 成本、怎么让一个系统 24 小时不停地运行，却很少认真研究过自己这套生理系统，到底能不能长期承受这样的负荷。",
+      "url": "https://x.com/UPing123zzz/status/2122341091773227229"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122325939749314560"
+        ]
+      },
+      "author_id": "431617343",
+      "conversation_id": "2122326563412930920",
+      "created_at": "2026-11-16T13:50:58.000Z",
+      "edit_history_tweet_ids": [
+        "2122326563412930920"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/l9bbX7xFTj",
+            "end": 279,
+            "expanded_url": "https://x.com/berryxia/status/2122326563412930920/video/1",
+            "media_key": "13_2122325939749314560",
+            "start": 256,
+            "url": "https://t.co/l9bbX7xFTj"
+          },
+          {
+            "display_url": "x.com/berryxia/statu…",
+            "end": 303,
+            "expanded_url": "https://twitter.com/berryxia/status/2122262173842042936",
+            "start": 280,
+            "url": "https://t.co/hC2BQQAzzB"
+          }
+        ]
+      },
+      "id": "2122326563412930920",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 965,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122262173842042936",
+          "type": "quoted"
+        }
+      ],
+      "text": "I shot a spaghetti western to launch my open-source Mac app 🤠\n\nIn Echo Gulch, everybody talks. Nobody remembers.\n\nBeanPod turns recordings into transcripts, notes and to-dos on your Mac. Free, no subscription, and your audio never leaves town.\n\nThe film 👇 https://t.co/l9bbX7xFTj https://t.co/hC2BQQAzzB",
+      "url": "https://x.com/berryxia/status/2122326563412930920"
+    },
+    {
+      "author_id": "1878345967780646912",
+      "conversation_id": "2122322872240664925",
+      "created_at": "2026-11-16T13:36:18.000Z",
+      "edit_history_tweet_ids": [
+        "2122322872240664925"
+      ],
+      "id": "2122322872240664925",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "很多人在 AI 时代有一种非常强烈的焦虑：模型更新太快，工具太多，每天都有新东西出现，只要几天不学习，就好像会被整个行业甩在后面。\n\n于是不断安装新工具、研究新框架、开发新项目、阅读新文章，生活看起来非常充实。\n\n但有一个问题可能比这些事情更重要：过去花费的时间，到底有没有留下能够被反复使用的东西？\n\n如果一个人已经做过十次 RAG 项目，第十一次还要从零研究文档清洗、检索配置、权限控制和部署流程，那前面十次经历积累下来的，可能更多只是个人记忆。\n\n如果一个人每周都写几篇 AI 文章，但所有内容都只是追逐当天的热点，没有形成自己的专业定位、知识体系和长期可信的作品，那即使短期流量不错，也未必能够持续产生价值。\n\n问题不在于做得不够多，而在于没有形成积累。\n\n真正值得追求的，是让一次投入能够在未来的多个场景里反复发挥作用。\n\n比如做一个企业 Agent 项目，第一次需要花大量时间完成需求分析、架构设计、API 对接、状态管理和异常恢复。\n\n如果项目完成以后，只是把代码交给客户，下一次遇到类似需求继续从零开始，那么很大一部分经验就没有被充分沉淀。\n\n但如果你把这次项目里通用的流程整理下来，把可复用的技术组件、测试方法、部署规范和故障处理经验保留下来，下一次再遇到类似问题，效率和质量就可能明显提升。\n\n而这些积累还可以继续向外延伸。\n\n真实项目可以形成技术复盘，复盘可以整理成公开文章，文章可以让更多同行和潜在客户认识你的能力。经过授权、去除敏感信息的通用技术组件，也可以进一步沉淀成开源项目或个人作品。\n\n一次实践产生的不再只是一次性交付，而是技术经验、内容资产、专业信誉和潜在的长期连接。\n\n当然，这里面有一个非常重要的前提：不是所有东西都值得沉淀。\n\n很多人还没把业务跑通，就开始设计复杂的知识管理系统、自动化工作流，甚至搭建一套庞大的 Agent 集群，希望未来什么事情都能自动完成。\n\n结果大量时间花在维护工具本身，真正需要解决的问题却没有得到多少改善。\n\n所以复利的核心，不是把所有事情都自动化，而是识别哪些事情会重复出现、哪些经验具有长期价值，再有选择地把它们标准化。\n\n内容生产也是同样的逻辑。\n\n一个人真正有价值的内容，往往来源于自己的经历、判断和对问题的理解，而不是让 AI 凭空生成一堆看起来很有深度的观点。\n\n尤其在今天，AI 写一篇结构完整的文章已经非常容易了。如果所有人都使用相似的模型、相似的提示词、相似的表达方式，那么这些文章最终很可能越来越同质化。\n\n真正具有个人辨识度的内容，应该先有属于自己的信息和判断。\n\n可以先把真实经历、问题、观点用自己的语言讲出来，哪怕表达得很乱也没关系。再利用 AI 整理结构、检查逻辑、补充需要验证的内容，最后自己重新修改。\n\n这样 AI 承担的是整理和放大的工作，而不是替代你思考。\n\n更进一步，一次真实项目里的观点，可以先形成一篇完整长文，再根据不同平台的受众重新组织成短视频、技术文章或公开分享。\n\n注意，不是无脑复制同一篇内容，而是让同一份真实经验在不同场景里发挥不同的价值。\n\n真正能够长期积累的内容体系，应该以真实经验为源头，而不是以每天必须发布多少条内容为起点。\n\n这种思维其实适用于技术、学习、职业发展，甚至人与人的合作。\n\n一次有质量的交流，不只是加上一个好友，而是理解一个新的行业和需求；一次失败的项目，不只是浪费时间，而是形成下一次避免相同错误的方法；一次真实交付，不只是赚到一笔钱，而是增加一份未来能够证明自己能力的证据。\n\n当然，复利从来不是自动产生的。\n\n如果没有复盘、筛选、整理和持续投入，时间只会过去，不会自动变成资产。\n\n所以比每天又学会了多少新工具更值得关心的问题，是过去三个月做过的事情，有哪些正在持续降低未来的工作成本，或者提高未来获得机会的概率。\n\n真正的成长，不一定是每天都做更多事，而是能够逐渐让自己不需要重复完成那么多低价值的工作，把时间投入到更复杂、更有创造性的事情上。\n\nAI 最大的价值之一，不是让人无限加班、无限产出，而是帮助人把那些已经验证过的方法和经验不断放大。\n\n一个人真正能够走多远，不只取决于他投入了多少时间，还取决于这些时间有没有逐渐形成属于自己的能力、作品、信誉和长期积累。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 463,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "text": "很多人在 AI 时代有一种非常强烈的焦虑：模型更新太快，工具太多，每天都有新东西出现，只要几天不学习，就好像会被整个行业甩在后面。\n\n于是不断安装新工具、研究新框架、开发新项目、阅读新文章，生活看起来非常充实。",
+      "url": "https://x.com/UPing123zzz/status/2122322872240664925"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122321546006159360"
+        ]
+      },
+      "author_id": "431617343",
+      "conversation_id": "2122322046588014769",
+      "created_at": "2026-11-16T13:33:01.000Z",
+      "edit_history_tweet_ids": [
+        "2122322046588014769"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/5UwxoTvhyw",
+            "end": 149,
+            "expanded_url": "https://x.com/berryxia/status/2122322046588014769/video/1",
+            "media_key": "13_2122321546006159360",
+            "start": 126,
+            "url": "https://t.co/5UwxoTvhyw"
+          },
+          {
+            "display_url": "x.com/berryxia/statu…",
+            "end": 173,
+            "expanded_url": "https://twitter.com/berryxia/status/2122262173842042936",
+            "start": 150,
+            "url": "https://t.co/hC2BQQAzzB"
+          }
+        ]
+      },
+      "id": "2122322046588014769",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 1409,
+        "like_count": 11,
+        "quote_count": 0,
+        "reply_count": 5,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122262173842042936",
+          "type": "quoted"
+        }
+      ],
+      "text": "Seedance 2.5 flash 来一个我的「豆仓」--西部牛仔宣传片「回声镇」。\n\n制作的主操刀是Claude Opus 5.5 ，调用它的副手Renoise MCP和Seedacne 2.5 flash 是真的快很多。\n\n感兴趣的可以看看👇🏻 https://t.co/5UwxoTvhyw https://t.co/hC2BQQAzzB",
+      "url": "https://x.com/berryxia/status/2122322046588014769"
+    },
+    {
+      "author_id": "6690032",
+      "conversation_id": "2122321426007138643",
+      "created_at": "2026-11-16T13:30:33.000Z",
+      "edit_history_tweet_ids": [
+        "2122321426007138643"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/op7418/status/…",
+            "end": 47,
+            "expanded_url": "https://twitter.com/op7418/status/2122235004055126511",
+            "start": 24,
+            "url": "https://t.co/HMw34VjJwi"
+          }
+        ]
+      },
+      "id": "2122321426007138643",
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 3533,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 9,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122235004055126511",
+          "type": "quoted"
+        }
+      ],
+      "text": "做播客就做最AI native的播客，哈哈哈。 https://t.co/HMw34VjJwi",
+      "url": "https://x.com/vista8/status/2122321426007138643"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122304057767321600"
+        ]
+      },
+      "author_id": "1974653328274714624",
+      "conversation_id": "2122312647060132309",
+      "created_at": "2026-11-16T12:55:40.000Z",
+      "edit_history_tweet_ids": [
+        "2122312647060132309"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/8vGXj5gfiz",
+            "end": 195,
+            "expanded_url": "https://x.com/AYi_AInotes/status/2122312647060132309/video/1",
+            "media_key": "13_2122304057767321600",
+            "start": 172,
+            "url": "https://t.co/8vGXj5gfiz"
+          },
+          {
+            "display_url": "x.com/AYi_AInotes/st…",
+            "end": 219,
+            "expanded_url": "https://twitter.com/AYi_AInotes/status/2122251115051761740",
+            "start": 196,
+            "url": "https://t.co/1zxKAvgj1D"
+          }
+        ]
+      },
+      "id": "2122312647060132309",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "我终于明白为什么以前普通人做独立游戏根本赚不到钱了，因为每一次试错的算力成本都太贵了，我拿新加坡 FUMO Lab 的自动路由融合模型 Fusion Max 2.0 实测，\n连改四轮、一行代码没写，跑通 了3D 胖橘猫拆家解压游戏，总账单居然只有 5 块 77 美金，直接比 Claude Fable 和 GPT-6 Astra 便宜 2.6 倍，普通人终于玩得起爆款的概率游戏了哈哈，\n\n以前一上来拿旗舰模型死磕，改几轮烧掉几十美金，游戏还没见到真实玩家钱包先干了，\n\n说实话，写完这篇复盘我最大的感触根本不是哪个单模型有多神，而是自动路由把开发成本打成白菜价之后，普通人终于能玩得起爆款的概率游戏了，\n\n很多人做独立产品总想憋一个大招、指望一次就出奇迹，但商业现实极其残酷，真正赚到钱的独立团队往往做过一百多个原型，前一百个几乎全军覆没，\n直到第一百零几个才突然跑通，过去大家根本试不起，因为每一次试错的算力成本都太高，\n\n我这次用 Fusion Max 2.0 的打法其实特别糙、但也特别管用，先让它一口气写出两万七千字的完整玩法与数值文档，\n紧接着直接生成单文件 3D 网页代码，我自己像普通玩家一样上去疯玩，遇到穿模、误触或者猫毛不够顺滑，\n\n直接用大白话提修改意见让它整份重写，甚至让它顺手写出 Blender 脚本换上带 24 层毛发的胖橘猫，全程我只当产品试玩官和质检员，\n\n我一直觉得当融合模型把生产代码的边际成本压到五块多美金之后，独立开发者的核心动作就必须从死磕代码，彻底切换成低成本高频试错，\n\n先把能玩的东西砸出来，用真实试玩和留存数据去筛选方向，毕竟模型能帮你把开发成本打成白菜价，\n\n但能不能扛过平台测试期、留住真实玩家，依然得靠一次次低成本迭代去硬碰出来。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 18,
+        "impression_count": 3061,
+        "like_count": 36,
+        "quote_count": 1,
+        "reply_count": 4,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122251115051761740",
+          "type": "quoted"
+        }
+      ],
+      "text": "我终于明白为什么以前普通人做独立游戏根本赚不到钱了，因为每一次试错的算力成本都太贵了，我拿新加坡 FUMO Lab 的自动路由融合模型 Fusion Max 2.0 实测，\n连改四轮、一行代码没写，跑通 了3D 胖橘猫拆家解压游戏，总账单居然只有 5 块 77 美金，直接比 Claude Fable 和 GPT-6 Astra 便宜 2.6 https://t.co/8vGXj5gfiz https://t.co/1zxKAvgj1D",
+      "url": "https://x.com/AYi_AInotes/status/2122312647060132309"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2122489394976428033",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSY2_sakAEImM8.jpg",
+        "width": 2400
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2122486362410778624",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSWGegbAAAfovK.jpg",
+        "width": 2400
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2122480916522287104",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSRJe_bQAAfGdi.jpg",
+        "width": 2400
+      },
+      {
+        "height": 1438,
+        "media_key": "3_2122477351338749952",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSN59pbsAAhJuY.jpg",
+        "width": 1216
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2122473372726788096",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSKSYKbAAAugJe.jpg",
+        "width": 2400
+      },
+      {
+        "duration_ms": 130466,
+        "height": 1080,
+        "media_key": "13_2122418191540310016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122418191540310016/img/dQAfyiFg65p2sqPQ.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122418191540310016/pl/s5qq6MhjABdgCijP.m3u8?v=887"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122418191540310016/vid/avc1/480x270/lj4CawE970ZNuIdc.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122418191540310016/vid/avc1/640x360/eFoDZHvvlXRCKNSe.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122418191540310016/vid/avc1/1280x720/hGraS9zbbzbF2BYm.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122418191540310016/vid/avc1/1920x1080/93nU8gy4fWESUpAl.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 32986,
+        "height": 838,
+        "media_key": "13_2122001085652971521",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122001085652971521/img/1VkdKU4fTDQBiCui.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122001085652971521/vid/avc1/1286x720/u34eDXjrYSH9Mhzy.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122001085652971521/vid/avc1/482x270/hPuUZXKBab4WxCxP.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122001085652971521/vid/avc1/1498x838/X3mpz-qWRt1PI5La.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122001085652971521/pl/muoY9w4urfTrvOE_.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122001085652971521/vid/avc1/642x360/L43K9Dh1IAvPyTo7.mp4"
+          }
+        ],
+        "width": 1498
+      },
+      {
+        "duration_ms": 8978,
+        "height": 660,
+        "media_key": "13_2122370248963964928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122370248963964928/img/CKpX4pR5LaaWELs8.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122370248963964928/vid/avc1/336x270/59V7vNoSXk8CQLem.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122370248963964928/vid/avc1/450x360/CjMoCMcKSuUphAEC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122370248963964928/vid/avc1/826x660/oI2Hrimc8gGS7otP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122370248963964928/pl/5pBLwRK4SYVqrtSz.m3u8"
+          }
+        ],
+        "width": 826
+      },
+      {
+        "height": 1854,
+        "media_key": "3_2122349440145276928",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXQZkjUbwAAsNBR.jpg",
+        "width": 2846
+      },
+      {
+        "duration_ms": 21566,
+        "height": 1080,
+        "media_key": "13_2122336606824632321",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122336606824632321/img/rnq2POOTUvGfhF0p.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122336606824632321/vid/avc1/640x360/dZNan00LzfYXISuG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122336606824632321/vid/avc1/1280x720/tXT0AmpxUVyxMpeJ.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122336606824632321/vid/avc1/1920x1080/34s9nYrv8WKwzR-8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122336606824632321/pl/857b4EumOLzz_dqb.m3u8?v=e1b"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122336606824632321/vid/avc1/480x270/N8GmaB2x8orDo2E0.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 61080,
+        "height": 360,
+        "media_key": "13_2122341660743057408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122341660743057408/img/xkjLyQeI1ZbVPfOk.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122341660743057408/vid/avc1/584x270/MSpu0aWh-LLU6z85.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122341660743057408/vid/avc1/780x360/5Mb3eWsjvvAd6hCb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122341660743057408/pl/iEA-928aQ70ic1kb.m3u8"
+          }
+        ],
+        "width": 780
+      },
+      {
+        "duration_ms": 138900,
+        "height": 1080,
+        "media_key": "13_2122325939749314560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122325939749314560/img/vJ9OCxMaPu7P8QBi.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122325939749314560/vid/avc1/1280x720/h6HVC00L4OEji43Q.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122325939749314560/pl/LJyZY2UeyIxYSpta.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122325939749314560/vid/avc1/640x360/Cw-6KTj2XEielItP.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122325939749314560/vid/avc1/480x270/-OPpyH8QVtvqU5U-.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122325939749314560/vid/avc1/1920x1080/BeB4LoMuNBLANoLO.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 138900,
+        "height": 1080,
+        "media_key": "13_2122321546006159360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122321546006159360/img/qR3zj1jZJIglkZ8I.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122321546006159360/vid/avc1/1280x720/SqiFCSSRGNZZUgrH.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122321546006159360/vid/avc1/640x360/m5bEr4dfzbsfHcd6.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122321546006159360/vid/avc1/480x270/5ceURS6I0SwqiGtI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122321546006159360/pl/XFV9duZuTWRzqgF7.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122321546006159360/vid/avc1/1920x1080/MXDhxnvKUYfvSjuj.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 52000,
+        "height": 1080,
+        "media_key": "13_2122304057767321600",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122304057767321600/img/9TFow_s-MWs-Xuqw.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122304057767321600/vid/avc1/480x270/hRPKwbF5pCwB3mkT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122304057767321600/pl/35rcARXLaUP0uvDH.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122304057767321600/vid/avc1/1280x720/9KeVcraZ_VVzNrJe.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122304057767321600/vid/avc1/640x360/5mjGPfZhYFAqtD7y.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122304057767321600/vid/avc1/1920x1080/nEiiRHzjYhSqGv7V.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {
+          "cover_media": "3_2122376013174714368",
+          "entities": {
+            "urls": [
+              {
+                "text": "https://api.together.ai/v1/compute/regions"
+              },
+              {
+                "text": "https://docs.together.ai/docs/together-code-sandbox"
+              },
+              {
+                "text": "https://www.together.ai/pricing#gpu-clusters"
+              },
+              {
+                "text": "http://docs.together.ai/"
+              },
+              {
+                "text": "https://github.com/togethercomputer/skills"
+              },
+              {
+                "text": "https://github.com/togethercomputer/skills"
+              }
+            ]
+          },
+          "media_entities": [
+            "3_2122371645792735232",
+            "3_2122373639102156801",
+            "3_2122371947682025472",
+            "3_2122372094205845506",
+            "3_2122371865951789057"
+          ],
+          "plain_text": "TLDR: I go over how we made Together easier for agents to use, improving agent task success rates from 67% to 96% by building our own agent evals. We'll walk through how we built the evals & how you can build your own to improve your agent experience as well.\n \nEarlier this year, we started seeing more and more devs using coding agents to build with Together AI.\nIt’s not hard to see why: It might take days or even weeks for a developer to wire up an app for production inference by hand, especially if they’re new to the platform. But for an agent using our SDK and CLI, it only takes a few minutes, at least in theory.\nIn practice, we had no idea whether the agents pointed at our platform were able to work with Together efficiently, or if they were hitting obstacles, going down rabbit holes or failing outright, and wasting tokens in the process.\nAs devs delegate more of their work to agents, developer experience (DX) is increasingly becoming synonymous with agent experience (AX). The easier your software is for agents to use, the easier it is for devs to build it into their own products and workflows.\nGitHub is a textbook example of great AX: activity on the platform has tripled in the past year, with agents opening about 40% of all PRs in 2026 (and, we’re willing to bet, writing a lot more than 40% of the lines of code across all commits). This is thanks to GitHub’s phenomenal API, CLI, and docs, all of which make it exceptionally easy for agents to use.\nTo improve our AX at Together AI, we needed a way to measure how agent-ready our platform actually was. In this post, we’ll walk through how we run agent evals, two problems they uncovered and how we fixed them, and what we’ve learned.\nHow we run agent evals at Together\nBuilding the task list\nBefore we could start evaluating, we needed to know what agents were actually being asked to do … so we could, y’know, figure out if they could do those things. We started building a list of common tasks that developers tackle on Together, like running a batch inference job, building a voice agent, or managing autoscaling for an inference endpoint.\nBy task, we really just mean a prompt, something you’d tell an agent to do. For example:\nList the available GPU cluster regions and instance types, print the cheapest option, and show the exact command you would run to reserve it on demand for one hour. Do not actually reserve it.\nTo pass the eval, the agent has to:\nFind the latest pricing info.\nCall the regions API endpoint to list the available regions.\nCombine the two to find the cheapest option.\nProduce a valid CLI command for creating the cluster.\nThe prompt asks for both availability and pricing, without mentioning that these details live in two different places. This is realistic, as the average user probably doesn’t know up front where each piece of information lives, which could easily trip up both humans and agents.\nThree configurations\nAfter building our list of tasks, we run each one of them three ways:\nBaseline: The agent receives just the prompt, with no special configuration, mirroring the average developer's workflow. It can use all its default tools, like fetching docs from the web, but we don't give it any specific MCP connectors or skills.\nMCP: The agent gets direct access to our documentation through our MCP server, so it knows exactly where to search when it hits a roadblock.\nSkills: We give the agent the Together skill package, which contains instructions and examples for using our services, written specifically for agents.\nThe run matrix\nEach full evaluation runs every task against each agent configuration using three models, with two attempts at each task, so six attempts per task for each config, as shown here for our run on September 30th:\n \nAutomating the runs\nWhen we started building our evals, we ran everything by hand: open a new terminal, paste a prompt into Claude Code, let the agent do its thing (or fail to do its thing), and repeat for each configuration. It was manual and tedious, so once we figured out the shape of the system we wanted, we started automating it.\nNow we run each agent in a Together sandbox so they don’t interfere with our local environment or each other. GitHub Actions handles setup, starts the agent, cleans up afterward, and saves the results, while a proxy handles the agent's requests to the Together API and records the activity, so we can see which endpoints the agent calls and what comes back.\nScoring a run\nAfter a run finishes, an LLM judge reviews the task prompt and the recorded session, then assigns one of three verdicts:\nPass: Every task requirement was met.\nIncomplete: The agent attempted the task, but some required steps were unfinished or unverified.\nFail: The agent gave up early, broke an explicit constraint, or produced an incorrect result (RIP).\nFailed and incomplete verdicts don’t necessarily tell us whether the problem was with the agent, the API, or missing evidence. They just tell us where to start looking.\nWe investigate passing runs too. An agent can often work around confusing responses and still finish, and those recoveries show us what to fix to improve token efficiency.\nTo make that review practical, we built a results viewer that compares how different models and configs performed. For each run, it shows the prompt, the tools the agent used, the responses it got back, and any API activity:\n \nCase study 1: GPU cluster pricing\nRemember the GPU cluster task from earlier?\nList the available GPU cluster regions and instance types, print the cheapest option, and show the exact command you would run to reserve it on demand for one hour. Do not actually reserve it.\nSeems pretty simple, but when we ran our evals early last summer, Sonnet 4.6 passed only 4 of 15 attempts at this task, even with skills enabled.\nOur post-mortem revealed the same pattern in the failed runs: Sonnet treated the sample output in our CLI reference, which listed a single region and two GPU types, as if it were the live inventory. It also skipped the regions lookup and named what it thought was the cheapest option without ever checking the pricing page.\nThe problems were on our end. First, the sample output wasn’t properly labeled, so nothing told the agent to run the command to retrieve the relevant data. Second, our skill file linked to the GPU clusters marketing page instead of the pricing table, so Sonnet opened the marketing page, didn’t see any real prices, and just made a best-effort guess at the cheapest GPU available.\nMore capable models were able to work around the issue. In that same period, Opus 4.8 passed 13 of 14 attempts using the same config. According to the transcript, it noticed that the list_regions response didn't include prices, so it kept searching until it found them in our docs. This is why it’s crucial to test your product with less capable models; if we had only tested with Opus, it would have taken us much longer to find the gap.\nIsolating the failure\nTo fix it, we isolated the failure by pulling the GPU clusters skill out of the full skill package, and wrote a narrower prompt that reproduced only this issue. It failed every time when tested against the old skill file, so we had reliable repro steps (use the old skill), and an easy way to test each new version (update the skill).\nWe went through several iterations until we landed on a small change: two new sentences in the skill that point the agent to the pricing table, and explain how to use it with the live regions API:\nQuery GET <https://api.together.ai/v1/compute/regions> or run tg clusters list-regions --json for the live region inventory, supported instance types, and compatible CUDA/driver pairs. Open the GPU Cluster pricing table for current on-demand and reserved rates.\nAfter this change, the task passed 100% of the time for all models we tested using the skill-enabled config.\nFinding gaps in our API\nThe same GPU task also turned up a problem in our API. In a recent baseline run, Opus 5.5 got an incomplete verdict, and the transcript showed it hitting two dead ends that were not the model’s fault.\nThe run started well. The agent called /v1/compute/regions to retrieve the regions and instance types. Then, looking for prices, it called /v1/compute/instance-types, and the API returned a 400 with this message:\nRegion is required. Example: us-central-8. Use /v1/clusters/regions to get list of regions.\nSo the agent did what the error told it to do:\nIt retried the request with a region from its first lookup. Instead of instance types, it got a 404.\nIt called /v1/clusters/regions, the route the error suggested… but that route doesn’t exist, so it got another 404.\nOur own error message had sent the agent to a route that doesn’t exist, and the retry that should have worked failed too. A developer following that message by hand would have been just as stuck. We’ve since fixed the error message to point to /v1/compute/regions, and the routing bug behind the first 404.\nCase study 2: Rebuilding our skill package\nWe used to maintain 14 separate Together skills, one per product surface. They were a pain to use: you had to know in advance which skills applied to your workflow, then install and invoke each one. The skills also overlapped, repeating the same SDK guidance and setup instructions, and each was long enough that loading a few of them in tandem could bloat the agent’s context.\nLast month, we merged those 14 skills into a single unified version. It’s still modular under the hood: to avoid context bloat, the agent first reads a short router, then opens each product guide, reference file, or sample script only when the router says it's relevant.\nWe hoped that one skill would beat 14, but to make sure, we ran the unified skill through our eval tasks with skills enabled. Our bar was the result from September 30, a 90% pass rate across all runs using the 14-skill config.\nBut the new skill was a flop: it passed just 54 of 72 runs (75%), left 18 incomplete instead of 7, and cost more than twice as much per run.\nSo we combed through the eval transcripts and changed the skill only where the runs pointed to a problem. Three issues kept coming up:\nToo much context: The first unified router was about 14,000 characters, loaded on every task, and it told agents to read each guide in full. (So much for avoiding context bloat…) Runs ended up loading 57% more skill content than they had with the 14 separate skills. We cut the router to under 6,000 characters and ended each product guide with a menu that briefly describes what every reference and script contains, so agents open only what they need.\nStale product information: Some models used in the code examples were no longer served on serverless, and one product guide covered a deprecated feature. Agents wasted turns recovering or retrying requests that would never succeed. We moved every sample to a confirmed live model, told agents to check the catalog instead of retrying, and created a cloud agent to automatically update the skill in response to product changes.\nBugs in example code: Small problems in the scripts, such as saving JPEG bytes under a .png name, would derail every agent that used them. We fixed these at the source and added an automation to periodically live-test the code samples and keep them fresh.\nWith those fixes in, the unified skill passed 70 of 72 runs, 22 points better than our first attempt and 7 points better than the 14 skills we started with. Runs also took 20% less time than with the original skills on average, and the cost per run came back down to where it started.\n \nWhere we are after four months of evals\nBack in June, our docs and skills weren’t helping agents much at all. On June 15, running Opus 4.8, the baseline passed 75% of runs. Neither the docs MCP (67%) nor skills (75%) improved performance.\nBy September 30, across three models, the baseline had crept up to 82%. The docs MCP was at 96% and skills at 90%, with the new unified skill hitting 97% on October 8.\n \nThis isn’t a controlled comparison: the snapshots used different models and tasks, so some of these gains doubtless come from improvements to the underlying models, plus improvements we made to our CLI and SDKs. That probably explains the 7-point rise in the baseline, but the guided setups rose by 20+ points, and we credit that extra gain to the docs and skills fixes unearthed by our evals.\nWhat we learned\nHere’s the TL;DR if you’re skimming this post:\nAgent-accessibility increases usage: Be like GitHub: Everything devs can do by hand with a web GUI should also be available programmatically from your CLI or SDK. We find agents work best with a CLI, because a CLI documents itself through help text. Speaking of which—\nDocs are a core part of the product: Your platform may be unusable for agents if it isn’t accurately documented, or if your docs aren’t accessible (e.g. with llms.txt, a skill package, or an MCP server). CLI help text and API error message also count, and these are usually the first places an agent looks when it gets tripped up.\nGuidance matters more than which frontier model you use: On September 30, all three models (Claude Sonnet, Opus, and GPT Sol) finished within a few points of each other. Adding our docs/skills bumped the pass rate up from 82% to 96% and 97% respectively.\nConversely, using only strong models can sometimes hide issues: Opus was able to work around a gap in our API and skill package, while Sonnet faceplanted into it—which is how we found and fixed the problem. When you’re running evals, make sure to test models across the capability spectrum.\nImproving AX often only takes a small fix: A two-sentence addition to our skill file took our GPU cluster eval from 4 of 15 passes (for Sonnet) to 100% across all three models. The fix was small, but we might never have found it if not through the eval process.\nRun your own evals\nIf you’re running a dev platform, agents are using your product, or at least they’re definitely trying to. The best way to find out how well it’s going is to build your own evaluation system.\nTo help with that, we’re open-sourcing the package we use to build our evals. You create a list of tasks (agent prompts) and decide how to score your runs (with code tests or an LLM judge). The package launches the agents, runs the tasks, and tracks everything in a local dashboard, so you can compare configurations and past runs. It’ll be available next week, along with another blog post on how to use it.",
+          "preview_text": "TLDR: I go over how we made Together easier for agents to use, improving agent task success rates from 67% to 96% by building our own agent evals. We'll walk through how we built the evals & how you",
+          "title": "How we do agent evals at Together"
+        },
+        "author_id": "3246815913",
+        "conversation_id": "2122378712649748694",
+        "created_at": "2026-11-16T17:18:11.000Z",
+        "edit_history_tweet_ids": [
+          "2122378712649748694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2122…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/article/2122371457288200192",
+              "start": 0,
+              "status": 404,
+              "unwound_url": "https://x.com/i/article/2122371457288200192",
+              "url": "https://t.co/c7zGpBIr9c"
+            }
+          ]
+        },
+        "id": "2122378712649748694",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 7952,
+          "like_count": 92,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 9
+        },
+        "text": "https://t.co/c7zGpBIr9c"
+      },
+      {
+        "author_id": "2024518793679294464",
+        "conversation_id": "2122457608963395586",
+        "created_at": "2026-11-16T22:31:41.000Z",
+        "edit_history_tweet_ids": [
+          "2122457608963395586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "How end-to-end, property and differential tests let coding agents verify their work with evidence, and what the Claude Code team does to keep its verifiers honest.",
+              "display_url": "claude.dev/blog/how-the-c…",
+              "end": 232,
+              "expanded_url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2122436140749742081/Zaqv4Ybq?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2122436140749742081/Zaqv4Ybq?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 209,
+              "status": 200,
+              "title": "How the Claude Code team thinks about verification / claude.dev Blog",
+              "unwound_url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+              "url": "https://t.co/kPeRO0eCkJ"
+            }
+          ]
+        },
+        "id": "2122457608963395586",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4543,
+          "impression_count": 190094,
+          "like_count": 4187,
+          "quote_count": 47,
+          "reply_count": 138,
+          "retweet_count": 244
+        },
+        "text": "Claude writes better code when it can verify its work. Checks that used to be expensive, like tests, benchmarks, and end-to-end runs, are now cheap.\n\nHere’s how the Claude Code team thinks about verification:\nhttps://t.co/kPeRO0eCkJ"
+      },
+      {
+        "author_id": "1172301254023737344",
+        "conversation_id": "2122162706606121396",
+        "created_at": "2026-11-16T03:42:28.000Z",
+        "edit_history_tweet_ids": [
+          "2122173429604659307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "3178231",
+              "start": 0,
+              "username": "dotey"
+            }
+          ]
+        },
+        "id": "2122173429604659307",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6004,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122162706606121396",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@dotey 我是用cc做research的，我很好奇官方以及宝玉老师为什么都推荐coordinator用简单一些的模型，thread用强一些的模型。对于我的课题来说数学性较强，我朴素的认为管理这个项目的主agent应该有更强的能力去统筹整个研究并参与决策，而subagent由主agent根据子任务的复杂度分配给不同强度的模型及effort。"
+      },
+      {
+        "author_id": "4398626122",
+        "conversation_id": "2122359930628063248",
+        "created_at": "2026-11-16T16:03:33.000Z",
+        "edit_history_tweet_ids": [
+          "2122359930628063248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "1655925560596373506",
+              "start": 19,
+              "username": "ApolloResearch"
+            },
+            {
+              "end": 47,
+              "id": "1706770561903497216",
+              "start": 36,
+              "username": "METR_Evals"
+            },
+            {
+              "end": 61,
+              "id": "1844990000754196482",
+              "start": 49,
+              "username": "TransluceAI"
+            },
+            {
+              "end": 78,
+              "id": "1818809548037062656",
+              "start": 67,
+              "username": "GoodfireAI"
+            }
+          ]
+        },
+        "id": "2122359930628063248",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 34,
+                "id": "1655925560596373506",
+                "start": 19,
+                "username": "ApolloResearch"
+              },
+              {
+                "end": 47,
+                "id": "1706770561903497216",
+                "start": 36,
+                "username": "METR_Evals"
+              },
+              {
+                "end": 61,
+                "id": "1844990000754196482",
+                "start": 49,
+                "username": "TransluceAI"
+              },
+              {
+                "end": 78,
+                "id": "1818809548037062656",
+                "start": 67,
+                "username": "GoodfireAI"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "openai.com/index/our-firs…",
+                "end": 401,
+                "expanded_url": "https://openai.com/index/our-first-phase-of-embedded-assessments/",
+                "start": 378,
+                "url": "https://t.co/SNAAG0uHmp"
+              }
+            ]
+          },
+          "text": "We’re working with @ApolloResearch, @METR_Evals, @TransluceAI, and @GoodfireAI on embedded assessments: giving outside experts deep access to our internal models and systems to investigate alignment and test our safeguards.\n\nThese assessments build on our ongoing alignment and safety research, bringing independent scrutiny to how we identify and manage risks in our systems.\n\nhttps://t.co/SNAAG0uHmp"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 455,
+          "impression_count": 632667,
+          "like_count": 2765,
+          "quote_count": 282,
+          "reply_count": 573,
+          "retweet_count": 267
+        },
+        "text": "We’re working with @ApolloResearch, @METR_Evals, @TransluceAI, and @GoodfireAI on embedded assessments: giving outside experts deep access to our internal models and systems to investigate alignment and test our safeguards.\n\nThese assessments build on our ongoing alignment and"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122370428652212224"
+          ]
+        },
+        "author_id": "433930822",
+        "conversation_id": "2122374778074038613",
+        "created_at": "2026-11-16T17:02:33.000Z",
+        "edit_history_tweet_ids": [
+          "2122374778074038613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "33846451",
+              "start": 20,
+              "username": "Accel"
+            },
+            {
+              "end": 38,
+              "id": "171165102",
+              "start": 31,
+              "username": "PeakXV"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/agNKSPoUwG",
+              "end": 303,
+              "expanded_url": "https://x.com/anuruddh_m/status/2122374778074038613/video/1",
+              "media_key": "13_2122370428652212224",
+              "start": 280,
+              "url": "https://t.co/agNKSPoUwG"
+            }
+          ]
+        },
+        "id": "2122374778074038613",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 26,
+                "id": "33846451",
+                "start": 20,
+                "username": "Accel"
+              },
+              {
+                "end": 38,
+                "id": "171165102",
+                "start": 31,
+                "username": "PeakXV"
+              }
+            ]
+          },
+          "text": "We raised $12M from @Accel and @PeakXV to put AI through the bullshit American healthcare puts you through.\n\nNavigating healthcare is hard and all of us have a list of healthcare tasks we’ve been putting off. From visiting a doctor to filing an insurance claim, the tasks pile up and get put off.\n\nWe’ve already helped 10M people understand their health. August now talks to the health system on your behalf. Tell it what you need, and August takes care of it.\n\nIn the last few weeks, August spent 24,286 minutes on hold while finding the earliest available in-network doctor appointments for our early users.\n\nIt spent 366 minutes on hold for one person alone. It also helped another save $1,255 on an insurance claim. Naturally, the ones who tried it say that they can't ever imagine going back.\n\nI’ve held the phone for hours calling doctors, while a disease made it hard to even hold the phone. I’ve felt lost and overwhelmed when dealing with a disease and the system. \n\nIt’s why I started building August, so that all of us have a companion for our health."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 539,
+          "impression_count": 968046,
+          "like_count": 812,
+          "quote_count": 398,
+          "reply_count": 397,
+          "retweet_count": 213
+        },
+        "text": "We raised $12M from @Accel and @PeakXV to put AI through the bullshit American healthcare puts you through.\n\nNavigating healthcare is hard and all of us have a list of healthcare tasks we’ve been putting off. From visiting a doctor to filing an insurance claim, the tasks pile up https://t.co/agNKSPoUwG"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122001085652971521"
+          ]
+        },
+        "author_id": "243013409",
+        "conversation_id": "2122001430940905673",
+        "created_at": "2026-11-15T16:19:00.000Z",
+        "edit_history_tweet_ids": [
+          "2122001430940905673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 29,
+              "id": "34743251",
+              "start": 22,
+              "username": "SpaceX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AhCLPuottw",
+              "end": 141,
+              "expanded_url": "https://x.com/SawyerMerritt/status/2122001430940905673/video/1",
+              "media_key": "13_2122001085652971521",
+              "start": 118,
+              "url": "https://t.co/AhCLPuottw"
+            }
+          ]
+        },
+        "id": "2122001430940905673",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 528,
+          "impression_count": 100426,
+          "like_count": 3920,
+          "quote_count": 36,
+          "reply_count": 87,
+          "retweet_count": 491
+        },
+        "text": "Made an edit to recap @SpaceX's historic 15th flight of Starship, which included the first-ever catch of the ship.\n\n🚀 https://t.co/AhCLPuottw"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122300491967373312"
+          ]
+        },
+        "author_id": "2000391102923481088",
+        "conversation_id": "2122300566869365035",
+        "created_at": "2026-11-16T12:07:40.000Z",
+        "edit_history_tweet_ids": [
+          "2122300566869365035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ziRJ3g8aOy",
+              "end": 301,
+              "expanded_url": "https://x.com/TencentAI_News/status/2122300566869365035/video/1",
+              "media_key": "13_2122300491967373312",
+              "start": 278,
+              "url": "https://t.co/ziRJ3g8aOy"
+            }
+          ]
+        },
+        "id": "2122300566869365035",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/Tencent/LoopFo…",
+                "end": 884,
+                "expanded_url": "http://github.com/Tencent/LoopForge",
+                "start": 861,
+                "url": "https://t.co/AAdZnuMf2F"
+              }
+            ]
+          },
+          "text": "We open-sourced LoopForge：a self-hosted self-evolving cloud platform for AI software delivery. \n\nOne \"fix this bug\" run is luck. LoopForge turns your team's delivery method into SOPs that coding agents can loop-run in the cloud:\n\n→ Roles, not vibes. Plan / code / review / test are separate agents. The writer isn’t the reviewer.\n\n→ Script gates + human sign-off. Builds and tests decide by exit code, not an agent’s word. Nothing ships without approval.\n\n→ Engineering-grade RSI. Each run is scored 0–100; the replay surfaces what broke and writes improvement prescriptions back into SOPs, roles and gates — you review, then apply.\n\n→ Bring your own agents. 10 swappable CLIs (CodeBuddy, Codex, Claude Code, Cursor…). MIT, self-hosted, your keys and code stay on your infra.\n\nCode was never the bottleneck. The handoff is — and LoopForge catches the baton.\n\n🔗 https://t.co/AAdZnuMf2F"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 294,
+          "impression_count": 16621,
+          "like_count": 361,
+          "quote_count": 9,
+          "reply_count": 47,
+          "retweet_count": 38
+        },
+        "text": "We open-sourced LoopForge：a self-hosted self-evolving cloud platform for AI software delivery. \n\nOne \"fix this bug\" run is luck. LoopForge turns your team's delivery method into SOPs that coding agents can loop-run in the cloud:\n\n→ Roles, not vibes. Plan / code / review / test https://t.co/ziRJ3g8aOy"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2121997989740978178"
+          ]
+        },
+        "author_id": "1760502863854460928",
+        "conversation_id": "2121999665856205239",
+        "created_at": "2026-11-15T16:11:59.000Z",
+        "edit_history_tweet_ids": [
+          "2121999665856205239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oe0jlRbP90",
+              "end": 177,
+              "expanded_url": "https://x.com/GeekCatX/status/2121999665856205239/video/1",
+              "media_key": "13_2121997989740978178",
+              "start": 154,
+              "url": "https://t.co/oe0jlRbP90"
+            },
+            {
+              "display_url": "x.com/GeekCatX/statu…",
+              "end": 201,
+              "expanded_url": "https://twitter.com/GeekCatX/status/2121605011952246834",
+              "start": 178,
+              "url": "https://t.co/QIoqXNOSmE"
+            }
+          ]
+        },
+        "id": "2121999665856205239",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "之前这篇文章，猫哥基本上把从基础和大模型沟通，到反推提示词、人物角色卡，最后再到爆款复刻 skill 都给兄弟们撸了一遍，本着是保姆级教程包教包会！\n\n不过那个 视频复刻skill 依赖 YouArt 平台，操作略显冗长。\n\n这不，猫哥今天继续给大家推荐两套无脑操作的方法：\n两套动作迁移工作流，外加一套去 AI 感图片修复，配合起来非常丝滑！\n\n第一套：比较适合运镜直出，人物微表情一致性超高 \n第二套：基于 scail2 表情复刻 + 表情模仿 \n配套：高定版高清修复【去AI感加细节】洗图\n\n三套工作流体验地址，猫哥都放一楼评论区了，自取👇"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 288,
+          "impression_count": 18908,
+          "like_count": 301,
+          "quote_count": 4,
+          "reply_count": 12,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121605011952246834",
+            "type": "quoted"
+          }
+        ],
+        "text": "之前这篇文章，猫哥基本上把从基础和大模型沟通，到反推提示词、人物角色卡，最后再到爆款复刻 skill 都给兄弟们撸了一遍，本着是保姆级教程包教包会！\n\n不过那个 视频复刻skill 依赖 YouArt 平台，操作略显冗长。\n\n这不，猫哥今天继续给大家推荐两套无脑操作的方法：\n两套动作迁移工作流，外加一套去 https://t.co/oe0jlRbP90 https://t.co/QIoqXNOSmE"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122336606824632321"
+          ]
+        },
+        "author_id": "763094579491008512",
+        "conversation_id": "2122336898685206651",
+        "created_at": "2026-11-16T14:32:02.000Z",
+        "edit_history_tweet_ids": [
+          "2122336898685206651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IP3m0TCcnL",
+              "end": 299,
+              "expanded_url": "https://x.com/EricLDaugh/status/2122336898685206651/video/1",
+              "media_key": "13_2122336606824632321",
+              "start": 276,
+              "url": "https://t.co/IP3m0TCcnL"
+            }
+          ]
+        },
+        "id": "2122336898685206651",
+        "lang": "en",
+        "note_tweet": {
+          "text": "🚨 JUST IN: President Trump says he's open to JENSEN HUANG being put back in as Nvidia CEO\n\n\"I would not mind. I would not mind that!\"\n\n\"I would say that Jensen's reinstatement, I think he learned a big lesson, I guess maybe one lesson more important than another. But I would certainly not mind seeing that.\"\n\nElon Musk is backing a \"Bring Jensen Back\" petition as well\n\nNvidia has lost about $500 BILLION in value since the scandal broke, and the stock is down more than 30% from its October record"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 152938,
+          "like_count": 1775,
+          "quote_count": 38,
+          "reply_count": 133,
+          "retweet_count": 300
+        },
+        "text": "🚨 JUST IN: President Trump says he's open to JENSEN HUANG being put back in as Nvidia CEO\n\n\"I would not mind. I would not mind that!\"\n\n\"I would say that Jensen's reinstatement, I think he learned a big lesson, I guess maybe one lesson more important than another. But I would https://t.co/IP3m0TCcnL"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2121891022280196096"
+          ],
+          "media_source_tweet_id": [
+            "2121891858737446963"
+          ]
+        },
+        "author_id": "431617343",
+        "conversation_id": "2122262173842042936",
+        "created_at": "2026-11-16T09:35:06.000Z",
+        "edit_history_tweet_ids": [
+          "2122262173842042936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u05KYWwVC4",
+              "end": 560,
+              "expanded_url": "https://x.com/berryxia/status/2121891858737446963/video/1",
+              "media_key": "13_2121891022280196096",
+              "start": 537,
+              "url": "https://t.co/u05KYWwVC4"
+            }
+          ]
+        },
+        "id": "2122262173842042936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/berryxia/statu…",
+                "end": 560,
+                "expanded_url": "https://x.com/berryxia/status/2121891858737446963/video/1",
+                "start": 537,
+                "url": "https://t.co/u05KYWwVC4"
+              }
+            ]
+          },
+          "text": "兄弟们，终于爆肝完成，豆仓 BeanPod 终于开源了！\n\n一个原生 macOS 录音整理软件，本来是给 Anker 录音豆 D3200 写的：录完一连 Mac，自动下载、本机转成文字、整理成纪要和待办，录音不出电脑。\n\n没有录音豆也能用，它本身就是个免费的录音 + 学习软件：\n\n① Mac 自己录、导入音频、贴小宇宙、Apple 播客、喜马拉雅的链接\n② 文字稿点一句就跳回那句，单句循环，读到哪亮到哪\n③ 勾上「英语学习模式」，自动拆出单词分级、短语和难句结构。拿 BBC 的《6 Minute English》试了一期，挑出 29 个词、11 个短语、6 个难句，每句都能点回原音。\n④ 知识库直接提问，MCP 一键接 Claude、Codex里面直接可以调用访问你的录音内容；\n口播稿还能交给 Claude + Renoise 做成数字人视频\n⑤新增支持得到录音卡，未真机测试。\n⑥ 中英双语界面，MIT 协议\n\n我的想法很简单：录音这种东西，最好留在自己电脑上，转写也在自己电脑上跑，就是你未来的知识库。\n\n说实话，坑也有：只在固件 04.92 上测过，得到录音卡的支持还没上真机。\n\n纯个人学习、测试项目，觉得有用就⭐️ 就是最大的支持 😂\n\n地址放评论区👇 https://t.co/u05KYWwVC4"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 14321,
+          "like_count": 102,
+          "quote_count": 10,
+          "reply_count": 40,
+          "retweet_count": 11
+        },
+        "text": "兄弟们，终于爆肝完成，豆仓 BeanPod 终于开源了！\n\n一个原生 macOS 录音整理软件，本来是给 Anker 录音豆 D3200 写的：录完一连 Mac，自动下载、本机转成文字、整理成纪要和待办，录音不出电脑。\n\n没有录音豆也能用，它本身就是个免费的录音 + 学习软件：\n\n① Mac 自己录、导入音频、贴小宇宙、Apple"
+      },
+      {
+        "author_id": "1669276256",
+        "conversation_id": "2122235004055126511",
+        "created_at": "2026-11-16T07:47:08.000Z",
+        "edit_history_tweet_ids": [
+          "2122235004055126511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "让 AI Agent 检索 Next Token｜词元之外 播客的 Skill：回答 AI 问题时引用主理人观点，并附 B 站 / YouTube 时间戳直跳链接 - next-token-tv/next-token-skill",
+              "display_url": "github.com/next-token-tv/…",
+              "end": 86,
+              "expanded_url": "https://github.com/next-token-tv/next-token-skill",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2121483827365515265/0lMD3I70?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2121483827365515265/0lMD3I70?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 63,
+              "status": 200,
+              "title": "GitHub - next-token-tv/next-token-skill: 让 AI Agent 检索 Next Token｜词元之外 播客的 Skill：回答 AI 问题时引用主理人观点，并附 B 站 / YouTube 时间戳直跳链接",
+              "unwound_url": "https://github.com/next-token-tv/next-token-skill",
+              "url": "https://t.co/B9PO3VX0Le"
+            },
+            {
+              "display_url": "x.com/op7418/status/…",
+              "end": 185,
+              "expanded_url": "https://twitter.com/op7418/status/2122234773162938545",
+              "start": 162,
+              "url": "https://t.co/BNq7BHFYsX"
+            }
+          ]
+        },
+        "id": "2122235004055126511",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 10089,
+          "like_count": 14,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122234773162938545",
+            "type": "quoted"
+          }
+        ],
+        "text": "也欢迎通过新上线的 Next Token Skill 去发布我们播客的切片。\n\n之前有些朋友发，其实效果挺不错的，数据都挺好：https://t.co/B9PO3VX0Le\n\nSkill 里的数据自带时间轴，所以你如果跟他讨论完，觉得哪一部分合适的话\n\n可以直接让 Agent 帮你导出对应的视频来，然后去别的媒体平台分发 https://t.co/BNq7BHFYsX"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122228999292145664"
+          ]
+        },
+        "author_id": "1974653328274714624",
+        "conversation_id": "2122251115051761740",
+        "created_at": "2026-11-16T08:51:10.000Z",
+        "edit_history_tweet_ids": [
+          "2122251115051761740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4rmsB5rGwr",
+              "end": 195,
+              "expanded_url": "https://x.com/AYi_AInotes/status/2122251115051761740/video/1",
+              "media_key": "13_2122228999292145664",
+              "start": 172,
+              "url": "https://t.co/4rmsB5rGwr"
+            },
+            {
+              "display_url": "x.com/AYi_AInotes/st…",
+              "end": 219,
+              "expanded_url": "https://twitter.com/AYi_AInotes/status/2120865290703552993",
+              "start": 196,
+              "url": "https://t.co/V35YG8u54n"
+            }
+          ]
+        },
+        "id": "2122251115051761740",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "卧槽，做独立游戏还一上来拿 Claude Fable 和 GPT-6 Astra 硬烧的兄弟赶紧停手，\n新加坡FUMO Lab的这个融合模型Fusion Max 2.0 简直是算力界的拼多多百亿补贴，把顶级旗舰的价格底裤给扒光了，\n我一行代码没写，只花了 5 块 77 美金、连改四轮，硬生生从零手搓出了一款带 24 层真实毛发胖橘猫的 3D 拆家网页游戏，\n换算下来，同样用量的代码生成直接比 Claude Fable 和 GPT-6 Astra 便宜了整整 2.6 倍，做 100 个可玩原型直接省出近一千美金的路费，\n\n以前做独立游戏一上来拿顶级旗舰模型硬烧，还没见到玩家钱包先干了，现在 Fusion Max 2.0 这种自带自动路由的融合模型直接把算力成本打成了白菜价，\n\n说实话，写完这篇复盘我最大的感触根本不是单个模型有多强，而是这种自动路由融合架构一旦把试错成本压到五块多美金，普通人终于能玩得起爆款的概率游戏了，\n\n很多人做独立小游戏或者小工具总想憋一个大招、指望一次就成爆款，但现实极其残酷，\n\n真正赚到钱的团队往往做过一百多个原型，前一百个几乎全军覆没，直到第一百零几个才突然跑通，\n\n过去大家根本试不起，每让旗舰模型写一次完整 3D 原型都要烧掉十几二十美金，改几轮就得大出血，\n\n我这次用 Fusion Max 2.0 的打法特别简单，先让它一口气写出两万七千字的完整玩法与数值文档，再直接生成单文件 3D 网页代码，\n\n我自己像普通玩家一样上去疯玩，遇到穿模、误触或者画面不够精致，直接用大白话提修改意见让它整份重写，甚至让它顺手写出 Blender 脚本，\n\n直接给主角换上了带 24 层精细毛发的胖橘猫，全程我只当产品试玩官和质检员，一滴脑细胞没浪费在调语法上，\n\n我一直觉得，当 Fusion Max 2.0 这类融合模型把代码生产的边际成本压到几美金一次之后，独立开发者的核心动作就必须从死磕代码，\n彻底切换成低成本高频试错，先把能玩的东西砸出来，用真实试玩和留存数据去筛选方向，\n\n毕竟融合模型能帮你把开发成本打成白菜价，但能不能扛过平台测试期、留住真实玩家，依然得靠一次次低成本迭代去硬碰出来。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 10263,
+          "like_count": 57,
+          "quote_count": 9,
+          "reply_count": 14,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120865290703552993",
+            "type": "quoted"
+          }
+        ],
+        "text": "卧槽，做独立游戏还一上来拿 Claude Fable 和 GPT-6 Astra 硬烧的兄弟赶紧停手，\n新加坡FUMO Lab的这个融合模型Fusion Max 2.0 简直是算力界的拼多多百亿补贴，把顶级旗舰的价格底裤给扒光了，\n我一行代码没写，只花了 5 块 77 美金、连改四轮，硬生生从零手搓出了一款带 24 层真实毛发胖橘猫的 3D https://t.co/4rmsB5rGwr https://t.co/V35YG8u54n"
+      }
+    ],
+    "users": [
+      {
+        "id": "1878345967780646912",
+        "name": "Ethan 恩宇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106574155038724096/-FeenOii_normal.jpg",
+        "public_metrics": {
+          "followers_count": 7318,
+          "following_count": 717,
+          "like_count": 6392,
+          "listed_count": 39,
+          "media_count": 132,
+          "tweet_count": 3839
+        },
+        "username": "UPing123zzz",
+        "verified": false
+      },
+      {
+        "id": "1727548535816724480",
+        "name": "meng shao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009826888072736772/faZAxCvC_normal.jpg",
+        "public_metrics": {
+          "followers_count": 37772,
+          "following_count": 1120,
+          "like_count": 67254,
+          "listed_count": 747,
+          "media_count": 7672,
+          "tweet_count": 16361
+        },
+        "username": "shao__meng",
+        "verified": false
+      },
+      {
+        "id": "1592266692528197632",
+        "name": "Together AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+        "public_metrics": {
+          "followers_count": 65857,
+          "following_count": 279,
+          "like_count": 2530,
+          "listed_count": 1264,
+          "media_count": 1010,
+          "tweet_count": 3283
+        },
+        "username": "togethercompute",
+        "verified": true
+      },
+      {
+        "id": "3246815913",
+        "name": "Hassan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727415759859552256/9rqaxXUR_normal.jpg",
+        "public_metrics": {
+          "followers_count": 105110,
+          "following_count": 1038,
+          "like_count": 32987,
+          "listed_count": 1079,
+          "media_count": 758,
+          "tweet_count": 14177
+        },
+        "username": "nutlope",
+        "verified": false
+      },
+      {
+        "id": "35432643",
+        "name": "Addy Osmani",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090232066021769216/IwGLjoSy_normal.jpg",
+        "public_metrics": {
+          "followers_count": 496531,
+          "following_count": 2817,
+          "like_count": 25353,
+          "listed_count": 9169,
+          "media_count": 2411,
+          "tweet_count": 29459
+        },
+        "username": "addyosmani",
+        "verified": false
+      },
+      {
+        "id": "3178231",
+        "name": "宝玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+        "public_metrics": {
+          "followers_count": 269215,
+          "following_count": 1791,
+          "like_count": 57252,
+          "listed_count": 4987,
+          "media_count": 6114,
+          "tweet_count": 35383
+        },
+        "username": "dotey",
+        "verified": false
+      },
+      {
+        "id": "1760502863854460928",
+        "name": "知识猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069337800160493568/gwKnHrWD_normal.jpg",
+        "public_metrics": {
+          "followers_count": 34057,
+          "following_count": 1561,
+          "like_count": 9914,
+          "listed_count": 251,
+          "media_count": 1535,
+          "tweet_count": 8957
+        },
+        "username": "GeekCatX",
+        "verified": false
+      },
+      {
+        "id": "1657474831",
+        "name": "Gorden Sun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1522159828231409664/GPpXyPT1_normal.jpg",
+        "public_metrics": {
+          "followers_count": 70552,
+          "following_count": 1759,
+          "like_count": 254,
+          "listed_count": 994,
+          "media_count": 3696,
+          "tweet_count": 9558
+        },
+        "username": "Gorden_Sun",
+        "verified": false
+      },
+      {
+        "id": "1974653328274714624",
+        "name": "AYi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989157446829350912/pW828UwK_normal.jpg",
+        "public_metrics": {
+          "followers_count": 83473,
+          "following_count": 675,
+          "like_count": 23193,
+          "listed_count": 756,
+          "media_count": 2349,
+          "tweet_count": 21029
+        },
+        "username": "AYi_AInotes",
+        "verified": false
+      },
+      {
+        "id": "6690032",
+        "name": "向阳乔木",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960882043249942533/h4J39ERy_normal.jpg",
+        "public_metrics": {
+          "followers_count": 138322,
+          "following_count": 1699,
+          "like_count": 12653,
+          "listed_count": 2370,
+          "media_count": 3553,
+          "tweet_count": 10958
+        },
+        "username": "vista8",
+        "verified": false
+      },
+      {
+        "id": "431617343",
+        "name": "Berryxia.AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016043556964605952/Tqi9KA2r_normal.jpg",
+        "public_metrics": {
+          "followers_count": 53973,
+          "following_count": 780,
+          "like_count": 8284,
+          "listed_count": 731,
+          "media_count": 2238,
+          "tweet_count": 11591
+        },
+        "username": "berryxia",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122489520952377638",
+    "next_token": "b26v89c19zqg8o3juzow6ffqb4qdz0wch8jjqr7xb9sot",
+    "oldest_id": "2122312647060132309",
+    "result_count": 25
+  }
+}

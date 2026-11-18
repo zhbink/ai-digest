@@ -1,0 +1,610 @@
+{
+  "data": [
+    {
+      "author_id": "925315724498952192",
+      "conversation_id": "2122408263665012948",
+      "created_at": "2026-11-16T21:50:50.000Z",
+      "edit_history_tweet_ids": [
+        "2122447326400925823"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2122447326400925823",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122408263665012948",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog Thanks for the writeup. This is just the start!",
+      "url": "https://x.com/Guy_Magens/status/2122447326400925823"
+    },
+    {
+      "author_id": "1638868192159227904",
+      "conversation_id": "2122408263665012948",
+      "created_at": "2026-11-16T20:35:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122428244615893344"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2122428244615893344",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122408263665012948",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog a billion for the defensive model while the offensive ones are free on huggingface",
+      "url": "https://x.com/yevloop/status/2122428244615893344"
+    },
+    {
+      "author_id": "1847195396638171136",
+      "conversation_id": "2122408263665012948",
+      "created_at": "2026-11-16T20:16:39.000Z",
+      "edit_history_tweet_ids": [
+        "2122423624879485308"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2122423624879485308",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122408263665012948",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog Series A at a billion\n\nValuations are back",
+      "url": "https://x.com/JonahVideos/status/2122423624879485308"
+    },
+    {
+      "author_id": "29677918",
+      "conversation_id": "2122408263665012948",
+      "created_at": "2026-11-16T20:01:57.000Z",
+      "edit_history_tweet_ids": [
+        "2122419923280642311"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2122419923280642311",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122408263665012948",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog A billion-dollar Series A on a defensive model is a very narrow bet.",
+      "url": "https://x.com/hotmob/status/2122419923280642311"
+    },
+    {
+      "author_id": "2105324415525191680",
+      "conversation_id": "2122408263665012948",
+      "created_at": "2026-11-16T19:51:59.000Z",
+      "edit_history_tweet_ids": [
+        "2122417417544486996"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2122417417544486996",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122408263665012948",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog $125M at a $1B valuation, 3 months out of stealth — what has Corma actually stopped in production that a SOC team with existing tools couldn't?",
+      "url": "https://x.com/sleewppi/status/2122417417544486996"
+    },
+    {
+      "author_id": "1624135094498648065",
+      "conversation_id": "2122408263665012948",
+      "created_at": "2026-11-16T19:38:51.000Z",
+      "edit_history_tweet_ids": [
+        "2122414110642143425"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2122414110642143425",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122408263665012948",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog that is a massive pace for early days",
+      "url": "https://x.com/heyartzy/status/2122414110642143425"
+    },
+    {
+      "author_id": "2114217246818185216",
+      "conversation_id": "2122408263665012948",
+      "created_at": "2026-11-16T19:35:49.000Z",
+      "edit_history_tweet_ids": [
+        "2122413350139371529"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2122413350139371529",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122408263665012948",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog Worth adding: Corma only came out of stealth three months ago with $60M. This round brings total funding to $185M, with Sequoia, Khosla and Coatue back in alongside lead NEA. Stealth to unicorn in one quarter shows how hot AI-for-defense is right now.",
+      "url": "https://x.com/TechPulse94/status/2122413350139371529"
+    },
+    {
+      "author_id": "417508671",
+      "conversation_id": "2122408263665012948",
+      "created_at": "2026-11-16T19:24:37.000Z",
+      "edit_history_tweet_ids": [
+        "2122410530878984503"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          }
+        ]
+      },
+      "id": "2122410530878984503",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122408263665012948",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog Giving defenders back the hours they lose to false alarms would be a very human win for a foundation model. ❤️",
+      "url": "https://x.com/thesimaximalist/status/2122410530878984503"
+    },
+    {
+      "author_id": "1679837305409007617",
+      "conversation_id": "2122408263665012948",
+      "created_at": "2026-11-16T19:21:08.000Z",
+      "edit_history_tweet_ids": [
+        "2122409652428152853"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3980735590",
+            "start": 0,
+            "username": "testingcatalog"
+          },
+          {
+            "end": 242,
+            "id": "1679837305409007617",
+            "start": 230,
+            "username": "BroadwakeAI"
+          }
+        ]
+      },
+      "id": "2122409652428152853",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122408263665012948",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@testingcatalog Corma only came out of stealth in August with a $60M seed led by Sequoia. Three months later it adds $125M at a $1B valuation, $185M total, with a team of about 20 in Tel Aviv and San Francisco, per Globes. Follow @BroadwakeAI for more AI news.",
+      "url": "https://x.com/BroadwakeAI/status/2122409652428152853"
+    },
+    {
+      "author_id": "3980735590",
+      "conversation_id": "2122408263665012948",
+      "created_at": "2026-11-16T19:15:38.000Z",
+      "edit_history_tweet_ids": [
+        "2122408268941168784"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Corma is training foundation models toward superintelligence for defensive cybersecurity. Deployed as an AI security workforce alongside the world’s leading security teams.",
+            "display_url": "corma.ai/?utm_source=4",
+            "end": 213,
+            "expanded_url": "https://corma.ai?utm_source=4",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2121983492611358720/gaG06e2E?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2121983492611358720/gaG06e2E?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 190,
+            "status": 200,
+            "title": "Corma | Superintelligence for defensive cybersecurity",
+            "unwound_url": "https://www.corma.ai/",
+            "url": "https://t.co/K9fOopEdF3"
+          }
+        ]
+      },
+      "id": "2122408268941168784",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1651,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122408263665012948",
+          "type": "replied_to"
+        }
+      ],
+      "text": "The company also offers its SaaS Management &amp; IT Governance Platform, with features such as Spend and Access Management, Zero-touch Provisioning, and AI Agent Automation.\n\nTake a look 👀\nhttps://t.co/K9fOopEdF3",
+      "url": "https://x.com/testingcatalog/status/2122408268941168784"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122408258023424000",
+            "3_2122408258010836993"
+          ]
+        },
+        "author_id": "3980735590",
+        "conversation_id": "2122408263665012948",
+        "created_at": "2026-11-16T19:15:37.000Z",
+        "edit_history_tweet_ids": [
+          "2122408263665012948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vPuX8ii7rD",
+              "end": 302,
+              "expanded_url": "https://x.com/testingcatalog/status/2122408263665012948/photo/1",
+              "media_key": "3_2122408258023424000",
+              "start": 279,
+              "url": "https://t.co/vPuX8ii7rD"
+            },
+            {
+              "display_url": "pic.x.com/vPuX8ii7rD",
+              "end": 302,
+              "expanded_url": "https://x.com/testingcatalog/status/2122408263665012948/photo/2",
+              "media_key": "3_2122408258010836993",
+              "start": 279,
+              "url": "https://t.co/vPuX8ii7rD"
+            },
+            {
+              "display_url": "x.com/alonpluda/stat…",
+              "end": 326,
+              "expanded_url": "https://twitter.com/alonpluda/status/2122344413951111663",
+              "start": 303,
+              "url": "https://t.co/d64tucSmc3"
+            }
+          ]
+        },
+        "id": "2122408263665012948",
+        "lang": "en",
+        "note_tweet": {
+          "text": "Cybersecurity company Corma has raised $125M at a $1B valuation in a Series A led by NEA.\n\nThe company’s main product, Corma Cyber Defense, is a purpose-built foundation model for defensive cybersecurity, including threat detection, triage, investigation, and incident response.\n\nIt can connect to Slack or Microsoft Teams and be deployed in the cloud and on-premises for organizations with tight data sovereignty requirements."
+        },
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 6143,
+          "like_count": 125,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122344413951111663",
+            "type": "quoted"
+          }
+        ],
+        "text": "Cybersecurity company Corma has raised $125M at a $1B valuation in a Series A led by NEA.\n\nThe company’s main product, Corma Cyber Defense, is a purpose-built foundation model for defensive cybersecurity, including threat detection, triage, investigation, and incident response. https://t.co/vPuX8ii7rD https://t.co/d64tucSmc3"
+      }
+    ],
+    "users": [
+      {
+        "id": "925315724498952192",
+        "name": "Guy Magen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086364752549224448/ygCNYx5i_normal.jpg",
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 305,
+          "like_count": 5369,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 259
+        },
+        "username": "Guy_Magens",
+        "verified": false
+      },
+      {
+        "id": "1638868192159227904",
+        "name": "E_genius",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094028764216795137/b1q50ucW_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2133,
+          "following_count": 4311,
+          "like_count": 10790,
+          "listed_count": 8,
+          "media_count": 156,
+          "tweet_count": 13272
+        },
+        "username": "yevloop",
+        "verified": false
+      },
+      {
+        "id": "1847195396638171136",
+        "name": "Jonah",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087506957351469056/nd_DnA6Q_normal.jpg",
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 353,
+          "like_count": 4517,
+          "listed_count": 5,
+          "media_count": 106,
+          "tweet_count": 6337
+        },
+        "username": "JonahVideos",
+        "verified": false
+      },
+      {
+        "id": "29677918",
+        "name": "Mob · AI & Robots",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092535446500950016/BjC0i9Q5_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1928,
+          "following_count": 1844,
+          "like_count": 718,
+          "listed_count": 3,
+          "media_count": 19,
+          "tweet_count": 1853
+        },
+        "username": "hotmob",
+        "verified": false
+      },
+      {
+        "id": "2105324415525191680",
+        "name": "mewpi | AI tools & free deals",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105325072311267328/IRGM2-58_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 12,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 702
+        },
+        "username": "sleewppi",
+        "verified": false
+      },
+      {
+        "id": "1624135094498648065",
+        "name": "Artzy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080331248640065538/rFhSb_wt_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2216,
+          "following_count": 1799,
+          "like_count": 69042,
+          "listed_count": 40,
+          "media_count": 787,
+          "tweet_count": 68315
+        },
+        "username": "heyartzy",
+        "verified": false
+      },
+      {
+        "id": "2114217246818185216",
+        "name": "TechPulse",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2114220013779599360/-iUWHmgI_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 30,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 83
+        },
+        "username": "TechPulse94",
+        "verified": false
+      },
+      {
+        "id": "417508671",
+        "name": "The SI Maximalist",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103482555638878208/ctiZwfOd_normal.jpg",
+        "public_metrics": {
+          "followers_count": 11425,
+          "following_count": 1431,
+          "like_count": 208651,
+          "listed_count": 67,
+          "media_count": 2655,
+          "tweet_count": 130318
+        },
+        "username": "thesimaximalist",
+        "verified": false
+      },
+      {
+        "id": "1679837305409007617",
+        "name": "BroadwakeAI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117045977869606912/ZLf1CjmO_normal.jpg",
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 285,
+          "like_count": 146,
+          "listed_count": 0,
+          "media_count": 1152,
+          "tweet_count": 2821
+        },
+        "username": "BroadwakeAI",
+        "verified": false
+      },
+      {
+        "id": "3980735590",
+        "name": "🚨 AI News | TestingCatalog",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899962463115751424/i-6MBWau_normal.jpg",
+        "public_metrics": {
+          "followers_count": 84919,
+          "following_count": 997,
+          "like_count": 100903,
+          "listed_count": 2814,
+          "media_count": 12351,
+          "tweet_count": 32270
+        },
+        "username": "testingcatalog",
+        "verified": true
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122447326400925823",
+    "next_token": "b26v89c19zqg8o3juzow6hk5x47am09otqbudidbfd7r1",
+    "oldest_id": "2122408268941168784",
+    "result_count": 10
+  }
+}

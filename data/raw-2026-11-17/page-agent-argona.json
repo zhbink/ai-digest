@@ -1,0 +1,811 @@
+{
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122427172438556672"
+        ]
+      },
+      "author_id": "1966599631900438528",
+      "created_at": "2026-11-16T20:31:02.000Z",
+      "edit_history_tweet_ids": [
+        "2122427242726723724"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 325,
+            "start": 302,
+            "url": "https://t.co/pe1JXgJd28"
+          }
+        ]
+      },
+      "id": "2122427242726723724",
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 1042,
+        "like_count": 24,
+        "quote_count": 0,
+        "reply_count": 11,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122420182815592736",
+          "type": "quoted"
+        }
+      ],
+      "text": "the token race has a cheat code... and most teams running AI agents still play it blind\n\nevery team runs its own agents: Claude Code here, Codex there, Cursor somewhere else. then the invoice lands and nobody can say which one ran it up\n\nthe real question isn't \"which model is https://t.co/H54r7faRIb https://t.co/pe1JXgJd28",
+      "url": "https://x.com/Argona0x/status/2122427242726723724"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122389584587669504"
+        ]
+      },
+      "author_id": "1966599631900438528",
+      "created_at": "2026-11-16T18:30:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122396787017433363"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 172,
+            "id": "2084935729566609408",
+            "start": 164,
+            "username": "CormaAI"
+          }
+        ],
+        "urls": [
+          {
+            "end": 326,
+            "start": 303,
+            "url": "https://t.co/3CpjsjnuqX"
+          }
+        ]
+      },
+      "id": "2122396787017433363",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 1284,
+        "like_count": 20,
+        "quote_count": 0,
+        "reply_count": 9,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122344413951111663",
+          "type": "quoted"
+        }
+      ],
+      "text": "wait... so you're telling me NEA, Sequoia, Khosla and Coatue just put $125M into an AI lab that came out of stealth 3 months ago??\n\nand it's already valued at $1B\n\n@CormaAI trains its own AI models for one job: defending companies against cyberattacks\n\n- it already works inside https://t.co/c9KXbSABlZ https://t.co/3CpjsjnuqX",
+      "url": "https://x.com/Argona0x/status/2122396787017433363"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122363072383750147"
+        ]
+      },
+      "author_id": "1966599631900438528",
+      "created_at": "2026-11-16T16:16:41.000Z",
+      "edit_history_tweet_ids": [
+        "2122363234732675445"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 327,
+            "start": 304,
+            "url": "https://t.co/fhstJrSSRl"
+          }
+        ]
+      },
+      "id": "2122363234732675445",
+      "public_metrics": {
+        "bookmark_count": 80,
+        "impression_count": 5297,
+        "like_count": 81,
+        "quote_count": 0,
+        "reply_count": 18,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120588192080441740",
+          "type": "quoted"
+        }
+      ],
+      "text": "I still don't understand why everyone isn't doing this yet. Anthropic told people to run Fable 5.2 exactly this way, and with this setup I made $14,600 just last month\n\nOne Fable 5.2 on top, a team of specialists under it, and Grok Bot doing the work. A setup that runs for $48 a https://t.co/6cOXZaRZ20 https://t.co/fhstJrSSRl",
+      "url": "https://x.com/Argona0x/status/2122363234732675445"
+    },
+    {
+      "article": {
+        "cover_media": "3_2121151118470270976",
+        "entities": {
+          "code": [
+            {
+              "code": "build a 20-second cinematic 3D scene in Blender: [describe the place and the mood].\nuse the attached image as the reference for light and color.\nplan 5 camera shots, then build the scene, the lights and the animation.\nrender a preview frame of every shot, look at it and fix what looks wrong.\nyou are the director, and the look is up to you.\ndon't stop until the final 20-second video is rendered in 1080p.",
+              "content": "```\nbuild a 20-second cinematic 3D scene in Blender: [describe the place and the mood].\nuse the attached image as the reference for light and color.\nplan 5 camera shots, then build the scene, the lights and the animation.\nrender a preview frame of every shot, look at it and fix what looks wrong.\nyou are the director, and the look is up to you.\ndon't stop until the final 20-second video is rendered in 1080p.\n```",
+              "language": "none"
+            },
+            {
+              "code": "build a music app in one HTML file: a synth, a 16-step drum sequencer and an export button.\ngenerate every sound in code, no sample files.\nload a starting beat in the mood of [three words], like [a song you love].\nafter each part, play it, listen for clicks or timing errors and fix them.\ndon't stop until I can make a 30-second loop and export it.",
+              "content": "```\nbuild a music app in one HTML file: a synth, a 16-step drum sequencer and an export button.\ngenerate every sound in code, no sample files.\nload a starting beat in the mood of [three words], like [a song you love].\nafter each part, play it, listen for clicks or timing errors and fix them.\ndon't stop until I can make a 30-second loop and export it.\n```",
+              "language": "none"
+            },
+            {
+              "code": "you're the conductor. you do the thinking: the plan, the architecture, the strategy.\nsplit the job into tasks. give each one to its own Opus 5.5 worker.\nnudge every worker until its task is done.\nwhile they work, sit idle. don't do their work for them.\nwhen a worker reports back, check it, then give out the next task.\nhandle anything that doesn't need me. only stop when you need a decision from me.",
+              "content": "```\nyou're the conductor. you do the thinking: the plan, the architecture, the strategy.\nsplit the job into tasks. give each one to its own Opus 5.5 worker.\nnudge every worker until its task is done.\nwhile they work, sit idle. don't do their work for them.\nwhen a worker reports back, check it, then give out the next task.\nhandle anything that doesn't need me. only stop when you need a decision from me.\n```",
+              "language": "none"
+            },
+            {
+              "code": "build an app in one HTML file for [the daily task].\nthe main screen shows [what you want to see first].\nit saves everything on this device, so it still works after a refresh.\nafter each feature, use the app yourself like a new user and fix what feels slow or confusing.\nyou are the owner of this app, and its design is up to you.\ndon't stop until I can do [the task] in under a minute with no instructions.",
+              "content": "```\nbuild an app in one HTML file for [the daily task].\nthe main screen shows [what you want to see first].\nit saves everything on this device, so it still works after a refresh.\nafter each feature, use the app yourself like a new user and fix what feels slow or confusing.\nyou are the owner of this app, and its design is up to you.\ndon't stop until I can do [the task] in under a minute with no instructions.\n```",
+              "language": "none"
+            },
+            {
+              "code": "you're a senior game dev. build a third-person open-world crime game in a sunny 80s miami-style city. make the loop tight: walk, fight, steal a car, get chased, earn money, spend it. every system feeds the next: crimes bring heat, heat brings cops, missions pay, money buys cars at the garage. cars need weight: gears, skids, real crashes. the city has to feel alive with traffic, people and day into night. no audio files, generate every sound in code. after each system, play it yourself, screenshot it and fix what looks wrong. don't stop until a stranger could play for 10 minutes without hitting a bug",
+              "content": "```\nyou're a senior game dev. build a third-person open-world crime game in a sunny 80s miami-style city. make the loop tight: walk, fight, steal a car, get chased, earn money, spend it. every system feeds the next: crimes bring heat, heat brings cops, missions pay, money buys cars at the garage. cars need weight: gears, skids, real crashes. the city has to feel alive with traffic, people and day into night. no audio files, generate every sound in code. after each system, play it yourself, screenshot it and fix what looks wrong. don't stop until a stranger could play for 10 minutes without hitting a bug\n```",
+              "language": "none"
+            },
+            {
+              "code": "build [the thing] for [who it is for].\nkeep it small: [one file / one level / one page].\nuse this as the reference: [picture, link, drawing, song].\nafter each part, run it yourself, take a screenshot and fix what looks wrong.\nyou are the owner of this project, and its design is up to you.\ndon't stop until [finish line].",
+              "content": "```\nbuild [the thing] for [who it is for].\nkeep it small: [one file / one level / one page].\nuse this as the reference: [picture, link, drawing, song].\nafter each part, run it yourself, take a screenshot and fix what looks wrong.\nyou are the owner of this project, and its design is up to you.\ndon't stop until [finish line].\n```",
+              "language": "none"
+            },
+            {
+              "code": "design [what the device does] that I can build at home.\ndeliver: KiCad schematic and board (max 4 layers), a parts list with prices and links,\na case that prints on a normal 3D printer, and the firmware.\nread the datasheet before you use any part. do not write part numbers from memory.\nrun the electrical and board checks yourself. do not report a check as passed unless you ran it.\nyou are the lead engineer, and the design is up to you.\ndon't stop until both checks show 0 errors and every part is in stock.",
+              "content": "```\ndesign [what the device does] that I can build at home.\ndeliver: KiCad schematic and board (max 4 layers), a parts list with prices and links,\na case that prints on a normal 3D printer, and the firmware.\nread the datasheet before you use any part. do not write part numbers from memory.\nrun the electrical and board checks yourself. do not report a check as passed unless you ran it.\nyou are the lead engineer, and the design is up to you.\ndon't stop until both checks show 0 errors and every part is in stock.\n```",
+              "language": "none"
+            },
+            {
+              "code": "find a small online business I can start with [my skills] and [hours] a week.\nscreen at least 20 ideas. for each, show proof that people already pay for it, with links.\npick the best one and build: a one-page offer, a list of 10 real potential buyers, and a working demo.\nyou run the research, I make the decisions. nothing is sent and no money moves until I approve.\ndon't stop until the plan, the buyer list and the demo are ready.",
+              "content": "```\nfind a small online business I can start with [my skills] and [hours] a week.\nscreen at least 20 ideas. for each, show proof that people already pay for it, with links.\npick the best one and build: a one-page offer, a list of 10 real potential buyers, and a working demo.\nyou run the research, I make the decisions. nothing is sent and no money moves until I approve.\ndon't stop until the plan, the buyer list and the demo are ready.\n```",
+              "language": "none"
+            },
+            {
+              "code": "build a website for [what it is and who it is for], using my text below.\ntake the feel of these two sites: [link 1], [link 2]. do not copy their content.\nuse one spacing scale, one type scale and max 5 colors.\nmake it work at 390, 768 and 1440 px wide. tap targets 44 px or more. no sideways scrolling.\nscreenshot every width and fix what breaks.\ndon't stop until it looks finished at all three widths.",
+              "content": "```\nbuild a website for [what it is and who it is for], using my text below.\ntake the feel of these two sites: [link 1], [link 2]. do not copy their content.\nuse one spacing scale, one type scale and max 5 colors.\nmake it work at 390, 768 and 1440 px wide. tap targets 44 px or more. no sideways scrolling.\nscreenshot every width and fix what breaks.\ndon't stop until it looks finished at all three widths.\n```",
+              "language": "none"
+            },
+            {
+              "code": "BUILD      GIVE IT                          DONE MEANS\ngame       the loop in one line             a friend plays 10 min, no bugs\nfilm       a place, a mood, one image       a 20-second clip you would post\ndevice     what it does in one sentence     0 errors, every part in stock\napp        the task that annoys you         you use it 3 days in a row\nwebsite    your text + 2 sites you love     right at phone, tablet, laptop\nbusiness   your skills + your hours         10 real buyers + a demo\nmusic      a song you love, in 3 words      a 30-second loop, exported\nteam       one big goal + conductor         finished project + recap\n\nEVERY PROMPT: the thing · the reference · the self-check · the finish line\nSETUP: paid plan · model picker → Fable 5.2 · Code tab for big builds · effort high",
+              "content": "```\nBUILD      GIVE IT                          DONE MEANS\ngame       the loop in one line             a friend plays 10 min, no bugs\nfilm       a place, a mood, one image       a 20-second clip you would post\ndevice     what it does in one sentence     0 errors, every part in stock\napp        the task that annoys you         you use it 3 days in a row\nwebsite    your text + 2 sites you love     right at phone, tablet, laptop\nbusiness   your skills + your hours         10 real buyers + a demo\nmusic      a song you love, in 3 words      a 30-second loop, exported\nteam       one big goal + conductor         finished project + recap\n\nEVERY PROMPT: the thing · the reference · the self-check · the finish line\nSETUP: paid plan · model picker → Fable 5.2 · Code tab for big builds · effort high\n```",
+              "language": "none"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "start": 0,
+              "username": "ericmaskfr"
+            },
+            {
+              "end": 268,
+              "start": 261,
+              "username": "xikhar"
+            },
+            {
+              "end": 8,
+              "start": 0,
+              "username": "0xMovez"
+            },
+            {
+              "end": 208,
+              "start": 199,
+              "username": "The_Alex"
+            },
+            {
+              "end": 314,
+              "start": 305,
+              "username": "peach2k2"
+            },
+            {
+              "end": 355,
+              "start": 342,
+              "username": "lennox_saint"
+            },
+            {
+              "end": 37,
+              "start": 24,
+              "username": "lennox_saint"
+            }
+          ],
+          "urls": [
+            {
+              "text": "https://x.com/Argona0x"
+            },
+            {
+              "text": "https://t.me/+r0clI4-MMC03ZjAy"
+            },
+            {
+              "text": "https://x.com/Argona0x"
+            },
+            {
+              "text": "https://t.me/+r0clI4-MMC03ZjAy"
+            }
+          ]
+        },
+        "media_entities": [
+          "3_2120980714325708800",
+          "3_2120979964661047296",
+          "3_2120980774719528960",
+          "3_2120979345787273216",
+          "3_2120980908895326208",
+          "3_2120980463758008321",
+          "3_2120980996954673152",
+          "3_2120979259917258753",
+          "3_2120979160340246528",
+          "3_2120980853035577345",
+          "3_2120979631452913664",
+          "3_2120979473285656576",
+          "3_2120980641026076672",
+          "3_2120979009982824448",
+          "3_2120980582087757825"
+        ],
+        "plain_text": "three days ago Anthropic released Claude Fable 5.2, and the internet has not stopped shipping since.\nan Anthropic engineer typed one casual sentence and got a full shooter game with its own 3D models, sounds and textures. 8 hours, zero help from him. a guy who never wrote code built an open-world RPG with a map twice the size of Skyrim in 4 days. someone asked for a GTA-style city and was driving through it 2 hours 14 minutes later.\nmeanwhile most people still use the strongest model on earth to rewrite emails.\n \nthat gap is the whole story. a year ago the best AI could fully finish 2.5% of real freelance projects. Fable 5.2 finishes 41.3%. sites, apps, 3D, data, design: the work people pay agencies thousands for.\nthe people who learn to point it at a thing this month will own the next year. one person and one model now build what used to need a studio.\nand you do not need to code. by sunday you can have your own game, website or app running from one prompt.\nthis is the full course. one system, eight things you can build with it this weekend, and the exact prompts.\nand there is a clock on it. until November 16, Fable 5.2 is included in the $20 Pro plan. after that it runs on paid credits.\n01. why Fable 5.2 changes what one person can build\n02. the setup: where to click\n03. the system in one minute\n04. eight things to build: game, film, device, app, website, business, music, team\n05. your first weekend\n06. four lines that make every build finish\n07. the whole course on one screen\nbefore we start, follow me on X and join my Telegram channel where i post more AI content every day. both are free.\nX: https://x.com/Argona0x\nTelegram: https://t.me/+r0clI4-MMC03ZjAy\n \n01. why Fable 5.2 changes what one person can build\nFable 5.2 is the top model from Anthropic, the company behind Claude. you give it a goal, it works on it for hours by itself, checks its own work and comes back with a finished thing.\nolder models handed you a piece of code and stopped. Fable plans the whole project, writes it, runs it, looks at the result and fixes what is broken.\nyou can see the jump in three numbers:\nit finishes real jobs: on a test made of real paid freelance projects it completes 41.3%. Opus 5.5, the everyday Claude model, completes 21.3%. the previous Fable completed 17.9%.\nhardware works too: from a one-paragraph prompt it designed three working electronic devices with their own circuit boards, cases and software. all three worked without a single fix to the circuit.\ndays-long runs: one Anthropic engineer gave it an empty folder. it ran over 1,000 AI workers for 8 days and came back with a working operating system that boots on a laptop.\nthe inside proof: over 90% of the code merged into Anthropic's own codebase is now written by Claude.\n \nthe hard part is no longer the building. the hard part is knowing what to ask for.\nthe skill that pays now is describing the finished thing\n \n02. the setup: where to click\nyou need a paid Claude plan. Free does not include Fable.\nopen the Claude app: web, desktop or phone.\nopen the model picker and choose Fable 5.2. it is never selected by default, so check it every new chat.\nsmall builds (a game in one file, a toy, a page): stay in the chat. Claude shows the result as an artifact, a working page next to the chat that you can open and share by link.\nbig builds (a film, a device, a full app): open Claude Desktop and switch to the Code tab. same model, but it works with real files on your computer. type `/effort` and pick high.\npro move: use Opus 5.5 for small edits and spend Fable on the one big job. Anthropic recommends exactly this, and it keeps your limits for the builds that matter.\n \nyou will see the first result in minutes. big builds run for hours while you do something else.\n \n03. the system in one minute\nthe classic first prompt is \"build me a universe\". one huge wish with no edges. it burns a whole week of limits and comes back as a pretty demo.\nthe people getting magic give Fable four things every time:\nthe thing: what it is, who it is for, how small. \"a tiny level\", \"one HTML file\", \"one page\".\nthe reference: a picture, a link, a drawing, a song you love.\nthe self-check: \"after each part, run it yourself, screenshot it and fix what looks wrong.\"\nthe finish line: \"don't stop until a stranger could use it for 10 minutes without a bug.\"\none more line comes straight from Anthropic's own guide. tell Fable the project is its own, and it cleans up and restructures its work in about 75% of runs instead of under 10%.\n \n \nevery module below uses this exact shape. or paste this whole article into Claude and say: build module 03 for me.\na self-check and a finish line turn a demo into a product\n \n04. eight things to build\neach module has the same form: what you get, who already did it, three steps, the prompt, and what \"done\" looks like.\n01. a game\nthe fastest way to see what Fable can do is to ask it for a game.\ngames were the biggest thing people built in the first three days. at least 25 different people posted one. Fable writes the code, the 3D models, the textures and even the sounds, then plays its own game to find bugs.\nFelix Rieseberg from Anthropic sent one casual sentence and got Saltline, a shooter where every model and texture is written in code. 8 hours, no feedback from him, 4.2M views on the post. Lex Toumbourou gave it his nephew's drawings and woke up to a 12-level beat 'em up with 18 playable heroes, the family dog included.\n \npick a game you loved as a kid.\nwrite its loop in one line: what you do, what you get, what you spend it on.\npaste the prompt and leave it for an hour.\n@ericmaskfr sent this prompt for his 80s Miami crime city and was playing it 2 hours 14 minutes later:\n \ndone means: a friend plays 10 minutes on their phone without asking you how.\n02. a film\nFable 5.2 can direct a whole 3D film, and nobody has to touch a camera.\nit does not draw the video. it writes code that builds a 3D scene in Blender (a free 3D program), places the cameras and lights, animates everything and renders the frames.\nRiley Brown did it live on stream with one prompt: a room with a desk and a laptop, 13 camera shots, golden hour into night into sunrise, music and sound effects. Fable rented 10 GPUs, rendered it in 4K in 52 minutes, and the whole film cost $5.75. 847k views. @xikhar got a Bugatti Tourbillon modeled part by part, interior included, in 2.5 hours from one prompt and a few photos.\n \ninstall Blender, it is free.\nin the Code tab, ask Claude to set up Blender MCP, a free plugin that lets Claude drive Blender for you.\npaste the prompt with one reference image.\n \ndone means: a 20-second clip you would post today.\n03. a device\nFable 5.2 designs real hardware: the circuit board, the case and the code.\nit draws the board in KiCad (free board design software), picks the parts, designs the case and writes the software. you upload the files to an online factory, and the board and the printed case arrive by mail. no lab, no 3D printer needed.\nAnthropic gave it one paragraph per device and got three: a home voice-assistant hub, a USB speakerphone and a handheld virtual pet. the boards were ready for manufacturing in under a day. all three worked without a single fix to the circuit. the whole speakerphone brief was one line: \"a puck that plugs into a computer over USB-C and includes microphones and a speaker, supporting Bluetooth with a PCB antenna.\"\n \nwrite what the device does in one sentence, like Anthropic did.\ninstall KiCad, it is free.\npaste the prompt in the Code tab on high effort.\n \ndone means: both checks show 0 errors and the parts list fits on one screen.\n04. an app\nif you ever thought \"someone should build an app for this\", that someone is now you.\napps are where Fable pays off every day. one file, saved on your computer, built around exactly how you work.\na Reddit user built a webcam X-ray mirror: skull, brain and muscles pinned to your face, hand bones that follow your fingers. first working version in under an hour, in one chat, 4.1k upvotes. a neurologist in the comments asked to use it with patients. Claire Vo built a cozy typewriter app with timers, notecards and a dot-matrix print button, and is thinking of shipping it for real.\n \nwrite down one thing you do every day that annoys you.\ndescribe the screen you wish existed.\npaste the prompt in the chat and open the artifact.\n \ndone means: you open it every morning for three days straight.\n05. a website\na site that looks like an agency built it, without paying the agency.\nthe secret is rules you can measure. \"make it modern\" gets you a template. screen sizes, spacing and contrast get you a site that looks expensive. a thread with exactly these rules got 3,600 bookmarks in two days.\n@0xMovez built an interactive robotics school with Fable: 8 real boards in 3D, you place the chips, solder them and wire real circuits. every 3D model was generated in code, no ready-made files. 333k views.\n \ncollect 2 sites you love and your own text.\npaste the prompt with both links.\nopen it on your phone before anything else.\n \ndone means: you send the link to someone and they ask who designed it.\n06. a business\nFable 5.2 can find a business, check that people want it and build the first version.\nEthan Mollick, a Wharton professor, gave it one line: \"launch a business to make me money, I want at least $20,000 in a year. it should take no more than 20 minutes a month from me, you do all the rest.\" Fable screened 22 ideas and picked Prebid Brief, a lead service for park and water projects. then it read meeting agendas from 201 city and county governments to fill it with real leads.\nJump Trading's head of AI research said Fable is \"incredible at playing every major role within a research system\".\n \nwrite what you are good at and how many hours a week you have.\npaste the prompt and let it research for an hour.\nread the one-page plan and approve the next step.\n \ndone means: one page with the idea, 10 real buyers with links, and a demo you can show them.\n07. music\nit writes the song, builds the instrument and builds the studio.\nFable makes sound with code: no samples, no plugins. it can build you an instrument in the browser, then play it.\nKieran Klaassen, a former film composer, built his dream ambient music app in a week of evenings: synths, effects, hardware controller support and an AI inside the app he asks for \"birds in Lydian\". @The_Alex built a music app where you ask for a track and it opens the project and writes it, 112k views. @peach2k2 got a full love song in one prompt, 388k views.\n \npick one song you love and write its mood in three words.\npaste the prompt in the chat.\npress play, then ask for the changes you hear.\n \ndone means: a 30-second loop you made, exported and playing on your phone.\n08. a team\nthe final level: Fable 5.2 runs a team of cheaper AI workers and only calls you for decisions.\nFable is the expensive brain. Opus 5.5 workers do the typing for half the price. Fable plans the job, hands out tasks, checks every result and gives out the next one.\nthis is how Anthropic built the operating system in 8 days with over 1,000 AI workers. a team of about 1,000 Fable workers also rewrote one of the most famous math proofs in history, Fermat's Last Theorem, so a computer could check every line. it took 30 hours. the same team on Opus 5.5 got 26% of the way in 18 hours. the \"conductor\" setup @lennox_saint posted got 12,000 bookmarks.\n \nopen the Code tab and pick Fable 5.2.\ngive it one big goal: a full app, a whole game, a business launch.\npaste the conductor prompt under the goal.\nthis is the prompt from @lennox_saint, word for word:\n \ndone means: you come back to a finished project and a short recap of who did what.\n \n05. your first weekend\none build per weekend is enough to be ahead of almost everyone you know.\nfriday evening, 10 minutes: pick one module. collect the reference: a picture, a link, a song.\nsaturday morning: send the prompt on high effort. go live your life.\nsaturday evening: open it on your phone and your laptop. write the 3 things you would change and send them in one message.\nsunday: record a 30-second screen video of it working and post it.\nthat video is the part most people skip. it is also the part that gets you clients, followers and the next idea.\n \none finished build beats a hundred saved prompts\n \n06. four lines that make every build finish\nthese four lines are why some people get a finished product and others get a half-built demo.\ntell it to finish: at medium effort Fable sometimes stops and lists what is left. add: \"do not stop while you still owe work I asked for. carry on with everything that does not need my answer.\"\nmake it prove it: \"do not report a check as passed unless you ran it.\" add screenshots or a test, and Fable shows you evidence instead of a promise.\nname what not to touch: \"don't touch the desktop layout.\" \"don't change the field order.\" one line keeps a small fix small.\nedit instead of arguing: when an answer is wrong, click edit on your last message, fix the prompt and send it again. arguing in the chat burns limits.\n \nand keep the split from chapter 02. Opus 5.5 for small edits, Fable 5.2 for the big build.\nthe builders shipping every weekend all use the same four lines\n \n07. the whole course on one screen\n \n \npick one row tonight. send the prompt before you go to sleep.\nby sunday you will have built something most people still think takes a studio, a team and a year.\nand remember the clock. Fable 5.2 is included in Pro until November 16.\nif you want to stay up to date with everything happening in AI, follow me on X and Telegram:\nX: https://x.com/Argona0x\nTelegram: https://t.me/+r0clI4-MMC03ZjAy",
+        "preview_text": "three days ago Anthropic released Claude Fable 5.2, and the internet has not stopped shipping since.\nan Anthropic engineer typed one casual sentence and got a full shooter game with its own 3D models,",
+        "title": "How to Build Anything With Fable 5.2 (Full Course)"
+      },
+      "author_id": "1966599631900438528",
+      "created_at": "2026-11-16T12:37:21.000Z",
+      "edit_history_tweet_ids": [
+        "2122308036484022324"
+      ],
+      "id": "2122308036484022324",
+      "public_metrics": {
+        "bookmark_count": 66,
+        "impression_count": 9496,
+        "like_count": 68,
+        "quote_count": 7,
+        "reply_count": 11,
+        "retweet_count": 2
+      },
+      "text": "https://t.co/8HPfY3kfNz",
+      "url": "https://x.com/Argona0x/status/2122308036484022324"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 53056,
+        "height": 1080,
+        "media_key": "13_2122427172438556672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122427172438556672/img/XKiqmXFBa7-5G4tz.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122427172438556672/pl/Y1kPaS4YgAP288hp.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122427172438556672/vid/avc1/640x360/OoesDdS2Da00RWir.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122427172438556672/vid/avc1/1280x720/6Lk5ab26b5MnyQ56.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122427172438556672/vid/avc1/480x270/DGLTv9htgJhOqkNl.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122427172438556672/vid/avc1/1920x1080/u4YTfI07ilz3cp6a.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 44544,
+        "height": 1440,
+        "media_key": "13_2122389584587669504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122389584587669504/img/zb3-OH0pDZbDDO1V.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122389584587669504/vid/avc1/2560x1440/Ryzw5AYU-PUAVfIW.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122389584587669504/vid/avc1/480x270/pD91upoFAXVZhMT3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122389584587669504/pl/B5bktGvYJTzgYueX.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122389584587669504/vid/avc1/1280x720/zd_hlU8NWwG768ih.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122389584587669504/vid/avc1/640x360/MoQWglCCMQw_luT1.mp4"
+          }
+        ],
+        "width": 2560
+      },
+      {
+        "duration_ms": 30000,
+        "height": 1350,
+        "media_key": "13_2122363072383750147",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122363072383750147/img/rzyqhHrZvqHXdjep.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122363072383750147/vid/avc1/320x400/W-oOT-usa3HTElen.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122363072383750147/vid/avc1/480x600/G_ZLylb8vYbPVEY3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122363072383750147/pl/5BwlRERTHHw96cYs.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122363072383750147/vid/avc1/720x900/gFZ8QnGz9UFbgELi.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122363072383750147/vid/avc1/1080x1350/zrSV7bnQgp2Rodds.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2121151118470270976",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HW_XtDNX0AAb3nU.jpg",
+        "width": 3000
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2120980714325708800",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HW88uOTWkAArU_Q.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2120979964661047296",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HW88CllXoAAc19j.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2120980774719528960",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HW88xvSXIAAIYqb.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2120979345787273216",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HW87ekGXQAAnUIo.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2120980908895326208",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HW885jIXUAAw9Sh.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2120980463758008321",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HW88fo3W4AEVFHR.jpg",
+        "width": 3840
+      },
+      {
+        "height": 3200,
+        "media_key": "3_2120980996954673152",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HW88-rLWUAAGSn9.jpg",
+        "width": 2560
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2120979259917258753",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HW87ZkNW0AEVc7l.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2120979160340246528",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HW87TxQWMAAqQJa.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2120980853035577345",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HW882TCXMAE-NEx.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2120979631452913664",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HW87vMSXAAANpYP.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2120979473285656576",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HW87l_EWMAA3J1X.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2120980641026076672",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HW88p9PW8AAgJnH.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2120979009982824448",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HW87LBIWAAAAwrv.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2120980582087757825",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HW88mhrXkAExxzR.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_2122420153660899328"
+          ]
+        },
+        "author_id": "1681613391750905856",
+        "created_at": "2026-11-16T20:02:58.000Z",
+        "edit_history_tweet_ids": [
+          "2122420182815592736"
+        ],
+        "id": "2122420182815592736",
+        "public_metrics": {
+          "bookmark_count": 320,
+          "impression_count": 274360,
+          "like_count": 395,
+          "quote_count": 110,
+          "reply_count": 86,
+          "retweet_count": 74
+        },
+        "text": "Nasiko - Open Runtime platform for managing AI agents.\nSee every agent. Cut token spend by up to 50%. Route to the right model with the agent gateway. Govern tool access. Set permissions and budgets per agent, per team. One command. Same workflow.\nOpen Runtime for agents starts https://t.co/lXTR2mSD7m"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122336646901235713"
+          ]
+        },
+        "author_id": "1684849711654588416",
+        "created_at": "2026-11-16T15:01:54.000Z",
+        "edit_history_tweet_ids": [
+          "2122344413951111663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 77,
+              "id": "165503959",
+              "start": 73,
+              "username": "NEA"
+            },
+            {
+              "end": 91,
+              "id": "24775410",
+              "start": 83,
+              "username": "sequoia"
+            },
+            {
+              "end": 108,
+              "id": "2236517244",
+              "start": 93,
+              "username": "khoslaventures"
+            },
+            {
+              "end": 124,
+              "id": "780720157",
+              "start": 113,
+              "username": "coatuemgmt"
+            },
+            {
+              "end": 148,
+              "id": "2084935729566609408",
+              "start": 140,
+              "username": "CormaAI"
+            }
+          ]
+        },
+        "id": "2122344413951111663",
+        "public_metrics": {
+          "bookmark_count": 743,
+          "impression_count": 1188836,
+          "like_count": 1432,
+          "quote_count": 138,
+          "reply_count": 197,
+          "retweet_count": 134
+        },
+        "text": "We raised a $125M Series A at a $1B valuation, 3 months out of stealth.\n\n@NEA led. @sequoia, @khoslaventures and @coatuemgmt doubled down.\n\n@CormaAI is training foundation models toward superintelligence for defensive cybersecurity.\n\nBecause the greatest gift cyberattackers have https://t.co/do0ElrPjRN"
+      },
+      {
+        "article": {
+          "cover_media": "3_2120583100807651328",
+          "entities": {
+            "code": [
+              {
+                "code": "my AI rules. walk me through them one at a time, and wait for my yes before each one.\n1. coding agents and sites: Claude Opus 5.5. backend and terminal work: Claude Sonnet 5.5, on Anthropic's own test. side jobs: a Claude Haiku 5.5 subagent.\n2. every piece of code gets a review from the other family, and only bugs that reproduce go back. try both orders once: GPT-6.1 Sol builds and Opus 5.5 checks, then the other way round. keep the one that finds more real bugs.\n3. research that needs a source: GPT-6.1 Sol, or GPT-6 Astra in ChatGPT, answers. then Opus 5.5 checks every source. never a quick model.\n4. live X: ask Grok 4.7. marketing copy: Opus 5.5 writes from what it found.\n5. images and UI assets: GPT Image 2.6 Sunburst first, then Opus codes the page from them.\n6. a top model only for: [your costly jobs from 02]. everything else runs on a quick model.\n7. on the 1st of each month, i fill the cost sheet, pause one job and move fixed steps into a script.",
+                "content": "```\nmy AI rules. walk me through them one at a time, and wait for my yes before each one.\n1. coding agents and sites: Claude Opus 5.5. backend and terminal work: Claude Sonnet 5.5, on Anthropic's own test. side jobs: a Claude Haiku 5.5 subagent.\n2. every piece of code gets a review from the other family, and only bugs that reproduce go back. try both orders once: GPT-6.1 Sol builds and Opus 5.5 checks, then the other way round. keep the one that finds more real bugs.\n3. research that needs a source: GPT-6.1 Sol, or GPT-6 Astra in ChatGPT, answers. then Opus 5.5 checks every source. never a quick model.\n4. live X: ask Grok 4.7. marketing copy: Opus 5.5 writes from what it found.\n5. images and UI assets: GPT Image 2.6 Sunburst first, then Opus codes the page from them.\n6. a top model only for: [your costly jobs from 02]. everything else runs on a quick model.\n7. on the 1st of each month, i fill the cost sheet, pause one job and move fixed steps into a script.\n```",
+                "language": "none"
+              },
+              {
+                "code": "here are the last ten jobs i gave AI: [paste your list].\nsort each one into: coding agent, site or UI, backend, code review, research with a source, live X, marketing copy, images, or quick answer.\nnext to each, write the model from this card: [paste the card]. for a quick answer, write the quick model: Claude Haiku 5.5 or GPT-6.1 Terra.\nmark every job where a wrong answer would cost me a client, money or a decision.",
+                "content": "```\nhere are the last ten jobs i gave AI: [paste your list].\nsort each one into: coding agent, site or UI, backend, code review, research with a source, live X, marketing copy, images, or quick answer.\nnext to each, write the model from this card: [paste the card]. for a quick answer, write the quick model: Claude Haiku 5.5 or GPT-6.1 Terra.\nmark every job where a wrong answer would cost me a client, money or a decision.\n```",
+                "language": "none"
+              },
+              {
+                "code": "!claude here is a research answer with its sources: the reply above.\nopen every source. for each claim, say if the source backs it, says something else, or does not open.\nquote the line from the source that backs each claim. if you cannot open a source, say so.\ndo not rewrite the answer.",
+                "content": "```\n!claude here is a research answer with its sources: the reply above.\nopen every source. for each claim, say if the source backs it, says something else, or does not open.\nquote the line from the source that backs each claim. if you cannot open a source, say so.\ndo not rewrite the answer.\n```",
+                "language": "none"
+              },
+              {
+                "code": "!claude review the code above as a strict reviewer.\nlist every bug. for each one, quote the exact line, say what breaks, show how to reproduce it and give the fix.\nif you are not sure it is a bug, say so instead of guessing.\ndo not rewrite the code.",
+                "content": "```\n!claude review the code above as a strict reviewer.\nlist every bug. for each one, quote the exact line, say what breaks, show how to reproduce it and give the fix.\nif you are not sure it is a bug, say so instead of guessing.\ndo not rewrite the code.\n```",
+                "language": "none"
+              },
+              {
+                "code": "all three families, per month, at list price\ncheapest   Claude Pro $20     ChatGPT Plus $20    X Plus $8      = $48\nmiddle     Claude Max $100    ChatGPT Pro $100    X Super $100   = $300\ntop        Claude Ultra $200  ChatGPT Pro $200    X Ultra $200   = $600",
+                "content": "```\nall three families, per month, at list price\ncheapest   Claude Pro $20     ChatGPT Plus $20    X Plus $8      = $48\nmiddle     Claude Max $100    ChatGPT Pro $100    X Super $100   = $300\ntop        Claude Ultra $200  ChatGPT Pro $200    X Ultra $200   = $600\n```",
+                "language": "none"
+              },
+              {
+                "code": "set up two scheduled jobs.\n1. every morning at 9, ask me for my three main jobs today and turn my answer into a short plan. use the quick model of [the family from your card].\n2. every monday at 9, ask me for last week's numbers and write the weekly report from my answer. use the top model of [the family from your card].\nfor each one, propose a monthly cap and add a check that skips a run once the job has used it.\nshow me both scheduled jobs with their model and cap before anything is created, and wait for my yes.",
+                "content": "```\nset up two scheduled jobs.\n1. every morning at 9, ask me for my three main jobs today and turn my answer into a short plan. use the quick model of [the family from your card].\n2. every monday at 9, ask me for last week's numbers and write the weekly report from my answer. use the top model of [the family from your card].\nfor each one, propose a monthly cap and add a check that skips a run once the job has used it.\nshow me both scheduled jobs with their model and cap before anything is created, and wait for my yes.\n```",
+                "language": "none"
+              },
+              {
+                "code": "job              how often     tries until usable   model              top model?\n[landing page]   every week    [3]                  [Opus 5.5]         [yes: a client sees it]\n[code review]    every day     [1]                  [Sol]              [no]",
+                "content": "```\njob              how often     tries until usable   model              top model?\n[landing page]   every week    [3]                  [Opus 5.5]         [yes: a client sees it]\n[code review]    every day     [1]                  [Sol]              [no]\n```",
+                "language": "none"
+              },
+              {
+                "code": "build the landing page from the attached images and this design system: [colors, fonts, spacing, or a site to match; for example: navy #150079 and cream #F8F5F1, Inter for all text, 16 px between blocks].\nuse only these images and match the design system exactly.\nshow me the page before you add any section i did not ask for.",
+                "content": "```\nbuild the landing page from the attached images and this design system: [colors, fonts, spacing, or a site to match; for example: navy #150079 and cream #F8F5F1, Inter for all text, 16 px between blocks].\nuse only these images and match the design system exactly.\nshow me the page before you add any section i did not ask for.\n```",
+                "language": "none"
+              },
+              {
+                "code": "job                       start with                      proof\ncoding agent, your code   Claude Opus 5.5                 public test: first on a coding agent index\nsites, web apps, screens  Claude Opus 5.5                 public votes: leads WebDev Arena\nbackend, terminal work    Claude Sonnet 5.5               Anthropic's own terminal test\ncode review               the other family                one paper, on earlier models (see 03)\nresearch with a source    GPT-6.1 Sol                     public test: most answers with a real source\nlive X and trends         Grok 4.7                        xAI's own pages: the only one that searches X live\nmarketing copy, posts     Claude Opus 5.5                 public votes: first in LMArena creative writing\nimages for pages, ads     GPT Image 2.6 Sunburst          public votes: ahead of Grok's model in image votes",
+                "content": "```\njob                       start with                      proof\ncoding agent, your code   Claude Opus 5.5                 public test: first on a coding agent index\nsites, web apps, screens  Claude Opus 5.5                 public votes: leads WebDev Arena\nbackend, terminal work    Claude Sonnet 5.5               Anthropic's own terminal test\ncode review               the other family                one paper, on earlier models (see 03)\nresearch with a source    GPT-6.1 Sol                     public test: most answers with a real source\nlive X and trends         Grok 4.7                        xAI's own pages: the only one that searches X live\nmarketing copy, posts     Claude Opus 5.5                 public votes: first in LMArena creative writing\nimages for pages, ads     GPT Image 2.6 Sunburst          public votes: ahead of Grok's model in image votes\n```",
+                "language": "none"
+              },
+              {
+                "code": "!grok search X for what people are saying about [your topic] this week.\ngive me the five posts with the most replies, with links, and one line on what each one argues.",
+                "content": "```\n!grok search X for what people are saying about [your topic] this week.\ngive me the five posts with the most replies, with links, and one line on what each one argues.\n```",
+                "language": "none"
+              },
+              {
+                "code": "for side jobs like searching the code or reading docs, use a subagent on Claude Haiku 5.5.\nkeep the edits and the decisions on Opus 5.5.\nshow me the subagent setup before you save it.",
+                "content": "```\nfor side jobs like searching the code or reading docs, use a subagent on Claude Haiku 5.5.\nkeep the edits and the decisions on Opus 5.5.\nshow me the subagent setup before you save it.\n```",
+                "language": "none"
+              },
+              {
+                "code": "write a script for the yes steps only, and tell me how to run it every morning on my computer.\nkeep the no step out of the script: it shows me the new items, and i paste them into this chat to decide which ones matter.\nif a step needs a login or a bot to post, ask me what to set up first.\ndo not run it until i say yes.",
+                "content": "```\nwrite a script for the yes steps only, and tell me how to run it every morning on my computer.\nkeep the no step out of the script: it shows me the new items, and i paste them into this chat to decide which ones matter.\nif a step needs a login or a bot to post, ask me what to set up first.\ndo not run it until i say yes.\n```",
+                "language": "none"
+              },
+              {
+                "code": "job              runs a month   tries until usable   anyone read it?   fix\n[morning plan]   [30]           [1]                  [no]              [run weekly]\n[weekly report]  [4]            [2]                  [yes]             [keep]",
+                "content": "```\njob              runs a month   tries until usable   anyone read it?   fix\n[morning plan]   [30]           [1]                  [no]              [run weekly]\n[weekly report]  [4]            [2]                  [yes]             [keep]\n```",
+                "language": "none"
+              },
+              {
+                "code": "!claude here is what people on X say about [your topic] this week: [paste the answer].\nwrite one post in my voice that answers the strongest point. my last three posts: [paste them].\ndraft only. do not post anything.",
+                "content": "```\n!claude here is what people on X say about [your topic] this week: [paste the answer].\nwrite one post in my voice that answers the strongest point. my last three posts: [paste them].\ndraft only. do not post anything.\n```",
+                "language": "none"
+              },
+              {
+                "code": "job: [the one you repeat, for example the morning digest]\n1. [pull the new items from a site's news page or its RSS feed]   same every run? yes\n2. [drop the ones already seen]                                  yes\n3. [decide which ones matter]                                    no: needs judgment\n4. [format the summary]                                          yes\n5. [post it in the chat]                                         yes",
+                "content": "```\njob: [the one you repeat, for example the morning digest]\n1. [pull the new items from a site's news page or its RSS feed]   same every run? yes\n2. [drop the ones already seen]                                  yes\n3. [decide which ones matter]                                    no: needs judgment\n4. [format the summary]                                          yes\n5. [post it in the chat]                                         yes\n```",
+                "language": "none"
+              },
+              {
+                "code": "i work on my own (for a team: we are [the team in one line]).\nmost of my AI work is code, sites, research and marketing.\nbefore you change a setting, start a scheduled job or run a long task, ask me and wait for my yes.",
+                "content": "```\ni work on my own (for a team: we are [the team in one line]).\nmost of my AI work is code, sites, research and marketing.\nbefore you change a setting, start a scheduled job or run a long task, ask me and wait for my yes.\n```",
+                "language": "none"
+              },
+              {
+                "code": "where are my credits going?\nname the five chats and scheduled jobs that used the most this month, with the credits for each.\nfor each one, propose one fix: a cheaper model, fewer runs, running only on new data, or a pause.\nchange nothing and wait for my yes.",
+                "content": "```\nwhere are my credits going?\nname the five chats and scheduled jobs that used the most this month, with the credits for each.\nfor each one, propose one fix: a cheaper model, fewer runs, running only on new data, or a pause.\nchange nothing and wait for my yes.\n```",
+                "language": "none"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "viktor_com"
+              }
+            ],
+            "urls": [
+              {
+                "text": "https://x.com/Argona0x"
+              },
+              {
+                "text": "https://t.me/+r0clI4-MMC03ZjAy"
+              },
+              {
+                "text": "slack.com/get-started"
+              },
+              {
+                "text": "https://www.linkedin.com/posts/artificial-analysis_announcing-artificial-analysis-coding-agent-activity-7519196310160187392-sz2O"
+              },
+              {
+                "text": "https://llmbenchmark.ai/best/web-development"
+              },
+              {
+                "text": "https://www.anthropic.com/claude-sonnet-5-5"
+              },
+              {
+                "text": "https://arxiv.org/html/2607.21656v1"
+              },
+              {
+                "text": "https://truestandard.ai/which-ai-hallucinates-the-least"
+              },
+              {
+                "text": "https://x.ai/news/x-subscription"
+              },
+              {
+                "text": "https://arena.ai/leaderboard/chat/text/creative-writing"
+              },
+              {
+                "text": "https://arena.ai/leaderboard/image/text-to-image"
+              },
+              {
+                "text": "claude.com/pricing"
+              },
+              {
+                "text": "x.ai"
+              },
+              {
+                "text": "ctxt.dev"
+              },
+              {
+                "text": "https://arxiv.org/html/2607.21656v1"
+              },
+              {
+                "text": "https://x.com/romainlanz/status/2111231027171491932"
+              },
+              {
+                "text": "https://x.com/Voxyz_ai/status/2116575932957762004"
+              },
+              {
+                "text": "https://x.com/curiouswavefn/status/2111665926156292297"
+              },
+              {
+                "text": "stephens.page"
+              },
+              {
+                "text": "https://stephens.page/blog/fresh-eyes-beat-a-second-family/paper/"
+              },
+              {
+                "text": "https://x.com/ann_nnng/status/2109463240527040796"
+              },
+              {
+                "text": "https://magpieindex.com/guides/best-ai-deep-research-tools"
+              },
+              {
+                "text": "https://zenn.dev/taikikei/articles/951e0d3f735531?locale=en"
+              }
+            ]
+          },
+          "media_entities": [
+            "3_2120585586113220608",
+            "3_2120585649501700096",
+            "3_2120584442452299776",
+            "3_2120584186461401088",
+            "3_2120584998428327936",
+            "3_2120584295550996480",
+            "3_2120584393940946944",
+            "3_2120583718427336704",
+            "3_2120583989668823040",
+            "3_2120584121902563328",
+            "3_2120584245584236544"
+          ],
+          "plain_text": "Claude, GPT and Grok are three families of models, one per company, and each wins different jobs. almost nobody sends each job to its winner, lets another family check it, or prices it by the finished result.\nyou use AI every day for code, sites, research or marketing, and every job goes to one model. so what that model is weak at comes back weak.\nthis guide puts one AI employee on Claude, GPT and Grok and sends each job to the model that wins it. an AI employee is an AI in your Slack or Teams that does the jobs you send it.\npublic tests put Claude Opus 5.5, in Anthropic's own coding app, first as a coding agent, an AI that edits your project's files by itself, and first for web apps. GPT-6.1 Sol gives the most answers with a real source, and only Grok 4.7 searches X live (links in 01).\nsince 12 october, Grok comes with a paid X plan, so all three cost:\n$48 a month at the cheapest plans, $600 at the top ones.\nthe three can sit in one place: viktor, an AI employee. he runs on all three, you set which one takes each job, and he waits for your yes on anything that matters.\ntonight, list the last ten jobs you gave AI. 01 sorts that list by model.\na top model is the strongest and priciest model in a family, like Claude Opus 5.5.\nthe route starts with one question and ends with one setup:\nwho is good at what\nwhat one job costs\na second family checks\na top model where it counts\nwhere the money goes, and scripts\nmy own test, 7 november. i asked viktor \"where are my credits going?\". credits are the one balance every job he runs spends from, on any family.\nin under a minute he named the five chats that cost the most.\nmy plain messages, with no model asked, all ran on a top model.\n1,074 of the 1,999 credits my test had spent. more than half.\nviktor changed nothing until my yes. i approved one fix: a cheaper default for every chat.\n \n \nbefore we start, follow me on X and join my Telegram channel where i post more AI content every day. both are free.\nX: https://x.com/Argona0x\nTelegram: https://t.me/+r0clI4-MMC03ZjAy\n \nthe fast route: one question, two answers\nfrom here on, viktor leads each part, and each part also shows the way with one plan. this route gets all three families into one chat tonight.\nwith viktor: one question, two commands\nviktor is an AI employee who lives in a Slack or Microsoft Teams workspace, your team's space in the app.\nviktor runs all three families from one balance of credits, with no separate Claude, ChatGPT or X plan. in my test nothing else was connected.\nSlack's free plan costs nothing, and a workspace you create makes you its owner.\nin a work Slack or Teams, an admin installs him.\nwith no Slack yet, open slack.com/get-started, enter your email and press Continue. then enter the inbox code and press Create a workspace.\nthe sign-up link is in my first reply:\nopen that link and press Get Started for Free.\nchoose Continue with Slack or Continue with Microsoft Teams, and sign in.\nfinish the setup (Skip, I'll connect tools later is fine). his first message arrives in your chat.\nif sign-up asks for a card, add it: a quick check with no charge that adds free starter credits.\nuse the code ARGONA100 from my first reply when you sign up.\nafter the starter credits, choose a plan from the same link.\na scheduled job is a task he runs on a timer, like a morning plan.\nsend viktor this first, so he knows your work and when to stop:\n \na command is a word with `!` at the start of a message. it changes that one reply only.\n`!fast` asks for a quick answer, and `!deep` is for a hard problem.\nan admin picks the model behind each one. in a new workspace, `!deep` is set to Use default model, and then it does nothing.\nhis web app is the site where you signed up. there, open Settings, the Model tab, and under Model overrides set `!deep` to Ultra, his team mode for the hardest work.\nthen ask one question from tonight's list, with `!fast`, then `!deep`.\non 7 november, each reply came back in about 40 seconds, ending on Fast reply or Deep reply.\n \nwithout viktor: two chats\nopen two new chats in your paid app. in one, pick the family's quick model, its fast and cheap one: Claude Haiku 5.5 or GPT-6.1 Terra.\nGrok has one current model, Grok 4.7.\nin the other, its top model. ask both the same question.\none question, two answers, and you see which jobs a quick answer covers.\njobs the quick answer covered stay on it. 01 sorts the rest by model.\n \n01. who is good at what\nbefore you pay for a second plan, learn which model wins each job you run. your code, pages and research come back better.\nbackend is the server side of an app, and terminal work means typing commands into a terminal, the text window developers run programs in.\nan arena is a public site where people pick the better of two blind answers.\nthe job card puts each job next to where to start and the proof behind it:\n \n \neach row links to its proof, in order: \nhttps://www.linkedin.com/posts/artificial-analysis_announcing-artificial-analysis-coding-agent-activity-7519196310160187392-sz2O · https://llmbenchmark.ai/best/web-development · https://www.anthropic.com/claude-sonnet-5-5 · https://arxiv.org/html/2607.21656v1 · https://truestandard.ai/which-ai-hallucinates-the-least · https://x.ai/news/x-subscription · https://arena.ai/leaderboard/chat/text/creative-writing · https://arena.ai/leaderboard/image/text-to-image\non ChatGPT Plus, the chat runs GPT-6 Astra, the strongest model in OpenAI's line. Sol, the one the test scored, is not in that chat yet, so ask Astra for a source on every claim.\nkeep sourced research off quick models. TrueStandard, the source test behind the card, found Claude Haiku 5.5 made up almost one source in five.\npaste this with your list of ten into the chat you already use:\n \nback comes each job with a model next to it and a mark on the costly ones. the proof moves with every release, so run the sort again when a new model comes out.\nwith viktor: one model per job\nthe card pays off only when each job lands on the card's model, and viktor gives you two ways to route each one.\nin his web app, click the model name in the message box, choose Custom model and pick from the list. it groups the models by company: Anthropic, OpenAI and xAI.\npick before the first message of a job. the picker warns that a switch mid-chat re-reads the whole chat and uses more credits.\nin Slack, a message and its replies form a thread, and each thread is one chat with him.\nSlack has no model picker in the message box, so each family gets its own command. in Settings, the Model tab, under Model overrides, type a name into the empty field that shows `!research`, press Add command and pick its model.\ni added `!claude`, `!gpt` and `!grok`, and viktor answered each one. a message that starts with one of them runs on that model.\nwhen i later asked viktor where my credits went, his table listed each chat with the model it ran on. that is how you check the routing yourself.\n \nwithout viktor: one app per family\nopen the family's own app for each job, Claude, ChatGPT or Grok. start a new chat there and pick the card's model in its model menu.\nevery job on your list now has a model and the proof behind it.\nthe marks matter in 02, where they decide which jobs get a top model.\n \n02. what all three cost, and what one job costs\nyou either pay three bills, or pay one and redo the jobs it is weak at.\nwith viktor: what each chat spent\nviktor's Usage page shows what each chat and scheduled job spent, and which model did the work. only an admin sees it.\nbefore my test, it said Claude's top model did 94% of my work in the last 30 days.\non test day, my `!fast` reply ran longer than my `!deep` reply and cost about a fifth more.\ntry both on your own question, and keep the cheaper answer that is good enough.\nthe price of a finished answer\na model that writes more, takes more steps or needs more tries spends more on the same job.\nChatGPT is the app for GPT, and Grok comes with a paid X plan. at list price, the three cost this much a month:\n \nChatGPT Pro comes at two levels, $100 and $200, so it sits in two rows. prices from claude.com/pricing, OpenAI's help center and x.ai, checked 5 november.\nmodels bill by the token, a small piece of text. the coding agent index from 01 prices each task through the API, the pay-per-use door that developers call from code.\nthere, GPT-6.1 Sol, in OpenAI's coding app, cost $1.50 a task. Grok 4.7, in xAI's, cost $9.48 a task and scored lower.\n \non a monthly plan the bill stays fixed, so the plan's limit decides how far each model goes. SemiAnalysis, a chip and AI research firm, says to judge the plan, the model and the work together.\na practitioner write-up on ctxt.dev, on earlier models, found the top model solves hard problems on the first try more often. on routine jobs it is just more expensive with no upside.\nso a job's price is the price of the finished answer, redos included. a cheap answer you redo three times costs three runs.\nfill this cost sheet from your list of ten, with your best guess at the tries each job takes:\n \nthe rows with the most tries are the jobs that cost you the most.\nprice every job by the finished answer, and the cheapest model changes job by job.\nthe yes column is your costly list, and 04 keeps it on a top model.\n \n03. let a second family check the first\na second model catches the bug or the wrong source before your users or your client do.\ncode: one family builds, the other checks\nthe family on your card builds the code, and the other family reviews it.\nin one paper, on earlier models, Claude checking GPT's code raised the pass rate, the share of tasks done right, from 72% to 90%, and GPT checking Claude's code lowered it. https://arxiv.org/html/2607.21656v1\nsetups developers posted this autumn run the other order: Claude builds and GPT reviews. try both orders once on one feature, and keep the one that finds more real bugs. https://x.com/romainlanz/status/2111231027171491932 · https://x.com/Voxyz_ai/status/2116575932957762004 · https://x.com/curiouswavefn/status/2111665926156292297\nwith viktor: both families in one chat\nstart the job with the builder's command, `!claude` or `!gpt`. when the code is back, send the review in the same chat with the other family's command.\nfor your own work, first paste the code from your branch, the copy of the project where your new work lives. the review asks how to reproduce each bug, that is, how to make it happen again:\n \nin my test, a `!gpt` message got back a short function that adds up expenses from a spreadsheet file. viktor's review came back in 43 seconds: a verdict, then each bug with its line, what breaks, a way to reproduce it and a fix.\nviktor marked one point \"not sure\" instead of guessing, and the whole chat cost about as much as two `!fast` replies. only the bugs that reproduce go back to the model that wrote the code.\nwithout viktor: the other family's app, or a brand-new chat\nin the other family's app, paste your code and the same review without its command.\nwith one plan, finish the work first. then press New chat, keep the same model and paste the same review.\nin a coding agent, close it and start it again. then the review has no memory of the build.\na write-up on stephens.page found that a brand-new chat caught real missed bugs in over half of the features it checked, about as well as a second family. https://stephens.page/blog/fresh-eyes-beat-a-second-family/paper/\nsites: assets first, then code\na builder's tip: make the UI assets, the icons, pictures and backgrounds a page uses, first, with the model in the job card's images row, then have Opus 5.5 code the page. https://x.com/ann_nnng/status/2109463240527040796\nsend references or your design system along, the colors, fonts and spacing your brand uses.\nopen a new Claude chat on Opus 5.5, attach the images and paste this:\n \nyou get the code for a page built only from your images, and it stops to show you before adding anything new.\nposts: Grok finds, Claude writes\nGrok searches X live, and Opus 5.5 leads the creative-writing votes. so one post uses both, in one viktor chat:\n \nin my test i asked for two posts. viktor's `!grok` answer took about two minutes and came back with two posts, their links and what the replies said.\nthen send the answer on:\n \nthe draft that comes back answers the strongest post, and nothing goes out. without viktor, send the first message to the Grok app and the second to a chat on Opus 5.5, each without its command.\nresearch: GPT answers, Claude checks every source\nin one check of research tools, written with Claude's help, none of the 82 checked sources from Opus 5.5 failed. https://magpieindex.com/guides/best-ai-deep-research-tools\nask viktor your question with `!gpt` and ask for linked sources. in my test, a market question on GPT came back with two linked surveys.\nthen send this in the same chat:\n \nevery claim returns with a quote from its source, and a mark on each one the source does not back.\nwithout viktor, ask ChatGPT the same question with linked sources. then paste the same check into a chat on Opus 5.5, without the command at the start and with ChatGPT's answer in place of \"the reply above\".\n \nnothing ships until a second model has quoted every line it doubts.\nrun the review on the next piece of code before it ships.\n \n04. a top model only where a wrong answer costs you\nthe first urge is to put every job on a top model, to be safe. 02 showed it pays off only on the jobs marked yes.\nwith viktor: one default for the team\nviktor's team mode sets the default model for the whole workspace. he has four: Ultra for the hardest work, Smart for everyday work and the default, Balanced for routine volume, Cheap for quick lookups.\nhis Settings page prices each mode against Smart: Ultra at about 1.3x the cost, Balanced about 45% cheaper, Cheap about 90% cheaper.\nan admin sets the team mode as the Workspace default on the Model tab of his Settings. when you ask viktor to change a setting, he posts a card and waits for a click on Approve.\nviktor runs on the mode and the models you set, and he does not pick them by himself.\nwith viktor: a model and a cap for each scheduled job\na scheduled job with no model of its own runs on the team mode.\nviktor has no built-in spending limit for one job. ask for a monthly cap, and he adds a check that skips a run once the job has used its cap that month.\npaste into viktor to set up both scheduled jobs:\n \nin my test, viktor played the job back in under a minute with the job's model and a cap of 150 credits a month, about $0.38 on his own screen. he created nothing.\nafter my yes he did one test run that sent nothing, and the job showed up on his Tasks page with its own model.\nsay yes only when the playback names a model and a cap for each scheduled job.\n \n \nbefore viktor, one plan paid the same for each job, small or costly.\nwithout viktor: one plan\nkeep the family that wins most of the jobs on your card. its cheapest level costs $20 a month on Claude or ChatGPT.\ninside it, a quick model works under the top one. a subagent is a helper the main agent hands a side job to.\nAnthropic pairs Claude Haiku 5.5, its quick model, with Opus 5.5 or Sonnet 5.5 as a subagent on coding work. paste this into your coding agent:\n \npay for a higher plan only in the family that holds your costly list. live X is the one job only Grok does, and X Plus, $8 a month, includes it.\na top model now runs only on the jobs where a wrong answer costs you.\nafter a month, the spend shows which of these choices were worth it.\n \n05. see where the money goes, and move fixed steps to a script\na job that runs every morning pays for thinking on every run, even when every run comes out the same. after a month, nobody remembers which job ate the money.\nwithout viktor: the monthly cost sheet\non the 1st of the month, fill the cost sheet from 02 again, with a count of runs and two new columns:\n \nslow down or pause the job nobody read.\nwith viktor: ask where the credits go\nsend this in your direct chat with him:\n \nin my test, viktor answered in under a minute and changed nothing. he listed the five chats that cost the most, the model each ran on and its credits, with one fix for each.\ni said yes to one fix only. viktor posted a card with Approve and Reject, and the change ran only after my click.\nthe fix moved the workspace default to Balanced, the team mode from 04 for routine volume.\ni also asked how much the fix would save. viktor would not guess, and offered to compare the credits per plain message after a week.\nso ask him again a week after any fix, and you see the real saving.\n \none message shows which job ate the month, and nothing changes until you say yes.\nfixed steps go to a script\na script is a small program that repeats the same steps the same way every time, with no AI.\na developer on Zenn, a Japanese site for programmers, swapped an AI morning digest, a daily summary of new items, for a plain script. \n\nhttps://zenn.dev/taikikei/articles/951e0d3f735531?locale=en\nof its 10 steps, only 1 needed a decision, and the running cost went to $0, down from $31 a month.\nyour own repeating job splits the same way. write it as steps and mark each one that comes out the same every run:\n \nthe yes steps can run as a script, and the no step keeps a model. paste the step list into the chat you already use, with this:\n \nback comes a script for the yes steps and how to start it each morning, and nothing runs until your yes.\n \n \none paste that sets it all up\nyou now hold five habits that stay when the winners move:\nwho wins which job, on one card.\nwhat each finished job costs.\na second family on every review.\nthe top model only on your costly list.\none monthly look at where the money goes.\nthe whole guide fits in one note of your own rules:\n \n \npaste the note into a new chat in the app you use. it walks you through each line.\nwith one plan, put its models in rules 1 to 5 and run rule 2's review in a brand-new chat. live X needs Grok, and X Plus, $8 a month, includes it.\nback come your seven rules, filled with your jobs.\ntonight, send one job to the model that wins it and let a second family review it.\nin viktor: a command per family, the team mode, a scheduled job with model and cap, and the credits check, each after your yes. hire him for your team.\nTry free at @viktor_com. $100 in credits. Full link in my first reply.\nUse code ARGONA100 when you sign up.\nPaid Partnership",
+          "preview_text": "Claude, GPT and Grok are three families of models, one per company, and each wins different jobs. almost nobody sends each job to its winner, lets another family check it, or prices it by the finished",
+          "title": "one AI employee on Claude, GPT and Grok: send each job to the model that wins it (full guide)"
+        },
+        "author_id": "1966599631900438528",
+        "created_at": "2026-11-11T18:43:18.000Z",
+        "edit_history_tweet_ids": [
+          "2120588192080441740"
+        ],
+        "id": "2120588192080441740",
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 16592,
+          "like_count": 58,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 3
+        },
+        "text": "https://t.co/IGRiOScRSW"
+      }
+    ],
+    "users": [
+      {
+        "id": "1966599631900438528",
+        "name": "Argona",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074194587824889856/HEijowP__normal.jpg",
+        "public_metrics": {
+          "followers_count": 40921,
+          "following_count": 757,
+          "like_count": 16157,
+          "listed_count": 448,
+          "media_count": 784,
+          "tweet_count": 16097
+        },
+        "username": "Argona0x",
+        "verified": false
+      },
+      {
+        "id": "2084935729566609408",
+        "name": "Corma",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2121680403635314688/RyS2FEMS_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1355,
+          "following_count": 1,
+          "like_count": 103,
+          "listed_count": 13,
+          "media_count": 0,
+          "tweet_count": 96
+        },
+        "username": "CormaAI",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122427242726723724",
+    "next_token": "b26v89c19zqg8o3juzow6fffrrt8xqj2h3503ub9qry4d",
+    "oldest_id": "2122308036484022324",
+    "result_count": 4
+  }
+}

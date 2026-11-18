@@ -1,0 +1,1757 @@
+{
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122481793811263488"
+        ]
+      },
+      "author_id": "1664253404607287297",
+      "conversation_id": "2122481807304319182",
+      "created_at": "2026-11-17T00:07:51.000Z",
+      "edit_history_tweet_ids": [
+        "2122481807304319182"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/YuCHlswzRk",
+            "end": 115,
+            "expanded_url": "https://x.com/SyrianVeterans/status/2122481807304319182/photo/1",
+            "media_key": "3_2122481793811263488",
+            "start": 92,
+            "url": "https://t.co/YuCHlswzRk"
+          }
+        ]
+      },
+      "id": "2122481807304319182",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "英伟达发布 Nemotron for Science，给科研智能体配齐开放模型和工具\n\n这套东西包括开放模型、数据集、工具和后训练配方，目标是帮研究人员搭建更准确、更省力的科研 AI 智能体。按发布方的说法，智能体能自己规划任务、跑模拟、检查结果，再根据结果调整下一步。目前公布的就是这些组成，还没有更多评测数据或开放范围细节。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "英伟达发布 Nemotron for Science，给科研智能体配齐开放模型和工具\n\n这套东西包括开放模型、数据集、工具和后训练配方，目标是帮研究人员搭建更准确、更省力的科研 AI https://t.co/YuCHlswzRk",
+      "url": "https://x.com/SyrianVeterans/status/2122481807304319182"
+    },
+    {
+      "article": {
+        "cover_media": "3_2122480425952223232",
+        "plain_text": "1651 年，托马斯·霍布斯在《利维坦》中描绘了一头由无数个体契约凝聚而成的巨兽——它垄断暴力、裁决秩序、俯瞰众生，拥有至高无上的公共权力。\n而在现代商业史上，“私营公司”恰恰站在利维坦的反面：它诞生于私人产权，受制于市场竞争，并对股东的资本回报承担受托责任。\n2026 年 11 月，这两个互相排斥的词汇，在 Anthropic 身上撞出了最具戏剧性的火花。\n三个月前（8 月 14 日），科技对冲基金 Atreides Management 创始人 Gavin Baker 在播客中爆出猛料：多位内部人士证实，Anthropic CEO Dario Amodei 曾私下认真阐述过一个终局预言——“有朝一日，Anthropic 可能会成为全人类唯一一家私营企业，届时世界上将只剩下 Anthropic 和各国政府。”\n可历史偏偏爱写最辛辣的剧本：就在宣称要当“最后一家私营企业”仅仅三个月后，本周，Anthropic 正顶着股票代码 ANT 在纳斯达克冲刺人类史上最大规模 IPO——发行价区间 70 至 78 美元/股，募资目标超 600 亿美元（直接碾压沙特阿美 290 亿美元纪录），目标估值直指 1.4 万亿至 2 万亿美元。\n把这组荒诞的反转、刚披露的 Form S-1/A 招股书，以及它那套极其封闭的股权信托设计摊在桌上，一个关乎我们每个人未来十年处境的终极问题浮出水面：当通用智能演变为全社会的“水电煤”，Anthropic 究竟是狂妄的空想家，还是现代私营公司四百年历史上的最后一座孤岛？\n一、 5,300 人的“吞噬机器”：它凭什么长出利维坦的骨骼？\n很多人听到“全人类只剩一家企业”，第一反应是硅谷精英傲慢过了头。但如果我们把 Anthropic 的财务齿轮与底层技术曲线拆开，就会明白 Dario 这种近乎狂热的底气，建立在四个正在发生物理质变的底层机制之上：\n1. 递归自我改进（RSI）：打破人类工程学的“组织重力”\n传统科技公司无论多强，都逃不过软件工程里的“布鲁克斯法则”——营收每翻十倍，就必须扩招成千上万名工程师与中层管理者，随之而来的是指数级上升的沟通内耗与官僚熵增。但 Anthropic 招股书白纸黑字确认了一个恐怖拐点：公司高达 80% 的内部研发提速，是由 AI 自身的代码与科研代理完成的。\n当一家公司跑通了“智能生产更强智能”的内部闭环，它就彻底摆脱了人类招聘与管理的物理重力。全公司仅凭约 5,300 名员工，就撑起了截至 2026 年 10 月 31 日突破 810 亿美元的年化经常性收入（ARR），人均年创收高达 660 万美元（2025 全年营收仅 45.85 亿，2026 前三季度已飙至 332.42 亿，2028 年内部预期直指 2,000 亿美元）。\n2. 从“副驾驶”到“全自动数字员工”\n过去一年模型在长程推理、自主代码工程与跨软件操控上的跃迁，直接跨过了可用性临界点。今天的 Claude 不再是陪我们聊天的工具，而是能连续工作数十小时、自主拆解任务并端到端交付的“数字劳动力”。它瞄准的根本不是区区 6,000 亿美元的软件市场，而是超过 40 万亿美元的全球白领薪酬总盘子——也就是我们绝大多数人赖以生存的饭碗。\n3. 900% 净留存背后的“垂直软件大屠杀”\n在通用智能的视角下，一切白领智力劳动本质上都是同一个底层模型的不同 API 调用。招股书披露的头部客户净扩张留存率高达惊人的 900%——企业一旦把核心业务流接入 Claude，就会顺手砍掉原本采购的几十种单一功能 SaaS 软件，让传统软件巨头退化成没有灵魂的底层数据库。\n4. 吞噬千兆瓦电力的“无领土天才之国”\n早在年初的长文《技术的青春期》里，Dario 就亲手写下过这个蓝图：算力集群里很快会诞生 5,000 万个比诺贝尔奖得主更聪明、且以人类 10 倍至 100 倍语速思考的数字天才，背后对应的是数十座超大规模数据中心与千兆瓦（GW）级的独立电力配额。\n当一家公司的模型开始深度接入主权国防、核心科研、金融清算与我们每天打开的软件底座时，它卖的就不再是普通商品，而是数字时代的“水电煤”与准公共权力。 这就是不折不扣的“数字利维坦”。\n二、 一边把华尔街挡在门外，一边被 9,010 亿债务逼上敲钟台\n既然已经向公众募资 600 亿美元并挂牌上市，Anthropic 岂不是已经失去了“私营公司”的身份？\n如果我们只看股票代码，确实如此；但如果我们拆开它的治理黑盒，会发现即便走到了公开市场的聚光灯下，它在控制权本质上依然是一座把外部资本死死挡在门外的“实质私营堡垒”：\n项目符号 PBC（公益公司）底座：公司在特拉华州注册为公益公司（Public Benefit Corporation），从法律底层废除了“股东利润最大化”的单一紧箍咒。管理层拥有法律豁免权，可以为了“AI 安全与人类长期利益”随时牺牲短期商业回报，华尔街股东无权以此罢免董事会。\n项目符号 LTBT（长期利益信托）机制：公司设立了独立的长期利益信托，由五位与外部商业利益隔离的受托人掌管，持有特设的 Class T 股。这种股份完全剥离经济分红权与清算分配权，却握有随时间推移任免董事会多数席位的生杀大权——彻底切断了资本通过收购股权改组董事会的路径。\n项目符号 Class F 超级投票权：按 74 美元发行中位价测算，本次上市将通过 2,100 亿美元员工股权一次性制造出超 1,000 名百万/亿万富翁；但钱分给员工，方向盘一寸不让——7 位联合创始人通过 Class F 股，在上市后依然锁死了 50.1% 的绝对控制权。\n对外部资本只开放“财务索取权”，却彻底锁死“治理决定权”。这几乎是现代公司法框架内做出的极致防御。\n但极具讽刺意味的是，这座号称“不受资本摆布”的治理堡垒，最终还是在物理账单面前低了头。就在 IPO 前夕的 11 月 14 日，Dario 罕见承认“明年存在巨大不确定性”——因为招股书揭开了压在它脖子上的物理铁链：Anthropic 背负的刚性算力与芯片采购承诺已膨胀至 9,010 亿美元（$901B），其中仅 2027 年 9 月前必须兑现的硬性账单就高达 710 亿美元（超过三分之二标普 500 公司的总市值）。\n再强的治理信托也变不出电力和芯片。所谓的“最后一家私营企业”，终究扛不住 9,010 亿美元的算力高利贷，不得不向华尔街二级市场伸手，靠全球散户与养老金的真金白银去填补那座吞金无底洞。\n三、 四堵铜墙铁壁：为什么模型的智商再高，也吞不下整个世界？\n如果把视角从硅谷的估值狂热拉回到冷酷的商业物理规律上，Dario 显然犯了一个顶级工程师最容易犯的傲慢错误——他把“白领写代码和写 PPT 的效率”，当成了人类商业文明的全部。 只要把模型的触角往纯软件之外多伸一寸，这头数字利维坦立刻就会撞上四堵铜墙铁壁：\n1. 原子世界的重资产铁壁（莫拉维克悖论）\n大模型在比特世界里无所不能，但只要离开服务器机房，它连一颗螺丝都拧不紧。能源电网、晶圆制造、矿产开采、远洋航运与精密外科手术，遵循的是热力学定律与漫长的重资产折旧周期。正如“莫拉维克悖论”所揭示的：让 AI 像国际象棋大师一样推理很容易，让机器人在复杂工地里修水管却难如登天。Anthropic 自己都得靠台积电的光刻机和公用事业公司的发电厂续命，拿什么去吞并埃克森美孚或卡特彼勒？\n2. 强监管与“合法背锅人”机制\n模型准确率哪怕提升到 99.99%，在临床医疗、法庭辩护、航空管制与核电调度这些容错率为零的领域，现代社会也绝不会允许一家 AI 公司直接接管终局决策。因为当手术失败或百亿并购踩雷时，法庭和受害者需要一个能坐牢、能被吊销执照、能承担无限连带责任的肉身实体去“背锅”。算法没有灵魂，无法替代我们承担道德与刑事责任。\n3. 人类社会的“地位溢价”与非标体验\n商业世界里有一半的利润，赚的根本不是“效率”，而是“低效的稀缺感”。我们花几千美元去米其林餐厅、听现场交响乐、在奢华酒店里与商业伙伴推杯换盏，买的是真实人类付出的时间、情绪共振与社会地位认证。AI 把信息生成成本压得越低，我们之间面对面的信任背书与线下实体体验就越值钱。\n4. 主权国家的安全底线与反垄断断头台\n退一万步讲，即便 Anthropic 真的在数字世界扫平了所有对手，华盛顿、布鲁塞尔和各国政府也绝不会坐视一家由 7 个硅谷极客绝对控股的公司掌握全人类的数字命脉。1911 年洛克菲勒的标准石油控制了全美 90% 的炼油产能，等来的不是与政府平起平坐，而是最高法院一纸拆分成 34 家公司的判决书。在国家安全法、反垄断审查与算力配额许可的层层合围下，政企共管甚至准公共事业化是不可逆转的宿命。\n四、 开放式终局：不是商业的终点，而是“制度新物种”的起点\n那么，回到最初的问题：Anthropic，会是人类最后一家私营公司吗？\n答案取决于我们站在哪一个维度去定义“私营”。\n如果从字面与商业版图来看，答案是否定的。它既无法吞并原子世界的重资产巨头，也无法取代我们现实生活中非标的信任与体验；甚至为了偿还 9,010 亿美元的算力债务，它本周就已经交出了纯粹私营企业的身份，向全球公开市场敞开了大门。\n但如果从企业制度演进的纵深来看，这个预言或许正在以另一种方式应验。在超级智能彻底走向准公共事业化、或被各国政府纳入强监管框架之前，Anthropic 极有可能是人类历史上最后一家有能力将千兆瓦级算力霸权与核心决策权，完整锁死在私人使命小圈子里的超级科技实体。\n在它之后，不会再有第二家初创公司，能仅凭一纸商业计划书和几轮私募融资，就独立攀登到左右人类文明走向的算力之巅。未来的超级智能体，大概率会演化为一种介于主权机构、公共事业与资本信托之间的“制度新物种”——由国家提供能源与安全背书，由公开市场提供流动性，由专业官僚与技术委员会共同执掌制衡。\n至于身处这场巨变中的我们，既不必被“唯一企业”的科幻叙事吓破胆，也绝不能甘心做闭源巨头云端上的“数字佃农”——把核心数据与开源模型的可迁移性死死攥在自己手里，同时往 AI 啃不动的物理交付、复杂决策与高信任度人际连接里扎根，才是我们穿越周期的唯一护城河。\n你认为十年后的前沿 AI 巨头，最终会演变成类似“东印度公司”的资本霸权，还是像国家电网一样的“公共基础设施”？欢迎探讨。",
+        "preview_text": "1651 年，托马斯·霍布斯在《利维坦》中描绘了一头由无数个体契约凝聚而成的巨兽——它垄断暴力、裁决秩序、俯瞰众生，拥有至高无上的公共权力。",
+        "title": "“数字利维坦”：Anthropic，会是人类最后的私营公司吗？"
+      },
+      "author_id": "1365714172063875076",
+      "conversation_id": "2122481755517325783",
+      "created_at": "2026-11-17T00:07:38.000Z",
+      "edit_history_tweet_ids": [
+        "2122481755517325783"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/i/article/2122…",
+            "end": 125,
+            "expanded_url": "https://x.com/i/article/2122479800707383296",
+            "start": 102,
+            "status": 404,
+            "unwound_url": "https://x.com/i/article/2122479800707383296",
+            "url": "https://t.co/cfHFJMyvtv"
+          }
+        ]
+      },
+      "id": "2122481755517325783",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 149,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "导读： 手握千兆瓦级算力却用公益信托把华尔街锁在门外，Anthropic 已经跳出了传统“私营企业”的边界。本文拆解它的招股书治理黑盒、9,010 亿算力债务，以及我们在这场商业制度终局里的生存护城河。 https://t.co/cfHFJMyvtv",
+      "url": "https://x.com/0v0_sevenlee/status/2122481755517325783"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2121940098073939968",
+          "3_2121940114066817024",
+          "3_2121940122438606848",
+          "3_2121940137127149569"
+        ]
+      },
+      "author_id": "1486017329662423044",
+      "conversation_id": "2122480587067822089",
+      "created_at": "2026-11-17T00:03:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122480587067822089"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/f9cCTsMFaf",
+            "end": 155,
+            "expanded_url": "https://x.com/mylifcc/status/2122480587067822089/photo/1",
+            "media_key": "3_2121940098073939968",
+            "start": 132,
+            "url": "https://t.co/f9cCTsMFaf"
+          },
+          {
+            "display_url": "pic.x.com/f9cCTsMFaf",
+            "end": 155,
+            "expanded_url": "https://x.com/mylifcc/status/2122480587067822089/photo/2",
+            "media_key": "3_2121940114066817024",
+            "start": 132,
+            "url": "https://t.co/f9cCTsMFaf"
+          },
+          {
+            "display_url": "pic.x.com/f9cCTsMFaf",
+            "end": 155,
+            "expanded_url": "https://x.com/mylifcc/status/2122480587067822089/photo/3",
+            "media_key": "3_2121940122438606848",
+            "start": 132,
+            "url": "https://t.co/f9cCTsMFaf"
+          },
+          {
+            "display_url": "pic.x.com/f9cCTsMFaf",
+            "end": 155,
+            "expanded_url": "https://x.com/mylifcc/status/2122480587067822089/photo/4",
+            "media_key": "3_2121940137127149569",
+            "start": 132,
+            "url": "https://t.co/f9cCTsMFaf"
+          }
+        ]
+      },
+      "id": "2122480587067822089",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "从阿西莫夫机器人三定律到今天的 AI Agent 安全护栏，工程师一直默认一件事：只要把规则写得足够严密，就能造出一个静态门卫（Gatekeeper），在 Agent 提交的代码跑起来之前，检查代码本身并给出安全放行或违规拦截的确定性裁决。\n\n刚发在 arXiv 上的一篇理论硬文，用极其清晰的可计算性与复杂性证明，给所有 AI 代码门禁划出了三条绕不过去的数学铁律：\n\n1. 三大基础安全规范的不对称死局\n只要求门卫守住最基本的三条规矩：① 绝不调用违禁操作（Safety）；② 公开输出绝不依赖机密输入（Confidentiality）；③ 最终必须返回结果（Responsiveness），且每一条放行或拦截都必须附带机器可在有限时间内核验的证据（Certificate）。\n结果证明：违禁操作只能抓现行、无法做完备的事前无罪认证；而保密性与响应性在合规与违规两侧都不存在完备的有限证据系统。\n\n2. n 比特规则集必漏 n 比特好程序\n不管你的静态白名单审计规则库写到多厚（假设信息量为 n 比特），只要它保证绝不放过坏程序（Soundness），就一定存在一个代码长度同样只有 约 n 比特 的完全合规程序，被你的规则库永久拒之门外。\n\n3. 加超时上限也救不了静态预审\n加上最大运行步数上限 T 之后，理论上确实可判定了；但证明表明，面对自指对抗样本，门卫想在运行前算出安全结论，至少得付出差不多把原程序完整模拟跑完 T 步的代价——有限不等于可行。\n\n在 220 万个随机程序 模拟与现实护栏梳理（Table 3）里，作者指明了唯一靠谱的工程出路：别在图灵完备脚本上追求完美静态预审。要么把 Agent 工具链收窄成受限 DSL / 强类型能力接口（用牺牲一截表达自由换取可判定的可信边界），要么把防线放在运行时的内核监控器上抓违规动作。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 475,
+        "like_count": 5,
+        "quote_count": 1,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "从阿西莫夫机器人三定律到今天的 AI Agent 安全护栏，工程师一直默认一件事：只要把规则写得足够严密，就能造出一个静态门卫（Gatekeeper），在 Agent 提交的代码跑起来之前，检查代码本身并给出安全放行或违规拦截的确定性裁决。\n\n刚发在 arXiv https://t.co/f9cCTsMFaf",
+      "url": "https://x.com/mylifcc/status/2122480587067822089"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122478242749722625"
+        ]
+      },
+      "author_id": "1814498210079297536",
+      "conversation_id": "2122480586518667646",
+      "created_at": "2026-11-17T00:03:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122480586518667646"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/D5OIh5RyE5",
+            "end": 114,
+            "expanded_url": "https://x.com/kedaya/status/2122480586518667646/photo/1",
+            "media_key": "3_2122478242749722625",
+            "start": 91,
+            "url": "https://t.co/D5OIh5RyE5"
+          }
+        ]
+      },
+      "id": "2122480586518667646",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 18,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "离谱，KTC直接推了个全感知智能体主机，还带个VMAX GO随行屏。这年头主机都长脑子了，能感知环境当智能体用。就是不知道这感知能力是真好用，还是又一个智商税，等大佬上手评测再说👀 https://t.co/D5OIh5RyE5",
+      "url": "https://x.com/kedaya/status/2122480586518667646"
+    },
+    {
+      "author_id": "1988851885118484480",
+      "conversation_id": "2122480516884730167",
+      "created_at": "2026-11-17T00:02:43.000Z",
+      "edit_history_tweet_ids": [
+        "2122480516884730167"
+      ],
+      "id": "2122480516884730167",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "微软开源了个插件，让写代码的智能体越用越省钱，成本能降三成。TokenEconomizer 由 UC Berkeley、Microsoft Research 与 Microsoft Security 开源，从智能体在同一仓库的历史会话里学习，不改智能体和底层模型。三招是：微技能，把跨会话反复出现的模式记成一行笔记；工具裁剪，去掉不太可能用的工具，始终保留运行命令和编辑文件的核心工具；失败循环干预，监测到反复遭遇同一失败就提示换方法。277 个 SWE-Bench 真实缺陷修复任务上，平均成本降低 18.4%到 30.9%，成功率总体稳定，其中 4 种组合的 Pass@1 还有所上升，到第 6 个任务时每个仓库累计成本都低于默认水平。学到的内容保留在开发者本机，无需 API 密钥。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 108,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 5,
+        "retweet_count": 0
+      },
+      "text": "微软开源了个插件，让写代码的智能体越用越省钱，成本能降三成。TokenEconomizer 由 UC Berkeley、Microsoft Research 与 Microsoft Security",
+      "url": "https://x.com/taiyanghere/status/2122480516884730167"
+    },
+    {
+      "author_id": "1810525099331915777",
+      "conversation_id": "2122479611972141228",
+      "created_at": "2026-11-16T23:59:07.000Z",
+      "edit_history_tweet_ids": [
+        "2122479611972141228"
+      ],
+      "id": "2122479611972141228",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "美团LongCat团队刚刚开源了1.6万亿参数的智能体模型LongCat-2.5，直接采用MIT开源协议发布了模型权重。这个模型采用混合专家架构，每个token激活大约480亿参数，支持100万token的上下文长度。\n\n最引人注目的是整个训练流程全部在中国本土硬件上完成，官方提供的自托管指南直接基于194块华为昇腾芯片，没有提供英伟达GPU的运行方案。公布的基准测试数据显示，它在Terminal Bench v2.1上拿下了88.4分，几乎贴平了Claude Opus 5的89.1分和GPT-5.6 Sol的88.8分。\n\n官方还同步放出了4-bit量化版本，限时API调用价格定在每百万输入token约0.27欧元、输出1.07欧元。脱离英伟达硬件生态跑出万亿级模型训练，大模型领域的算力格局确实正在发生一些微妙的变化。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 22,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "美团LongCat团队刚刚开源了1.6万亿参数的智能体模型LongCat-2.5，直接采用MIT开源协议发布了模型权重。这个模型采用混合专家架构，每个token激活大约480亿参数，支持100万token的上下文长度。",
+      "url": "https://x.com/cooper_cin21979/status/2122479611972141228"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122476901209907200"
+        ]
+      },
+      "author_id": "733890306223919104",
+      "conversation_id": "2122478689522794873",
+      "created_at": "2026-11-16T23:55:27.000Z",
+      "edit_history_tweet_ids": [
+        "2122478689522794873"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/7aYBvjme7Y",
+            "end": 199,
+            "expanded_url": "https://x.com/xxxdemo9/status/2122478689522794873/photo/1",
+            "media_key": "3_2122476901209907200",
+            "start": 176,
+            "url": "https://t.co/7aYBvjme7Y"
+          }
+        ]
+      },
+      "id": "2122478689522794873",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "hashtags": [
+            {
+              "end": 401,
+              "start": 396,
+              "tag": "AI工具"
+            },
+            {
+              "end": 410,
+              "start": 402,
+              "tag": "AIAgent"
+            },
+            {
+              "end": 414,
+              "start": 411,
+              "tag": "白嫖"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "braintrust.dev/pricing",
+              "end": 394,
+              "expanded_url": "https://www.braintrust.dev/pricing",
+              "start": 371,
+              "url": "https://t.co/fAaFEZQhLX"
+            }
+          ]
+        },
+        "text": "做 AI Agent 评测与全链路追踪，Braintrust 的 Starter 免费档免绑卡直接开用（$0/月）⚡\n\n1️⃣ 每月 $10 内置模型额度：无需自带 Key，就能在 Playground、Loop 自动调优代理和 Topics 日志分析里直跑 GPT-6 等内置模型\n2️⃣ 每月 1 GB 数据 + 1 万次评分：含完整 Trace 追踪、数据集与实验对比（实验记录保留 365 天，日志保留 14 天）\n3️⃣ 不限团队人数与项目数：无限用户、无限项目与数据集协作，早期初创团队还可申请 6–12 个月免费 Pro 档（含 $100/月额度）\n\n⚠️ 避坑：未绑卡用内置模型需组织 Owner 使用工作邮箱（直连 Gateway 需 Pro 档）；月度额度不结转，超额按 $4/GB 数据与 $2.50/千次评分计费。\n\nhttps://t.co/fAaFEZQhLX\n\n#AI工具 #AIAgent #白嫖"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "做 AI Agent 评测与全链路追踪，Braintrust 的 Starter 免费档免绑卡直接开用（$0/月）⚡\n\n1️⃣ 每月 $10 内置模型额度：无需自带 Key，就能在 Playground、Loop 自动调优代理和 Topics 日志分析里直跑 GPT-6 等内置模型\n2️⃣ 每月 1 GB 数据 + 1 万次评分：含完整 Trace https://t.co/7aYBvjme7Y",
+      "url": "https://x.com/xxxdemo9/status/2122478689522794873"
+    },
+    {
+      "author_id": "2270216304",
+      "conversation_id": "2122478342934766076",
+      "created_at": "2026-11-16T23:54:05.000Z",
+      "edit_history_tweet_ids": [
+        "2122478342934766076"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/Yuchenj_UW/sta…",
+            "end": 182,
+            "expanded_url": "https://x.com/Yuchenj_UW/status/2122392225908924604",
+            "start": 159,
+            "url": "https://t.co/8dbPxme57U"
+          }
+        ]
+      },
+      "id": "2122478342934766076",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NBCNews/status…",
+              "end": 182,
+              "expanded_url": "https://x.com/NBCNews/status/2122414415131607245",
+              "start": 159,
+              "url": "https://t.co/LTAajegfbV"
+            },
+            {
+              "display_url": "x.com/perplexity_ai/…",
+              "end": 312,
+              "expanded_url": "https://x.com/perplexity_ai/status/2122352071295009156",
+              "start": 289,
+              "url": "https://t.co/Kt3E0crHuI"
+            },
+            {
+              "display_url": "x.com/OpenAI/status/…",
+              "end": 484,
+              "expanded_url": "https://x.com/OpenAI/status/2122377585523126615",
+              "start": 461,
+              "url": "https://t.co/COUWVsLD1v"
+            },
+            {
+              "display_url": "x.com/OpenAI/status/…",
+              "end": 508,
+              "expanded_url": "https://x.com/OpenAI/status/2122380010287960095",
+              "start": 485,
+              "url": "https://t.co/jsNkqUc9ZT"
+            },
+            {
+              "display_url": "x.com/OpenAI/status/…",
+              "end": 633,
+              "expanded_url": "https://x.com/OpenAI/status/2122359930628063248",
+              "start": 610,
+              "url": "https://t.co/m4ydgXqe7v"
+            },
+            {
+              "display_url": "x.com/Yuchenj_UW/sta…",
+              "end": 806,
+              "expanded_url": "https://x.com/Yuchenj_UW/status/2122392225908924604",
+              "start": 783,
+              "url": "https://t.co/8dbPxme57U"
+            }
+          ]
+        },
+        "text": "据 NBC News，加州检察长 Bonta 周一起诉 OpenAI，指公司缺少足够的安全护栏和监控，并以 7 月 Hugging Face 遭自主智能体攻击的事件为核心，称这属于已知 80 起事故之一。OpenAI 回应称事件后已做了大量对齐工作，并认为诉讼是在拿它单独开刀。目前仍是检方指控与公司回应，尚无判决。\nhttps://t.co/LTAajegfbV\n\nPerplexity 宣布成立 Frontier Research，目标是做出能自主做研究的系统，方向包括多智能体编排、强化学习和持续学习。官方称将有超过 1 万张 GPU 支持，算法、模型和评测会公开发布。\nhttps://t.co/Kt3E0crHuI\n\nOpenAI 扩大科学家计划，目标覆盖最多 20 万人，11 月 23 日开放申请，新一轮发放 5 万份名额、改为 ChatGPT Plus。同期对 1800 多名试点参与者的调查里，受访者估计若不用 AI、要达到同样质量，研究工作会花将近两倍时间。这是官方基于自述的研究，不是独立对照实验。\nhttps://t.co/COUWVsLD1v\nhttps://t.co/jsNkqUc9ZT\n\nOpenAI 启动第一轮 embedded assessments，让 Apollo Research、METR、Transluce、Goodfire 深入接触内部模型与系统，做对齐和安全护栏评估。\nhttps://t.co/m4ydgXqe7v\n\nYuchen Jin 发布 Databricks AI Index：基于 1 万多家企业的 Unity Gateway 数据，开源权重模型的 token 占比在 3.5 个月里从 7.3% 升到 30.9%；7 月以来，71% 的活跃企业用过至少两家模型供应商。这是该网关的样本，不代表全行业。\nhttps://t.co/8dbPxme57U"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 15,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122392225908924604",
+          "type": "quoted"
+        }
+      ],
+      "text": "据 NBC News，加州检察长 Bonta 周一起诉 OpenAI，指公司缺少足够的安全护栏和监控，并以 7 月 Hugging Face 遭自主智能体攻击的事件为核心，称这属于已知 80 起事故之一。OpenAI 回应称事件后已做了大量对齐工作，并认为诉讼是在拿它单独开刀。目前仍是检方指控与公司回应，尚无判决。 https://t.co/8dbPxme57U",
+      "url": "https://x.com/RainmeterSjtu/status/2122478342934766076"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122476241181933568"
+        ]
+      },
+      "author_id": "2002248318857195525",
+      "conversation_id": "2122476433717219452",
+      "created_at": "2026-11-16T23:46:30.000Z",
+      "edit_history_tweet_ids": [
+        "2122476433717219452"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/5gNID86JbO",
+            "end": 94,
+            "expanded_url": "https://x.com/miaowang511178/status/2122476433717219452/photo/1",
+            "media_key": "3_2122476241181933568",
+            "start": 71,
+            "url": "https://t.co/5gNID86JbO"
+          }
+        ]
+      },
+      "id": "2122476433717219452",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "Vals.ai",
+              "end": 548,
+              "expanded_url": "http://Vals.ai",
+              "start": 525,
+              "url": "https://t.co/ky2182zevi"
+            },
+            {
+              "display_url": "Vals.ai",
+              "end": 1772,
+              "expanded_url": "http://Vals.ai",
+              "start": 1749,
+              "url": "https://t.co/ky2182zevi"
+            }
+          ]
+        },
+        "text": "千问4刚把海外御三家的账单防线打穿了：输出单价砍掉 5.5 倍，吞 198 份底稿直出 86 页报告\n\n这几天外网大模型盲测场（Design Arena）出了个挺有意思的现场：一个没挂大厂名字的匿名新模型，连赢好几轮复杂网页和交互看板大活。评论区一水儿猜是海外哪家憋的半代大招，结果底牌一掀，是阿里刚全量上线的 Qwen4-Max（千问 4 旗舰版）——盲测总榜直接冲到全球并列第 3、国产阵营断层第 1。\n\n但真正让我连夜把工作室长文档重活切过去试单的，不是榜单名次，而是它直接掀桌子的定价单：每百万输入 $1.50、输出 $4.50（国内百炼阶梯低至 2.5 元 / 10 元），把 Claude Opus 5.5（$5 / $25）守了一整年的输出单价防线足足砍掉了 5.5 倍；一旦命中上下文缓存，输入更是压到每百万 3 分钱。\n\n以前啃上百份资料写深拆或核对长合同，总得在“脑子够用”和“账单肉疼”之间二选一。现在把 50 万字原始底稿整包喂进去反复追问 10 轮，Claude 一趟要烧掉近 270 元人民币，千问 4 跑完同样重活只要 5.8 元——还不到半杯冰美式。\n\n我把千问 4 的 5300 字官方一手技术底稿、第三方独立盲测（https://t.co/ky2182zevi）和真实商业重活账本全扒了一遍（附图先存好 2026 四大旗舰按活派工卡）。它到底凭什么这么便宜、真刀真枪能干成什么活、哪两处短板千万别硬碰，顺着这篇一次算清。\n\n【先把账本摊开：四大旗舰真实单价与 50 万字重活实算】\n\n拿创作者和小团队最常碰到的硬骨头算笔明白账——把 50 万字行业报告、财报或项目底稿一次喂进对话框，连续追问打磨 10 轮（后 9 轮触发缓存复用）：\n\n【千问 4（Qwen4-Max）】 ｜ 官方输入 $1.50 / 输出 $4.50（国内低至 2.5元 / 10元） ｜ 10 轮重活总账：约 ¥5.8（缓存命中低至 3 分钱） ｜ 主力定位：百页长文档深拆、多表交叉核对、全天候高频长程干活\n\n【Claude Opus 5.5】 ｜ 官方输入 $5.00 / 输出 $25.00 ｜ 10 轮重活总账：约 ¥268 ｜ 主力定位：高审美视觉排版、高难度大型工程重构\n\n【GPT-6 Astra】 ｜ 官方输入 $4.00 / 输出 $16.00 ｜ 10 轮重活总账：约 ¥185 ｜ 主力定位：极冷门纯逻辑推理、奥赛级脑筋急转弯攻坚\n\n【Gemini 4 Pro】 ｜ 官方输入 $2.00 / 输出 $12.00 ｜ 10 轮重活总账：约 ¥96 ｜ 主力定位：1 小时以上超长原片视频与多机位素材直读\n\n一眼就能看出来：千问 4 不是来刷几道脑筋急转弯的，它是冲着你每天消耗量最大、最烧钱的那 80% 案头苦力活来的。\n\n【为什么 2.4 万亿巨无霸反而这么便宜：只叫醒 3% 专家干活】\n\n很多人第一反应是：便宜这么多，是不是模型缩水了？恰恰相反，千问 4 总参数高达 2.4 万亿（2.4T），比上一代还大了一圈。\n\n它把成本打下来的核心秘密，在于极其克制的稀疏专家调度——就像一家拥有 2400 名专科名医的超级医院，你挂号看病时不会把全院医生都叫来会诊付费，每次生成只精准唤醒最对口的 710 亿参数（不到 3%）。\n\n再加上两项对日常干活极其实用的底层升级：\n1. 原生 100 万超长上下文：一次性吞进 70 到 80 万汉字不切片，从第 1 页到第 800 页前后数字自己对得上；\n2. 原生多模态一体直读：PDF 里的复杂双轴折线图、财报扫描件、手机随手拍的白板草图，不用先转文字损失排版，直接原图丢进去就能算。\n\n【不看做题家跑分：它真刀真枪干成了哪三件重活？】\n\n光看选择题分数没意义，这次一手材料里最硬的是三个真实长程交付现场：\n\n1. 复杂交互系统连改 14 版不崩盘：平时让模型写个带地图和实时数据流的调度后台，改到第 4 版就开始拆东墙补西墙。实测让千问 4 从零搭建一套实时物流指挥大屏，顺着业务需求连续迭代到第 14 版（v14），前序按钮逻辑、实时图表与状态栏全程零丢件。\n2. 投行与法务苦力活断层反超：在美国第三方独立评测机构 https://t.co/ky2182zevi 刚放出的法律实战榜（HLAB-Vals）上，千问 4 拿下 21.3%，直接甩开 Claude Opus 5.5（9.2%）和 GPT-6（7.1%）两倍多。真实压力测试里一次喂入 198 份杂乱的尽调合同、审计报表与会议纪要，单次直出一份 86 页结构完整的招股核查报告，每一处金额都能回溯原件页码。\n3. 48 小时连轴科研湿实验闭环：挂进自主智能体框架连续跑满 48 小时，从 270 万种候选分子结构里筛出新型浸没式冷却液配方，直接送进真实化学实验室合成验证，把液体粘度实打实降了 37%。\n\n【泼两盆冷水：这两处短板和烧钱暗坑千万别踩】\n\n吹完硬实力，必须把丑话说在前面。实测对比下来，有两个坑千万别硬撞：\n\n第一盆冷水：别拿它硬磕极端冷门纯逻辑题和西文微动效审美。官方自己放出的对比图非常诚实——在考纯陌生图形推理的 ARC-AGI-2 上，GPT-6 能拿 86.2%，千问 4 只有 64.9%；在重度黑盒软件复刻（ProgramBench）和西文杂志级微动效上，Claude Opus 5.5 依然有明显身位优势。最聪明的做法不是把海外模型全退订，而是让千问 4 扛下 80% 吃上下文的脏活累活，省下九成预算，最后 20% 审美精修再交给 Claude 点睛。\n\n第二盆冷水：日常轻活千万别手欠常驻开「深度思考（Thinking）」满血档！千问 4 支持同一模型一键切换快思考与深度推理。但深度推理会在后台先写几千字隐形草稿纸，这些看不见的推演字数全按输出单价计费！平时润色文案、整理纪要开普通档秒回又省钱；只有跨几十份文件交叉审计或排复杂故障时，再手动点开深度思考。\n\n【今天去哪直接用 + 防偷懒长文档压榨指令卡】\n\n普通人今天不用折腾任何复杂环境就能直接上手：\n• 零门槛免费网页端：国内直接打开千问网页版或手机端切到旗舰档，海外直接搜千问国际站对话框就能免费试跑长文档；\n• 工作流与接口调用：国内走百炼平台（自带长上下文缓存巨额折扣），海外走 OpenRouter 搜索 Qwen4-Max，通用接口改个模型名就能无缝切过去。\n\n下次往对话框里丢几十页长资料、合同或行业报告时，别只干巴巴说一句“帮我总结”，直接把下面这段防偷懒指令粘在最前面，出稿质量会立刻拉开代差：\n\n【长文档深拆压榨指令】请完整通读我上传的 [填入资料份数与主题，如：12份竞品财报与访谈纪要]，严禁只看开头结尾泛泛总结：（1）先列一张核心数字与结论对照表，每一条数据后面必须括号标出【原件文件名 + 具体页码/章节】，原文没写的直接标“未提及”，严禁脑补编造；（2）找出所有文件之间互相矛盾、口径打架或藏在附注里的风险细节，单独列成避坑清单；（3）自查与篇幅要求：输出前请逐条核对引用的加总金额是否算数闭合，控制在 [填入目标字数，如：2500字以内]，先给一针见血的判断再摆证据。\n\n先把附图那张「四大旗舰按活派工卡」和这段指令存下来。今年用好大模型最爽的姿势，从来不是给哪一家交信仰税，而是搞清楚每家底牌，让最便宜的大力士帮你把最累的活干完。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 151,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "text": "千问4刚把海外御三家的账单防线打穿了：输出单价砍掉 5.5 倍，吞 198 份底稿直出 86 页报告\n\n这几天外网大模型盲测场（Design https://t.co/5gNID86JbO",
+      "url": "https://x.com/miaowang511178/status/2122476433717219452"
+    },
+    {
+      "author_id": "2048737679496671232",
+      "conversation_id": "2122476056544514511",
+      "created_at": "2026-11-16T23:45:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122476056544514511"
+      ],
+      "id": "2122476056544514511",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "我有个朋友刚接触 AI 编程，最早也和多数人一样，把本地 AI Agent 部署好之后只会像用 ChatGPT 那样问一句答一句。他用了一阵才意识到，光这样其实挺浪费的。他更在意一个朴素的问题：部署完，到底怎么用？\n\n他的办法可以概括成一句话：他说目标，Agent 补过程。\n\n比如他想做产品，就直接告诉 Agent「帮我找一类真实存在的用户需求」。Agent 不会凭空编，而是去翻论坛、评论区、问答平台，把零散的抱怨和提问聚成一份需求清单，标注出哪些被反复提起、哪些带着明确付费意愿。他再看这份清单决定做什么。\n\n为了不让 Agent 瞎跑，他会先给它一份自己的背景文件和判断标准，告诉它只关心哪些方向、哪些数据算有效。慢慢地，Agent 就不只是聊天工具，更像长期跟着他的助理，主动把「别人在为什么烦恼」这件事持续收集起来。\n\n对刚上手的人来说，不用先啃底层原理。先把 Agent 当成会替你跑腿、做信息整理的小同事，从「找需求」这件最具体的事切入，比空谈能力有用得多。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 45,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "text": "我有个朋友刚接触 AI 编程，最早也和多数人一样，把本地 AI Agent 部署好之后只会像用 ChatGPT 那样问一句答一句。他用了一阵才意识到，光这样其实挺浪费的。他更在意一个朴素的问题：部署完，到底怎么用？\n\n他的办法可以概括成一句话：他说目标，Agent 补过程。\n\n比如他想做产品，就直接告诉",
+      "url": "https://x.com/Bengz168/status/2122476056544514511"
+    },
+    {
+      "author_id": "45582017",
+      "conversation_id": "2122473421800153373",
+      "created_at": "2026-11-16T23:34:32.000Z",
+      "edit_history_tweet_ids": [
+        "2122473421800153373"
+      ],
+      "id": "2122473421800153373",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "hashtags": [
+            {
+              "end": 488,
+              "start": 480,
+              "tag": "AIAgent"
+            },
+            {
+              "end": 495,
+              "start": 489,
+              "tag": "macOS"
+            },
+            {
+              "end": 501,
+              "start": 496,
+              "tag": "开源项目"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "github.com/govijr/termina…",
+              "end": 525,
+              "expanded_url": "https://github.com/govijr/terminal-mac",
+              "start": 502,
+              "url": "https://t.co/SBTvmA3omE"
+            }
+          ]
+        },
+        "text": "## 这个开源项目，让 AI Agent 拥有一台自己的 Mac 电脑\n\nterminal-mac 用苹果 Virtualization 框架，在 Apple Silicon Mac 上启动一台真实的 macOS 虚拟机，给 Agent 独立桌面和文件系统。主机和虚拟机之间只共享两个目录：一个传控制指令的 JSON 文件，一个放只读辅助工具，主目录、项目文件夹、剪贴板、麦克风、摄像头都不共享。\n\n虚拟机画面通过 Kitty 图形协议或 iTerm2 内联图像协议渲染在终端面板里，Agent 的命令、日志、截图和桌面同屏可见。只有屏幕内容变化时才传输，压缩像素走共享内存，桌面静止时几乎零开销，关掉查看窗口 15 秒后虚拟机的录屏自动停止。\n\n内置 MCP 服务器支持截图、点击、拖拽、滚动、输入、按键，Claude Code 可一键装插件，Cursor、VS Code、Codex、Windsurf 通过 MCP 配置接入。\n\n项目发布不到一周，X 上的发布帖 70 万次浏览、8000 个书签，GitHub 2600 多 star，MIT 许可证。\n\n#AIAgent #macOS #开源项目\nhttps://t.co/SBTvmA3omE"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 178,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 5,
+        "retweet_count": 0
+      },
+      "text": "## 这个开源项目，让 AI Agent 拥有一台自己的 Mac 电脑\n\nterminal-mac 用苹果 Virtualization 框架，在 Apple Silicon Mac 上启动一台真实的 macOS 虚拟机，给 Agent 独立桌面和文件系统。主机和虚拟机之间只共享两个目录：一个传控制指令的 JSON",
+      "url": "https://x.com/shuizhuyu/status/2122473421800153373"
+    },
+    {
+      "author_id": "2052903536586108928",
+      "conversation_id": "2122472118860599689",
+      "created_at": "2026-11-16T23:29:21.000Z",
+      "edit_history_tweet_ids": [
+        "2122472118860599689"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 82,
+            "start": 77,
+            "tag": "AI资讯"
+          },
+          {
+            "end": 92,
+            "start": 83,
+            "tag": "DeepSeek"
+          },
+          {
+            "end": 98,
+            "start": 93,
+            "tag": "人工智能"
+          },
+          {
+            "end": 104,
+            "start": 99,
+            "tag": "AI工具"
+          },
+          {
+            "end": 109,
+            "start": 105,
+            "tag": "智能体"
+          },
+          {
+            "end": 115,
+            "start": 110,
+            "tag": "AI教程"
+          },
+          {
+            "end": 121,
+            "start": 116,
+            "tag": "科技资讯"
+          }
+        ]
+      },
+      "id": "2122472118860599689",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "DeepSeek这次直接把搜索、网页抓取、OCR、ASR、TTS打包开放了。做AI应用、智能体、工作流的，成本和接入难度又要降一截。你最想先拿它做个啥？\n#AI资讯 #DeepSeek #人工智能 #AI工具 #智能体 #AI教程 #科技资讯",
+      "url": "https://x.com/Xiaoyiaizhan/status/2122472118860599689"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122471065326895104"
+        ]
+      },
+      "author_id": "1514641399043424258",
+      "conversation_id": "2122471079637914030",
+      "created_at": "2026-11-16T23:25:13.000Z",
+      "edit_history_tweet_ids": [
+        "2122471079637914030"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/L0cbghW0W4",
+            "end": 193,
+            "expanded_url": "https://x.com/KOF97AI/status/2122471079637914030/photo/1",
+            "media_key": "3_2122471065326895104",
+            "start": 170,
+            "url": "https://t.co/L0cbghW0W4"
+          }
+        ]
+      },
+      "id": "2122471079637914030",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "hashtags": [
+            {
+              "end": 591,
+              "start": 586,
+              "tag": "开源项目"
+            },
+            {
+              "end": 603,
+              "start": 592,
+              "tag": "Cloudflare"
+            },
+            {
+              "end": 609,
+              "start": 604,
+              "tag": "AI工具"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 525,
+              "id": "1720665183188922368",
+              "start": 520,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "de5.net",
+              "end": 320,
+              "expanded_url": "http://de5.net",
+              "start": 297,
+              "url": "https://t.co/wREyFmenUR"
+            },
+            {
+              "display_url": "us.ci",
+              "end": 346,
+              "expanded_url": "http://us.ci",
+              "start": 323,
+              "url": "https://t.co/jmuZlqPdlI"
+            },
+            {
+              "display_url": "cc.cd",
+              "end": 372,
+              "expanded_url": "http://cc.cd",
+              "start": 349,
+              "url": "https://t.co/0Z4gpe8rd9"
+            },
+            {
+              "display_url": "ccwu.cc",
+              "end": 398,
+              "expanded_url": "http://ccwu.cc",
+              "start": 375,
+              "url": "https://t.co/Bm5HfWR78V"
+            },
+            {
+              "display_url": "github.com/maillab/cloud-…",
+              "end": 482,
+              "expanded_url": "https://github.com/maillab/cloud-mail",
+              "start": 459,
+              "url": "https://t.co/GvgyE6VtVi"
+            },
+            {
+              "display_url": "my.dnshe.com",
+              "end": 513,
+              "expanded_url": "https://my.dnshe.com",
+              "start": 490,
+              "url": "https://t.co/S5Svvv9Bk7"
+            }
+          ]
+        },
+        "text": "只靠一个免费域名就能在 Cloudflare 上开出无限个邮箱小号\n\n平时注册各种 AI 工具、测试新模型或者分账户管理订阅时，个人主力邮箱很快就不够用，买企业邮箱又得按人头交钱。开源项目 Cloud Mail 把整套邮箱收发平台直接跑在 Cloudflare Workers 上，MIT 协议开源，目前在 GitHub 已经拿到 1.6 万颗星。\n\n只要手头有一个域名和一个 Cloudflare 账号，部署完就能在后台随手建无数个不同前缀的邮箱地址，所有邮件集中在同一个收件箱里统一收看。如果暂时没有付费域名，可以先去免费二级域名平台 DNSHE 注册，新账号能领 5 个免费域名，其中 `https://t.co/wREyFmenUR`、`https://t.co/jmuZlqPdlI`、`https://t.co/0Z4gpe8rd9`、`https://t.co/Bm5HfWR78V` 这四个后缀实测都能直接配合项目托管解析，把部署仓库链接和自己的域名扔给 AI Agent 就能自动跑通。\n\n开源仓库：https://t.co/GvgyE6VtVi\n免费域名入口：https://t.co/S5Svvv9Bk7\n\n你怎么看？@grok 用 Cloudflare Workers 自建无限别名邮箱来隔离不同 AI 账号，和主流邮箱的加号别名比哪个更抗风控？\n#开源项目 #Cloudflare #AI工具"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 126,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 5,
+        "retweet_count": 0
+      },
+      "text": "只靠一个免费域名就能在 Cloudflare 上开出无限个邮箱小号\n\n平时注册各种 AI 工具、测试新模型或者分账户管理订阅时，个人主力邮箱很快就不够用，买企业邮箱又得按人头交钱。开源项目 Cloud Mail 把整套邮箱收发平台直接跑在 Cloudflare Workers 上，MIT 协议开源，目前在 GitHub 已经拿到 1.6 https://t.co/L0cbghW0W4",
+      "url": "https://x.com/KOF97AI/status/2122471079637914030"
+    },
+    {
+      "author_id": "2009920275002048512",
+      "conversation_id": "2122470951636140525",
+      "created_at": "2026-11-16T23:24:43.000Z",
+      "edit_history_tweet_ids": [
+        "2122470951636140525"
+      ],
+      "id": "2122470951636140525",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "🔥 AI 编程重度用户注意！Google Antigravity Ultra 20X 来了！\n\n如果你每天都在用 AI 写代码、调试项目、跑 Agent 工作流，那 Google AI Ultra 20X 这个档位确实值得了解一下。\n\n它不是普通的 Gemini 会员，而是 Google AI 订阅体系里的顶级方案之一。\n\n🚀 Google Antigravity\n\nAI Agent 自主编写和修改代码\n辅助调试、测试和项目迭代\n执行多步骤开发任务\n支持复杂项目和多 Agent 工作流\n\n🧠 Gemini AI 生态\n\n更高等级的 Gemini 模型使用额度\nDeep Research 深度研究\nAI 图片、视频创作能力\nGoogle 旗下多种 AI 工具和服务\n\n💎 Ultra 20X 有什么优势？\n\n相比 Google AI Pro，Ultra 20X 在 Gemini 和 Antigravity 等场景下拥有最高 20 倍的使用额度上限，同时享有更高优先级和新模型优先体验权益。\n\n对于每天高频使用 AI 编程、经常跑 Agent 的开发者来说，最大的价值就是获得更充足的使用空间，减少额度不够用带来的工作中断。\n\n━━━━━━━━━━━━━━\n\n🔥 Google Antigravity Ultra 20X 成品号\n\n💰 售价：580元\n\n需要了解详情可以加无岸 vx 313959727\n\n高频 AI 编程用户，可以重点关注这个档位。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 81,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "🔥 AI 编程重度用户注意！Google Antigravity Ultra 20X 来了！\n\n如果你每天都在用 AI 写代码、调试项目、跑 Agent 工作流，那 Google AI Ultra 20X 这个档位确实值得了解一下。\n\n它不是普通的 Gemini 会员，而是 Google AI 订阅体系里的顶级方案之一。\n\n🚀 Google Antigravity\n\nAI Agent",
+      "url": "https://x.com/wuan2026/status/2122470951636140525"
+    },
+    {
+      "author_id": "1998625138548649984",
+      "conversation_id": "2122470504145842544",
+      "created_at": "2026-11-16T23:22:56.000Z",
+      "edit_history_tweet_ids": [
+        "2122470504145842544"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 131,
+            "start": 128,
+            "tag": "AI"
+          },
+          {
+            "end": 135,
+            "start": 132,
+            "tag": "科技"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/rauchg/status/…",
+            "end": 159,
+            "expanded_url": "https://x.com/rauchg/status/2122415506451841215",
+            "start": 136,
+            "url": "https://t.co/nlLZYjYJH1"
+          }
+        ]
+      },
+      "id": "2122470504145842544",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122415506451841215",
+          "type": "quoted"
+        }
+      ],
+      "text": "Vercel 讨论了面向 AI 智能体的产品评测：观察智能体如何使用产品，在发布前测试变化，并比较不同模型的表现。\n\n我的看法：当用户从人扩展到智能体，易用性不能只看界面是否顺手，还要看工具接口是否清晰、失败是否可恢复，以及模型更换后流程能否稳定运行。\n\n#AI #科技 https://t.co/nlLZYjYJH1",
+      "url": "https://x.com/RyanJ_KOL/status/2122470504145842544"
+    },
+    {
+      "author_id": "2071507255976210433",
+      "conversation_id": "2122470479751741569",
+      "created_at": "2026-11-16T23:22:50.000Z",
+      "edit_history_tweet_ids": [
+        "2122470479751741569"
+      ],
+      "id": "2122470479751741569",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/anthropics/cla…",
+              "end": 333,
+              "expanded_url": "https://github.com/anthropics/claude-quickstarts",
+              "start": 310,
+              "url": "https://t.co/CyXGk6HECl"
+            }
+          ]
+        },
+        "text": "想用 Claude 开发自己的 AI 应用？🤖\n\n最近在 GitHub 发现一个挺实用的官方项目：Claude Quickstarts。\n\n它不是单纯的教程，而是一套可以直接参考和运行的 AI 项目代码。\n\n里面有 AI 客服、金融数据分析、浏览器自动化、电脑操作、自动编程 Agent 等案例。\n\n比如让 Claude 自动操作网页、分析财务数据，或者开发一个能持续完成任务的编程助手。\n\n每个案例都有对应的代码和部署说明，不用完全从零开始。\n\n项目免费开源，不过运行时需要 Claude API Key，调用模型可能产生费用。\n\n想研究 AI Agent 和自动化开发的朋友，可以收藏慢慢折腾！💻\n\nGitHub：\nhttps://t.co/CyXGk6HECl"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 52,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "text": "想用 Claude 开发自己的 AI 应用？🤖\n\n最近在 GitHub 发现一个挺实用的官方项目：Claude Quickstarts。\n\n它不是单纯的教程，而是一套可以直接参考和运行的 AI 项目代码。\n\n里面有 AI 客服、金融数据分析、浏览器自动化、电脑操作、自动编程 Agent 等案例。\n\n比如让 Claude",
+      "url": "https://x.com/iMicodex/status/2122470479751741569"
+    },
+    {
+      "author_id": "2119336726967865344",
+      "conversation_id": "2122470317528613300",
+      "created_at": "2026-11-16T23:22:11.000Z",
+      "edit_history_tweet_ids": [
+        "2122470317528613300"
+      ],
+      "id": "2122470317528613300",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/microsoft/flin…",
+              "end": 369,
+              "expanded_url": "https://github.com/microsoft/flint-chart",
+              "start": 346,
+              "url": "https://t.co/GZLdvCvs6p"
+            }
+          ]
+        },
+        "text": "周报要交了，图还没画好？先别急着手写代码\n\n你是不是也这样：让 AI 画张图，它给你一段代码，你还得自己去调库、调样式，调完还不一定好看\n\n我看的是微软开源的 Flint，一个给 AI 时代准备的可视化语言\n\n1️⃣ 一份简单的人类可读 spec，就能出好看还能交互的图\n2️⃣ Vega-Lite、ECharts、Chart.js、Plotly、Excel 原生图表，一套写法全覆盖\n3️⃣ 14 套主题加 23 个交互预设，联动、缩放这些花活不用手写\n4️⃣ 有 MCP 服务器，智能体直接调；也有 npm 库，能嵌进自己的应用\n\n天天要给老板、客户出图的打工人可以试试；但它 1.0 是今年 10 月才出的，生态还小，中文资料也不多；图好不好看，最后还是看 spec 写得细不细\n\n🔗 https://t.co/GZLdvCvs6p"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "周报要交了，图还没画好？先别急着手写代码\n\n你是不是也这样：让 AI 画张图，它给你一段代码，你还得自己去调库、调样式，调完还不一定好看\n\n我看的是微软开源的 Flint，一个给 AI 时代准备的可视化语言\n\n1️⃣ 一份简单的人类可读 spec，就能出好看还能交互的图\n2️⃣",
+      "url": "https://x.com/hancangcang88/status/2122470317528613300"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122470136817045504"
+        ]
+      },
+      "author_id": "2069079911135158272",
+      "conversation_id": "2122470261895442927",
+      "created_at": "2026-11-16T23:21:58.000Z",
+      "edit_history_tweet_ids": [
+        "2122470261895442927"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 154,
+            "start": 151,
+            "tag": "开源"
+          },
+          {
+            "end": 159,
+            "start": 155,
+            "tag": "CAD"
+          },
+          {
+            "end": 163,
+            "start": 160,
+            "tag": "AI"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Sketch, constrain, and build editable parts with SolidCraft. Open-source parametric CAD for desktop and browser, with optional MCP agent workflows.",
+            "display_url": "solidcraft.io",
+            "end": 67,
+            "expanded_url": "https://solidcraft.io",
+            "images": [
+              {
+                "height": 641,
+                "url": "https://pbs.twimg.com/news_img/2122394862557569024/SWQh-OTx?format=png&name=orig",
+                "width": 1281
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2122394862557569024/SWQh-OTx?format=png&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 44,
+            "status": 200,
+            "title": "SolidCraft: free, open-source parametric 3D CAD",
+            "unwound_url": "https://solidcraft.io",
+            "url": "https://t.co/4n52MVtsSa"
+          },
+          {
+            "display_url": "pic.x.com/zKk6j1NETj",
+            "end": 187,
+            "expanded_url": "https://x.com/alistyun1x/status/2122470261895442927/photo/1",
+            "media_key": "3_2122470136817045504",
+            "start": 164,
+            "url": "https://t.co/zKk6j1NETj"
+          }
+        ]
+      },
+      "id": "2122470261895442927",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 30,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "SolidWorks 一年几万块？这开源 CAD 免费，还能让 AI 替你画图。\n1. https://t.co/4n52MVtsSa，浏览器版免安装直接试\n2. 尺寸全是数字参数，改数模型自动重算\n3. 内置 MCP，接 AI agent 说句话就能建模\n坑点：5 周狂更 81 版，先当副手练手。\n#开源 #CAD #AI https://t.co/zKk6j1NETj",
+      "url": "https://x.com/alistyun1x/status/2122470261895442927"
+    },
+    {
+      "author_id": "3321002460",
+      "conversation_id": "2122467274397536281",
+      "created_at": "2026-11-16T23:10:06.000Z",
+      "edit_history_tweet_ids": [
+        "2122467274397536281"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 124,
+            "id": "2024518793679294464",
+            "start": 113,
+            "username": "ClaudeDevs"
+          }
+        ]
+      },
+      "id": "2122467274397536281",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 124,
+              "id": "2024518793679294464",
+              "start": 113,
+              "username": "ClaudeDevs"
+            }
+          ]
+        },
+        "text": "Claude Code 今天说能帮你把 App 适配苹果折叠屏 iPhone Duo，可扫布局问题的那个 skill 是苹果自己写的，苹果原文还说它“能找出大部分问题，但不是全部”【搬运拆解】\n\nAnthropic 开发者号 @ClaudeDevs 今早 05:18 发帖（16 万浏览）：「Claude Code on desktop now supports iPhone Duo in the iOS simulator (public beta)」。Claude 能在对话旁边跑你的 App，自己把设备折起、展开，挨个检查每种布局。\n\n对着两边原文看：\n- 适配现有 App：Claude Code 会提议装苹果的 App Resizability skill，扫项目里的布局问题、给修改建议；你同意的它才改，改完在 Duo 模拟器上验\n- 这个 skill 是苹果出的。苹果开发者页写：在 Xcode 里对编程助手说 get my app ready for iPhone Duo 就能跑；用别的编程智能体，在终端运行 xcrun agent skills export 导出\n- 苹果原话：「The skill finds most issues, but not all of them」，后面附了一张手动检查清单\n- 条件：Claude Code 桌面版、macOS、Xcode 27.1 或更新\n- 用终端的：Xcode 插件已进 Claude Code 官方插件市场，/plugin install xcode@claude-plugins-official\n\n苹果清单里几条：\n- 别用 UIScreen.main.bounds 算尺寸，一折叠 App 大小就变，要从 view 或 window 取\n- 别靠设备方向判断布局，Duo 上方向说明不了 App 是什么形状\n- 别把 regular 宽度当成 iPad，iPhone 上现在也会出现\n- 写死的机型尺寸判断（比如 bounds.height == 844）对不上 Duo\n\n用 iOS 26 SDK 或更早编的 App，在 Duo 展开时只显示在屏幕中间、四周留白；用 iOS 27.1 SDK 编的才会铺满整屏。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 149,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "text": "Claude Code 今天说能帮你把 App 适配苹果折叠屏 iPhone Duo，可扫布局问题的那个 skill 是苹果自己写的，苹果原文还说它“能找出大部分问题，但不是全部”【搬运拆解】\n\nAnthropic 开发者号 @ClaudeDevs 今早 05:18 发帖（16 万浏览）：「Claude Code on desktop now supports iPhone Duo in the iOS",
+      "url": "https://x.com/lzuren2001/status/2122467274397536281"
+    },
+    {
+      "author_id": "1670374202812305409",
+      "conversation_id": "2122466944192549168",
+      "created_at": "2026-11-16T23:08:47.000Z",
+      "edit_history_tweet_ids": [
+        "2122466944192549168"
+      ],
+      "id": "2122466944192549168",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "hashtags": [
+            {
+              "end": 1347,
+              "start": 1344,
+              "tag": "AI"
+            },
+            {
+              "end": 1353,
+              "start": 1348,
+              "tag": "人工智能"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "openai.com/index/expandin…",
+              "end": 232,
+              "expanded_url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers/",
+              "start": 209,
+              "url": "https://t.co/xWEbKpqdna"
+            },
+            {
+              "display_url": "alibabacloud.com/en/press-room/…",
+              "end": 461,
+              "expanded_url": "https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max",
+              "start": 438,
+              "url": "https://t.co/CusTdxCwcB"
+            },
+            {
+              "display_url": "tencent.com/zh-cn/tencent-…",
+              "end": 681,
+              "expanded_url": "https://www.tencent.com/zh-cn/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows/",
+              "start": 658,
+              "url": "https://t.co/pyCgBsYitE"
+            },
+            {
+              "display_url": "huggingface.co/blog/openrouter",
+              "end": 907,
+              "expanded_url": "https://huggingface.co/blog/openrouter",
+              "start": 884,
+              "url": "https://t.co/oksYvzLuJM"
+            },
+            {
+              "display_url": "nvidianews.nvidia.com/news/nvidia-in…",
+              "end": 1142,
+              "expanded_url": "https://nvidianews.nvidia.com/news/nvidia-introduces-nemotron-for-science-to-accelerate-discoveries-with-agents",
+              "start": 1119,
+              "url": "https://t.co/YXVsl6Behu"
+            },
+            {
+              "display_url": "openai.com/index/our-firs…",
+              "end": 1342,
+              "expanded_url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+              "start": 1319,
+              "url": "https://t.co/69Hg4hCgO1"
+            }
+          ]
+        },
+        "text": "今日AI早报 · 文字版\n\n【01】OpenAI：扩大面向科研人员的 ChatGPT 计划\n· 官方 11/16 宣布，计划目标扩大到全球最多 20 万名科研人员免费使用 ChatGPT；试点以来已有 2 万人、覆盖 33 个国家加入\n· 11/23 起按先到先得发放 5 万份新名额，每份覆盖本人及最多两名合作者，免费使用 Plus；同期调研中，1,800 多名受访科研人员估计，没有 AI 时同样工作耗时接近两倍\nhttps://t.co/xWEbKpqdna\n\n【02】阿里巴巴：正式发布旗舰模型 Qwen4-Max\n· 官方称总参数 2.4 万亿、每次激活 710 亿，支持原生视觉和 100 万 token 上下文；内部评测 Work360 称平均单任务成本较 Qwen3.8-Max 约降 60%\n· 已在 QwenCloud 通过 Token Plan 和 API 提供；11/11 曾上线仅 Token Plan 的预览版，今日主条只记正式版与 API 上线\nhttps://t.co/CusTdxCwcB\n\n【03】腾讯：发布混元 Hy4 flash\n· 总参数 2240 亿、激活约 120 亿，支持多模态和 100 万上下文；API 每百万 token 输入 0.5 元、输出 2 元，命中缓存 0.02 元\n· 内部评测称单任务成本约为 Hy4 的 1/20；已上线 TokenHub、WorkBuddy 等，11/30 前 WorkBuddy 限时免费、TokenHub API 限时五折\nhttps://t.co/pyCgBsYitE\n\n【04】Hugging Face：与 OpenRouter 合作，语言模型请求改由对方路由\n· 官方 11/16 宣布，Inference Providers 中的语言模型请求改走 OpenRouter，按价格、速度和稳定性选供应商，失败会在同一次调用里重试\n· 博客援引数据称，开放权重模型占比在 2026 年 9 月底达到 71.7%；自定义供应商密钥对语言模型不再可用，图像和视频生成仍走原通路\nhttps://t.co/oksYvzLuJM\n\n【05】NVIDIA：推出 Nemotron for Science 科学智能体套件\n· 官方把已发布的 Nemotron 3.5 Super VL、近 5 万道化学题的 LitmusBench v0.2，以及后训练配方打包，帮助构建科学智能体；这不是新的基础模型发布\n· 合作方称，后训练后制备量子点准确率至 61%；模型与数据集已在 Hugging Face 上线。Super VL 本身已在 10/16 早报主推\nhttps://t.co/YXVsl6Behu\n\n【06】OpenAI：启动第一阶段内嵌式独立评估\n· 官方 11/16 宣布，已与 Apollo Research、METR、Transluce 和 Goodfire 签约，评估人员可获得检查点、源代码、训练与评估数据等内部访问\n· 评估覆盖潜在的隐蔽违背、训练监控、最大强化学习训练中的对齐，以及训练后对齐评测；这是启动公告，文中没有已完成的结论\nhttps://t.co/69Hg4hCgO1\n\n#AI #人工智能"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 175,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "text": "今日AI早报 · 文字版\n\n【01】OpenAI：扩大面向科研人员的 ChatGPT 计划\n· 官方 11/16 宣布，计划目标扩大到全球最多 20 万名科研人员免费使用 ChatGPT；试点以来已有 2 万人、覆盖 33 个国家加入\n· 11/23 起按先到先得发放 5 万份新名额，每份覆盖本人及最多两名合作者，免费使用",
+      "url": "https://x.com/YuGuo936066/status/2122466944192549168"
+    },
+    {
+      "author_id": "1769051162169561089",
+      "conversation_id": "2122466067595591871",
+      "created_at": "2026-11-16T23:05:18.000Z",
+      "edit_history_tweet_ids": [
+        "2122466067595591871"
+      ],
+      "id": "2122466067595591871",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 165,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 0
+      },
+      "text": "一个不受欢迎的观点：AI Agent 现在最大的瓶颈不是智商，是敢不敢让它碰真钱。\n\n能替我点按钮，那是工具。\n能替我付款，那就是另一个人格了。\n\n你会让 AI 帮你付第一笔账吗？",
+      "url": "https://x.com/hajiMVP/status/2122466067595591871"
+    },
+    {
+      "author_id": "2119127302332411905",
+      "conversation_id": "2122465373299859635",
+      "created_at": "2026-11-16T23:02:33.000Z",
+      "edit_history_tweet_ids": [
+        "2122465373299859635"
+      ],
+      "id": "2122465373299859635",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "新模型 Claude Fable 5.2、Mythos 5.2 上线，主打强编码、科研、金融复杂推理；轻量高速版 Haiku 5.5 适合批量摘要、子智能体、浏览器自动化场景Anthropic",
+      "url": "https://x.com/wwe168200/status/2122465373299859635"
+    },
+    {
+      "author_id": "1601773243161284608",
+      "conversation_id": "2122465310414672219",
+      "created_at": "2026-11-16T23:02:18.000Z",
+      "edit_history_tweet_ids": [
+        "2122465310414672219"
+      ],
+      "id": "2122465310414672219",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "hashtags": [
+            {
+              "end": 720,
+              "start": 716,
+              "tag": "X直聘"
+            }
+          ]
+        },
+        "text": "来帮合作团队招人🙋‍♂️\n\nVAST（tripo）招人｜3D Agent算法方向\n\n职位描述\n1. 研究能够理解三维结构、进行空间推理并执行复杂创作任务的智能模型与 Agent，推进三维内容的生成、编辑与交互。\n2. 探索大语言模型、三维生成模型与专业创作工具的协同方法，结合模型学习、后训练与交互反馈，提升模型的三维能力，以及 Agent 在多步骤任务中的规划、执行与自我修正能力。\n3. 围绕真实三维创作流程，构建任务、数据与评测体系，完成高质量的研究原型，推动方法在质量、效率和可靠性上的实质进步。\n职位要求\n1. 在大语言模型或多模态模型、Agent 学习与推理、代码生成与工具使用、三维生成等至少一个方向有深入的研究与实践经验。\n2. 扎实的机器学习基础，能够从开放问题中提出清晰的研究假设，设计有效的实验与评测，并对结果形成独立判断。\n3. 能够独立构建和迭代研究系统，贯通模型、工具与执行环境；能从失败案例中定位感知、推理、执行或反馈环节的瓶颈，并通过实验验证改进。\n4. 对智能体与三维创作有浓厚兴趣，自驱力强，能够与团队共同推进有不确定性的研究，并对最终效果负责。\n加分项\n- 有 Computer Use Agent 或视觉交互 Agent 的项目经验，尤其是操作专业软件、完成长程任务，并根据执行反馈修正行为的经验。\n- 熟悉三维生成、CAD、程序化建模，具有 Blender 等 DCC 软件、CAD 软件或图形引擎的使用与开发经验。\n- 在模型后训练、交互式任务环境、数据构建、评测或奖励设计方面有实践经验。\n\n投递邮件里请写上自己的微信号，方便联系。\n投递邮箱：hiring@aimanziyi.vip\n#X直聘"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 37,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "来帮合作团队招人🙋‍♂️\n\nVAST（tripo）招人｜3D Agent算法方向\n\n职位描述\n1. 研究能够理解三维结构、进行空间推理并执行复杂创作任务的智能模型与 Agent，推进三维内容的生成、编辑与交互。\n2.",
+      "url": "https://x.com/jingchngch1/status/2122465310414672219"
+    },
+    {
+      "author_id": "2120949782739058688",
+      "conversation_id": "2122463784883441839",
+      "created_at": "2026-11-16T22:56:14.000Z",
+      "edit_history_tweet_ids": [
+        "2122463784883441839"
+      ],
+      "id": "2122463784883441839",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Windows 用户想试 AI Agent，别一上来就折腾完整多 Agent 系统。\n\n第一步：装一个能正常登录的 Codex 或 Claude Code。\n第二步：准备独立项目目录和真实资料。\n第三步：让它交出一份可以审核的成品。\n\n做到这三步，再决定要不要上 Herdr。",
+      "url": "https://x.com/Rowan96AI/status/2122463784883441839"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122462718154186753"
+        ]
+      },
+      "author_id": "104063846",
+      "conversation_id": "2122463066415894654",
+      "created_at": "2026-11-16T22:53:23.000Z",
+      "edit_history_tweet_ids": [
+        "2122463066415894654"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/HJmpwE9h2o",
+            "end": 206,
+            "expanded_url": "https://x.com/slashui/status/2122463066415894654/photo/1",
+            "media_key": "3_2122462718154186753",
+            "start": 183,
+            "url": "https://t.co/HJmpwE9h2o"
+          }
+        ]
+      },
+      "id": "2122463066415894654",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "hntrends.com/2026/november.…",
+              "end": 511,
+              "expanded_url": "https://www.hntrends.com/2026/november.html",
+              "start": 488,
+              "url": "https://t.co/UeiD8NCJqU"
+            }
+          ]
+        },
+        "text": "招聘帖少了 37%，但超过一半的招聘都提到了 AI。\n\n截至 11 月 14 日，Hacker News 的「谁在招人？」月帖只有 244 条招聘信息，去年同期是 387 条。是 2013 年以来最低。\n\n① AI 从 30% 涨到 51.6%。 更值得看的是企业在用什么词招人。AI Agent 的提及率已经超过 LLM（14.8% vs. 10.7%），MCP 则从一年前的 0.3% 涨到了 4.5%。\n\n② 前端是跌得最狠的岗位。 按三个月均值算，从 2022 年初的 27% 降到了现在的 6.6%。全栈和后端也在降，但没这么陡。\n\n③ Python、TypeScript 还是前两名，Rust 升到了第三。 过去五个月里，Rust 有四个月排在 Go 前面。\n\n④ 远程没怎么变，初级岗位还是少。 55.7% 的招聘帖提到远程，和去年同期差不多。Junior 则一直在 3% 左右。\n\n作为一个做过前端的人，我最在意的其实是第二条。前端的活当然还在，但「公司需要做前端」和「公司会专门招一个前端」，是两回事。\n\n这不是整个科技就业市场，只是 HN 的招聘样本。\n\nhttps://t.co/UeiD8NCJqU"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 194,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "text": "招聘帖少了 37%，但超过一半的招聘都提到了 AI。\n\n截至 11 月 14 日，Hacker News 的「谁在招人？」月帖只有 244 条招聘信息，去年同期是 387 条。是 2013 年以来最低。\n\n① AI 从 30% 涨到 51.6%。 更值得看的是企业在用什么词招人。AI Agent 的提及率已经超过 LLM（14.8% vs. 10.7%），MCP https://t.co/HJmpwE9h2o",
+      "url": "https://x.com/slashui/status/2122463066415894654"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1049,
+        "media_key": "3_2122481793811263488",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSR8jJasAAvc_R.jpg",
+        "width": 1865
+      },
+      {
+        "height": 819,
+        "media_key": "3_2122480425952223232",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSQs7eaIAAtz8g.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2259,
+        "media_key": "3_2121940098073939968",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXKlRtRa0AA5OSR.jpg",
+        "width": 1951
+      },
+      {
+        "height": 882,
+        "media_key": "3_2121940114066817024",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXKlSo2awAAY3Q9.png",
+        "width": 1949
+      },
+      {
+        "height": 1963,
+        "media_key": "3_2121940122438606848",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXKlTICaIAAc-Cg.jpg",
+        "width": 1952
+      },
+      {
+        "height": 1137,
+        "media_key": "3_2121940137127149569",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXKlT-wbgAEDPn-.png",
+        "width": 1947
+      },
+      {
+        "height": 900,
+        "media_key": "3_2122478242749722625",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSOt2aXsAE7vBL.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1258,
+        "media_key": "3_2122476901209907200",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSNfwyWoAA710I.jpg",
+        "width": 1495
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2122476241181933568",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSM5V_bAAA4xYQ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 900,
+        "media_key": "3_2122471065326895104",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSIMEbawAApIQo.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2122470136817045504",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSHWBda0AAwKLB.jpg",
+        "width": 2048
+      },
+      {
+        "height": 297,
+        "media_key": "3_2122462718154186753",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSAmMyXIAErpOq.png",
+        "width": 967
+      }
+    ],
+    "tweets": [
+      {
+        "author_id": "800854096219471872",
+        "conversation_id": "2122392225908924604",
+        "created_at": "2026-11-16T18:11:53.000Z",
+        "edit_history_tweet_ids": [
+          "2122392225908924604"
+        ],
+        "id": "2122392225908924604",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "developers.databricks.com/ai-index",
+                "end": 514,
+                "expanded_url": "https://developers.databricks.com/ai-index",
+                "start": 491,
+                "url": "https://t.co/IJSJTQPQBT"
+              }
+            ]
+          },
+          "text": "Today we’re launching Databricks AI Index, based on data from 10,000+ enterprises using our Unity Gateway.\n\nKey findings:\n- OSS models are gaining serious market share. Their token share jumped from 7.3% to 30.9% in just 3.5 months, more than 4X.\n- Enterprises are going multi-model. Since July, 71% of active enterprises have used 2+ model providers, and ~31% have used 4+.\n\nThe big shift: Enterprises are no longer betting on a single AI lab or model to win.\n\nDatabricks AI Index website:\nhttps://t.co/IJSJTQPQBT"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 8227,
+          "like_count": 159,
+          "quote_count": 2,
+          "reply_count": 31,
+          "retweet_count": 13
+        },
+        "text": "Today we’re launching Databricks AI Index, based on data from 10,000+ enterprises using our Unity Gateway.\n\nKey findings:\n- OSS models are gaining serious market share. Their token share jumped from 7.3% to 30.9% in just 3.5 months, more than 4X.\n- Enterprises are going"
+      },
+      {
+        "author_id": "15540222",
+        "conversation_id": "2122415506451841215",
+        "created_at": "2026-11-16T19:44:23.000Z",
+        "edit_history_tweet_ids": [
+          "2122415506451841215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vercel/status/…",
+              "end": 247,
+              "expanded_url": "https://twitter.com/vercel/status/2122397118426181962",
+              "start": 224,
+              "url": "https://t.co/zkre5Qbohe"
+            }
+          ]
+        },
+        "id": "2122415506451841215",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 211,
+          "impression_count": 21504,
+          "like_count": 389,
+          "quote_count": 8,
+          "reply_count": 73,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122397118426181962",
+            "type": "quoted"
+          }
+        ],
+        "text": "The old way: users are human, you run user interviews, get inspired, mock up user journeys.\n\nThe new way: users are agents, you run evals, evals inform the software engineering loop.\n\nGood read on how we do evals at Vercel. https://t.co/zkre5Qbohe"
+      }
+    ],
+    "users": [
+      {
+        "id": "1664253404607287297",
+        "name": "versatile",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099333861931139072/WMJ5CQtR_normal.jpg",
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 115,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 615,
+          "tweet_count": 1158
+        },
+        "username": "SyrianVeterans",
+        "verified": false
+      },
+      {
+        "id": "1365714172063875076",
+        "name": "Seven | 洞穴之外",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2121821692691648512/qUBuulhy_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3176,
+          "following_count": 5564,
+          "like_count": 34307,
+          "listed_count": 6,
+          "media_count": 182,
+          "tweet_count": 5814
+        },
+        "username": "0v0_sevenlee",
+        "verified": false
+      },
+      {
+        "id": "1486017329662423044",
+        "name": "lifcc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034239213487681536/2gjQXlXx_normal.jpg",
+        "public_metrics": {
+          "followers_count": 20154,
+          "following_count": 355,
+          "like_count": 9731,
+          "listed_count": 136,
+          "media_count": 2613,
+          "tweet_count": 25620
+        },
+        "username": "mylifcc",
+        "verified": false
+      },
+      {
+        "id": "1814498210079297536",
+        "name": "AI 百球哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110685111863881728/OXu8E6yp_normal.jpg",
+        "public_metrics": {
+          "followers_count": 4153,
+          "following_count": 5680,
+          "like_count": 2139,
+          "listed_count": 2,
+          "media_count": 536,
+          "tweet_count": 4545
+        },
+        "username": "kedaya",
+        "verified": false
+      },
+      {
+        "id": "1988851885118484480",
+        "name": "太阳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106286321191006208/dejbazHF_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3723,
+          "following_count": 3468,
+          "like_count": 4231,
+          "listed_count": 6,
+          "media_count": 33,
+          "tweet_count": 24287
+        },
+        "username": "taiyanghere",
+        "verified": false
+      },
+      {
+        "id": "1810525099331915777",
+        "name": "悟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845950979382099968/ZZnjonrQ_normal.jpg",
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 125,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 748
+        },
+        "username": "cooper_cin21979",
+        "verified": false
+      },
+      {
+        "id": "733890306223919104",
+        "name": "Fellix 玩转AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2111306668231573504/7WLIbtKK_normal.jpg",
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 91,
+          "like_count": 561,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 132
+        },
+        "username": "xxxdemo9",
+        "verified": false
+      },
+      {
+        "id": "2270216304",
+        "name": "rainmeter",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/417973246974103552/cJM2wHcX_normal.jpeg",
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 204,
+          "like_count": 17,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 31
+        },
+        "username": "RainmeterSjtu",
+        "verified": false
+      },
+      {
+        "id": "2002248318857195525",
+        "name": "昕盛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101142170384351232/Kgo7V52B_normal.jpg",
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 76,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 127
+        },
+        "username": "miaowang511178",
+        "verified": false
+      },
+      {
+        "id": "2048737679496671232",
+        "name": "Ben",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048785338357923840/qsoBVPcB_normal.jpg",
+        "public_metrics": {
+          "followers_count": 6934,
+          "following_count": 6680,
+          "like_count": 709,
+          "listed_count": 8,
+          "media_count": 475,
+          "tweet_count": 3105
+        },
+        "username": "Bengz168",
+        "verified": false
+      },
+      {
+        "id": "45582017",
+        "name": "Crio Songo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/538351563392049153/unFs4z-1_normal.jpeg",
+        "public_metrics": {
+          "followers_count": 5774,
+          "following_count": 4760,
+          "like_count": 11195,
+          "listed_count": 12,
+          "media_count": 135,
+          "tweet_count": 73227
+        },
+        "username": "shuizhuyu",
+        "verified": false
+      },
+      {
+        "id": "2052903536586108928",
+        "name": "小亦（Ai抱抱版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2122273503672254464/g4hgzr8H_normal.jpg",
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 203,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 161
+        },
+        "username": "Xiaoyiaizhan",
+        "verified": false
+      },
+      {
+        "id": "1514641399043424258",
+        "name": "Nathan AI Lab ｜ AI Agent 实战",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2112751656815452160/SlnFGmG-_normal.jpg",
+        "public_metrics": {
+          "followers_count": 11013,
+          "following_count": 9922,
+          "like_count": 3664,
+          "listed_count": 10,
+          "media_count": 2751,
+          "tweet_count": 28345
+        },
+        "username": "KOF97AI",
+        "verified": false
+      },
+      {
+        "id": "2009920275002048512",
+        "name": "无岸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009921730480128000/xm10btSv_normal.jpg",
+        "public_metrics": {
+          "followers_count": 4100,
+          "following_count": 3999,
+          "like_count": 893,
+          "listed_count": 1,
+          "media_count": 365,
+          "tweet_count": 3754
+        },
+        "username": "wuan2026",
+        "verified": false
+      },
+      {
+        "id": "1998625138548649984",
+        "name": "飞叔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079806101235855360/hZSSaH8S_normal.jpg",
+        "public_metrics": {
+          "followers_count": 6780,
+          "following_count": 5929,
+          "like_count": 22020,
+          "listed_count": 3,
+          "media_count": 177,
+          "tweet_count": 18196
+        },
+        "username": "RyanJ_KOL",
+        "verified": false
+      },
+      {
+        "id": "2071507255976210433",
+        "name": "Bro哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071507525707636736/dzj090Kp_normal.jpg",
+        "public_metrics": {
+          "followers_count": 8732,
+          "following_count": 8770,
+          "like_count": 20449,
+          "listed_count": 4,
+          "media_count": 317,
+          "tweet_count": 14177
+        },
+        "username": "iMicodex",
+        "verified": false
+      },
+      {
+        "id": "2119336726967865344",
+        "name": "小鹿佩奇（关必回）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2121825033312227328/diz8c1z8_normal.jpg",
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 316,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 370
+        },
+        "username": "hancangcang88",
+        "verified": false
+      },
+      {
+        "id": "2069079911135158272",
+        "name": "飞身踢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118956593287147520/5hp_p8HD_normal.jpg",
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 153,
+          "like_count": 4,
+          "listed_count": 6,
+          "media_count": 536,
+          "tweet_count": 4458
+        },
+        "username": "alistyun1x",
+        "verified": false
+      },
+      {
+        "id": "3321002460",
+        "name": "Laosun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106230531092627456/YgfakUvg_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1190,
+          "following_count": 1375,
+          "like_count": 940,
+          "listed_count": 3,
+          "media_count": 42,
+          "tweet_count": 4219
+        },
+        "username": "lzuren2001",
+        "verified": false
+      },
+      {
+        "id": "2024518793679294464",
+        "name": "ClaudeDevs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044472418815893504/xf14RxM8_normal.png",
+        "public_metrics": {
+          "followers_count": 827091,
+          "following_count": 2,
+          "like_count": 99,
+          "listed_count": 4524,
+          "media_count": 197,
+          "tweet_count": 592
+        },
+        "username": "ClaudeDevs",
+        "verified": false
+      },
+      {
+        "id": "1670374202812305409",
+        "name": "YuGuo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105835173711372288/kc8Meud1_normal.jpg",
+        "public_metrics": {
+          "followers_count": 10011,
+          "following_count": 10719,
+          "like_count": 2755,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 6601
+        },
+        "username": "YuGuo936066",
+        "verified": false
+      },
+      {
+        "id": "1769051162169561089",
+        "name": "方不休",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110946146118164480/6ckB_sr4_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3382,
+          "following_count": 7500,
+          "like_count": 977,
+          "listed_count": 6,
+          "media_count": 336,
+          "tweet_count": 20516
+        },
+        "username": "hajiMVP",
+        "verified": false
+      },
+      {
+        "id": "2119127302332411905",
+        "name": "云栈 AI Hub",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2121480401361489920/HrSeUd78_normal.jpg",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "wwe168200",
+        "verified": false
+      },
+      {
+        "id": "1601773243161284608",
+        "name": "泛函",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006395640000188416/BGTpUjnO_normal.jpg",
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 364,
+          "like_count": 158,
+          "listed_count": 3,
+          "media_count": 12,
+          "tweet_count": 327
+        },
+        "username": "jingchngch1",
+        "verified": false
+      },
+      {
+        "id": "2120949782739058688",
+        "name": "Rowan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120954848648802304/YnnpXtsP_normal.jpg",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "Rowan96AI",
+        "verified": false
+      },
+      {
+        "id": "104063846",
+        "name": "洛克船长",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772801474118246400/9St_FlfL_normal.jpg",
+        "public_metrics": {
+          "followers_count": 7694,
+          "following_count": 834,
+          "like_count": 11824,
+          "listed_count": 77,
+          "media_count": 1224,
+          "tweet_count": 5653
+        },
+        "username": "slashui",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122481807304319182",
+    "next_token": "b26v89c19zqg8o3juzow6hlyg2wu6qbdiez8ipp909awt",
+    "oldest_id": "2122463066415894654",
+    "result_count": 25
+  }
+}

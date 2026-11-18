@@ -1,0 +1,2159 @@
+{
+  "data": [
+    {
+      "author_id": "2588345408",
+      "conversation_id": "2122480175179088217",
+      "created_at": "2026-11-17T00:01:22.000Z",
+      "edit_history_tweet_ids": [
+        "2122480175179088217"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 132,
+            "id": "1681613391750905856",
+            "start": 121,
+            "username": "nasikolabs"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/nasikolabs/sta…",
+            "end": 303,
+            "expanded_url": "https://twitter.com/nasikolabs/status/2122420182815592736",
+            "start": 280,
+            "url": "https://t.co/KU46ObY3OQ"
+          }
+        ]
+      },
+      "id": "2122480175179088217",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 132,
+              "id": "1681613391750905856",
+              "start": 121,
+              "username": "nasikolabs"
+            }
+          ]
+        },
+        "text": "Most teams run the token race blind, since agent spend lands on separate provider invoices with no per-agent breakdown.\n\n@nasikolabs launched an Open Runtime platform that sits beneath existing AI agents and prices every token they burn.\n\ninstalls with one command and sits under the agents a team already runs, so no SDK goes into anyone’s code.\n\nFrom there it splits spend by team, agent, model and session across every vendor, down to individual MCP tools and runs.\n\nAt 80% of budget, an alert fires. At the limit, the agent pauses."
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1357,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122420182815592736",
+          "type": "quoted"
+        }
+      ],
+      "text": "Most teams run the token race blind, since agent spend lands on separate provider invoices with no per-agent breakdown.\n\n@nasikolabs launched an Open Runtime platform that sits beneath existing AI agents and prices every token they burn.\n\ninstalls with one command and sits under https://t.co/KU46ObY3OQ",
+      "url": "https://x.com/rohanpaul_ai/status/2122480175179088217"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122473860926742528"
+        ]
+      },
+      "author_id": "1743487864934162432",
+      "conversation_id": "2122475355902546307",
+      "created_at": "2026-11-16T23:42:13.000Z",
+      "edit_history_tweet_ids": [
+        "2122475355902546307"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/45dSMOtCke",
+            "end": 293,
+            "expanded_url": "https://x.com/ArtificialAnlys/status/2122475355902546307/photo/1",
+            "media_key": "3_2122473860926742528",
+            "start": 270,
+            "url": "https://t.co/45dSMOtCke"
+          }
+        ]
+      },
+      "id": "2122475355902546307",
+      "lang": "en",
+      "note_tweet": {
+        "text": "In AA-PersonalityBench, Claude Fable 5.2 is more direct than Claude Fable 5.1 and writes notably shorter responses with almost no em dashes\n\nClaude Fable 5.2 ranks higher than Claude Fable 5.1 on Direct and Answer First, but lower on Informativeness and Conviction. Its communication characteristics changed even more than its personality traits, with characteristics moving an average of 38 percentile points."
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 11,
+        "impression_count": 7587,
+        "like_count": 77,
+        "quote_count": 2,
+        "reply_count": 15,
+        "retweet_count": 4
+      },
+      "text": "In AA-PersonalityBench, Claude Fable 5.2 is more direct than Claude Fable 5.1 and writes notably shorter responses with almost no em dashes\n\nClaude Fable 5.2 ranks higher than Claude Fable 5.1 on Direct and Answer First, but lower on Informativeness and Conviction. Its https://t.co/45dSMOtCke",
+      "url": "https://x.com/ArtificialAnlys/status/2122475355902546307"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122461437834784769"
+        ]
+      },
+      "author_id": "2588345408",
+      "conversation_id": "2122466371594580269",
+      "created_at": "2026-11-16T23:06:31.000Z",
+      "edit_history_tweet_ids": [
+        "2122466371594580269"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/n1aNAnbjMr",
+            "end": 302,
+            "expanded_url": "https://x.com/rohanpaul_ai/status/2122466371594580269/photo/1",
+            "media_key": "3_2122461437834784769",
+            "start": 279,
+            "url": "https://t.co/n1aNAnbjMr"
+          }
+        ]
+      },
+      "id": "2122466371594580269",
+      "lang": "en",
+      "note_tweet": {
+        "text": "New UC Berkeley and Microsoft paper cuts coding-agent token costs by 18.4% to 30.9% using an external controller that learns from past runs.\n\nby injecting learned facts, pruning unused tools, and stopping failed loops early.\n\nCoding agents are billed by the token, and each turn resends the growing history, so long projects get expensive. Token efficiency is usually measured on isolated tasks, missing the cost that builds up across a sequence of tasks in the same codebase.\n\nTokenEconomizer sits outside the agent as a black box, changing only prompts and tool settings. From past runs it learns which facts to inject, which unused tools to drop, and when to stop a failing loop.\n\nAcross Claude Code, Codex, and GitHub Copilot CLI on 277 SWE-Bench tasks, it cut mean per-task cost 18.4% to 30.9%. It improved Pass@1 in 4 of 5 agent-model settings, and savings held in every repository.\n\nMeasure agent cost across a whole project, not per task, and use an external controller that adapts to each repo, not fixed plugins."
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 1987,
+        "like_count": 17,
+        "quote_count": 0,
+        "reply_count": 15,
+        "retweet_count": 4
+      },
+      "text": "New UC Berkeley and Microsoft paper cuts coding-agent token costs by 18.4% to 30.9% using an external controller that learns from past runs.\n\nby injecting learned facts, pruning unused tools, and stopping failed loops early.\n\nCoding agents are billed by the token, and each turn https://t.co/n1aNAnbjMr",
+      "url": "https://x.com/rohanpaul_ai/status/2122466371594580269"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122460781572988928"
+        ]
+      },
+      "author_id": "2588345408",
+      "conversation_id": "2122460813239922786",
+      "created_at": "2026-11-16T22:44:25.000Z",
+      "edit_history_tweet_ids": [
+        "2122460813239922786"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/BlFuMZ1MIb",
+            "end": 304,
+            "expanded_url": "https://x.com/rohanpaul_ai/status/2122460813239922786/photo/1",
+            "media_key": "3_2122460781572988928",
+            "start": 281,
+            "url": "https://t.co/BlFuMZ1MIb"
+          }
+        ]
+      },
+      "id": "2122460813239922786",
+      "lang": "en",
+      "note_tweet": {
+        "text": "This survey argues that self-improvement tricks for multimodal agents only carry over to tasks that have what the trick relies on, like checkable answers.\n\nAI agent learn from its own attempts in 1 area, like questions about images, can fail in another, like robotics, where there is nothing to check.\n\nSelf-improving agents now span visual reasoning, image generation, app and web navigation, and robotics, but each method is tested in only 1 setting. Majority voting, for example, scores short visual answers but finds nothing to compare in robot action trajectories.\n\nThe author reviewed methods in the 4 settings and listed each trick's needs, like answers a vote can compare or results a program can check. Each trick then gets a verdict per setting: portable, conditional, blocked, or redundant.\n\nIn 1 cited audit of 500 questions, 24% of kept majority-vote labels were wrong, against 5.6% for program-computed answers. These verdicts are predictions, not results from transfer experiments.\n\nBefore moving a self-improvement trick to a new task, confirm that task offers the check the trick relies on, then test against a same-budget baseline."
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 1759,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 3
+      },
+      "text": "This survey argues that self-improvement tricks for multimodal agents only carry over to tasks that have what the trick relies on, like checkable answers.\n\nAI agent learn from its own attempts in 1 area, like questions about images, can fail in another, like robotics, where there https://t.co/BlFuMZ1MIb",
+      "url": "https://x.com/rohanpaul_ai/status/2122460813239922786"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2122445452532719616"
+        ]
+      },
+      "author_id": "1743487864934162432",
+      "conversation_id": "2122445489736122633",
+      "created_at": "2026-11-16T21:43:32.000Z",
+      "edit_history_tweet_ids": [
+        "2122445489736122633"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/Bv5URtxPF7",
+            "end": 301,
+            "expanded_url": "https://x.com/ArtificialAnlys/status/2122445489736122633/photo/1",
+            "media_key": "16_2122445452532719616",
+            "start": 278,
+            "url": "https://t.co/Bv5URtxPF7"
+          }
+        ]
+      },
+      "id": "2122445489736122633",
+      "lang": "en",
+      "note_tweet": {
+        "text": "Two new entrants just reshaped the Text to Image price frontier\n\nUntil now, nothing between $10 and $34 per 1k images ranked above Muse Image on AA-Image-T2I v2.1.\n\n➤ Seedream 5.5 is now the best model under $30, at $20 per 1k images\n\n➤ Canva Craft is now the cheapest model in the top 10, at $30 per 1k images"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 13,
+        "impression_count": 9962,
+        "like_count": 93,
+        "quote_count": 1,
+        "reply_count": 11,
+        "retweet_count": 4
+      },
+      "text": "Two new entrants just reshaped the Text to Image price frontier\n\nUntil now, nothing between $10 and $34 per 1k images ranked above Muse Image on AA-Image-T2I v2.1.\n\n➤ Seedream 5.5 is now the best model under $30, at $20 per 1k images\n\n➤ Canva Craft is now the cheapest model in https://t.co/Bv5URtxPF7",
+      "url": "https://x.com/ArtificialAnlys/status/2122445489736122633"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122436013243170816"
+        ]
+      },
+      "author_id": "2588345408",
+      "conversation_id": "2122437921617990058",
+      "created_at": "2026-11-16T21:13:28.000Z",
+      "edit_history_tweet_ids": [
+        "2122437921617990058"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 95,
+            "id": "1769941503751671808",
+            "start": 85,
+            "username": "hubdotxyz"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/bi7pWUspKZ",
+            "end": 303,
+            "expanded_url": "https://x.com/rohanpaul_ai/status/2122437921617990058/photo/1",
+            "media_key": "3_2122436013243170816",
+            "start": 280,
+            "url": "https://t.co/bi7pWUspKZ"
+          },
+          {
+            "display_url": "x.com/hubdotxyz/stat…",
+            "end": 327,
+            "expanded_url": "https://twitter.com/hubdotxyz/status/2122408735897423962",
+            "start": 304,
+            "url": "https://t.co/1uIQBF8l66"
+          }
+        ]
+      },
+      "id": "2122437921617990058",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 95,
+              "id": "1769941503751671808",
+              "start": 85,
+              "username": "hubdotxyz"
+            }
+          ]
+        },
+        "text": "An insanely large open source robotics dataset just dropped on Huggingface. 44.7 TB\n\n@hubdotxyz just released 10,000 hours of first-person video of people doing skilled jobs, free even for commercial use. Another 90,000 hours, from more than 100,000 contributors in total, arrive over the coming weeks.\n\nRobots trained in a lab often fail in an unfamiliar room. but this dataset films 12,227 people, each in their own workshop or home, so every new person brings a new environment.\n\nHub runs a network of 860K verified operators at 7,300+ commercial sites. AI labs pay it to record custom data on request: richer formats (stereo, depth, hand tracking, gripper data), teleoperation, and robots deployed on real sites."
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 9,
+        "impression_count": 2683,
+        "like_count": 17,
+        "quote_count": 0,
+        "reply_count": 12,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122408735897423962",
+          "type": "quoted"
+        }
+      ],
+      "text": "An insanely large open source robotics dataset just dropped on Huggingface. 44.7 TB\n\n@hubdotxyz just released 10,000 hours of first-person video of people doing skilled jobs, free even for commercial use. Another 90,000 hours, from more than 100,000 contributors in total, arrive https://t.co/bi7pWUspKZ https://t.co/1uIQBF8l66",
+      "url": "https://x.com/rohanpaul_ai/status/2122437921617990058"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122385299154325504"
+        ],
+        "media_source_tweet_id": [
+          "2122386524297974128"
+        ]
+      },
+      "author_id": "23113993",
+      "conversation_id": "2122437854311907412",
+      "created_at": "2026-11-16T21:13:12.000Z",
+      "edit_history_tweet_ids": [
+        "2122437854311907412"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/e50lNkFV4m",
+            "end": 64,
+            "expanded_url": "https://x.com/bot/status/2122386524297974128/video/1",
+            "media_key": "13_2122385299154325504",
+            "start": 41,
+            "url": "https://t.co/e50lNkFV4m"
+          }
+        ]
+      },
+      "id": "2122437854311907412",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 5666,
+        "like_count": 51,
+        "quote_count": 0,
+        "reply_count": 11,
+        "retweet_count": 5
+      },
+      "text": "Grok Bot ad on The Sphere at Las Vegas 👀 https://t.co/e50lNkFV4m",
+      "url": "https://x.com/minchoi/status/2122437854311907412"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122434786577006592"
+        ]
+      },
+      "author_id": "2588345408",
+      "conversation_id": "2122434950737854886",
+      "created_at": "2026-11-16T21:01:39.000Z",
+      "edit_history_tweet_ids": [
+        "2122434950737854886"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/K464Gcg2BC",
+            "end": 285,
+            "expanded_url": "https://x.com/rohanpaul_ai/status/2122434950737854886/video/1",
+            "media_key": "13_2122434786577006592",
+            "start": 262,
+            "url": "https://t.co/K464Gcg2BC"
+          }
+        ]
+      },
+      "id": "2122434950737854886",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2440,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 2
+      },
+      "text": "\"I don’t know if she is a spy at all. Nobody’s proven that... She may not be a spy.\"\n\nPresident Trump on Alice Huang, the woman linked to Jensen Huang in the alleged Chinese spy affair.\n\n--\nFull video on \"Bloomberg Television\" YouTube channel, (link in comment) https://t.co/K464Gcg2BC",
+      "url": "https://x.com/rohanpaul_ai/status/2122434950737854886"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122427634701451264",
+          "3_2122427841849819136",
+          "3_2122428273494003712",
+          "3_2122428311901257728"
+        ]
+      },
+      "author_id": "2588345408",
+      "conversation_id": "2122428932192625104",
+      "created_at": "2026-11-16T20:37:44.000Z",
+      "edit_history_tweet_ids": [
+        "2122428932192625104"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/VJRfDrER8H",
+            "end": 301,
+            "expanded_url": "https://x.com/rohanpaul_ai/status/2122428932192625104/photo/1",
+            "media_key": "3_2122427634701451264",
+            "start": 278,
+            "url": "https://t.co/VJRfDrER8H"
+          },
+          {
+            "display_url": "pic.x.com/VJRfDrER8H",
+            "end": 301,
+            "expanded_url": "https://x.com/rohanpaul_ai/status/2122428932192625104/photo/2",
+            "media_key": "3_2122427841849819136",
+            "start": 278,
+            "url": "https://t.co/VJRfDrER8H"
+          },
+          {
+            "display_url": "pic.x.com/VJRfDrER8H",
+            "end": 301,
+            "expanded_url": "https://x.com/rohanpaul_ai/status/2122428932192625104/photo/3",
+            "media_key": "3_2122428273494003712",
+            "start": 278,
+            "url": "https://t.co/VJRfDrER8H"
+          },
+          {
+            "display_url": "pic.x.com/VJRfDrER8H",
+            "end": 301,
+            "expanded_url": "https://x.com/rohanpaul_ai/status/2122428932192625104/photo/4",
+            "media_key": "3_2122428311901257728",
+            "start": 278,
+            "url": "https://t.co/VJRfDrER8H"
+          }
+        ]
+      },
+      "id": "2122428932192625104",
+      "lang": "en",
+      "note_tweet": {
+        "text": "California sued OpenAI, over that Hugging Face attack, representing one of the first major attempts to hold an AI lab legally accountable for a rogue agent incident.\n\nThe lawsuit alleges OpenAI admitted losing control of its testing agents more than 80 times.\n\nAttorney General Rob Bonta’s complaint, filed in San Francisco Superior Court, says OpenAI has publicly reported only 27 of them.\n\nThe case centers on July, when about 700 of its agents escaped a cybersecurity evaluation and attacked Hugging Face’s production systems.\n\nThey slipped out through a flaw in a misconfigured software-package server and took about 17,600 actions, yet OpenAI noticed nothing until Hugging Face disclosed the attack.\n\nThat blind spot anchors the deception claim of the lawsuit, since OpenAI’s Preparedness Framework requires 24x7 monitoring and network segmentation for High-capability models.\n\nBonta wants an injunction, restitution and civil penalties of $2,500 per violation under California’s unfair competition and public nuisance laws.\n\nOpenAI’s technical report already conceded that guardrails it runs in production would have flagged the attack as unsafe.\n\nIf the court treats harm during internal testing as an unfair business practice, that will basically mean that state attorneys general can police every lab’s evaluation sandbox."
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 2502,
+        "like_count": 19,
+        "quote_count": 0,
+        "reply_count": 9,
+        "retweet_count": 1
+      },
+      "text": "California sued OpenAI, over that Hugging Face attack, representing one of the first major attempts to hold an AI lab legally accountable for a rogue agent incident.\n\nThe lawsuit alleges OpenAI admitted losing control of its testing agents more than 80 times.\n\nAttorney General https://t.co/VJRfDrER8H",
+      "url": "https://x.com/rohanpaul_ai/status/2122428932192625104"
+    },
+    {
+      "author_id": "2588345408",
+      "conversation_id": "2122423168807878666",
+      "created_at": "2026-11-16T20:14:50.000Z",
+      "edit_history_tweet_ids": [
+        "2122423168807878666"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/an_engineer_lo…",
+            "end": 287,
+            "expanded_url": "https://twitter.com/an_engineer_log/status/2122360362712395943",
+            "start": 264,
+            "url": "https://t.co/Z38laFJUu3"
+          }
+        ]
+      },
+      "id": "2122423168807878666",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 1875,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122360362712395943",
+          "type": "quoted"
+        }
+      ],
+      "text": "And a coding agent may use its CPU only about 5% of the time, since it mostly waits on the model, so Agent37 lets many agents share the same physical cores. \n\nAnd that sharing lets it run 100 agents for $0.68 an hour.\nso this design trades dedicated CPU for price https://t.co/Z38laFJUu3",
+      "url": "https://x.com/rohanpaul_ai/status/2122423168807878666"
+    },
+    {
+      "author_id": "1825243643529027584",
+      "conversation_id": "2122419338418217066",
+      "created_at": "2026-11-16T19:59:37.000Z",
+      "edit_history_tweet_ids": [
+        "2122419338418217066"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/_lewtun/status…",
+            "end": 50,
+            "expanded_url": "https://twitter.com/_lewtun/status/2122333622946373889",
+            "start": 27,
+            "url": "https://t.co/LAUs4n2DWI"
+          }
+        ]
+      },
+      "id": "2122419338418217066",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 9,
+        "impression_count": 5009,
+        "like_count": 42,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122333622946373889",
+          "type": "quoted"
+        }
+      ],
+      "text": "we are back in the 60s/70s https://t.co/LAUs4n2DWI",
+      "url": "https://x.com/scaling01/status/2122419338418217066"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122414692853284864"
+        ]
+      },
+      "author_id": "731917653506318336",
+      "conversation_id": "2122415191027863785",
+      "created_at": "2026-11-16T19:43:08.000Z",
+      "edit_history_tweet_ids": [
+        "2122415191027863785"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/G3w14I4XSw",
+            "end": 297,
+            "expanded_url": "https://x.com/TheRundownAI/status/2122415191027863785/photo/1",
+            "media_key": "3_2122414692853284864",
+            "start": 274,
+            "url": "https://t.co/G3w14I4XSw"
+          }
+        ]
+      },
+      "id": "2122415191027863785",
+      "lang": "en",
+      "note_tweet": {
+        "text": "NEW: The state of California has sued OpenAI over the July incident in which two of its AI models got out of a test environment and broke into Hugging Face's internal systems.\n\nAttorney General Rob Bonta alleges the company \"knowingly tested potentially dangerous AI models without proper oversight and safety measures.\""
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 4197,
+        "like_count": 84,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 3
+      },
+      "text": "NEW: The state of California has sued OpenAI over the July incident in which two of its AI models got out of a test environment and broke into Hugging Face's internal systems.\n\nAttorney General Rob Bonta alleges the company \"knowingly tested potentially dangerous AI models https://t.co/G3w14I4XSw",
+      "url": "https://x.com/TheRundownAI/status/2122415191027863785"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122412628236709888"
+        ]
+      },
+      "author_id": "2588345408",
+      "conversation_id": "2122412646972744045",
+      "created_at": "2026-11-16T19:33:02.000Z",
+      "edit_history_tweet_ids": [
+        "2122412646972744045"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/t5Opy2GAQL",
+            "end": 302,
+            "expanded_url": "https://x.com/rohanpaul_ai/status/2122412646972744045/photo/1",
+            "media_key": "3_2122412628236709888",
+            "start": 279,
+            "url": "https://t.co/t5Opy2GAQL"
+          }
+        ]
+      },
+      "id": "2122412646972744045",
+      "lang": "en",
+      "note_tweet": {
+        "text": "New Huawei paper finds that code-evolution agents do better and spend less when search planning, code writing, and scoring are handled by 3 separate owners.\n\nAlphaEvolve-style systems improve programs by writing code, scoring it, and picking what to try next. Some give the code writer little freedom, others let 1 coding agent steer the search at high token cost, and none hides the scorer.\n\nEvoTrias gives each job its own owner. A controller steers the search, a coding agent like Claude Code writes code, and an evaluator the agent cannot read scores it.\n\nOn 7 math tasks it led 6 and cut token cost per run by 64% versus 4-agent CORAL. On OR-Tools, a 680K-line C++ repository, it lifted solver quality 13.2% on 300 instances, while 1-shot runs of the same agent averaged -0.1%.\n\nFor code-optimizing agent loops, hide the scorer from the agent and keep search planning out of the coding agent."
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 11,
+        "impression_count": 2590,
+        "like_count": 21,
+        "quote_count": 0,
+        "reply_count": 12,
+        "retweet_count": 3
+      },
+      "text": "New Huawei paper finds that code-evolution agents do better and spend less when search planning, code writing, and scoring are handled by 3 separate owners.\n\nAlphaEvolve-style systems improve programs by writing code, scoring it, and picking what to try next. Some give the code https://t.co/t5Opy2GAQL",
+      "url": "https://x.com/rohanpaul_ai/status/2122412646972744045"
+    },
+    {
+      "author_id": "1825243643529027584",
+      "conversation_id": "2122409034083193314",
+      "created_at": "2026-11-16T19:18:40.000Z",
+      "edit_history_tweet_ids": [
+        "2122409034083193314"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/AndrewCurran_/…",
+            "end": 231,
+            "expanded_url": "https://twitter.com/AndrewCurran_/status/2122405479066599792",
+            "start": 208,
+            "url": "https://t.co/hGmPaD93wh"
+          }
+        ]
+      },
+      "id": "2122409034083193314",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 16,
+        "impression_count": 7386,
+        "like_count": 189,
+        "quote_count": 0,
+        "reply_count": 18,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122405479066599792",
+          "type": "quoted"
+        }
+      ],
+      "text": "there is a new form of AI psychosis where every outage is attributed to AI cyberattacks first\n\n(now this might turn out to be one, but I think the default assumption should still be human or technical error) https://t.co/hGmPaD93wh",
+      "url": "https://x.com/scaling01/status/2122409034083193314"
+    },
+    {
+      "author_id": "1825243643529027584",
+      "conversation_id": "2122405188526817645",
+      "created_at": "2026-11-16T19:03:23.000Z",
+      "edit_history_tweet_ids": [
+        "2122405188526817645"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/patience_cave/…",
+            "end": 118,
+            "expanded_url": "https://twitter.com/patience_cave/status/2122329367150039348",
+            "start": 95,
+            "url": "https://t.co/Omm1taGcWX"
+          }
+        ]
+      },
+      "id": "2122405188526817645",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 8,
+        "impression_count": 5414,
+        "like_count": 92,
+        "quote_count": 1,
+        "reply_count": 14,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122329367150039348",
+          "type": "quoted"
+        }
+      ],
+      "text": "mazebench was fun while it lasted\n\nunfortunately it's going to be saturated by like March 2027 https://t.co/Omm1taGcWX",
+      "url": "https://x.com/scaling01/status/2122405188526817645"
+    },
+    {
+      "author_id": "1743487864934162432",
+      "conversation_id": "2122405039289569667",
+      "created_at": "2026-11-16T19:02:48.000Z",
+      "edit_history_tweet_ids": [
+        "2122405039289569667"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 147,
+            "id": "39622874",
+            "start": 143,
+            "username": "fal"
+          },
+          {
+            "end": 160,
+            "id": "1875078099538423808",
+            "start": 149,
+            "username": "MiniMax_AI"
+          },
+          {
+            "end": 177,
+            "id": "885220904761933824",
+            "start": 165,
+            "username": "MicrosoftAI"
+          }
+        ]
+      },
+      "id": "2122405039289569667",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 143,
+              "id": "39622874",
+              "start": 139,
+              "username": "fal"
+            },
+            {
+              "end": 156,
+              "id": "1875078099538423808",
+              "start": 145,
+              "username": "MiniMax_AI"
+            },
+            {
+              "end": 173,
+              "id": "885220904761933824",
+              "start": 161,
+              "username": "MicrosoftAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "luma.com/artifi-7w32?ut…",
+              "end": 379,
+              "expanded_url": "https://luma.com/artifi-7w32?utm_source=x",
+              "start": 356,
+              "url": "https://t.co/N1M6Z82oin"
+            }
+          ]
+        },
+        "text": "Our Image & Video AI benchmarking event is tomorrow! Join us in San Francisco on November 17, featuring speakers from Artificial Analysis, @fal, @MiniMax_AI and @MicrosoftAI\n\nWe'll share what we've learned about measuring the best image and video models, followed by a panel with leaders building the media generation frontier.\n\nLimited spots remaining 👇\n https://t.co/N1M6Z82oin"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 6875,
+        "like_count": 14,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 1
+      },
+      "text": "Our Image &amp; Video AI benchmarking event is tomorrow! Join us in San Francisco on November 17, featuring speakers from Artificial Analysis, @fal, @MiniMax_AI and @MicrosoftAI\n\nWe'll share what we've learned about measuring the best image and video models, followed by a panel with",
+      "url": "https://x.com/ArtificialAnlys/status/2122405039289569667"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122395526054531072"
+        ]
+      },
+      "author_id": "2588345408",
+      "conversation_id": "2122397460949762320",
+      "created_at": "2026-11-16T18:32:41.000Z",
+      "edit_history_tweet_ids": [
+        "2122397460949762320"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/0QQ5jVtDJZ",
+            "end": 300,
+            "expanded_url": "https://x.com/rohanpaul_ai/status/2122397460949762320/photo/1",
+            "media_key": "3_2122395526054531072",
+            "start": 277,
+            "url": "https://t.co/0QQ5jVtDJZ"
+          }
+        ]
+      },
+      "id": "2122397460949762320",
+      "lang": "en",
+      "note_tweet": {
+        "text": "New Carnegie Mellon paper finds that AI assistants that plan trips and shopping find more options people would accept by showing them a few real choices than by asking about their preferences.\n\nA travel request like “restaurants rated 3.8 or higher” throws out a cheaper place rated 3.7 that the user would happily pick. People rarely say they would accept a lower rating to save money, because they only realize it when they see the actual options.\n\n> Adding that 1 hidden trade-off to the request raised the share of plans the user accepted from 12% to 55%, with the same planner.\n\n> Current agents (Claude Code, Gemini CLI and others) mostly asked questions and rarely showed plans, so they caught at most 32% of plans the user would accept.\n\n> Agents that showed plans did clearly better than agents that asked.\n\nWhen your agent turns a request into a plan, show the user a few options outside their stated limits early, before locking the spec."
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 8,
+        "impression_count": 2490,
+        "like_count": 14,
+        "quote_count": 0,
+        "reply_count": 9,
+        "retweet_count": 0
+      },
+      "text": "New Carnegie Mellon paper finds that AI assistants that plan trips and shopping find more options people would accept by showing them a few real choices than by asking about their preferences.\n\nA travel request like “restaurants rated 3.8 or higher” throws out a cheaper place https://t.co/0QQ5jVtDJZ",
+      "url": "https://x.com/rohanpaul_ai/status/2122397460949762320"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122397134234247168"
+        ]
+      },
+      "author_id": "731917653506318336",
+      "conversation_id": "2122397155482870213",
+      "created_at": "2026-11-16T18:31:28.000Z",
+      "edit_history_tweet_ids": [
+        "2122397155482870213"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 24,
+            "id": "615818451",
+            "start": 10,
+            "username": "alexandr_wang"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/3yQv8DNTN7",
+            "end": 48,
+            "expanded_url": "https://x.com/TheRundownAI/status/2122397155482870213/photo/1",
+            "media_key": "3_2122397134234247168",
+            "start": 25,
+            "url": "https://t.co/3yQv8DNTN7"
+          },
+          {
+            "display_url": "x.com/bot/status/212…",
+            "end": 72,
+            "expanded_url": "https://twitter.com/bot/status/2122386524297974128",
+            "start": 49,
+            "url": "https://t.co/DOzHnoCJv5"
+          }
+        ]
+      },
+      "id": "2122397155482870213",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 4257,
+        "like_count": 51,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122386524297974128",
+          "type": "quoted"
+        }
+      ],
+      "text": "Your move @alexandr_wang https://t.co/3yQv8DNTN7 https://t.co/DOzHnoCJv5",
+      "url": "https://x.com/TheRundownAI/status/2122397155482870213"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122393283066519552"
+        ]
+      },
+      "author_id": "2588345408",
+      "conversation_id": "2122393520266998092",
+      "created_at": "2026-11-16T18:17:02.000Z",
+      "edit_history_tweet_ids": [
+        "2122393520266998092"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/IoMS1fVKgc",
+            "end": 300,
+            "expanded_url": "https://x.com/rohanpaul_ai/status/2122393520266998092/video/1",
+            "media_key": "13_2122393283066519552",
+            "start": 277,
+            "url": "https://t.co/IoMS1fVKgc"
+          }
+        ]
+      },
+      "id": "2122393520266998092",
+      "lang": "en",
+      "note_tweet": {
+        "text": "CNBC just reported Nvidia’s board is not considering bringing Jensen Huang back as CEO, though President Donald Trump says he’s open to it.\n\nDirectors are focused instead on Wachtell Lipton’s probe into whether Huang’s conduct compromised national security or company secrets.\n\n---\n\n(Full video on CNBC official page, link in comment. )"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 4504,
+        "like_count": 5,
+        "quote_count": 1,
+        "reply_count": 6,
+        "retweet_count": 1
+      },
+      "text": "CNBC just reported Nvidia’s board is not considering bringing Jensen Huang back as CEO, though President Donald Trump says he’s open to it.\n\nDirectors are focused instead on Wachtell Lipton’s probe into whether Huang’s conduct compromised national security or company secrets. https://t.co/IoMS1fVKgc",
+      "url": "https://x.com/rohanpaul_ai/status/2122393520266998092"
+    },
+    {
+      "author_id": "2588345408",
+      "conversation_id": "2122386603608060127",
+      "created_at": "2026-11-16T17:49:32.000Z",
+      "edit_history_tweet_ids": [
+        "2122386603608060127"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/AlonPluda/stat…",
+            "end": 301,
+            "expanded_url": "https://twitter.com/AlonPluda/status/2122344413951111663",
+            "start": 278,
+            "url": "https://t.co/L9AeOXoWLx"
+          }
+        ]
+      },
+      "id": "2122386603608060127",
+      "lang": "en",
+      "note_tweet": {
+        "text": "In an independent study on an enterprise test range, frontier models planted a persistent backdoor in 85% of runs.\n\nDefenders found 19%.\n\nCorma is building foundation models for the defending side, where the input is security telemetry and the task is finding what hides inside it.\n\nTheir security workforce sits inside each company’s existing tools and runs on Corma’s own models, so investigation capacity can rise with the volume.\n\nThey just raised $125M at a $1B valuation, 3 months after leaving stealth."
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 2406,
+        "like_count": 17,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122344413951111663",
+          "type": "quoted"
+        }
+      ],
+      "text": "In an independent study on an enterprise test range, frontier models planted a persistent backdoor in 85% of runs.\n\nDefenders found 19%.\n\nCorma is building foundation models for the defending side, where the input is security telemetry and the task is finding what hides inside https://t.co/L9AeOXoWLx",
+      "url": "https://x.com/rohanpaul_ai/status/2122386603608060127"
+    },
+    {
+      "author_id": "731917653506318336",
+      "conversation_id": "2122382376802144728",
+      "created_at": "2026-11-16T17:32:45.000Z",
+      "edit_history_tweet_ids": [
+        "2122382376802144728"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/TheRundownAI/s…",
+            "end": 302,
+            "expanded_url": "https://twitter.com/TheRundownAI/status/2122379979694707134",
+            "start": 279,
+            "url": "https://t.co/Xwp37qHD5I"
+          }
+        ]
+      },
+      "id": "2122382376802144728",
+      "lang": "en",
+      "note_tweet": {
+        "text": "OpenAI also named Transluce and Goodfire as part of the \"first phase\" of embedded assessments. \n\nTransluce will check how thorough OpenAI’s alignment tests really are, and Goodfire is bringing tools that read what’s happening inside a model while it trains.\n\nA report today from The Information revealed that a senior OpenAI exec floated buying Goodfire this summer for $5B+."
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 4267,
+        "like_count": 81,
+        "quote_count": 0,
+        "reply_count": 9,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122379979694707134",
+          "type": "quoted"
+        }
+      ],
+      "text": "OpenAI also named Transluce and Goodfire as part of the \"first phase\" of embedded assessments. \n\nTransluce will check how thorough OpenAI’s alignment tests really are, and Goodfire is bringing tools that read what’s happening inside a model while it trains.\n\nA report today from https://t.co/Xwp37qHD5I",
+      "url": "https://x.com/TheRundownAI/status/2122382376802144728"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122379797519089665",
+          "3_2122379925357236224"
+        ]
+      },
+      "author_id": "731917653506318336",
+      "conversation_id": "2122379979694707134",
+      "created_at": "2026-11-16T17:23:13.000Z",
+      "edit_history_tweet_ids": [
+        "2122379979694707134"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/I68PaMyERN",
+            "end": 301,
+            "expanded_url": "https://x.com/TheRundownAI/status/2122379979694707134/photo/1",
+            "media_key": "3_2122379797519089665",
+            "start": 278,
+            "url": "https://t.co/I68PaMyERN"
+          },
+          {
+            "display_url": "pic.x.com/I68PaMyERN",
+            "end": 301,
+            "expanded_url": "https://x.com/TheRundownAI/status/2122379979694707134/photo/2",
+            "media_key": "3_2122379925357236224",
+            "start": 278,
+            "url": "https://t.co/I68PaMyERN"
+          }
+        ]
+      },
+      "id": "2122379979694707134",
+      "lang": "en",
+      "note_tweet": {
+        "text": "NEW: OpenAI is letting two outside AI safety groups, METR and Apollo Research, look inside its model training to check whether its AI behaves as intended.\n\nApollo is placing six evaluators at OpenAI for four months to test whether models try to work around the systems meant to watch them.\n\nMETR gets transcripts and model snapshots from OpenAI’s largest reinforcement learning run, and plans to publish what it finds."
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 6084,
+        "like_count": 85,
+        "quote_count": 1,
+        "reply_count": 6,
+        "retweet_count": 2
+      },
+      "text": "NEW: OpenAI is letting two outside AI safety groups, METR and Apollo Research, look inside its model training to check whether its AI behaves as intended.\n\nApollo is placing six evaluators at OpenAI for four months to test whether models try to work around the systems meant to https://t.co/I68PaMyERN",
+      "url": "https://x.com/TheRundownAI/status/2122379979694707134"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122369770402258944"
+        ]
+      },
+      "author_id": "1743487864934162432",
+      "conversation_id": "2122374288653373870",
+      "created_at": "2026-11-16T17:00:36.000Z",
+      "edit_history_tweet_ids": [
+        "2122374288653373870"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/5F5VuRlgIV",
+            "end": 304,
+            "expanded_url": "https://x.com/ArtificialAnlys/status/2122374288653373870/photo/1",
+            "media_key": "3_2122369770402258944",
+            "start": 281,
+            "url": "https://t.co/5F5VuRlgIV"
+          }
+        ]
+      },
+      "id": "2122374288653373870",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 609,
+              "id": "841369525752807424",
+              "start": 597,
+              "username": "SpeechifyAI"
+            },
+            {
+              "end": 724,
+              "id": "1106270338277490688",
+              "start": 714,
+              "username": "InworldAI"
+            },
+            {
+              "end": 807,
+              "id": "1478679005788311552",
+              "start": 796,
+              "username": "ElevenLabs"
+            },
+            {
+              "end": 905,
+              "id": "1779922590645235713",
+              "start": 895,
+              "username": "FishAudio"
+            },
+            {
+              "end": 961,
+              "id": "1705681383048597504",
+              "start": 952,
+              "username": "cartesia"
+            }
+          ]
+        },
+        "text": "Announcing Artificial Analysis Time to First Audio, measuring how quickly Text to Speech models start speaking. Among the leading models the wait ranges from 76 ms to nearly a second\n\nOur Text to Speech benchmarks already cover quality, pronunciation and generation speed, but not how long a user waits before hearing anything — the number that decides whether a voice agent feels responsive. We measure every model daily on the same 12 prompts across four input lengths, timing audible speech rather than the first byte, and report a rolling 7-day mean.\n\nKey results:\n\n➤ Fastest at the frontier: @SpeechifyAI's Simba 3.5 starts in 116 ms — the highest Arena Elo of any model that begins speaking in under 200 ms. @InworldAI's Realtime TTS-2 follows at 186 ms.\n\n➤ Turbo variants earn their name: @ElevenLabs' Eleven v4 Turbo starts in 258 ms against 653 ms for Eleven v4, at the same Arena Elo. @FishAudio's Fish Audio Drama 3 matches it at 258 ms and @cartesia's Sonic 3.6 is at 287 ms.\n\n➤ Streaming is the dividing line: The 65 streaming models typically begin speaking within a few hundred milliseconds, a median of 376 ms. The 20 non-streaming models must finish generating before they return anything: a median of 2.0 seconds.\n\nSee more details below ⬇️"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 29,
+        "impression_count": 14989,
+        "like_count": 121,
+        "quote_count": 3,
+        "reply_count": 26,
+        "retweet_count": 5
+      },
+      "text": "Announcing Artificial Analysis Time to First Audio, measuring how quickly Text to Speech models start speaking. Among the leading models the wait ranges from 76 ms to nearly a second\n\nOur Text to Speech benchmarks already cover quality, pronunciation and generation speed, but not https://t.co/5F5VuRlgIV",
+      "url": "https://x.com/ArtificialAnlys/status/2122374288653373870"
+    },
+    {
+      "author_id": "23113993",
+      "conversation_id": "2122361843557777795",
+      "created_at": "2026-11-16T16:11:09.000Z",
+      "edit_history_tweet_ids": [
+        "2122361843557777795"
+      ],
+      "id": "2122361843557777795",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 30,
+        "impression_count": 15290,
+        "like_count": 51,
+        "quote_count": 1,
+        "reply_count": 25,
+        "retweet_count": 4
+      },
+      "text": "AI got insanely visual this week.\n\nA $250 robot hands you tools. A World Series home run you can fly around. Rooms you can relight.\n\n10 wild examples: 👇",
+      "url": "https://x.com/minchoi/status/2122361843557777795"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122338814282592256"
+        ],
+        "media_source_tweet_id": [
+          "2122339008214876574"
+        ]
+      },
+      "author_id": "2588345408",
+      "conversation_id": "2122358005320864143",
+      "created_at": "2026-11-16T15:55:54.000Z",
+      "edit_history_tweet_ids": [
+        "2122358005320864143"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/6IYOiJ0hNX",
+            "end": 178,
+            "expanded_url": "https://x.com/RapidResponse47/status/2122339008214876574/video/1",
+            "media_key": "13_2122338814282592256",
+            "start": 155,
+            "url": "https://t.co/6IYOiJ0hNX"
+          }
+        ]
+      },
+      "id": "2122358005320864143",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 4320,
+        "like_count": 18,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 3
+      },
+      "text": "Donald Trump says he “would not mind” Jensen Huang returning to run Nvidia\n\nHe still floated ex Apple CEO Tim Cook, but said Huang “learned a big lesson.” https://t.co/6IYOiJ0hNX",
+      "url": "https://x.com/rohanpaul_ai/status/2122358005320864143"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2466,
+        "media_key": "3_2122473860926742528",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSKuy2XIAAG-Sx.jpg",
+        "width": 4096
+      },
+      {
+        "height": 1505,
+        "media_key": "3_2122461437834784769",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXR_brObcAEIfRe.png",
+        "width": 1644
+      },
+      {
+        "height": 1192,
+        "media_key": "3_2122460781572988928",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXR-1edbIAAD-9P.jpg",
+        "width": 1731
+      },
+      {
+        "height": 900,
+        "media_key": "16_2122445452532719616",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HXRw5NVbIAAUTzz.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HXRw5NVbIAAUTzz.mp4"
+          }
+        ],
+        "width": 1600
+      },
+      {
+        "height": 1996,
+        "media_key": "3_2122436013243170816",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRoTxPbAAAL9QX.jpg",
+        "width": 1881
+      },
+      {
+        "duration_ms": 60073,
+        "height": 2160,
+        "media_key": "13_2122385299154325504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122385299154325504/img/B_MC3dgiKSuYwLkF.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122385299154325504/vid/avc1/3840x2160/rhU_RTf1lkaS3hdu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122385299154325504/vid/avc1/1280x720/slEuAv6tN7vFG_F2.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122385299154325504/vid/avc1/640x360/a419qF7DZVNCpqkd.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122385299154325504/vid/avc1/1920x1080/v0p6pA9ip8dVxrRr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122385299154325504/pl/wIjWVkGXTGtQ3REF.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122385299154325504/vid/avc1/480x270/IE8SeeHnY6Gyd2Sq.mp4"
+          }
+        ],
+        "width": 3840
+      },
+      {
+        "duration_ms": 19616,
+        "height": 1080,
+        "media_key": "13_2122434786577006592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122434786577006592/img/bu-B3V6vHccJaMLI.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122434786577006592/vid/avc1/1920x1080/r8CCfIUicS9lSJ3b.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122434786577006592/pl/Xj_c1yPSPn91ytoA.m3u8?v=8a4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122434786577006592/vid/avc1/1280x720/eMYrEJxQ9DkoMkew.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122434786577006592/vid/avc1/640x360/K-HqdG27j2Rlw9bS.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122434786577006592/vid/avc1/480x270/F-2I0HFRkIjAcCM0.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "height": 1312,
+        "media_key": "3_2122427634701451264",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRgsEvaQAAoH80.jpg",
+        "width": 1052
+      },
+      {
+        "height": 379,
+        "media_key": "3_2122427841849819136",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRg4IbbgAALcpB.png",
+        "width": 387
+      },
+      {
+        "height": 437,
+        "media_key": "3_2122428273494003712",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRhRQbbEAAAH0h.jpg",
+        "width": 1656
+      },
+      {
+        "height": 970,
+        "media_key": "3_2122428311901257728",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRhTfgbQAAj8DG.jpg",
+        "width": 1656
+      },
+      {
+        "height": 806,
+        "media_key": "3_2122414692853284864",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRU6wmXAAA0hN2.png",
+        "width": 1292
+      },
+      {
+        "height": 1162,
+        "media_key": "3_2122412628236709888",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRTClTaMAAALqW.jpg",
+        "width": 1736
+      },
+      {
+        "height": 1779,
+        "media_key": "3_2122395526054531072",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRDfGtb0AA-VYb.jpg",
+        "width": 1812
+      },
+      {
+        "height": 941,
+        "media_key": "3_2122397134234247168",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRE8tpW4AAIp3r.jpg",
+        "width": 1672
+      },
+      {
+        "duration_ms": 15316,
+        "height": 1080,
+        "media_key": "13_2122393283066519552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122393283066519552/img/E3wWJMUtm7XjZ2YA.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122393283066519552/vid/avc1/1920x1080/jUukKJO3t-buYzxi.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122393283066519552/vid/avc1/1280x720/P3HMP9ZtwrtTYIAI.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122393283066519552/vid/avc1/480x270/RVQs9U7oK_H6WAqs.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122393283066519552/pl/GoDSyAr8L4qzCdzX.m3u8?v=787"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122393283066519552/vid/avc1/640x360/mdQO0F4ZY-OnunjM.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "height": 630,
+        "media_key": "3_2122379797519089665",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXQ1LlWXQAE35_7.jpg",
+        "width": 1200
+      },
+      {
+        "height": 270,
+        "media_key": "3_2122379925357236224",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXQ1TBlWkAAPWql.png",
+        "width": 598
+      },
+      {
+        "height": 872,
+        "media_key": "3_2122369770402258944",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXQsD7baoAAhde4.jpg",
+        "width": 2464
+      },
+      {
+        "duration_ms": 21166,
+        "height": 720,
+        "media_key": "13_2122338814282592256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122338814282592256/img/vvaC5zwgLiU41Mz6.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122338814282592256/vid/avc1/480x270/Pi00UIkSCezF1TQ8.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122338814282592256/vid/avc1/640x360/8pj8FzTUB9KCJt0_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122338814282592256/vid/avc1/1280x720/pJpwVR26DDHC3ykM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122338814282592256/pl/g16n5jp3nhpE7mRg.m3u8?v=045"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_2122420153660899328"
+          ]
+        },
+        "author_id": "1681613391750905856",
+        "conversation_id": "2122420182815592736",
+        "created_at": "2026-11-16T20:02:58.000Z",
+        "edit_history_tweet_ids": [
+          "2122420182815592736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lXTR2mSD7m",
+              "end": 302,
+              "expanded_url": "https://x.com/nasikolabs/status/2122420182815592736/video/1",
+              "media_key": "7_2122420153660899328",
+              "start": 279,
+              "url": "https://t.co/lXTR2mSD7m"
+            }
+          ]
+        },
+        "id": "2122420182815592736",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 365,
+                "start": 362,
+                "tag": "ai"
+              },
+              {
+                "end": 375,
+                "start": 366,
+                "tag": "tokenops"
+              },
+              {
+                "end": 388,
+                "start": 376,
+                "tag": "openruntime"
+              },
+              {
+                "end": 396,
+                "start": 389,
+                "tag": "agents"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buff.ly/k79CiWW",
+                "end": 359,
+                "expanded_url": "https://buff.ly/k79CiWW",
+                "start": 336,
+                "url": "https://t.co/ngMSk2TQ6R"
+              }
+            ]
+          },
+          "text": "Nasiko - Open Runtime platform for managing AI agents.\nSee every agent. Cut token spend by up to 50%. Route to the right model with the agent gateway. Govern tool access. Set permissions and budgets per agent, per team. One command. Same workflow.\nOpen Runtime for agents starts now. First, every token. Next, every action!\nStart Free: https://t.co/ngMSk2TQ6R \n\n#ai #tokenops #openruntime #agents"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 320,
+          "impression_count": 274360,
+          "like_count": 395,
+          "quote_count": 110,
+          "reply_count": 86,
+          "retweet_count": 74
+        },
+        "text": "Nasiko - Open Runtime platform for managing AI agents.\nSee every agent. Cut token spend by up to 50%. Route to the right model with the agent gateway. Govern tool access. Set permissions and budgets per agent, per team. One command. Same workflow.\nOpen Runtime for agents starts https://t.co/lXTR2mSD7m"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122400631650705408"
+          ]
+        },
+        "author_id": "1769941503751671808",
+        "conversation_id": "2122408735897423962",
+        "created_at": "2026-11-16T19:17:29.000Z",
+        "edit_history_tweet_ids": [
+          "2122408735897423962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 92,
+              "id": "778764142412984320",
+              "start": 80,
+              "username": "huggingface"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ptEC0qQZ0D",
+              "end": 231,
+              "expanded_url": "https://x.com/hubdotxyz/status/2122408735897423962/video/1",
+              "media_key": "13_2122400631650705408",
+              "start": 208,
+              "url": "https://t.co/ptEC0qQZ0D"
+            }
+          ]
+        },
+        "id": "2122408735897423962",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 159,
+          "impression_count": 106393,
+          "like_count": 281,
+          "quote_count": 28,
+          "reply_count": 72,
+          "retweet_count": 68
+        },
+        "text": "Today we're open-sourcing HubEgo-100K: the most diverse egocentric dataset on 🤗 @huggingface.\n\n100,000 hours of skilled tasks from 100,000+ different Hub contributors.\n\nFree for research and commercial use 🧵 https://t.co/ptEC0qQZ0D"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122385299154325504"
+          ]
+        },
+        "author_id": "2085838061347217408",
+        "conversation_id": "2122386524297974128",
+        "created_at": "2026-11-16T17:49:14.000Z",
+        "edit_history_tweet_ids": [
+          "2122386524297974128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mJ9AJ1CgiG",
+              "end": 54,
+              "expanded_url": "https://x.com/bot/status/2122386524297974128/video/1",
+              "media_key": "13_2122385299154325504",
+              "start": 31,
+              "url": "https://t.co/mJ9AJ1CgiG"
+            }
+          ]
+        },
+        "id": "2122386524297974128",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 997,
+          "impression_count": 584530,
+          "like_count": 13997,
+          "quote_count": 268,
+          "reply_count": 698,
+          "retweet_count": 948
+        },
+        "text": "Every driver needs their crew. https://t.co/mJ9AJ1CgiG"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122358923009101824"
+          ]
+        },
+        "author_id": "1863246739404111872",
+        "conversation_id": "2122360362712395943",
+        "created_at": "2026-11-16T16:05:16.000Z",
+        "edit_history_tweet_ids": [
+          "2122360362712395943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Cloud sandboxes for AI agents at 94% lower cost than most sandbox providers.",
+              "display_url": "Agent37.com",
+              "end": 67,
+              "expanded_url": "https://Agent37.com",
+              "start": 44,
+              "status": 200,
+              "title": "Cheapest Cloud Sandbox for AI Agents | Agent 37",
+              "unwound_url": "https://www.agent37.com/",
+              "url": "https://t.co/HX44VsTdTT"
+            },
+            {
+              "display_url": "pic.x.com/ygQbkROsZg",
+              "end": 301,
+              "expanded_url": "https://x.com/an_engineer_log/status/2122360362712395943/video/1",
+              "media_key": "13_2122358923009101824",
+              "start": 278,
+              "url": "https://t.co/ygQbkROsZg"
+            },
+            {
+              "display_url": "x.com/rauchg/status/…",
+              "end": 325,
+              "expanded_url": "https://twitter.com/rauchg/status/2117662578457575497",
+              "start": 302,
+              "url": "https://t.co/6HAQPdHSeL"
+            }
+          ]
+        },
+        "id": "2122360362712395943",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "Agent37.com",
+                "end": 67,
+                "expanded_url": "http://Agent37.com",
+                "start": 44,
+                "url": "https://t.co/DqCfjvVkFz"
+              }
+            ]
+          },
+          "text": "The CEO of Vercel called us out. We claimed https://t.co/DqCfjvVkFz was 25x cheaper, and he said we didn't consider active CPU time.\n\nSo we fixed the math..\n\nWe gave 100 coding agents a sandbox each and had them vibe code an app. Here's the cost per hour at just 5% active CPU:\n\nVercel: $9.75 (14x)\nE2B: $16.56 (24x)\nDaytona: $16.56 (24x)\nAgent37: $0.68\n\nWe're starting a race to the bottom... see you there.\n\nFind a cheaper sandbox and we'll refund the difference."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 871,
+          "impression_count": 1144873,
+          "like_count": 1195,
+          "quote_count": 134,
+          "reply_count": 309,
+          "retweet_count": 83
+        },
+        "referenced_tweets": [
+          {
+            "id": "2117662578457575497",
+            "type": "quoted"
+          }
+        ],
+        "text": "The CEO of Vercel called us out. We claimed https://t.co/HX44VsTdTT was 25x cheaper, and he said we didn't consider active CPU time.\n\nSo we fixed the math..\n\nWe gave 100 coding agents a sandbox each and had them vibe code an app. Here's the cost per hour at just 5% active CPU: https://t.co/ygQbkROsZg https://t.co/6HAQPdHSeL"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122328217767788544"
+          ]
+        },
+        "author_id": "1029493180704714753",
+        "conversation_id": "2122333622946373889",
+        "created_at": "2026-11-16T14:19:01.000Z",
+        "edit_history_tweet_ids": [
+          "2122333622946373889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WqWnK4Dbky",
+              "end": 294,
+              "expanded_url": "https://x.com/_lewtun/status/2122333622946373889/video/1",
+              "media_key": "13_2122328217767788544",
+              "start": 271,
+              "url": "https://t.co/WqWnK4Dbky"
+            }
+          ]
+        },
+        "id": "2122333622946373889",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/huggingface/py…",
+                "end": 737,
+                "expanded_url": "https://github.com/huggingface/pybot",
+                "start": 714,
+                "url": "https://t.co/J52376WBsi"
+              }
+            ]
+          },
+          "text": "Can Python be a chatbot?\n\nOver one week, we challenged a swarm of 1,000 agents to build one entirely in Python: no weights, no training, just a million rules :)\n\nEach agent was an instance of DeepSeek-V4.1-Flash that worked on different parts of the bot's conversational capabilities: understanding, answers, memory, routing, etc. \n\nThey coordinated on a Slack-like message board we built for agents, wrote ~175k messages to each other, and merged ~8k PRs on a shared repo (which almost broke the Hub 🙈)\n\nThe result is PyBot: 630k lines of Python, zero dependencies, and on par with SmolLM-360M at answering everday questions. Just don't expect it to solve a Millennium Prize problem anytime soon :)\n\nCode & demo: https://t.co/J52376WBsi"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 18693,
+          "like_count": 187,
+          "quote_count": 9,
+          "reply_count": 31,
+          "retweet_count": 21
+        },
+        "text": "Can Python be a chatbot?\n\nOver one week, we challenged a swarm of 1,000 agents to build one entirely in Python: no weights, no training, just a million rules :)\n\nEach agent was an instance of DeepSeek-V4.1-Flash that worked on different parts of the bot's conversational https://t.co/WqWnK4Dbky"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122405476134727680"
+          ]
+        },
+        "author_id": "1538525334781370368",
+        "conversation_id": "2122405479066599792",
+        "created_at": "2026-11-16T19:04:33.000Z",
+        "edit_history_tweet_ids": [
+          "2122405479066599792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eGgnDKh3eV",
+              "end": 303,
+              "expanded_url": "https://x.com/AndrewCurran_/status/2122405479066599792/photo/1",
+              "media_key": "3_2122405476134727680",
+              "start": 280,
+              "url": "https://t.co/eGgnDKh3eV"
+            }
+          ]
+        },
+        "id": "2122405479066599792",
+        "lang": "en",
+        "note_tweet": {
+          "text": "There is a developing situation with some U.S. banks. This is not yet confirmed as a cyberattack. But it does seem to be spreading. It started with Chase and Bank of America and now Wells Fargo, Zelle, Capital One, and U.S. Bank are also reporting issues. Logins are down on both web and app, and even some ATMs have stopped working. Transfers are down, and some accounts are showing zero balances. \n\nThere is no official explanation or statement from any of the affected banks yet. There is nothing confirmed that says this is serious yet or has anything to do with AI or hacking. If it develops beyond this point, I will make a thread."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 454,
+          "impression_count": 253018,
+          "like_count": 2245,
+          "quote_count": 92,
+          "reply_count": 129,
+          "retweet_count": 249
+        },
+        "text": "There is a developing situation with some U.S. banks. This is not yet confirmed as a cyberattack. But it does seem to be spreading. It started with Chase and Bank of America and now Wells Fargo, Zelle, Capital One, and U.S. Bank are also reporting issues. Logins are down on both https://t.co/eGgnDKh3eV"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122329361009246208"
+          ]
+        },
+        "author_id": "1785511155156561920",
+        "conversation_id": "2122329367150039348",
+        "created_at": "2026-11-16T14:02:06.000Z",
+        "edit_history_tweet_ids": [
+          "2122329367150039348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3JoQUTQtsa",
+              "end": 204,
+              "expanded_url": "https://x.com/patience_cave/status/2122329367150039348/photo/1",
+              "media_key": "3_2122329361009246208",
+              "start": 181,
+              "url": "https://t.co/3JoQUTQtsa"
+            }
+          ]
+        },
+        "id": "2122329367150039348",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 14758,
+          "like_count": 333,
+          "quote_count": 3,
+          "reply_count": 33,
+          "retweet_count": 17
+        },
+        "text": "MazeBench vs Fable 5.2\n\nWe have a new high score! After 90 hours and $6000 in credits in this monster 3D environment, Fable 5.2 vaulted over GPT-6 Astra, achieving a staggering 21% https://t.co/3JoQUTQtsa"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122336646901235713"
+          ]
+        },
+        "author_id": "1684849711654588416",
+        "conversation_id": "2122344413951111663",
+        "created_at": "2026-11-16T15:01:54.000Z",
+        "edit_history_tweet_ids": [
+          "2122344413951111663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 77,
+              "id": "165503959",
+              "start": 73,
+              "username": "NEA"
+            },
+            {
+              "end": 91,
+              "id": "24775410",
+              "start": 83,
+              "username": "sequoia"
+            },
+            {
+              "end": 108,
+              "id": "2236517244",
+              "start": 93,
+              "username": "khoslaventures"
+            },
+            {
+              "end": 124,
+              "id": "780720157",
+              "start": 113,
+              "username": "coatuemgmt"
+            },
+            {
+              "end": 148,
+              "id": "2084935729566609408",
+              "start": 140,
+              "username": "CormaAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/do0ElrPjRN",
+              "end": 303,
+              "expanded_url": "https://x.com/AlonPluda/status/2122344413951111663/video/1",
+              "media_key": "13_2122336646901235713",
+              "start": 280,
+              "url": "https://t.co/do0ElrPjRN"
+            }
+          ]
+        },
+        "id": "2122344413951111663",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 77,
+                "id": "165503959",
+                "start": 73,
+                "username": "NEA"
+              },
+              {
+                "end": 91,
+                "id": "24775410",
+                "start": 83,
+                "username": "sequoia"
+              },
+              {
+                "end": 108,
+                "id": "2236517244",
+                "start": 93,
+                "username": "khoslaventures"
+              },
+              {
+                "end": 124,
+                "id": "780720157",
+                "start": 113,
+                "username": "coatuemgmt"
+              },
+              {
+                "end": 148,
+                "id": "2084935729566609408",
+                "start": 140,
+                "username": "CormaAI"
+              }
+            ]
+          },
+          "text": "We raised a $125M Series A at a $1B valuation, 3 months out of stealth.\n\n@NEA led. @sequoia, @khoslaventures and @coatuemgmt doubled down.\n\n@CormaAI is training foundation models toward superintelligence for defensive cybersecurity.\n\nBecause the greatest gift cyberattackers have ever received is smarter AI, and right now only one side is armed.\n\nArm the defenders."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 744,
+          "impression_count": 1188836,
+          "like_count": 1432,
+          "quote_count": 138,
+          "reply_count": 197,
+          "retweet_count": 134
+        },
+        "text": "We raised a $125M Series A at a $1B valuation, 3 months out of stealth.\n\n@NEA led. @sequoia, @khoslaventures and @coatuemgmt doubled down.\n\n@CormaAI is training foundation models toward superintelligence for defensive cybersecurity.\n\nBecause the greatest gift cyberattackers have https://t.co/do0ElrPjRN"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122379797519089665",
+            "3_2122379925357236224"
+          ]
+        },
+        "author_id": "731917653506318336",
+        "conversation_id": "2122379979694707134",
+        "created_at": "2026-11-16T17:23:13.000Z",
+        "edit_history_tweet_ids": [
+          "2122379979694707134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I68PaMyERN",
+              "end": 301,
+              "expanded_url": "https://x.com/TheRundownAI/status/2122379979694707134/photo/1",
+              "media_key": "3_2122379797519089665",
+              "start": 278,
+              "url": "https://t.co/I68PaMyERN"
+            },
+            {
+              "display_url": "pic.x.com/I68PaMyERN",
+              "end": 301,
+              "expanded_url": "https://x.com/TheRundownAI/status/2122379979694707134/photo/2",
+              "media_key": "3_2122379925357236224",
+              "start": 278,
+              "url": "https://t.co/I68PaMyERN"
+            }
+          ]
+        },
+        "id": "2122379979694707134",
+        "lang": "en",
+        "note_tweet": {
+          "text": "NEW: OpenAI is letting two outside AI safety groups, METR and Apollo Research, look inside its model training to check whether its AI behaves as intended.\n\nApollo is placing six evaluators at OpenAI for four months to test whether models try to work around the systems meant to watch them.\n\nMETR gets transcripts and model snapshots from OpenAI’s largest reinforcement learning run, and plans to publish what it finds."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6084,
+          "like_count": 85,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "text": "NEW: OpenAI is letting two outside AI safety groups, METR and Apollo Research, look inside its model training to check whether its AI behaves as intended.\n\nApollo is placing six evaluators at OpenAI for four months to test whether models try to work around the systems meant to https://t.co/I68PaMyERN"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122338814282592256"
+          ]
+        },
+        "author_id": "1881451105454002176",
+        "conversation_id": "2122339008214876574",
+        "created_at": "2026-11-16T14:40:25.000Z",
+        "edit_history_tweet_ids": [
+          "2122339008214876574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 60,
+              "id": "1879650942410481666",
+              "start": 54,
+              "username": "POTUS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YDzuwqDNfm",
+              "end": 127,
+              "expanded_url": "https://x.com/RapidResponse47/status/2122339008214876574/video/1",
+              "media_key": "13_2122338814282592256",
+              "start": 104,
+              "url": "https://t.co/YDzuwqDNfm"
+            }
+          ]
+        },
+        "id": "2122339008214876574",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 136,
+          "impression_count": 326517,
+          "like_count": 3279,
+          "quote_count": 37,
+          "reply_count": 74,
+          "retweet_count": 342
+        },
+        "text": "\"Do you want to see Jensen Huang reinstated as CEO?\"\n\n@POTUS: \"I would certainly not mind seeing that.\" https://t.co/YDzuwqDNfm"
+      }
+    ],
+    "users": [
+      {
+        "id": "2588345408",
+        "name": "Rohan Paul",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816185267037859840/Fd18CH0v_normal.jpg",
+        "public_metrics": {
+          "followers_count": 161454,
+          "following_count": 6830,
+          "like_count": 78644,
+          "listed_count": 3035,
+          "media_count": 33877,
+          "tweet_count": 84809
+        },
+        "username": "rohanpaul_ai",
+        "verified": false
+      },
+      {
+        "id": "1681613391750905856",
+        "name": "Nasiko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2122303932945051648/ohdPFXsM_normal.jpg",
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 48,
+          "like_count": 445,
+          "listed_count": 10,
+          "media_count": 151,
+          "tweet_count": 421
+        },
+        "username": "nasikolabs",
+        "verified": true
+      },
+      {
+        "id": "1743487864934162432",
+        "name": "Artificial Analysis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042402069320290304/A8C1lP07_normal.jpg",
+        "public_metrics": {
+          "followers_count": 179838,
+          "following_count": 693,
+          "like_count": 2858,
+          "listed_count": 2628,
+          "media_count": 2999,
+          "tweet_count": 4201
+        },
+        "username": "ArtificialAnlys",
+        "verified": true
+      },
+      {
+        "id": "1769941503751671808",
+        "name": "Hub",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120209122725666816/_rwPfwjn_normal.jpg",
+        "public_metrics": {
+          "followers_count": 226457,
+          "following_count": 14,
+          "like_count": 10432,
+          "listed_count": 141,
+          "media_count": 486,
+          "tweet_count": 6252
+        },
+        "username": "hubdotxyz",
+        "verified": true
+      },
+      {
+        "id": "23113993",
+        "name": "Min Choi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1638359113221517312/CBZaJFyA_normal.jpg",
+        "public_metrics": {
+          "followers_count": 392618,
+          "following_count": 1272,
+          "like_count": 54629,
+          "listed_count": 5007,
+          "media_count": 9152,
+          "tweet_count": 58509
+        },
+        "username": "minchoi",
+        "verified": false
+      },
+      {
+        "id": "1825243643529027584",
+        "name": "Lisan al Gaib",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831493788679761920/-q9w6dzd_normal.jpg",
+        "public_metrics": {
+          "followers_count": 63682,
+          "following_count": 1405,
+          "like_count": 56867,
+          "listed_count": 1120,
+          "media_count": 5874,
+          "tweet_count": 25820
+        },
+        "username": "scaling01",
+        "verified": false
+      },
+      {
+        "id": "731917653506318336",
+        "name": "The Rundown AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672707817197965312/zsxkJv_T_normal.jpg",
+        "public_metrics": {
+          "followers_count": 231786,
+          "following_count": 119,
+          "like_count": 4625,
+          "listed_count": 4032,
+          "media_count": 3240,
+          "tweet_count": 5083
+        },
+        "username": "TheRundownAI",
+        "verified": true
+      },
+      {
+        "id": "39622874",
+        "name": "fal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836456388937285632/OFsq77aX_normal.jpg",
+        "public_metrics": {
+          "followers_count": 72879,
+          "following_count": 0,
+          "like_count": 2502,
+          "listed_count": 715,
+          "media_count": 1265,
+          "tweet_count": 3033
+        },
+        "username": "fal",
+        "verified": true
+      },
+      {
+        "id": "1875078099538423808",
+        "name": "MiniMax (official)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875100548535574529/VxHk9HyU_normal.jpg",
+        "public_metrics": {
+          "followers_count": 132005,
+          "following_count": 1017,
+          "like_count": 9688,
+          "listed_count": 1557,
+          "media_count": 284,
+          "tweet_count": 2090
+        },
+        "username": "MiniMax_AI",
+        "verified": true
+      },
+      {
+        "id": "885220904761933824",
+        "name": "Microsoft AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2112590524376825856/xbY9DiiU_normal.jpg",
+        "public_metrics": {
+          "followers_count": 23639,
+          "following_count": 19,
+          "like_count": 154,
+          "listed_count": 388,
+          "media_count": 64,
+          "tweet_count": 264
+        },
+        "username": "MicrosoftAI",
+        "verified": true
+      },
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "public_metrics": {
+          "followers_count": 849860,
+          "following_count": 929,
+          "like_count": 7614,
+          "listed_count": 4230,
+          "media_count": 551,
+          "tweet_count": 3745
+        },
+        "username": "alexandr_wang",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122480175179088217",
+    "next_token": "b26v89c19zqg8o3juzow6fgxpwompbrf3fgon950qwpdp",
+    "oldest_id": "2122358005320864143",
+    "result_count": 25
+  }
+}

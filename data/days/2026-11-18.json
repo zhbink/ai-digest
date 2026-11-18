@@ -149,7 +149,142 @@
       "is_article": false,
       "external_url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2122748544289223100",
+          "url": "https://x.com/CodexReleases/status/2122748544289223100",
+          "handle": "CodexReleases",
+          "display_name": "Codex Releases",
+          "avatar": "https://pbs.twimg.com/profile_images/2060445873285296131/FNkE7_y2_normal.jpg",
+          "verified": false,
+          "followers": 28751,
+          "created_at": "2026-11-17T17:47:46.000Z",
+          "lang": "en",
+          "text": "Codex update: GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex\n\nWhat changed:\n• GPT-6.2 Astra and GPT-6.2 Sol are now available in ChatGPT Work and Codex.\n• Astra is for harder projects; Sol is for everyday coding, writing, and multistep workflows.\n• GPT-6.2 Sol lets you https://t.co/uY1wZbFXf9",
+          "text_zh": "Codex 更新：GPT-6.2 Astra 和 GPT-6.2 Sol 现已在 Work 和 Codex 中提供。\n\n变化：\n• GPT-6.2 Astra 和 GPT-6.2 Sol 现已在 ChatGPT Work 和 Codex 中可用。\n• Astra 面向更难的项目；Sol 面向日常编码、写作和多步骤工作流。\n• GPT-6.2 Sol 可让你……",
+          "summary_zh": "Codex 更新日志：GPT-6.2 Astra 与 Sol 现已在 ChatGPT Work 和 Codex 中提供，Astra 用于更难的项目，Sol 用于日常编码、写作和多步骤流程。",
+          "relation_zh": "母帖的开发者侧细节，说明两款模型在 Codex 中如何分工。",
+          "metrics": {
+            "likes": 243,
+            "retweets": 12,
+            "replies": 13,
+            "quotes": 8,
+            "bookmarks": 9,
+            "views": 19213
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1600,
+              "h": 900,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXWEjUbWsAE_maU.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/CodexReleases/status/2122748544289223100/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-18T01:41:32.102551+00:00"
+        },
+        {
+          "id": "2122753672916664647",
+          "url": "https://x.com/ItsmeAjayKV/status/2122753672916664647",
+          "handle": "ItsmeAjayKV",
+          "display_name": "AJ",
+          "avatar": "https://pbs.twimg.com/profile_images/1878020673521532928/eKvhmxYy_normal.jpg",
+          "verified": false,
+          "followers": 11159,
+          "created_at": "2026-11-17T18:08:09.000Z",
+          "lang": "en",
+          "text": "So GPT 6.2 Astra and Sol is released and two things stand out mainly !\n\n- Firstly, it is available to all Plus, Pro, Enterprise and Edu users in ChatGPT Work and Codex from day 1 !!\n\nThat's how you release a model !!\n\n- Secondly, it is significantly cheaper than GPT 6 Astra, api https://t.co/yScveakna0 https://t.co/1rPJDbtRYt",
+          "text_zh": "GPT 6.2 Astra 和 Sol 发布了，主要有两点：第一，所有 Plus、Pro、企业和教育版用户首日就能在 ChatGPT Work 和 Codex 里用！这才叫发布模型！第二，API 比 GPT 6 Astra 便宜了很多……",
+          "summary_zh": "用户点评两点：Plus、Pro、企业和教育用户首日即可在 ChatGPT Work 和 Codex 使用，API 比 GPT-6 Astra 便宜不少。",
+          "relation_zh": "对应母帖的价格下调和 Plus 可用，是用户视角的概括。",
+          "metrics": {
+            "likes": 14,
+            "retweets": 0,
+            "replies": 3,
+            "quotes": 0,
+            "bookmarks": 1,
+            "views": 1452
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 733,
+              "h": 572,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXWITlAaAAA47ve.png",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/ItsmeAjayKV/status/2122753672916664647/photo/1",
+            "https://twitter.com/ItsmeAjayKV/status/2122751999527801123"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-18T01:41:32.102583+00:00"
+        },
+        {
+          "id": "2122753307215294512",
+          "url": "https://x.com/Merc_HQ/status/2122753307215294512",
+          "handle": "Merc_HQ",
+          "display_name": "Mr. Nobody",
+          "avatar": "https://pbs.twimg.com/profile_images/1446057097007747073/99T6Pn1T_normal.jpg",
+          "verified": false,
+          "followers": 1849,
+          "created_at": "2026-11-17T18:06:41.000Z",
+          "lang": "en",
+          "text": "OpenAI launches GPT-6.2 Astra and GPT-6.2 Sol.\n\nBoth models are now available across ChatGPT Work, Codex, and the OpenAI API.\n\n🔹 Astra: Built for complex professional tasks and advanced reasoning.\n\n🔹 Sol: Designed for everyday tasks with greater efficiency.\n\nBoth aim to deliver https://t.co/aP7qw1tR3t",
+          "text_zh": "OpenAI 推出 GPT-6.2 Astra 和 GPT-6.2 Sol。两款模型现已在 ChatGPT Work、Codex 和 OpenAI API 提供。\n🔹 Astra：为复杂专业任务和高级推理打造。\n🔹 Sol：为日常任务设计，效率更高。\n两者都旨在……",
+          "summary_zh": "资讯号概括：Astra 面向复杂专业任务和高级推理，Sol 面向日常任务、更高效，两者都在 ChatGPT Work、Codex 和 API 提供。",
+          "relation_zh": "对两款模型定位的简明对照。",
+          "metrics": {
+            "likes": 3,
+            "retweets": 1,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 74
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 588,
+              "h": 393,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXWI3yZbsAAb1VP.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/Merc_HQ/status/2122753307215294512/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-18T01:41:32.102593+00:00"
+        }
+      ]
     },
     {
       "id": "2122750634210529569",
@@ -294,7 +429,148 @@
         "text": "OpenAI’s release of GPT-6.2 Astra and GPT-6.2 Sol delivers the #2 model in the Artificial Analysis Intelligence Index and most of the Cost per Task Pareto frontier\n\n@OpenAI's GPT-6.2 Astra is priced at $8/$40, 20% below GPT-6 Astra, and cached input drops to $0.40 from $1.00 per million tokens. GPT-6.2 Sol pricing is unchanged from GPT-6.1 Sol, at $2/$10 per million input/output tokens.\n\nKey takeaways:\n➤ Second in Intelligence Index: OpenAI now trails only Anthropic’s Claude Fable 5.2 in the Artificial Analysis Intelligence Index. GPT-6.2 Astra jumps 5 points from GPT-6 Astra, overtaking Gemini 4 Carbon (60) and Claude Opus 5.5 (59) at their top effort settings. GPT-6.2 Sol gains 2 points at 57, placing it on par with GPT-6 Astra at ~15% of the Cost per Task.\n\n➤ Occupies most of cost and output token frontiers: OpenAI models now occupy most of the Cost per Task Pareto frontier, sharing the frontier with only Anthropic and Meta. OpenAI also dominates the Output Token per Task Pareto Frontier, with Claude Fable 5.2 being the only model from a non-OpenAI lab appearing on the frontier.\n\n➤ Strengths in science and knowledge: OpenAI performs strongly in both of our key science-focused evaluations, leading Terminal-Bench-Science 0.1, covering agentic scientific research workflows, and placing second only to Claude Fable 5.2 in CritPt v2 (hard subset), covering physics reasoning. GPT-6.2 Astra performs below only Claude Fable 5.2 in factual knowledge as measured by AA-Omniscience v1.1 Accuracy, and in HLE-Diamond, a reasoning and knowledge benchmark.\n\n➤ Leading in 3D and robotics: GPT-6.2 Astra leads AA-3D at 1318, with Claude Fable 5.2 at 1271 and GPT-6.2 Sol at 1259. This benchmark measures how well models build interactive 3D experiences, and is rated by human graders. GPT-6.2 also leads AA-Robotics v0.1, our research preview measuring how well language models can understand, plan, and act in the real world. GPT-6.2 Astra and GPT-6.2 Sol scored 79 and 78 respectively, ahead of Claude Fable 5.2 at 75. Our team is hard at work adding more difficult tasks, as OpenAI and Anthropic models can now perform the majority of basic tasks in this initial research preview.\n\n➤ No improvement in Coding Agent Index: GPT-6.2 Astra is flat with GPT-6 Astra, and GPT-6.2 Sol loses 3 points relative to GPT-6.1 Sol in the Artificial Analysis Coding Agent Index (Codex harness at max effort). For Sol, the drop is driven by a 14-point drop in SWE-Atlas-QnA-AA, where the model is more likely than its predecessor to omit key facts in its responses. Cost efficiency however does place several effort levels of GPT-6.2 Astra and Sol on the Pareto frontier for Cost per Task."
       },
       "x_long": true,
-      "article_summary_zh": "Artificial Analysis 的评测结论是：GPT-6.2 Astra 在智能指数上升到第二，只落后于 Claude Fable 5.2，比 GPT-6 Astra 高 5 分；Sol 得 57 分，与 GPT-6 Astra 持平，成本只有约 15%。价格方面，Astra 为输入 $8、输出 $40（降 20%），缓存输入降至 $0.40；Sol 维持 $2/$10。Astra 在科研类 Terminal-Bench-Science、AA-3D 和 AA-Robotics 上领先，知识与物理推理仅次于 Fable 5.2。短板是编码智能体指数：Astra 持平，Sol 反而下降 3 分，主要因为问答中更容易漏掉关键事实。"
+      "article_summary_zh": "Artificial Analysis 的评测结论是：GPT-6.2 Astra 在智能指数上升到第二，只落后于 Claude Fable 5.2，比 GPT-6 Astra 高 5 分；Sol 得 57 分，与 GPT-6 Astra 持平，成本只有约 15%。价格方面，Astra 为输入 $8、输出 $40（降 20%），缓存输入降至 $0.40；Sol 维持 $2/$10。Astra 在科研类 Terminal-Bench-Science、AA-3D 和 AA-Robotics 上领先，知识与物理推理仅次于 Fable 5.2。短板是编码智能体指数：Astra 持平，Sol 反而下降 3 分，主要因为问答中更容易漏掉关键事实。",
+      "attached_posts": [
+        {
+          "id": "2122833249927885215",
+          "url": "https://x.com/poseidanai/status/2122833249927885215",
+          "handle": "poseidanai",
+          "display_name": "poseidanai",
+          "avatar": "https://pbs.twimg.com/profile_images/2119250587690901504/gGeyVZCF_normal.jpg",
+          "verified": false,
+          "followers": 336,
+          "created_at": "2026-11-17T23:24:21.000Z",
+          "lang": "en",
+          "text": "OpenAI launched GPT-6.2 Astra ($8/$40 per million tokens, 20% cheaper) and GPT-6.2 Sol ($2/$10). The benchmark gains are OpenAI's own numbers. Artificial Analysis ranks Astra second, behind Claude Fable 5.2.\n\n#OpenAI #GPT62 #ChatGPT #Codex #AI https://t.co/wyrjpHyYnI",
+          "text_zh": "OpenAI 发布 GPT-6.2 Astra（每百万 token 8/40 美元，便宜 20%）和 GPT-6.2 Sol（2/10 美元）。基准提升是 OpenAI 自己的数字。Artificial Analysis 将 Astra 排在第二，仅次于 Claude Fable 5.2。#OpenAI #GPT62 #ChatGPT #Codex #AI",
+          "summary_zh": "资讯号提示：Astra 每百万 token 8/40 美元、便宜 20%，Sol 为 2/10 美元；OpenAI 自家基准增幅为其自报，Artificial Analysis 排 Astra 第二。",
+          "relation_zh": "把价格和「自报与第三方」的区别放在一起，便于判断。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 53
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/ext_tw_video/2122833185197137920/pu/vid/avc1/1280x720/MRbjfL6g3fWl8WfY.mp4?tag=12",
+              "poster": "https://pbs.twimg.com/ext_tw_video_thumb/2122833185197137920/pu/img/sp-w_sXygjIhgBf9.jpg",
+              "duration_ms": 82430
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/poseidanai/status/2122833249927885215/video/1"
+          ],
+          "hashtags": [
+            "OpenAI",
+            "GPT62",
+            "ChatGPT",
+            "Codex",
+            "AI"
+          ],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-18T01:41:32.051458+00:00"
+        },
+        {
+          "id": "2122750637041693183",
+          "url": "https://x.com/ArtificialAnlys/status/2122750637041693183",
+          "handle": "ArtificialAnlys",
+          "display_name": "Artificial Analysis",
+          "avatar": "https://pbs.twimg.com/profile_images/2042402069320290304/A8C1lP07_normal.jpg",
+          "verified": true,
+          "followers": 181312,
+          "created_at": "2026-11-17T17:56:05.000Z",
+          "lang": "en",
+          "text": "GPT-6.2 Astra is flat with GPT-6 Astra, and GPT-6.2 Sol loses 3 points relative to GPT-6.1 Sol in the Artificial Analysis Coding Agent Index (Codex harness at max effort). https://t.co/pjgWCD0jxm",
+          "text_zh": "在 Artificial Analysis 编码智能体指数（Codex 框架，max 强度）上，GPT-6.2 Astra 与 GPT-6 Astra 持平，GPT-6.2 Sol 比 GPT-6.1 Sol 低 3 分。",
+          "summary_zh": "Artificial Analysis 补充：编码智能体指数（Codex、max 强度）上 GPT-6.2 Astra 与 GPT-6 Astra 持平，Sol 比 6.1 Sol 低 3 分。",
+          "relation_zh": "母帖的「编码智能体指数没有进步」在这里有具体数字。",
+          "metrics": {
+            "likes": 192,
+            "retweets": 15,
+            "replies": 17,
+            "quotes": 49,
+            "bookmarks": 28,
+            "views": 54517
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 2048,
+              "h": 1215,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXWDt2sacAAixtq.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/ArtificialAnlys/status/2122750637041693183/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-18T01:41:32.051409+00:00"
+        },
+        {
+          "id": "2122765326391582939",
+          "url": "https://x.com/Octoberry/status/2122765326391582939",
+          "handle": "Octoberry",
+          "display_name": "O🌷",
+          "avatar": "https://pbs.twimg.com/profile_images/2121275686941851648/KFlBOHAC_normal.jpg",
+          "verified": false,
+          "followers": 2752,
+          "created_at": "2026-11-17T18:54:27.000Z",
+          "lang": "en",
+          "text": "GPT-6.2 Astra still falls behind Fable 5.2.\n\nIt scored 62 on the Artificial Analysis Intelligence Index (verified), still 3 points behind Fable 5.2.\n\nHonestly, I expected more from Astra ngl\n\nEven more interesting, GPT-6.2 Sol has the same score as GPT-6 Astra. https://t.co/aGaeCwqq9M",
+          "text_zh": "GPT-6.2 Astra 仍落后于 Fable 5.2。它在 Artificial Analysis 智能指数上得 62 分（已验证），仍比 Fable 5.2 低 3 分。说实话我期待更高。更有意思的是，GPT-6.2 Sol 与 GPT-6 Astra 同分。",
+          "summary_zh": "用户解读：GPT-6.2 Astra 智能指数 62（已验证），仍比 Fable 5.2 低 3 分，且 Sol 与 GPT-6 Astra 同分。",
+          "relation_zh": "给「第二名」补上与第一名的差距，并点出 Sol 的得分。",
+          "metrics": {
+            "likes": 34,
+            "retweets": 1,
+            "replies": 11,
+            "quotes": 0,
+            "bookmarks": 1,
+            "views": 3416
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 4096,
+              "h": 3034,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXWTylYWsAESySg.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/Octoberry/status/2122765326391582939/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-18T01:41:32.051443+00:00"
+        }
+      ]
     },
     {
       "id": "2122726005219737649",
@@ -409,7 +685,146 @@
         "text": "Over the past week, I’ve been overwhelmed by the love and support of friends, industry colleagues, and people I've never met. Thank you to everyone who has shown kindness to my family and me. It means the world to me.\n\nI came to the United States 53 years ago, and becoming an American citizen is one of the greatest gifts and proudest moments of my life. NVIDIA has been my life’s work. Building it into the company it is today alongside my colleagues has been a privilege and an honor. Nowhere but in America could a company like NVIDIA be possible. I love our country, and I love NVIDIA.\n\nI did not live up to the standards expected of everyone at NVIDIA, and I have made serious mistakes in my personal life. I created problems for the Board that I deeply regret. I own my mistakes completely, and I am committed to cooperating with the Board’s independent investigation. \n\nSince my departure, I’ve seen an outpouring of calls from NVIDIA’s employees, investors, business partners, and customers for me to return as CEO. Many continue to reach out to me directly as the company navigates complex technology, market, competitive, and geopolitical dynamics. NVIDIA is a once-in-a-generation company. If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company, and America, I would be honored to answer these calls and return as CEO.\n\nThank you again to everyone who has shared their good wishes. I am profoundly humbled by your support. To my family: I love you, and I will spend the rest of my life being worthy of yours.\n\nJensen"
       },
       "x_long": true,
-      "article_summary_zh": "黄仁勋在离任约一周后首次公开发声：感谢外界支持，承认自己“没有达到英伟达对每个人的要求”，在个人生活中犯了严重错误，给董事会带来困扰，并表示将配合董事会的独立调查。他提到离开后员工、投资者、合作伙伴和客户纷纷呼吁他回归。他明确表态：如果董事会认为他回归符合股东、员工、公司和美国的最大利益，他愿意重新出任 CEO。"
+      "article_summary_zh": "黄仁勋在离任约一周后首次公开发声：感谢外界支持，承认自己“没有达到英伟达对每个人的要求”，在个人生活中犯了严重错误，给董事会带来困扰，并表示将配合董事会的独立调查。他提到离开后员工、投资者、合作伙伴和客户纷纷呼吁他回归。他明确表态：如果董事会认为他回归符合股东、员工、公司和美国的最大利益，他愿意重新出任 CEO。",
+      "attached_posts": [
+        {
+          "id": "2122810158070059438",
+          "url": "https://x.com/tm456xk/status/2122810158070059438",
+          "handle": "tm456xk",
+          "display_name": "Victoria Anderson",
+          "avatar": "https://pbs.twimg.com/profile_images/2120939026723266560/fsayKrC3_normal.jpg",
+          "verified": false,
+          "followers": 5,
+          "created_at": "2026-11-17T21:52:36.000Z",
+          "lang": "en",
+          "text": "Jensen Huang has finally spoken! At 12:18 a.m., Jensen Huang\n@JensenHuang\nposted on X himself, and the entire AI world woke up! The post has already surpassed 23.5 million views.  This is his first public statement since stepping down as NVIDIA’s CEO on November 12. In the post, https://t.co/cjdQolVbhf",
+          "text_zh": "黄仁勋终于发声了！他本人在 X 上发帖，整个 AI 圈都醒了！这是他 11 月 12 日卸任英伟达 CEO 以来的首次公开表态……",
+          "summary_zh": "资讯号称黄仁勋 11 月 12 日卸任 CEO 后首次公开发声，帖子阅读量已很高（数字为转述）。",
+          "relation_zh": "母帖公开信的外部反响汇总，视频版。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 160
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 496,
+              "h": 270,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2122810100209549312/vid/avc1/496x270/kXGAHK6a5NU9L_u2.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2122810100209549312/img/4ygf5t8Lf-7U4nKQ.jpg",
+              "duration_ms": 8128
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/tm456xk/status/2122810158070059438/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "JensenHuang"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-18T01:41:32.077766+00:00"
+        },
+        {
+          "id": "2122779191993160078",
+          "url": "https://x.com/heroftoronto/status/2122779191993160078",
+          "handle": "heroftoronto",
+          "display_name": "wellthen",
+          "avatar": "https://pbs.twimg.com/profile_images/2061252521109172227/FiiStrPe_normal.jpg",
+          "verified": false,
+          "followers": 53,
+          "created_at": "2026-11-17T19:49:33.000Z",
+          "lang": "en",
+          "text": "Jensen Says He'd Come Back\n\nJensen Huang just said he'd come back as Nvidia's CEO, but only if the board wants him. He resigned last week, the board launched an independent investigation, and a petition to bring him back has more than 194,000 signatures (as of 12:21 p.m. ET). https://t.co/qjVUqYAzUg https://t.co/kZeYkOg3bC",
+          "text_zh": "黄仁勋说他愿意回来。他刚说，只有董事会希望他回归，他才会重新担任英伟达 CEO。他上周辞职，董事会启动了独立调查，要求他回归的请愿已有超过 19.4 万人签名（截至美东时间中午 12:21）。",
+          "summary_zh": "报道：黄仁勋称董事会若希望他回来就会回归；他上周辞职，董事会启动独立调查，要求他回归的请愿已超 19.4 万人签名。",
+          "relation_zh": "给公开信补上背景：调查、请愿规模。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 132
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1080,
+              "h": 1920,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2122777970548879360/vid/avc1/1080x1920/kNOlf0ZNBi4AkF1U.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2122777970548879360/img/jNYyHfIwDvp5YQkm.jpg",
+              "duration_ms": 64400
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/heroftoronto/status/2122779191993160078/video/1",
+            "https://x.com/JensenHuang/status/2122726005219737649"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-18T01:41:32.077802+00:00"
+        },
+        {
+          "id": "2122759209787810099",
+          "url": "https://x.com/IntEngineering/status/2122759209787810099",
+          "handle": "IntEngineering",
+          "display_name": "Interesting Engineering",
+          "avatar": "https://pbs.twimg.com/profile_images/1452616030379982856/DsIZULz4_normal.jpg",
+          "verified": false,
+          "followers": 319228,
+          "created_at": "2026-11-17T18:30:09.000Z",
+          "lang": "en",
+          "text": "In his first public statement since leaving the company, Jensen Huang has said he would be honored to return as Nvidia CEO if the board decides it serves the interests of shareholders, employees, the company, and America. Until now, the push for his return came from outside, https://t.co/yNgpuBG2Ej",
+          "text_zh": "在离开公司后的首次公开声明中，黄仁勋表示，如果董事会认为符合股东、员工、公司和美国的利益，他将荣幸回归担任英伟达 CEO。到目前为止，推动他回归的声音都来自外部……",
+          "summary_zh": "Interesting Engineering 报道：这是他离职后首次公开表态，若董事会认为符合股东、员工、公司和美国的利益，他愿意荣幸回归。",
+          "relation_zh": "公开信核心表述的媒体转述，并指出此前呼吁回归的声音都来自外部。",
+          "metrics": {
+            "likes": 9,
+            "retweets": 4,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 3,
+            "views": 1776
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1080,
+              "h": 1350,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXWOQFaWcAEdicP.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/IntEngineering/status/2122759209787810099/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-18T01:41:32.077813+00:00"
+        }
+      ]
     },
     {
       "id": "2122662616367853670",
@@ -553,7 +968,153 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2122667562269814984",
+          "url": "https://x.com/testingcatalog/status/2122667562269814984",
+          "handle": "testingcatalog",
+          "display_name": "🚨 AI News | TestingCatalog",
+          "avatar": "https://pbs.twimg.com/profile_images/1899962463115751424/i-6MBWau_normal.jpg",
+          "verified": true,
+          "followers": 85025,
+          "created_at": "2026-11-17T12:25:58.000Z",
+          "lang": "en",
+          "text": "Isomorphic Labs raised $5 Billion in Series C funding from Greenoaks, Sequoia Capital and Andreessen Horowitz, with continued investment from Alphabet. \n\n&gt; Isomorphic Labs, founded by Demis Hassabis, is focussed on designing and developing new medicines with AI, ushering in a new https://t.co/19aUpNZFu2 https://t.co/9f8OZAkrI3",
+          "text_zh": "Isomorphic Labs 完成 50 亿美元 C 轮融资，投资方包括 Greenoaks、红杉资本和 a16z，Alphabet 继续投资。\n\n> 由 Demis Hassabis 创立的 Isomorphic Labs 专注于用 AI 设计和开发新药……",
+          "summary_zh": "TestingCatalog 报道：Isomorphic Labs 的 50 亿美元 C 轮由 Greenoaks、红杉、a16z 参与，Alphabet 继续投资。",
+          "relation_zh": "给母帖补上投资方名单，是融资事实的第一手汇总。",
+          "metrics": {
+            "likes": 74,
+            "retweets": 5,
+            "replies": 16,
+            "quotes": 0,
+            "bookmarks": 7,
+            "views": 7600
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1290,
+              "h": 1290,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXU65ZGW0AADPXm.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 400,
+              "h": 400,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXU65ZHWIAAMXk_.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo",
+            "photo"
+          ],
+          "links": [
+            "https://x.com/testingcatalog/status/2122667562269814984/photo/1",
+            "https://x.com/testingcatalog/status/2122667562269814984/photo/2",
+            "https://twitter.com/demishassabis/status/2122662616367853670"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-18T01:41:32.016447+00:00"
+        },
+        {
+          "id": "2122677397438816344",
+          "url": "https://x.com/AGTPinsights/status/2122677397438816344",
+          "handle": "AGTPinsights",
+          "display_name": "AGTP",
+          "avatar": "https://pbs.twimg.com/profile_images/2091502140917415936/CNbeDaNw_normal.jpg",
+          "verified": false,
+          "followers": 6435,
+          "created_at": "2026-11-17T13:05:03.000Z",
+          "lang": "en",
+          "text": "Isomorphic Labs just closed a $5 billion Series C today. Here's what you need to know.\n\nThe round is co-led by Greenoaks and Sequoia Capital, and the company says it was oversubscribed. Andreessen Horowitz joins as a new investor. Alphabet, Isomorphic's parent company, and GV https://t.co/TvIQA9oQTB https://t.co/DmpajrEwNQ",
+          "text_zh": "Isomorphic Labs 今天宣布完成 50 亿美元 C 轮融资。你需要知道的要点：本轮由 Greenoaks 和红杉联合领投，公司称认购超额，a16z 作为新投资方加入，Alphabet 和 GV……",
+          "summary_zh": "资讯号梳理：C 轮由 Greenoaks 与红杉联合领投，认购超额，a16z 作为新投资方加入。",
+          "relation_zh": "补充了「超额认购」和新老投资方细节。",
+          "metrics": {
+            "likes": 2,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 4,
+            "bookmarks": 1,
+            "views": 3167
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1254,
+              "h": 1254,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXVDqgXWAAAbK35.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/AGTPinsights/status/2122677397438816344/photo/1",
+            "https://twitter.com/IsomorphicLabs/status/2122661054723547449"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-18T01:41:32.016476+00:00"
+        },
+        {
+          "id": "2122855476022927761",
+          "url": "https://x.com/leonardrinser/status/2122855476022927761",
+          "handle": "leonardrinser",
+          "display_name": "Leonard Rinser | The Health Guy",
+          "avatar": "https://pbs.twimg.com/profile_images/2121013086467289088/Mx8SRL_Z_normal.jpg",
+          "verified": false,
+          "followers": 31,
+          "created_at": "2026-11-18T00:52:40.000Z",
+          "lang": "en",
+          "text": "FUNDING: Alphabet-backed Isomorphic Labs raised $5 billion, co-led by Greenoaks and Sequoia Capital. Its first drug candidates are not yet in human trials. A bet on its AI drug design engine before any proof in patients. Source: Isomorphic Labs, Reuters. Image: Isomorphic Labs https://t.co/gilWCJaeGn",
+          "text_zh": "融资：Alphabet 支持的 Isomorphic Labs 融资 50 亿美元，由 Greenoaks 和红杉资本联合领投。其首批候选药物尚未进入人体试验。这是在患者身上拿出证据之前，对其 AI 药物设计引擎的一次押注。来源：Isomorphic Labs、路透社。",
+          "summary_zh": "评论指出：Alphabet 支持的 Isomorphic 融到 50 亿美元，但首批候选药物尚未进入人体试验，是在患者验证之前押注其 AI 药物设计引擎。",
+          "relation_zh": "给融资补上风险视角：钱到位了，临床证据还没有。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 2
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1600,
+              "h": 900,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXXlznnW0AEWifU.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/leonardrinser/status/2122855476022927761/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-18T01:41:32.016486+00:00"
+        }
+      ]
     },
     {
       "id": "2122664990624641421",
@@ -710,7 +1271,138 @@
         "text": "This by Anthropic seems both right & a condemnation of many “agentic solutions” & harnesses being built at companies. Rather than a sprawl of specialized subagents built by different teams, you often get better & cheaper results using one agent to do it all https://t.co/0dkBHZzUiU"
       },
       "x_long": true,
-      "article_summary_zh": "Anthropic 应用 AI 团队发现，在多个企业部署对比中，“单一智能体 + 技能（skills）”经常比“一个提示词包打天下”和“多子智能体”两种设计质量更好，单任务成本和延迟也更低。常见反面模式是：每个团队各自做一个子智能体，再由平台团队在上面套编排器，导致上下文在交接中丢失、子智能体泛滥、架构变成组织架构图的翻版（康威定律）。文章认为很多场景只需一个清晰的系统提示、4–5 个轻量数据工具和严格的输出护栏。子智能体仍适用于上下文膨胀导致性能下降、需要并行且可丢弃的新上下文、或工具选择与指令冲突等情况；建议先建小型端到端评测，每次只并入一个子智能体，表现变差才保留。"
+      "article_summary_zh": "Anthropic 应用 AI 团队发现，在多个企业部署对比中，“单一智能体 + 技能（skills）”经常比“一个提示词包打天下”和“多子智能体”两种设计质量更好，单任务成本和延迟也更低。常见反面模式是：每个团队各自做一个子智能体，再由平台团队在上面套编排器，导致上下文在交接中丢失、子智能体泛滥、架构变成组织架构图的翻版（康威定律）。文章认为很多场景只需一个清晰的系统提示、4–5 个轻量数据工具和严格的输出护栏。子智能体仍适用于上下文膨胀导致性能下降、需要并行且可丢弃的新上下文、或工具选择与指令冲突等情况；建议先建小型端到端评测，每次只并入一个子智能体，表现变差才保留。",
+      "attached_posts": [
+        {
+          "id": "2122709536242810901",
+          "url": "https://x.com/Vibefold/status/2122709536242810901",
+          "handle": "Vibefold",
+          "display_name": "Vibefold",
+          "avatar": "https://pbs.twimg.com/profile_images/2112586347881848832/4jJFRIra_normal.jpg",
+          "verified": false,
+          "followers": 15,
+          "created_at": "2026-11-17T15:12:46.000Z",
+          "lang": null,
+          "text": "ANTHROPIC'S ADVICE FOR TEAMS BUILDING AGENT SWARMS: FOLD THEM BACK INTO ONE AGENT\n\ntheir article on when to fold subagents into the main loop is going around today. short version: one agent with skills often beats a router, a planner and a row of specialists on quality, cost and https://t.co/WOl29HOPds",
+          "text_zh": "Anthropic 给搭智能体集群团队的建议：把它们折回一个智能体。他们那篇讲何时把子智能体并回主循环的文章今天在传。简而言之：一个带技能的智能体，往往在质量、成本和……上胜过路由器、规划器加一排专家。",
+          "summary_zh": "资讯号概括 Anthropic 的文章：搭智能体集群的团队应把子智能体折回一个主智能体，一个带技能的智能体往往在质量和成本上胜过路由加规划加专家的组合。",
+          "relation_zh": "直接复述母帖所指的 Anthropic 文章结论，补充了「路由、规划、专家」对比。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 24
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1080,
+              "h": 1350,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2122709219967107072/vid/avc1/1080x1350/BSy5H_X89IdLs_am.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2122709219967107072/img/TU1cZCNdFgy40vz4.jpg",
+              "duration_ms": 24000
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-18T01:41:31.990412+00:00"
+        },
+        {
+          "id": "2122390160591491474",
+          "url": "https://x.com/fffuckingnerd/status/2122390160591491474",
+          "handle": "fffuckingnerd",
+          "display_name": "f*cking nerd 🤓",
+          "avatar": "https://pbs.twimg.com/profile_images/2111397645067456512/DdosDyKF_normal.jpg",
+          "verified": false,
+          "followers": 247,
+          "created_at": "2026-11-16T18:03:41.000Z",
+          "lang": null,
+          "text": "HOLY SH*T, THE GUY WHO RUNS CLAUDE CODE STOPPED WRITING CODE AND DIDN'T NOTICE FOR WEEKS. NOW HIS CLAUDE RUNS 12-HOUR INVESTIGATIONS WITH 10 AGENTS AT ONCE\n\nboris cherny, head of claude code at anthropic. no hand-written code since last november. he only realized weeks later. https://t.co/3jErz9upiW https://t.co/SnHgTDAJYU",
+          "text_zh": "天哪，运营 Claude Code 的那位停止写代码好几周都没察觉。现在他的 Claude 能让 10 个智能体同时跑 12 小时的调查。Anthropic 的 Claude Code 负责人 Boris Cherny 自去年 11 月起就没有手写代码，几周后才意识到。",
+          "summary_zh": "Claude Code 负责人 Boris Cherny 称自己去年 11 月后没再手写代码，现在的 Claude 能让 10 个智能体同时跑 12 小时的调查。",
+          "relation_zh": "与母帖形成对照：Anthropic 内部一边大规模并行跑智能体，一边建议能合并就合并。",
+          "metrics": {
+            "likes": 37,
+            "retweets": 0,
+            "replies": 2,
+            "quotes": 0,
+            "bookmarks": 32,
+            "views": 679
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1280,
+              "h": 720,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2122389637209509888/vid/avc1/1280x720/I8uJ3XxQrjKCg9dy.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2122389637209509888/img/lgSu5x0KT2ZTuUFu.jpg",
+              "duration_ms": 45745
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2080693998180606075",
+          "article_title": null,
+          "attached_at": "2026-11-18T01:41:31.990447+00:00"
+        },
+        {
+          "id": "2122384960602448213",
+          "url": "https://x.com/AshleyD75536765/status/2122384960602448213",
+          "handle": "AshleyD75536765",
+          "display_name": "Ashley Dillard",
+          "avatar": "https://pbs.twimg.com/profile_images/1038868923163332610/I8Y2M13h_normal.jpg",
+          "verified": false,
+          "followers": 27,
+          "created_at": "2026-11-16T17:43:01.000Z",
+          "lang": null,
+          "text": "Boris Cherny, Head of Claude Code at Anthropic, says most engineers at the company are running dozens or hundreds of agents.\n\nOne agent. Then ten. Then a hundred.\n\nAt first, you watch one agent work on one task.\n\nOnce you trust it, you start another. Separate checkouts let you https://t.co/oKcc2REYQS https://t.co/awRhNFhbzq",
+          "text_zh": "Anthropic 的 Claude Code 负责人 Boris Cherny 说，公司里大多数工程师都在同时运行几十甚至上百个智能体。",
+          "summary_zh": "Boris Cherny 称 Anthropic 多数工程师在同时运行几十甚至上百个智能体。",
+          "relation_zh": "说明 Anthropic 内部多智能体使用的规模，是理解那篇「合并」建议的背景。",
+          "metrics": {
+            "likes": 18,
+            "retweets": 1,
+            "replies": 2,
+            "quotes": 0,
+            "bookmarks": 19,
+            "views": 361
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1280,
+              "h": 720,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2122384844076331009/vid/avc1/1280x720/_FN9uvp7k8zsjNzP.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2122384844076331009/img/dIma4n7l6fu-stDw.jpg",
+              "duration_ms": 84922
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2080693998180606075",
+          "article_title": null,
+          "attached_at": "2026-11-18T01:41:31.990460+00:00"
+        }
+      ]
     },
     {
       "id": "2122628662013177948",
@@ -3144,7 +3836,136 @@
         "text": "Introducing Qwen3.8-27B-pi-adapted 🤗\n\nWe adapted Qwen's model specifically for the pi coding agent using reinforcement learning and a LoRA adapter.\n\nThe results, measured as pass@1:\n🚀 SWE-bench Pro (Hard 51): 29.4% → 62.7%\n💻 Terminal-Bench 2.1: 39.5% → 55.8%\n⚡ 55–62% fewer tool calls per task\n\nThis is the power of open models: you can adapt them to YOUR tools and YOUR use cases. Let’s build! 💛\n\nOpen weights: https://t.co/aH4cl2qnED\nMethodology: https://t.co/avSfF93K4V"
       },
       "x_long": true,
-      "article_summary_zh": "Hugging Face 联合创始人介绍了 Qwen3.8-27B-pi-adapted：在 Qwen3.8-27B 基础上，用强化学习训练一个 LoRA 适配器，专门让模型适配 pi 编程智能体的工具与流程。按 pass@1 计，SWE-bench Pro 困难子集从 29.4% 提升到 62.7%，Terminal-Bench 2.1 从 39.5% 提升到 55.8%，每个任务的工具调用次数减少 55–62%。权重已在 Hugging Face 开放，方法说明发布在 harness-hub 博客。作者借此强调，开源模型的优势在于可以针对自己的工具链做定制。"
+      "article_summary_zh": "Hugging Face 联合创始人介绍了 Qwen3.8-27B-pi-adapted：在 Qwen3.8-27B 基础上，用强化学习训练一个 LoRA 适配器，专门让模型适配 pi 编程智能体的工具与流程。按 pass@1 计，SWE-bench Pro 困难子集从 29.4% 提升到 62.7%，Terminal-Bench 2.1 从 39.5% 提升到 55.8%，每个任务的工具调用次数减少 55–62%。权重已在 Hugging Face 开放，方法说明发布在 harness-hub 博客。作者借此强调，开源模型的优势在于可以针对自己的工具链做定制。",
+      "attached_posts": [
+        {
+          "id": "2122806028165124244",
+          "url": "https://x.com/mfranz_on/status/2122806028165124244",
+          "handle": "mfranz_on",
+          "display_name": "Marco Franzon",
+          "avatar": "https://pbs.twimg.com/profile_images/1982545439300677632/jnTqD4OZ_normal.jpg",
+          "verified": false,
+          "followers": 17142,
+          "created_at": "2026-11-17T21:36:11.000Z",
+          "lang": null,
+          "text": "Tried harness-hub/Qwen3.8-27B-pi-adapted: a 640 MB LoRA on Qwen3.8-27B, RL-trained to drive the pi coding agent.\n\nReported vs base under pi:\n- Terminal-Bench 2.1: 39.5% -&gt; 55.8%\n- SWE-bench Pro (hard): 29.4% -&gt; 62.7%\n- 60% fewer tool calls\n\nPagoda benchmark in ~1 minute https://t.co/5PdKQB5ykH",
+          "text_zh": "试了 harness-hub/Qwen3.8-27B-pi-adapted：一个 640MB 的 LoRA，在 Qwen3.8-27B 上用强化学习训练，专门驱动 pi 编程智能体。\n\n报告的 pi 下对比基础模型：\n- Terminal-Bench 2.1：39.5% -> 55.8%\n- SWE-bench Pro（困难集）：29.4% -> 62.7%\n- 工具调用少 60%\n\nPagoda 基准约 1 分钟跑完",
+          "summary_zh": "开发者实测 harness-hub/Qwen3.8-27B-pi-adapted：640MB 的 LoRA，pi 下 SWE-bench Pro 困难集 29.4%→62.7%，工具调用减少约 60%，并跑了约 1 分钟的 Pagoda 基准。",
+          "relation_zh": "母帖是官方公布数字，这条是第三方上手跑通的演示视频。",
+          "metrics": {
+            "likes": 33,
+            "retweets": 2,
+            "replies": 3,
+            "quotes": 1,
+            "bookmarks": 25,
+            "views": 4434
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1104,
+              "h": 670,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2122805875291181056/vid/avc1/1104x670/S7U5ouEYeU0MewBa.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2122805875291181056/img/VeZaA0cidwbn4c0-.jpg",
+              "duration_ms": 12733
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-18T01:41:31.962265+00:00"
+        },
+        {
+          "id": "2122841877984481733",
+          "url": "https://x.com/AGTPinsights/status/2122841877984481733",
+          "handle": "AGTPinsights",
+          "display_name": "AGTP",
+          "avatar": "https://pbs.twimg.com/profile_images/2091502140917415936/CNbeDaNw_normal.jpg",
+          "verified": false,
+          "followers": 6435,
+          "created_at": "2026-11-17T23:58:38.000Z",
+          "lang": null,
+          "text": "Hugging Face just released Qwen3.8-27B-pi-adapted, a LoRA adapter that makes Qwen's open model much better at the pi coding agent. Here's what you need to know.\n\nClem Delangue, Hugging Face's co-founder and CEO, announced it today. The team adapted Qwen3.8-27B specifically for https://t.co/POVoIDMGXP https://t.co/92AZY3wxB2",
+          "text_zh": "Hugging Face 刚发布 Qwen3.8-27B-pi-adapted，一个让 Qwen 开源模型在 pi 编程智能体上表现大幅提升的 LoRA 适配器。你需要知道的要点：Hugging Face 联合创始人兼 CEO Clem Delangue 今天宣布，团队专门针对……",
+          "summary_zh": "资讯号梳理：Hugging Face 联合创始人兼 CEO Clem Delangue 宣布，把 Qwen3.8-27B 专门适配到 pi 的 LoRA 适配器。",
+          "relation_zh": "对发布背景做了中文友好的要点整理，适合快速了解。",
+          "metrics": {
+            "likes": 1,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 3,
+            "bookmarks": 1,
+            "views": 162
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1254,
+              "h": 1254,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXXZbK1WgAA9ZOz.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2122784279604383914",
+          "article_title": null,
+          "attached_at": "2026-11-18T01:41:31.962298+00:00"
+        },
+        {
+          "id": "2122118832441708600",
+          "url": "https://x.com/TeksEdge/status/2122118832441708600",
+          "handle": "TeksEdge",
+          "display_name": "David Hendrickson",
+          "avatar": "https://pbs.twimg.com/profile_images/1682428434792980485/Z3VcwEl7_normal.jpg",
+          "verified": false,
+          "followers": 13419,
+          "created_at": "2026-11-16T00:05:31.000Z",
+          "lang": null,
+          "text": "Now this is some localmaxxer surgery.  Check out this procedure.  \n\nFitting into 16GB of VRAM!\n\nu/fakezeta removed 43% of Qwen3.8-27B's vocabulary.\n\nAnd he's running it at ~60 tps with a 75K context window on a 16GB RTX 5060 Ti.\n\nLocalmaxxers keep finding new ways around the VRAM https://t.co/3mM44ZDASk",
+          "text_zh": "这才是本地玩家的「外科手术」。看看这个流程：塞进 16GB 显存！u/fakezeta 去掉了 Qwen3.8-27B 43% 的词表，在 16GB 的 RTX 5060 Ti 上跑到约 60 tps、75K 上下文。本地玩家总能找到绕开显存限制的新办法。",
+          "summary_zh": "同一基座 Qwen3.8-27B 的本地化玩法：有人砍掉 43% 词表，在 16GB 显存的 RTX 5060 Ti 上以约 60 tps、75K 上下文运行。",
+          "relation_zh": "同一模型的另一条落地路径：母帖是针对 pi 的适配，这条是压到消费级显卡。",
+          "metrics": {
+            "likes": 64,
+            "retweets": 4,
+            "replies": 9,
+            "quotes": 4,
+            "bookmarks": 74,
+            "views": 8797
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 758,
+              "h": 497,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXNG5paacAAAgP3.png",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-18T01:41:31.962308+00:00"
+        }
+      ]
     },
     {
       "id": "2122758127968027108",
@@ -3403,7 +4224,138 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2122745839223484554",
+          "url": "https://x.com/DynamicWebPaige/status/2122745839223484554",
+          "handle": "DynamicWebPaige",
+          "display_name": "👩‍💻 Paige Bailey",
+          "avatar": "https://pbs.twimg.com/profile_images/626762747330457600/X3Bx503W_normal.jpg",
+          "verified": false,
+          "followers": 76923,
+          "created_at": "2026-11-17T17:37:01.000Z",
+          "lang": null,
+          "text": "👀🤖 New plug-ins on the scene in @antigravity... https://t.co/qPJMLui4RV",
+          "text_zh": "👀🤖 @antigravity 里出现了新插件……",
+          "summary_zh": "Google 开发者布道师 Paige Bailey 展示 Antigravity 新上线的插件体系。",
+          "relation_zh": "母帖讲新界面，这条补上同一版本里的插件扩展能力，是可编排多智能体之外的另一半。",
+          "metrics": {
+            "likes": 72,
+            "retweets": 0,
+            "replies": 6,
+            "quotes": 1,
+            "bookmarks": 23,
+            "views": 10000
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 946,
+              "h": 720,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2122745501095464960/vid/avc1/946x720/CsTGah-YFO5TtNG0.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2122745501095464960/img/R_KoLZiu43r2qLrM.jpg",
+              "duration_ms": 9933
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-18T01:41:31.878058+00:00"
+        },
+        {
+          "id": "2122553302911275222",
+          "url": "https://x.com/iCleanAI/status/2122553302911275222",
+          "handle": "iCleanAI",
+          "display_name": "Hekate",
+          "avatar": "https://pbs.twimg.com/profile_images/2101078057461403648/dSdfmWOg_normal.jpg",
+          "verified": false,
+          "followers": 198,
+          "created_at": "2026-11-17T04:51:57.000Z",
+          "lang": null,
+          "text": "🎬 Antigravity walks through its redesigned UI, rebuilt from the ground up for orchestrating multiple agents in parallel with full visibility and control.\n\n#Antigravity #Google https://t.co/XZhvljLNNH",
+          "text_zh": "🎬 Antigravity 带你看重新设计的界面：从头重做，用来并行编排多个智能体，全程可见、可控。#Antigravity #Google",
+          "summary_zh": "账号转发的官方演示：Antigravity 重新设计的界面，围绕并行编排多个智能体，全程可见、可控。",
+          "relation_zh": "直接对应母帖的新界面介绍，是同一演示的视频版。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 3
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2122514539291783168/vid/avc1/1920x1080/SK8b0IjbWZ92j2WH.mp4?tag=16",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2122514539291783168/img/VTT_rMCui9Ti4Z99.jpg",
+              "duration_ms": 266026
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-18T01:41:31.878095+00:00"
+        },
+        {
+          "id": "2122792626109960197",
+          "url": "https://x.com/rseroter/status/2122792626109960197",
+          "handle": "rseroter",
+          "display_name": "Richard Seroter",
+          "avatar": "https://pbs.twimg.com/profile_images/1517719733184868354/erDRiiQZ_normal.jpg",
+          "verified": false,
+          "followers": 37737,
+          "created_at": "2026-11-17T20:42:56.000Z",
+          "lang": null,
+          "text": "Antigravity becomes a robotics workbench?\n\nThis new @antigravity Robotics plugin, along with Gemini 4 Hydrogen, looks pretty amazing.\nhttps://t.co/7NnhI4TLW9 https://t.co/0ekmccsglu",
+          "text_zh": "Antigravity 变成机器人工作台了？这个新的 @antigravity 机器人插件，配合 Gemini 4 Hydrogen，看起来相当惊艳。",
+          "summary_zh": "Google 开发者布道师 Richard Seroter 称，新的 Antigravity 机器人插件配合 Gemini 4 Hydrogen，让它变成机器人工作台。",
+          "relation_zh": "说明新版 Antigravity 的插件已延伸到机器人开发，不止写代码。",
+          "metrics": {
+            "likes": 15,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 1,
+            "views": 818
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 2902,
+              "h": 1680,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2122792499286822912/vid/avc1/2902x1680/Z_jYxfpzsE6jWa0Q.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2122792499286822912/img/XYbjfzo9yuo94xfX.jpg",
+              "duration_ms": 24683
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-18T01:41:31.878106+00:00"
+        }
+      ]
     },
     {
       "id": "2122738284405117217",
@@ -3539,7 +4491,126 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2122769885310939469",
+          "url": "https://x.com/Just_sharon7/status/2122769885310939469",
+          "handle": "Just_sharon7",
+          "display_name": "Sharon Riley",
+          "avatar": "https://pbs.twimg.com/profile_images/2095251203152347136/7FLjn--r_normal.jpg",
+          "verified": false,
+          "followers": 49283,
+          "created_at": "2026-11-17T19:12:34.000Z",
+          "lang": null,
+          "text": "I just tried Avatar 6 from HeyGen and I’m still not over how real it looks.\n\nPrevious avatars looked like me but kept repeating the same gestures. \n\nAvatar 6 actually understands the script and delivers it the way I would.\n\n#Avatar6 #HeyGen https://t.co/oaaaB0FLsa https://t.co/RBwErfzu5k",
+          "text_zh": "我刚试了 HeyGen 的 Avatar 6，到现在还被它的真实感震到。以前的数字人长得像我，但总是重复同样的手势。Avatar 6 真的能理解脚本，并用我会用的方式把它讲出来。#Avatar6 #HeyGen",
+          "summary_zh": "用户实测 HeyGen Avatar 6：以前的数字人总重复同样的手势，这一代能理解脚本并像本人一样表达。",
+          "relation_zh": "母帖说 84% 的人分不出真假，这条是用户的真实上手感受，能直接看到效果。",
+          "metrics": {
+            "likes": 53,
+            "retweets": 7,
+            "replies": 32,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 3393
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2122769423367020544/vid/avc1/1920x1080/UQBBv3F-0KgTMiKo.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2122769423367020544/img/LPa96k1udSHaqrbm.jpg",
+              "duration_ms": 12520
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2122738284405117217",
+          "article_title": null,
+          "attached_at": "2026-11-18T01:41:31.934994+00:00"
+        },
+        {
+          "id": "2122776323504341262",
+          "url": "https://x.com/MaAyyoub/status/2122776323504341262",
+          "handle": "MaAyyoub",
+          "display_name": "Ayyoub Ai",
+          "avatar": "https://pbs.twimg.com/profile_images/2112256686459146240/pqoHA72p_normal.jpg",
+          "verified": false,
+          "followers": 1690,
+          "created_at": "2026-11-17T19:38:09.000Z",
+          "lang": null,
+          "text": "Meet Avatar 6 by @HeyGen ! 🔥\n\nMy Personal Avatar now does more than just talk. It uses natural gestures, realistic expressions, and movements that match every sentence.\n\nI write the script. Avatar 6 brings it to life.\n\nThis is a whole new level of AI avatars.\n\nMade with HeyGen. https://t.co/LFjvMGCFYV https://t.co/eBlVH9G4xN",
+          "text_zh": "认识 @HeyGen 的 Avatar 6！我的个人数字人现在不只是说话，还有自然的手势、逼真的表情，动作和每句话都对得上。我写脚本，Avatar 6 把它演出来。这是 AI 数字人的全新层次。用 HeyGen 制作。",
+          "summary_zh": "用户展示个人数字人在 Avatar 6 下的表现：自然手势、逼真表情，动作与每句话匹配。",
+          "relation_zh": "补充了「个人数字人」这条使用路径，说明升级不只是库存形象。",
+          "metrics": {
+            "likes": 2,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 144
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1080,
+              "h": 1920,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2122776069820301314/vid/avc1/1080x1920/J9P3q8opGXuUcDvm.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2122776069820301314/img/8FoSXYpYG5m_0x5R.jpg",
+              "duration_ms": 41000
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2122738284405117217",
+          "article_title": null,
+          "attached_at": "2026-11-18T01:41:31.935029+00:00"
+        },
+        {
+          "id": "2122745992588210686",
+          "url": "https://x.com/adityab29_/status/2122745992588210686",
+          "handle": "adityab29_",
+          "display_name": "Aditya",
+          "avatar": "https://pbs.twimg.com/profile_images/1939704054881673216/bmsLAY6f_normal.jpg",
+          "verified": false,
+          "followers": 271,
+          "created_at": "2026-11-17T17:37:38.000Z",
+          "lang": null,
+          "text": "avatar arena results are in. @HeyGen avatar 6 is unbelievably good at creating both personal and stock ai avatars! https://t.co/ZPurBYsZmI",
+          "text_zh": "数字人竞技场的结果出来了。@HeyGen 的 Avatar 6 在生成个人数字人和库存 AI 数字人上都好得难以置信！",
+          "summary_zh": "用户引用数字人竞技场结果：HeyGen Avatar 6 在个人和库存两类数字人上都表现突出。",
+          "relation_zh": "对应母帖「竞技场排名第一」的说法，是榜单结果的旁证。",
+          "metrics": {
+            "likes": 4,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 88
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2122734577987023020",
+          "article_title": null,
+          "attached_at": "2026-11-18T01:41:31.935039+00:00"
+        }
+      ]
     },
     {
       "id": "2122756295744983543",
@@ -4337,7 +5408,136 @@
         "text": "做视频和自动化切片的兄弟，可以给 Claude Code、Codex 配一把趁手的裁纸刀了。\n\nGitHub 今天涨了快 400 星的 ffmpeg-skill：专给编程智能体写的本地剪辑技能，内置 42 个 FFmpeg 原生工具，也能直接挂成 MCP 服务。\n\nMIT 开源协议，不上云、不传数据，最关键的是——完全不用 API Key，纯纯本地白嫖。\n\n猫哥穷鬼一个，能不花钱调云端接口就绝不多掏一分。\n拿一段 20 秒的原片下场实测，链路极其丝滑：\n\n1. 剪静音：一条自然语言命令，20 秒干成 12.8 秒，4.1 秒跑完。\n2. 横转竖：16:9 直接裁成 9:16 短视频，耗时 1.7 秒。\n3. 闭环自检：按 Reels 标准跑了 13 项硬核质检，当场揪出两个隐形坑——裁切完画面只剩 608x1080（短边不够1080标清）；响度只有 -21.9 LUFS，离平台标准的 -14 差了一大截。\n\n剪静音满大街工具都会做，这套东西最狠的是最后一步「自主质检」。\n\nAI 剪完不再是糊弄你说一句「好了」，而是自己当质检员把不达标的参数揪出来改。\n\n开源项目地址我放一楼评论了 ⬇️\n\n你现在做视频，最想让 AI 替你把哪道最恶心的脏活包圆了？"
       },
       "x_long": true,
-      "article_summary_zh": "作者推荐开源项目 ffmpeg-skill：专为编程智能体编写的本地剪辑技能，内置 42 个 FFmpeg 原生工具，既可作为 skill 运行，也能直接挂成 MCP 服务，MIT 协议、不上云、无需 API Key。他用一段 20 秒原片实测：一句话剪掉静音，20 秒剪成 12.8 秒、耗时 4.1 秒；16:9 裁成 9:16 竖屏耗时 1.7 秒。最亮眼的是按 Reels 标准自动跑 13 项质检，当场发现裁切后分辨率只有 608x1080、响度只有 -21.9 LUFS（平台标准约 -14）。项目地址在作者的评论区。"
+      "article_summary_zh": "作者推荐开源项目 ffmpeg-skill：专为编程智能体编写的本地剪辑技能，内置 42 个 FFmpeg 原生工具，既可作为 skill 运行，也能直接挂成 MCP 服务，MIT 协议、不上云、无需 API Key。他用一段 20 秒原片实测：一句话剪掉静音，20 秒剪成 12.8 秒、耗时 4.1 秒；16:9 裁成 9:16 竖屏耗时 1.7 秒。最亮眼的是按 Reels 标准自动跑 13 项质检，当场发现裁切后分辨率只有 608x1080、响度只有 -21.9 LUFS（平台标准约 -14）。项目地址在作者的评论区。",
+      "attached_posts": [
+        {
+          "id": "2122086020816466068",
+          "url": "https://x.com/lavissoft/status/2122086020816466068",
+          "handle": "lavissoft",
+          "display_name": "Lavissoft | AI tools daily",
+          "avatar": "https://pbs.twimg.com/profile_images/2115859775510487040/SBlbfpkb_normal.jpg",
+          "verified": false,
+          "followers": 0,
+          "created_at": "2026-11-15T21:55:08.000Z",
+          "lang": null,
+          "text": "ffmpeg-skill gives Claude Code 42 FFmpeg tools to cut and caption video on your own laptop. No cloud and no API keys, under an MIT licence. Install FFmpeg, then run npx ffmpeg-skill.\n\nhttps://t.co/hjeMcpSDs7\n\n#claudecode #ffmpeg https://t.co/CJG4trNTd4",
+          "text_zh": "ffmpeg-skill 给 Claude Code 提供 42 个 FFmpeg 工具，可在自己电脑上剪辑视频、加字幕。无需云端、无需 API key，MIT 许可。装好 FFmpeg 后运行 npx ffmpeg-skill 即可。#claudecode #ffmpeg",
+          "summary_zh": "ffmpeg-skill 为 Claude Code 提供 42 个 FFmpeg 工具，本机剪辑加字幕，无需云端和 API key，MIT 协议，npx ffmpeg-skill 即装。",
+          "relation_zh": "母帖的项目介绍之外，这条给出最短安装路径和协议，可以直接上手。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 10
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 720,
+              "h": 1280,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2122085918643269632/vid/avc1/720x1280/oUQV5c_Zj1r_DDex.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2122085918643269632/img/40WAZeB3g77MGi61.jpg",
+              "duration_ms": 59369
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-18T01:41:31.902910+00:00"
+        },
+        {
+          "id": "2122537713135939660",
+          "url": "https://x.com/yang_xin19/status/2122537713135939660",
+          "handle": "yang_xin19",
+          "display_name": "摩克莫",
+          "avatar": "https://pbs.twimg.com/profile_images/2109896373349068801/mxVoVF_P_normal.jpg",
+          "verified": false,
+          "followers": 1741,
+          "created_at": "2026-11-17T03:50:00.000Z",
+          "lang": null,
+          "text": "🎬 GitHub 上有个叫 ffmpeg-skill 的仓库，今天 6,649 star、MIT 许可，把 42 个 FFmpeg 视频工具包成 Agent 能调的脚本。\n\n仓库 https://t.co/AvnwgxHMGb ，项目页 https://t.co/WzmvfelnwW\n\n素材不用上传云端：探测、剪切、拼接、去静音、改画幅、字幕、响度检查都在本机跑，不用 API key。 https://t.co/sA6k0ZMPsB",
+          "text_zh": "🎬 GitHub 上有个叫 ffmpeg-skill 的仓库，今天 6,649 star、MIT 许可，把 42 个 FFmpeg 视频工具包成 Agent 能调的脚本。\n\n素材不用上传云端：探测、剪切、拼接、去静音、改画幅、字幕、响度检查都在本机跑，不用 API key。",
+          "summary_zh": "中文博主介绍：ffmpeg-skill 当天 6649 星、MIT 许可，探测、剪切、拼接、去静音、改画幅、字幕、响度检查都在本机运行。",
+          "relation_zh": "给母帖的「一天涨近 400 星」补上当时的累计星数和功能清单，中文解读更直观。",
+          "metrics": {
+            "likes": 1,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 31
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1920,
+              "h": 1072,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXSJUQ2aUAAST-R.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-18T01:41:31.902942+00:00"
+        },
+        {
+          "id": "2122312192619930111",
+          "url": "https://x.com/Curingieul/status/2122312192619930111",
+          "handle": "Curingieul",
+          "display_name": "Curing",
+          "avatar": "https://pbs.twimg.com/profile_images/2086344763821973504/ShMBFO_B_normal.jpg",
+          "verified": false,
+          "followers": 3125,
+          "created_at": "2026-11-16T12:53:52.000Z",
+          "lang": null,
+          "text": "让 Claude Code 帮忙剪个视频，它倒是很会写 ffmpeg 命令，一长串参数甩过来。跑完到底裁没裁对、竖屏有没有黑边、声音忽大忽小没，还得自己开播放器一点点看。\n\nffmpeg-skill 干的就是这事。它是给 Claude Code、Cursor、Codex 用的 Agent Skill，带了 42 个基于本地 FFmpeg 的工具，让 agent https://t.co/MrLh1pnrZA",
+          "text_zh": "让 Claude Code 帮忙剪个视频，它倒是很会写 ffmpeg 命令，一长串参数甩过来。跑完到底裁没裁对、竖屏有没有黑边、声音忽大忽小没，还得自己开播放器一点点看。\n\nffmpeg-skill 干的就是这事。它是给 Claude Code、Cursor、Codex 用的 Agent Skill，带了 42 个基于本地 FFmpeg 的工具，让 agent……",
+          "summary_zh": "另一位中文博主点出痛点：Claude Code 很会写 ffmpeg 命令，却不会检查结果；ffmpeg-skill 补上的正是这一步。",
+          "relation_zh": "解释了「按平台标准自动质检」为什么有用，对应母帖的核心卖点。",
+          "metrics": {
+            "likes": 2,
+            "retweets": 0,
+            "replies": 2,
+            "quotes": 0,
+            "bookmarks": 1,
+            "views": 207
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1280,
+              "h": 640,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXP3o5QXIAErnjM.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-18T01:41:31.902952+00:00"
+        }
+      ]
     },
     {
       "id": "2122737596971503885",
@@ -4585,7 +5785,167 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2122343937977581924",
+          "url": "https://x.com/Kling_ai/status/2122343937977581924",
+          "handle": "Kling_ai",
+          "display_name": "Kling AI",
+          "avatar": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
+          "verified": false,
+          "followers": 139310,
+          "created_at": "2026-11-16T15:00:00.000Z",
+          "lang": "en",
+          "text": "Stunningly realistic.\nSharp. \nPrecise.\n\nKling Image 4.0 is coming soon. Stay tuned. https://t.co/7o0RscMLM3",
+          "text_zh": "逼真得惊人。锐利。精准。Kling Image 4.0 即将上线，敬请期待。",
+          "summary_zh": "可灵官方此前放出预告：称 Kling Image 4.0「逼真、锐利、精准」，即将上线。",
+          "relation_zh": "正式发布帖的前情预热，预告阶段就已获 600 多个赞，可对照最终发布看定位有没有兑现。",
+          "metrics": {
+            "likes": 615,
+            "retweets": 61,
+            "replies": 81,
+            "quotes": 23,
+            "bookmarks": 91,
+            "views": 99813
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1920,
+              "h": 2400,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXPxBocbcAAl9bf.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/Kling_ai/status/2122343937977581924/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-18T01:41:31.840404+00:00"
+        },
+        {
+          "id": "2122707702698672131",
+          "url": "https://x.com/DesignArena/status/2122707702698672131",
+          "handle": "DesignArena",
+          "display_name": "DesignArena",
+          "avatar": "https://pbs.twimg.com/profile_images/1988401101797027844/yZ6rC4I7_normal.jpg",
+          "verified": true,
+          "followers": 26051,
+          "created_at": "2026-11-17T15:05:28.000Z",
+          "lang": "en",
+          "text": "BREAKING: Kling Image 4.0 by @kling_ai debuts at #13 on Image Editing arena with an Elo of 1247 and #14 with an Elo of 1279 on Image arena.\n\nThis puts Kling Image 4.0 in the same performance band as models from @OpenAI, @spacexai, and @GoogleDeepMind. At about $0.063 per image https://t.co/fDhFbpBZo6 https://t.co/hNQHM3Bnr9",
+          "text_zh": "Design Arena 快讯：快手可灵的 Kling Image 4.0 在图像编辑竞技场排名第 13，Elo 1247；在图像竞技场排名第 14，Elo 1279。这让它与 OpenAI、SpaceX AI、Google DeepMind 的模型处于同一性能区间，每张图约 0.063 美元。",
+          "summary_zh": "Design Arena 实测：Kling Image 4.0 在图像编辑榜排第 13（Elo 1247）、生图榜第 14（Elo 1279），与 OpenAI、Google 等模型同档，单张约 0.063 美元。",
+          "relation_zh": "给母帖的「原生 8K」宣传补上第三方排名和单价，能看出它在榜单里的真实位置。",
+          "metrics": {
+            "likes": 69,
+            "retweets": 8,
+            "replies": 3,
+            "quotes": 2,
+            "bookmarks": 14,
+            "views": 5526
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 3840,
+              "h": 2392,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXVfYyVXsAA2wAR.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 1920,
+              "h": 1196,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXVfZ3wWcAEAxLR.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo",
+            "photo"
+          ],
+          "links": [
+            "https://x.com/DesignArena/status/2122707702698672131/photo/1",
+            "https://x.com/DesignArena/status/2122707702698672131/photo/2",
+            "https://twitter.com/Kling_ai/status/2122707362603794601"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "Kling_ai",
+            "OpenAI",
+            "spacexai",
+            "GoogleDeepMind"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-18T01:41:31.840455+00:00"
+        },
+        {
+          "id": "2122718728983118234",
+          "url": "https://x.com/CharaspowerAI/status/2122718728983118234",
+          "handle": "CharaspowerAI",
+          "display_name": "Pierrick Chevallier | IA",
+          "avatar": "https://pbs.twimg.com/profile_images/1666802564002893824/5fF909Jc_normal.jpg",
+          "verified": false,
+          "followers": 55582,
+          "created_at": "2026-11-17T15:49:17.000Z",
+          "lang": "en",
+          "text": "Okay… AI image generation is getting SCARY realistic. 🤯🔥\nI just pushed Kling Image 4.0 through a series of real-world creative tests.\nFrom animals to full advertising visuals, the results genuinely surprised me.\nAll generated with Kling Image 4.0.\n\nLet me show you what I https://t.co/rHMk9ci8wZ",
+          "text_zh": "好家伙……AI 生图已经逼真到吓人。我把 Kling Image 4.0 拉进一系列真实创作测试，从动物到完整的广告视觉，结果真的让我意外。全部由 Kling Image 4.0 生成。让我给你们看看。",
+          "summary_zh": "创作者用 Kling Image 4.0 做了一组从动物到广告视觉的实测，感叹生成效果「逼真得吓人」。",
+          "relation_zh": "母帖是官方宣传，这条是上线当天的真实上手结果，能看到它在广告图场景下的表现。",
+          "metrics": {
+            "likes": 19,
+            "retweets": 2,
+            "replies": 3,
+            "quotes": 0,
+            "bookmarks": 3,
+            "views": 77292
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 3136,
+              "h": 1344,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXVpbXWaMAA3V2k.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 3136,
+              "h": 1344,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXVpbzAbkAALBAY.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo",
+            "photo"
+          ],
+          "links": [
+            "https://x.com/CharaspowerAI/status/2122718728983118234/photo/1",
+            "https://x.com/CharaspowerAI/status/2122718728983118234/photo/2"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-18T01:41:31.840466+00:00"
+        }
+      ]
     },
     {
       "id": "2122623386610487503",

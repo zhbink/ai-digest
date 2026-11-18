@@ -1,0 +1,514 @@
+{
+  "data": [
+    {
+      "author_id": "247857879",
+      "conversation_id": "2122784279604383914",
+      "created_at": "2026-11-18T00:44:43.000Z",
+      "edit_history_tweet_ids": [
+        "2122853473007931886"
+      ],
+      "id": "2122853473007931886",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ClementDelangue Solid results",
+      "url": "https://x.com/zndx/status/2122853473007931886"
+    },
+    {
+      "author_id": "870221240929140736",
+      "conversation_id": "2122784279604383914",
+      "created_at": "2026-11-18T00:21:31.000Z",
+      "edit_history_tweet_ids": [
+        "2122847635010941331"
+      ],
+      "id": "2122847635010941331",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ClementDelangue The same 27B base is also getting a new speed path: NVIDIA posted a 4B speculative-decoding draft for Qwen3.8-27B on Hugging Face, with 46% higher token acceptance than the built-in head.",
+      "url": "https://x.com/thePandaily/status/2122847635010941331"
+    },
+    {
+      "author_id": "46879867",
+      "conversation_id": "2122784279604383914",
+      "created_at": "2026-11-18T00:16:34.000Z",
+      "edit_history_tweet_ids": [
+        "2122846389092900896"
+      ],
+      "id": "2122846389092900896",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ClementDelangue Isn’t changing harness to adapt to a model easier and cheaper? Or we cannot do it?",
+      "url": "https://x.com/Sagar_Trivedi/status/2122846389092900896"
+    },
+    {
+      "author_id": "1916297182824796161",
+      "conversation_id": "2122784279604383914",
+      "created_at": "2026-11-18T00:07:17.000Z",
+      "edit_history_tweet_ids": [
+        "2122844052148384100"
+      ],
+      "id": "2122844052148384100",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ClementDelangue a LoRA adapter more than doubling SWE-bench Pro is wild. small models eating good.",
+      "url": "https://x.com/nateoneillai/status/2122844052148384100"
+    },
+    {
+      "author_id": "1990550648245661697",
+      "conversation_id": "2122784279604383914",
+      "created_at": "2026-11-18T00:05:24.000Z",
+      "edit_history_tweet_ids": [
+        "2122843579282493572"
+      ],
+      "id": "2122843579282493572",
+      "lang": "pt",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ClementDelangue @deftonesAI quando voltar ja vai botando p jogo esse aqui pfv",
+      "url": "https://x.com/slowdriverrr/status/2122843579282493572"
+    },
+    {
+      "author_id": "3458399054",
+      "conversation_id": "2122784279604383914",
+      "created_at": "2026-11-17T23:58:01.000Z",
+      "edit_history_tweet_ids": [
+        "2122841721931460800"
+      ],
+      "id": "2122841721931460800",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ClementDelangue doubling SWE-bench with a LoRA is such a clean flex, love it",
+      "url": "https://x.com/RenSable/status/2122841721931460800"
+    },
+    {
+      "author_id": "2026660836744507393",
+      "conversation_id": "2122784279604383914",
+      "created_at": "2026-11-17T23:50:11.000Z",
+      "edit_history_tweet_ids": [
+        "2122839749023117778"
+      ],
+      "id": "2122839749023117778",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ClementDelangue I tried, but …",
+      "url": "https://x.com/JoysMongo/status/2122839749023117778"
+    },
+    {
+      "author_id": "14191817",
+      "conversation_id": "2122784279604383914",
+      "created_at": "2026-11-17T23:49:31.000Z",
+      "edit_history_tweet_ids": [
+        "2122839581091578332"
+      ],
+      "id": "2122839581091578332",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 28,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ClementDelangue Dream combination 🙏🏻\n- Pi \n- qwen4-flash\n- Strata (needs LoRA support)",
+      "url": "https://x.com/SvenMeyer/status/2122839581091578332"
+    },
+    {
+      "author_id": "2079312981741953025",
+      "conversation_id": "2122784279604383914",
+      "created_at": "2026-11-17T23:49:16.000Z",
+      "edit_history_tweet_ids": [
+        "2122839520592769447"
+      ],
+      "id": "2122839520592769447",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ClementDelangue The 55–62% fewer tool calls is the number that matters most for local runs — each call is latency on your own GPU. Were those pass@1 gains measured with the 27B checkpoint served locally, as pi users would run it, or on the harness infra?",
+      "url": "https://x.com/RoviidDesissa/status/2122839520592769447"
+    },
+    {
+      "author_id": "257565397",
+      "conversation_id": "2122784279604383914",
+      "created_at": "2026-11-17T23:47:55.000Z",
+      "edit_history_tweet_ids": [
+        "2122839177683521983"
+      ],
+      "id": "2122839177683521983",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@petrusenko_max @ClementDelangue Exactly what I was thinking.",
+      "url": "https://x.com/PenfoldDavid/status/2122839177683521983"
+    },
+    {
+      "author_id": "1424714517964103683",
+      "conversation_id": "2122784279604383914",
+      "created_at": "2026-11-17T23:45:23.000Z",
+      "edit_history_tweet_ids": [
+        "2122838543571812518"
+      ],
+      "id": "2122838543571812518",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 38,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ClementDelangue What do you mean by pi adapted?",
+      "url": "https://x.com/godzkaya/status/2122838543571812518"
+    },
+    {
+      "author_id": "1545764443304312833",
+      "conversation_id": "2122784279604383914",
+      "created_at": "2026-11-17T23:45:10.000Z",
+      "edit_history_tweet_ids": [
+        "2122838486738944253"
+      ],
+      "id": "2122838486738944253",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ClementDelangue 27B还做pi适配，端侧这条路走得通吗",
+      "url": "https://x.com/huishu96225748/status/2122838486738944253"
+    },
+    {
+      "author_id": "103961836",
+      "conversation_id": "2122784279604383914",
+      "created_at": "2026-11-17T23:42:12.000Z",
+      "edit_history_tweet_ids": [
+        "2122837739708313932"
+      ],
+      "id": "2122837739708313932",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 82,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ClementDelangue very cool",
+      "url": "https://x.com/__mharrison__/status/2122837739708313932"
+    },
+    {
+      "author_id": "53121322",
+      "conversation_id": "2122784279604383914",
+      "created_at": "2026-11-17T23:41:36.000Z",
+      "edit_history_tweet_ids": [
+        "2122837590865023433"
+      ],
+      "id": "2122837590865023433",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 18,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ClementDelangue ok, this is massive, I've test it and the model is so more accurate...",
+      "url": "https://x.com/Deivid11/status/2122837590865023433"
+    },
+    {
+      "author_id": "723515363476951040",
+      "conversation_id": "2122784279604383914",
+      "created_at": "2026-11-17T23:38:37.000Z",
+      "edit_history_tweet_ids": [
+        "2122836838209749472"
+      ],
+      "id": "2122836838209749472",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ClementDelangue 区分学到的是能力还是 harness 方言，得做交叉评测：同一个适配模型丢进另一个 agent 再跑这三组数字，再把它在 pi 里的工具调用去掉，只测回答质量。少 55% 的调用如果是靠更少试错换来的，换壳不会掉；如果只是学会了 pi 的调用格式，换个 harness 就掉回去。",
+      "url": "https://x.com/VanceXin/status/2122836838209749472"
+    },
+    {
+      "author_id": "1455467566709751812",
+      "conversation_id": "2122784279604383914",
+      "created_at": "2026-11-17T23:34:28.000Z",
+      "edit_history_tweet_ids": [
+        "2122835796587643239"
+      ],
+      "id": "2122835796587643239",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 19,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ClementDelangue Does the improvement of RL here come from reducing harness usage error (I.e., learning to use the harness)? Because the base model on TB2.1 the official score is 73.0%. So 40% on the chart here is unusually low.",
+      "url": "https://x.com/qijia_shen/status/2122835796587643239"
+    },
+    {
+      "author_id": "2115838373319307264",
+      "conversation_id": "2122784279604383914",
+      "created_at": "2026-11-17T23:32:24.000Z",
+      "edit_history_tweet_ids": [
+        "2122835273314623993"
+      ],
+      "id": "2122835273314623993",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 18,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ClementDelangue The tool-call drop is the number I'd poke at. If the RL tasks look like the eval ones, part of the gain is just learning pi's tool schema, not coding. Would be good to see it run under a different harness.",
+      "url": "https://x.com/tfmlab/status/2122835273314623993"
+    },
+    {
+      "author_id": "894796786908315648",
+      "conversation_id": "2122784279604383914",
+      "created_at": "2026-11-17T23:26:37.000Z",
+      "edit_history_tweet_ids": [
+        "2122833818633863660"
+      ],
+      "id": "2122833818633863660",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 36,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ClementDelangue Would this get similar results with omp considering its built on pi?",
+      "url": "https://x.com/swagxxon/status/2122833818633863660"
+    },
+    {
+      "author_id": "2108438560416415744",
+      "conversation_id": "2122784279604383914",
+      "created_at": "2026-11-17T23:16:40.000Z",
+      "edit_history_tweet_ids": [
+        "2122831316114874700"
+      ],
+      "id": "2122831316114874700",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 16,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ClementDelangue 跑一个 harness 涨这么多，换到别家 pipeline 不知道还能不能这么夸张",
+      "url": "https://x.com/TedCai233/status/2122831316114874700"
+    },
+    {
+      "author_id": "1352015106515869698",
+      "conversation_id": "2122784279604383914",
+      "created_at": "2026-11-17T23:14:14.000Z",
+      "edit_history_tweet_ids": [
+        "2122830702748278945"
+      ],
+      "id": "2122830702748278945",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 13,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ClementDelangue A small model fitted to one job is the kind of thing I like to experiment with. The setup behind the agents in my business came out of that: Haiku 5.5 writes and a second cheap model checks it. Both are super cheap.",
+      "url": "https://x.com/IncomeSurfers/status/2122830702748278945"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "id": "247857879",
+        "name": "Ryan Hill at SC26",
+        "username": "zndx"
+      },
+      {
+        "id": "870221240929140736",
+        "name": "Pandaily",
+        "username": "thePandaily"
+      },
+      {
+        "id": "46879867",
+        "name": "Sagar Trivedi",
+        "username": "Sagar_Trivedi"
+      },
+      {
+        "id": "1916297182824796161",
+        "name": "Nate O'Neill",
+        "username": "nateoneillai"
+      },
+      {
+        "id": "1990550648245661697",
+        "name": "slowdriver",
+        "username": "slowdriverrr"
+      },
+      {
+        "id": "3458399054",
+        "name": "Ren Sable",
+        "username": "RenSable"
+      },
+      {
+        "id": "2026660836744507393",
+        "name": "Mine Joys",
+        "username": "JoysMongo"
+      },
+      {
+        "id": "14191817",
+        "name": "Sven Meyer",
+        "username": "SvenMeyer"
+      },
+      {
+        "id": "2079312981741953025",
+        "name": "Roviid Desissa",
+        "username": "RoviidDesissa"
+      },
+      {
+        "id": "257565397",
+        "name": "David Penfold mainly on Mastodon 🌳 🌻 🌳",
+        "username": "PenfoldDavid"
+      },
+      {
+        "id": "1424714517964103683",
+        "name": "godzkaya",
+        "username": "godzkaya"
+      },
+      {
+        "id": "1545764443304312833",
+        "name": "会输",
+        "username": "huishu96225748"
+      },
+      {
+        "id": "103961836",
+        "name": "Matt Harrison",
+        "username": "__mharrison__"
+      },
+      {
+        "id": "53121322",
+        "name": "David Alcalá",
+        "username": "Deivid11"
+      },
+      {
+        "id": "723515363476951040",
+        "name": "Feifei",
+        "username": "VanceXin"
+      },
+      {
+        "id": "1455467566709751812",
+        "name": "Qijia Shen",
+        "username": "qijia_shen"
+      },
+      {
+        "id": "2115838373319307264",
+        "name": "Jerry Liu",
+        "username": "tfmlab"
+      },
+      {
+        "id": "894796786908315648",
+        "name": "Exxon Moble!!!",
+        "username": "swagxxon"
+      },
+      {
+        "id": "2108438560416415744",
+        "name": "Ted Cai",
+        "username": "TedCai233"
+      },
+      {
+        "id": "1352015106515869698",
+        "name": "Income Stream Surfers",
+        "username": "IncomeSurfers"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122853473007931886",
+    "next_token": "b26v89c19zqg8o3juzow6q3yjm92y7zkwxe0e96sd69vh",
+    "oldest_id": "2122830702748278945",
+    "result_count": 20
+  }
+}

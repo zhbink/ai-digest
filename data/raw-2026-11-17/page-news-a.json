@@ -1,0 +1,1746 @@
+{
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122435225363890176"
+        ],
+        "media_source_tweet_id": [
+          "2122439098740674839"
+        ]
+      },
+      "author_id": "3980735590",
+      "created_at": "2026-11-17T00:30:46.000Z",
+      "edit_history_tweet_ids": [
+        "2122487574237466905"
+      ],
+      "id": "2122487574237466905",
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 1767,
+        "like_count": 18,
+        "quote_count": 0,
+        "reply_count": 7,
+        "retweet_count": 2
+      },
+      "text": "The Claude Code desktop app's iOS simulator now supports iPhone Duo and a layout control. \n\nNo excuse not to optimize your app for iPhone Duo anymore. Also, wondering if Android foldables will get the same feature eventually.\n\n\"App optimizations\" is a good task for AI 👀",
+      "url": "https://x.com/testingcatalog/status/2122487574237466905"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122474093127532544",
+          "3_2122474093131743232"
+        ]
+      },
+      "author_id": "3980735590",
+      "created_at": "2026-11-16T23:37:13.000Z",
+      "edit_history_tweet_ids": [
+        "2122474097598673165"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 237,
+            "start": 214,
+            "url": "https://t.co/ML3ZTKXv1s"
+          }
+        ]
+      },
+      "id": "2122474097598673165",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 3258,
+        "like_count": 48,
+        "quote_count": 0,
+        "reply_count": 7,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122461899178820069",
+          "type": "quoted"
+        }
+      ],
+      "text": "Google Labs ❤️ Howie\n\nHowie, a company behind Howie AI secretary, is joining Google Labs. \n\nThe team will help Google building scheduling and calendar management tools for small businesses. https://t.co/8sNlaQzsV0 https://t.co/ML3ZTKXv1s",
+      "url": "https://x.com/testingcatalog/status/2122474097598673165"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122472240734158848",
+          "3_2122472240730050561"
+        ]
+      },
+      "author_id": "3980735590",
+      "created_at": "2026-11-16T23:29:51.000Z",
+      "edit_history_tweet_ids": [
+        "2122472245129859267"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 245,
+            "start": 222,
+            "url": "https://t.co/enuBrPv9ba"
+          }
+        ]
+      },
+      "id": "2122472245129859267",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 2937,
+        "like_count": 40,
+        "quote_count": 1,
+        "reply_count": 12,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122420600408866844",
+          "type": "quoted"
+        }
+      ],
+      "text": "ElevenLabs ❤️ Kotoba\n\nKotoba, a voice AI lab from Japan is joining ElevenLabs. Over there, Kotoba voice research will power ElevenAgents to serve customers in Japanese. \n\nSo is it TwelveLabs now? 👀 https://t.co/Dnkp5bwofy https://t.co/enuBrPv9ba",
+      "url": "https://x.com/testingcatalog/status/2122472245129859267"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122471279509086208",
+          "3_2122471284357603328",
+          "3_2122471288161832960",
+          "3_2122471292486275072"
+        ]
+      },
+      "author_id": "1573399256836309009",
+      "created_at": "2026-11-16T23:26:05.000Z",
+      "edit_history_tweet_ids": [
+        "2122471295996805390"
+      ],
+      "id": "2122471295996805390",
+      "public_metrics": {
+        "bookmark_count": 12,
+        "impression_count": 5575,
+        "like_count": 75,
+        "quote_count": 0,
+        "reply_count": 15,
+        "retweet_count": 2
+      },
+      "text": "Big day for us: the Superintelligence newsletter just got a full redesign.\n\nI write it every day. I go through all the AI news, keep what matters and explain it in plain words, in about 8 minutes of reading.\n\nToday's issue:\n\n- Qwen4-Max looks frontier-class on Alibaba's own https://t.co/QFNdFkaV9m",
+      "url": "https://x.com/kimmonismus/status/2122471295996805390"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122469745408552960"
+        ]
+      },
+      "author_id": "3980735590",
+      "created_at": "2026-11-16T23:20:35.000Z",
+      "edit_history_tweet_ids": [
+        "2122469912006344921"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 322,
+            "start": 299,
+            "url": "https://t.co/6sQmckXqQF"
+          }
+        ]
+      },
+      "id": "2122469912006344921",
+      "public_metrics": {
+        "bookmark_count": 11,
+        "impression_count": 3992,
+        "like_count": 76,
+        "quote_count": 0,
+        "reply_count": 11,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122420182815592736",
+          "type": "quoted"
+        }
+      ],
+      "text": "Nasiko has launched Open Runtime, an open-source tool that optimizes AI agent spending per task.\n\nBefore a long file reaches an AI model, Nasiko trims non-essential parts, reducing token consumption. In Nasiko's server-log-based test, costs per task fell 40% with no drop in https://t.co/dZCAICB53a https://t.co/6sQmckXqQF",
+      "url": "https://x.com/testingcatalog/status/2122469912006344921"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122435594039259137"
+        ]
+      },
+      "author_id": "1573399256836309009",
+      "created_at": "2026-11-16T21:04:13.000Z",
+      "edit_history_tweet_ids": [
+        "2122435596845240336"
+      ],
+      "id": "2122435596845240336",
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 9973,
+        "like_count": 102,
+        "quote_count": 0,
+        "reply_count": 15,
+        "retweet_count": 2
+      },
+      "text": "Apple has added face unlock to the iPhone Duo in the iOS 27.3 beta, Bloomberg reports.\n\nIt uses the front camera and is less secure than Face ID. Touch ID is still required for Apple Pay and passwords.\n\nMy Duo will not arrive before January 2027 🥲 https://t.co/0o4SJsJmWH",
+      "url": "https://x.com/kimmonismus/status/2122435596845240336"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122374439644135424"
+        ]
+      },
+      "author_id": "1573399256836309009",
+      "created_at": "2026-11-16T21:02:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122435036557303924"
+      ],
+      "id": "2122435036557303924",
+      "public_metrics": {
+        "bookmark_count": 51,
+        "impression_count": 16391,
+        "like_count": 419,
+        "quote_count": 4,
+        "reply_count": 79,
+        "retweet_count": 17
+      },
+      "text": "Joke aside: Why should we still hold meetings in the age of AI agents? My take: within a year, we will replace human meetings with team meetings involving AI agents.\n\nJust as my own \"Grokbots\" already hold team meetings twice a day, which I simply attend mostly as an observer. https://t.co/pL5PovMtvw",
+      "url": "https://x.com/kimmonismus/status/2122435036557303924"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122427512856662016",
+          "3_2122427512856641536"
+        ]
+      },
+      "author_id": "3980735590",
+      "created_at": "2026-11-16T20:32:08.000Z",
+      "edit_history_tweet_ids": [
+        "2122427521211785388"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 258,
+            "start": 235,
+            "url": "https://t.co/24FVLd08jS"
+          }
+        ]
+      },
+      "id": "2122427521211785388",
+      "public_metrics": {
+        "bookmark_count": 58,
+        "impression_count": 22311,
+        "like_count": 667,
+        "quote_count": 8,
+        "reply_count": 46,
+        "retweet_count": 30
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122421307656602040",
+          "type": "quoted"
+        }
+      ],
+      "text": "GOOGLE 🔥: Gemini 4 Neon reference has been spotted on Gemini web!\n\nWould be cool if it would be a new Flash Lite model (pure speculation). Looks like Google isn’t done with new releases. \n\n* Not available yet 👀 https://t.co/dQMqv9PVMZ https://t.co/24FVLd08jS",
+      "url": "https://x.com/testingcatalog/status/2122427521211785388"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122401902373867520"
+        ]
+      },
+      "author_id": "1573399256836309009",
+      "created_at": "2026-11-16T19:50:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122416916845511014"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 252,
+            "start": 229,
+            "url": "https://t.co/hyeJZP7oaI"
+          }
+        ]
+      },
+      "id": "2122416916845511014",
+      "public_metrics": {
+        "bookmark_count": 17,
+        "impression_count": 13435,
+        "like_count": 355,
+        "quote_count": 2,
+        "reply_count": 66,
+        "retweet_count": 23
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122353436150964682",
+          "type": "quoted"
+        }
+      ],
+      "text": "Im getting so annoyed by the board: \n\nNVIDIAs board is not considering bringing Jensen Huang back as CEO. It's focused on its investigation into him and isn't in talks about a return, a source tells CNBC. https://t.co/9ddda5djB3 https://t.co/hyeJZP7oaI",
+      "url": "https://x.com/kimmonismus/status/2122416916845511014"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122413897118363649",
+          "3_2122413897130885120"
+        ]
+      },
+      "author_id": "3980735590",
+      "created_at": "2026-11-16T19:38:01.000Z",
+      "edit_history_tweet_ids": [
+        "2122413901685891441"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 328,
+            "start": 305,
+            "url": "https://t.co/wl9DWEEOOO"
+          }
+        ]
+      },
+      "id": "2122413901685891441",
+      "public_metrics": {
+        "bookmark_count": 9,
+        "impression_count": 6493,
+        "like_count": 126,
+        "quote_count": 0,
+        "reply_count": 18,
+        "retweet_count": 9
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122392434198131005",
+          "type": "quoted"
+        }
+      ],
+      "text": "OpenRouter ❤️ HuggingFace\n\nHuggingFace switching its inference provider to OpenRouter!\n\n&gt; “Requests made to language models now go through OpenRouter, which picks the best provider for each call based on live price, speed and reliability, and retries on another provider if the https://t.co/vu36tBnmgM https://t.co/wl9DWEEOOO",
+      "url": "https://x.com/testingcatalog/status/2122413901685891441"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122408258023424000",
+          "3_2122408258010836993"
+        ]
+      },
+      "author_id": "3980735590",
+      "created_at": "2026-11-16T19:15:37.000Z",
+      "edit_history_tweet_ids": [
+        "2122408263665012948"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 326,
+            "start": 303,
+            "url": "https://t.co/d64tucSmc3"
+          }
+        ]
+      },
+      "id": "2122408263665012948",
+      "public_metrics": {
+        "bookmark_count": 8,
+        "impression_count": 6100,
+        "like_count": 123,
+        "quote_count": 0,
+        "reply_count": 10,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122344413951111663",
+          "type": "quoted"
+        }
+      ],
+      "text": "Cybersecurity company Corma has raised $125M at a $1B valuation in a Series A led by NEA.\n\nThe company’s main product, Corma Cyber Defense, is a purpose-built foundation model for defensive cybersecurity, including threat detection, triage, investigation, and incident response. https://t.co/vPuX8ii7rD https://t.co/d64tucSmc3",
+      "url": "https://x.com/testingcatalog/status/2122408263665012948"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122397848436166656"
+        ]
+      },
+      "author_id": "3980735590",
+      "created_at": "2026-11-16T18:34:15.000Z",
+      "edit_history_tweet_ids": [
+        "2122397854836859223"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 324,
+            "start": 301,
+            "url": "https://t.co/Ogb6Bky0J2"
+          }
+        ]
+      },
+      "id": "2122397854836859223",
+      "public_metrics": {
+        "bookmark_count": 11,
+        "impression_count": 6324,
+        "like_count": 80,
+        "quote_count": 0,
+        "reply_count": 26,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122374778074038613",
+          "type": "quoted"
+        }
+      ],
+      "text": "August has launched “Instinct for Healthcare”, allowing August agent to call a doctor's office and book an appointment on behalf of a patient. \n\nAugust is an AI-powered health and wellness companion designed to help users interpret medical data, analyze symptoms, and navigate https://t.co/ibyX8gzfcm https://t.co/Ogb6Bky0J2",
+      "url": "https://x.com/testingcatalog/status/2122397854836859223"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122376596128780289",
+          "3_2122376596128690177"
+        ]
+      },
+      "author_id": "1573399256836309009",
+      "created_at": "2026-11-16T18:24:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122395274136125628"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 53,
+            "id": "74286565",
+            "start": 43,
+            "username": "Microsoft"
+          }
+        ]
+      },
+      "id": "2122395274136125628",
+      "public_metrics": {
+        "bookmark_count": 7,
+        "impression_count": 13404,
+        "like_count": 179,
+        "quote_count": 1,
+        "reply_count": 24,
+        "retweet_count": 1
+      },
+      "text": "Just arrived in San Francisco to attend at @Microsoft Ignite. \n\nAnd look what was waiting right there for me in my Hotel room. That’s really super nice! Thank you so much, Microsoft! (Even a jacket with my name on it :) https://t.co/ECGW3s7eSj",
+      "url": "https://x.com/kimmonismus/status/2122395274136125628"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122385299154325504"
+        ],
+        "media_source_tweet_id": [
+          "2122386524297974128"
+        ]
+      },
+      "author_id": "3980735590",
+      "created_at": "2026-11-16T17:54:01.000Z",
+      "edit_history_tweet_ids": [
+        "2122387728881045868"
+      ],
+      "id": "2122387728881045868",
+      "public_metrics": {
+        "bookmark_count": 20,
+        "impression_count": 13649,
+        "like_count": 419,
+        "quote_count": 3,
+        "reply_count": 19,
+        "retweet_count": 10
+      },
+      "text": "It happened - Grok Bot is taking over the Sphere ad placement in Las Vegas.\n\nA perfect \"Product ad fit\" 🔥 https://t.co/EUHJoaLxJj",
+      "url": "https://x.com/testingcatalog/status/2122387728881045868"
+    },
+    {
+      "author_id": "1573399256836309009",
+      "created_at": "2026-11-16T17:45:32.000Z",
+      "edit_history_tweet_ids": [
+        "2122385595616088168"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 300,
+            "start": 277,
+            "url": "https://t.co/mJtq5LbCBa"
+          }
+        ]
+      },
+      "id": "2122385595616088168",
+      "public_metrics": {
+        "bookmark_count": 10,
+        "impression_count": 10270,
+        "like_count": 128,
+        "quote_count": 0,
+        "reply_count": 23,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122374256952741988",
+          "type": "quoted"
+        }
+      ],
+      "text": "Salesforce's own State of Sales report says the average rep spends 40% of the week selling.\n\nMuch of the other 60% is admin, and a good chunk of it is CRM data entry.\n\nDreamteam launched today with $53M to take that job away. It listens to calls, email, Slack and meetings and https://t.co/mJtq5LbCBa",
+      "url": "https://x.com/kimmonismus/status/2122385595616088168"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122377543630426112",
+          "3_2122377718130229248"
+        ]
+      },
+      "author_id": "1573399256836309009",
+      "created_at": "2026-11-16T17:38:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122383697852993594"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 325,
+            "start": 302,
+            "url": "https://t.co/LhfJcwcRcK"
+          }
+        ]
+      },
+      "id": "2122383697852993594",
+      "public_metrics": {
+        "bookmark_count": 59,
+        "impression_count": 38118,
+        "like_count": 561,
+        "quote_count": 4,
+        "reply_count": 53,
+        "retweet_count": 23
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122376461822927065",
+          "type": "quoted"
+        }
+      ],
+      "text": "Oh and in case you were wondering why GPT-6.2 has been delayed, this is probably the reason:\n\nOpenAI has signed agreements with four independent organizations to assess its AI safety work from inside the company. \n\nThe teams will examine model behavior, training and safeguards https://t.co/x0NRuM7WcI https://t.co/LhfJcwcRcK",
+      "url": "https://x.com/kimmonismus/status/2122383697852993594"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122377861205995520"
+        ]
+      },
+      "author_id": "3980735590",
+      "created_at": "2026-11-16T17:27:15.000Z",
+      "edit_history_tweet_ids": [
+        "2122380991750607319"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 200,
+            "start": 177,
+            "url": "https://t.co/vs269HHEFY"
+          }
+        ]
+      },
+      "id": "2122380991750607319",
+      "public_metrics": {
+        "bookmark_count": 24,
+        "impression_count": 7855,
+        "like_count": 153,
+        "quote_count": 0,
+        "reply_count": 14,
+        "retweet_count": 7
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120977464264462816",
+          "type": "quoted"
+        }
+      ],
+      "text": "MAI Playground got a new UI design ahead of the upcoming Microsoft Ignite event. On November 17, we also expect new MAI models to be announced! \n\nSoon 👀 https://t.co/e0u09dljJc https://t.co/vs269HHEFY",
+      "url": "https://x.com/testingcatalog/status/2122380991750607319"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122376622003163136"
+        ]
+      },
+      "author_id": "3980735590",
+      "created_at": "2026-11-16T17:10:20.000Z",
+      "edit_history_tweet_ids": [
+        "2122376735509422093"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 325,
+            "start": 302,
+            "url": "https://t.co/yM06CkcrIH"
+          }
+        ]
+      },
+      "id": "2122376735509422093",
+      "public_metrics": {
+        "bookmark_count": 60,
+        "impression_count": 9917,
+        "like_count": 199,
+        "quote_count": 1,
+        "reply_count": 16,
+        "retweet_count": 8
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122351489104609554",
+          "type": "quoted"
+        }
+      ],
+      "text": "Okara has launched Okara MCP, letting users access its AI marketing agents inside the ChatGPT and Claude apps.\n\nOkara is an AI CMO designed for startups, growing businesses, and marketing teams. The MCP allows users to analyze campaign performance, identify and fix SEO issues, https://t.co/W2FExm8lWK https://t.co/yM06CkcrIH",
+      "url": "https://x.com/testingcatalog/status/2122376735509422093"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122376195190984705"
+        ]
+      },
+      "author_id": "1573399256836309009",
+      "created_at": "2026-11-16T17:09:15.000Z",
+      "edit_history_tweet_ids": [
+        "2122376461822927065"
+      ],
+      "id": "2122376461822927065",
+      "public_metrics": {
+        "bookmark_count": 50,
+        "impression_count": 52097,
+        "like_count": 358,
+        "quote_count": 2,
+        "reply_count": 34,
+        "retweet_count": 15
+      },
+      "text": "Interesting: OpenAI explored buying Goodfire, the Anthropic-backed startup that looks inside AI models to understand why they behave the way they do, for more than $5 billion, The Information reports. \n\nYou probably remember the uproar in September, when reports said GPT-6 Astra https://t.co/iGVJaKb5xh",
+      "url": "https://x.com/kimmonismus/status/2122376461822927065"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122353268621996032",
+          "3_2122353309965295616"
+        ]
+      },
+      "author_id": "1573399256836309009",
+      "created_at": "2026-11-16T15:37:45.000Z",
+      "edit_history_tweet_ids": [
+        "2122353436150964682"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 328,
+            "start": 305,
+            "url": "https://t.co/kKamA8JW9i"
+          }
+        ]
+      },
+      "id": "2122353436150964682",
+      "public_metrics": {
+        "bookmark_count": 26,
+        "impression_count": 30279,
+        "like_count": 448,
+        "quote_count": 3,
+        "reply_count": 35,
+        "retweet_count": 25
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122342477482922202",
+          "type": "quoted"
+        }
+      ],
+      "text": "We are so close of getting Jensen back: Trump says he \"wouldn't mind\" seeing Jensen Huang back as Nvidia CEO, the FT reports. \n\n\"I think he learned a big lesson,\" he told reporters Monday before leaving for Asia. \n\nHe also said he doesn't know if Alice Huang is a Chinese spy, and https://t.co/VUL59dbZyK https://t.co/kKamA8JW9i",
+      "url": "https://x.com/kimmonismus/status/2122353436150964682"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122336101180604416",
+          "3_2122336135473164288"
+        ]
+      },
+      "author_id": "1573399256836309009",
+      "created_at": "2026-11-16T14:29:03.000Z",
+      "edit_history_tweet_ids": [
+        "2122336149947752624"
+      ],
+      "id": "2122336149947752624",
+      "public_metrics": {
+        "bookmark_count": 208,
+        "impression_count": 42977,
+        "like_count": 1199,
+        "quote_count": 22,
+        "reply_count": 82,
+        "retweet_count": 84
+      },
+      "text": "6 months ago, this would have been big news. Now we're almost used to it: Claude helped uncover hundreds of theorems nobody knew Kurt Gödel had proved, The Guardian reports.\n\nGödel left 1,009 pages of notes from the 1940s in an old German shorthand. Logician Jan von Plato managed https://t.co/OxSf3mFJBU",
+      "url": "https://x.com/kimmonismus/status/2122336149947752624"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122283362815807488"
+        ],
+        "media_source_tweet_id": [
+          "2122284071850246309"
+        ]
+      },
+      "author_id": "1573399256836309009",
+      "created_at": "2026-11-16T13:45:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122325062531604670"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 52,
+            "id": "1870923516675289088",
+            "start": 42,
+            "username": "chetaslua"
+          }
+        ]
+      },
+      "id": "2122325062531604670",
+      "public_metrics": {
+        "bookmark_count": 31,
+        "impression_count": 31825,
+        "like_count": 472,
+        "quote_count": 6,
+        "reply_count": 77,
+        "retweet_count": 9
+      },
+      "text": "\"Silicon 2\" reportedly surfaced in Devin. @chetaslua suspects an Anthropic model. \n\nThe entry sits among Claude models and uses $10/$50 placeholder pricing matching Fable 5.1\n\nI’ve been wondering for a while now why Anthropic named their latest Fable model \"5.2\" instead of using",
+      "url": "https://x.com/kimmonismus/status/2122325062531604670"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122294080709521408"
+        ]
+      },
+      "author_id": "1573399256836309009",
+      "created_at": "2026-11-16T11:42:53.000Z",
+      "edit_history_tweet_ids": [
+        "2122294330778132787"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 295,
+            "start": 272,
+            "url": "https://t.co/RsuqCBoQs9"
+          }
+        ]
+      },
+      "id": "2122294330778132787",
+      "public_metrics": {
+        "bookmark_count": 204,
+        "impression_count": 155012,
+        "like_count": 1604,
+        "quote_count": 20,
+        "reply_count": 223,
+        "retweet_count": 61
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122161629592953032",
+          "type": "quoted"
+        }
+      ],
+      "text": "Qwen 4 is not a good release. \n\nAlthough it appears on paper to be on par with Opus 5.5 in key benchmarks, the AA Index paints a completely different picture.\n\nThe fact that Qwen is being cut off from distillation seems to illustrate this failure. https://t.co/pg6HrinyoO https://t.co/RsuqCBoQs9",
+      "url": "https://x.com/kimmonismus/status/2122294330778132787"
+    },
+    {
+      "author_id": "3980735590",
+      "created_at": "2026-11-16T09:08:16.000Z",
+      "edit_history_tweet_ids": [
+        "2122255419099803817"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 299,
+            "start": 276,
+            "url": "https://t.co/3vxEtDORry"
+          }
+        ]
+      },
+      "id": "2122255419099803817",
+      "public_metrics": {
+        "bookmark_count": 28,
+        "impression_count": 15996,
+        "like_count": 198,
+        "quote_count": 0,
+        "reply_count": 47,
+        "retweet_count": 10
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121534991725113363",
+          "type": "quoted"
+        }
+      ],
+      "text": "DAILY AI BRIEF 🗞 — Nov 16\n\nALIBABA 🔥:\n- Qwen4-Max is out, a 2.4T MoE model with native vision and 1M context at $1.50/$4.50 per 1M tokens.\n\nTENCENT 🔥:\n- Tencent launched Hy4 Flash, a 1M-context multimodal model at $0.07/$0.281 per 1M tokens, with 50% off through November 30. https://t.co/3vxEtDORry",
+      "url": "https://x.com/testingcatalog/status/2122255419099803817"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20000,
+        "height": 1080,
+        "media_key": "13_2122435225363890176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122435225363890176/img/ksag7svWUykYm74r.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122435225363890176/vid/avc1/1280x720/SfgWzDUpVSfUxSO9.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122435225363890176/vid/avc1/1920x1080/KTSkgPYXb7fsFmlg.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122435225363890176/vid/avc1/480x270/cnqSg00T-krf48mg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122435225363890176/pl/54YbXCs_KPDKXamp.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122435225363890176/vid/avc1/640x360/bL2qqVGz7Wvir376.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "height": 400,
+        "media_key": "3_2122474093127532544",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSK8T3WAAADNpJ.jpg",
+        "width": 400
+      },
+      {
+        "height": 400,
+        "media_key": "3_2122474093131743232",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSK8T4WQAAe4ZC.jpg",
+        "width": 400
+      },
+      {
+        "height": 400,
+        "media_key": "3_2122472240734158848",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSJQfKWQAAae2H.jpg",
+        "width": 400
+      },
+      {
+        "height": 400,
+        "media_key": "3_2122472240730050561",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSJQfJXkAEP2nK.jpg",
+        "width": 400
+      },
+      {
+        "alt_text": "The redesigned Superintelligence newsletter: Qwen4-Max lead story card in front of the Today's Issue overview and the lead story section",
+        "height": 1800,
+        "media_key": "3_2122471279509086208",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSIYiUboAAIYdm.jpg",
+        "width": 2400
+      },
+      {
+        "alt_text": "The Signal, Kim Isenberg's editor's note announcing the redesign, with the three key numbers of the day",
+        "height": 1800,
+        "media_key": "3_2122471284357603328",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSIY0YaIAAFZrG.jpg",
+        "width": 2400
+      },
+      {
+        "alt_text": "Daily Feature: AI & Finance on Monday, with Robotics, Research, Longevity and Politics on the other weekdays. Today: Wall Street Can't Tell How Much AI It Owns",
+        "height": 1800,
+        "media_key": "3_2122471288161832960",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSIZCjaEAAEXVH.jpg",
+        "width": 2400
+      },
+      {
+        "alt_text": "Graph of the Day: share of new arXiv papers that read as AI-written by field, 62% in computer science vs 3.7% in mathematics",
+        "height": 1800,
+        "media_key": "3_2122471292486275072",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXSIZSqb0AAJsU7.jpg",
+        "width": 2400
+      },
+      {
+        "duration_ms": 57813,
+        "height": 720,
+        "media_key": "13_2122469745408552960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122469745408552960/img/lCBjU_nx85dTh0kf.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122469745408552960/vid/avc1/480x270/rmhZ6PYKUKMWa4CU.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122469745408552960/vid/avc1/640x360/RCnsD7uMqnEHF8Fj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122469745408552960/vid/avc1/1280x720/Sjg0VqB7nHO64v-O.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122469745408552960/pl/hdPLoGeUdY7FtFnI.m3u8?v=714"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 568,
+        "media_key": "3_2122435594039259137",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRn7Xla8AEvnBI.png",
+        "width": 1272
+      },
+      {
+        "height": 978,
+        "media_key": "3_2122374439644135424",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXQwTttbgAA8iIR.jpg",
+        "width": 1462
+      },
+      {
+        "height": 1004,
+        "media_key": "3_2122427512856662016",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRgk-1WUAALcPi.jpg",
+        "width": 1000
+      },
+      {
+        "height": 400,
+        "media_key": "3_2122427512856641536",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRgk-1WAAAzkjI.jpg",
+        "width": 400
+      },
+      {
+        "height": 840,
+        "media_key": "3_2122401902373867520",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRJSQWbkAArs1Y.jpg",
+        "width": 1409
+      },
+      {
+        "height": 400,
+        "media_key": "3_2122413897118363649",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRUMcQXsAERIDK.jpg",
+        "width": 400
+      },
+      {
+        "height": 400,
+        "media_key": "3_2122413897130885120",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRUMcTWwAAOws6.jpg",
+        "width": 400
+      },
+      {
+        "height": 1290,
+        "media_key": "3_2122408258023424000",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRPEM_XgAAa4O9.jpg",
+        "width": 1290
+      },
+      {
+        "height": 400,
+        "media_key": "3_2122408258010836993",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRPEM8XcAEl72n.jpg",
+        "width": 400
+      },
+      {
+        "height": 630,
+        "media_key": "3_2122397848436166656",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRFmSQXUAAEx7e.jpg",
+        "width": 1200
+      },
+      {
+        "height": 855,
+        "media_key": "3_2122376596128780289",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXQyRPPb0AEMHni.jpg",
+        "width": 1200
+      },
+      {
+        "height": 926,
+        "media_key": "3_2122376596128690177",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXQyRPPacAEMmIH.jpg",
+        "width": 1200
+      },
+      {
+        "duration_ms": 60073,
+        "height": 2160,
+        "media_key": "13_2122385299154325504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122385299154325504/img/B_MC3dgiKSuYwLkF.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122385299154325504/vid/avc1/3840x2160/rhU_RTf1lkaS3hdu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122385299154325504/vid/avc1/1280x720/slEuAv6tN7vFG_F2.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122385299154325504/vid/avc1/640x360/a419qF7DZVNCpqkd.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122385299154325504/vid/avc1/1920x1080/v0p6pA9ip8dVxrRr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122385299154325504/pl/wIjWVkGXTGtQ3REF.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122385299154325504/vid/avc1/480x270/IE8SeeHnY6Gyd2Sq.mp4"
+          }
+        ],
+        "width": 3840
+      },
+      {
+        "height": 1036,
+        "media_key": "3_2122377543630426112",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXQzIY9bkAAVom6.png",
+        "width": 1404
+      },
+      {
+        "height": 432,
+        "media_key": "3_2122377718130229248",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXQzSjBbQAAiXxJ.jpg",
+        "width": 908
+      },
+      {
+        "height": 1554,
+        "media_key": "3_2122377861205995520",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXQza4BWMAASqe6.jpg",
+        "width": 2712
+      },
+      {
+        "duration_ms": 81833,
+        "height": 1080,
+        "media_key": "13_2122376622003163136",
+        "preview_image_url": "https://pbs.twimg.com/media/HXQ1uypXYAA-OYC.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122376622003163136/pl/U2SCLoiP4Qxo7Sx_.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122376622003163136/vid/avc1/640x360/jWFqkucrZnOKskcT.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122376622003163136/vid/avc1/1920x1080/GMUkhBlx6jJD4dxy.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122376622003163136/vid/avc1/480x270/ezia8pu69XiMbaGd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122376622003163136/vid/avc1/1280x720/R1DqNxoSx6nmd1wN.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "height": 784,
+        "media_key": "3_2122376195190984705",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXQx55oakAEwTS9.jpg",
+        "width": 1513
+      },
+      {
+        "height": 2025,
+        "media_key": "3_2122353268621996032",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXQdDZgacAAh0u-.jpg",
+        "width": 1620
+      },
+      {
+        "height": 263,
+        "media_key": "3_2122353309965295616",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXQdFzhbIAA74zw.png",
+        "width": 697
+      },
+      {
+        "height": 322,
+        "media_key": "3_2122336101180604416",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXQNcHzbgAAUhaG.png",
+        "width": 673
+      },
+      {
+        "height": 364,
+        "media_key": "3_2122336135473164288",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXQNeHjacAAlHvR.png",
+        "width": 673
+      },
+      {
+        "height": 1225,
+        "media_key": "3_2122283362815807488",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXPdeWFbkAA-2tN.jpg",
+        "width": 980
+      },
+      {
+        "height": 816,
+        "media_key": "3_2122294080709521408",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXPnONWa8AAByak.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "created_at": "2026-11-16T21:18:08.000Z",
+        "edit_history_tweet_ids": [
+          "2122439098740674839"
+        ],
+        "id": "2122439098740674839",
+        "public_metrics": {
+          "bookmark_count": 1292,
+          "impression_count": 276516,
+          "like_count": 6867,
+          "quote_count": 105,
+          "reply_count": 192,
+          "retweet_count": 225
+        },
+        "text": "Claude Code on desktop now supports iPhone Duo in the iOS simulator (public beta).\n\nYou can run your app on Duo next to your conversation and Claude can fold and unfold the device to test each layout. https://t.co/ZwM3ZpvjBh"
+      },
+      {
+        "author_id": "163975783",
+        "created_at": "2026-11-16T22:48:44.000Z",
+        "edit_history_tweet_ids": [
+          "2122461899178820069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 62,
+              "id": "1712960547216637952",
+              "start": 53,
+              "username": "howie_ai"
+            }
+          ],
+          "urls": [
+            {
+              "end": 276,
+              "start": 253,
+              "url": "https://t.co/8bzjebeGdD"
+            }
+          ]
+        },
+        "id": "2122461899178820069",
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 13326,
+          "like_count": 241,
+          "quote_count": 5,
+          "reply_count": 10,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122458258145468597",
+            "type": "quoted"
+          }
+        ],
+        "text": "We’re excited to welcome Howie to Google Labs! \n\nThe @Howie_ai team has spent years figuring out scheduling and calendar management.  We can’t wait to learn from them as we build the next generation of intuitive AI tools together for small businesses 🤝 https://t.co/8bzjebeGdD"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122419228405800960"
+          ]
+        },
+        "author_id": "1478679005788311552",
+        "created_at": "2026-11-16T20:04:38.000Z",
+        "edit_history_tweet_ids": [
+          "2122420600408866844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1667558466226110464",
+              "start": 2,
+              "username": "kotoba_tech"
+            },
+            {
+              "end": 249,
+              "id": "894548126329184260",
+              "start": 233,
+              "username": "noriyuki_kojima"
+            },
+            {
+              "end": 262,
+              "id": "786071512646377473",
+              "start": 251,
+              "username": "jungokasai"
+            }
+          ]
+        },
+        "id": "2122420600408866844",
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 22202,
+          "like_count": 185,
+          "quote_count": 29,
+          "reply_count": 25,
+          "retweet_count": 43
+        },
+        "text": ". @Kotoba_tech, the leading voice AI lab in Japan, is joining ElevenLabs.\n\nTogether, we’ll bring Kotoba’s Japanese voice research to ElevenAgents, so more businesses can serve customers naturally in Japanese.\n\nWelcome to ElevenLabs, @noriyuki_kojima, @jungokasai, and team. https://t.co/FfucEerSja"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_2122420153660899328"
+          ]
+        },
+        "author_id": "1681613391750905856",
+        "created_at": "2026-11-16T20:02:58.000Z",
+        "edit_history_tweet_ids": [
+          "2122420182815592736"
+        ],
+        "id": "2122420182815592736",
+        "public_metrics": {
+          "bookmark_count": 320,
+          "impression_count": 274360,
+          "like_count": 395,
+          "quote_count": 110,
+          "reply_count": 86,
+          "retweet_count": 74
+        },
+        "text": "Nasiko - Open Runtime platform for managing AI agents.\nSee every agent. Cut token spend by up to 50%. Route to the right model with the agent gateway. Govern tool access. Set permissions and budgets per agent, per team. One command. Same workflow.\nOpen Runtime for agents starts https://t.co/lXTR2mSD7m"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122421303000866817"
+          ]
+        },
+        "author_id": "1769852186874306560",
+        "created_at": "2026-11-16T20:07:27.000Z",
+        "edit_history_tweet_ids": [
+          "2122421307656602040"
+        ],
+        "id": "2122421307656602040",
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 44437,
+          "like_count": 255,
+          "quote_count": 25,
+          "reply_count": 19,
+          "retweet_count": 15
+        },
+        "text": "GEMINI 4 NEON 👀\n\nA model called gemini-4-neon has surfaced in the Gemini web app's code from Google. For now it's only a code reference, with no public access. https://t.co/737tbgXd1x"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122353268621996032",
+            "3_2122353309965295616"
+          ]
+        },
+        "author_id": "1573399256836309009",
+        "created_at": "2026-11-16T15:37:45.000Z",
+        "edit_history_tweet_ids": [
+          "2122353436150964682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "end": 328,
+              "start": 305,
+              "url": "https://t.co/kKamA8JW9i"
+            }
+          ]
+        },
+        "id": "2122353436150964682",
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 30279,
+          "like_count": 448,
+          "quote_count": 3,
+          "reply_count": 35,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122342477482922202",
+            "type": "quoted"
+          }
+        ],
+        "text": "We are so close of getting Jensen back: Trump says he \"wouldn't mind\" seeing Jensen Huang back as Nvidia CEO, the FT reports. \n\n\"I think he learned a big lesson,\" he told reporters Monday before leaving for Asia. \n\nHe also said he doesn't know if Alice Huang is a Chinese spy, and https://t.co/VUL59dbZyK https://t.co/kKamA8JW9i"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "16_2122392388366962688"
+          ]
+        },
+        "author_id": "1681349314797240320",
+        "created_at": "2026-11-16T18:12:43.000Z",
+        "edit_history_tweet_ids": [
+          "2122392434198131005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "778764142412984320",
+              "start": 15,
+              "username": "huggingface"
+            }
+          ]
+        },
+        "id": "2122392434198131005",
+        "public_metrics": {
+          "bookmark_count": 105,
+          "impression_count": 41120,
+          "like_count": 370,
+          "quote_count": 24,
+          "reply_count": 35,
+          "retweet_count": 41
+        },
+        "text": "Open models on @huggingface now run through OpenRouter.\n\nEach request goes to the provider with the best price, speed, and uptime for that model, with automatic failover. Everything runs on the same Hugging Face token and API.\n\nYou can also send your traces to Hugging Face https://t.co/Q5zronJGTN"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122336646901235713"
+          ]
+        },
+        "author_id": "1684849711654588416",
+        "created_at": "2026-11-16T15:01:54.000Z",
+        "edit_history_tweet_ids": [
+          "2122344413951111663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 77,
+              "id": "165503959",
+              "start": 73,
+              "username": "NEA"
+            },
+            {
+              "end": 91,
+              "id": "24775410",
+              "start": 83,
+              "username": "sequoia"
+            },
+            {
+              "end": 108,
+              "id": "2236517244",
+              "start": 93,
+              "username": "khoslaventures"
+            },
+            {
+              "end": 124,
+              "id": "780720157",
+              "start": 113,
+              "username": "coatuemgmt"
+            },
+            {
+              "end": 148,
+              "id": "2084935729566609408",
+              "start": 140,
+              "username": "CormaAI"
+            }
+          ]
+        },
+        "id": "2122344413951111663",
+        "public_metrics": {
+          "bookmark_count": 743,
+          "impression_count": 1188836,
+          "like_count": 1432,
+          "quote_count": 138,
+          "reply_count": 197,
+          "retweet_count": 134
+        },
+        "text": "We raised a $125M Series A at a $1B valuation, 3 months out of stealth.\n\n@NEA led. @sequoia, @khoslaventures and @coatuemgmt doubled down.\n\n@CormaAI is training foundation models toward superintelligence for defensive cybersecurity.\n\nBecause the greatest gift cyberattackers have https://t.co/do0ElrPjRN"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122370428652212224"
+          ]
+        },
+        "author_id": "433930822",
+        "created_at": "2026-11-16T17:02:33.000Z",
+        "edit_history_tweet_ids": [
+          "2122374778074038613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "33846451",
+              "start": 20,
+              "username": "Accel"
+            },
+            {
+              "end": 38,
+              "id": "171165102",
+              "start": 31,
+              "username": "PeakXV"
+            }
+          ]
+        },
+        "id": "2122374778074038613",
+        "public_metrics": {
+          "bookmark_count": 538,
+          "impression_count": 967732,
+          "like_count": 812,
+          "quote_count": 398,
+          "reply_count": 396,
+          "retweet_count": 213
+        },
+        "text": "We raised $12M from @Accel and @PeakXV to put AI through the bullshit American healthcare puts you through.\n\nNavigating healthcare is hard and all of us have a list of healthcare tasks we’ve been putting off. From visiting a doctor to filing an insurance claim, the tasks pile up https://t.co/agNKSPoUwG"
+      },
+      {
+        "created_at": "2026-11-16T17:49:14.000Z",
+        "edit_history_tweet_ids": [
+          "2122386524297974128"
+        ],
+        "id": "2122386524297974128",
+        "public_metrics": {
+          "bookmark_count": 997,
+          "impression_count": 584530,
+          "like_count": 13997,
+          "quote_count": 268,
+          "reply_count": 698,
+          "retweet_count": 948
+        },
+        "text": "Every driver needs their crew. https://t.co/mJ9AJ1CgiG"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122354949220978689"
+          ]
+        },
+        "author_id": "45329434",
+        "created_at": "2026-11-16T17:00:29.000Z",
+        "edit_history_tweet_ids": [
+          "2122374256952741988"
+        ],
+        "id": "2122374256952741988",
+        "public_metrics": {
+          "bookmark_count": 1063,
+          "impression_count": 3063473,
+          "like_count": 1337,
+          "quote_count": 72,
+          "reply_count": 496,
+          "retweet_count": 445
+        },
+        "text": "We just raised $53M from Accel India, Together Fund, and Premji Invest to build the CRM that Salesforce should have been.\n\nEvery legacy CRM works the same way: you do the actual work all day, then you do it all over again by typing it into the CRM.\n\nBetween Senthil, Ramesh, and https://t.co/fF0iV0smEY"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122376195190984705"
+          ]
+        },
+        "author_id": "1573399256836309009",
+        "created_at": "2026-11-16T17:09:15.000Z",
+        "edit_history_tweet_ids": [
+          "2122376461822927065"
+        ],
+        "id": "2122376461822927065",
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 52097,
+          "like_count": 358,
+          "quote_count": 2,
+          "reply_count": 34,
+          "retweet_count": 15
+        },
+        "text": "Interesting: OpenAI explored buying Goodfire, the Anthropic-backed startup that looks inside AI models to understand why they behave the way they do, for more than $5 billion, The Information reports. \n\nYou probably remember the uproar in September, when reports said GPT-6 Astra https://t.co/iGVJaKb5xh"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2120977434447159297"
+          ]
+        },
+        "author_id": "885220904761933824",
+        "created_at": "2026-11-12T20:30:07.000Z",
+        "edit_history_tweet_ids": [
+          "2120977464264462816"
+        ],
+        "id": "2120977464264462816",
+        "public_metrics": {
+          "bookmark_count": 146,
+          "impression_count": 62320,
+          "like_count": 999,
+          "quote_count": 19,
+          "reply_count": 56,
+          "retweet_count": 70
+        },
+        "text": "Microsoft Ignite starts next week, November 17! The MAI team is bringing something new: new models, demos, and speaker sessions from the people who built them. https://t.co/NCyCCbGiED"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122260180780085248"
+          ]
+        },
+        "author_id": "1476858630972469248",
+        "created_at": "2026-11-16T15:30:01.000Z",
+        "edit_history_tweet_ids": [
+          "2122351489104609554"
+        ],
+        "id": "2122351489104609554",
+        "public_metrics": {
+          "bookmark_count": 295,
+          "impression_count": 130123,
+          "like_count": 381,
+          "quote_count": 43,
+          "reply_count": 52,
+          "retweet_count": 36
+        },
+        "text": "Today, we're introducing Okara MCP.\n\nConnect it to Claude, Cursor, Codex, or any LLM, and it finds gaps, fixes issues, and publishes your posts across socials to help you grow traffic and revenue.\n\nTry it now at https://t.co/dOxxjfqKy1 https://t.co/AzxsJnCXBg"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122342466284134400"
+          ]
+        },
+        "author_id": "18949452",
+        "created_at": "2026-11-16T14:54:12.000Z",
+        "edit_history_tweet_ids": [
+          "2122342477482922202"
+        ],
+        "id": "2122342477482922202",
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 51689,
+          "like_count": 257,
+          "quote_count": 12,
+          "reply_count": 37,
+          "retweet_count": 57
+        },
+        "text": "Breaking news: US President Donald Trump has said he 'wouldn’t mind' seeing Jensen Huang reinstated as chief executive of Nvidia, just days after the co-founder of the US chipmaker resigned amid a spiralling infidelity scandal. https://t.co/gf2L9L99dk https://t.co/yoyYBoHLHK"
+      },
+      {
+        "created_at": "2026-11-16T11:02:07.000Z",
+        "edit_history_tweet_ids": [
+          "2122284071850246309"
+        ],
+        "id": "2122284071850246309",
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 171701,
+          "like_count": 460,
+          "quote_count": 28,
+          "reply_count": 54,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2119024292595749136",
+            "type": "quoted"
+          }
+        ],
+        "text": "🚨 New stealth model spotted inside Devin Build\n\nSilicon 2 &lt; it is a new fable class model as you can guess with pricing &gt;\n\nAnthropic\n\nSits in the Claude block. Uses Fable 5.1's $10/$50 as a placeholder price.\n\nDario is this pacing of frontier you meant 👀 https://t.co/bPIURq64Xu https://t.co/EaG7UJzKLn"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122160994856374272"
+          ]
+        },
+        "author_id": "1743487864934162432",
+        "created_at": "2026-11-16T02:55:35.000Z",
+        "edit_history_tweet_ids": [
+          "2122161629592953032"
+        ],
+        "id": "2122161629592953032",
+        "public_metrics": {
+          "bookmark_count": 213,
+          "impression_count": 444586,
+          "like_count": 1538,
+          "quote_count": 109,
+          "reply_count": 159,
+          "retweet_count": 101
+        },
+        "text": "Alibaba has launched Qwen4 Max, gaining 9 points over Qwen3.8 Max on the Artificial Analysis Intelligence Index and landing 3 points behind Kimi K3.1 Pro at ~11% lower Cost per Task\n\nQwen4 Max, using xhigh reasoning effort, scores 43 on the Intelligence Index, 9 points ahead of https://t.co/dwh719Cq14"
+      },
+      {
+        "author_id": "3980735590",
+        "created_at": "2026-11-14T09:25:32.000Z",
+        "edit_history_tweet_ids": [
+          "2121534991725113363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "end": 301,
+              "start": 278,
+              "url": "https://t.co/8nZrdACCVZ"
+            }
+          ]
+        },
+        "id": "2121534991725113363",
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 35782,
+          "like_count": 211,
+          "quote_count": 11,
+          "reply_count": 95,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121185887337820440",
+            "type": "quoted"
+          }
+        ],
+        "text": "DAILY AI BRIEF 🗞 — Nov 14\n\nOPENAI 🔥:\n- ChatGPT Wallet is rolling out on Dots for US Pro subscribers, so agents can pay without seeing your real card details.\n\nGOOGLE 🔥:\n- Antigravity is rolling out Dynamic Workflows, where /run-workflow writes a Python script that orchestrates https://t.co/8nZrdACCVZ"
+      }
+    ],
+    "users": [
+      {
+        "id": "3980735590",
+        "name": "🚨 AI News | TestingCatalog",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899962463115751424/i-6MBWau_normal.jpg",
+        "public_metrics": {
+          "followers_count": 84919,
+          "following_count": 997,
+          "like_count": 100903,
+          "listed_count": 2813,
+          "media_count": 12351,
+          "tweet_count": 32270
+        },
+        "username": "testingcatalog",
+        "verified": true
+      },
+      {
+        "id": "1573399256836309009",
+        "name": "Chubby♨️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728327996375719936/RW7VBJfD_normal.jpg",
+        "public_metrics": {
+          "followers_count": 159490,
+          "following_count": 3569,
+          "like_count": 48198,
+          "listed_count": 3261,
+          "media_count": 10820,
+          "tweet_count": 47152
+        },
+        "username": "kimmonismus",
+        "verified": false
+      },
+      {
+        "id": "74286565",
+        "name": "Microsoft",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105783660914122752/qyF3N1l8_normal.jpg",
+        "public_metrics": {
+          "followers_count": 13084434,
+          "following_count": 1096,
+          "like_count": 13762,
+          "listed_count": 27235,
+          "media_count": 3367,
+          "tweet_count": 31151
+        },
+        "username": "Microsoft",
+        "verified": true
+      },
+      {
+        "id": "1870923516675289088",
+        "name": "Chetaslua",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926364057004646400/z3oD9QyB_normal.jpg",
+        "public_metrics": {
+          "followers_count": 45931,
+          "following_count": 260,
+          "like_count": 16325,
+          "listed_count": 643,
+          "media_count": 2095,
+          "tweet_count": 13522
+        },
+        "username": "chetaslua",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122487574237466905",
+    "next_token": "b26v89c19zqg8o3juzow6dc7g1pk131dcwfm73qbr9ke5",
+    "oldest_id": "2122255419099803817",
+    "result_count": 24
+  }
+}

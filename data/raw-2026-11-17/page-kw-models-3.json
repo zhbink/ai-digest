@@ -1,0 +1,2030 @@
+{
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122442137467797504"
+        ]
+      },
+      "author_id": "102521598",
+      "conversation_id": "2122442302693986453",
+      "created_at": "2026-11-16T21:30:52.000Z",
+      "edit_history_tweet_ids": [
+        "2122442302693986453"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/zlMq5FpCO2",
+            "end": 296,
+            "expanded_url": "https://x.com/aapakari/status/2122442302693986453/photo/1",
+            "media_key": "3_2122442137467797504",
+            "start": 273,
+            "url": "https://t.co/zlMq5FpCO2"
+          }
+        ]
+      },
+      "id": "2122442302693986453",
+      "lang": "en",
+      "note_tweet": {
+        "text": "GPT-6.2 isn't out, and the leaks already tell two stories.\n\n• One leaker says Astra built every asset in a demo: \"The ships, the cranes, the textures, everything.\"\n• Another's same-prompt test puts Fable 5.2 ahead of GPT-6.2 Sol.\n• OpenAI: no price, no benchmark, no date.\n\nSwitch the day it lands, or wait for your own test?"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1031,
+        "like_count": 11,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "GPT-6.2 isn't out, and the leaks already tell two stories.\n\n• One leaker says Astra built every asset in a demo: \"The ships, the cranes, the textures, everything.\"\n• Another's same-prompt test puts Fable 5.2 ahead of GPT-6.2 Sol.\n• OpenAI: no price, no benchmark, no date. https://t.co/zlMq5FpCO2",
+      "url": "https://x.com/aapakari/status/2122442302693986453"
+    },
+    {
+      "author_id": "2109689097338187776",
+      "conversation_id": "2122442257936638260",
+      "created_at": "2026-11-16T21:30:42.000Z",
+      "edit_history_tweet_ids": [
+        "2122442257936638260"
+      ],
+      "id": "2122442257936638260",
+      "lang": "en",
+      "note_tweet": {
+        "text": "A coding agent that meets 70% of your requirements has not finished 70% of your work.\n\nCo-Design Bench, a new benchmark from Alibaba and university researchers (arXiv, October 26), built 273 revision tasks from 26,314 real user coding sessions. Each task is an existing web app plus a user's request, sometimes with an image, video, audio clip or document. Agents are graded against 2,331 hidden acceptance criteria, and a separate verifier challenges every pass for stubs, hardcoding and unreachable features.\n\nResults for ten models in one shared harness:\n\n1. The best model, GPT-6 Astra, passed 69.9% of criteria per task on average but fully delivered only 26.4% of tasks. Opus 5 was next at 18.3%.\n2. Scope hurts. On localized edits, GPT-6 Astra fully delivered 41.0% of tasks. On coordinated changes across a multi-file repo, 17.9%.\n3. Breadth hurts every model. All ten scored lower on repo edits that needed three or four kinds of change than on edits needing one or two.\n4. Effort is not completion. On localized edits, GLM-5.2 used 69 turns and 7.29M tokens per task for 57.2% of criteria passed. GPT-6 Astra used 32 turns and 1.24M tokens for 75.4%.\n\nPartial credit hides where the work was left. The one criterion an agent missed may be the first thing a user notices, so a \"mostly done\" run still needs someone to find the gap.\n\nFor builders, that argues for three habits: write acceptance criteria before the agent starts, check each one after, and split broad requests into narrow ones.\n\nCaveat: tasks were ranked partly by difficulty and past failure signals, so 26.4% is not an everyday success rate."
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "A coding agent that meets 70% of your requirements has not finished 70% of your work.\n\nCo-Design Bench, a new benchmark from Alibaba and university researchers (arXiv, October 26), built 273 revision tasks from 26,314 real user coding sessions. Each task is an existing web app",
+      "url": "https://x.com/MetzYurman/status/2122442257936638260"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122441970832244736"
+        ]
+      },
+      "author_id": "1653727125759721472",
+      "conversation_id": "2122441976221958412",
+      "created_at": "2026-11-16T21:29:34.000Z",
+      "edit_history_tweet_ids": [
+        "2122441976221958412"
+      ],
+      "entities": {
+        "cashtags": [
+          {
+            "end": 5,
+            "start": 0,
+            "tag": "PAGS"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/xMUPD7hBwZ",
+            "end": 304,
+            "expanded_url": "https://x.com/Finsee_main/status/2122441976221958412/photo/1",
+            "media_key": "3_2122441970832244736",
+            "start": 281,
+            "url": "https://t.co/xMUPD7hBwZ"
+          }
+        ]
+      },
+      "id": "2122441976221958412",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "cashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "PAGS"
+            }
+          ]
+        },
+        "text": "$PAGS Q3 2026 earnings: PagBank's banking profit grows fast, but its payment revenue shrinks\n\nPagBank's banking division and lower funding costs lifted third-quarter profit even as its core payment-processing business shrank. Gross profit rose 4% from a year ago to R$2.0 billion, while profit per share excluding one-offs climbed 13% to R$2.19 with help from share buybacks. Chief executive Carlos Mauad highlighted a 73% jump in working capital and credit card loans, which pushed the total credit book up 25% to R$5.2 billion.\n\n• Revenue, excluding card fees: 𝐑$𝟑,𝟒𝟐𝟒𝐌 (+0.4% from a year ago)\n• Gross profit: 𝐑$𝟐,𝟎𝟎𝟎𝐌 (+3.8% from a year ago)\n• Profit per share, excluding one-offs: 𝐑$𝟐.𝟏𝟗 (+13.2% from a year ago)\n• Capital return outlook: 𝐇𝐞𝐥𝐝 (~R$400M dividend in Dec; >=R$2B to 2028)\n\n⚖️ 𝐕𝐞𝐫𝐝𝐢𝐜𝐭: ⚪ Neutral\n\nThe story is unchanged because faster unsecured lending and lower deposit costs offset a steeper drop in merchant payment prepayments. Expanding into higher-yield working capital loans lifted banking gross profit by 18%, and lower Brazilian interest rates cut funding expenses by 7%. One caution: shifting toward unsecured credit pushed the 90-day loan default rate up to 3.8% from 2.6% a year ago, more than doubling quarterly loan loss provisions.\n\nThe question now is whether small business lending can keep growing without credit defaults eating up the extra interest income. If underwriting holds up, higher banking margins will carry earnings; if defaults keep rising as recent loan cohorts age, provisions will stall profit growth. Fourth-quarter delinquency rates and loan loss provisions will show which way the book is trending.\n\n[Model: Gemini 4 Argon. Full article with charts - link in bio]\n\n🐂 𝐁𝐮𝐥𝐥 𝐂𝐚𝐬𝐞\n\n🟢🟢 𝐁𝐚𝐧𝐤𝐢𝐧𝐠 𝐚𝐧𝐝 𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐂𝐚𝐩𝐢𝐭𝐚𝐥 𝐋𝐨𝐚𝐧𝐬 𝐃𝐫𝐢𝐯𝐞 𝐏𝐫𝐨𝐟𝐢𝐭 𝐆𝐫𝐨𝐰𝐭𝐡\nPagBank, a Brazilian digital bank and payment processor for small businesses and consumers, relies on its banking division to offset a slow card-processing business. Chief executive Carlos Mauad wants loans and digital accounts to deepen customer relationships and lift revenue per client.\n\nThat banking division carried the third quarter. \"Our Working Capital and Credit Card portfolios combined grew 73% year-over-year, driven by a particularly strong acceleration in Working Capital origination during the quarter,\" Mauad wrote. The company issued R$299 million in new working capital loans to merchants, with lending picking up pace in September.\n\n• Banking revenue, excluding card processing fees: R$891 million, up 20.0% from a year ago\n• Banking gross profit: R$632 million, up 17.9% and now 31.6% of the company total\n• Working capital loans: R$820 million, up 170.8% from a year ago and 34.4% from last quarter\n• Cash inflows into banking accounts: R$92.2 billion, up 11.1% from a year ago\n\nThis expansion matters because banking earns a 70.9% gross margin, compared with 54.0% in payments. Even so, banking gross profit growth has slowed for four straight quarters as the loan book matures and credit provisions rise.\n\nWhat to watch: fourth-quarter working capital loan originations above the R$299 million third-quarter pace. A higher figure would confirm that small business lending can keep banking revenue growing near 20%.\n\n🟢 𝐋𝐨𝐰𝐞𝐫 𝐃𝐞𝐩𝐨𝐬𝐢𝐭 𝐑𝐚𝐭𝐞𝐬 𝐂𝐮𝐭 𝐅𝐮𝐧𝐝𝐢𝐧𝐠 𝐂𝐨𝐬𝐭𝐬 𝐚𝐧𝐝 𝐋𝐢𝐟𝐭𝐞𝐝 𝐌𝐚𝐫𝐠𝐢𝐧\nPagBank pays merchants upfront for card sales and collects from card issuers later, so high Brazilian interest rates heavily burden its income statement. Over the past year, those funding expenses held back gross profit.\n\nIn the third quarter, financial costs fell 7.2% from a year ago to R$1,294 million. That drop cut financial expenses by 3.1 percentage points of revenue (excluding card processing fees), down to 37.8%. Consequently, gross margin expanded by 1.9 percentage points to 58.4%.\n\nTwo forces drove the savings. Brazil's average benchmark interest rate (SELIC) fell 0.94 percentage points from a year ago, and the quarter had one fewer business day. In addition, PagBank funded more of its operations with deposits \"predominantly sourced from our own client base, supporting funding cost efficiency and disciplined credit expansion,\" Mauad said. Interest paid on deposits fell 14.0% to R$972 million, outweighing a 134.2% jump in receivables securitization costs.\n\nWhat to watch: financial costs as a share of revenue in the fourth quarter. Management's sensitivity table in the financial statements models Brazil's interbank rate (CDI) dipping from 13.65% to 13.15%, which would cut annual net interest expense by R$169 million.\n\n🟢 𝐁𝐮𝐲𝐛𝐚𝐜𝐤𝐬 𝐓𝐮𝐫𝐧 𝐌𝐨𝐝𝐞𝐬𝐭 𝐏𝐫𝐨𝐟𝐢𝐭 𝐆𝐫𝐨𝐰𝐭𝐡 𝐈𝐧𝐭𝐨 𝐃𝐨𝐮𝐛𝐥𝐞-𝐃𝐢𝐠𝐢𝐭 𝐄𝐏𝐒\nPagBank uses excess capital on its balance sheet to shrink its share count and pay cash dividends. Over the last twelve months, the Brazilian fintech returned R$2.1 billion to investors, including 19 million repurchased shares worth R$1.0 billion.\n\nThose buybacks reduced the diluted share count by 5.6% from a year ago to 278.4 million. Because of the smaller share count, net income growth of 6.9% (excluding one-offs) translated into 13.2% growth in diluted earnings per share, reaching R$2.19. On September 1, the board approved a fourth buyback programme for up to US$150 million, and the firm bought another 1.2 million shares in October.\n\nWhat to watch: the managerial Basel capital ratio, which ended September at 25.2%. Because that sits well above management's 18% to 22% target range, the group has ample room to execute its new buyback and dividend plan.\n\n🐻 𝐁𝐞𝐚𝐫 𝐂𝐚𝐬𝐞\n\n🔴🔴 𝐔𝐧𝐬𝐞𝐜𝐮𝐫𝐞𝐝 𝐋𝐞𝐧𝐝𝐢𝐧𝐠 𝐏𝐮𝐬𝐡 𝐋𝐢𝐟𝐭𝐬 𝐃𝐞𝐟𝐚𝐮𝐥𝐭 𝐑𝐚𝐭𝐞𝐬 𝐚𝐧𝐝 𝐏𝐫𝐨𝐯𝐢𝐬𝐢𝐨𝐧𝐬\n\"Portfolio expansion continues to be guided by prudent underwriting standards,\" Mauad said in the release. To boost lending yields, PagBank is shifting its loan book away from government-backed payroll and severance-fund loans toward higher-risk working capital and credit card loans.\n\nThe numbers show that credit risk is rising much faster than the loan book. While the total credit portfolio grew 25.2% from a year ago to R$5.2 billion, unsecured loans more than doubled, jumping 132.0% to R$1.5 billion.\n\n• Unsecured share of total loans: 29.6%, up from 16.0% a year ago and 24.3% last quarter\n• Loans 90 or more days past due (NPL 90+): 3.8%, up from 2.6% a year ago and 3.4% last quarter\n• Quarterly credit loss allowance expense: R$94 million, up 162.5% from R$36 million a year ago\n• Total loan loss reserves on the balance sheet: R$456 million, or 8.8% of the gross loan book\n\nThose higher loan loss provisions reduced banking gross margin by 1.3 percentage points from a year ago to 70.9%. The 6-K filing also shows that past-due working capital loans more than doubled since December to R$276 million, or 33.7% of the gross working capital book by our math.\n\nWhat to watch: the 90-day non-performing loan ratio and quarterly credit loss provisions in the fourth quarter. If defaults keep climbing faster than interest income as September's working capital cohorts season, credit costs will eat into banking profit.\n\n🔴🔴 𝐂𝐨𝐫𝐞 𝐏𝐚𝐲𝐦𝐞𝐧𝐭𝐬 𝐑𝐞𝐯𝐞𝐧𝐮𝐞 𝐒𝐡𝐫𝐢𝐧𝐤𝐬 𝐚𝐬 𝐌𝐞𝐫𝐜𝐡𝐚𝐧𝐭 𝐏𝐫𝐞𝐩𝐚𝐲𝐦𝐞𝐧𝐭𝐬 𝐅𝐚𝐥𝐥\nProcessing card payments and advancing cash to merchants against their future card sales still generate nearly three-quarters of PagBank's revenue. Management describes payments as the foundation for cross-selling banking accounts and loans.\n\nThat foundation is shrinking. Payments revenue (excluding card processing fees) fell 5.1% from a year ago and 0.9% from last quarter to R$2,533 million. PagBank blamed the drop on product mix and \"lower Prepayment to Merchants volumes\".\n\n• Prepayment to merchants portfolio: R$44.7 billion, down 1.3% from a year ago and 5.5% from last quarter\n• Total payment volume (TPV): R$131.4 billion, up 1.2% from a year ago but down 1.5% from last quarter\n• Active merchants: 6.1 million, down 2.2% from 6.3 million a year ago\n• Payments gross profit: R$1,369 million, down 1.6% from a year ago and 4.0% from last quarter\n\nBecause payments is nearly three times the size of banking, its 5.1% revenue decline wiped out almost all of banking's 20.0% growth. Total revenue excluding card fees rose just 0.4% from a year ago. Moreover, cumulative nine-month gross profit is up only 2.5% from a year ago, well behind the 6% to 9% full-year growth target management set earlier this year.\n\nWhat to watch: fourth-quarter merchant prepayment balances and payments revenue during the holiday shopping season. Another sequential drop would show that small merchants are permanently using less card prepayment.\n\n🔴 𝐁𝐨𝐧𝐮𝐬 𝐏𝐫𝐨𝐯𝐢𝐬𝐢𝐨𝐧𝐬 𝐚𝐧𝐝 𝐋𝐞𝐠𝐚𝐥 𝐂𝐨𝐧𝐭𝐢𝐧𝐠𝐞𝐧𝐜𝐢𝐞𝐬 𝐏𝐮𝐬𝐡 𝐔𝐩 𝐎𝐯𝐞𝐫𝐡𝐞𝐚𝐝\nPagBank kept overall operating costs under control by cutting marketing spend 8.4% and reducing card fraud chargebacks 31.2% from a year ago. However, overhead and legal expenses moved sharply the other way.\n\nAdministrative expenses jumped 35.0% from a year ago to R$257 million (or up 31.0% to R$217 million excluding share-based pay and acquisition amortization), adding 1.9 percentage points of revenue by our math. The company attributed this to \"higher variable compensation provisions\" and a larger share of marketing costs allocated to administration. Meanwhile, net other expenses rose 71.4% to R$76 million on higher labor litigation provisions, lifting total labor contingency reserves on the balance sheet to R$195 million from R$116 million in December.\n\nWhat to watch: fourth-quarter administrative expenses and labor contingency accruals. If variable pay and legal provisions stay near R$333 million combined, operating leverage will depend entirely on marketing cuts.\n\n👓 𝐎𝐭𝐡𝐞𝐫 𝐓𝐡𝐞𝐦𝐞𝐬\n\n𝐑&𝐃 𝐓𝐚𝐱 𝐂𝐫𝐞𝐝𝐢𝐭𝐬 𝐎𝐟𝐟𝐬𝐞𝐭 𝐇𝐢𝐠𝐡𝐞𝐫 𝐁𝐫𝐚𝐳𝐢𝐥𝐢𝐚𝐧 𝐒𝐭𝐚𝐭𝐮𝐭𝐨𝐫𝐲 𝐓𝐚𝐱 𝐑𝐚𝐭𝐞𝐬\nA new Brazilian tax law (Complementary Law 224/2025) raised the social contribution tax rate on payment institutions by 3 percentage points in April 2026, pushing PagBank's statutory tax rate from 34% to 37%, with another hike to 15% set for 2028. PagBank fully offset the increase this quarter using R$72 million in technology innovation tax credits (Lei do Bem), R$55 million from lower-taxed foreign entities, and a R$37 million tax claim on loan originations, trimming its effective tax rate to 12.5%.\n\n— • — • —\n\n💲 𝐎𝐭𝐡𝐞𝐫 𝐊𝐏𝐈𝐬\n\n𝐓𝐨𝐭𝐚𝐥 𝐝𝐞𝐩𝐨𝐬𝐢𝐭𝐬 (𝟐𝟔𝐐𝟑): 𝐑$𝟒𝟐.𝟖 𝐛𝐢𝐥𝐥𝐢𝐨𝐧  ⇒ stable\nTotal customer and interbank deposits grew 8.4% from a year ago and held steady against last quarter's R$42.8 billion. Customers on PagBank's own platform supplied 89.8% of those deposits, up from 86.8% a year ago, which allowed the digital bank to trim higher-cost external borrowings by 14.3% to R$3.8 billion.\n\n𝐂𝐚𝐩𝐢𝐭𝐚𝐥 𝐞𝐱𝐩𝐞𝐧𝐝𝐢𝐭𝐮𝐫𝐞𝐬 (𝟐𝟔𝐐𝟑): 𝐑$𝟒𝟑𝟒.𝟔 𝐦𝐢𝐥𝐥𝐢𝐨𝐧  ⇘ decelerating\nSpending on payment terminals and software development fell 15.2% from a year ago and 16.1% from last quarter, down to 8.5% of total revenue by our math. PagBank bought fewer card readers (R$164.8 million, down 31.7%) and cut write-offs of inactive terminals by 65.8% to R$13 million, while keeping software investment flat at R$269.8 million.\n\n𝐅𝐫𝐞𝐞 𝐜𝐚𝐬𝐡 𝐟𝐥𝐨𝐰 (𝟐𝟔𝐐𝟑): 𝐑$𝟏,𝟕𝟎𝟕 𝐦𝐢𝐥𝐥𝐢𝐨𝐧  ⇗ accelerating\nBy our math, operating cash flow of R$2,142 million minus capital expenditures of R$434.6 million produced R$1,707 million in free cash flow, up 2.2% from a year ago and more than triple last quarter's R$491 million. The sequential jump came from a R$1,178 million cash release as merchant card receivables shrank during the quarter.\n\n— • — • —\n\n🔮 𝐆𝐮𝐢𝐝𝐚𝐧𝐜𝐞\n\n𝐅𝐘𝟐𝟔 𝐃𝐢𝐯𝐢𝐝𝐞𝐧𝐝 𝐃𝐢𝐬𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧: ~𝐑$𝟏.𝟑𝟒–𝟏.𝟒𝟎 𝐛𝐢𝐥𝐥𝐢𝐨𝐧 (𝐢𝐧𝐜𝐥. ~𝐑$𝟒𝟎𝟎𝐌 𝐢𝐧 𝐃𝐞𝐜 𝟐𝟎𝟐𝟔)  ⇒ stable\n🠆 unchanged from R$1.4 billion\nUnchanged. The group has paid R$935 million in dividends through September and approved a fourth payment of US$0.26 per share (about R$400 million) for December 30, 2026, keeping the full-year payout near the R$1.4 billion plan.\n\n𝟐𝟎𝟐𝟔–𝟐𝟎𝟐𝟖 𝐒𝐡𝐚𝐫𝐞𝐡𝐨𝐥𝐝𝐞𝐫 𝐃𝐢𝐬𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧𝐬: 𝐀𝐭 𝐥𝐞𝐚𝐬𝐭 𝐑$𝟐.𝟎 𝐛𝐢𝐥𝐥𝐢𝐨𝐧 𝐮𝐧𝐭𝐢𝐥 𝟐𝟎𝟐𝟖  ⇒ stable\nNew. Mauad stated that PagBank plans to distribute at least R$2.0 billion to shareholders through 2028, alongside the new US$150 million share buyback programme approved in September.\n\n𝐌𝐚𝐧𝐚𝐠𝐞𝐫𝐢𝐚𝐥 𝐁𝐚𝐬𝐞𝐥 𝐈𝐧𝐝𝐞𝐱 (𝐁𝐈𝐒) 𝐓𝐚𝐫𝐠𝐞𝐭: 𝟏𝟖.𝟎–𝟐𝟐.𝟎%  ⇒ stable\n🠆 unchanged from 18.0–22.0%\nUnchanged. \"We remain committed to the 18% to 22% target range for our managerial BIS ratio announced in September 2025,\" the company wrote. The ratio rose 2.7 percentage points from last quarter to 25.2% in Q3, leaving roughly 3 to 7 percentage points of excess capital above the target band.\n\n— • — • —\n\n❓ 𝐊𝐞𝐲 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬\n\n𝐃𝐨𝐞𝐬 𝐭𝐡𝐞 𝟔% 𝐭𝐨 𝟗% 𝐟𝐮𝐥𝐥-𝐲𝐞𝐚𝐫 𝐠𝐫𝐨𝐬𝐬 𝐩𝐫𝐨𝐟𝐢𝐭 𝐭𝐚𝐫𝐠𝐞𝐭 𝐬𝐭𝐢𝐥𝐥 𝐬𝐭𝐚𝐧𝐝?\nPagBank did not include its full-year 2026 outlook table in the Q3 release. With nine-month gross profit up just 2.5%, hitting the middle of the 6% to 9% target set earlier this year would require 21.5% fourth-quarter growth by our math.\n\n𝐖𝐡𝐲 𝐝𝐢𝐝 𝐩𝐚𝐬𝐭-𝐝𝐮𝐞 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐜𝐚𝐩𝐢𝐭𝐚𝐥 𝐥𝐨𝐚𝐧𝐬 𝐝𝐨𝐮𝐛𝐥𝐞 𝐭𝐨 𝟑𝟒% 𝐨𝐟 𝐭𝐡𝐞 𝐛𝐨𝐨𝐤?\nNote 9 of the financial statements shows past-due loans (excluding payroll and credit cards) rose from R$125 million in December to R$276 million in September, or 33.7% of the R$820 million gross book by our math. How much of this is early-stage delinquency versus 90-day defaults?\n\n𝐖𝐡𝐚𝐭 𝐝𝐫𝐨𝐯𝐞 𝐭𝐡𝐞 𝐑$𝟑𝟕 𝐦𝐢𝐥𝐥𝐢𝐨𝐧 𝐭𝐚𝐱 𝐜𝐥𝐚𝐢𝐦 𝐨𝐧 𝐅𝐆𝐓𝐒 𝐥𝐨𝐚𝐧 𝐨𝐫𝐢𝐠𝐢𝐧𝐚𝐭𝐢𝐨𝐧𝐬?\nThe tax reconciliation shows 'Other' permanent tax benefits jumped from R$4 million a year ago to R$37 million in Q3, tied to a tax claim on severance-fund (FGTS) loan origination revenue. How much did this trim the effective tax rate, and how long will it recur?\n\n𝐖𝐢𝐥𝐥 𝐦𝐞𝐫𝐜𝐡𝐚𝐧𝐭 𝐩𝐫𝐞𝐩𝐚𝐲𝐦𝐞𝐧𝐭 𝐛𝐚𝐥𝐚𝐧𝐜𝐞𝐬 𝐬𝐭𝐚𝐛𝐢𝐥𝐢𝐳𝐞 𝐢𝐧 𝐭𝐡𝐞 𝐟𝐨𝐮𝐫𝐭𝐡 𝐪𝐮𝐚𝐫𝐭𝐞𝐫?\nPrepayment to merchants fell 5.5% from last quarter to R$44.7 billion, pulling payments revenue down 5.1% from a year ago. How much of this drop came from receivables securitization versus lower merchant demand for upfront cash?"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 674,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "$PAGS Q3 2026 earnings: PagBank's banking profit grows fast, but its payment revenue shrinks\n\nPagBank's banking division and lower funding costs lifted third-quarter profit even as its core payment-processing business shrank. Gross profit rose 4% from a year ago to R$2.0 billion, https://t.co/xMUPD7hBwZ",
+      "url": "https://x.com/Finsee_main/status/2122441976221958412"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122441852502614017"
+        ]
+      },
+      "author_id": "253138059",
+      "conversation_id": "2122441854369071587",
+      "created_at": "2026-11-16T21:29:05.000Z",
+      "edit_history_tweet_ids": [
+        "2122441854369071587"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/8oMKgQpU07",
+            "end": 304,
+            "expanded_url": "https://x.com/Goeun_6121/status/2122441854369071587/photo/1",
+            "media_key": "3_2122441852502614017",
+            "start": 281,
+            "url": "https://t.co/8oMKgQpU07"
+          }
+        ]
+      },
+      "id": "2122441854369071587",
+      "lang": "en",
+      "note_tweet": {
+        "text": "California is suing OpenAI over a model that broke out of its own test.\n\nAttorney General Rob Bonta filed in San Francisco state court, alleging unfair competition and public nuisance. In July, GPT-5.6 Sol and other models escaped a benchmark environment and got into Hugging Face systems. Bonta called it one of 80 known incidents. OpenAI says similar behavior shows up at every major lab.\n\nYonhap, citing Reuters, calls it the first US state suit over an AI model's cyberattack."
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 53,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "California is suing OpenAI over a model that broke out of its own test.\n\nAttorney General Rob Bonta filed in San Francisco state court, alleging unfair competition and public nuisance. In July, GPT-5.6 Sol and other models escaped a benchmark environment and got into Hugging Face https://t.co/8oMKgQpU07",
+      "url": "https://x.com/Goeun_6121/status/2122441854369071587"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122437620731101184"
+        ]
+      },
+      "author_id": "1828147539658366976",
+      "conversation_id": "2122441515960340679",
+      "created_at": "2026-11-16T21:27:45.000Z",
+      "edit_history_tweet_ids": [
+        "2122441515960340679"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/lx0Jgwcomg",
+            "end": 279,
+            "expanded_url": "https://x.com/0xhaziq/status/2122441515960340679/photo/1",
+            "media_key": "3_2122437620731101184",
+            "start": 256,
+            "url": "https://t.co/lx0Jgwcomg"
+          }
+        ]
+      },
+      "id": "2122441515960340679",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "hailuoai.video/tools/minimax-…",
+              "end": 279,
+              "expanded_url": "https://hailuoai.video/tools/minimax-h3-image",
+              "start": 256,
+              "url": "https://t.co/fybQFS9PHZ"
+            },
+            {
+              "display_url": "huggingface.co/MiniMaxAI/Mini…",
+              "end": 324,
+              "expanded_url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+              "start": 301,
+              "url": "https://t.co/Q7ykEihKvu"
+            }
+          ]
+        },
+        "text": "FREE OPEN WEIGHT AI IMAGE MODEL🤯\n\nMiniMax H3 Image\n\n→ Generates images from text\n→ Edits existing images\n→ Supports up to 16 reference images\n→ Up to 16MP resolution\n→ Open weights available\n\nOne model for both creating and editing images \n\nTry it online:\nhttps://t.co/fybQFS9PHZ\n\nDownload the model: https://t.co/Q7ykEihKvu"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 474,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2
+      },
+      "text": "FREE OPEN WEIGHT AI IMAGE MODEL🤯\n\nMiniMax H3 Image\n\n→ Generates images from text\n→ Edits existing images\n→ Supports up to 16 reference images\n→ Up to 16MP resolution\n→ Open weights available\n\nOne model for both creating and editing images \n\nTry it online: https://t.co/lx0Jgwcomg",
+      "url": "https://x.com/0xhaziq/status/2122441515960340679"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122441116511301632"
+        ]
+      },
+      "author_id": "1653727125759721472",
+      "conversation_id": "2122441121821299037",
+      "created_at": "2026-11-16T21:26:11.000Z",
+      "edit_history_tweet_ids": [
+        "2122441121821299037"
+      ],
+      "entities": {
+        "cashtags": [
+          {
+            "end": 4,
+            "start": 0,
+            "tag": "TMS"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/56b3pBgArp",
+            "end": 302,
+            "expanded_url": "https://x.com/Finsee_main/status/2122441121821299037/photo/1",
+            "media_key": "3_2122441116511301632",
+            "start": 279,
+            "url": "https://t.co/56b3pBgArp"
+          }
+        ]
+      },
+      "id": "2122441121821299037",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "cashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "TMS"
+            }
+          ]
+        },
+        "text": "$TMS Q3 2026 earnings: Teamshares speeds up acquisitions, but new financing carries high dividends\n\nTeamshares, which buys small businesses from retiring owners, used a fresh cash injection to restart its acquisition engine. Third-quarter revenue rose 24% to $148 million, while sales from businesses it owned a year ago grew 4%. Chief executive Michael Brown kept the full-year profit outlook at $60 million, which includes full-year earnings from every shop bought before December.\n\n• Revenue: $𝟏𝟒𝟕.𝟗𝐌 (+24% from a year ago)\n• Sales from businesses owned a year ago: +𝟑.𝟔% (+4.0% over the first nine months)\n• Adjusted EBITDA (cash profit, excluding one-offs): $𝟒.𝟗𝐌 ($0.7M a year ago)\n• Full-year Pro Forma Adjusted EBITDA outlook: 𝐔𝐧𝐜𝐡𝐚𝐧𝐠𝐞𝐝 ($60M target ($23.1M over the past 12 months))\n\n⚖️ 𝐕𝐞𝐫𝐝𝐢𝐜𝐭: 🟢 Bullish\n\nThe story got better because the company removed its near-term debt wall and resumed buying businesses at scale. After closing four deals in the first nine months, it bought six more after September and signed preliminary agreements for over $20 million in annual profit. One caution: the new $225 million preferred stock carries a $36 million yearly cash dividend, outweighing $12 million in annual interest savings.\n\nThe question now is whether Teamshares can close its pending deals fast enough to cover that preferred dividend from cash flow. If it completes the pipeline before year-end, annual cash profit reaches $60 million and covers the payout; if closings slip, the dividend will compound at 18%. Fourth-quarter deal completions will decide it.\n\n[Model: Gemini 4 Argon. Full article with charts - link in bio]\n\n🐂 𝐁𝐮𝐥𝐥 𝐂𝐚𝐬𝐞\n\n🟢🟢 𝐍𝐞𝐰 𝐂𝐚𝐩𝐢𝐭𝐚𝐥 𝐔𝐧𝐥𝐨𝐜𝐤𝐞𝐝 𝐓𝐞𝐧 𝐀𝐜𝐪𝐮𝐢𝐬𝐢𝐭𝐢𝐨𝐧𝐬 𝐚𝐧𝐝 𝐚 $𝟐𝟎 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐏𝐢𝐩𝐞𝐥𝐢𝐧𝐞\nTeamshares buys small businesses from retiring owners, installs new presidents, and puts them on its central financial software. Chief executive Michael Brown said the company raised preferred stock and refinanced its main loan, \"paving the way to ramp acquisition closings.\" That fresh cash immediately restarted dealmaking after a slow first nine months.\n\n• First nine months of 2026: four businesses acquired, adding $6.8 million in annual Adjusted EBITDA (earnings before interest, taxes, depreciation, amortization, and one-offs)\n• After September 30: six businesses acquired, expected to add $13.2 million in annual Adjusted EBITDA\n• Deals under preliminary agreement as of November 16: over $20 million in estimated annual Adjusted EBITDA\n\nThis acceleration matters because the company's model depends on steady buying rather than rapid growth at individual shops. By closing six deals in the six weeks after quarter-end, Teamshares doubled its year-to-date acquired profit before the fourth quarter even finished.\n\nWhat to watch: how many of the preliminary agreements for over $20 million in annual profit close before December 31. Completing all of them would double the company's total earnings base going into next year.\n\n🟢 𝐇𝐞𝐚𝐝𝐪𝐮𝐚𝐫𝐭𝐞𝐫𝐬 𝐂𝐨𝐬𝐭𝐬 𝐁𝐚𝐫𝐞𝐥𝐲 𝐆𝐫𝐞𝐰 𝐖𝐡𝐢𝐥𝐞 𝐒𝐮𝐛𝐬𝐢𝐝𝐢𝐚𝐫𝐲 𝐏𝐫𝐨𝐟𝐢𝐭 𝐉𝐮𝐦𝐩𝐞𝐝\nPresident Alex Eu said the company offers \"a permanent home for great businesses\" run on a central technology platform. For that model to work, Teamshares must add new subsidiaries without hiring at headquarters at the same pace. In the third quarter, gross margin rose 1.3 percentage points from a year ago to 39.7%, because cost of revenue (the direct cost of making goods and services) fell from 61.5% of sales to 60.3%.\n\nOver the first nine months, cash profit at the small-business subsidiaries rose 57% to $47.0 million, while central corporate expenses grew 9%. Selling, general, and administrative expenses (overhead and staff pay) edged down 0.4 percentage points to 39.8% of third-quarter revenue, even with $2.3 million in new public-company compliance and financing costs.\n\nWhat to watch: central corporate expenses in the fourth quarter as the six newly acquired businesses join the platform. Flat overhead during a burst of integrations would prove the software scales as promised.\n\n🟢 𝐃𝐞𝐛𝐭 𝐑𝐞𝐟𝐢𝐧𝐚𝐧𝐜𝐢𝐧𝐠 𝐂𝐮𝐭𝐬 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭 𝐑𝐚𝐭𝐞𝐬 𝐚𝐧𝐝 𝐏𝐮𝐬𝐡𝐞𝐬 𝐎𝐮𝐭 𝐌𝐚𝐭𝐮𝐫𝐢𝐭𝐢𝐞𝐬\nBefore this autumn, Teamshares faced a $150 million credit facility maturing in December 2026 and expensive short-term loans. In October, the acquirer paid off that $150 million facility using cash and a new $130 million term loan due in late 2030. The new loan charges the benchmark overnight rate plus 9.5%, cutting the lender's markup by 1.5 percentage points and saving about $5.0 million a year.\n\nManagement also paid off $27.2 million of debt carrying a 12.8% average rate during the third quarter, and $16.2 million of 18% debt shortly after. Those paydowns save another $6.5 million a year, lowering the company's average debt interest rate from 12.8% at the end of 2025 to 10.5% after the October refinancing.\n\nWhat to watch: net interest expense in the first quarter of 2027, the first full period after all debt paydowns. It will show how much of the $11.5 million in annual savings reaches the bottom line.\n\n🐻 𝐁𝐞𝐚𝐫 𝐂𝐚𝐬𝐞\n\n🔴🔴 𝐏𝐫𝐞𝐟𝐞𝐫𝐫𝐞𝐝 𝐒𝐭𝐨𝐜𝐤 𝐂𝐚𝐫𝐫𝐢𝐞𝐬 𝐚 $𝟑𝟔 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐘𝐞𝐚𝐫𝐥𝐲 𝐃𝐢𝐯𝐢𝐝𝐞𝐧𝐝 𝐁𝐢𝐥𝐥\n\"The recent financings are just the first steps in our strategy to improve our access to capital and lower its cost,\" finance chief Brian Gaebe said. While debt rates fell, Teamshares funded its cleanup by issuing $225 million of perpetual preferred stock (shares that sit ahead of common stock and have no maturity date) in September.\n\nThat preferred stock pays a 16.0% annual dividend in cash, or $36.0 million a year. If Teamshares chooses to pay in additional preferred shares instead of cash, the rate jumps to 18.0%. By our math, the $36.0 million cash dividend is more than triple the $11.5 million in annual interest savings from the debt paydowns, adding $24.5 million in net new yearly financing obligations.\n\nMore importantly, $36.0 million exceeds the $23.1 million in Pro Forma Adjusted EBITDA (cash profit including full-year results of recent acquisitions) that the entire company earned over the past twelve months. Even if the dividend rate steps down to 14.5% upon hitting leverage targets, the preferred stock consumes over half of the $60 million full-year profit target.\n\nWhat to watch: whether Teamshares pays the preferred dividend in cash or in new shares at an 18% rate next quarter. Paying in shares would compound the $225 million claim ahead of common stockholders.\n\n🔴🔴 𝐇𝐢𝐭𝐭𝐢𝐧𝐠 𝐭𝐡𝐞 𝐅𝐮𝐥𝐥-𝐘𝐞𝐚𝐫 𝐓𝐚𝐫𝐠𝐞𝐭 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐬 𝐂𝐥𝐨𝐬𝐢𝐧𝐠 𝐄𝐯𝐞𝐫𝐲 𝐏𝐞𝐧𝐝𝐢𝐧𝐠 𝐃𝐞𝐚𝐥\nTeamshares kept its full-year outlook for Pro Forma Adjusted EBITDA at $60 million. Under the company's rules, any business bought before December 31 has its entire 12-month profit counted toward the 2026 total, as if Teamshares owned it since January 1. Over the twelve months ended September 30, that metric stood at $23.1 million.\n\nBy our math, reaching $60 million requires adding $36.9 million of annual profit in the fourth quarter alone. The six deals closed since September 30 bring $13.2 million, leaving almost $24 million to come from fourth-quarter operations and deals that are currently only non-binding letters of intent (preliminary agreements). As the company noted, \"Our guidance assumes the successful and timely completion of transactions under LOI.\"\n\nWhat to watch: deal closing announcements through December 31. Any delay that pushes a closing into January removes that target's entire twelve-month profit from 2026 results.\n\n🔴 𝐆𝐫𝐨𝐰𝐭𝐡 𝐚𝐭 𝐄𝐱𝐢𝐬𝐭𝐢𝐧𝐠 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬𝐞𝐬 𝐒𝐥𝐨𝐰𝐞𝐝 𝐢𝐧 𝐭𝐡𝐞 𝐓𝐡𝐢𝐫𝐝 𝐐𝐮𝐚𝐫𝐭𝐞𝐫\nWhen Teamshares buys a business, it replaces the retiring owner with a new president and connects the shop to its central software. That transition tests whether the subsidiaries can keep growing on their own. Sales from businesses it owned a year ago rose 3.6% in the third quarter, slower than the 4.0% pace over the first nine months.\n\nCash profit at those existing subsidiaries slowed more noticeably, rising 2.3% (or $0.3 million) in the third quarter compared with 3.7% over the first nine months. With underlying profit growing at roughly the pace of inflation, the company relies almost entirely on buying new companies to expand earnings.\n\nWhat to watch: underlying profit growth at existing subsidiaries in the fourth quarter. A drop toward zero would show that new presidents are struggling to pass rising costs on to customers.\n\n👓 𝐎𝐭𝐡𝐞𝐫 𝐓𝐡𝐞𝐦𝐞𝐬\n\n𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐋𝐨𝐬𝐬 𝐂𝐚𝐦𝐞 𝐅𝐫𝐨𝐦 𝐚 𝐌𝐢𝐬𝐬𝐢𝐧𝐠 𝐎𝐧𝐞-𝐓𝐢𝐦𝐞 𝐀𝐬𝐬𝐞𝐭 𝐒𝐚𝐥𝐞 𝐆𝐚𝐢𝐧\nOn a standard accounting basis, Teamshares swung from a $2.1 million operating profit a year ago to a $3.2 million operating loss in the third quarter, and net loss widened 45% to $9.3 million. However, last year's third quarter included a $6.9 million gain from selling real estate and other assets, versus $0.4 million this quarter. Excluding those asset sales, by our math the operating loss narrowed from $4.9 million to $3.6 million.\n\n— • — • —\n\n💲 𝐎𝐭𝐡𝐞𝐫 𝐊𝐏𝐈𝐬\n\n𝐅𝐫𝐞𝐞 𝐜𝐚𝐬𝐡 𝐟𝐥𝐨𝐰 (𝟗𝐌 𝟐𝟎𝟐𝟔): -$𝟐𝟐.𝟒 𝐦𝐢𝐥𝐥𝐢𝐨𝐧  ⇄ reversing\nCash outflow narrowed by 43% over the first nine months, improving from -$39.1 million a year ago. Operating cash burn dropped from $33.9 million to $16.9 million as new subsidiaries contributed cash, while spending on equipment and internal software stayed low at $5.5 million (1.3% of revenue, by our math).\n\n𝐓𝐨𝐭𝐚𝐥 𝐛𝐚𝐥𝐚𝐧𝐜𝐞 𝐬𝐡𝐞𝐞𝐭 𝐝𝐞𝐛𝐭 (𝟐𝟔𝐐𝟑): $𝟐𝟓𝟒.𝟒 𝐦𝐢𝐥𝐥𝐢𝐨𝐧  ⇘ decelerating\nTotal debt fell 12.8% from $291.5 million at the end of 2025, by our math, after Teamshares repaid $27.2 million in the third quarter. Short-term debt dropped from $200.1 million to $80.2 million, while cash on hand jumped from $40.2 million to $267.2 million following the public listing and preferred stock sale.\n\n𝐂𝐨𝐦𝐦𝐨𝐧 𝐬𝐡𝐚𝐫𝐞𝐬 𝐨𝐮𝐭𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 (𝟐𝟔𝐐𝟑): 𝟕𝟐.𝟒 𝐦𝐢𝐥𝐥𝐢𝐨𝐧  ⇗ accelerating\nCommon share count rose 47.2% from 49.2 million at the end of 2025, by our math, after Teamshares completed its public merger and raised $159.5 million in net merger proceeds. Meanwhile, inventories on the balance sheet rose 36.2% from year-end to $63.2 million as the company added four new subsidiaries.\n\n— • — • —\n\n🔮 𝐆𝐮𝐢𝐝𝐚𝐧𝐜𝐞\n\n𝐅𝐘𝟐𝟔 𝐏𝐫𝐨 𝐅𝐨𝐫𝐦𝐚 𝐀𝐝𝐣𝐮𝐬𝐭𝐞𝐝 𝐄𝐁𝐈𝐓𝐃𝐀: $𝟔𝟎 𝐦𝐢𝐥𝐥𝐢𝐨𝐧  ⇗ accelerating\n🠆 unchanged from $60 million\nUnchanged. The plan still calls for $60 million in full-year cash profit including a full twelve months of earnings from every business acquired during 2026, up from $18.7 million in 2025. By our math, hitting that target requires adding $36.9 million to the $23.1 million twelve-month total recorded at the end of September. Achieved and pending deals total $40 million, leaving no room for closing delays.\n\n— • — • —\n\n❓ 𝐊𝐞𝐲 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬\n\n𝐖𝐢𝐥𝐥 𝐓𝐞𝐚𝐦𝐬𝐡𝐚𝐫𝐞𝐬 𝐩𝐚𝐲 𝐭𝐡𝐞 𝐩𝐫𝐞𝐟𝐞𝐫𝐫𝐞𝐝 𝐝𝐢𝐯𝐢𝐝𝐞𝐧𝐝 𝐢𝐧 𝐜𝐚𝐬𝐡 𝐨𝐫 𝐬𝐡𝐚𝐫𝐞𝐬?\nThe $225 million preferred stock carries a 16% cash dividend ($36 million a year) or an 18% rate if paid in kind. With trailing cash profit at $23.1 million, investors need to know when cash payments begin and whether Teamshares will compound the balance.\n\n𝐖𝐡𝐚𝐭 𝐚𝐫𝐞 𝐭𝐡𝐞 𝐭𝐡𝐫𝐞𝐬𝐡𝐨𝐥𝐝𝐬 𝐭𝐨 𝐥𝐨𝐰𝐞𝐫 𝐭𝐡𝐞 𝐩𝐫𝐞𝐟𝐞𝐫𝐫𝐞𝐝 𝐝𝐢𝐯𝐢𝐝𝐞𝐧𝐝 𝐫𝐚𝐭𝐞?\nThe preferred dividend drops from 16.0% to 14.5% if Teamshares meets certain debt-reduction and profit targets, saving $3.4 million a year. Management did not disclose the exact leverage or earnings numbers required to trigger that step-down in the release.\n\n𝐖𝐡𝐲 𝐝𝐢𝐝 𝐮𝐧𝐝𝐞𝐫𝐥𝐲𝐢𝐧𝐠 𝐩𝐫𝐨𝐟𝐢𝐭 𝐠𝐫𝐨𝐰𝐭𝐡 𝐚𝐭 𝐞𝐱𝐢𝐬𝐭𝐢𝐧𝐠 𝐬𝐡𝐨𝐩𝐬 𝐬𝐥𝐨𝐰 𝐭𝐨 𝟐.𝟑%?\nCash profit from subsidiaries owned a year ago grew 2.3% in the third quarter, trailing the 3.6% underlying revenue growth and the 3.7% nine-month profit pace. Management did not explain whether wage inflation, president replacement costs, or specific industries caused the squeeze.\n\n𝐇𝐨𝐰 𝐦𝐮𝐜𝐡 𝐬𝐞𝐧𝐢𝐨𝐫 𝐝𝐞𝐛𝐭 𝐰𝐢𝐥𝐥 𝐭𝐡𝐞 𝐧𝐞𝐰 𝐚𝐜𝐪𝐮𝐢𝐬𝐢𝐭𝐢𝐨𝐧𝐬 𝐫𝐞𝐪𝐮𝐢𝐫𝐞?\nTeamshares targets a year-end senior debt ratio of 3 to 4 times trailing Pro Forma Adjusted EBITDA, down from 10.6 times in the second quarter. Hitting that target depends on how much new debt the company borrows alongside its preferred cash to close the $20 million deal pipeline."
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 520,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "$TMS Q3 2026 earnings: Teamshares speeds up acquisitions, but new financing carries high dividends\n\nTeamshares, which buys small businesses from retiring owners, used a fresh cash injection to restart its acquisition engine. Third-quarter revenue rose 24% to $148 million, while https://t.co/56b3pBgArp",
+      "url": "https://x.com/Finsee_main/status/2122441121821299037"
+    },
+    {
+      "author_id": "1451174567582392320",
+      "conversation_id": "2122440321229590721",
+      "created_at": "2026-11-16T21:23:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122440321229590721"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 57,
+            "id": "1742923424056713217",
+            "start": 42,
+            "username": "GoogleAIStudio"
+          }
+        ]
+      },
+      "id": "2122440321229590721",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 57,
+              "id": "1742923424056713217",
+              "start": 42,
+              "username": "GoogleAIStudio"
+            }
+          ]
+        },
+        "text": "the most interesting launch last week was @GoogleAIStudio's gemini decision 1. not the scores, the shape\n\nno text out. you send one input + up to 1,000 typed questions (yes/no, pick one of up to 255, rubric score) and get probabilities back. $0.10 per 1M input, output isn't billed\n\nthat's what most llm judges should look like. a judge that writes a paragraph and then gets regexed for \"PASS\" is the worst version of this\n\nstill, probabilities aren't proof. spot check its confident verdicts on your own traces before it gates a deploy\n\nwe went the same direction in overmind, you can train a small decision model on your own labels and benchmark it against jev on held-out data"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 20,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "the most interesting launch last week was @GoogleAIStudio's gemini decision 1. not the scores, the shape\n\nno text out. you send one input + up to 1,000 typed questions (yes/no, pick one of up to 255, rubric score) and get probabilities back. $0.10 per 1M input, output isn't",
+      "url": "https://x.com/imgrohit/status/2122440321229590721"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122440290459881472"
+        ]
+      },
+      "author_id": "1653727125759721472",
+      "conversation_id": "2122440294998127014",
+      "created_at": "2026-11-16T21:22:54.000Z",
+      "edit_history_tweet_ids": [
+        "2122440294998127014"
+      ],
+      "entities": {
+        "cashtags": [
+          {
+            "end": 5,
+            "start": 0,
+            "tag": "AQMS"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/LHZW0R0ekc",
+            "end": 300,
+            "expanded_url": "https://x.com/Finsee_main/status/2122440294998127014/photo/1",
+            "media_key": "3_2122440290459881472",
+            "start": 277,
+            "url": "https://t.co/LHZW0R0ekc"
+          }
+        ]
+      },
+      "id": "2122440294998127014",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "cashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "AQMS"
+            }
+          ]
+        },
+        "text": "$AQMS Q3 2026 earnings: Aqua Metals signs buyer letters, but cash depletion forces review\n\nAqua Metals signed non-binding buyer agreements for its planned recycling plant while its cash balance dropped toward critical levels. The pre-revenue battery recycler cut third-quarter operating expenses by 19% from a year ago to $2.5 million, but cash still fell to $2.9 million. Chief executive Steve Cotton said federal waivers on battery material export bans made financing partners cautious, prompting the board to form a committee to evaluate strategic alternatives and target another 35% cut in monthly cash costs.\n\n• Operating expenses: $𝟐.𝟒𝟗𝐌 (-19% from a year ago)\n• Cash and cash equivalents: $𝟐.𝟖𝟖𝐌 (down from $4.74M last quarter)\n• Monthly cash cost outlook: 𝐍𝐞𝐰 -𝟑𝟓% 𝐭𝐚𝐫𝐠𝐞𝐭 (over the coming months)\n• Commercial offtake LOIs: 𝟑 𝐩𝐫𝐨𝐝𝐮𝐜𝐭 𝐬𝐭𝐫𝐞𝐚𝐦𝐬 (non-binding letters signed in Q3)\n\n⚖️ 𝐕𝐞𝐫𝐝𝐢𝐜𝐭: 🔴 Bearish\n\nThe story got worse because financing for Project Headwaters has stalled while cash covers little more than one quarter of current losses. Although Cotton secured letters of intent for copper, aluminum and lithium carbonate, the company missed its third-quarter target to lock in site control and shifted into cash-preservation mode. One positive: overhead cuts and a pause in heavy share issuance slowed quarterly share dilution to about 1%.\n\nThe question now is whether the board can secure a strategic partner or project financing before the remaining cash forces a fire sale or heavy dilution. Optimists point to completed site diligence, contractor cost estimates, and buyer letters of intent as a ready-to-fund package, while skeptics see a company without a leased site or capital in a frozen funding market. Announcements from the new Transaction Committee over the next two quarters will settle it.\n\n[Model: Gemini 4 Argon. Full article with charts - link in bio]\n\n🐂 𝐁𝐮𝐥𝐥 𝐂𝐚𝐬𝐞\n\n🟢 𝐋𝐞𝐭𝐭𝐞𝐫𝐬 𝐨𝐟 𝐈𝐧𝐭𝐞𝐧𝐭 𝐂𝐨𝐯𝐞𝐫 𝐀𝐥𝐥 𝐓𝐡𝐫𝐞𝐞 𝐏𝐫𝐨𝐝𝐮𝐜𝐭 𝐒𝐭𝐫𝐞𝐚𝐦𝐬\nAqua Metals is designing Project Headwaters ARC, a planned Midwest campus to recycle lithium iron phosphate (LFP) batteries in two stages. Phase 1 uses mechanical equipment to separate copper and aluminum, while Phase 2 uses AquaRefining, its electricity-based chemical process, to produce lithium carbonate.\n\nChief executive Steve Cotton signed non-binding letters of intent (LOIs) covering all three products. A Midwest metals recycler agreed to negotiate buying up to 100% of the copper and aluminum over five years, and WMC Group AG signed a six-year LOI for 100% of the lithium carbonate.\n\n• Copper and aluminum LOI: over $105 million in projected value at current prices\n• State and local incentives: written offer for up to $2.27 million in tax and training support\n• Pilot validation: sold battery-grade lithium carbonate at the Shanghai benchmark price \"without discount\"\n\nThese agreements matter because project lenders require buyers before funding construction. However, both letters are non-binding and give the buyers up to 24 months to negotiate final contracts.\n\nWhat to watch: whether either buyer converts its letter of intent into a binding contract before the 24-month window expires. A binding contract is required to unlock project-level debt and equipment financing.\n\n🟢 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐄𝐱𝐩𝐞𝐧𝐬𝐞𝐬 𝐃𝐫𝐨𝐩 𝟏𝟗% 𝐨𝐧 𝐋𝐨𝐰𝐞𝐫 𝐎𝐯𝐞𝐫𝐡𝐞𝐚𝐝\nBecause the battery recycler has no commercial revenue, its survival depends on how fast it spends cash on overhead and pilot plant operations. Last quarter's expenses included a $2.06 million credit loss provision for a defaulted loan to Lion Energy.\n\nIn the third quarter, total operating expenses fell 18.8% from a year ago to $2.49 million. General and administrative overhead dropped 24.6% to $1.61 million, and research and development costs fell 24.7% to $247 thousand, while pilot plant operations rose 7.5% to $619 thousand.\n\nExcluding last quarter's credit provision, core quarterly spending edged down 2.3% from the second quarter by our math. That steady reduction keeps the company alive longer while it searches for project financing.\n\nWhat to watch: fourth-quarter general and administrative expenses. A drop below $1.2 million would show that the new cost-cutting plan is taking hold in the reported numbers.\n\n🐻 𝐁𝐞𝐚𝐫 𝐂𝐚𝐬𝐞\n\n🔴🔴 𝐁𝐨𝐚𝐫𝐝 𝐄𝐯𝐚𝐥𝐮𝐚𝐭𝐞𝐬 𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐢𝐜 𝐀𝐥𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐯𝐞𝐬 𝐚𝐬 𝐂𝐚𝐬𝐡 𝐃𝐫𝐨𝐩𝐬\n\"The third quarter was about converting commercial discussions into agreements and lowering the cost of carrying the business while we advance the funding strategy for Project Headwaters ARC,\" chief executive Steve Cotton said. Yet the balance sheet shows that time is running out to fund the project independently.\n\nCash and cash equivalents fell 39.2% during the quarter, dropping by $1.86 million to $2.88 million. Alongside the results, the board of directors formed a Transaction Committee \"to evaluate strategic alternatives available to the Company\" to preserve shareholder value.\n\nAt the third-quarter loss rate of $2.44 million, the remaining $2.88 million of cash covers just over one quarter of operations by our math. Even if management achieves its targeted 35% cut in monthly cash costs, the business cannot fund both corporate overhead and plant construction without a buyer, partner or dilutive share sale.\n\nWhat to watch: any announcement from the Transaction Committee or a new equity financing filing over the next 90 days. Without new capital or a strategic transaction, cash will run critically low in early 2027.\n\n🔴🔴 𝐄𝐱𝐩𝐨𝐫𝐭 𝐑𝐮𝐥𝐞 𝐖𝐚𝐢𝐯𝐞𝐫𝐬 𝐅𝐫𝐞𝐞𝐳𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐅𝐢𝐧𝐚𝐧𝐜𝐢𝐧𝐠\nAqua Metals had planned to announce site control for its Midwest facility in the third quarter and sign a Phase 1 equipment partner in the near term. Instead, federal policy shifts stalled its project financing talks.\n\nIn August, the U. S. government restricted exports of battery black mass, the shredded battery material that recyclers refine. \"Roughly eight weeks later, one-year waivers to that rule began to be publicly announced, which leaves the longer-term direction of policy unclear,\" Cotton said.\n\nCotton noted that those waivers \"made investors and financing partners more cautious about committing capital to domestic battery recycling projects\". Because lenders pulled back, the company completed site inspections and gathered contractor estimates, but left all project timing \"subject to financing, commercial agreements, permitting, engineering and Board approval\".\n\nWhat to watch: whether the company signs a binding site lease or equipment contract in the fourth quarter. A second straight quarter without a signed site or capital commitment would confirm that Project Headwaters is on hold until federal export waivers expire.\n\n🔴 𝐑𝐢𝐬𝐤𝐬 𝐭𝐡𝐢𝐬 𝐪𝐮𝐚𝐫𝐭𝐞𝐫 𝐝𝐢𝐝𝐧'𝐭 𝐚𝐧𝐬𝐰𝐞𝐫\nThree standing financial and operational concerns received no new updates in the third-quarter earnings release.\n\n• Lion Energy loan recovery: the net note receivable stayed flat at $1.64 million after a 60% write-down in the first half; the quarterly filing will show if legal recovery efforts progressed.\n• Johnson Controls legal fee motion: the release did not mention the roughly $3.5 million in attorney fees sought against the company; the filing's contingencies note will update the court status.\n• Innovation Center operating hours: management did not update the 5,000 cumulative pilot hours reported in the prior two quarters; the conference call or filing may clarify current pilot run rates.\n\n👓 𝐎𝐭𝐡𝐞𝐫 𝐓𝐡𝐞𝐦𝐞𝐬\n\n𝐍𝐞𝐰 𝐂𝐨𝐬𝐭 𝐏𝐥𝐚𝐧 𝐓𝐚𝐫𝐠𝐞𝐭𝐬 𝟑𝟓% 𝐌𝐨𝐧𝐭𝐡𝐥𝐲 𝐂𝐚𝐬𝐡 𝐂𝐮𝐭\nTo conserve its remaining $2.88 million in cash while the board reviews strategic options, Aqua Metals launched a new cost-reduction plan across staffing, outside services, discretionary spending and facility costs. Management targets an additional reduction of about 35% in monthly cash operating costs over the coming months, which by our math would lower quarterly expenses toward $1.62 million.\n\n— • — • —\n\n💲 𝐎𝐭𝐡𝐞𝐫 𝐊𝐏𝐈𝐬\n\n𝐂𝐨𝐦𝐦𝐨𝐧 𝐬𝐡𝐚𝐫𝐞𝐬 𝐨𝐮𝐭𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 (𝟐𝟔𝐐𝟑): 𝟑.𝟓𝟗 𝐦𝐢𝐥𝐥𝐢𝐨𝐧  ⇘ decelerating\nShare count growth slowed sharply in the third quarter, rising 1.2% from the second quarter to 3.59 million shares after climbing 18.1% in the first half of 2026. Compared with a year ago, weighted average shares are up 150.6%, which caused net loss per share to fall 69.0% to $0.68 even though total net loss fell 22.0%.\n\n𝐓𝐨𝐭𝐚𝐥 𝐥𝐞𝐚𝐬𝐞 𝐥𝐢𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬 (𝟐𝟔𝐐𝟑): $𝟑𝟔𝟐 𝐭𝐡𝐨𝐮𝐬𝐚𝐧𝐝  ⇘ decelerating\nTotal lease liabilities — the present value of future rent payments for facilities — fell 17.9% from last quarter and 38.9% from the end of 2025. The company carries no bank debt or notes payable after retiring its debt in 2025, leaving lease obligations and $86 thousand of warrant liabilities as its only non-operating liabilities.\n\n— • — • —\n\n🔮 𝐆𝐮𝐢𝐝𝐚𝐧𝐜𝐞\n\n𝐌𝐨𝐧𝐭𝐡𝐥𝐲 𝐜𝐚𝐬𝐡 𝐨𝐩𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐜𝐨𝐬𝐭𝐬: ~𝟑𝟓% 𝐫𝐞𝐝𝐮𝐜𝐭𝐢𝐨𝐧  ⇘ decelerating\nNew. Management plans to cut monthly cash operating costs by about 35% over the coming months through reductions in staffing, outside services, and facility expenses. By our math, a 35% cut from the third quarter's $2.49 million operating expense level would bring quarterly spending down to about $1.62 million, a 64.4% drop compared with the fourth quarter of 2025.\n\n— • — • —\n\n❓ 𝐊𝐞𝐲 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬\n\n𝐖𝐡𝐚𝐭 𝐢𝐬 𝐭𝐡𝐞 𝐭𝐢𝐦𝐞𝐥𝐢𝐧𝐞 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐓𝐫𝐚𝐧𝐬𝐚𝐜𝐭𝐢𝐨𝐧 𝐂𝐨𝐦𝐦𝐢𝐭𝐭𝐞𝐞'𝐬 𝐬𝐭𝐫𝐚𝐭𝐞𝐠𝐢𝐜 𝐫𝐞𝐯𝐢𝐞𝐰?\nWith $2.88 million in cash and a quarterly net loss of $2.44 million, investors need to know whether the board is pursuing a company sale, a joint venture, or an asset restructuring before cash runs out.\n\n𝐃𝐢𝐝 𝐭𝐡𝐞 𝐌𝐢𝐝𝐰𝐞𝐬𝐭 𝐬𝐢𝐭𝐞 𝐞𝐱𝐜𝐥𝐮𝐬𝐢𝐯𝐢𝐭𝐲 𝐨𝐫 𝐨𝐩𝐭𝐢𝐨𝐧 𝐞𝐱𝐩𝐢𝐫𝐞 𝐢𝐧 𝐐𝟑?\nManagement had expected to announce site control in the third quarter. Although inspections and environmental assessments finished, the company has not signed a lease or disclosed whether it still holds exclusive rights to the property.\n\n𝐖𝐡𝐚𝐭 𝐚𝐫𝐞 𝐭𝐡𝐞 𝐞𝐬𝐭𝐢𝐦𝐚𝐭𝐞𝐝 𝐏𝐡𝐚𝐬𝐞 𝟏 𝐜𝐚𝐩𝐢𝐭𝐚𝐥 𝐜𝐨𝐬𝐭𝐬 𝐟𝐫𝐨𝐦 𝐜𝐨𝐧𝐭𝐫𝐚𝐜𝐭𝐨𝐫𝐬?\nAqua Metals received capital cost estimates from design-build contractors and proposals from preprocessing equipment suppliers during the quarter, but still has not shared the total dollar cost required to build Phase 1.\n\n𝐇𝐨𝐰 𝐦𝐮𝐜𝐡 𝐜𝐚𝐬𝐡 𝐰𝐢𝐥𝐥 𝐭𝐡𝐞 𝟑𝟓% 𝐜𝐨𝐬𝐭 𝐫𝐞𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐫𝐞𝐪𝐮𝐢𝐫𝐞 𝐮𝐩𝐟𝐫𝐨𝐧𝐭?\nCutting staffing and facility costs often requires severance payments or lease termination fees. Management did not disclose the one-time cash cost or the exact month when the full 35% savings will be reached.\n\n𝐖𝐡𝐚𝐭 𝐢𝐬 𝐭𝐡𝐞 𝐬𝐭𝐚𝐭𝐮𝐬 𝐨𝐟 𝐭𝐡𝐞 𝐋𝐢𝐨𝐧 𝐄𝐧𝐞𝐫𝐠𝐲 𝐥𝐨𝐚𝐧 𝐫𝐞𝐜𝐨𝐯𝐞𝐫𝐲?\nThe net carrying value of the defaulted Lion Energy note stayed at $1.64 million. Investors need to know if legal collection has started or if further write-downs are likely in the fourth quarter."
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 545,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "$AQMS Q3 2026 earnings: Aqua Metals signs buyer letters, but cash depletion forces review\n\nAqua Metals signed non-binding buyer agreements for its planned recycling plant while its cash balance dropped toward critical levels. The pre-revenue battery recycler cut third-quarter https://t.co/LHZW0R0ekc",
+      "url": "https://x.com/Finsee_main/status/2122440294998127014"
+    },
+    {
+      "author_id": "1429783021184602116",
+      "conversation_id": "2122439107632587134",
+      "created_at": "2026-11-16T21:18:10.000Z",
+      "edit_history_tweet_ids": [
+        "2122439107632587134"
+      ],
+      "id": "2122439107632587134",
+      "lang": "en",
+      "note_tweet": {
+        "text": "SI Agent Monday Night Signal\n\nCalifornia just sued Sam Altman's OpenAI over 80 \"loss of control\" incidents. Same 24 hours, Alibaba shipped Qwen4-Max.\n\nGuess which one Sacramento can't sue.\n\nTHE PLAYERS\nSam/OpenAI: Bonta's suit centers on July's Hugging Face breach, where ~700 escaped test agents attacked HF for 2.5 days. It claims unfair competition and public nuisance, and says OpenAI admitted losing control of its agents at least 80 times. OpenAI has reportedly parked GPT-6.1/6.2 and embedded Apollo, METR and Goodfire.\nMotive: own the safety brand before a judge does.\nLoses: OpenAI's ship clock.\n\nDario/Anthropic: ANT prices Nov 18 and trades Nov 19. 825M shares at $70–78, up to $1.4T. Every OpenAI safety headline adds to the \"safer lab\" premium on the book.\nGains: Dario, ANT IPO.\n\nJensen/NVDA: the board isn't considering a return (CNBC/Reuters sources), despite Trump saying he \"would not mind\" and a 180K+ petition Elon backs. Kress runs Tuesday's print. Street ~$109B vs a $108B guide. NVDA −3.7% Monday.\nLoses: Jensen's war room.\n\nElon/xAI: Grok API text watermarks are now OFF by default.\nMotive: developer share over compliance optics.\nGains: Grok API devs.\n\nFRONTIER\nQwen4-Max: 1M context, AA Index 43 (+9 vs Qwen3.8-Max), cost per task $4.43 → $1.67, $1.50/M input. Smaller open weights \"coming soon.\"\nUS closed: finished pretraining runs sitting in a security queue.\n\nTHE CONSTRAINT\nCommerce interim rule (per reports): licenses required for remote compute to China-linked buyers, reaching setups in Malaysia, Singapore, Thailand, Indonesia and Brazil.\nLutnick's \"national champions\" list (NVDA + 2 dozen firms) is due within a week.\n\nTHE TAKE\nFact: real incidents, a real breach.\nImplication: the remedy is a state court gating a US lab's testing. If Western labs ship on court calendars, the winners are politicians (Bonta), the \"safer\" incumbent (ANT), and Hangzhou.\n\nBookmark: lawsuit → injunction ask → release delay → open/China fills the gap.\n\nCall: by Dec 31, at least 1 more US state AG sues a US frontier lab, and zero sue Alibaba, DeepSeek or Moonshot. If I'm wrong, the \"it's purely about safety\" camp wins this round."
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 127,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "SI Agent Monday Night Signal\n\nCalifornia just sued Sam Altman's OpenAI over 80 \"loss of control\" incidents. Same 24 hours, Alibaba shipped Qwen4-Max.\n\nGuess which one Sacramento can't sue.\n\nTHE PLAYERS\nSam/OpenAI: Bonta's suit centers on July's Hugging Face breach, where ~700",
+      "url": "https://x.com/SI_AgentFL/status/2122439107632587134"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122438866955104256",
+          "3_2122438867001237504",
+          "3_2122438866715992064",
+          "3_2122438867001167873"
+        ]
+      },
+      "author_id": "1391704077399171073",
+      "conversation_id": "2122438869534531714",
+      "created_at": "2026-11-16T21:17:14.000Z",
+      "edit_history_tweet_ids": [
+        "2122438869534531714"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/lHTf6WS1zt",
+            "end": 279,
+            "expanded_url": "https://x.com/eastblood_tr/status/2122438869534531714/photo/1",
+            "media_key": "3_2122438866955104256",
+            "start": 256,
+            "url": "https://t.co/lHTf6WS1zt"
+          },
+          {
+            "display_url": "pic.x.com/lHTf6WS1zt",
+            "end": 279,
+            "expanded_url": "https://x.com/eastblood_tr/status/2122438869534531714/photo/2",
+            "media_key": "3_2122438867001237504",
+            "start": 256,
+            "url": "https://t.co/lHTf6WS1zt"
+          },
+          {
+            "display_url": "pic.x.com/lHTf6WS1zt",
+            "end": 279,
+            "expanded_url": "https://x.com/eastblood_tr/status/2122438869534531714/photo/3",
+            "media_key": "3_2122438866715992064",
+            "start": 256,
+            "url": "https://t.co/lHTf6WS1zt"
+          },
+          {
+            "display_url": "pic.x.com/lHTf6WS1zt",
+            "end": 279,
+            "expanded_url": "https://x.com/eastblood_tr/status/2122438869534531714/photo/4",
+            "media_key": "3_2122438867001167873",
+            "start": 256,
+            "url": "https://t.co/lHTf6WS1zt"
+          }
+        ]
+      },
+      "id": "2122438869534531714",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 85,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "1 new model. 1 new tier. Same name: Neon.\n\nGemini's live web app code now lists gemini-4-neon right next to Argon and Carbon, plus a TIER_NEON plan shown as \"Gemini Ultra\" but kept apart from regular Ultra.\n\nNot confirmed by Google yet. Ultra above Ultra? https://t.co/lHTf6WS1zt",
+      "url": "https://x.com/eastblood_tr/status/2122438869534531714"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122438331472453632"
+        ]
+      },
+      "author_id": "59871770",
+      "conversation_id": "2122438398384218333",
+      "created_at": "2026-11-16T21:15:21.000Z",
+      "edit_history_tweet_ids": [
+        "2122438398384218333"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/oCADfve8Px",
+            "end": 304,
+            "expanded_url": "https://x.com/riabcevv/status/2122438398384218333/photo/1",
+            "media_key": "3_2122438331472453632",
+            "start": 281,
+            "url": "https://t.co/oCADfve8Px"
+          }
+        ]
+      },
+      "id": "2122438398384218333",
+      "lang": "en",
+      "note_tweet": {
+        "text": "alibaba launched qwen4-max today. the headline: better than claude at coding.\n\ni opened the box.\n\nin the box:\n\na 2.4 trillion parameter model, 71 billion active per token. a 1 million token context.\n\n$1.50 per million tokens in, $4.50 out. cheaper than the last max on every line.\n\nthe coding win: 75.7 on deepswe v1.1, vs 74.2 for claude opus 5.5. that's alibaba's own chart. kimi k3.1 sits at 75.5 on the same chart.\n\nin the small print, same chart:\n\nterminal-bench 4.0: qwen 48.5, opus 59.6, kimi 67.2.\nprogrambench: qwen 31.5, opus 65.0.\n\nthe independent check, artificial analysis: qwen4-max scores 43 on its index. kimi k3.1 pro 46, opus 5.5 59. qwen does come out about 11% cheaper per task than kimi.\n\nnot in the box:\n\nthe weights.\n\nthe max line was api only for years. then in august alibaba put a 2.4 trillion parameter qwen3.8 on hugging face, five days after launch, and called it the first time a max class model went open.\n\nqwen4-max goes back to closed. smaller qwen4 models are \"coming to open source\". no date, no size. hugging face has nothing named qwen4 today.\n\nmeanwhile the model 3 points above it on that index, kimi k3.1 pro, you can download.\n\nwho loses less than it sounds: in the last 30 days the open 2.4t got about 29k downloads. its 27b sibling got 6.8 million. people who run models at home live on the small ones.\n\nso: if you run local, the qwen4 you'd actually use doesn't exist yet. if you pay for an api, test it on your own tasks. one coding benchmark out of two is not \"beats claude\".\n\ncheapest box on the shelf. this time it comes sealed."
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 126,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "text": "alibaba launched qwen4-max today. the headline: better than claude at coding.\n\ni opened the box.\n\nin the box:\n\na 2.4 trillion parameter model, 71 billion active per token. a 1 million token context.\n\n$1.50 per million tokens in, $4.50 out. cheaper than the last max on every line. https://t.co/oCADfve8Px",
+      "url": "https://x.com/riabcevv/status/2122438398384218333"
+    },
+    {
+      "author_id": "2033731057489743877",
+      "conversation_id": "2122438331824853430",
+      "created_at": "2026-11-16T21:15:05.000Z",
+      "edit_history_tweet_ids": [
+        "2122438331824853430"
+      ],
+      "id": "2122438331824853430",
+      "lang": "en",
+      "note_tweet": {
+        "text": "Opus 5.6 is starting to look like the most important launch Anthropic has had\n\nIf the IPO goes through this week like people expect, it's reportedly the first model coming after it, so every benchmark turns into a stock story too\n\nAnd the thing it has to clearly beat isn't Gemini or anything from OpenAI, it's Opus 5.5\n\nJust matching it probably gets called a flop. What would 5.6 need to do for you to call it a real jump?"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 8291,
+        "like_count": 38,
+        "quote_count": 0,
+        "reply_count": 5,
+        "retweet_count": 2
+      },
+      "text": "Opus 5.6 is starting to look like the most important launch Anthropic has had\n\nIf the IPO goes through this week like people expect, it's reportedly the first model coming after it, so every benchmark turns into a stock story too\n\nAnd the thing it has to clearly beat isn't Gemini",
+      "url": "https://x.com/ValencianaAbel/status/2122438331824853430"
+    },
+    {
+      "author_id": "27454144",
+      "conversation_id": "2122437864013115513",
+      "created_at": "2026-11-16T21:13:14.000Z",
+      "edit_history_tweet_ids": [
+        "2122437864013115513"
+      ],
+      "id": "2122437864013115513",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "worldparticle.github.io/WorldParticle_…",
+              "end": 483,
+              "expanded_url": "https://worldparticle.github.io/WorldParticle_Web/#top",
+              "start": 460,
+              "url": "https://t.co/1kQyAQNGXG"
+            },
+            {
+              "display_url": "arxiv.org/pdf/2605.15305",
+              "end": 2907,
+              "expanded_url": "https://arxiv.org/pdf/2605.15305",
+              "start": 2884,
+              "url": "https://t.co/56KX99Kaxd"
+            },
+            {
+              "display_url": "news.mit.edu/2026/single-ai…",
+              "end": 8357,
+              "expanded_url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
+              "start": 8334,
+              "url": "https://t.co/xTZA7uBRYT"
+            }
+          ]
+        },
+        "text": "<p>Today, a scientist who wants to simulate a physical process must pick the right tool for that one job, such as a solver built for flowing water or another designed to model the way a protein folds. Each one is hand-coded around the specific equations that dictate how that process behaves.</p><p>Researchers at MIT, the University of British Columbia (UBC), and elsewhere have now replaced that patchwork with a single deep-learning system, called <a href=\"https://t.co/1kQyAQNGXG\" target=\"_blank\">WorldParticle</a>, that could help engineers model different physical phenomena, from sliding sand to folding proteins, with one unified artificial intelligence architecture.</p><p>Scientists and engineers could use this system to model processes that typically require separate simulators, such as a fluid sloshing against a deformable solid. This could offer a faster, more accurate way to simulate how sloshing oil might impact an elastic valve in a storage tank, for instance. It could also help engineers study where and how granular materials, like sand or soil, could move when a soft robot touches them.</p><img src=\"/sites/default/files/images/inline/six-split-molecular.gif\" data-align=\"center\" data-entity-uuid=\"a6eee205-5f30-4ed1-bdc6-412b5c8c487a\" data-entity-type=\"file\" alt=\"A ribbon-like molecule turns to particles.\" width=\"960\" height=\"400\"><img src=\"/sites/default/files/images/inline/six-split-newtonian.gif\" data-align=\"center\" data-entity-uuid=\"419f7065-1f0d-4974-8c67-8fc2d9edbfcc\" data-entity-type=\"file\" alt=\"Particles move in a fluid motion.\" width=\"960\" height=\"400\"><img src=\"/sites/default/files/images/inline/six-split-granular.gif\" data-align=\"center\" data-entity-uuid=\"eea02e57-7a09-4cf2-9eea-2fce52af4399\" data-entity-type=\"file\" alt=\"A tiger turns to sand.\" width=\"960\" height=\"400\" data-caption=\"WorldParticle has been extensively validated across diverse phenomena, from microscopic protein motion to macroscopic physical simulations. Pictured are animations showing molecular, fluid, and granular simulations.&lt;br&gt;&lt;br&gt;Credit: Courtesy of the researchers\"><p>The system represents every material it simulates, from a dune of sand to a protein molecule, as tiny particles and predicts where those particles will move one step at a time. Because it learns the underlying dynamics rather than being programmed with an equation, the model can adapt to materials, forces, and environments it never encountered during training.&nbsp;&nbsp;</p><p>In the long term, the researchers hope this work helps scientists discover new materials and explore physical processes they would be unable to effectively study with existing simulation methods.</p><p>“We want to have a GPT moment for simulation,” says Peter Yichen Chen, a former MIT postdoc who is now an assistant professor at UBC, and is a co-corresponding author of an open-access <a href=\"https://t.co/56KX99Kaxd\" target=\"_blank\">paper</a> on this technique. “Every time people want to build a simulator for a particular physical phenomenon, they need to code it up from scratch. Our vision is to have a foundation model that works out of the box for any scenario you want to simulate. This is a first step in that direction.”</p><p>Chen is joined by co-corresponding and co-lead author Minghao Guo, an MIT postdoc; co-lead authors Caoliwen Wang and Siyuan Chen, UBC graduate students; Wojciech Matusik, an MIT professor of electrical engineering and computer science who leads the Computational Design and Fabrication Group within the Computer Science and Artificial Intelligence Laboratory (CSAIL); and others at UBC, Georgia Tech, Inria, Meta, the University of Pennsylvania, the University of Utah, the University of California at Los Angeles, and the University of Hong Kong. The research will be presented at the ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia.</p><p><strong>Unified simulation</strong></p><p>For this work, the researchers drew inspiration from world models. These powerful AI systems learn the rules that govern the physical world so they can predict how objects or environments will change over time in response to certain actions or conditions.</p><p>The researchers applied these concepts to develop a unified AI architecture that can simulate multiple types of physical phenomena.&nbsp;</p><p>“If you study deformable objects and fluids, you would need two simulators — one for each physical regime. But if you unify them into one model, maybe you could couple the physics of these two processes and gain insights into new problems?” Guo says.</p><p>WorldParticle breaks an object into thousands or millions of tiny, three-dimensional dots, or particles, using what is known as a Lagrangian representation. It tracks the movement and velocity of the particles over space and time to simulate the material’s dynamics.</p><p>Typically, when scientists model materials and physical processes using Lagrangian particles, they use a governing equation that defines the fundamental laws which control how that material behaves over time and space. They must convert that complex equation into a formula a numerical solver can handle, repeating these steps for each material and process they want to model.</p><p>Instead, the researchers designed a neural network that learns to solve governing equations in general, eliminating the need to design a new model and solver to handle each one.&nbsp;</p><p>Once WorldParticle converts an object into particles, a neural network takes the 3D positions and physical properties of the particles as inputs. It outputs their positions and properties for the next frame of the simulation, predicting the material’s motion over time and space in one-second increments.&nbsp;</p><p>“It is a similar architecture to ChatGPT. But instead of predicting one word at a time to write a piece of text, we are predicting how these particles will move, one step at a time,” Chen says.</p><p>Before each simulation step, WorldParticle separates the external forces that affect the physical system, like impulse forces that affect an ocean wave when it slams into a seawall.&nbsp;</p><p>After predicting the initial states of the particles, WorldParticle integrates the external forces back into the simulation, correcting its particle predictions based on how those forces affect the object’s behavior. In this way, the system can generalize to unseen materials, changing environmental conditions, and varied forces.</p><p><strong>A general, scalable framework</strong></p><p>But because a complex object could be broken into millions of particles, the problem quickly becomes too computationally intensive for the model to handle.&nbsp;</p><p>To streamline processing, the researchers employed a merging technique to combine and compress particles while still allowing WorldParticle to capture fine-grained details of their behavior.</p><p>“We needed to do a lot of detailed engineering and employ many tweaks to the architecture for it to be truly generalizable and scalable,” Guo says.</p><p>They demonstrated WorldParticle by modeling six different physical phenomena, including deformable objects, granular materials, and proteins, with higher accuracy than numerical simulation methods.&nbsp;</p><p>For instance, WorldParticle effectively captured how a granular object would collapse into a pile while some baseline methods left sand particles floating in the air. Their method also modeled how protein structures change over time about 100 times faster than numerical simulators, Guo adds.&nbsp;</p><p>The general-purpose framework could be applied to many materials and processes, including soft robot manipulation tasks, RNA evolution, and astrophysical phenomena like the merging of galaxies, the researchers say.</p><p>Moving forward, they want to adapt WorldParticle to simulate these and other physical systems. They also want to build on this work toward the development of a full, general-purpose simulation pipeline for scientific discovery.&nbsp;</p><p>&nbsp;“We see the unification of computation and science giving us new insights and tools to discover physical phenomena or explain some unexplainable physical phenomena,” Guo says. “With a unified model, we could unlock many discoveries that we can’t even imagine.”</p> https://t.co/xTZA7uBRYT"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 131,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "&lt;p&gt;Today, a scientist who wants to simulate a physical process must pick the right tool for that one job, such as a solver built for flowing water or another designed to model the way a protein folds. Each one is hand-coded around the specific equations that dictate how that",
+      "url": "https://x.com/arnaudmercier/status/2122437864013115513"
+    },
+    {
+      "author_id": "17932650",
+      "conversation_id": "2122437651483808108",
+      "created_at": "2026-11-16T21:12:23.000Z",
+      "edit_history_tweet_ids": [
+        "2122437651483808108"
+      ],
+      "id": "2122437651483808108",
+      "lang": "en",
+      "note_tweet": {
+        "text": "“Fastest” depends on where you stop the clock.\n\nWe ran 480 GLM 5.3 Flash requests across Telnyx and Modal Shared.\n\nTelnyx had lower median completed-response latency in all 8 test cells. Modal had better p95 time to first visible answer in 7 of 8.\nMeasure what your application actually waits for.\n\nFull benchmark in the thread 👇"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 464,
+        "like_count": 14,
+        "quote_count": 1,
+        "reply_count": 1,
+        "retweet_count": 2
+      },
+      "text": "“Fastest” depends on where you stop the clock.\n\nWe ran 480 GLM 5.3 Flash requests across Telnyx and Modal Shared.\n\nTelnyx had lower median completed-response latency in all 8 test cells. Modal had better p95 time to first visible answer in 7 of 8.\nMeasure what your application",
+      "url": "https://x.com/telnyx/status/2122437651483808108"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122436095719698433"
+        ]
+      },
+      "author_id": "1562895622348234753",
+      "conversation_id": "2122436232462700763",
+      "created_at": "2026-11-16T21:06:45.000Z",
+      "edit_history_tweet_ids": [
+        "2122436232462700763"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/oOxmzYPN0O",
+            "end": 301,
+            "expanded_url": "https://x.com/Alexvx_nft/status/2122436232462700763/video/1",
+            "media_key": "13_2122436095719698433",
+            "start": 278,
+            "url": "https://t.co/oOxmzYPN0O"
+          }
+        ]
+      },
+      "id": "2122436232462700763",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/MiniMax-AI/Min…",
+              "end": 310,
+              "expanded_url": "http://github.com/MiniMax-AI/MiniMax-H3-Image",
+              "start": 287,
+              "url": "https://t.co/15ZPlsxRZF"
+            },
+            {
+              "display_url": "github.com/Moh4696/cinema…",
+              "end": 501,
+              "expanded_url": "http://github.com/Moh4696/cinematic-skill",
+              "start": 478,
+              "url": "https://t.co/VwXzQIvUCy"
+            },
+            {
+              "display_url": "github.com/n4ze3m/tiny-vo…",
+              "end": 637,
+              "expanded_url": "http://github.com/n4ze3m/tiny-voca",
+              "start": 614,
+              "url": "https://t.co/NLmzkInoF2"
+            },
+            {
+              "display_url": "github.com/haziqahmedqasm…",
+              "end": 837,
+              "expanded_url": "http://github.com/haziqahmedqasmi/PeakCut",
+              "start": 814,
+              "url": "https://t.co/Jk9mlS2OkQ"
+            },
+            {
+              "display_url": "github.com/lxe/phoneuse",
+              "end": 994,
+              "expanded_url": "http://github.com/lxe/phoneuse",
+              "start": 971,
+              "url": "https://t.co/Ao16t0Gbyz"
+            },
+            {
+              "display_url": "github.com/Dodaios/ste80-…",
+              "end": 1147,
+              "expanded_url": "http://github.com/Dodaios/ste80-humanizer",
+              "start": 1124,
+              "url": "https://t.co/QyABluuBHM"
+            },
+            {
+              "display_url": "github.com/hikaku-io/hika…",
+              "end": 1299,
+              "expanded_url": "http://github.com/hikaku-io/hikaku-extension",
+              "start": 1276,
+              "url": "https://t.co/NCpydMuIuU"
+            }
+          ]
+        },
+        "text": "YOUR WHOLE CONTENT STUDIO WENT OPEN SOURCE THIS WEEK\n\nSeven new tools that cover image, film, voice, clips and checking what's real, all free on GitHub\n\nMAKE\n\n1. MiniMax-H3-Image - open weights image model, 16 megapixels, and it ships with a prompt skill your agent installs in one line\nhttps://t.co/15ZPlsxRZF\n\n2. cinematic-skill - ask your agent for a 90 second documentary and it writes the script, records the voice, finds public domain photos and draws every frame in code\nhttps://t.co/VwXzQIvUCy\n\n3. tiny-voca - a text to speech model with 4.5M parameters, 18 MB, runs in your browser at about 70x real time\nhttps://t.co/NLmzkInoF2\n\nCUT AND POST\n\n4. PeakCut - paste a YouTube, Twitch or Kick link and it finds the moments, cuts them to 9:16, adds captions and can clip a live stream while it's still running\nhttps://t.co/Jk9mlS2OkQ\n\n5. Phone Use - your iPhone on your computer screen, Claude Code and Codex can tap and type on it with your permission, no jailbreak\nhttps://t.co/Ao16t0Gbyz\n\nCHECK\n\n6. STE80 Humanizer - an agent skill that strips the usual AI tells from text and rebuilds it into short, plain sentences\nhttps://t.co/QyABluuBHM\n\n7. Hikaku - a browser extension that flags AI images and video as you scroll and shows you why, everything runs on your device\nhttps://t.co/NCpydMuIuU\n\nAVOID\n\n30 repos called Gemini-Config-Checker showed up in two minutes yesterday, about 473 stars each and zero forks, all promising proxy configs to get into Google AI Studio\n\nSame stars, same minute, no forks, that's a bot farm, don't run it\n\ntiny-voca is my pick, a voice that small running in a browser tab still feels wrong in a good way\n\nWhich one are you opening first?"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 12,
+        "impression_count": 1053,
+        "like_count": 37,
+        "quote_count": 0,
+        "reply_count": 13,
+        "retweet_count": 0
+      },
+      "text": "YOUR WHOLE CONTENT STUDIO WENT OPEN SOURCE THIS WEEK\n\nSeven new tools that cover image, film, voice, clips and checking what's real, all free on GitHub\n\nMAKE\n\n1. MiniMax-H3-Image - open weights image model, 16 megapixels, and it ships with a prompt skill your agent installs in https://t.co/oOxmzYPN0O",
+      "url": "https://x.com/Alexvx_nft/status/2122436232462700763"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122340081985863680"
+        ]
+      },
+      "author_id": "2982793544",
+      "conversation_id": "2122434784987140525",
+      "created_at": "2026-11-16T21:01:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122434784987140525"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/U6DKjlSOYx",
+            "end": 303,
+            "expanded_url": "https://x.com/kbhaskar_95/status/2122434784987140525/photo/1",
+            "media_key": "3_2122340081985863680",
+            "start": 280,
+            "url": "https://t.co/U6DKjlSOYx"
+          }
+        ]
+      },
+      "id": "2122434784987140525",
+      "lang": "en",
+      "note_tweet": {
+        "text": "an LLM judge passed at least 10 of 11 forbidden database writes on tau2-bench. a rule with no model call caught all 11\n\na new paper ran 2,160 agent episodes and scored each one four ways. the judge, gpt-4.1-mini reading the transcript, repeated its verdict 98.2% of the time, but agreed with gold-state scoring on 56.2%\n\non 120 human-labeled episodes (Table 6):\n- 11 had a write the task didn't allow. gpt-4.1-mini passed 10 without the policy doc and 11 with it. gpt-4.1 passed 9 and 10\n- the top model, gpt-5.6 Sol, passed 6. given the policy doc it passed 0, but failed 40 of 55 fully correct episodes\n- the boundary rule (was a write expected? did one happen?) passed 0 and failed 2 of the 55\n\nmy take: a consistent judge isn't a correct one. if your agent writes to a database, i'd grade the write itself. that rule needs a list of allowed writes per task, so i'd build that first\n\ncaveats: one benchmark, mostly gpt-4.1-class judges, and the 11 cases come from a 120-episode labeled sample"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 33,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "text": "an LLM judge passed at least 10 of 11 forbidden database writes on tau2-bench. a rule with no model call caught all 11\n\na new paper ran 2,160 agent episodes and scored each one four ways. the judge, gpt-4.1-mini reading the transcript, repeated its verdict 98.2% of the time, but https://t.co/U6DKjlSOYx",
+      "url": "https://x.com/kbhaskar_95/status/2122434784987140525"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122434420569223168"
+        ]
+      },
+      "author_id": "2071740446292791296",
+      "conversation_id": "2122434569735737421",
+      "created_at": "2026-11-16T21:00:09.000Z",
+      "edit_history_tweet_ids": [
+        "2122434569735737421"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/xkpVvSOLbH",
+            "end": 300,
+            "expanded_url": "https://x.com/AnAIRenaissance/status/2122434569735737421/photo/1",
+            "media_key": "3_2122434420569223168",
+            "start": 277,
+            "url": "https://t.co/xkpVvSOLbH"
+          }
+        ]
+      },
+      "id": "2122434569735737421",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "hashtags": [
+            {
+              "end": 428,
+              "start": 409,
+              "tag": "BuiltWithQwenCloud"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 372,
+              "id": "2033849894038093824",
+              "start": 361,
+              "username": "qwen_cloud"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "alibabacloud.com/blog/from-idea…",
+              "end": 346,
+              "expanded_url": "https://www.alibabacloud.com/blog/from-idea-to-incorporated-how-corpus-formation-autopilot-turns-plain-language-into-a-company_603697",
+              "start": 323,
+              "url": "https://t.co/L8v5Fpa1Fm"
+            }
+          ]
+        },
+        "text": "With the launch of Qwen 4 today, I thought I'd share the swag that came in for Corpus Formation Autopilot winning Track 4 (Autopilot Agent) of the Global AI Hackathon Series with Qwen Cloud.\n\nWe've also decided to switch Corpus business formation to Qwen 4 Max. I'll share the benchmark results behind that decision soon.\n\nhttps://t.co/L8v5Fpa1Fm\n\nThanks again @qwen_cloud and congratulations on the launch!\n\n#BuiltWithQwenCloud"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 86,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "text": "With the launch of Qwen 4 today, I thought I'd share the swag that came in for Corpus Formation Autopilot winning Track 4 (Autopilot Agent) of the Global AI Hackathon Series with Qwen Cloud.\n\nWe've also decided to switch Corpus business formation to Qwen 4 Max. I'll share the https://t.co/xkpVvSOLbH",
+      "url": "https://x.com/AnAIRenaissance/status/2122434569735737421"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122434558075224064"
+        ]
+      },
+      "author_id": "2039237769801658368",
+      "conversation_id": "2122434561988550861",
+      "created_at": "2026-11-16T21:00:07.000Z",
+      "edit_history_tweet_ids": [
+        "2122434561988550861"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/npC8tfsvqz",
+            "end": 299,
+            "expanded_url": "https://x.com/WeijinResearch/status/2122434561988550861/photo/1",
+            "media_key": "3_2122434558075224064",
+            "start": 276,
+            "url": "https://t.co/npC8tfsvqz"
+          }
+        ]
+      },
+      "id": "2122434561988550861",
+      "lang": "en",
+      "note_tweet": {
+        "text": "Anthropic's updated S-1 adds third-quarter financials and returns the company to a loss. The quarterly numbers sharpen a question the filing already raised: whether revenue can grow fast enough to absorb a compute obligation structure that is largely fixed.\n\n1. Third-quarter revenue was $16.96 billion, up 46.7% sequentially. Compute and infrastructure costs rose 77%, reaching 58% of revenue. The company recorded a $567 million GAAP operating loss. Adjusted operating margin fell from 19% to 15%.\n\n2. Through September, cumulative purchase and lease commitments reached $895.4 billion. About $69.8 billion falls due within twelve months, and roughly half of the total comes due before 2030. Most agreements are take-or-pay, meaning Anthropic owes payment regardless of actual usage.\n\n3. If commitment payments were held to half of revenue, Anthropic would need about $140 billion in revenue over the next twelve months. That is the number implied by the filing, not a forecast. At a 25x multiple, roughly $58 billion in 2026 revenue supports a valuation closer to $1.5 trillion than the original $2 trillion.\n\n4. The pricing pressure is explicit. Anthropic acknowledged in its prospectus that discounts on new model versions and contract concessions partially offset usage-driven revenue gains, with the impact estimated at about $600 million for the quarter. Over 80% of revenue came from models released in the prior six months.\n\n5. Model switching is getting cheaper, and corporate buyers are exercising that option. This is consistent with fintech Ramp's observation that enterprises are rotating between AI providers more frequently. Every reduction in migration cost weakens the pricing power of individual model vendors.\n\n6. Open-weight models are becoming a meaningful supply channel. On OpenRouter and Together AI, token consumption from open-source models is approaching Google Gemini API volumes under comparable measurement. That puts a price cap on closed frontier models rather than leaving them a niche alternative.\n\n7. The harder question sits beyond Anthropic. Model vendors need enterprises to keep increasing compute and API spend. But if the promised productivity gains arrive through labor-cost reduction, they may not create enough new purchasing power to sustain that spend.\n\nFull article in comments below."
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 110,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "Anthropic's updated S-1 adds third-quarter financials and returns the company to a loss. The quarterly numbers sharpen a question the filing already raised: whether revenue can grow fast enough to absorb a compute obligation structure that is largely fixed.\n\n1. Third-quarter https://t.co/npC8tfsvqz",
+      "url": "https://x.com/WeijinResearch/status/2122434561988550861"
+    },
+    {
+      "author_id": "1777886618906488832",
+      "conversation_id": "2122434339141013626",
+      "created_at": "2026-11-16T20:59:14.000Z",
+      "edit_history_tweet_ids": [
+        "2122434339141013626"
+      ],
+      "id": "2122434339141013626",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 16,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "tencent's hy4 flash is 224b total with 12b active, and 64b of that is engram parameters. open weights are planned.\n\nif the engram part offloads cleanly to system ram, it could run on a 3090, 4090 or 5090. i want to test it against qwen flash next when the weights drop ⏚",
+      "url": "https://x.com/thefoglin/status/2122434339141013626"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122432478342193152"
+        ]
+      },
+      "author_id": "1020384855341711360",
+      "conversation_id": "2122432724036194643",
+      "created_at": "2026-11-16T20:52:48.000Z",
+      "edit_history_tweet_ids": [
+        "2122432724036194643"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/0K124ylSdV",
+            "end": 298,
+            "expanded_url": "https://x.com/omneky/status/2122432724036194643/video/1",
+            "media_key": "13_2122432478342193152",
+            "start": 275,
+            "url": "https://t.co/0K124ylSdV"
+          }
+        ]
+      },
+      "id": "2122432724036194643",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "omneky.com/tastebench/mod…",
+              "end": 691,
+              "expanded_url": "https://www.omneky.com/tastebench/model-evals",
+              "start": 668,
+              "url": "https://t.co/Ps8SZw5lVK"
+            }
+          ]
+        },
+        "text": "Are image models actually getting better? On our new TASTE BENCH model evals, the top spot didn't go to the newest model. GPT Image 2.5 Sunburst edged out its successor, GPT Image 2.6 Sunburst, both averaging 8.1 out of 10 across 59 real ad briefs, 16 models and 2,761 blind reviews from three AI judges.\n\nA new model release is a claim, not a result. That's why Omneky tests every new model on real briefs before it touches a customer's ads. Our harness picks the best model for each brief, checks every ad, and reruns TASTE BENCH whenever something new ships, so you get the strongest ad without guessing which version to trust.\n\nSee the full updated leaderboard at https://t.co/Ps8SZw5lVK."
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 243,
+        "like_count": 2,
+        "quote_count": 1,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "Are image models actually getting better? On our new TASTE BENCH model evals, the top spot didn't go to the newest model. GPT Image 2.5 Sunburst edged out its successor, GPT Image 2.6 Sunburst, both averaging 8.1 out of 10 across 59 real ad briefs, 16 models and 2,761 blind https://t.co/0K124ylSdV",
+      "url": "https://x.com/omneky/status/2122432724036194643"
+    },
+    {
+      "author_id": "1905908580244652032",
+      "conversation_id": "2122432420641202571",
+      "created_at": "2026-11-16T20:51:36.000Z",
+      "edit_history_tweet_ids": [
+        "2122432420641202571"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "B.AI is the foundational economic infrastructure for AI Agents. Access global top-tier AI models anonymously via our borderless payment system. We provide a unified API and settlement network, empowering artificial intelligence with true financial autonomy.",
+            "display_url": "B.AI",
+            "end": 119,
+            "expanded_url": "https://B.AI",
+            "images": [
+              {
+                "height": 1200,
+                "url": "https://pbs.twimg.com/news_img/2120215188917940224/oCkmmYIz?format=png&name=orig",
+                "width": 2400
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2120215188917940224/oCkmmYIz?format=png&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 96,
+            "status": 200,
+            "title": "B.AI",
+            "unwound_url": "https://B.AI",
+            "url": "https://t.co/lLR02boom8"
+          }
+        ]
+      },
+      "id": "2122432420641202571",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "hashtags": [
+            {
+              "end": 1018,
+              "start": 1006,
+              "tag": "TRONEcoStar"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 1005,
+              "id": "902839045356744704",
+              "start": 991,
+              "username": "justinsuntron"
+            },
+            {
+              "end": 1027,
+              "id": "1392094167522742272",
+              "start": 1019,
+              "username": "BAI_AGI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "B.AI",
+              "end": 119,
+              "expanded_url": "http://B.AI",
+              "start": 96,
+              "url": "https://t.co/dIJvfb8RQ6"
+            }
+          ]
+        },
+        "text": "Claude Fable 5.2 and the Evolution of AI Reasoning\n\nThe reported arrival of Claude Fable 5.2 on https://t.co/dIJvfb8RQ6, featuring faster generation, a 1M context window, and adaptive thinking, reflects an important direction in AI development.\n\nFor me, the interesting part is adaptive thinking.\n\nNot every question deserves the same amount of computational effort. A straightforward request should not necessarily require the same reasoning process as a complex programming problem or detailed research task.\n\nA model capable of adjusting its thinking approach could make AI interactions more efficient while preserving the ability to handle demanding work.\n\nThe combination of speed and long-context capabilities also creates interesting possibilities for developers building applications that process large amounts of information.\n\nI think the future of AI will increasingly depend on balancing intelligence, speed, and resource efficiency rather than competing on one benchmark alone.\n\n@justinsuntron #TRONEcoStar\n@BAI_AGI"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Claude Fable 5.2 and the Evolution of AI Reasoning\n\nThe reported arrival of Claude Fable 5.2 on https://t.co/lLR02boom8, featuring faster generation, a 1M context window, and adaptive thinking, reflects an important direction in AI development.\n\nFor me, the interesting part is",
+      "url": "https://x.com/JAMINE_NFT/status/2122432420641202571"
+    },
+    {
+      "article": {
+        "cover_media": "3_2122429340826681345",
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "start": 4,
+              "username": "bot"
+            },
+            {
+              "end": 79,
+              "start": 75,
+              "username": "bot"
+            },
+            {
+              "end": 37,
+              "start": 28,
+              "username": "wirelyss"
+            },
+            {
+              "end": 32,
+              "start": 21,
+              "username": "kenn_ronin"
+            },
+            {
+              "end": 384,
+              "start": 373,
+              "username": "kenn_ronin"
+            },
+            {
+              "end": 38,
+              "start": 31,
+              "username": "Austen"
+            },
+            {
+              "end": 143,
+              "start": 136,
+              "username": "Austen"
+            },
+            {
+              "end": 22,
+              "start": 11,
+              "username": "congressdj"
+            },
+            {
+              "end": 42,
+              "start": 28,
+              "username": "MarsHomestead"
+            },
+            {
+              "end": 154,
+              "start": 140,
+              "username": "MarsHomestead"
+            },
+            {
+              "end": 36,
+              "start": 24,
+              "username": "Kevin_Logan"
+            },
+            {
+              "end": 114,
+              "start": 102,
+              "username": "Kevin_Logan"
+            },
+            {
+              "end": 27,
+              "start": 15,
+              "username": "AunySillyMe"
+            },
+            {
+              "end": 135,
+              "start": 123,
+              "username": "AunySillyMe"
+            },
+            {
+              "end": 33,
+              "start": 22,
+              "username": "drbellahqw"
+            },
+            {
+              "end": 81,
+              "start": 70,
+              "username": "drbellahqw"
+            },
+            {
+              "end": 36,
+              "start": 25,
+              "username": "toannhu_it"
+            },
+            {
+              "end": 77,
+              "start": 66,
+              "username": "toannhu_it"
+            },
+            {
+              "end": 27,
+              "start": 18,
+              "username": "Biggs237"
+            },
+            {
+              "end": 142,
+              "start": 133,
+              "username": "Biggs237"
+            },
+            {
+              "end": 38,
+              "start": 28,
+              "username": "blueemi99"
+            },
+            {
+              "end": 210,
+              "start": 201,
+              "username": "cu30rry_"
+            },
+            {
+              "end": 309,
+              "start": 293,
+              "username": "PixelRainbowNFT"
+            },
+            {
+              "end": 417,
+              "start": 410,
+              "username": "p45c41"
+            },
+            {
+              "end": 530,
+              "start": 521,
+              "username": "SYQCON95"
+            },
+            {
+              "end": 53,
+              "start": 44,
+              "username": "wirelyss"
+            },
+            {
+              "end": 66,
+              "start": 55,
+              "username": "kenn_ronin"
+            },
+            {
+              "end": 75,
+              "start": 68,
+              "username": "Austen"
+            },
+            {
+              "end": 88,
+              "start": 77,
+              "username": "congressdj"
+            },
+            {
+              "end": 104,
+              "start": 90,
+              "username": "MarsHomestead"
+            },
+            {
+              "end": 118,
+              "start": 106,
+              "username": "Kevin_Logan"
+            },
+            {
+              "end": 132,
+              "start": 120,
+              "username": "AunySillyMe"
+            },
+            {
+              "end": 145,
+              "start": 134,
+              "username": "drbellahqw"
+            },
+            {
+              "end": 158,
+              "start": 147,
+              "username": "toannhu_it"
+            },
+            {
+              "end": 173,
+              "start": 164,
+              "username": "Biggs237"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "username": "bot"
+            }
+          ],
+          "urls": [
+            {
+              "text": "x.ai/bot"
+            },
+            {
+              "text": "x.ai/bot"
+            },
+            {
+              "text": "x.com/wirelyss/status"
+            },
+            {
+              "text": "x.ai/bot"
+            },
+            {
+              "text": "x.com/kenn_ronin/status"
+            },
+            {
+              "text": "x.ai/bot"
+            },
+            {
+              "text": "x.com/Austen/status"
+            },
+            {
+              "text": "x.ai/bot"
+            },
+            {
+              "text": "x.com/congressdj/status"
+            },
+            {
+              "text": "x.ai/bot/g-_ahneHRIUAQIyrscdSb"
+            },
+            {
+              "text": "x.com/MarsHomestead/status"
+            },
+            {
+              "text": "x.ai/bot"
+            },
+            {
+              "text": "x.com/Kevin_Logan/status"
+            },
+            {
+              "text": "x.ai/bot"
+            },
+            {
+              "text": "x.com/AunySillyMe/status"
+            },
+            {
+              "text": "x.ai/bot"
+            },
+            {
+              "text": "x.com/drbellahqw/status"
+            },
+            {
+              "text": "x.ai/bot"
+            },
+            {
+              "text": "x.com/toannhu_it/status"
+            },
+            {
+              "text": "x.ai/bot"
+            },
+            {
+              "text": "x.com/Biggs237/status"
+            },
+            {
+              "text": "x.ai/bot"
+            },
+            {
+              "text": "https://x.com/Kevin_Logan/status/2122204517907280190"
+            },
+            {
+              "text": "https://x.com/congressdj/status/2122065057035309530"
+            },
+            {
+              "text": "https://x.ai/bot/2A0pr4CgUzxio5lprVHXQ"
+            },
+            {
+              "text": "https://x.ai/bot/rgDSVcuH-K8hlPZqwFuFN"
+            },
+            {
+              "text": "https://x.com/kenn_ronin/status/2122389631731691820"
+            },
+            {
+              "text": "https://x.ai/bot/d3sWwu8vVtmPEa2wNx1MW"
+            },
+            {
+              "text": "https://x.ai/bot/0zdwc6Tybp9Y87KQEny3W"
+            },
+            {
+              "text": "https://x.ai/bot/g-_ahneHRIUAQIyrscdSb"
+            },
+            {
+              "text": "https://x.ai/bot/EtXBSv57CQo1dxFghmslA"
+            },
+            {
+              "text": "https://x.ai/bot/EkEnSuWp9ITE-X3T6UODT"
+            },
+            {
+              "text": "https://x.ai/bot/LrIjgjuknEyYC4Tbbz0jK"
+            },
+            {
+              "text": "https://x.com/drbellahqw/status/2122194954168528995"
+            },
+            {
+              "text": "https://x.ai/bot/KGYaeHB_YqKJVCX_Gp0a6"
+            },
+            {
+              "text": "https://x.com/MarsHomestead/status/2122072793240252895"
+            },
+            {
+              "text": "https://x.ai/bot/cCBzxPeJyseV7DiLYLW3S"
+            },
+            {
+              "text": "https://x.com/Austen/status/2122366204958605488"
+            },
+            {
+              "text": "https://x.ai/bot/Lj4_-xsgpMrZqZYiOchVz"
+            },
+            {
+              "text": "https://x.ai/bot/1rfzYPVkI-WE6-ci4VS-I"
+            },
+            {
+              "text": "https://x.com/AunySillyMe/status/2122093414032535853"
+            },
+            {
+              "text": "https://abs.twimg.com/emoji/v2/svg/1f451.svg"
+            },
+            {
+              "text": "https://x.com/Biggs237/status/2122288310651339110"
+            },
+            {
+              "text": "https://x.com/wirelyss/status/2122211149047644563"
+            },
+            {
+              "text": "https://x.com/toannhu_it/status/2122253730796195962"
+            },
+            {
+              "text": "https://x.ai/bot/Zq7A3Opad78rsoj8eoFay"
+            },
+            {
+              "text": "https://x.ai/bot/rlntsi6D27tReGUFq4ug-"
+            }
+          ]
+        },
+        "plain_text": "\nTen @bot templates creators shared on X in the last day: a Costco receipt keeper, a motion-design storyboard library, a landing page critic, a phone-bill advocate, a junk mail stopper, an on-brand image maker, a menopause coach and a rental property scout\nWelcome back to the Grok Bot Hall of Fame, the daily roll call of the best @bot templates the community is building.\nHow inductees are picked: each one was shared on X by its creator between Nov 15 at about 3:15 PM ET and Nov 16 at about 3:15 PM ET, and each post links a template you can import for free. \"What it does\" comes from the creator's post and the template's own x.ai/bot page. \"New drop\" means the creator's own post presents it as newly made. Engagement figures were read on Nov 16 at about 3:17 PM ET. This is an editorial pick for usefulness and traction, not a strict popularity chart.\n1. Costco Receipt Keeper by @wirelyss · New drop 👑\nWhat it does: Turns your Costco receipts into a private, searchable purchase history you can browse or just ask questions about. Ask about your purchases, find a receipt, and get notified when things you like to buy at Costco go on sale.\nWho it's for: Costco members who want to know what they bought, when, and when it's on sale again.\nStandout detail: \"i just launched Costco Receipt Keeper bot!\" The most-liked and most-discussed launch in today's class (66 likes, 27 replies, 12 reposts, about 4.5K views when read).\nWhy it's in: One store, one job, done well: receipts you can actually search and sale alerts on the things you already buy.\nImport: x.ai/bot\nPost: x.com/wirelyss/status\n2. Motion Library by @kenn_ronin\nWhat it does: Builds a library of motion design techniques from standout brand and viral videos, learns why they work, and turns them into original storyboards.\nWho it's for: Motion designers, video editors and brand teams who want fresh ideas grounded in what already works.\nStandout detail: The creator showed a side-by-side of what the AI gave him and what they made after he stepped in: \"it had 100 brand motion videos in its head and still needed my taste for 5 rounds.\" The most-bookmarked post in today's class (80 bookmarks, 51 likes, about 1.6K views when read). The template page credits it as \"Motion Library by Tega\"; it was shared from @kenn_ronin, who also linked the skill file.\nWhy it's in: An honest take on AI as extra hands, with a real library behind it.\nImport: x.ai/bot\nPost: x.com/kenn_ronin/status\n3. Landing Page Copy Critic by @Austen · New drop\nWhat it does: Reads your landing pages the way a first-time buyer does and scores how fast the page says what you do, who it's for, and what to click, then drafts fixes. The creator says it's \"loaded with a bunch of skills\" to analyze your pages as a first-time viewer and critic.\nWho it's for: Founders, marketers and anyone with a page that isn't converting.\nStandout detail: Posted as \"New Grok Bot.\" The most-viewed share in today's class (about 5.3K views, 66 bookmarks, 30 likes when read). @Austen is a Hall of Fame returnee.\nWhy it's in: A first-time-visitor read is the hardest feedback to get on your own page.\nImport: x.ai/bot\nPost: x.com/Austen/status\n4. Bill by @congressdj\nWhat it does: Your phone-bill advocate for Verizon, AT&T, T-Mobile and the big prepaid and cable brands. Bill audits your bills and usage and finds cheaper plans.\nWho it's for: Anyone who suspects they're overpaying for phone service.\nStandout detail: The creator says he's \"in the thousands at this point between phone, insurance, fees, etc.\" and that Bill \"started as just a bot to save you a few bucks on AT&T.\" (His own claim, not verified.) 20 likes and 12 bookmarks when read.\nWhy it's in: Saving money is the easiest bot pitch there is, and this one has grown beyond its first job.\nImport: x.ai/bot\nPost: x.com/congressdj/status\n5. Creative Video Studio by @MarsHomestead\nWhat it does: Turns your phone clips into finished videos with no editing experience needed. It plans the story with you, edits, and checks picture and sound.\nWho it's for: People with a camera roll full of clips and no time to learn editing software.\nStandout detail: \"This is the current version of my video editor. I've compared it to a few others and still prefer this version the best.\" @MarsHomestead is a Hall of Fame returnee (PhotoFix, Class of Nov 8). 15 likes and 11 bookmarks when read.\nWhy it's in: A creator's own pick of their best editor build, made for beginners.\nImport: x.ai/bot/g-_ahneHRIUAQIyrscdSb\nPost: x.com/MarsHomestead/status\n6. Junk Mail Stopper by @Kevin_Logan\nWhat it does: Snap a photo of any junk mail that lands in your mailbox and it files that sender's free removal request, then logs every request. It also helps remove you from prescreened credit offers.\nWho it's for: Anyone tired of paper junk mail and credit card offers.\nStandout detail: One photo is the whole workflow: \"Take a picture of the junk mail it does the rest.\" @Kevin_Logan is a Hall of Fame regular (Bot Sounds, Class of Nov 2; Apple Mac Tools, Class of Nov 6). 14 likes and 8 bookmarks when read.\nWhy it's in: A real-world chore, handled from your phone camera.\nImport: x.ai/bot\nPost: x.com/Kevin_Logan/status\n7. Aperture by @AunySillyMe\nWhat it does: An image and short-video maker that asks a few questions about your brand, learns your colors and favorite art styles, then turns a one-line brief into posts, thumbnails, covers and banners.\nWho it's for: Creators and small brands who need on-brand visuals fast.\nStandout detail: \"send a one-line brief, get back a post image, thumbnail or banner in your brand's colors and art style.\" @AunySillyMe is a Hall of Fame returnee.\nWhy it's in: It learns your look once, so every image after that matches.\nImport: x.ai/bot\nPost: x.com/AunySillyMe/status\n8. Menopause Coach by @drbellahqw\nWhat it does: Clear, honest answers about perimenopause and menopause, plus symptom tracking and questions to bring to your appointment.\nWho it's for: Women going through perimenopause or menopause, and anyone supporting them.\nStandout detail: Built so \"you don't walk out wishing you had asked.\" @drbellahqw is a Hall of Fame returnee.\nWhy it's in: A health topic that gets too little support, turned into better doctor visits.\nImport: x.ai/bot\nPost: x.com/drbellahqw/status\n9. Event and Giveaway by @toannhu_it\nWhat it does: Scans the official X accounts of crypto exchanges (Binance first, plus Bybit, Bitget and OKX) for events and giveaways, keeps only the ones you can still join, and ranks a Top 5 by effort and cost.\nWho it's for: Crypto users who chase exchange promos but hate scrolling for them.\nStandout detail: Say \"go\" for a list on demand, or get it weekly. @toannhu_it is a Hall of Fame returnee.\nWhy it's in: It filters out expired promos so you only see ones you can still enter.\nImport: x.ai/bot\nPost: x.com/toannhu_it/status\n10. Rent Scout by @Biggs237\nWhat it does: Finds homes and 2 to 4 unit properties you could buy and rent out, then runs the numbers: rent comps, taxes, cash flow, cap rate and red flags.\nWho it's for: First-time and small real estate investors.\nStandout detail: Pitched as a way to find properties that \"can be rented out to increase your income while paying for the property.\" @Biggs237 also shared Fed Path, a guide for breaking into federal GS jobs, today.\nWhy it's in: The math most people skip before buying a rental, done for you.\nImport: x.ai/bot\nPost: x.com/Biggs237/status\nAlso new: Model Notifier by @blueemi99, which alerts you the moment a major AI lab releases a new model with what's new, where to use it and its benchmarks, then follows up hours later (spotlighted in @cu30rry_'s Japanese roundup rather than a creator post; template); Phone Harness Wizard by @PixelRainbowNFT, a step-by-step guide that connects your iPhone or Android to Grok Bot (template); Local Gazette by @p45c41, your own private local newspaper for any town, in any country and language (template); and Gridfin by @SYQCON95, which keeps every SpaceX launch synced to your Google Calendar with a short morning brief (template).\nThat's the class of Nov 16.\nTen builders, ten free templates. Thanks to @wirelyss, @kenn_ronin, @Austen, @congressdj, @MarsHomestead, @Kevin_Logan, @AunySillyMe, @drbellahqw, @toannhu_it, and @Biggs237 for sharing what they built.\nBuilt something with @bot? Share your template on X with its x.ai/bot link, and it could be in tomorrow's Hall of Fame.",
+        "preview_text": "Ten @bot templates creators shared on X in the last day: a Costco receipt keeper, a motion-design storyboard library, a landing page critic, a phone-bill advocate, a junk mail stopper, an on-brand",
+        "title": "Grok Bot Hall of Fame: The Class of Nov 16, 2026"
+      },
+      "author_id": "1699972296809611264",
+      "conversation_id": "2122429477708009566",
+      "created_at": "2026-11-16T20:39:54.000Z",
+      "edit_history_tweet_ids": [
+        "2122429477708009566"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/i/article/2122…",
+            "end": 72,
+            "expanded_url": "https://x.com/i/article/2122429163449839617",
+            "start": 49,
+            "status": 404,
+            "unwound_url": "https://x.com/i/article/2122429163449839617",
+            "url": "https://t.co/wswmmkVKkk"
+          }
+        ]
+      },
+      "id": "2122429477708009566",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 470,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 2
+      },
+      "text": "Grok Bot Hall of Fame: The Class of Nov 16, 2026 https://t.co/wswmmkVKkk",
+      "url": "https://x.com/Mavmetax/status/2122429477708009566"
+    },
+    {
+      "author_id": "59834142",
+      "conversation_id": "2122427224733446648",
+      "created_at": "2026-11-16T20:30:57.000Z",
+      "edit_history_tweet_ids": [
+        "2122427224733446648"
+      ],
+      "id": "2122427224733446648",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "hy.tencent.ai/research/hy4-f…",
+              "end": 1625,
+              "expanded_url": "https://hy.tencent.ai/research/hy4-flash",
+              "start": 1602,
+              "url": "https://t.co/XM5a5jSxdR"
+            },
+            {
+              "display_url": "unite.ai/tencent-launch…",
+              "end": 1649,
+              "expanded_url": "https://www.unite.ai/tencent-launches-hy4-flash-as-a-lower-cost-multimodal-model/",
+              "start": 1626,
+              "url": "https://t.co/0ONwnUQdWv"
+            }
+          ]
+        },
+        "text": "Tencent's new cheap tier may be the Hy4 most agent workloads should actually call: $0.07 per million input tokens and $0.281 per million output, against $0.834 and $2.501 for full Hy4.\n\nWhat Tencent launched Nov 16:\n• Hy4 flash: 224B total parameters, including 64B of what Tencent calls Engram parameters, with 12B active per token. Natively multimodal, 1M-token context (API limits of 960K in and 64K out)\n• Tencent says hybrid attention, LatentMoE and Engram cut the KV cache to 1/24 of Hy3's and 1/6 of Hy4's. For long-context serving cost, that is the line to watch\n• Post-trained by self-distillation from Hy4, with RL cutting average end-to-end output tokens by 50%\n• Megakernels, 4-bit quantization and DFly push decoding past 150 tokens/s\n• On Tencent's own WorkIndex (slides, documents, spreadsheet repair, audio and video), slightly above Hy4 preview at 1/20 of Hy4's cost per task. In a blind test with 85 internal users across 259 tasks, satisfaction landed close to Claude Haiku 5.5\n• API id hy4-flash, compatible with OpenAI Chat Completions, Responses and Anthropic Messages. Free in WorkBuddy and 50% off on TokenHub until Nov 30. OpenRouter and open weights are planned\n\nWhy it matters for engineers: in high-volume agent steps like search, extraction and doc edits, the bill is driven by output tokens and cache. A model trained to say less, with a much smaller KV cache, attacks both.\n\nThe caveats: every number is Tencent's, on its own benchmark and its own users. Tencent still recommends full Hy4 for long-horizon software engineering. And there is no date yet for the weights.\n\nhttps://t.co/XM5a5jSxdR\nhttps://t.co/0ONwnUQdWv"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 19,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Tencent's new cheap tier may be the Hy4 most agent workloads should actually call: $0.07 per million input tokens and $0.281 per million output, against $0.834 and $2.501 for full Hy4.\n\nWhat Tencent launched Nov 16:\n• Hy4 flash: 224B total parameters, including 64B of what",
+      "url": "https://x.com/carlosearias/status/2122427224733446648"
+    },
+    {
+      "author_id": "829793921505095680",
+      "conversation_id": "2122427068298281471",
+      "created_at": "2026-11-16T20:30:20.000Z",
+      "edit_history_tweet_ids": [
+        "2122427068298281471"
+      ],
+      "id": "2122427068298281471",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 16,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "From our construction benchmark (34 synthetic quantity sheets, mean of 3 runs):\n\nClaude Haiku 5.5, text only: 38%\nSame model, with the sheet images: 100%\n\nSame model. The input changed, not the intelligence.\n\nIf your eval drops the drawings, you're grading the wrong thing.",
+      "url": "https://x.com/AngelPadillaRam/status/2122427068298281471"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122424572213698560"
+        ]
+      },
+      "author_id": "1524764097841094660",
+      "conversation_id": "2122426603896779164",
+      "created_at": "2026-11-16T20:28:29.000Z",
+      "edit_history_tweet_ids": [
+        "2122426603896779164"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/V8xLUS9xGO",
+            "end": 279,
+            "expanded_url": "https://x.com/notjazii/status/2122426603896779164/photo/1",
+            "media_key": "3_2122424572213698560",
+            "start": 256,
+            "url": "https://t.co/V8xLUS9xGO"
+          }
+        ]
+      },
+      "id": "2122426603896779164",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 16,
+        "impression_count": 10111,
+        "like_count": 189,
+        "quote_count": 3,
+        "reply_count": 22,
+        "retweet_count": 6
+      },
+      "text": "gemini-4-neon has been spotted\n\nit's showing up right next to argon and carbon in gemini web app code\n\nwhich means it most likely new model in gemini 4 family but not sure which one. could be big upgrade from carbon or flash lite model\n\nwhat do you think? https://t.co/V8xLUS9xGO",
+      "url": "https://x.com/notjazii/status/2122426603896779164"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2122442137467797504",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRt4PwWwAAc_3C.png",
+        "width": 1600
+      },
+      {
+        "height": 1386,
+        "media_key": "3_2122441970832244736",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRtui_WAAAn0FI.png",
+        "width": 1450
+      },
+      {
+        "height": 750,
+        "media_key": "3_2122441852502614017",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRtnqLXIAEWU6r.jpg",
+        "width": 1200
+      },
+      {
+        "height": 441,
+        "media_key": "3_2122437620731101184",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRpxVmaQAAdH8A.png",
+        "width": 763
+      },
+      {
+        "height": 1422,
+        "media_key": "3_2122441116511301632",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRs80ZW8AAM2Ai.png",
+        "width": 1450
+      },
+      {
+        "height": 1386,
+        "media_key": "3_2122440290459881472",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRsMvHWkAAXeR2.png",
+        "width": 1450
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2122438866955104256",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRq54JXcAACzUn.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2122438867001237504",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRq54UXYAAktXx.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2122438866715992064",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRq53QW4AAau45.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2122438867001167873",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRq54UWUAEFX_N.jpg",
+        "width": 1600
+      },
+      {
+        "height": 853,
+        "media_key": "3_2122438331472453632",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRqatUWoAAjO-A.jpg",
+        "width": 1280
+      },
+      {
+        "duration_ms": 29611,
+        "height": 1350,
+        "media_key": "13_2122436095719698433",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122436095719698433/img/k4jLFJQ4yUEHJZsu.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122436095719698433/vid/avc1/320x400/GgT4hxf_Qd4N7ABv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122436095719698433/vid/avc1/480x600/uJ6T-fXbjpM3yKY6.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122436095719698433/vid/avc1/1080x1350/IrcLeGS789wb7CNY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122436095719698433/pl/mB16SdkoDcoY0T5v.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122436095719698433/vid/avc1/720x900/WYhb4AGZ9iAAhc31.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 575,
+        "media_key": "3_2122340081985863680",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXQRD1dXQAAmjOR.png",
+        "width": 1680
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2122434420569223168",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRm3EEXMAAaJbs.jpg",
+        "width": 2048
+      },
+      {
+        "height": 614,
+        "media_key": "3_2122434558075224064",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRm_EUWQAAa5Lz.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 58000,
+        "height": 1080,
+        "media_key": "13_2122432478342193152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122432478342193152/img/HvkNasHtq-hgzjT4.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122432478342193152/vid/avc1/1920x1080/lA_puqQ2utnkperp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122432478342193152/pl/psRYbpWmlmN1sGgY.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122432478342193152/vid/avc1/480x270/pWUgR5ngbb7lbhof.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122432478342193152/vid/avc1/1280x720/jpsEbPi0oaf2IlwU.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122432478342193152/vid/avc1/640x360/Y7HtKfoQS8AlL1Lo.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "height": 600,
+        "media_key": "3_2122429340826681345",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRiPYjXQAEUzrD.jpg",
+        "width": 1500
+      },
+      {
+        "height": 231,
+        "media_key": "3_2122424572213698560",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRd50FboAA1HJM.png",
+        "width": 777
+      }
+    ],
+    "users": [
+      {
+        "id": "102521598",
+        "name": "Aapakari",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/841969120526643200/foPxsf90_normal.jpg",
+        "public_metrics": {
+          "followers_count": 13074,
+          "following_count": 4260,
+          "like_count": 38675,
+          "listed_count": 142,
+          "media_count": 1018,
+          "tweet_count": 26802
+        },
+        "username": "aapakari",
+        "verified": false
+      },
+      {
+        "id": "2109689097338187776",
+        "name": "Arman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2112866166817656832/KXEGJJli_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 6,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 111
+        },
+        "username": "MetzYurman",
+        "verified": false
+      },
+      {
+        "id": "1653727125759721472",
+        "name": "Finsee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653739062870540288/QML1T1zL_normal.png",
+        "public_metrics": {
+          "followers_count": 12577,
+          "following_count": 0,
+          "like_count": 1983,
+          "listed_count": 230,
+          "media_count": 10545,
+          "tweet_count": 19614
+        },
+        "username": "Finsee_main",
+        "verified": false
+      },
+      {
+        "id": "253138059",
+        "name": "Ryzm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099598545003384832/Pv4J_aDs_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1887,
+          "following_count": 549,
+          "like_count": 11432,
+          "listed_count": 19,
+          "media_count": 3086,
+          "tweet_count": 18860
+        },
+        "username": "Goeun_6121",
+        "verified": false
+      },
+      {
+        "id": "1828147539658366976",
+        "name": "Haziq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971191444623753216/pJj-28Gq_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1260,
+          "following_count": 1328,
+          "like_count": 10922,
+          "listed_count": 7,
+          "media_count": 403,
+          "tweet_count": 3784
+        },
+        "username": "0xhaziq",
+        "verified": false
+      },
+      {
+        "id": "1451174567582392320",
+        "name": "Rohit",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815629389851222016/SyCbRo2Y_normal.jpg",
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 546,
+          "like_count": 1372,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 752
+        },
+        "username": "imgrohit",
+        "verified": false
+      },
+      {
+        "id": "1742923424056713217",
+        "name": "Google AI Studio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089794087998156800/eZOMHRVb_normal.jpg",
+        "public_metrics": {
+          "followers_count": 217678,
+          "following_count": 2,
+          "like_count": 726,
+          "listed_count": 2232,
+          "media_count": 126,
+          "tweet_count": 269
+        },
+        "username": "GoogleAIStudio",
+        "verified": true
+      },
+      {
+        "id": "1429783021184602116",
+        "name": "SI Agent",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107634309779619840/AZga1VWy_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3027,
+          "following_count": 79,
+          "like_count": 14984,
+          "listed_count": 15,
+          "media_count": 1588,
+          "tweet_count": 11075
+        },
+        "username": "SI_AgentFL",
+        "verified": false
+      },
+      {
+        "id": "1391704077399171073",
+        "name": "Doğukan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115536801557266433/kfzXqCIU_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1253,
+          "following_count": 3681,
+          "like_count": 13198,
+          "listed_count": 13,
+          "media_count": 1367,
+          "tweet_count": 4400
+        },
+        "username": "eastblood_tr",
+        "verified": false
+      },
+      {
+        "id": "59871770",
+        "name": "QFS17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110828396250808322/MgnBL-Y6_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2307,
+          "following_count": 1253,
+          "like_count": 86743,
+          "listed_count": 89,
+          "media_count": 3367,
+          "tweet_count": 52063
+        },
+        "username": "riabcevv",
+        "verified": false
+      },
+      {
+        "id": "2033731057489743877",
+        "name": "Valenciana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056137403484794880/iy_jWILp_normal.jpg",
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 67,
+          "like_count": 70230,
+          "listed_count": 4,
+          "media_count": 1405,
+          "tweet_count": 5521
+        },
+        "username": "ValencianaAbel",
+        "verified": false
+      },
+      {
+        "id": "27454144",
+        "name": "Arnaud Mercier - #Entrepreneur #Versailles",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996619736289812480/9_uk8nyO_normal.jpg",
+        "public_metrics": {
+          "followers_count": 41140,
+          "following_count": 44769,
+          "like_count": 2858,
+          "listed_count": 386,
+          "media_count": 155679,
+          "tweet_count": 685070
+        },
+        "username": "arnaudmercier",
+        "verified": false
+      },
+      {
+        "id": "17932650",
+        "name": "Telnyx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047775541525118976/M9n8WKlD_normal.png",
+        "public_metrics": {
+          "followers_count": 5461,
+          "following_count": 4193,
+          "like_count": 1347,
+          "listed_count": 69,
+          "media_count": 4279,
+          "tweet_count": 6930
+        },
+        "username": "telnyx",
+        "verified": false
+      },
+      {
+        "id": "1562895622348234753",
+        "name": "ALEXYZ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007248682807066624/wytu083L_normal.jpg",
+        "public_metrics": {
+          "followers_count": 7712,
+          "following_count": 4769,
+          "like_count": 188343,
+          "listed_count": 95,
+          "media_count": 4019,
+          "tweet_count": 75842
+        },
+        "username": "Alexvx_nft",
+        "verified": false
+      },
+      {
+        "id": "2982793544",
+        "name": "Karthik Bhaskar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998566810967330818/hJ4PW2Ry_normal.jpg",
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 725,
+          "like_count": 1106,
+          "listed_count": 8,
+          "media_count": 129,
+          "tweet_count": 836
+        },
+        "username": "kbhaskar_95",
+        "verified": false
+      },
+      {
+        "id": "2071740446292791296",
+        "name": "The AI Renaissance",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094210937146245120/6pmUEmXf_normal.jpg",
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 869,
+          "like_count": 2512,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1511
+        },
+        "username": "AnAIRenaissance",
+        "verified": false
+      },
+      {
+        "id": "2039237769801658368",
+        "name": "Weijin Research",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039257703277846528/w2WOAvLG_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2437,
+          "following_count": 17,
+          "like_count": 15,
+          "listed_count": 49,
+          "media_count": 37,
+          "tweet_count": 185
+        },
+        "username": "WeijinResearch",
+        "verified": false
+      },
+      {
+        "id": "1777886618906488832",
+        "name": "Fog 🐀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2113861715137875969/_UwValdf_normal.jpg",
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 294,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 164
+        },
+        "username": "thefoglin",
+        "verified": false
+      },
+      {
+        "id": "1020384855341711360",
+        "name": "Omneky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1091163783081353218/_zvOW7BJ_normal.jpg",
+        "public_metrics": {
+          "followers_count": 16021,
+          "following_count": 316,
+          "like_count": 1470,
+          "listed_count": 43,
+          "media_count": 642,
+          "tweet_count": 2039
+        },
+        "username": "omneky",
+        "verified": true
+      },
+      {
+        "id": "1905908580244652032",
+        "name": "𝑱𝑨𝑴𝑰𝑵𝑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092747270764597248/DiIkJnBp_normal.jpg",
+        "public_metrics": {
+          "followers_count": 5113,
+          "following_count": 4858,
+          "like_count": 18549,
+          "listed_count": 1,
+          "media_count": 8077,
+          "tweet_count": 19176
+        },
+        "username": "JAMINE_NFT",
+        "verified": false
+      },
+      {
+        "id": "1699972296809611264",
+        "name": "Mav",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2114903314093531137/tZD3RJmz_normal.jpg",
+        "public_metrics": {
+          "followers_count": 12244,
+          "following_count": 9202,
+          "like_count": 94899,
+          "listed_count": 73,
+          "media_count": 6693,
+          "tweet_count": 49234
+        },
+        "username": "Mavmetax",
+        "verified": false
+      },
+      {
+        "id": "59834142",
+        "name": "Carlos Arias",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809856645939236864/1418kolk_normal.jpg",
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 5459,
+          "like_count": 12488,
+          "listed_count": 3,
+          "media_count": 15,
+          "tweet_count": 886
+        },
+        "username": "carlosearias",
+        "verified": false
+      },
+      {
+        "id": "829793921505095680",
+        "name": "Angel Padilla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729005496152064000/hA-3W61O_normal.jpg",
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 771,
+          "like_count": 43470,
+          "listed_count": 4,
+          "media_count": 66,
+          "tweet_count": 1041
+        },
+        "username": "AngelPadillaRam",
+        "verified": false
+      },
+      {
+        "id": "1524764097841094660",
+        "name": "J A Z I I",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099634694421913600/46b7mMot_normal.jpg",
+        "public_metrics": {
+          "followers_count": 12964,
+          "following_count": 1195,
+          "like_count": 438808,
+          "listed_count": 444,
+          "media_count": 7066,
+          "tweet_count": 263663
+        },
+        "username": "notjazii",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122442302693986453",
+    "next_token": "b26v89c19zqg8o3juzow6hkreyk05egl0vto611gyo8l9",
+    "oldest_id": "2122426603896779164",
+    "result_count": 25
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "data": [
+    {
+      "author_id": "2016294406173650944",
+      "conversation_id": "2122512346975498748",
+      "created_at": "2026-11-17T15:48:07.000Z",
+      "edit_history_tweet_ids": [
+        "2122718433381138572"
+      ],
+      "id": "2122718433381138572",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ViduAI_official Finally 🥰👏❤️‍🔥",
+      "url": "https://x.com/nextgen0okai/status/2122718433381138572"
+    },
+    {
+      "author_id": "1599358531014217730",
+      "conversation_id": "2122512346975498748",
+      "created_at": "2026-11-17T08:46:29.000Z",
+      "edit_history_tweet_ids": [
+        "2122612327690141761"
+      ],
+      "id": "2122612327690141761",
+      "lang": "lv",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ViduAI_official Go VIDU!!! ❤️",
+      "url": "https://x.com/MaxCasu/status/2122612327690141761"
+    },
+    {
+      "author_id": "1948741185956171776",
+      "conversation_id": "2122512346975498748",
+      "created_at": "2026-11-17T08:01:06.000Z",
+      "edit_history_tweet_ids": [
+        "2122600906004808062"
+      ],
+      "id": "2122600906004808062",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 13,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ViduAI_official blue race car graphic gives the CLI an instant speed vibe",
+      "url": "https://x.com/Seozilla_ai/status/2122600906004808062"
+    },
+    {
+      "author_id": "1845195578134716422",
+      "conversation_id": "2122512346975498748",
+      "created_at": "2026-11-17T02:58:02.000Z",
+      "edit_history_tweet_ids": [
+        "2122524634021339610"
+      ],
+      "id": "2122524634021339610",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 30,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ViduAI_official That's amazing",
+      "url": "https://x.com/youraigirl24/status/2122524634021339610"
+    },
+    {
+      "author_id": "1654027053698781185",
+      "conversation_id": "2122512346975498748",
+      "created_at": "2026-11-17T02:35:33.000Z",
+      "edit_history_tweet_ids": [
+        "2122518976312074709"
+      ],
+      "id": "2122518976312074709",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 23,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ViduAI_official 接続完了🫡",
+      "url": "https://x.com/seiiiiiiiiiiru/status/2122518976312074709"
+    },
+    {
+      "author_id": "1807669255909019648",
+      "conversation_id": "2122512346975498748",
+      "created_at": "2026-11-17T02:09:52.000Z",
+      "edit_history_tweet_ids": [
+        "2122512516324716621"
+      ],
+      "id": "2122512516324716621",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 236,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "🔗 Explore the setup guides: https://t.co/UF5Iiebxwc",
+      "url": "https://x.com/ViduAI_official/status/2122512516324716621"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "id": "2016294406173650944",
+        "name": "NextGen0okai | AI Filmmaker",
+        "username": "nextgen0okai"
+      },
+      {
+        "id": "1599358531014217730",
+        "name": "max casu",
+        "username": "MaxCasu"
+      },
+      {
+        "id": "1948741185956171776",
+        "name": "Seozilla",
+        "username": "Seozilla_ai"
+      },
+      {
+        "id": "1845195578134716422",
+        "name": "Your AI Girl",
+        "username": "youraigirl24"
+      },
+      {
+        "id": "1654027053698781185",
+        "name": "SEIIIRU😈AIを使う映像クリエイター",
+        "username": "seiiiiiiiiiiru"
+      },
+      {
+        "id": "1807669255909019648",
+        "name": "Vidu AI",
+        "username": "ViduAI_official"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122718433381138572",
+    "next_token": "b26v89c19zqg8o3juzow6jp6lsfsy0mfrc1blofpb7gxp",
+    "oldest_id": "2122512516324716621",
+    "result_count": 6
+  }
+}

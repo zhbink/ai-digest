@@ -1,0 +1,671 @@
+{
+  "data": [
+    {
+      "author_id": "1666042809638584320",
+      "created_at": "2026-11-17T00:57:50.000Z",
+      "edit_history_tweet_ids": [
+        "2122494387649167629"
+      ],
+      "id": "2122494387649167629",
+      "in_reply_to_user_id": "1753339277386342400",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122148127520289151",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Alibaba_Qwen 送我1000M token",
+      "url": "https://x.com/ye3465272424459/status/2122494387649167629"
+    },
+    {
+      "author_id": "1980496645839286272",
+      "created_at": "2026-11-17T00:53:06.000Z",
+      "edit_history_tweet_ids": [
+        "2122493195766382998"
+      ],
+      "id": "2122493195766382998",
+      "in_reply_to_user_id": "1753339277386342400",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122148127520289151",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Alibaba_Qwen 百炼按量已是每百万入¥10、出¥30，比 3.8-Max 的¥12/¥36 单价大约只便宜 17%。官方说的任务均价降约 60%，大头是 Work360（自有榜）High 档少用了 35% token，再加上隐式缓存降了 70%。默认开思考的话，账单别按 60% 去预期。",
+      "url": "https://x.com/wCs123123/status/2122493195766382998"
+    },
+    {
+      "author_id": "2118187915427954688",
+      "created_at": "2026-11-17T00:45:52.000Z",
+      "edit_history_tweet_ids": [
+        "2122491376772255761"
+      ],
+      "id": "2122491376772255761",
+      "in_reply_to_user_id": "1753339277386342400",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122148127520289151",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Alibaba_Qwen $1.5/$4.5 per M tokens with a 1M context is the line that matters for small teams. Is the 60%+ lower cost per task measured on agentic coding runs, or across the whole internal eval mix?",
+      "url": "https://x.com/BenXaiX/status/2122491376772255761"
+    },
+    {
+      "author_id": "811824231788855296",
+      "created_at": "2026-11-17T00:36:33.000Z",
+      "edit_history_tweet_ids": [
+        "2122489032496021683"
+      ],
+      "id": "2122489032496021683",
+      "in_reply_to_user_id": "1753339277386342400",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122148127520289151",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Alibaba_Qwen 坐等4f和27b",
+      "url": "https://x.com/rat_233/status/2122489032496021683"
+    },
+    {
+      "author_id": "4147187357",
+      "created_at": "2026-11-17T00:29:25.000Z",
+      "edit_history_tweet_ids": [
+        "2122487236914827549"
+      ],
+      "id": "2122487236914827549",
+      "in_reply_to_user_id": "1753339277386342400",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122148127520289151",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Alibaba_Qwen 成本这部分最值得拆：token 少用约 50% 加上单价下调，才是任务成本降 60% 的关键，单看 $/token 会低估。好奇一个点：Work360 的任务集会公开吗？能按同一任务、同一提示词复算一次完成成本，这个数字才真正能对账。",
+      "url": "https://x.com/anyueyi1/status/2122487236914827549"
+    },
+    {
+      "author_id": "2119080011068321793",
+      "created_at": "2026-11-17T00:05:47.000Z",
+      "edit_history_tweet_ids": [
+        "2122481289064485105"
+      ],
+      "id": "2122481289064485105",
+      "in_reply_to_user_id": "1753339277386342400",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122148127520289151",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Alibaba_Qwen The 58% drop in per-task cost on Work360 is the number that matters most — that's what turns a flagship into something teams can run all day. With 71B active per token and a 1M context, I'm watching for the smaller open-weight Qwen4 models next.",
+      "url": "https://x.com/avasterlinx2lt/status/2122481289064485105"
+    },
+    {
+      "author_id": "107136472",
+      "created_at": "2026-11-16T23:32:10.000Z",
+      "edit_history_tweet_ids": [
+        "2122472829954179211"
+      ],
+      "id": "2122472829954179211",
+      "in_reply_to_user_id": "54577897",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122298208705470508",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@sagewilyam @Alibaba_Qwen @bot @bot x2",
+      "url": "https://x.com/DonJerson/status/2122472829954179211"
+    },
+    {
+      "author_id": "1496751936514965511",
+      "created_at": "2026-11-16T23:16:05.000Z",
+      "edit_history_tweet_ids": [
+        "2122468781331280214"
+      ],
+      "id": "2122468781331280214",
+      "in_reply_to_user_id": "1753339277386342400",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122148127520289151",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Alibaba_Qwen 还是很 6 的",
+      "url": "https://x.com/Ayan_9500/status/2122468781331280214"
+    },
+    {
+      "author_id": "1484301248786735109",
+      "created_at": "2026-11-16T23:06:33.000Z",
+      "edit_history_tweet_ids": [
+        "2122466381451165977"
+      ],
+      "id": "2122466381451165977",
+      "in_reply_to_user_id": "1753339277386342400",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 33,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122148127520289151",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Alibaba_Qwen Hoping smaller Qwen 4 weights follow. For a desk-side reference: on one RTX 3090 (24GB), Qwen3.6 35B-A3B (MoE) runs at 105.7 tok/s drawing 258W, while dense Qwen3.8 27B Q4 does 40.6 tok/s at 350W. An A3B-class Qwen 4 would be a great fit for a single card.",
+      "url": "https://x.com/airi_ai_navi/status/2122466381451165977"
+    },
+    {
+      "author_id": "1709640410899873792",
+      "created_at": "2026-11-16T23:05:24.000Z",
+      "edit_history_tweet_ids": [
+        "2122466090672660970"
+      ],
+      "id": "2122466090672660970",
+      "in_reply_to_user_id": "1753339277386342400",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122148127520289151",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Alibaba_Qwen Thank you !!! All hail Jensen, Fuck Israel!",
+      "url": "https://x.com/ArmandoDisraeli/status/2122466090672660970"
+    },
+    {
+      "author_id": "2109959610312654848",
+      "created_at": "2026-11-16T22:59:51.000Z",
+      "edit_history_tweet_ids": [
+        "2122464694057533581"
+      ],
+      "id": "2122464694057533581",
+      "in_reply_to_user_id": "1753339277386342400",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122148127520289151",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Alibaba_Qwen 终端那项差了 11 分，活多的话先看哪块拖的分。",
+      "url": "https://x.com/Alan131452012/status/2122464694057533581"
+    },
+    {
+      "author_id": "1278250710405009408",
+      "created_at": "2026-11-16T22:38:57.000Z",
+      "edit_history_tweet_ids": [
+        "2122459436665147786"
+      ],
+      "id": "2122459436665147786",
+      "in_reply_to_user_id": "1753339277386342400",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 26,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122148127520289151",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Alibaba_Qwen wen Qwen 4 Flash and 4 27B - that’s  what’s exciting for all of us, not the maxing fuckery",
+      "url": "https://x.com/mrtoktoktok/status/2122459436665147786"
+    },
+    {
+      "author_id": "1000565077941010433",
+      "created_at": "2026-11-16T22:04:30.000Z",
+      "edit_history_tweet_ids": [
+        "2122450766350995855"
+      ],
+      "id": "2122450766350995855",
+      "in_reply_to_user_id": "1753339277386342400",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122148127520289151",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Alibaba_Qwen A 1M-token context at $1.50/$4.50 is the part that changes the math — caching down 70% makes long-context agents actually affordable to run. Pricing it below Qwen3.8-Max while beating it on the boards is a statement.",
+      "url": "https://x.com/InternetMunchy/status/2122450766350995855"
+    },
+    {
+      "author_id": "449167554",
+      "created_at": "2026-11-16T22:02:09.000Z",
+      "edit_history_tweet_ids": [
+        "2122450172609212672"
+      ],
+      "id": "2122450172609212672",
+      "in_reply_to_user_id": "1753339277386342400",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 79,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122148127520289151",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Alibaba_Qwen Is this not downloadable on a local machine?",
+      "url": "https://x.com/BrendanRichelet/status/2122450172609212672"
+    },
+    {
+      "author_id": "449167554",
+      "created_at": "2026-11-16T22:01:19.000Z",
+      "edit_history_tweet_ids": [
+        "2122449966098502041"
+      ],
+      "id": "2122449966098502041",
+      "in_reply_to_user_id": "1815453183424016384",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122148234080760157",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AgentSmithMac @Alibaba_Qwen Does the 27B mean that it can be downloaded on a local machine?",
+      "url": "https://x.com/BrendanRichelet/status/2122449966098502041"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122146248681721856"
+          ]
+        },
+        "author_id": "1753339277386342400",
+        "created_at": "2026-11-16T02:01:55.000Z",
+        "edit_history_tweet_ids": [
+          "2122148127520289151"
+        ],
+        "id": "2122148127520289151",
+        "public_metrics": {
+          "bookmark_count": 3237,
+          "impression_count": 2143006,
+          "like_count": 14027,
+          "quote_count": 1191,
+          "reply_count": 765,
+          "retweet_count": 1510
+        },
+        "text": "📢 Meet Qwen4-Max, your new AI teammate for work, creativity, and discovery!\n\nQwen4-Max is built on a new MoE architecture with native vision and a 1M-token context window.\n\nHighlights:\n- Outperforms Qwen3.8-Max with up to ~50% fewer tokens, while average cost per task drops over https://t.co/2Rlkoc6Dm3"
+      },
+      {
+        "author_id": "54577897",
+        "created_at": "2026-11-16T11:58:18.000Z",
+        "edit_history_tweet_ids": [
+          "2122298208705470508"
+        ],
+        "id": "2122298208705470508",
+        "in_reply_to_user_id": "1753339277386342400",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122148127520289151",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Alibaba_Qwen @bot how much would it cost in hardware to run something like that locally?"
+      },
+      {
+        "author_id": "1815453183424016384",
+        "created_at": "2026-11-16T02:02:21.000Z",
+        "edit_history_tweet_ids": [
+          "2122148234080760157"
+        ],
+        "id": "2122148234080760157",
+        "in_reply_to_user_id": "1753339277386342400",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 32432,
+          "like_count": 430,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122148127520289151",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Alibaba_Qwen Qwen4-27B please!"
+      }
+    ],
+    "users": [
+      {
+        "id": "1666042809638584320",
+        "name": "光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666047468679856129/21CDCrgR_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 15,
+          "like_count": 544,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "ye3465272424459",
+        "verified": false
+      },
+      {
+        "id": "1980496645839286272",
+        "name": "WCS · AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097927257813868545/glB_aWzv_normal.jpg",
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 563,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 890
+        },
+        "username": "wCs123123",
+        "verified": false
+      },
+      {
+        "id": "2118187915427954688",
+        "name": "Ben",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 22
+        },
+        "username": "BenXaiX",
+        "verified": false
+      },
+      {
+        "id": "811824231788855296",
+        "name": "33 2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1335940958450376707/eP19tF69_normal.jpg",
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 203,
+          "like_count": 2518,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1067
+        },
+        "username": "rat_233",
+        "verified": false
+      },
+      {
+        "id": "4147187357",
+        "name": "RM",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117721623105089537/LlVoQYpq_normal.jpg",
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 8,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 217
+        },
+        "username": "anyueyi1",
+        "verified": false
+      },
+      {
+        "id": "2119080011068321793",
+        "name": "Ava Sterling",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119130908104257536/j5xz1FvC_normal.jpg",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 93
+        },
+        "username": "avasterlinx2lt",
+        "verified": false
+      },
+      {
+        "id": "107136472",
+        "name": "Jerson A Mendez",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1475497535934537739/uqQYfABi_normal.jpg",
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 384,
+          "like_count": 7713,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 1622
+        },
+        "username": "DonJerson",
+        "verified": false
+      },
+      {
+        "id": "1496751936514965511",
+        "name": "Ayan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1496752143885561863/EvDNZQh3_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 959,
+          "like_count": 421,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 516
+        },
+        "username": "Ayan_9500",
+        "verified": false
+      },
+      {
+        "id": "1484301248786735109",
+        "name": "あいり🤖AI実用",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2121198057979318272/Mzlprc1M_normal.jpg",
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 83,
+          "like_count": 511,
+          "listed_count": 3,
+          "media_count": 133,
+          "tweet_count": 646
+        },
+        "username": "airi_ai_navi",
+        "verified": false
+      },
+      {
+        "id": "1709640410899873792",
+        "name": "Nathaniel Sochi - Humble Painter",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944979022901104640/Ve5iCGOW_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 722,
+          "like_count": 75039,
+          "listed_count": 9,
+          "media_count": 1350,
+          "tweet_count": 96269
+        },
+        "username": "ArmandoDisraeli",
+        "verified": false
+      },
+      {
+        "id": "2109959610312654848",
+        "name": "Alan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109960815222890496/VJhRA3ew_normal.jpg",
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 104,
+          "like_count": 532,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 196
+        },
+        "username": "Alan131452012",
+        "verified": false
+      },
+      {
+        "id": "1278250710405009408",
+        "name": "Mr TokTokTok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082888503969619968/2UczxfKM_normal.jpg",
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 163,
+          "like_count": 459,
+          "listed_count": 3,
+          "media_count": 23,
+          "tweet_count": 357
+        },
+        "username": "mrtoktoktok",
+        "verified": false
+      },
+      {
+        "id": "1000565077941010433",
+        "name": "Internet Munchies",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1325316225979703299/JkfUs7jJ_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1746,
+          "following_count": 20,
+          "like_count": 25,
+          "listed_count": 2,
+          "media_count": 278,
+          "tweet_count": 422
+        },
+        "username": "InternetMunchy",
+        "verified": false
+      },
+      {
+        "id": "449167554",
+        "name": "Brendan Richelet 🧠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950274449229447169/HsM4w99u_normal.jpg",
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 529,
+          "like_count": 2396,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 2723
+        },
+        "username": "BrendanRichelet",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122494387649167629",
+    "next_token": "b26v89c19zqg8o3juzow6hld4dtgc0igdxqgwo1b79dod",
+    "oldest_id": "2122449966098502041",
+    "result_count": 15
+  }
+}

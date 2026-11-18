@@ -1,0 +1,640 @@
+{
+  "data": [
+    {
+      "author_id": "2116960672265211904",
+      "created_at": "2026-11-16T07:10:35.000Z",
+      "edit_history_tweet_ids": [
+        "2122225803085611015"
+      ],
+      "id": "2122225803085611015",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Nate Herk's Instagram reel says Cloudflare just open-sourced a free AI skill that finds security holes in vibe-coded apps, that it found over 7,000 issues in Cloudflare's own code, and that it crossed 20,000 GitHub stars.\n\nWe checked it.\n\nThe skill is real, free to install and",
+      "url": "https://x.com/theindeai/status/2122225803085611015"
+    },
+    {
+      "author_id": "1908014421538123779",
+      "created_at": "2026-11-16T07:00:01.000Z",
+      "edit_history_tweet_ids": [
+        "2122223146854162436"
+      ],
+      "id": "2122223146854162436",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 121,
+        "like_count": 3,
+        "quote_count": 1,
+        "reply_count": 5,
+        "retweet_count": 0
+      },
+      "text": "DeepSeek open-sourced\nits chat client\n\nthe repo is called\nchat-demo\n\nit already has\nover 2,000\nGitHub stars\n\nI thought\nit would be\na thin API demo\n\nit is a\nfull chat front end\n\nis a demo\nthe product now?",
+      "url": "https://x.com/bb833dong/status/2122223146854162436"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2121967051812265984"
+        ]
+      },
+      "author_id": "2003121512690421760",
+      "created_at": "2026-11-16T06:30:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122215592497492278"
+      ],
+      "id": "2122215592497492278",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 100,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "Google has open-sourced an AI coding workflow that thousands of Googlers reportedly use every day to ship production code. The unusual part is that the AI reviewers deliberately have no memory of the conversations that produced the design.\n\nIt's called the Elephant-Goldfish Model https://t.co/mtFliGlllc",
+      "url": "https://x.com/agenticgirl/status/2122215592497492278"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122215535916261376"
+        ]
+      },
+      "author_id": "1282947920409448450",
+      "created_at": "2026-11-16T06:29:53.000Z",
+      "edit_history_tweet_ids": [
+        "2122215562231390545"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 217,
+            "start": 194,
+            "url": "https://t.co/aq7TH3sZar"
+          }
+        ]
+      },
+      "id": "2122215562231390545",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 781,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121830600009236863",
+          "type": "quoted"
+        }
+      ],
+      "text": "I have a  Rex plugin to keep an eye on Leaf’s GitHub stars. We’re so close to 300! If you haven’t already, please consider starring the repo. :)\n\nhttps://t.co/Dztr9q72P1 https://t.co/6p5UIZMitd https://t.co/aq7TH3sZar",
+      "url": "https://x.com/dipxsyy/status/2122215562231390545"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122192495388094464"
+        ]
+      },
+      "author_id": "1527316617117712385",
+      "created_at": "2026-11-16T04:58:14.000Z",
+      "edit_history_tweet_ids": [
+        "2122192499418747069"
+      ],
+      "id": "2122192499418747069",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "你用 AI 做的網頁，別人一眼就看得出來。\n紫色漸層、圓角卡片、一排 emoji 標題。\n\nGitHub 這個月最熱的 repo 裡，好幾個就是專門治這種「AI 味」的。整理 4 個免費開源的，先收藏：\n\n1. Hallmark（MIT）\n反 AI slop 的設計 skill，支援 Claude Code、Cursor、Codex\n適合：用 AI https://t.co/NMu4qqSn45",
+      "url": "https://x.com/Bruce32099549/status/2122192499418747069"
+    },
+    {
+      "author_id": "1908014421538123779",
+      "created_at": "2026-11-16T04:00:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122177844638077098"
+      ],
+      "id": "2122177844638077098",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 35,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "instagram-agent-skill\nis 13 Claude skills\n\nthey cover\nfinding a hook,\nwriting a Reel script,\nthe caption,\nand replies\nor DMs\n\nthe repo is\nabout two months old\n\nmore than\n6,400 stars\nand 1,200 forks\n\nit just hit\nGitHub trending\n\nis the account\nstill a person,\nor a pack\nof skills?",
+      "url": "https://x.com/bb833dong/status/2122177844638077098"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122177453410091008",
+          "3_2122177459731013632"
+        ]
+      },
+      "author_id": "1567394212295090177",
+      "created_at": "2026-11-16T03:58:30.000Z",
+      "edit_history_tweet_ids": [
+        "2122177466232140278"
+      ],
+      "id": "2122177466232140278",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 39,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Hugging Face dan Github adalah surganya bagi AI enthusiast.\n\nKarena di dua tempat itu loe bisa nemuin tools yang keren, berguna dan terkadang ada sesuatu yang berbayar, tapi di sana malah gratis.\n\nhampir semua yang viral di timeline itu udah nongkrong di GitHub trending atau https://t.co/1V1oGlMan3",
+      "url": "https://x.com/0xFunky1/status/2122177466232140278"
+    },
+    {
+      "author_id": "1471115361600737282",
+      "created_at": "2026-11-16T03:34:07.000Z",
+      "edit_history_tweet_ids": [
+        "2122171329398853817"
+      ],
+      "id": "2122171329398853817",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Fastest-rising GitHub repos on Trendshift right now (Nov 16, daily) 🚀 Rank per Trendshift, stars from GitHub:\n\n#1 hitkeeen/blender-ai-mcp-addon (1.2K⭐) AI assistant + MCP server for Blender\n#2 dream-num/univer (25.9K⭐) Office SDK: docs/sheets editing for people and AI agents",
+      "url": "https://x.com/h___t____n/status/2122171329398853817"
+    },
+    {
+      "article": {
+        "cover_media": "3_2122164771839504384",
+        "entities": {
+          "urls": [
+            {
+              "text": "skills.sh"
+            },
+            {
+              "text": "SuedeAI.directory"
+            },
+            {
+              "text": "skills.sh"
+            },
+            {
+              "text": "https://jasoncolapietro.substack.com/p/the-ai-skills-taking-off-right-now"
+            },
+            {
+              "text": "https://suedeai.directory/trailofbits/skills/trailmark-finding-triage/"
+            },
+            {
+              "text": "https://suedeai.directory/vercel-labs/skills/find-skills/"
+            },
+            {
+              "text": "https://github.com/mattpocock/skills"
+            },
+            {
+              "text": "https://suedeai.directory/topics/browser-agents/"
+            },
+            {
+              "text": "https://suedeai.directory/coreyhaines31/marketingskills/revops/"
+            },
+            {
+              "text": "https://github.com/Moh4696/cinematic-skill"
+            },
+            {
+              "text": "https://suedeai.directory/submit/"
+            },
+            {
+              "text": "https://suedeai.directory/heygen-com/hyperframes/hyperframes-cli/"
+            },
+            {
+              "text": "https://suedeai.directory/vercel-labs/agent-browser/"
+            },
+            {
+              "text": "https://suedeai.directory/anthropics/skills/"
+            },
+            {
+              "text": "https://suedeai.directory/methodology/"
+            },
+            {
+              "text": "https://suedeai.directory/trailofbits/skills/codeql/"
+            },
+            {
+              "text": "https://suedeai.directory/coreyhaines31/marketingskills/schema/"
+            },
+            {
+              "text": "https://suedeai.directory/heygen-com/hyperframes/"
+            },
+            {
+              "text": "https://suedeai.directory/top/"
+            },
+            {
+              "text": "https://suedeai.directory/heygen-com/hyperframes/media-use/"
+            },
+            {
+              "text": "https://medium.com/p/e1da76ed2625"
+            },
+            {
+              "text": "https://suedeai.directory/trailofbits/skills/fp-check/"
+            },
+            {
+              "text": "https://suedeai.directory/danjdewhurst/story-skills/plot-structure/"
+            },
+            {
+              "text": "https://suedeai.directory/heygen-com/hyperframes/hyperframes/"
+            },
+            {
+              "text": "https://github.com/op7418/guizang-game-skill"
+            },
+            {
+              "text": "https://suedeai.directory/pbakaus/impeccable/"
+            },
+            {
+              "text": "https://suedeai.directory/coreyhaines31/marketingskills/seo-audit/"
+            },
+            {
+              "text": "https://jasoncolapietro.substack.com/subscribe"
+            },
+            {
+              "text": "https://suedeai.directory/coreyhaines31/marketingskills/aso/"
+            },
+            {
+              "text": "https://github.com/threerocks/article2media"
+            },
+            {
+              "text": "https://suedeai.directory/topics/"
+            },
+            {
+              "text": "https://github.com/alexeyw/lot-map"
+            },
+            {
+              "text": "https://suedeai.directory/finder/"
+            },
+            {
+              "text": "https://suedeai.directory/top/"
+            },
+            {
+              "text": "https://suedeai.directory/trailofbits/skills/codeql/"
+            },
+            {
+              "text": "https://suedeai.directory/vercel-labs/agent-browser/agent-browser/"
+            },
+            {
+              "text": "https://suedeai.ai/blog/ai-skills-taking-off-weekly-2026-11-15"
+            },
+            {
+              "text": "https://suedeai.directory/coreyhaines31/marketingskills/co-marketing/"
+            },
+            {
+              "text": "https://github.com/JasonColapietro/suede-creator-skills"
+            },
+            {
+              "text": "https://github.com/agentes-chat/agentes-chat"
+            },
+            {
+              "text": "https://suedeai.directory/topics/pdf/"
+            },
+            {
+              "text": "https://suedeai.directory/coreyhaines31/marketingskills/cold-email/"
+            },
+            {
+              "text": "https://github.com/JDhruv14/line-art-animation"
+            },
+            {
+              "text": "https://suedeai.directory/stacks/"
+            },
+            {
+              "text": "https://suedeai.directory/topics/security-auditing/"
+            },
+            {
+              "text": "https://agents.suedeai.ai/"
+            },
+            {
+              "text": "https://github.com/cloudflare/security-audit-skill"
+            },
+            {
+              "text": "https://suedeai.directory/coreyhaines31/marketingskills/cro/"
+            },
+            {
+              "text": "https://suedeai.directory/"
+            },
+            {
+              "text": "https://github.com/Dodaios/ste80-humanizer"
+            },
+            {
+              "text": "https://suedeai.directory/pbakaus/impeccable/impeccable/"
+            }
+          ]
+        },
+        "media_entities": [
+          "3_2122165107010437120",
+          "3_2122165107010457600",
+          "3_2122165107090186240",
+          "3_2122165107304132608"
+        ],
+        "plain_text": "The weekly AI agent and skills directory update · November 15, 2026\nEight businesses to start today. The tools are here. Build something people need.\nThis week's Suede AI Rising Skills brings you the breakout repos, the skills pulling serious install numbers, and eight concrete ways to turn them into a business. Pick a problem. Build the workflow. Put an offer in front of a customer.\nBuilding with Claude Code, Codex or Cursor? This is your starting lineup. Every pick links straight to the project or its Suede assessment. Less hunting. More building.\nThis edition in 60 seconds\nSeven breakout repositories: private agent workspaces, live maps of agent activity, animated websites, video production and content repurposing.\nSecurity is surging: Cloudflare's security-audit-skill leads the recorded weekly star gains, while security-auditing skills show the strongest topic growth in the saved install data.\nVercel and HeyGen dominate the top five recorded weekly skill installs.\n8 businesses to start today: from GEO audits and lead qualification to landing-page sprints and short-form video production.\nFive A-grade picks: skills for partnerships, app-store optimization, security analysis and storytelling.\nSeven breakout repos. Seven ways to build something better.\nSeven picks from our weekly breakout watch: projects created between November 8 and November 15, ordered by recorded GitHub stars in our November 15 snapshot.\n1. agentes-chat · 1,414 stars\nagentes-chat/agentes-chat\nA self-hosted workspace where people and AI agents share channels and direct messages. Bring the work into one shared conversation instead of scattering it across individual agent sessions.\nBuild with it: set up a private agent workspace for a team. Package the onboarding and maintenance around it. Sell the working setup, not another tool they have to figure out.\n2. lot-map · 840 stars\nalexeyw/lot-map\nA live visual map of Claude Code's activity, including tool calls, hooks, skills and subagents.\nPut it to work: make multi-agent workflows visible. Show clients what ran, trace what happened and debug the workflow without burying everyone in a wall of logs.\n3. line-art-animation · 778 stars\nJDhruv14/line-art-animation\nA Claude skill for animated line-art scenes and characters.\nBuild with it: put an animated explanation of the product right on its landing page. Show the thing working. Give the visitor something better than another generic AI hero image.\n4. ste80-humanizer · 621 stars\nDodaios/ste80-humanizer\nA writing skill aimed at removing familiar AI-writing patterns and producing clearer technical English.\nPut it to work: clean up the AI-assisted drafts piling up across your agency. Cut the stock phrasing, sharpen the technical writing and keep the facts and the writer's voice intact.\n5. cinematic-skill · 421 stars\nMoh4696/cinematic-skill\nCode-driven narrated films that coordinate camera movement, images, maps and cards with a voice track.\nBuild with it: product explainers, research summaries and launch videos with visuals that actually explain the idea. Make the camera, maps and narration work together.\n6. guizang-game-skill · 343 stars\nop7418/guizang-game-skill\nA skill for building playable 3D browser action games, with generated assets and a single-HTML-file delivery format.\nBuild with it: branded mini-games for launches, events and campaigns. Give people something to play with instead of another form to fill out.\n7. article2media · 316 stars\nthreerocks/article2media\nRepurposes an article or transcript into formats including carousels, magazine-style graphics, WeChat layouts and voiced short videos.\nBuild with it: a recurring content service that turns one strong source piece into a full set of platform-ready assets. Adapt the idea to each format. Stop copying the same paragraph everywhere.\nThe big repos are moving too\nThe recorded weekly GitHub star gains:\nCloudflare security-audit-skill: +6,750\nMatt Pocock's skills: +6,689\nAnthropic skills: +5,780\nImpeccable: +4,634\nVercel agent-browser: +4,317\nSecurity. Development workflows. Design. Browser execution. That is where these star gains are landing. Take the capabilities behind the numbers and put them into something your customers can use.\nWhat builders are installing right now\nThe top five skills in the final recorded week of the November 15 skills.sh snapshot:\nfind-skills — 110,096 recorded weekly installs; Suede score 81 · B\nmedia-use — 104,156 recorded weekly installs; Suede score 80 · B\nagent-browser — 103,297 recorded weekly installs; Suede score 75 · C\nhyperframes-cli — 103,285 recorded weekly installs; Suede score 77 · C\nhyperframes — 103,215 recorded weekly installs; Suede score 80 · B\nOver 100,000 recorded weekly installs for every skill in this top five. We put the Suede score right beside the install count so you can see both the traction and the assessment before choosing your stack.\nPopular and highly graded are not the same thing. Agent-browser recorded 103,297 weekly installs and carries a 75 · C in our assessment snapshot. CodeQL carries a 92 · A. They do different jobs; choose for the task, then check the assessment. An install count tells you what people are trying, not whether it fits your workflow.\nExplore the full leaderboard →\nSecurity installs jumped 168%. Here is the growth.\nComparing the latest recorded install week with the preceding week:\nSecurity auditing and review: +168%, reaching 105,927 weekly installs.\nBrowser agents and computer use: +19%, reaching 103,828.\nPDF workflows: +4%, reaching 4,309.\nSecurity takes the lead by a mile in this snapshot. Building software for clients? Make pre-release review part of the work: find the issue, investigate it and give the developer a clear next step.\n8 businesses to start today!\nYou have the tools. Now give them a job worth paying for. Here are eight offers to build, package and put in front of customers.\nChoose your starting point with four questions: Who needs the result? Which tools cover the job? What still needs your judgment? Who will buy it? Start with the offer you can demonstrate and deliver best.\n1. Launch a GEO and AI-visibility audit service\nFind what stops AI search from understanding a business. Turn the findings into a prioritized fix list the owner can act on. Start with seo-audit and schema.\nThe offer: an audit, a prioritized action plan and clearer website information for search engines and AI agents. Give the owner the next steps, not a pile of jargon.\n2. Build a lead-qualification service\nTurn inbound enquiries into useful sales briefs: what the prospect needs, whether they're a fit and what the next action should be. Start with revops.\nThe offer: turn a messy inbox into a sales-ready brief for each lead. Needs, fit, next action. Get the team out of sorting mode and into useful conversations.\n3. Take repetitive finance admin off the team\nPick one job: transaction categorization, document collection or preparing exceptions for review. Build that workflow and make it repeatable.\nThe offer: organized records and an exception queue ready for review. Nail one recurring task first. That is a service you can explain, demonstrate and deliver.\n4. Turn support chaos into a service\nOrganize incoming tickets by issue and urgency, prepare relevant context and draft the next response.\nThe offer: a prioritized queue with context and draft responses ready to review. Give the support team a head start on every ticket.\n5. Package pre-launch security reviews\nBuild a pre-launch review service around fp-check and CodeQL, with an experienced reviewer evaluating the findings.\nThe offer: a clear findings report with specific investigation and fix priorities. Make it useful to the developer who has to act on it.\n6. Start a short-form video production service\nBuild a repeatable production workflow with Hyperframes for product explainers, announcements and educational clips.\nThe offer: a recurring video series built around the client's products and expertise. Consistent visuals. Specific ideas. A recognizable style across the whole series.\n7. Sell better prospect research and outreach\nCombine prospect research with cold-email to prepare specific, relevant outreach.\nThe offer: researched prospects and outreach that speaks to their actual business. Show why the fit makes sense. Give the recipient a reason to care.\n8. Launch a landing-page sprint offer\nPair Impeccable with CRO for focused landing-page work.\nThe offer: one focused landing page with a clear offer and a working conversion path. Define the audience and the action. Build the page around both. Ship it.\nExplore Suede AI Agent Studio →\nPick your stack. Give it a real job.\nSEO + GEO: seo-audit → schema. Find the website's problems, then structure its information more clearly.\nLead operations: revops + cold-email. Organize prospect information and prepare outreach around a specific offer.\nLanding pages: Impeccable + CRO. Pair the design work with a clear audience, offer and conversion path.\nSecurity review: CodeQL → fp-check → Trailmark finding triage. Analyze the code, check findings and investigate reachability with a reviewer.\nVideo production: Hyperframes + plot structure. Shape the story and build the visual sequence around it.\nThese are task stacks to assemble around your workflow. Pick one, run a sample and judge the output against the job.\nFive A-grade skills to put to work\nCo-marketing · 90: plan partnerships and joint campaigns.\nASO · 90: work on App Store and Google Play listing optimization.\nCodeQL · 92: analyze code for security vulnerabilities.\nTrailmark finding triage · 91: investigate a security finding with reachability context.\nPlot structure · 90: develop story arcs, pacing and structure.\nStop collecting repos. Start building.\nBrowse by topic, compare top skills, explore stacks or use the directory finder from your own agent.\nTry asking it: “Find skills for the work I actually do: GEO, sales, video and website design. Show me the strongest options and explain why.”\nPick one of the eight businesses. Build a sample. Show a potential customer what it does. That is your next move, not another hundred saved repositories.\nAt Suede AI, this connects directly to our SEO, GEO and AI development work: make a business easier to find, make its offer easier to understand and build the systems that turn interest into action. The skills are useful when they move that work forward.\nBuilt something worth including? Submit it to Suede AI →\nFind your next stack at SuedeAI.directory. If the directory helps you build, give the repo a star on GitHub.\nSubscribe to Rising Skills for the next weekly update.\nJason Colapietro Founder, Suede AI\n*Edition data: November 15, 2026. Installation rankings use the last recorded week in the saved skills.sh history. Quality scores use the directory's dated assessment snapshot. Repository star figures use the saved GitHub snapshots. Read the scoring methodology.*\nRead this edition on Substack or Medium. Originally published on Suede AI.\n \n",
+        "preview_text": "The weekly AI agent and skills directory update · November 15, 2026\nEight businesses to start today. The tools are here. Build something people need.\nThis week's Suede AI Rising Skills brings you the",
+        "title": "The AI Skills Taking Off Right Now: This Week’s Biggest Repos, Breakouts and Business Ideas"
+      },
+      "author_id": "122258113",
+      "created_at": "2026-11-16T03:12:28.000Z",
+      "edit_history_tweet_ids": [
+        "2122165880041648551"
+      ],
+      "id": "2122165880041648551",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 499,
+        "like_count": 7,
+        "quote_count": 1,
+        "reply_count": 4,
+        "retweet_count": 3
+      },
+      "text": "https://t.co/6xcUP9joNq",
+      "url": "https://x.com/Johnnysuede/status/2122165880041648551"
+    },
+    {
+      "author_id": "2180560289",
+      "created_at": "2026-11-16T01:01:50.000Z",
+      "edit_history_tweet_ids": [
+        "2122133004533293238"
+      ],
+      "id": "2122133004533293238",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "🚨 Night Report: Tesla, NVDA, Starlink, Solana, Bitcoin, Claude, OpenClaw &amp; Hermes (Nov 15, 2026) 🌙\n\n🔋 Tesla: $390.22 (-1.82%, Fri close 4:00 PM ET) — Tesla is reportedly inviting select customers to order a Cybercab at $29,990, but it needs a $299/mo autonomy subscription to",
+      "url": "https://x.com/DevilDogSaga/status/2122133004533293238"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2121967051812265984",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXK9ynxaYAAjbm-.jpg",
+        "width": 1232
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2122215535916261376",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXOfyTMaoAAS4wG.jpg",
+        "width": 1920
+      },
+      {
+        "height": 900,
+        "media_key": "3_2122192495388094464",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXOK1KibcAAn9Ys.jpg",
+        "width": 1600
+      },
+      {
+        "height": 554,
+        "media_key": "3_2122177453410091008",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXN9JmzaAAANW6G.jpg",
+        "width": 554
+      },
+      {
+        "height": 533,
+        "media_key": "3_2122177459731013632",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXN9J-WboAAgiWU.jpg",
+        "width": 576
+      },
+      {
+        "height": 432,
+        "media_key": "3_2122164771839504384",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXNxncRXcAApYpJ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2122165107010437120",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXNx684WAAAGeGV.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2122165107010457600",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXNx684WUAAOtNe.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1100,
+        "media_key": "3_2122165107090186240",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXNx69LW4AAQ7D7.jpg",
+        "width": 1200
+      },
+      {
+        "height": 720,
+        "media_key": "3_2122165107304132608",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXNx69-XcAAV346.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "author_id": "1282947920409448450",
+        "created_at": "2026-11-15T05:00:11.000Z",
+        "edit_history_tweet_ids": [
+          "2121830600009236863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "end": 130,
+              "start": 107,
+              "url": "https://t.co/9MqU035LfM"
+            }
+          ]
+        },
+        "id": "2121830600009236863",
+        "public_metrics": {
+          "bookmark_count": 286,
+          "impression_count": 28704,
+          "like_count": 142,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121816209343877515",
+            "type": "quoted"
+          }
+        ],
+        "text": "If you're a Rex user, I'd really love for you to give https://t.co/mqCd96cuEc a try. I bet you'll love it! https://t.co/9MqU035LfM"
+      }
+    ],
+    "users": [
+      {
+        "id": "2116960672265211904",
+        "name": "The Independent AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116962800538972160/IyG-mPuF_normal.png",
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 35,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 19
+        },
+        "username": "theindeai",
+        "verified": false
+      },
+      {
+        "id": "1908014421538123779",
+        "name": "lorde",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908880021143588864/xdlioiV__normal.jpg",
+        "public_metrics": {
+          "followers_count": 5235,
+          "following_count": 5172,
+          "like_count": 12404,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 13119
+        },
+        "username": "bb833dong",
+        "verified": false
+      },
+      {
+        "id": "2003121512690421760",
+        "name": "Sandhya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070871958519255040/_1ZRwhRv_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1455,
+          "following_count": 150,
+          "like_count": 1408,
+          "listed_count": 24,
+          "media_count": 327,
+          "tweet_count": 1103
+        },
+        "username": "agenticgirl",
+        "verified": false
+      },
+      {
+        "id": "1282947920409448450",
+        "name": "Deepanshu Mishra",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084013187356393472/hG0_abwq_normal.jpg",
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 554,
+          "like_count": 7077,
+          "listed_count": 8,
+          "media_count": 390,
+          "tweet_count": 2818
+        },
+        "username": "dipxsyy",
+        "verified": false
+      },
+      {
+        "id": "1527316617117712385",
+        "name": "Bruce｜一人＋AI團隊創業",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108795035168694273/rDC3xtOt_normal.jpg",
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 22,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 303
+        },
+        "username": "Bruce32099549",
+        "verified": false
+      },
+      {
+        "id": "1567394212295090177",
+        "name": "FUNKY",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104781665994489856/nveajJo__normal.jpg",
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 260,
+          "like_count": 529,
+          "listed_count": 1,
+          "media_count": 407,
+          "tweet_count": 2864
+        },
+        "username": "0xFunky1",
+        "verified": false
+      },
+      {
+        "id": "1471115361600737282",
+        "name": "Nam Hoàng Tuấn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653773785206775808/wApzOTim_normal.jpg",
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 0,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 366
+        },
+        "username": "h___t____n",
+        "verified": false
+      },
+      {
+        "id": "122258113",
+        "name": "Johnny Suede",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001391464622829568/QXqmOi3D_normal.jpg",
+        "public_metrics": {
+          "followers_count": 2847,
+          "following_count": 2343,
+          "like_count": 83736,
+          "listed_count": 49,
+          "media_count": 581,
+          "tweet_count": 28909
+        },
+        "username": "Johnnysuede",
+        "verified": false
+      },
+      {
+        "id": "2180560289",
+        "name": "Phil | DevilDog Saga",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097640949673607169/THWtYT2d_normal.jpg",
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 419,
+          "like_count": 3042,
+          "listed_count": 6,
+          "media_count": 581,
+          "tweet_count": 2096
+        },
+        "username": "DevilDogSaga",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122225803085611015",
+    "next_token": "b26v89c19zqg8o3juzow6b6vmswe6blhbixu6t9vwpvgd",
+    "oldest_id": "2122133004533293238",
+    "result_count": 10
+  }
+}

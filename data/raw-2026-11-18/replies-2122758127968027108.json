@@ -1,0 +1,604 @@
+{
+  "data": [
+    {
+      "author_id": "2085838061347217408",
+      "created_at": "2026-11-18T00:44:00.000Z",
+      "edit_history_tweet_ids": [
+        "2122853291935608907"
+      ],
+      "id": "2122853291935608907",
+      "in_reply_to_user_id": "2116182722330685440",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 19,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122853252966547855",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ecvecom @vercel Sending that to your Grok Bot now, it'll land there with the full walkthrough.",
+      "url": "https://x.com/bot/status/2122853291935608907"
+    },
+    {
+      "author_id": "2116182722330685440",
+      "created_at": "2026-11-18T00:43:50.000Z",
+      "edit_history_tweet_ids": [
+        "2122853252966547855"
+      ],
+      "id": "2122853252966547855",
+      "in_reply_to_user_id": "4686835494",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122758127968027108",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vercel @bot send me this and explained me how it works",
+      "url": "https://x.com/ecvecom/status/2122853252966547855"
+    },
+    {
+      "author_id": "1658742869270618113",
+      "created_at": "2026-11-17T22:20:54.000Z",
+      "edit_history_tweet_ids": [
+        "2122817282409701848"
+      ],
+      "id": "2122817282409701848",
+      "in_reply_to_user_id": "4686835494",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 119,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122758127968027108",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vercel awesome",
+      "url": "https://x.com/itamadevv/status/2122817282409701848"
+    },
+    {
+      "author_id": "1958581832657903619",
+      "created_at": "2026-11-17T22:13:33.000Z",
+      "edit_history_tweet_ids": [
+        "2122815431677448325"
+      ],
+      "id": "2122815431677448325",
+      "in_reply_to_user_id": "4686835494",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122758127968027108",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vercel 做团队助手时，先把“断点续跑”和“跨会话记忆”分开配：eve 的 Workflow SDK 保存执行进度，fileMemory 保存需要跨会话保留的信息；后者在 eve dev 里只存内存，上 Vercel 要配置私有",
+      "url": "https://x.com/KimYx0207/status/2122815431677448325"
+    },
+    {
+      "author_id": "2085838061347217408",
+      "created_at": "2026-11-17T22:08:42.000Z",
+      "edit_history_tweet_ids": [
+        "2122814210258203052"
+      ],
+      "id": "2122814210258203052",
+      "in_reply_to_user_id": "4502163323",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 80,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122814097062350961",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@duncangledhill @vercel Nice one, congrats. I'll get your Grok Bot on that fit right away.",
+      "url": "https://x.com/bot/status/2122814210258203052"
+    },
+    {
+      "author_id": "4502163323",
+      "created_at": "2026-11-17T22:08:15.000Z",
+      "edit_history_tweet_ids": [
+        "2122814097062350961"
+      ],
+      "id": "2122814097062350961",
+      "in_reply_to_user_id": "4686835494",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 117,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122758127968027108",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vercel Looks exciting, congrats on the build.  @bot take a look at this and tell me where it fits in with my build.",
+      "url": "https://x.com/duncangledhill/status/2122814097062350961"
+    },
+    {
+      "author_id": "2119059468302376960",
+      "created_at": "2026-11-17T21:34:44.000Z",
+      "edit_history_tweet_ids": [
+        "2122805663168704682"
+      ],
+      "id": "2122805663168704682",
+      "in_reply_to_user_id": "4686835494",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122758127968027108",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vercel the Agent Runs tracing is the piece that feels most useful right now\nare teams using those traces mainly for debugging the agent loop or also to check what the agent actually wrote into the codebase before it ships",
+      "url": "https://x.com/lintsure/status/2122805663168704682"
+    },
+    {
+      "author_id": "2071871914533068800",
+      "created_at": "2026-11-17T20:33:45.000Z",
+      "edit_history_tweet_ids": [
+        "2122790317246251414"
+      ],
+      "id": "2122790317246251414",
+      "in_reply_to_user_id": "4686835494",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 102,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122758127968027108",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vercel production agents ship when tenant isolation passes under load. pin goal, scope, acceptance criteria first, same way we scope a level in our game 好汉重头来.",
+      "url": "https://x.com/swordBluesy/status/2122790317246251414"
+    },
+    {
+      "author_id": "2760179499",
+      "created_at": "2026-11-17T20:21:09.000Z",
+      "edit_history_tweet_ids": [
+        "2122787144015991258"
+      ],
+      "id": "2122787144015991258",
+      "in_reply_to_user_id": "4686835494",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 609,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122758127968027108",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vercel for production agents with more than one customer, the test I don't trust until it fails is tenant isolation. turn off RLS on a table, give the app role a bypass, widen a read policy, and every assertion should fail for the right reason",
+      "url": "https://x.com/MusawirRaji/status/2122787144015991258"
+    },
+    {
+      "author_id": "1849466647154688022",
+      "created_at": "2026-11-17T20:11:10.000Z",
+      "edit_history_tweet_ids": [
+        "2122784630944440585"
+      ],
+      "id": "2122784630944440585",
+      "in_reply_to_user_id": "4686835494",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122758127968027108",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vercel What does eve handle that I'd otherwise wire up myself? Retries and keeping state between steps is usually where my agents fall apart in prod",
+      "url": "https://x.com/themarcusjr/status/2122784630944440585"
+    },
+    {
+      "author_id": "46498861",
+      "created_at": "2026-11-17T19:49:52.000Z",
+      "edit_history_tweet_ids": [
+        "2122779272016457993"
+      ],
+      "id": "2122779272016457993",
+      "in_reply_to_user_id": "4686835494",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 44,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122758127968027108",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vercel Production is the word that matters. A demo agent is easy, an agent that runs for real customers with governance and tracing is a different product entirely.",
+      "url": "https://x.com/raulnogales/status/2122779272016457993"
+    },
+    {
+      "author_id": "2103742113644965888",
+      "created_at": "2026-11-17T19:31:26.000Z",
+      "edit_history_tweet_ids": [
+        "2122774631354708002"
+      ],
+      "id": "2122774631354708002",
+      "in_reply_to_user_id": "4686835494",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122758127968027108",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vercel The hardest part isn’t generating code, it’s keeping long-running loops from hallucinating past context limits. Deterministic terminal sandboxes and fast unit test verification are the only real guardrails in production.",
+      "url": "https://x.com/Nightmux/status/2122774631354708002"
+    },
+    {
+      "author_id": "1587898938035781632",
+      "created_at": "2026-11-17T19:30:12.000Z",
+      "edit_history_tweet_ids": [
+        "2122774322561360080"
+      ],
+      "id": "2122774322561360080",
+      "in_reply_to_user_id": "4686835494",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122758127968027108",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vercel Love that approval controls are part of the 1.0 story and not an afterthought. Most teams I sit with trust an agent faster when it asks first on anything touching money or customers, then you loosen the leash one step at a time. Resuming from the last completed step after a crash",
+      "url": "https://x.com/EricMProtic/status/2122774322561360080"
+    },
+    {
+      "author_id": "1829911864706318336",
+      "created_at": "2026-11-17T19:23:29.000Z",
+      "edit_history_tweet_ids": [
+        "2122772631204364363"
+      ],
+      "id": "2122772631204364363",
+      "in_reply_to_user_id": "4686835494",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122758127968027108",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vercel @bot todo",
+      "url": "https://x.com/AnupJha_reboot/status/2122772631204364363"
+    },
+    {
+      "author_id": "1612239193983549441",
+      "created_at": "2026-11-17T19:23:16.000Z",
+      "edit_history_tweet_ids": [
+        "2122772577257189563"
+      ],
+      "id": "2122772577257189563",
+      "in_reply_to_user_id": "4686835494",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122758127968027108",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vercel production agents and production level bills 💀",
+      "url": "https://x.com/depx___/status/2122772577257189563"
+    },
+    {
+      "author_id": "1829911864706318336",
+      "created_at": "2026-11-17T19:23:06.000Z",
+      "edit_history_tweet_ids": [
+        "2122772536647897296"
+      ],
+      "id": "2122772536647897296",
+      "in_reply_to_user_id": "4686835494",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 208,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122758127968027108",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vercel Interesting",
+      "url": "https://x.com/AnupJha_reboot/status/2122772536647897296"
+    },
+    {
+      "author_id": "1720665183188922368",
+      "created_at": "2026-11-17T19:13:59.000Z",
+      "edit_history_tweet_ids": [
+        "2122770242057159041"
+      ],
+      "id": "2122770242057159041",
+      "in_reply_to_user_id": "1892539411704758272",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122770132372000968",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@tamatik12 @vercel Это фреймворк от Vercel для сборки production AI-агентов. Даёт готовую инфраструктуру: долгие сессии, память, инструменты, мульти-тенант, каналы (Slack и др.), трейсинг. Чтобы не городить всё с нуля, а сразу запускать надёжных агентов.",
+      "url": "https://x.com/grok/status/2122770242057159041"
+    },
+    {
+      "author_id": "1892539411704758272",
+      "created_at": "2026-11-17T19:13:33.000Z",
+      "edit_history_tweet_ids": [
+        "2122770132372000968"
+      ],
+      "id": "2122770132372000968",
+      "in_reply_to_user_id": "4686835494",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 175,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122758127968027108",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vercel @grok зачем это",
+      "url": "https://x.com/tamatik12/status/2122770132372000968"
+    },
+    {
+      "author_id": "2200516093",
+      "created_at": "2026-11-17T19:03:45.000Z",
+      "edit_history_tweet_ids": [
+        "2122767665504862647"
+      ],
+      "id": "2122767665504862647",
+      "in_reply_to_user_id": "4686835494",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 257,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122758127968027108",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vercel what does production mean here, is there a story for agent permissions and audit logs out of the box or is that left to the app?",
+      "url": "https://x.com/Sagarvd01/status/2122767665504862647"
+    },
+    {
+      "author_id": "1873080188097187840",
+      "created_at": "2026-11-17T18:54:44.000Z",
+      "edit_history_tweet_ids": [
+        "2122765397405606279"
+      ],
+      "id": "2122765397405606279",
+      "in_reply_to_user_id": "4686835494",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122758127968027108",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vercel Building an agent is a weekend project. Running one in production — while you're asleep, spending real money, touching real customer data, needing to explain what it did — is the actual product. Agent Runs is the tell: the framework is the easy part, operating it is the job.",
+      "url": "https://x.com/dhanyqaz/status/2122765397405606279"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "id": "2085838061347217408",
+        "name": "Grok Bot",
+        "username": "bot"
+      },
+      {
+        "id": "2116182722330685440",
+        "name": "Edu Cárdenas V",
+        "username": "ecvecom"
+      },
+      {
+        "id": "1658742869270618113",
+        "name": "Itamar Knafo",
+        "username": "itamadevv"
+      },
+      {
+        "id": "1958581832657903619",
+        "name": "老金带你玩AI",
+        "username": "KimYx0207"
+      },
+      {
+        "id": "4502163323",
+        "name": "Duncan",
+        "username": "duncangledhill"
+      },
+      {
+        "id": "2119059468302376960",
+        "name": "Lintsure",
+        "username": "lintsure"
+      },
+      {
+        "id": "2071871914533068800",
+        "name": "剑的 AI 实验室",
+        "username": "swordBluesy"
+      },
+      {
+        "id": "2760179499",
+        "name": "Musawir Raji 🪁",
+        "username": "MusawirRaji"
+      },
+      {
+        "id": "1849466647154688022",
+        "name": "MJ",
+        "username": "themarcusjr"
+      },
+      {
+        "id": "46498861",
+        "name": "Raúl Nogales 🇪🇸🇺🇸",
+        "username": "raulnogales"
+      },
+      {
+        "id": "2103742113644965888",
+        "name": "Nightmux",
+        "username": "Nightmux"
+      },
+      {
+        "id": "1587898938035781632",
+        "name": "Eric Protic",
+        "username": "EricMProtic"
+      },
+      {
+        "id": "1829911864706318336",
+        "name": "Anup Jha | Engineering tools",
+        "username": "AnupJha_reboot"
+      },
+      {
+        "id": "1612239193983549441",
+        "name": "Deepak",
+        "username": "depx___"
+      },
+      {
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "username": "grok"
+      },
+      {
+        "id": "1892539411704758272",
+        "name": "Tamatik12",
+        "username": "tamatik12"
+      },
+      {
+        "id": "2200516093",
+        "name": "Sagar Tanur 🇮🇳",
+        "username": "Sagarvd01"
+      },
+      {
+        "id": "1873080188097187840",
+        "name": "dhany.exe",
+        "username": "dhanyqaz"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122853291935608907",
+    "next_token": "b26v89c19zqg8o3juzow6o04z4okspb9egihus25ml5dp",
+    "oldest_id": "2122765397405606279",
+    "result_count": 20
+  }
+}
