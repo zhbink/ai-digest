@@ -30,7 +30,10 @@ def main():
     for m in includes.get("media") or []:
         media[m.get("media_key")] = m
     # also index included tweets
-    tweets_extra = {str(t["id"]): t for t in (includes.get("tweets") or []) if t.get("id")}
+    tweets_extra = {}
+    for t in list(includes.get("tweets") or []) + list(includes.get("posts") or []):
+        if t.get("id"):
+            tweets_extra[str(t["id"])] = t
     n = 0
     with out.open("a", encoding="utf-8") as f:
         for p in page.get("data") or []:
@@ -38,7 +41,7 @@ def main():
                 "section_hint": args.section,
                 "source": args.source,
                 "post": p,
-                "included_tweet_ids": [r.get("id") for r in (p.get("referenced_tweets") or [])],
+                "included_tweet_ids": [r.get("id") for r in (p.get("referenced_tweets") or p.get("referenced_posts") or [])],
             }
             f.write(json.dumps(row, ensure_ascii=False) + "\n")
             n += 1
