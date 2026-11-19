@@ -137,7 +137,144 @@
       "note_tweet": null,
       "x_long": false,
       "article_summary_zh": "谷歌 DeepMind 正式推出 Gemini 4 Neon，定位夹在更高质量的 Carbon 与更快的 Hydrogen 之间，强调在复杂软件工程、知识工作和科学任务上既要有前沿推理，也要更快出结果。官方称该模型已开始面向用户滚动发布。结合同期榜单，它更像是谷歌在同一代模型里补上“性价比与速度”这一档，而不是另起一条完全不同的产品线。",
-      "needs_editorial": false
+      "needs_editorial": false,
+      "attached_posts": [
+        {
+          "id": "2123176067380711725",
+          "url": "https://x.com/antigravity/status/2123176067380711725",
+          "handle": "antigravity",
+          "display_name": "Google Antigravity",
+          "avatar": "https://pbs.twimg.com/profile_images/1990585614279049216/-Zz6T2nk_normal.png",
+          "verified": true,
+          "followers": 217884,
+          "created_at": "2026-11-18T22:06:35.000Z",
+          "lang": "en",
+          "text": "Gemini 4 Neon is rolling out in Google Antigravity!\n\nBringing frontier-level intelligence and ranking #1 on the Artificial Analysis Coding Agent Index, Neon is rolling out today across the desktop app, CLI, and IDE Extensions for paid Google AI Pro and Ultra subscribers, and for https://t.co/vSnaUhvO6O",
+          "text_zh": "Gemini 4 Neon 正在 Google Antigravity 中推送！\n\nNeon 具备前沿级智能，并在 Artificial Analysis Coding Agent 指数上排名第一。即日起，它将登陆桌面应用、CLI 以及 IDE 插件，面向付费的 Google AI Pro 和 Ultra 订阅用户，企业用户则可通过 Gemini for business 使用。\n\n你还可以用 Orchestrator 把 Neon 当作规划器、把 Hydrogen 当作执行器搭配起来：在真正需要判断力的地方用 Neon，其余环节交给 Hydrogen 来追求速度。",
+          "summary_zh": "Gemini 4 Neon 登陆 Google Antigravity，登上 Artificial Analysis Coding Agent 榜第一，并支持与 Hydrogen 组成规划/执行搭档。",
+          "relation_zh": "母帖只宣布 Neon 开始推送，这条说明它已在 Antigravity 的桌面端、CLI 和 IDE 插件上线，还给出编程代理榜第一、以及用 Neon 做规划、Hydrogen 做执行的搭配用法。",
+          "metrics": {
+            "likes": 1504,
+            "retweets": 0,
+            "replies": 64,
+            "quotes": 48,
+            "bookmarks": 198,
+            "views": 63334
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2123176009205686272/vid/avc1/1920x1080/EQY2dACGSVh3sFVM.mp4?tag=16",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2123176009205686272/img/FNQUqWUxTGhkw3WY.jpg",
+              "duration_ms": 77400
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/antigravity/status/2123176067380711725/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-19T01:37:48.100412+00:00"
+        },
+        {
+          "id": "2123170645777526962",
+          "url": "https://x.com/ArtificialAnlys/status/2123170645777526962",
+          "handle": "ArtificialAnlys",
+          "display_name": "Artificial Analysis",
+          "avatar": "https://pbs.twimg.com/profile_images/2042402069320290304/A8C1lP07_normal.jpg",
+          "verified": true,
+          "followers": 182165,
+          "created_at": "2026-11-18T21:45:03.000Z",
+          "lang": "en",
+          "text": "Google continues to accelerate its release cadence with Gemini 4 Neon, delivering a small Intelligence gain over Gemini 4 Carbon at a ~17% lower Cost per Task\n\n@GoogleDeepMind has released Gemini 4 Neon, its fourth model in just seven weeks. Neon (xhigh) scores 61 on the https://t.co/L76oKwyxXa",
+          "text_zh": "谷歌仍在加快发布节奏。Gemini 4 Neon 相比 Gemini 4 Carbon，智力略有提升，同时单任务成本约低 17%。\n\nGoogle DeepMind 发布了 Gemini 4 Neon，这是它在七周内推出的第四个模型。Neon（xhigh）在 Artificial Analysis 智力指数上得到 61 分，比 Gemini 4 Carbon（high）高 1 分，总排名第三，排在 GPT-6.2 Astra（max）和 Claude Fable 5.2（max）之后。在 high 努力程度上，Neon 与 Carbon（high）持平，但按 Carbon 的标准（非折扣）定价计算，单任务成本不到后者的一半。\n\n主要结论：\n\n➤ 智力略升，成本和耗时下降：Neon（xhigh）智力指数为 61，比 Carbon（high）高 1 分，在智能体知识工作、视觉推理和编程上有小幅提升。单任务成本 6.44 美元，比 Carbon 按非折扣价计算的 7.76 美元约低 17%；单任务耗时约 21 分钟，比 Carbon 的约 36 分钟少约 40%。Neon 每个任务的输出 token 大约多 15%，因此成本下降完全来自低 25% 的 token 单价（输入/输出每百万 token 为 3/15 美元，而 Carbon 标准价是 4/20 美元）；耗时下降则来自更高的输出速度（约 110 对约 57 个输出 token/秒）。\n\n➤ 编程代理可与 Claude Opus 5.5 和 Claude Fable 5.2 竞争：在 Antigravity CLI 中，Neon（xhigh）的 Artificial Analysis 编程代理指数为 59，比 Carbon（high，55）高 3 分，与 Claude Code 搭配 Claude Fable 5.2（xhigh，58）以及 Claude Opus 5.5（max，58）相当，但单任务成本低得多。Neon 在 Antigravity 中的平均单任务成本为 6.86 美元，而 Claude Opus 5.5（max）为 12.61 美元，Claude Fable 5.2（xhigh）为 15.47 美元。Neon 已向 Pro 和 Ultra 订阅用户在 Antigravity CLI 中开放。\n\n➤ 视觉推理和输出呈现质量有明显提升：在 GDP.pdf 上，Gemini 4 Neon（high）得到 33.4%，比 Carbon（high，28.4%）高 5 分，并与目前测到的最高分相当；Neon（xhigh）为 28.0%。在 AA-Briefcase 上，Neon（xhigh）总分为 1700 Elo，并在呈现质量上以 1771 Elo 领先，比此前的第一名 Claude Sonnet 5.5（max，1726）高 45 分。在谷歌的多模态知识代理评测（MKA）中，Neon 的 Climb WSR 达到 56%，比 Carbon 高 2 分，与领先的 Claude Fable 5.2（max，57%）相当。\n\n关键规格：\n\n➤ 上下文窗口：100 万 tokens\n➤ 多模态：支持文本、图像、视频和语音输入，输出为文本\n➤ 可用性：发布即可通过谷歌 API 公开使用；Pro 和 Ultra 订阅用户也可在 Antigravity 和 Gemini 应用中使用\n➤ 努力程度：提供 low、medium、high、xhigh 四档；xhigh 是在最近的 Hydrogen 发布中引入 Gemini 模型的\n➤ 定价：输入/输出每百万 token 为 3/15 美元，比 Gemini 4 Carbon 目前 2/10 美元的折扣价（11 月 30 日结束）高 50%，比其 4/20 美元的标准价低 25%。缓存输入 token 仍享受 95% 折扣（0.15 美元）",
+          "summary_zh": "Artificial Analysis：Gemini 4 Neon 智力指数 61，略高于 Carbon，单任务成本约低 17%、耗时约少 40%，编程代理成本也明显低于 Opus 与 Fable。",
+          "relation_zh": "母帖给出产品定位，这条用独立评测把位置说清楚：xhigh 档智力指数 61、总榜第三，单任务成本比 Carbon 低约 17%，耗时少约 40%。",
+          "metrics": {
+            "likes": 1276,
+            "retweets": 0,
+            "replies": 54,
+            "quotes": 47,
+            "bookmarks": 169,
+            "views": 100359
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 2886,
+              "h": 2192,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXb9V1dbAAAwVVA.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/ArtificialAnlys/status/2123170645777526962/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "GoogleDeepMind"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-19T01:37:48.100470+00:00"
+        },
+        {
+          "id": "2123198346802450926",
+          "url": "https://x.com/cursor_ai/status/2123198346802450926",
+          "handle": "cursor_ai",
+          "display_name": "Cursor",
+          "avatar": "https://pbs.twimg.com/profile_images/1970182748146180096/dhZeXi_X_normal.jpg",
+          "verified": true,
+          "followers": 501827,
+          "created_at": "2026-11-18T23:35:07.000Z",
+          "lang": "en",
+          "text": "Gemini 4 Neon is now available in Cursor!\n\nAt its default effort, it sets a new cost-performance frontier on CursorBench 4.1, scoring 63.7%, up from 57.3% for Gemini 4 Hydrogen.\n\nPriced at $3/M input and $15/M output tokens. https://t.co/7DRI2Rxl8o",
+          "text_zh": "Gemini 4 Neon 现已在 Cursor 中可用！\n\n在默认努力程度下，它在 CursorBench 4.1 上达到 63.7%，刷新了成本-性能前沿，高于 Gemini 4 Hydrogen 的 57.3%。\n\n定价为每百万输入 token 3 美元、每百万输出 token 15 美元。",
+          "summary_zh": "Cursor 上线 Gemini 4 Neon：默认努力程度下 CursorBench 4.1 得到 63.7%，高于 Hydrogen 的 57.3%，定价为每百万 token 3/15 美元。",
+          "relation_zh": "母帖面向谷歌自家渠道，这条是第三方主力编程工具的接入结果：Cursor 默认档在 CursorBench 4.1 上得到 63.7%，并公布每百万 token 3/15 美元的定价。",
+          "metrics": {
+            "likes": 1049,
+            "retweets": 0,
+            "replies": 75,
+            "quotes": 38,
+            "bookmarks": 70,
+            "views": 57944
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 2400,
+              "h": 1350,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXcdpRHagAArFvw.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/cursor_ai/status/2123198346802450926/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-19T01:37:48.100483+00:00"
+        }
+      ]
     },
     {
       "id": "2123196808675405860",
@@ -277,7 +414,128 @@
       "note_tweet": null,
       "x_long": true,
       "article_summary_zh": "Anthropic, PBC 宣布已为其 A 类普通股首次公开发行定价，发行价为每股 83 美元，并预计次日在纳斯达克开始交易。官方同步给出法律声明：相关注册声明已于 2026 年 11 月 18 日获美国证监会宣布生效，发行仅通过招股说明书进行，投资人可向高盛或摩根士丹利索取最终招股说明书。对公司客户和创业者来说，这标志着这家头部模型实验室正式进入公开市场定价阶段。详情见 https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-      "needs_editorial": false
+      "needs_editorial": false,
+      "attached_posts": [
+        {
+          "id": "2123169646551417172",
+          "url": "https://x.com/CNBC/status/2123169646551417172",
+          "handle": "CNBC",
+          "display_name": "CNBC",
+          "avatar": "https://pbs.twimg.com/profile_images/1999829242431811587/iTRuu0Me_normal.jpg",
+          "verified": true,
+          "followers": 6264708,
+          "created_at": "2026-11-18T21:41:04.000Z",
+          "lang": "en",
+          "text": "Anthropic priced its IPO at $83 per share on Wednesday, a person familiar told CNBC, above the expected range, setting the stage for the Claude creator’s eagerly awaited Nasdaq listing and a historic moment for the artificial intelligence industry.\n\nFull details: https://t.co/LHLPTl9Mbn",
+          "text_zh": "知情人士向 CNBC 表示，Anthropic 已于周三将 IPO 定价为每股 83 美元，高于此前预期区间，为这家 Claude 开发商期待已久的纳斯达克上市、以及人工智能行业的一个历史性时刻做好了准备。",
+          "summary_zh": "CNBC 援引知情人士：Anthropic 将 IPO 定价为每股 83 美元，高于此前预期区间，为登陆纳斯达克做准备。",
+          "relation_zh": "母帖是官方简短公告，这条是主流财经媒体的第一波证实，并配发了报道配图。",
+          "metrics": {
+            "likes": 50,
+            "retweets": 16,
+            "replies": 6,
+            "quotes": 4,
+            "bookmarks": 6,
+            "views": 20207
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1080,
+              "h": 1350,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXcDitrXUAEQtke.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/CNBC/status/2123169646551417172/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-19T01:37:48.100780+00:00"
+        },
+        {
+          "id": "2122712406849699976",
+          "url": "https://x.com/CNBC/status/2122712406849699976",
+          "handle": "CNBC",
+          "display_name": "CNBC",
+          "avatar": "https://pbs.twimg.com/profile_images/1999829242431811587/iTRuu0Me_normal.jpg",
+          "verified": true,
+          "followers": 6264708,
+          "created_at": "2026-11-17T15:24:10.000Z",
+          "lang": null,
+          "text": "Anthropic is likely to price its IPO above the current range of $70 to $78, multiple sources told CNBC’s David Faber on Tuesday.\n\nThe artificial intelligence company is planning to list on the Nasdaq under the ticker symbol “ANT” and start trading on Nov. 19.\n\nMore details: https://t.co/6c3G25Wh3j",
+          "text_zh": "多位消息人士周二向 CNBC 的 David Faber 表示，Anthropic 的 IPO 定价很可能高于目前 70 至 78 美元的区间。\n\n这家人工智能公司计划以 ANT 为股票代码在纳斯达克上市，并于 11 月 19 日开始交易。",
+          "summary_zh": "CNBC 较早披露：Anthropic 计划以 ANT 为代码在纳斯达克上市，11 月 19 日开盘，定价可能高于 70 至 78 美元的原定区间。",
+          "relation_zh": "官方公告没有写股票代码和原路演区间，这条把 ANT 代码、开盘日和 70–78 美元的原定区间补全了。",
+          "metrics": {
+            "likes": 46,
+            "retweets": 15,
+            "replies": 21,
+            "quotes": 11,
+            "bookmarks": 7,
+            "views": 29441
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1080,
+              "h": 1350,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXVjr18XoAAgV6o.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-19T01:37:48.100793+00:00"
+        },
+        {
+          "id": "2123169622903955861",
+          "url": "https://x.com/WSJ/status/2123169622903955861",
+          "handle": "WSJ",
+          "display_name": "The Wall Street Journal",
+          "avatar": "https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg",
+          "verified": true,
+          "followers": 22289172,
+          "created_at": "2026-11-18T21:40:59.000Z",
+          "lang": "en",
+          "text": "Breaking: Anthropic priced its IPO at $83 a share, above the expected range, and sold more shares than planned https://t.co/VOQEIvh2Bm",
+          "text_zh": "快讯：Anthropic 将 IPO 定价为每股 83 美元，高于此前预期区间，并且实际出售的股份也多于原计划。",
+          "summary_zh": "《华尔街日报》称 Anthropic 以每股 83 美元定价，不仅高于预期区间，实际出售的股份也多于原计划。",
+          "relation_zh": "母帖只公布了定价，这条补上一个关键细节：本次发行还扩大了售股规模。",
+          "metrics": {
+            "likes": 103,
+            "retweets": 22,
+            "replies": 20,
+            "quotes": 9,
+            "bookmarks": 15,
+            "views": 68842
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://www.wsj.com/finance/stocks/anthropic-prices-ipo-at-83-a-share-0290494c?utm_campaign=mrf-twitter-WSJ&utm_source=twitter&utm_medium=social&mrfcid=202611186afe1b6ad7b22445563cf179"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-19T01:37:48.100800+00:00"
+        }
+      ]
     },
     {
       "id": "2123100386638877054",
@@ -472,7 +730,129 @@
       "note_tweet": null,
       "x_long": true,
       "article_summary_zh": "OpenAI 公布与 AMD 的芯片设计合作结果：在 AMD 工程师已经多年优化过的旗舰 GPU IP 上，模型在不到五个月内找出最高 14% 的 PPA 改进。同一套方法也被用于 OpenAI 首款自研推理芯片 Jalapeño，并且收益已在真实硅片上验证。公司还表示，新评测显示模型在部分芯片设计任务上继续变强，并正在与新思科技合作，把模型能力和现有 EDA 设计、验证工具组合起来，提供给更多芯片设计师。这把“用 AI 设计跑 AI 的芯片”从概念推进到了可验证的流片结果。",
-      "needs_editorial": false
+      "needs_editorial": false,
+      "attached_posts": [
+        {
+          "id": "2123132122047164902",
+          "url": "https://x.com/AMD/status/2123132122047164902",
+          "handle": "AMD",
+          "display_name": "AMD",
+          "avatar": "https://pbs.twimg.com/profile_images/1534988679076368384/In8IVKDB_normal.png",
+          "verified": true,
+          "followers": 1313594,
+          "created_at": "2026-11-18T19:11:58.000Z",
+          "lang": "en",
+          "text": "\"Working with AMD, we're able to get a year's worth of full generational improvements in five months, just using our models.\" - @gdb \n \nIt's no secret that front-page news comes out of @dealbook! Thankful for our partnership with @OpenAI as we use AI to advance chip design, https://t.co/aXhfpfmCjW",
+          "text_zh": "「与 AMD 合作时，我们只靠自己的模型，就在五个月内拿到了相当于一整代的改进。」——Greg Brockman\n\n头版新闻出自 Dealbook，这并不奇怪。感谢与 OpenAI 的合作，我们正在一起用 AI 推进芯片设计。",
+          "summary_zh": "AMD 转述 OpenAI 总裁 Greg Brockman 的话：只靠模型，与 AMD 合作就能在五个月内拿到相当于一整代的芯片改进。",
+          "relation_zh": "母帖给出最高 14% 的 PPA 数字，这条是合作方 AMD 官方放出的 Dealbook 采访片段，用「一代改进压缩到五个月」来呼应同一结果。",
+          "metrics": {
+            "likes": 185,
+            "retweets": 0,
+            "replies": 9,
+            "quotes": 2,
+            "bookmarks": 14,
+            "views": 29927
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2123132050076995584/vid/avc1/1920x1080/GAaGHN5dxGlaDv7g.mp4?tag=16",
+              "poster": "https://pbs.twimg.com/media/HXbhadcXUAAFBgv.jpg",
+              "duration_ms": 26218
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/AMD/status/2123132122047164902/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "gdb",
+            "dealbook",
+            "OpenAI"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-19T01:37:48.100956+00:00"
+        },
+        {
+          "id": "2123141323096261077",
+          "url": "https://x.com/LisaSu/status/2123141323096261077",
+          "handle": "LisaSu",
+          "display_name": "Lisa Su",
+          "avatar": "https://pbs.twimg.com/profile_images/836654735553777664/gWyrS-2a_normal.jpg",
+          "verified": true,
+          "followers": 339354,
+          "created_at": "2026-11-18T19:48:32.000Z",
+          "lang": "en",
+          "text": "Proud of these fantastic results - @OpenAI + @AMD engineers pushing the frontiers of chip design together! https://t.co/tz63ECIx7Q",
+          "text_zh": "为这些出色的结果感到骄傲——OpenAI 与 AMD 的工程师正在一起把芯片设计推向新的边界！",
+          "summary_zh": "苏姿丰转发 Greg Brockman 的帖子，为 OpenAI 与 AMD 工程师共同推进芯片设计的成果点赞。",
+          "relation_zh": "母帖是 OpenAI 单方面发布，这条是 AMD CEO 的直接背书，并指向 Brockman 关于部分结果已进入近期流片设计的补充。",
+          "metrics": {
+            "likes": 1052,
+            "retweets": 0,
+            "replies": 46,
+            "quotes": 16,
+            "bookmarks": 56,
+            "views": 37416
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/gdb/status/2123130414323888463"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "OpenAI",
+            "AMD"
+          ],
+          "quoted_post_url": "https://x.com/i/status/2123130414323888463",
+          "article_title": null,
+          "attached_at": "2026-11-19T01:37:48.100967+00:00"
+        },
+        {
+          "id": "2123109090213896482",
+          "url": "https://x.com/Synopsys/status/2123109090213896482",
+          "handle": "Synopsys",
+          "display_name": "Synopsys",
+          "avatar": "https://pbs.twimg.com/profile_images/959597157601878016/bfge93-W_normal.jpg",
+          "verified": true,
+          "followers": 25749,
+          "created_at": "2026-11-18T17:40:27.000Z",
+          "lang": "en",
+          "text": "Compelling results from @OpenAI demonstrate what frontier intelligence combined with best-in-class EDA can contribute to chip design. Learn more below. 👇 https://t.co/YJfEow0LMu",
+          "text_zh": "OpenAI 交出的结果很有说服力，说明前沿智能与一流 EDA 结合，能为芯片设计带来什么。更多内容见下方。",
+          "summary_zh": "新思科技回应 OpenAI 的结果，称这展示了前沿模型与一流 EDA 工具结合能为芯片设计带来什么。",
+          "relation_zh": "母帖宣布将与新思合作、把这套能力带给更多芯片设计师，这条是 EDA 合作方的正式回应。",
+          "metrics": {
+            "likes": 23,
+            "retweets": 0,
+            "replies": 3,
+            "quotes": 0,
+            "bookmarks": 1,
+            "views": 1100
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/OpenAI/status/2123100386638877054"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "OpenAI"
+          ],
+          "quoted_post_url": "https://x.com/i/status/2123100386638877054",
+          "article_title": null,
+          "attached_at": "2026-11-19T01:37:48.100974+00:00"
+        }
+      ]
     },
     {
       "id": "2123198346802450926",
@@ -1194,7 +1574,133 @@
       "external_url": null,
       "note_tweet": null,
       "x_long": true,
-      "needs_editorial": false
+      "needs_editorial": false,
+      "attached_posts": [
+        {
+          "id": "2123100817863663686",
+          "url": "https://x.com/stitchbygoogle/status/2123100817863663686",
+          "handle": "stitchbygoogle",
+          "display_name": "Stitch by Google",
+          "avatar": "https://pbs.twimg.com/profile_images/2037662082771116032/ZQ1T1io3_normal.png",
+          "verified": true,
+          "followers": 162324,
+          "created_at": "2026-11-18T17:07:34.000Z",
+          "lang": "en",
+          "text": "Introducing Stitch Loop, a new Stitch experiment.\n\nStitch helps you design your product. Stitch Loop helps you keep improving it once it's live: a product agent built for outcomes, not just PRs.\n\nStitch Loop monitors your production data and lets you build loops that work https://t.co/tsaz5lDAxq",
+          "text_zh": "介绍 Stitch Loop，这是 Stitch 的一项新实验。\n\nStitch 帮你设计产品，Stitch Loop 则帮你在产品上线后持续改进：这是一个盯结果、而不只盯 PR 的产品智能体。\n\nStitch Loop 会监控你的生产数据，并让你建立持续运转、直到达成目标的循环。\n\n你可以自己定义循环，也可以一开始就用内置循环来改进产品：\n\n🛡️ 安全：由 Gemini 4 Carbon 和 Google DeepMind 的 CodeMender 驱动\n⌚️ 延迟：让产品保持足够快\n👋 无障碍：让产品对所有人都好用\n\n欢迎加入等候名单。\n\n更多内容见下方线程。",
+          "summary_zh": "谷歌 Stitch 官方发布 Loop：上线后持续盯生产数据、按目标循环改进的产品智能体，并内置安全、延迟和无障碍三类循环。",
+          "relation_zh": "收藏的是测评账号的突发报道，这条是官方发布帖，完整说明了定位、内置循环（安全循环由 Gemini 4 Carbon 和 CodeMender 驱动）以及等候名单。",
+          "metrics": {
+            "likes": 1214,
+            "retweets": 0,
+            "replies": 50,
+            "quotes": 52,
+            "bookmarks": 748,
+            "views": 267058
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 3840,
+              "h": 2160,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2123100782971228160/vid/avc1/3840x2160/7aE3gS6v6HcqBmNY.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2123100782971228160/img/zziTM2e5tu00LM_q.jpg",
+              "duration_ms": 32554
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/stitchbygoogle/status/2123100817863663686/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-19T01:37:48.101118+00:00"
+        },
+        {
+          "id": "2123100838516400459",
+          "url": "https://x.com/stitchbygoogle/status/2123100838516400459",
+          "handle": "stitchbygoogle",
+          "display_name": "Stitch by Google",
+          "avatar": "https://pbs.twimg.com/profile_images/2037662082771116032/ZQ1T1io3_normal.png",
+          "verified": true,
+          "followers": 162324,
+          "created_at": "2026-11-18T17:07:39.000Z",
+          "lang": "en",
+          "text": "Create your own loops in Stitch Loop.\n\nConnect your product data across 180+ integrations and point a loop at any outcome you care about, like checkout conversion or support tickets. Stitch Loop learns from every result, and suggestions get more tailored to your product over https://t.co/SPqQUvXx5O",
+          "text_zh": "在 Stitch Loop 里创建你自己的循环。\n\n把 180 多种集成里的产品数据接进来，把循环对准任何你在意的结果，比如结账转化率或支持工单。Stitch Loop 会从每次结果里学习，建议也会越来越贴合你的产品。",
+          "summary_zh": "Stitch Loop 支持自定义循环：可接入 180 多种数据源，把结账转化率、工单等任意目标设成持续改进的循环。",
+          "relation_zh": "母帖和官方主帖侧重默认能力，这条补充了可定制性——不只是安全、延迟和无障碍，还可以对准具体业务指标。",
+          "metrics": {
+            "likes": 24,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 1,
+            "views": 2067
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 2482,
+              "h": 1590,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXbEOlqaMAExI_S.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/stitchbygoogle/status/2123100838516400459/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-19T01:37:48.101128+00:00"
+        },
+        {
+          "id": "2123101724047200432",
+          "url": "https://x.com/Google/status/2123101724047200432",
+          "handle": "Google",
+          "display_name": "Google",
+          "avatar": "https://pbs.twimg.com/profile_images/2042749771337564160/AgOFPEL3_normal.jpg",
+          "verified": true,
+          "followers": 31880580,
+          "created_at": "2026-11-18T17:11:10.000Z",
+          "lang": "en",
+          "text": "Today’s coding agents stop when code ships. Stitch Loop, a new experiment from @GoogleLabs, keeps working after launch.\n\nUsing Gemini 4 Carbon and CodeMender, it watches live metrics, tests fixes in a sandbox, and opens PRs for you to approve — all tied to your objectives. Join https://t.co/QmlrE8j8gT",
+          "text_zh": "今天的编程智能体，代码一上线就停手。谷歌实验室的新实验 Stitch Loop，会在发布之后继续工作。\n\n它使用 Gemini 4 Carbon 和 CodeMender，盯着实时指标，在沙箱里测试修复，再开出待你批准的 PR——全部围绕你设定的目标。欢迎加入等候名单。",
+          "summary_zh": "谷歌官方账号介绍 Stitch Loop：用 Gemini 4 Carbon 和 CodeMender 盯指标，在沙箱里验证修复并开出待你批准的 PR。",
+          "relation_zh": "母帖强调用户主要负责设定目标和验收，这条把机制写清楚：改动先在沙箱里测试，合不合并仍由人批准。",
+          "metrics": {
+            "likes": 1180,
+            "retweets": 0,
+            "replies": 77,
+            "quotes": 16,
+            "bookmarks": 450,
+            "views": 166419
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://twitter.com/stitchbygoogle/status/2123100817863663686"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "GoogleLabs"
+          ],
+          "quoted_post_url": "https://x.com/i/status/2123100817863663686",
+          "article_title": null,
+          "attached_at": "2026-11-19T01:37:48.101135+00:00"
+        }
+      ]
     },
     {
       "id": "2123188195202617408",
