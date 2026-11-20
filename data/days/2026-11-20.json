@@ -137,7 +137,134 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2123499292333691234",
+          "url": "https://x.com/Nasdaq/status/2123499292333691234",
+          "handle": "Nasdaq",
+          "display_name": "Nasdaq",
+          "avatar": "https://pbs.twimg.com/profile_images/1521140484512620544/Ev6EIPlD_normal.jpg",
+          "verified": true,
+          "followers": 250657,
+          "created_at": "2026-11-19T19:30:58.000Z",
+          "lang": "en",
+          "text": "\"A big part of why we're going public is to have more people invested in building AI well.\"\n\n@AnthropicAI co-founder and President @DanielaAmodei reflects on the company's journey to the public markets. $ANT https://t.co/QZTdyiX45U",
+          "text_zh": "「我们上市，很大一部分原因是希望有更多人一起投资于把 AI 做好。」Anthropic 联合创始人兼总裁 Daniela Amodei 回顾了公司走向公开市场的历程。",
+          "summary_zh": "纳斯达克放出 Daniela Amodei 的访谈：她说上市很大一部分是为了让更多人一起投资于把 AI 做好。",
+          "relation_zh": "母帖是官方敲钟视频，这条是交易所放出的总裁访谈，说明他们选择上市的理由。",
+          "metrics": {
+            "likes": 628,
+            "retweets": 70,
+            "replies": 26,
+            "quotes": 15,
+            "bookmarks": 196,
+            "views": 52430
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1080,
+              "h": 1920,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2123499055502225409/vid/avc1/1080x1920/F59zB_qwYhL51D_V.mp4?tag=16",
+              "poster": "https://pbs.twimg.com/media/HXgvWk5WEAA-GGP.png",
+              "duration_ms": 293668
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/Nasdaq/status/2123499292333691234/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "AnthropicAI",
+            "DanielaAmodei"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-20T02:34:49.604574+00:00"
+        },
+        {
+          "id": "2123525749126688809",
+          "url": "https://x.com/CNBC/status/2123525749126688809",
+          "handle": "CNBC",
+          "display_name": "CNBC",
+          "avatar": "https://pbs.twimg.com/profile_images/1999829242431811587/iTRuu0Me_normal.jpg",
+          "verified": true,
+          "followers": 6265033,
+          "created_at": "2026-11-19T21:16:06.000Z",
+          "lang": "en",
+          "text": "Anthropic jumped 17% in its Nasdaq debut on Thursday in a seminal moment for artificial intelligence, after the company completed the biggest initial public offering on record, topping SpaceX’s historic debut in June. \n\nThe stock closed at $97.17 per share. Full details: https://t.co/zVg9x4GzVQ",
+          "text_zh": "Anthropic 周四在纳斯达克上市首日收涨 17%，股票收于 97.17 美元。这是人工智能领域的一个标志性时刻：公司完成了有记录以来规模最大的 IPO，超过了 SpaceX 今年 6 月的历史性上市。",
+          "summary_zh": "CNBC 报道 Anthropic 上市首日收于 97.17 美元，涨 17%，并称这次 IPO 规模超过 SpaceX 6 月的上市，是有记录以来最大的。",
+          "relation_zh": "母帖停在开盘敲钟，这条给出首日收盘价和与 SpaceX 的对照，补全了全天结果。",
+          "metrics": {
+            "likes": 48,
+            "retweets": 10,
+            "replies": 16,
+            "quotes": 8,
+            "bookmarks": 4,
+            "views": 22220
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1024,
+              "h": 576,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXhHaoCWMAIBkqU.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-20T02:34:49.604574+00:00"
+        },
+        {
+          "id": "2123461658890686863",
+          "url": "https://x.com/AnthropicAI/status/2123461658890686863",
+          "handle": "AnthropicAI",
+          "display_name": "Anthropic",
+          "avatar": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+          "verified": true,
+          "followers": 1942700,
+          "created_at": "2026-11-19T17:01:26.000Z",
+          "lang": "en",
+          "text": "Remarks from Anthropic CEO @DarioAmodei on our initial public offering:\n\nMy co-founders and I started Anthropic because we believe that the most powerful technology of our time should be built for the benefit of humankind.\n\nDaniela and I lost our father to a disease that, just a few years later, became curable. I started my career in biology, hoping to help future cures come sooner. In the lab, I saw the vast thicket of complexity that scientists face when they’re trying to understand disease and develop new treatments.\n\nSo many of the scientific tools that can cut through that thicket—tools for gene editing, gene synthesis, controlling brain cells with light—started as pure ideas. In other words, they came from thinking. From intelligence.\n\nHuman intelligence has already made diseases like plague, smallpox, and polio history for most of the world. But progress on other diseases has been too slow for so many patients and their families. Going from a great idea to a treatment can take decades: it took many years from the first discovery of a strange repeating pattern in DNA to the approval of the first treatment for a disease using CRISPR.\n\nNature is full of these patterns. But we’ve had too little intelligence to decipher most of them; too few scientists, with too little time. Now we can build that intelligence. Whether it’s protein folding, drug design, cancer genetics, or clinical trial administration, scientists across many areas of biology and medicine are finding Claude can help them do their research in a fraction of the time it would’ve taken just a couple of years ago. I believe sufficiently powerful AI, working in concert with humans, could compress a century of scientific and medical progress into a decade.\n\nI don’t want to get ahead of myself. At this point all we have are early results. Experiments and clinical trials will still take time. And although they involve slow and ponderous processes, I believe those processes can be substantially accelerated by AI. We hope that in the future fewer families miss a cure by just a few years.\n\nMedicine is just a particularly vivid example, but there are many others. Our customers—the world’s most ambitious companies, nonprofits, and individual people—are already applying the intelligence we’ve built to stimulate economic growth; lift people out of poverty; protect democracy and free societies; even make everyday services like the DMV work better. We’re proud to work alongside them. And I’m extremely optimistic about what we can do together in the future.\n\nAt the same time, we have always been honest that this technology has very real risks. These range from misuse of the technology by individuals or nation-states, to economic disruption, to losing control of AI systems. We discuss these risks not because we think they are inevitable, but because we think they are avoidable.\n\nAvoiding them depends on the choices made by the people building AI. There is a gigantic difference between how AI will go if we pay little attention to safety, versus how it will go if we are obsessed with safety. And an obsession with safety and with public benefit has been woven into Anthropic’s DNA from the start. From safeguards against biological and cyber risks, to alignment training and testing, to looking inside our models like an X-ray, Anthropic has pioneered methods for understanding and steering the behavior of AI systems.\n\nThere is much work still to be done, and the most difficult safety work lies ahead of us. The incredible talent of the company that has enabled us to build the most capable AI systems will need to be directed, even more so than it has already, towards double- and triple-checking that those AI systems are safe and secure.\n\nAnd to state it unequivocally, we will pace the training and deployment of AI systems, taking as long as is necessary to have confidence that they are safe and will remain under human control. We will not bend to either business or political pressure. Today puts the company in a stronger financial position, and in doing so only strengthens our resolve to do the right thing.\n\nIf we can show it’s possible to make the right choices on safety and still build an incredibly successful company, others in our industry will be inspired to do the same. We call this a race to the top. When the race to the top is working properly, it doesn’t matter which company has the best models—everyone wins because everyone is building safely. The race to the top works best when driven from the front of the pack, and we fully hope and expect to do so, but the goal is to make the whole industry better, regardless of whether Anthropic is winning or losing at any given time.\n\nThe advent of machine intelligence is one of the seminal moments in human history, and we have a rare opportunity to shape it for the better.\n\nThis moment is bigger than any one company, or any one country. It will take all of us, working together, to ensure this technology goes well for us and the many generations to come. Starting today, we hope that you’ll join us on this mission.",
+          "text_zh": "Anthropic 首席执行官 Dario Amodei 就公司首次公开募股发表致辞：\n\n我和联合创始人创办 Anthropic，是因为我们相信，这个时代最强大的技术应当造福全人类。\n\n我和 Daniela 的父亲死于一种几年后才变得可治愈的疾病。我最初在生物学起步，希望未来的疗法能来得更早。在实验室里，我看到科学家在理解疾病、开发新疗法时面对的复杂密林。\n\n许多能劈开这片密林的科学工具——基因编辑、基因合成、用光控制脑细胞——最初都只是想法，也就是思考，也就是智能。\n\n人类智能已经让鼠疫、天花、脊髓灰质炎在世界上大部分地区成为历史。但其他疾病的进展，对许多患者和家庭来说仍然太慢。从一个好想法到获批疗法，往往要几十年：从发现 DNA 中奇怪的重复模式，到第一个利用 CRISPR 的疾病疗法获批，就花了很多年。\n\n自然界充满这类模式，可我们一直缺少足够的智能去破译其中大部分；科学家太少，时间也太少。现在我们可以把这种智能造出来。无论是蛋白质折叠、药物设计、癌症遗传学，还是临床试验管理，许多生物医学领域的科学家已经发现，Claude 能帮他们把研究压缩到几年前所需时间的一小部分。我相信，足够强大的 AI 与人类协作，有可能把一个世纪的科学与医学进步压缩到十年。\n\n我不想把话说满。目前我们只有早期结果。实验和临床试验仍然需要时间。尽管这些流程缓慢而笨重，我相信它们可以被 AI 大幅加速。我们希望未来更少家庭因为只差几年而错过治愈。\n\n医学只是最鲜明的例子，类似的事情还有很多。我们的客户——世界上最有雄心的公司、非营利组织和个人——已经把我们打造的智能用在刺激经济增长、帮助人们摆脱贫困、保护民主与自由社会，甚至让车管所这类日常服务运转得更好。我们为与他们同行感到自豪，也对未来能一起做成的事情极为乐观。\n\n与此同时，我们一直坦率承认这项技术有非常真实的风险：从个人或国家的滥用，到经济冲击，再到失去对 AI 系统的控制。我们讨论这些风险，不是因为觉得它们不可避免，而是因为觉得它们可以避免。\n\n能否避开，取决于造 AI 的人如何选择。如果几乎不关注安全，和如果对安全近乎偏执，结果会有天壤之别。对安全与公共利益的执着，从一开始就织进了 Anthropic 的基因：从生物与网络风险防护，到对齐训练与测试，再到像 X 光一样查看模型内部，Anthropic 一直在开创理解和引导 AI 系统行为的方法。\n\n还需要做的事情很多，最难的安全工作还在后面。支撑我们做出最强 AI 系统的出色人才，需要比现在更多地把精力投向对这些系统的安全与可控做双重、三重校验。\n\n我想把话说清楚：我们会把握 AI 系统训练和部署的节奏，花多少时间都愿意，直到有把握它们是安全的、并且始终处于人类掌控之中。我们不会向商业或政治压力让步。今天让公司的财务更稳固，也只会更加坚定我们做正确之事的决心。\n\n如果我们能证明，在安全上做出正确选择的同时，仍然可以做成一家极其成功的公司，行业里的其他人也会受到鼓舞去这样做。我们把这叫作「向上的竞赛」。当这场竞赛真正运转起来时，哪家公司的模型最好并不重要——因为大家都在安全地构建，所有人都会赢。向上的竞赛最好由跑在最前面的人来带动，我们完全希望也预期自己能做到这一点，但目标是让整个行业变得更好，无论 Anthropic 一时领先还是落后。\n\n机器智能的到来是人类历史上的关键时刻之一，我们难得有机会把它塑造得更好。\n\n这一刻比任何一家公司、任何一个国家都更大。需要我们所有人一起努力，才能让这项技术对我们、也对后代都走向好的结果。从今天起，我们希望你也加入这项使命。",
+          "summary_zh": "Dario Amodei 发表上市致辞：希望用 AI 把百年科学与医学进展压缩到十年，同时强调安全必须写进公司基因。",
+          "relation_zh": "母帖是敲钟画面，这条是 CEO 同日发表的上市致辞，把公司的科学目标和安全承诺写完整。",
+          "metrics": {
+            "likes": 8755,
+            "retweets": 0,
+            "replies": 810,
+            "bookmarks": 2003,
+            "quotes": 0,
+            "views": 1021307
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [
+            "DarioAmodei"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-20T02:34:49.604574+00:00"
+        }
+      ]
     },
     {
       "id": "2123467449257623770",
@@ -284,7 +411,146 @@
       "external_url": "https://ai.studio/genie",
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "谷歌在 Genie 4 产品发布次日，将其接入 Gemini API（Interactions API）和 Google AI Studio，开发者可以用文本或参考图生成可转向的 720p、24fps 世界，并带同步立体声。官方介绍支持实时键盘控制与文本操控，适合探索互动场景和世界模型应用。对开发者来说，关键变化是第一次可以用 API 密钥认真测试，而不只是在限定产品里观看演示。"
+      "article_summary_zh": "谷歌在 Genie 4 产品发布次日，将其接入 Gemini API（Interactions API）和 Google AI Studio，开发者可以用文本或参考图生成可转向的 720p、24fps 世界，并带同步立体声。官方介绍支持实时键盘控制与文本操控，适合探索互动场景和世界模型应用。对开发者来说，关键变化是第一次可以用 API 密钥认真测试，而不只是在限定产品里观看演示。",
+      "attached_posts": [
+        {
+          "id": "2123479057996116143",
+          "url": "https://x.com/GoogleAIStudio/status/2123479057996116143",
+          "handle": "GoogleAIStudio",
+          "display_name": "Google AI Studio",
+          "avatar": "https://pbs.twimg.com/profile_images/2089794087998156800/eZOMHRVb_normal.jpg",
+          "verified": true,
+          "followers": 221367,
+          "created_at": "2026-11-19T18:10:34.000Z",
+          "lang": "en",
+          "text": "Genie 4 lets you step inside interactive environments and reshape them mid-session: shifting the weather, summoning characters, and generating adaptive native audio on the fly\n\ntry it today via the Gemini API and in AI Studio: https://t.co/Ibb5f95BKP https://t.co/isJWbyDqmt",
+          "text_zh": "Genie 4 让你走进可交互的环境，并能在会话中途改写它们：换天气、召唤角色，还即时生成会跟着变化的原生音频。今天就可以通过 Gemini API 和 AI Studio 试用。",
+          "summary_zh": "谷歌 AI Studio 官方演示：Genie 4 可在会话中途改天气、召唤角色，并即时生成适应性原生音频。",
+          "relation_zh": "收藏的是 Logan 的开发者上线公告，这条是产品官方账号的演示视频，把「可交互世界」具体化成中途改环境和原生音频。",
+          "metrics": {
+            "likes": 456,
+            "retweets": 43,
+            "replies": 30,
+            "quotes": 14,
+            "bookmarks": 101,
+            "views": 36192
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2123444850712358912/vid/avc1/1920x1080/8rz8akF85XMim0Ja.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2123444850712358912/img/EJm8VcFalw8fCELw.jpg",
+              "duration_ms": 91788
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://aistudio.google.com/social_preview/page/genie",
+            "https://x.com/GoogleAIStudio/status/2123479057996116143/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-20T02:34:49.604574+00:00"
+        },
+        {
+          "id": "2123524964565545328",
+          "url": "https://x.com/_philschmid/status/2123524964565545328",
+          "handle": "_philschmid",
+          "display_name": "Philipp Schmid",
+          "avatar": "https://pbs.twimg.com/profile_images/2066207048648323072/u-UPEKOH_normal.jpg",
+          "verified": true,
+          "followers": 127807,
+          "created_at": "2026-11-19T21:12:59.000Z",
+          "lang": "en",
+          "text": "Genie 4 is the first model we launched on the new Live Interactions API, bringing native WebRTC (with ephemeral tokens) and WebSocket support directly to Interactions and Gemini API.\n\nThis is part of our ongoing work to improve Gemini API experience. When we started building the Interactions API, one of our main goals was making sure standard API calls and real-time and long running sessions share one consistent interface. We put a lot of effort into getting the primitives right, and we have big plans.\n\nI would love your feedback as we build this out: what do you want to see as we bring protocols like WebSockets and WebRTC to more Gemini models? What is still missing for building better agent experiences or real-time apps?\n\nIn the meantime, you can try Genie 4 in the docs:\nhttps://t.co/PXwibCIaEB",
+          "text_zh": "Genie 4 是我们在新的 Live Interactions API 上推出的第一个模型，把带临时令牌的原生 WebRTC 和 WebSocket 直接带进了 Interactions 与 Gemini API。这是我们持续改进 Gemini API 体验的一部分。当初做 Interactions API 时，一个主要目标就是让普通 API 调用和实时、长时会话共用同一套接口。我们花了很多力气把基础能力做对，后面还有更大的计划。也欢迎反馈：把 WebSocket 和 WebRTC 带到更多 Gemini 模型时，你最希望看到什么？做更好的智能体或实时应用，现在还缺什么？与此同时，可以先在文档里试用 Genie 4。",
+          "summary_zh": "Philipp Schmid 说 Genie 4 是新 Live Interactions API 的首个模型，目标是让普通调用和实时长时会话共用同一套接口。",
+          "relation_zh": "母帖几乎只有上线消息，这条解释了接口意义：Genie 4 被用来打样一套统一的实时 API，并配了说明视频。",
+          "metrics": {
+            "likes": 61,
+            "retweets": 4,
+            "replies": 6,
+            "quotes": 1,
+            "bookmarks": 21,
+            "views": 3308
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2123524856817778688/vid/avc1/1920x1080/f30x-miKeKtjMKFT.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2123524856817778688/img/x9FQiIZuMN48Z6DO.jpg",
+              "duration_ms": 17500
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://aistudio.google.com/docs/genie",
+            "https://x.com/_philschmid/status/2123524964565545328/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-20T02:34:49.604574+00:00"
+        },
+        {
+          "id": "2123465741592637445",
+          "url": "https://x.com/_philschmid/status/2123465741592637445",
+          "handle": "_philschmid",
+          "display_name": "Philipp Schmid",
+          "avatar": "https://pbs.twimg.com/profile_images/2066207048648323072/u-UPEKOH_normal.jpg",
+          "verified": true,
+          "followers": 127807,
+          "created_at": "2026-11-19T17:17:39.000Z",
+          "lang": "en",
+          "text": "Today we are rolling out Genie 4 on the Gemini API and AI Studio🚀\n\nSeed a 720p 24fps world from text or image and steer it live with WASD, prompts, and 48 kHz stereo audio. Stream via WebRTC (browser + ephemeral tokens) or WebSocket.\n\nAvailable on:\n- Gemini API: https://t.co/PXwibCHCP3\n- AI Studio: https://t.co/blPpIvmk1k",
+          "text_zh": "我们今天把 Genie 4 推上了 Gemini API 和 AI Studio。你可以用文本或图像生成 720p、24 帧的世界，再用 WASD、提示词和 48 kHz 立体声实时操控，通过 WebRTC（浏览器 + 临时令牌）或 WebSocket 推流。",
+          "summary_zh": "谷歌开发者关系 Philipp Schmid 给出 Genie 4 接口细节：720p 24fps、WASD 与提示词操控、48 kHz 立体声，并支持 WebRTC 和 WebSocket。",
+          "relation_zh": "官方演示侧重中途改环境，这条补上了分辨率、帧率、音频规格和两种接入方式。",
+          "metrics": {
+            "likes": 93,
+            "retweets": 4,
+            "replies": 19,
+            "quotes": 1,
+            "bookmarks": 22,
+            "views": 5025
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 3280,
+              "h": 1876,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXgP3E6XQAEbXug.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://aistudio.google.com/docs/genie",
+            "https://aistudio.google.com/live?model=genie-4"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-20T02:34:49.604574+00:00"
+        }
+      ]
     },
     {
       "id": "2123508592192245761",
@@ -535,7 +801,122 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2123506763144245744",
+          "url": "https://x.com/OpenAIDevs/status/2123506763144245744",
+          "handle": "OpenAIDevs",
+          "display_name": "OpenAI Developers",
+          "avatar": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+          "verified": true,
+          "followers": 484775,
+          "created_at": "2026-11-19T20:00:39.000Z",
+          "lang": "en",
+          "text": "Standby is a new configuration in the GPT-Live API that lets developers manage periods of inactivity without interrupting the conversation. It's available for both GPT-Live-1 and GPT-Live-1.1.\n\nSet an idle timeout of 5-60 seconds. After that period of silence, the model temporarily pauses, but the WebRTC call stays open at a lower rate ($0.02 per minute vs. the standard $0.05) until someone speaks again.",
+          "text_zh": "Standby 是 GPT-Live API 的新配置，让开发者可以在不中断对话的情况下处理空闲时段。GPT-Live-1 和 GPT-Live-1.1 都支持。把空闲超时设为 5 到 60 秒后，模型会暂时暂停，但 WebRTC 通话保持接通，费用从标准的每分钟 0.05 美元降到 0.02 美元，直到再次有人说话。",
+          "summary_zh": "OpenAI 说明 Standby：静音 5 到 60 秒后暂停推理，WebRTC 不断线，费用从每分钟 0.05 美元降到 0.02 美元。",
+          "relation_zh": "母帖只提了 standby 能降低空闲成本，这条把超时区间和具体单价写清楚，并配了说明视频。",
+          "metrics": {
+            "likes": 201,
+            "retweets": 5,
+            "replies": 10,
+            "quotes": 6,
+            "bookmarks": 55,
+            "views": 32368
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2123506746597720064/vid/avc1/1920x1080/0DB4NYP2Qs9sFuNK.mp4?tag=16",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2123506746597720064/img/wGZ48eLvLSNilJcO.jpg",
+              "duration_ms": 17300
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/OpenAIDevs/status/2123506763144245744/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-20T02:34:49.604574+00:00"
+        },
+        {
+          "id": "2123506775077077489",
+          "url": "https://x.com/OpenAIDevs/status/2123506775077077489",
+          "handle": "OpenAIDevs",
+          "display_name": "OpenAI Developers",
+          "avatar": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+          "verified": true,
+          "followers": 484775,
+          "created_at": "2026-11-19T20:00:42.000Z",
+          "lang": "en",
+          "text": "Sound familiar? GPT-Live-1.1 has powered voice in ChatGPT Plus and Pro since October 15th. Now it can power your apps.\n\nBuild better voice agents that can reliably understand precise details like letters and numbers, follow instructions, and delegate complex workflows to the backend model of your choice without breaking the flow of conversation.\n\nhttps://t.co/n4Q84balAS",
+          "text_zh": "听着耳熟吗？GPT-Live-1.1 从 10 月 15 日起就已经为 ChatGPT Plus 和 Pro 的语音功能提供支持，现在也可以用在你的应用里。用它来做更好的语音代理：能可靠听清字母和数字这类细节，遵守指令，并把复杂工作流交给你选定的后端模型，同时不打断对话节奏。",
+          "summary_zh": "OpenAI 透露 GPT-Live-1.1 从 10 月 15 日起就已驱动 ChatGPT Plus 和 Pro 的语音，现在对开发者开放。",
+          "relation_zh": "母帖像是全新模型上线，这条说明它已在 ChatGPT 语音里跑了约一个月，并补充对字母、数字和后端交接的能力。",
+          "metrics": {
+            "likes": 135,
+            "retweets": 3,
+            "replies": 3,
+            "quotes": 0,
+            "bookmarks": 35,
+            "views": 18910
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://developers.openai.com/api/docs/models/gpt-live-1.1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-20T02:34:49.604574+00:00"
+        },
+        {
+          "id": "2123584051156287952",
+          "url": "https://x.com/vercel_dev/status/2123584051156287952",
+          "handle": "vercel_dev",
+          "display_name": "Vercel Developers",
+          "avatar": "https://pbs.twimg.com/profile_images/1978602411490205696/oLOuP7a2_normal.png",
+          "verified": true,
+          "followers": 49911,
+          "created_at": "2026-11-20T01:07:46.000Z",
+          "lang": "en",
+          "text": "GPT-Live 1.1 from @OpenAI is on AI Gateway.\n\nCompared with GPT-Live 1, it transcribes speech more accurately and keeps its accent and voice more consistent across languages.\n\n𝚘𝚙𝚎𝚗𝚊𝚒/𝚐𝚙𝚝-𝚕𝚒𝚟𝚎-𝟷.𝟷\n\nhttps://t.co/VL9095uWVP",
+          "text_zh": "OpenAI 的 GPT-Live 1.1 已登上 Vercel AI Gateway。与 GPT-Live 1 相比，它转写更准，而且在不同语言里更能保持口音和声音的一致性。模型 ID 为 openai/gpt-live-1.1。",
+          "summary_zh": "Vercel 宣布 GPT-Live 1.1 已进入 AI Gateway，并称转写和跨语言音色一致性比 1 代更好。",
+          "relation_zh": "官方帖面向 OpenAI 自有 API，这条说明开发者也可以从 Vercel AI Gateway 直接调用。",
+          "metrics": {
+            "likes": 11,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 2,
+            "bookmarks": 1,
+            "views": 1237
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://vercel.com/changelog/gpt-live-1-1-now-available-on-ai-gateway"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "OpenAI"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-20T02:34:49.604574+00:00"
+        }
+      ]
     },
     {
       "id": "2123513203745538423",
@@ -647,7 +1028,76 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2123513377268109331",
+          "url": "https://x.com/GeminiApp/status/2123513377268109331",
+          "handle": "GeminiApp",
+          "display_name": "Google Gemini",
+          "avatar": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
+          "verified": true,
+          "followers": 624133,
+          "created_at": "2026-11-19T20:26:56.000Z",
+          "lang": "en",
+          "text": "Computer use is rolling out in the U.S. in English to Google AI Plus, Pro, and Ultra subscribers in the Gemini app for Mac.\n\nDownload the Gemini app for Mac at https://t.co/068cVzPOBk  and learn more about computer use in our blog: https://t.co/WE5QhUjGXL",
+          "text_zh": "Computer use 正在向美国英语用户、且订阅了 Google AI Plus、Pro 或 Ultra 的人，在 Mac 版 Gemini 应用中逐步推出。可在 gemini.google/mac 下载 Mac 版 Gemini 应用，也可以在博客里了解更多。",
+          "summary_zh": "官方明确 computer use 先在美国以英语推出，面向 Google AI Plus、Pro 和 Ultra 订阅用户，并给出下载和博客链接。",
+          "relation_zh": "母帖只演示了能力，这条补上了地区、语言和付费档门槛，以及下载地址。",
+          "metrics": {
+            "likes": 65,
+            "retweets": 2,
+            "replies": 4,
+            "quotes": 2,
+            "bookmarks": 20,
+            "views": 13677
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://gemini.google/desktop/",
+            "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-20T02:34:49.604574+00:00"
+        },
+        {
+          "id": "2123479691709317622",
+          "url": "https://x.com/TechCrunch/status/2123479691709317622",
+          "handle": "TechCrunch",
+          "display_name": "TechCrunch",
+          "avatar": "https://pbs.twimg.com/profile_images/1096066608034918401/m8wnTWsX_normal.png",
+          "verified": true,
+          "followers": 11084289,
+          "created_at": "2026-11-19T18:13:05.000Z",
+          "lang": "en",
+          "text": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.\nhttps://t.co/ibklfLNA8n",
+          "text_zh": "谷歌对 Gemini 的最新更新，是把一个能在 Mac 上整理文件、填写表单、处理多步工作流的 AI 智能体带进了应用。",
+          "summary_zh": "TechCrunch 报道 Gemini Mac 版新增电脑操作智能体，可整理文件、填表并处理多步工作流。",
+          "relation_zh": "母帖用 Blender 演示吸引注意，这条是主流科技媒体的报道，把能力概括成整理文件、填表和多步工作流。",
+          "metrics": {
+            "likes": 65,
+            "retweets": 12,
+            "replies": 32,
+            "quotes": 13,
+            "bookmarks": 31,
+            "views": 22102
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-20T02:34:49.604574+00:00"
+        }
+      ]
     },
     {
       "id": "2123461101224624402",
@@ -783,7 +1233,143 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2123461108543725741",
+          "url": "https://x.com/ideogram_ai/status/2123461108543725741",
+          "handle": "ideogram_ai",
+          "display_name": "Ideogram",
+          "avatar": "https://pbs.twimg.com/profile_images/2062202352526831616/9CslGhhc_normal.jpg",
+          "verified": true,
+          "followers": 75461,
+          "created_at": "2026-11-19T16:59:14.000Z",
+          "lang": "en",
+          "text": "Ideogram 4.6 dramatically improves color and material accuracy. With native 4K resolution, we hope this opens up new e-commerce and product photography applications. https://t.co/AyQCgCOQwY",
+          "text_zh": "Ideogram 4.6 大幅提升了色彩和材质的准确性。加上原生 4K 分辨率，我们希望这能为电商和产品摄影打开新的应用空间。",
+          "summary_zh": "Ideogram 强调 4.6 的色彩与材质更准，并指望原生 4K 能用到电商和产品摄影。",
+          "relation_zh": "母帖讲精确编辑和减少像素漂移，这条把卖点落到色彩、材质和电商场景，并配了官方演示视频。",
+          "metrics": {
+            "likes": 36,
+            "retweets": 1,
+            "replies": 1,
+            "quotes": 1,
+            "bookmarks": 3,
+            "views": 2063
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1312,
+              "h": 1312,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2123456099042881536/vid/avc1/1312x1312/QnmlOJ0YDk2HR1ge.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2123456099042881536/img/rqTzagd9KSeTHZb7.jpg",
+              "duration_ms": 12200
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/ideogram_ai/status/2123461108543725741/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-20T02:34:49.604574+00:00"
+        },
+        {
+          "id": "2123461112297611319",
+          "url": "https://x.com/ideogram_ai/status/2123461112297611319",
+          "handle": "ideogram_ai",
+          "display_name": "Ideogram",
+          "avatar": "https://pbs.twimg.com/profile_images/2062202352526831616/9CslGhhc_normal.jpg",
+          "verified": true,
+          "followers": 75461,
+          "created_at": "2026-11-19T16:59:15.000Z",
+          "lang": "en",
+          "text": "Ideogram 4.6 excels at sketch to image. Sketch remains one of the primary ways creatives control image output. The new model stays as faithful as possible to your sketch. https://t.co/fBIn6sbtYT",
+          "text_zh": "Ideogram 4.6 擅长从草图生成图像。草图仍是创作者控制画面的主要方式之一，新模型会尽可能忠实地跟着你的线稿走。",
+          "summary_zh": "官方演示 Ideogram 4.6 的草图转图像：新模型会尽量贴着创作者的线稿走。",
+          "relation_zh": "母帖没有展开草图工作流，这条补上了创作者最常用的控制方式，并配了对应演示。",
+          "metrics": {
+            "likes": 35,
+            "retweets": 1,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 2,
+            "views": 1444
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2123456816919040000/vid/avc1/1920x1080/3yoL7UFq0bvE9pu1.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2123456816919040000/img/4KggiGP-pAJNx4F-.jpg",
+              "duration_ms": 10100
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/ideogram_ai/status/2123461112297611319/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-20T02:34:49.604574+00:00"
+        },
+        {
+          "id": "2123461114935628244",
+          "url": "https://x.com/ideogram_ai/status/2123461114935628244",
+          "handle": "ideogram_ai",
+          "display_name": "Ideogram",
+          "avatar": "https://pbs.twimg.com/profile_images/2062202352526831616/9CslGhhc_normal.jpg",
+          "verified": true,
+          "followers": 75461,
+          "created_at": "2026-11-19T16:59:16.000Z",
+          "lang": "en",
+          "text": "Ideogram 4.6 ranks #1 on Rapidata’s Multi-step Image Edit leaderboard, ahead of every other model including Seedream 5.5 and FLUX 3 Image.\n\nIn plain terms: you can stack multiple edits, and pixels and textures stay intact. https://t.co/299jVRhDT7",
+          "text_zh": "Ideogram 4.6 在 Rapidata 的多步图像编辑排行榜上排名第一，领先包括 Seedream 5.5 和 FLUX 3 Image 在内的所有其他模型。说白了：你可以连续改很多轮，像素和质感还能保持住。",
+          "summary_zh": "Ideogram 称 4.6 在 Rapidata 多步图像编辑榜上拿到第一，领先 Seedream 5.5 和 FLUX 3 Image。",
+          "relation_zh": "母帖只定性说编辑时更少把别处改坏，这条给出可对比的榜单名次和具体对手。",
+          "metrics": {
+            "likes": 29,
+            "retweets": 1,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 3,
+            "views": 1721
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1664,
+              "h": 1550,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXgJlmVXoAAFNRO.png",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/ideogram_ai/status/2123461114935628244/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-20T02:34:49.604574+00:00"
+        }
+      ]
     },
     {
       "id": "2123471880292299171",
@@ -919,7 +1505,42 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2123466083751313561",
+          "url": "https://x.com/VentureBeat/status/2123466083751313561",
+          "handle": "VentureBeat",
+          "display_name": "VentureBeat",
+          "avatar": "https://pbs.twimg.com/profile_images/1268192121477046272/oxLhAY5V_normal.jpg",
+          "verified": true,
+          "followers": 686226,
+          "created_at": "2026-11-19T17:19:01.000Z",
+          "lang": "en",
+          "text": "Exclusive: OpenAI reveals Performance Factory, a Codex-powered software optimization system that keeps ChatGPT fast\nhttps://t.co/bK7ZLPi2t3",
+          "text_zh": "独家：OpenAI 公布 Performance Factory，这是一套由 Codex 驱动、用于软件优化的系统，用来让 ChatGPT 保持快。",
+          "summary_zh": "VentureBeat 独家报道：OpenAI 用 Codex 打造内部系统 Performance Factory，自动调查并缓解性能回退，以保持 ChatGPT 的速度。",
+          "relation_zh": "官方帖只概括了「调查、提修复、再验证」的流程，这篇独家报道补上了三个多月 1700 多次调查、600 多起根因、日均约 17 次等具体数字。",
+          "metrics": {
+            "likes": 15,
+            "retweets": 0,
+            "replies": 2,
+            "quotes": 1,
+            "bookmarks": 0,
+            "views": 2414
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://venturebeat.com/ai/exclusive-openai-reveals-performance-factory-a-codex-powered-software-optimization-system-that-keeps-chatgpt-fast"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-20T02:34:49.604574+00:00"
+        }
+      ]
     },
     {
       "id": "2123234769236619673",
