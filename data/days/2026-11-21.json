@@ -146,7 +146,132 @@
         "text": "Oh my god: Anthropic mathematician Levent Alpöge (@__alpoge__) says he has proven the Riemann Hypothesis, open for 167 years. \n\n\"I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis.\"\n\nHe says the method also covers the Generalized Riemann Hypothesis. The proof is out as Lean code (a proof language where a computer checks every step), so experts should be able to check it quickly, Scientific American reports.\n\nSame Alpöge who was behind this year's Jacobian conjecture result and the Navier-Stokes work with Tristan Buckmaster.\n\nI assume we will get an official statement very soon from him!!"
       },
       "x_long": true,
-      "article_summary_zh": "Anthropic 数学家 Levent Alpöge 宣布，他与 Claude 合作找到了黎曼猜想的证明，并称同一方法可覆盖广义黎曼猜想。证明以 Lean 形式化代码公开，每一步可由计算机检查，因此核验速度可能远快于传统同行评审。Alpöge 此前还参与了今年的雅可比猜想成果和纳维-斯托克斯方程研究。目前结果仍待独立数学家确认，Artificial Analysis 等机构也强调分数只是“暂定”。"
+      "article_summary_zh": "Anthropic 数学家 Levent Alpöge 宣布，他与 Claude 合作找到了黎曼猜想的证明，并称同一方法可覆盖广义黎曼猜想。证明以 Lean 形式化代码公开，每一步可由计算机检查，因此核验速度可能远快于传统同行评审。Alpöge 此前还参与了今年的雅可比猜想成果和纳维-斯托克斯方程研究。目前结果仍待独立数学家确认，Artificial Analysis 等机构也强调分数只是“暂定”。",
+      "attached_posts": [
+        {
+          "id": "2123773647919661288",
+          "url": "https://x.com/scottnarmstrong/status/2123773647919661288",
+          "handle": "scottnarmstrong",
+          "display_name": "Scott Armstrong",
+          "avatar": "https://pbs.twimg.com/profile_images/2021179406778073088/rT1rgpxI_normal.jpg",
+          "verified": true,
+          "followers": 6448,
+          "created_at": "2026-11-20T13:41:10.000Z",
+          "lang": "und",
+          "text": "@__alpoge__   ftw ? https://t.co/dXa31MWbvT",
+          "text_zh": "@__alpoge__  这是真成了？",
+          "summary_zh": "Scott Armstrong 回复 Alpöge，并贴出其个人网站声明截图，询问这份黎曼猜想证明是否真的成立。",
+          "relation_zh": "母帖转述了声明内容，这条是更早传开的网站声明截图，把原文页面直接放到了卡片里。",
+          "metrics": {
+            "likes": 3366,
+            "retweets": 0,
+            "replies": 168,
+            "quotes": 553,
+            "bookmarks": 722,
+            "views": 1328115
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 2058,
+              "h": 992,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXkoiilWgAAAeN1.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/scottnarmstrong/status/2123773647919661288/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "__alpoge__"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-21T03:16:26.029736+00:00"
+        },
+        {
+          "id": "2123789800805429617",
+          "url": "https://x.com/MaxForAI/status/2123789800805429617",
+          "handle": "MaxForAI",
+          "display_name": "Max For AI",
+          "avatar": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+          "verified": true,
+          "followers": 47007,
+          "created_at": "2026-11-20T14:45:21.000Z",
+          "lang": null,
+          "text": "卧槽？？？？黎曼猜想可能真的被Claude证明了？？？\n\n刚刚，Anthropic的数学家Levent Alpöge在个人网站上发布了一份声明，声称他和Claude一起找到了黎曼猜想（Riemann Hypothesis）的证明。 https://t.co/jhdCHSOanK https://t.co/kFulhSURHt",
+          "text_zh": "卧槽？？？？黎曼猜想可能真的被 Claude 证明了？？？\n\n刚刚，Anthropic 的数学家 Levent Alpöge 在个人网站上发布了一份声明，声称他和 Claude 一起找到了黎曼猜想（Riemann Hypothesis）的证明。\n\n更离谱的是，他说这套方法还可以直接推广到广义黎曼猜想（GRH），而且他们已经用 Lean 完成了形式化证明，并公开了相关文件。\n\n要知道，这可是 1859 年提出、困扰数学界 167 年的黎曼猜想，数学界最著名的七大千禧年难题之一。\n\n而且 Levent Alpöge 也不是什么民间数学爱好者。他是普林斯顿数学博士、哈佛前 Junior Fellow，现在就在 Anthropic 工作。\n\n他在声明里还提到了一个非常惊人的细节：在证明的最后阶段，Claude 的进展速度已经远远超过了他本人。他甚至形容，Claude 在终点线前飞了起来、跳起了舞。\n\n整个证明极其庞大，他尝试生成的完整文字版本甚至超过了 25 万页，目前先公开了 Lean 形式化文件。\n\n当然，现在还只是作者本人宣布证明成功，尚未经过数学界独立验证。\n\n但如果这个证明最终成立……那我们今天可能真的见证了数学史和 AI 发展史上最重要的时刻之一。",
+          "summary_zh": "中文圈热帖梳理了 Alpöge 的声明：方法或可推广到广义黎曼猜想，Lean 文件已公开，完整文字稿自称超过 25 万页，但尚未经数学界独立验证。",
+          "relation_zh": "母帖偏英文快讯，这条把声明里的关键细节和“仍待独立核验”写得更完整，便于后续研究时对照原文。",
+          "metrics": {
+            "likes": 1386,
+            "retweets": 232,
+            "replies": 69,
+            "quotes": 67,
+            "bookmarks": 392,
+            "views": 256554
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1900,
+              "h": 1308,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXk3jyBaEAAff_5.png",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://t.co/kFulhSURHt"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2123773647919661288",
+          "article_title": null,
+          "attached_at": "2026-11-21T03:16:26.029736+00:00"
+        },
+        {
+          "id": "2123782587235655707",
+          "url": "https://x.com/sciam/status/2123782587235655707",
+          "handle": "sciam",
+          "display_name": "Scientific American",
+          "avatar": "https://pbs.twimg.com/profile_images/1704126231371771905/McZuDEgT_normal.jpg",
+          "verified": true,
+          "followers": 4249174,
+          "created_at": "2026-11-20T14:16:41.000Z",
+          "lang": "en",
+          "text": "BREAKING: A mathematician at Anthropic claims to have used the company's AI to solve the Riemann hypothesis, the most notorious open problem in all of math\n\nhttps://t.co/nEXAyIkvSt",
+          "text_zh": "快讯：Anthropic 的一位数学家宣称，他利用该公司的 AI 解决了数学界最著名的未解难题——黎曼猜想。",
+          "summary_zh": "《科学美国人》官方账号发快讯：Anthropic 数学家宣称借助该公司 AI 攻克黎曼猜想，并附上报道链接。",
+          "relation_zh": "母帖提到 Scientific American 的报道，这是杂志官方账号的原文推送和文章入口，便于核对转述是否准确。",
+          "metrics": {
+            "likes": 15553,
+            "retweets": 0,
+            "replies": 532,
+            "quotes": 1887,
+            "bookmarks": 3564,
+            "views": 3241925
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/?utm_source=twitter&utm_medium=social&utm_campaign=buffer"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-21T03:16:26.029736+00:00"
+        }
+      ]
     },
     {
       "id": "2123871643797995872",
@@ -285,7 +410,130 @@
       "external_url": "https://thinkingmachines.ai/news/inkling-2-mini/",
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "Inkling 2 Mini 是 MoE 架构的循环 Transformer，总参数 26.4B、激活 3.4B，每个 token 会把中间层跑三遍，从而在内部多“想”几步、少写推理 token。官方称它在 DeepSWE v1.1（48.2%）和 Vals Index v2.2（46.5%）上领先所有 100B 以下的开源权重模型，SWE-bench Pro v2 也领先同级，仅在部分评测上落后 Qwen3.8-27B。权重大部分以 NVFP4 原生训练和部署，总占用约 20GB，研究员曾在飞机上用断网的 MacBook Pro 几分钟做出一个可玩的飞行模拟器。团队同时发布了可变循环次数的研究版，用于研究循环深度对思维链可监控性的影响，结论是推理链变短但仍可读，未见破坏性行为上升。模型已上架 Hugging Face，并支持 SGLang、vLLM、Ollama、Unsloth 等推理框架和 Tinker 微调。"
+      "article_summary_zh": "Inkling 2 Mini 是 MoE 架构的循环 Transformer，总参数 26.4B、激活 3.4B，每个 token 会把中间层跑三遍，从而在内部多“想”几步、少写推理 token。官方称它在 DeepSWE v1.1（48.2%）和 Vals Index v2.2（46.5%）上领先所有 100B 以下的开源权重模型，SWE-bench Pro v2 也领先同级，仅在部分评测上落后 Qwen3.8-27B。权重大部分以 NVFP4 原生训练和部署，总占用约 20GB，研究员曾在飞机上用断网的 MacBook Pro 几分钟做出一个可玩的飞行模拟器。团队同时发布了可变循环次数的研究版，用于研究循环深度对思维链可监控性的影响，结论是推理链变短但仍可读，未见破坏性行为上升。模型已上架 Hugging Face，并支持 SGLang、vLLM、Ollama、Unsloth 等推理框架和 Tinker 微调。",
+      "attached_posts": [
+        {
+          "id": "2123923666241294422",
+          "url": "https://x.com/mhrezaeics/status/2123923666241294422",
+          "handle": "mhrezaeics",
+          "display_name": "MohammadHossein Rezaei",
+          "avatar": "https://pbs.twimg.com/profile_images/1890154594719920130/6AD2SYiU_normal.jpg",
+          "verified": true,
+          "followers": 1537,
+          "created_at": "2026-11-20T23:37:17.000Z",
+          "lang": "en",
+          "text": "We took Inkling 2 Mini with us on a plane with no wifi and had it build a flight simulator, running entirely locally on my Mac. ✈️\nTry Inkling 2 Mini on your laptop! https://t.co/YbLKgPREGT https://t.co/YBimUe1Pjx",
+          "text_zh": "我们把 Inkling 2 Mini 带上了一趟没有 Wi-Fi 的飞机，让它在我的 Mac 上完全离线搭出了一个飞行模拟器。也去你的笔记本上试试 Inkling 2 Mini 吧！",
+          "summary_zh": "有人把 Inkling 2 Mini 带上无网络航班，在 Mac 上完全离线跑模型，并让它搭出了一个飞行模拟器。",
+          "relation_zh": "母帖强调模型小到能在笔记本上运行，这条视频用“飞机上断网做飞行模拟器”把本地可用写成了可见演示。",
+          "metrics": {
+            "likes": 293,
+            "retweets": 28,
+            "replies": 14,
+            "quotes": 11,
+            "bookmarks": 70,
+            "views": 40002
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 3364,
+              "h": 1882,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2123922710715936768/vid/avc1/3364x1882/ndOwOVQDXb0aIs08.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2123922710715936768/img/7ILVAjG-FvAwbzwp.jpg",
+              "duration_ms": 51633
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/mhrezaeics/status/2123923666241294422/video/1",
+            "https://twitter.com/thinkymachines/status/2123871643797995872"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2123871643797995872",
+          "article_title": null,
+          "attached_at": "2026-11-21T03:16:26.029736+00:00"
+        },
+        {
+          "id": "2123877871316087012",
+          "url": "https://x.com/ArtificialAnlys/status/2123877871316087012",
+          "handle": "ArtificialAnlys",
+          "display_name": "Artificial Analysis",
+          "avatar": "https://pbs.twimg.com/profile_images/2042402069320290304/A8C1lP07_normal.jpg",
+          "verified": true,
+          "followers": 183113,
+          "created_at": "2026-11-20T20:35:18.000Z",
+          "lang": "en",
+          "text": "Thinking Machines has released Inkling 2 Mini at 20 on the Artificial Analysis Intelligence Index, an open weights looped transformer on the Pareto frontier for Intelligence vs. Active Parameters\n\nInkling 2 Mini is a 26B total, 5.4B active parameter mixture-of-experts model. The 5.4B active parameter count includes three passes through its looped layers; it uses 3.1B unique weights per text token, and it is small enough to run on a MacBook or DGX Spark.\n\nIt is released under an Apache 2.0 license, with text and image input and a 1M token context window.\n\nCongratulations to @thinkymachines on the release! 🧵",
+          "text_zh": "Thinking Machines 发布了 Inkling 2 Mini，在 Artificial Analysis 智能指数上得到 20 分。这是一个开源权重的循环 Transformer，处在“智力 vs 激活参数”的帕累托前沿。它总参数 26B、激活 5.4B（含循环层的三次计算）；每个文本 token 实际用到 3.1B 独立权重，体积小到可以在 MacBook 或 DGX Spark 上运行。以 Apache 2.0 许可发布，支持文本和图像输入，上下文窗口 100 万 token。恭喜 Thinking Machines 发布！",
+          "summary_zh": "Artificial Analysis 确认 Inkling 2 Mini 智能指数约 20 分，处在激活参数效率的帕累托前沿，并补充 100 万上下文、Apache 2.0 以及图文输入。",
+          "relation_zh": "母帖给出 AA Index 20.1 的分数，这条是评测机构自己的图文说明，补上了激活参数算法、许可和上下文窗口等细节。",
+          "metrics": {
+            "likes": 760,
+            "retweets": 50,
+            "replies": 39,
+            "quotes": 24,
+            "bookmarks": 137,
+            "views": 47164
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 2048,
+              "h": 1172,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXl_McUakAAyo6T.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/ArtificialAnlys/status/2123877871316087012/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-21T03:16:26.029736+00:00"
+        },
+        {
+          "id": "2123871645039464643",
+          "url": "https://x.com/thinkymachines/status/2123871645039464643",
+          "handle": "thinkymachines",
+          "display_name": "Thinking Machines",
+          "avatar": "https://pbs.twimg.com/profile_images/2075275500420001792/Q9J4M1DL_normal.jpg",
+          "verified": true,
+          "followers": 193969,
+          "created_at": "2026-11-20T20:10:34.000Z",
+          "lang": null,
+          "text": "Inkling 2 Mini is a looped transformer with 24 layers. The middle 12 layers loop three times; the first and last six run once.\n\nLooping lets a model reason more while writing less, which has raised concerns about monitorability. We studied this as part of our release.",
+          "text_zh": "Inkling 2 Mini 是一个 24 层的循环 Transformer。中间 12 层会循环三次，首尾各 6 层只运行一次。循环能让模型多想、少写，这也引发了关于“可监控性”的担忧。我们在这次发布中对此做了研究。",
+          "summary_zh": "官方说明 Inkling 2 Mini 的循环结构：24 层里中间 12 层循环三次；并提到他们研究过“多想少写”带来的可监控性顾虑。",
+          "relation_zh": "这是发布线程里的架构说明，补充了母帖没有展开的层数安排，以及官方对可监控性的回应。",
+          "metrics": {
+            "likes": 604,
+            "retweets": 8,
+            "replies": 8,
+            "quotes": 6,
+            "bookmarks": 39,
+            "views": 74972
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-21T03:16:26.029736+00:00"
+        }
+      ]
     },
     {
       "id": "2123882452938871241",
@@ -704,7 +952,117 @@
       "is_article": false,
       "external_url": "https://twitter.com/officiallogank/status/2123657759896007035",
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2123712361727139887",
+          "url": "https://x.com/hqmank/status/2123712361727139887",
+          "handle": "hqmank",
+          "display_name": "Kai",
+          "avatar": "https://pbs.twimg.com/profile_images/2001227557765832707/XG7mxw62_normal.jpg",
+          "verified": true,
+          "followers": 15570,
+          "created_at": "2026-11-20T09:37:38.000Z",
+          "lang": "en",
+          "text": "Antigravity quota could start opening up to third-party harnesses on Dec 2.\n\nGemini 4 in Codex, Claude Code, Pi? Could happen 👀 https://t.co/DZVGuhnojF",
+          "text_zh": "Antigravity 的额度有可能从 12 月 2 日起向第三方 harness 开放。Gemini 4 用进 Codex、Claude Code、Pi？有可能发生。",
+          "summary_zh": "有开发者猜测：12 月 2 日的第一步，或许是把 Antigravity 额度开放给 Codex、Claude Code、Pi 等第三方 harness。",
+          "relation_zh": "母帖把 Logan 的话解读为“任意 harness + 订阅额度”，这条配图讨论更具体的可能范围，但仍是猜测，不是谷歌公告。",
+          "metrics": {
+            "likes": 116,
+            "retweets": 0,
+            "replies": 23,
+            "quotes": 1,
+            "bookmarks": 9,
+            "views": 5699
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1090,
+              "h": 586,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXju5toaoAAIoMU.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/hqmank/status/2123712361727139887/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-21T03:16:26.029736+00:00"
+        },
+        {
+          "id": "2123657759896007035",
+          "url": "https://x.com/OfficialLoganK/status/2123657759896007035",
+          "handle": "OfficialLoganK",
+          "display_name": "Logan Kilpatrick",
+          "avatar": "https://pbs.twimg.com/profile_images/1943787288955084800/QOl7OJMc_normal.jpg",
+          "verified": true,
+          "followers": 401915,
+          "created_at": "2026-11-20T06:00:40.000Z",
+          "lang": "en",
+          "text": "@kunchenguid December 2nd we take the first step",
+          "text_zh": "@kunchenguid 12 月 2 日，我们迈出第一步。",
+          "summary_zh": "Google 的 Logan Kilpatrick 回复称：12 月 2 日，我们迈出第一步。",
+          "relation_zh": "这是母帖所引的官方原话。Logan 只确认“迈出第一步”的日期，并未说明当天会开放哪些工具、能否直接抵扣订阅额度。",
+          "metrics": {
+            "likes": 6645,
+            "retweets": 0,
+            "replies": 315,
+            "quotes": 269,
+            "bookmarks": 507,
+            "views": 656277
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [
+            "kunchenguid"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-21T03:16:26.029736+00:00"
+        },
+        {
+          "id": "2123643593688822222",
+          "url": "https://x.com/kunchenguid/status/2123643593688822222",
+          "handle": "kunchenguid",
+          "display_name": "Kun Chen",
+          "avatar": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_normal.jpg",
+          "verified": true,
+          "followers": 44567,
+          "created_at": "2026-11-20T05:04:22.000Z",
+          "lang": "en",
+          "text": "gemini 4 neon is not bad! talking to it is such a breath of fresh air \n\nall they need to do now is to allow gemini subscription in any harness\n\na come back is as easy as that",
+          "text_zh": "Gemini 4 Neon 其实不错！跟它聊天很清爽。谷歌现在只差一步：允许 Gemini 订阅用在任意 harness 里。要王者归来，其实就这么简单。",
+          "summary_zh": "Kun Chen 称赞 Gemini 4 Neon 好用，并呼吁谷歌允许把 Gemini 订阅用在任意智能体 harness 中。",
+          "relation_zh": "这是 Logan 那句“第一步”所回复的原帖，说明官方表态是针对“订阅能用在任意 harness”这一诉求，而不是一份产品说明书。",
+          "metrics": {
+            "likes": 3138,
+            "retweets": 0,
+            "replies": 112,
+            "quotes": 14,
+            "bookmarks": 162,
+            "views": 191641
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-21T03:16:26.029736+00:00"
+        }
+      ]
     },
     {
       "id": "2123875791566168423",
@@ -2298,7 +2656,144 @@
       "is_article": false,
       "external_url": "https://twitter.com/andonlabs/status/2123570732575989832",
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2123866468156854664",
+          "url": "https://x.com/ArtificialAnlys/status/2123866468156854664",
+          "handle": "ArtificialAnlys",
+          "display_name": "Artificial Analysis",
+          "avatar": "https://pbs.twimg.com/profile_images/2042402069320290304/A8C1lP07_normal.jpg",
+          "verified": true,
+          "followers": 183113,
+          "created_at": "2026-11-20T19:50:00.000Z",
+          "lang": "en",
+          "text": "GPT-6.2 Astra gets the job done in the fewest moves of any model we’ve tested in AA-Robotics v0.1\n\nIt cleaned up the box with 92 arm commands, ~75% fewer than Claude Fable 5.2. Across six tasks it sent 668, the fewest of 11 models, and scored the highest https://t.co/ND5u3Db7pV",
+          "text_zh": "GPT-6.2 Astra 在我们测试过的模型里，完成任务所需的动作最少。清理箱子只用了 92 条机械臂指令，比 Claude Fable 5.2 少约 75%。在六项任务中，它总共发出 668 条指令，是 11 个模型里最少的，得分也最高。",
+          "summary_zh": "Artificial Analysis 的 AA-Robotics 测试里，GPT-6.2 Astra 用最少的机械臂指令完成任务，清理箱子只需 92 步，比 Claude Fable 5.2 少约 75%。",
+          "relation_zh": "母帖说 Astra 在看照片画户型图上超过人类基线，这条用机械臂整理箱子的视频，从另一个物理世界任务印证它的空间能力。",
+          "metrics": {
+            "likes": 184,
+            "retweets": 0,
+            "replies": 15,
+            "quotes": 5,
+            "bookmarks": 26,
+            "views": 13998
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2123856804627263488/vid/avc1/1920x1080/hGeyY6FPcFJB_lmc.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2123856804627263488/img/xVDwVZvU8v6LiGKB.jpg",
+              "duration_ms": 29824
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/ArtificialAnlys/status/2123866468156854664/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-21T03:16:26.029736+00:00"
+        },
+        {
+          "id": "2123677199345779094",
+          "url": "https://x.com/GeekCatX/status/2123677199345779094",
+          "handle": "GeekCatX",
+          "display_name": "知识猫",
+          "avatar": "https://pbs.twimg.com/profile_images/2069337800160493568/gwKnHrWD_normal.jpg",
+          "verified": true,
+          "followers": 34816,
+          "created_at": "2026-11-20T07:17:54.000Z",
+          "lang": "zh",
+          "text": "GPT 6.2 Astra直接根据深圳夜景宣传视频，帮我使用纯代码实现了建模，GPT 6.2 Astra 图片，视频转3D目前第一名！ https://t.co/Ucd7mmnuro https://t.co/w5c7fMughU",
+          "text_zh": "GPT-6.2 Astra 直接根据深圳夜景宣传视频，帮我用纯代码实现了建模。目前在图片、视频转 3D 上，它是第一名。",
+          "summary_zh": "猫咪老师用 GPT-6.2 Astra 根据深圳夜景宣传视频，纯代码复刻出三维场景，并称它在图视频转 3D 上目前领先。",
+          "relation_zh": "母帖是基准成绩，这条是同一模型把真实城市宣传视频建成三维场景的演示，把“三维理解”从排行榜落到可见效果。",
+          "metrics": {
+            "likes": 14,
+            "retweets": 0,
+            "replies": 5,
+            "quotes": 1,
+            "bookmarks": 11,
+            "views": 3576
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2123676630220697600/vid/avc1/1920x1080/8rn-JFCvJg-DWx87.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2123676630220697600/img/iiAcpbS_K0lgsEKb.jpg",
+              "duration_ms": 20566
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/GeekCatX/status/2123677199345779094/video/1",
+            "https://twitter.com/GeekCatX/status/2123093246645829974"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2123093246645829974",
+          "article_title": null,
+          "attached_at": "2026-11-21T03:16:26.029736+00:00"
+        },
+        {
+          "id": "2123570732575989832",
+          "url": "https://x.com/andonlabs/status/2123570732575989832",
+          "handle": "andonlabs",
+          "display_name": "Andon Labs",
+          "avatar": "https://pbs.twimg.com/profile_images/1864729396801945600/Hfze5w-k_normal.jpg",
+          "verified": true,
+          "followers": 19165,
+          "created_at": "2026-11-20T00:14:51.000Z",
+          "lang": "en",
+          "text": "GPT-6.2 Astra understands the physical 3D world better than any other AI.\n\nIt ranks #1 on Blueprint-Bench 2, a benchmark where AI agents draw floorplans from photographs of apartment interiors.\n\nGPT-6.2 Sol is also very strong, ranking #3. https://t.co/ZQeY3M53hF",
+          "text_zh": "GPT-6.2 Astra 对物理三维世界的理解超过其他任何 AI。它在 Blueprint-Bench 2 上排名第一，这项基准要求智能体根据公寓室内照片绘制户型图。GPT-6.2 Sol 也很强，排在第三。",
+          "summary_zh": "Andon Labs 公布 Blueprint-Bench 2 榜单：GPT-6.2 Astra 登顶，任务是根据公寓室内照片绘制户型图，Sol 排第三。",
+          "relation_zh": "这是 Greg Brockman 转发的官方原帖，带上完整榜单截图，补充了基准规则和 Sol 的名次。",
+          "metrics": {
+            "likes": 873,
+            "retweets": 0,
+            "replies": 60,
+            "quotes": 37,
+            "bookmarks": 150,
+            "views": 111396
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 3333,
+              "h": 2748,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXhwTE9bMAAW8PI.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/andonlabs/status/2123570732575989832/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-21T03:16:26.029736+00:00"
+        }
+      ]
     },
     {
       "id": "2123828039276773655",
