@@ -215,7 +215,7 @@
       ]
     },
     "industry": {
-      "label": "算力与融资",
+      "label": "算力·融资·股市",
       "handles": [
         "a16z",
         "ycombinator",
@@ -263,6 +263,16 @@
       "section": "opensource",
       "name": "GitHub trending / 开源飙升",
       "query": "(\"GitHub trending\" OR \"trending on GitHub\" OR \"GitHub stars\" OR \"just hit\" stars OR \"开源热榜\" OR \"GitHub 热榜\") (repo OR repository OR github.com) -is:retweet -is:reply"
+    },
+    {
+      "section": "industry",
+      "name": "英文 AI 股市",
+      "query": "(Nasdaq OR \"tech stocks\" OR NVDA OR NVIDIA OR Anthropic) (plunge OR slump OR crash OR selloff OR \"sell-off\" OR \"AI bubble\" OR IPO) (AI OR NVIDIA OR Anthropic OR OpenAI OR semiconductor OR \"Magnificent 7\") is:verified -is:retweet -is:reply lang:en"
+    },
+    {
+      "section": "industry",
+      "name": "中文 AI 股市",
+      "query": "(纳指 OR 纳斯达克 OR 美股 OR 科技股 OR 英伟达) (暴跌 OR 大跌 OR 泡沫 OR 上市 OR 股价) (AI OR 英伟达 OR Anthropic OR OpenAI OR 半导体) lang:zh -is:retweet -is:reply -币 -代币"
     }
   ]
 }

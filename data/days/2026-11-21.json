@@ -5988,7 +5988,7 @@
     },
     {
       "id": "2123895558104547821",
-      "section": "zh",
+      "section": "industry",
       "handle": "oran_ge",
       "display_name": "Orange AI",
       "avatar": "",
@@ -6025,9 +6025,9 @@
       ],
       "kind_label": "文章",
       "kind_override": null,
-      "rec_score": 50,
-      "recommended": false,
-      "rec_reason": "市场剧烈回调会快速传导到 AI 融资和估值，创业者需要关注资本情绪变化、提前准备更长的现金跑道。",
+      "rec_score": 72,
+      "recommended": true,
+      "rec_reason": "纳指单日暴跌约 5% 是由 AI 叙事带动的资本市场信号，会快速传导到融资、估值和后续 IPO 窗口，创业者需要关注资本情绪变化、提前准备更长的现金跑道。",
       "discussion_summary": "评论分歧明显：高赞回复讽刺作者“见风使舵，涨时吹 AI、跌时喊泡沫”，作者回应称自己一直主张 AI 要大力发展但不该制造泡沫。也有人分析这轮回调是资本开支提前贴现与商业化现金流兑现之间的剪刀差，并指出卖铲子的 AMD、博通和美光跌得最狠。",
       "top_replies": [
         {
@@ -6773,9 +6773,9 @@
       "models": 7,
       "coding": 3,
       "creative": 1,
-      "industry": 3,
+      "industry": 4,
       "opensource": 2,
-      "zh": 14,
+      "zh": 13,
       "video": 7,
       "gossip": 0
     },
@@ -6805,7 +6805,7 @@
       "post": 3,
       "repo": 2
     },
-    "recommended": 12,
+    "recommended": 13,
     "rec_missing": [],
     "replies": {
       "posts": 52,

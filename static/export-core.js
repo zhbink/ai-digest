@@ -3,7 +3,7 @@
 // Pure functions only: no DOM, no localStorage. `base` = the site's base URL (e.g. https://zhbink.github.io/ai-digest/).
 (function (root) {
   "use strict";
-  const sectionLabel = { agent: "AI Agent", models: "模型与大佬", coding: "AI 编程", creative: "图像·语音·音乐", industry: "算力与融资",
+  const sectionLabel = { agent: "AI Agent", models: "模型与大佬", coding: "AI 编程", creative: "图像·语音·音乐", industry: "算力·融资·股市",
     opensource: "开源热度", zh: "中文圈", video: "AI 视频", gossip: "花边八卦" };
   const SECTIONS = Object.keys(sectionLabel);   // display order
   const kindLabel = { post: "帖子", longpost: "长帖", article: "文章", paper: "论文", tutorial: "教程", video: "视频", repo: "仓库" };

@@ -193,6 +193,10 @@ def build_post(row: dict, users: dict, media_map: dict, section: str, cfg: dict)
 
 def assign_section(row: dict, users: dict, cfg: dict) -> str | None:
     hint = row.get("section_hint") or ""
+    valid = set((cfg.get("sections") or {}).keys())
+    # Explicit hint wins so topic routing works (e.g. a 中文圈 author posting AI market news -> industry).
+    if hint and hint in valid:
+        return hint
     p = row["post"]
     user = users.get(str(p.get("author_id") or "")) or {}
     handle = (user.get("username") or "").lower()
@@ -204,13 +208,11 @@ def assign_section(row: dict, users: dict, cfg: dict) -> str | None:
             handle_map.setdefault(h.lower(), []).append(sec)
     if handle in handle_map:
         secs = handle_map[handle]
-        if hint and hint in secs:
-            return hint
         for pref in priority:
             if pref in secs:
                 return pref
         return secs[0]
-    return hint or None
+    return None
 
 def main():
     ap = argparse.ArgumentParser()
