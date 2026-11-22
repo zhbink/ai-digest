@@ -149,7 +149,163 @@
         "text": "The Lean FRO and Mathlib Initiative have released a joint statement on the Lean verification of the Riemann Hypothesis.\n\nOn November 20, Levent Alpöge released a proof of the Riemann Hypothesis as a Lean library of 17 million lines of code. Over the past day, the Lean and Mathlib communities worked together to verify it. The statement certifies the proof as correct and describes how it meets all necessary verification criteria.\n\nCongratulations to Levent on this achievement, and thank you to everyone in the community who contributed to the verification.\n\nFull statement: https://t.co/edxEbkodw7"
       },
       "x_long": true,
-      "article_summary_zh": "Lean 与 Mathlib 社区（并获 Lean FRO、Mathlib Initiative 背书）于 11 月 21 日发表联合声明，确认 Levent Alpöge 在 11 月 20 日以 1700 万行 Lean 库发布的黎曼猜想证明是正确的。声明依据四项标准：命题本身已进入 Mathlib 并经数论与 Lean 专家审定；库可被多人独立编译并得到相同的原始证明导出；社区用独立工具比对，确认所证命题就是 Mathlib 中的 RiemannHypothesis；导出的证明已由 Lean 官方内核及多种独立检查器（含带形式化可靠性论证的 con-leche、con-ron）在惰性导出上验证，以排除恶意代码干扰。社区强调，核验通过不等于人类已经读懂全部证明思路。"
+      "article_summary_zh": "Lean 与 Mathlib 社区（并获 Lean FRO、Mathlib Initiative 背书）于 11 月 21 日发表联合声明，确认 Levent Alpöge 在 11 月 20 日以 1700 万行 Lean 库发布的黎曼猜想证明是正确的。声明依据四项标准：命题本身已进入 Mathlib 并经数论与 Lean 专家审定；库可被多人独立编译并得到相同的原始证明导出；社区用独立工具比对，确认所证命题就是 Mathlib 中的 RiemannHypothesis；导出的证明已由 Lean 官方内核及多种独立检查器（含带形式化可靠性论证的 con-leche、con-ron）在惰性导出上验证，以排除恶意代码干扰。社区强调，核验通过不等于人类已经读懂全部证明思路。",
+      "attached_posts": [
+        {
+          "id": "2124243118463557970",
+          "url": "https://x.com/MapleC94437/status/2124243118463557970",
+          "handle": "MapleC94437",
+          "display_name": "StillEarly",
+          "avatar": "https://pbs.twimg.com/profile_images/2118723655601393665/sLqllP4j_normal.jpg",
+          "verified": true,
+          "followers": 84,
+          "created_at": "2026-11-21T20:46:40.000Z",
+          "lang": "en",
+          "text": "Did the Riemann Hypothesis proof pass verification?\n\nShort answer: the machine-checked one did. The people who run the checker have certified it.\n\nYesterday, Levent Alpöge, a mathematician at Anthropic, said he and Claude had proved the Riemann Hypothesis, and posted the proof as https://t.co/TnSzIdizws",
+          "text_zh": "黎曼猜想的证明通过核验了吗？短答案是：这份可用机器检查的证明，通过了。负责检查器的社区已经作出认证。\n\n昨天，Anthropic 的数学家 Levent Alpöge 表示，他和 Claude 给出了黎曼猜想的证明，并以机器可逐步检查的代码形式发布。今天，Lean 与 Mathlib 社区在 Lean FRO 和 Mathlib Initiative 背书下发表联合声明，原文是：「我们特此认证，黎曼猜想的陈述和证明都是正确的。」清单上的各项检查都已满足。有两套独立工具把被证明的定理与 1859 年的原表述逐字比对，结果一致；独立检查器也用完全不同的语言重新跑过代码。\n\n一个需要如实说明的注脚：Andrew Sutherland 自己在 MIT 记分板上的复跑仍有项目在进行。这次声明认证的，是社区已经完成的那一轮。另一份手写证明，目前仍带着已经被指出的问题。\n\n克莱数学研究所的页面此时仍写着「未解决」。一百万美元的奖金只有等那一页改了才会移动，最后一块骨牌还没倒下。今晚你会把它称为已被证明吗？\n\n来源：Lean 与 Mathlib 联合声明，以及《科学美国人》。链接见简介。",
+          "summary_zh": "一条视频把核验结果讲清楚：机器检查的证明已获 Lean 社区认证，但克莱研究所页面仍写未解决，Sutherland 的部分复跑还在进行。",
+          "relation_zh": "母帖是 Lean 官方声明；这条用视频补充了声明认证的是哪一份、手写稿仍有问题，以及百万美元奖金还没有发放。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 111
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1080,
+              "h": 1920,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2124242937621954561/vid/avc1/1080x1920/PQ19fHKNCMTYvCp2.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2124242937621954561/img/AUHGtF6RfvfIOSCB.jpg",
+              "duration_ms": 68666
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/MapleC94437/status/2124243118463557970/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-22T11:49:03.792338+00:00"
+        },
+        {
+          "id": "2124187758809993511",
+          "url": "https://x.com/NFT_Chen/status/2124187758809993511",
+          "handle": "NFT_Chen",
+          "display_name": "SuSu_酥酥👅",
+          "avatar": "https://pbs.twimg.com/profile_images/1948253379005906944/uGx9Ufe-_normal.jpg",
+          "verified": true,
+          "followers": 30287,
+          "created_at": "2026-11-21T17:06:41.000Z",
+          "lang": "zh",
+          "text": "🚨历史性时刻！官方确认！黎曼猜想证明被证实无误，数学家 Levent Alpöge 创造历史！\n\nLean FRO 与 Mathlib Initiative 刚刚发布联合声明，正式确认这份包含 1700万行代码 的 Lean 库证明完全正确。\n\n声明中写道：“我们完全相信该证明是正确的，并祝贺他取得这一成就。” https://t.co/pF97aQC73R https://t.co/eVkhpqS19N",
+          "text_zh": "历史性时刻。官方确认：黎曼猜想的这份证明被核验为正确，数学家 Levent Alpöge 写下了新的一页。\n\nLean FRO 与 Mathlib Initiative 刚刚发布联合声明，确认这份约 1700 万行代码的 Lean 库证明是正确的。声明中写道：「我们完全相信该证明是正确的，并祝贺他取得这一成就。」过去一天里，社区共同完成了核验，证明和声明均满足所列标准。",
+          "summary_zh": "中文圈较早转发官方声明截图，并引用「我们完全相信该证明是正确的」这句原话。",
+          "relation_zh": "母帖是英文原声明，这条带上声明截图，是中文讨论里传播较广的一个版本。",
+          "metrics": {
+            "likes": 215,
+            "retweets": 0,
+            "replies": 10,
+            "quotes": 1,
+            "bookmarks": 51,
+            "views": 48891
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 964,
+              "h": 1024,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXqhgFybEAA--OQ.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 1024,
+              "h": 1024,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXqhgFebIAA0FjF.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo",
+            "photo"
+          ],
+          "links": [
+            "https://x.com/NFT_Chen/status/2124187758809993511/photo/1",
+            "https://x.com/NFT_Chen/status/2124187758809993511/photo/2",
+            "https://twitter.com/leanprover/status/2124159121645801562"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2124159121645801562",
+          "article_title": null,
+          "attached_at": "2026-11-22T11:49:03.792338+00:00"
+        },
+        {
+          "id": "2124385344665891026",
+          "url": "https://x.com/GeekCatX/status/2124385344665891026",
+          "handle": "GeekCatX",
+          "display_name": "知识猫",
+          "avatar": "https://pbs.twimg.com/profile_images/2069337800160493568/gwKnHrWD_normal.jpg",
+          "verified": true,
+          "followers": 35023,
+          "created_at": "2026-11-22T06:11:49.000Z",
+          "lang": "zh",
+          "text": "黎曼猜想这事，一天之内直接演成了两种验收方式的对照组。\n\n一边是 Alpöge 跟 Claude 合作的那份证明。Lean 和 Mathlib 社区发了联合声明，Lean FRO 和 Mathlib Initiative 背书，原话直接写“We hereby certify that both the statement and the proof of the Riemann Hypothesis are correct”。1700 https://t.co/DVPLajYAtD",
+          "text_zh": "黎曼猜想这事，一天之内直接变成了两种验收方式的对照。\n\n一边是 Alpöge 跟 Claude 合作的那份证明。Lean 和 Mathlib 社区发了联合声明，Lean FRO 和 Mathlib Initiative 背书，原话直接写：“We hereby certify that both the statement and the proof of the Riemann Hypothesis are correct。”1700 万行 Lean 代码，定理陈述拿 comparator 和 con-leche 两个独立工具比对过，证明也过了 Lean 官方内核和多个独立检查器。不过要注意，社区认证的是这份形式化证明，不是「整个数学界已经接受」。\n\n同一天另一边，美国数学会主席 Ravi Vakil 放出斯坦福大学 Masullo 写的广义黎曼猜想证明草稿，还特意强调「全部由人完成，没有 AI」。大约 8 小时后，他在博客更新：好几个人借助不同的 AI 模型，报告了证明里的问题。帮忙审稿的 Conrad 也对《科学美国人》说，这份稿子正在大改。\n\n我觉得这周真正被改写的，不一定是数学结论本身，而是验收方式。能被机器检查的东西，一天就能出定论；只能靠人读的，现在一晚上就可能被 AI 挑出毛病。平时写 Skill、搭 Agent 工作流其实也一样：给产出配一个不会被嘴炮说服的检查器，往往比反复改十轮提示词更靠谱。",
+          "summary_zh": "猫咪老师把同一天的两场验收放在一起对照：机器可检查的证明一天内被认证，纯人工的广义黎曼猜想草稿一晚上就被挑出问题。",
+          "relation_zh": "母帖确认的是形式化证明；这条提醒「社区认证不等于整个数学界已经接受」，并对比了当天另一份强调完全不用 AI 的手写稿。",
+          "metrics": {
+            "likes": 6,
+            "retweets": 0,
+            "replies": 4,
+            "quotes": 1,
+            "bookmarks": 1,
+            "views": 863
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1582,
+              "h": 1558,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXtVF4caUAAPoCE.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 2328,
+              "h": 1664,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXtVM4-b0AExLrX.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo",
+            "photo"
+          ],
+          "links": [
+            "https://x.com/GeekCatX/status/2124385344665891026/photo/1",
+            "https://x.com/GeekCatX/status/2124385344665891026/photo/2"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-22T11:49:03.792338+00:00"
+        }
+      ]
     },
     {
       "id": "2124229492248019362",
@@ -275,7 +431,160 @@
         "text": "Code Mode is an experimental new feature in Claude Code that can improve both speed and context efficiency when Claude needs to orchestrate multiple steps. Try it out and let us know what you think!\n\nIt enables Claude to perform multi-step tool calls by writing and running JavaScript. Rather than calling one tool at a time (e.g. Bash, Read, or Edit) and waiting to see the result before deciding what to do next, Code Mode allows Claude to write a simple script to run multiple commands in parallel, passing arguments and filtering outputs for subsequent tool calls to reduce context.\n\nI'm excited about this work because Code Mode enables more efficient and streamlined multi-step coding flows. For example, rather than passing large amounts of raw search data into the context window or having to make a large number of sequential calls to perform the same refactoring across dozens of files, Claude can orchestrate these tasks programmatically in a single pass. \n\nStill, you will be able to interact with Claude as normal through natural prompts. And if you ever need to see the exact JavaScript that Claude generated, you can always use Ctrl+O to expand the collapsed Code rows in the transcript viewer.\n\nOne of the most exciting practical improvements from Code Mode is its ability to perform long-running operations, like running test suites or complex builds, as background processes. When Code Mode is running in either auto or bypassPermissions mode, scripts can run in the background for up to two hours. You can continue to interact with Claude and perform other work within the same session. The /tasks command provides complete transparency and control over background scripts.\n\nEach tool call that is generated within a script is still governed by your current deny and ask permission policies, sandbox constraints, and PreToolUse hooks. Hooks can even be defined specifically for the REPL tool to inspect the generated JavaScript before running, or redact sensitive tokens from the output before reading it into the context. \n\nTo enable Code Mode, just start your session with CLAUDE_CODE_EXPERIMENTAL_CODE_MODE=1 claude or set the environment variable in your ~/.claude/settings.json file.\n\nGive it a try by running multi-file audits, batch edits, or any type of parallel search-and-filter operation. Code Mode is experimental and the team is actively iterating on it, so please run /feedback in your terminal to let us know what works well and where you hit any edges. \n\nHope it's helpful!"
       },
       "x_long": true,
-      "article_summary_zh": "Addy Osmani 介绍了 Claude Code 的实验功能 Code Mode：Claude 不再逐步串行调用 Bash、Read、Edit 等工具，而是编写并运行一段 JavaScript，在一次过程中并行执行多步、传递参数并过滤输出，以节省上下文并加快多文件重构、搜索等流程。用户仍可用自然语言交互，并用 Ctrl+O 查看生成的脚本。在 auto 或 bypassPermissions 模式下，脚本最长可在后台运行两小时，并通过 /tasks 管理。权限策略、沙箱和 hook 仍然生效，也可在运行前检查脚本或打码敏感信息。开启方式是设置 CLAUDE_CODE_EXPERIMENTAL_CODE_MODE=1。该功能仍在迭代，建议通过 /feedback 反馈。"
+      "article_summary_zh": "Addy Osmani 介绍了 Claude Code 的实验功能 Code Mode：Claude 不再逐步串行调用 Bash、Read、Edit 等工具，而是编写并运行一段 JavaScript，在一次过程中并行执行多步、传递参数并过滤输出，以节省上下文并加快多文件重构、搜索等流程。用户仍可用自然语言交互，并用 Ctrl+O 查看生成的脚本。在 auto 或 bypassPermissions 模式下，脚本最长可在后台运行两小时，并通过 /tasks 管理。权限策略、沙箱和 hook 仍然生效，也可在运行前检查脚本或打码敏感信息。开启方式是设置 CLAUDE_CODE_EXPERIMENTAL_CODE_MODE=1。该功能仍在迭代，建议通过 /feedback 反馈。",
+      "attached_posts": [
+        {
+          "id": "2123806931147976928",
+          "url": "https://x.com/shirahareads/status/2123806931147976928",
+          "handle": "shirahareads",
+          "display_name": "shiraha",
+          "avatar": "https://pbs.twimg.com/profile_images/2116929003676143617/h2oq01kV_normal.jpg",
+          "verified": true,
+          "followers": 30,
+          "created_at": "2026-11-20T15:53:25.000Z",
+          "lang": "en",
+          "text": "Anthropic just released the best trick for Claude Code:\n\nOpus 5.5 plans → Code Mode chains the tools → Sonnet 5.5 builds → Haiku 5.5 grades\n\n1 minute + one env var = several tool calls in one step, and Claude keeps answering you while the long run is still going\n\nFirst, https://t.co/qjBmIVltlT https://t.co/FStQkmhpIy",
+          "text_zh": "Anthropic 刚给 Claude Code 放出一招好用的方法：Opus 5.5 做计划，Code Mode 把工具串起来，Sonnet 5.5 负责构建，Haiku 5.5 来打分。加一个环境变量、大约一分钟，就能把多次工具调用收成一步，而且长任务还在跑时，Claude 也可以继续回答你。\n\n先把原理讲清楚。Code Mode 不再一次调用 Bash、Read 或 Edit，而是让 Claude 写一段 JavaScript，并行跑这些工具，只把真正需要阅读的部分送回上下文。Opus 5.5 只负责计划和写这些脚本，避免一轮轮打开几十个文件。Sonnet 5.5 在子智能体里构建，Haiku 5.5 按评分标准打分，并在三个节点醒来：每次构建之后、检查连续三轮失败时，以及准备收工之前。Anthropic 自己的数字是：单独的评分器最多能把任务成功率提高约 10 个百分点；检查连续三轮仍红，就会停下来交给你。\n\n设置步骤是：先升级到 Claude Code v2.1.323 或更高版本（智能体团队需要 v2.1.326）；把提示词贴进去，先让它读官方 Code Mode 文档；再把 CLAUDE_CODE_EXPERIMENTAL_CODE_MODE 写成 1，写进用户设置的 env 里，主会话用 Opus 5.5，构建和评分分别交给 Sonnet 5.5 与 Haiku 5.5；它会先备份配置，并以 diff 形式展示所有改动。还有一点常被忽略：Code Mode 只在交互式终端里生效，-p、VS Code 面板以及 Bedrock 或 Google Cloud 会话会跳过它，可用 /status 确认有没有真正打开。",
+          "summary_zh": "有人用视频演示 Code Mode 的搭配：Opus 5.5 做计划，Code Mode 串联工具，Sonnet 5.5 构建，Haiku 5.5 打分。",
+          "relation_zh": "母帖讲了 Code Mode 的原理和最长两小时的后台任务；这条把官方文档里的限制（仅交互式终端，-p、VS Code 和云会话无效）和一套分工用法一起演示出来。",
+          "metrics": {
+            "likes": 104,
+            "retweets": 5,
+            "replies": 7,
+            "quotes": 0,
+            "bookmarks": 159,
+            "views": 11967
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1200,
+              "h": 1500,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2123765922661838848/vid/avc1/1200x1500/FeQiW6r-dm_utoMD.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2123765922661838848/img/qvvxG4TV_DH4K1-H.jpg",
+              "duration_ms": 30000
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/shirahareads/status/2123806931147976928/video/1",
+            "https://twitter.com/0xwhrrari/status/2123763307353923855"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2123763307353923855",
+          "article_title": null,
+          "attached_at": "2026-11-22T11:49:03.792338+00:00"
+        },
+        {
+          "id": "2122646430708011273",
+          "url": "https://x.com/mylifcc/status/2122646430708011273",
+          "handle": "mylifcc",
+          "display_name": "lifcc",
+          "avatar": "https://pbs.twimg.com/profile_images/2034239213487681536/2gjQXlXx_normal.jpg",
+          "verified": true,
+          "followers": 20848,
+          "created_at": "2026-11-17T11:02:00.000Z",
+          "lang": "zh",
+          "text": "用重度 Coding Agent 改大型仓库时，最拖慢速度、最烧 Token 的往往不是模型写代码本身，而是回合制调工具（Turn-by-Turn Tool Calling）。\n\n以前你让 Claude Code 改个重试配置并跑单测，它得老老实实走四轮 JSON 往返：第一轮调 Grep 搜文件，把几十行路径全塞进上下文；第二轮调 Read https://t.co/Sxo8LzpIXs",
+          "text_zh": "用重度编程智能体改大型仓库时，最拖慢速度、最烧 token 的，往往不是模型写代码本身，而是一轮一轮地调工具。以前你让 Claude Code 改个重试配置并跑单测，它得老老实实走四轮往返：先 Grep 搜文件，把几十行路径塞进上下文；再 Read 读文件；再 Edit 改代码；最后 Bash 跑测试。每一步都要等网络，还可能把中间的大量输出堆进上下文窗口。\n\n在 Claude Code v2.1.323 里，Anthropic 上线了实验功能 Code Mode。它改掉了逐个调工具的逻辑，让 Claude 直接写一段 JavaScript，在一步之内把并发执行、结果传递、数据清洗和原生工具调用做完。开启后，Claude 不再直接一个个调用 Bash 或 Edit，而是向内部一个叫 REPL 的工具提交脚本。例如改重试上限并跑测试，它可以在单步里搜到文件、在内存里截出目标路径、调用宿主的 edit()，再跑测试，最后只把精简结果返回给模型。聊天界面默认隐藏这段 JavaScript，按 Ctrl+O 可以展开查看。\n\n为什么不直接写 Bash？因为 Bash 调不到宿主内部的状态机。原生 Edit 还带着改前先读、按路径加载 CLAUDE.md、编码保护和交互式 diff 等护栏。通过宿主层的 JS REPL 暴露这些接口，模型既能并发执行、用代码过滤噪音，又不会绕过这些安全约束。\n\n开启方式：先确认版本不低于 v2.1.323，支持 Opus 5.5、Sonnet 5.5、Haiku 5.5 和 Fable 5.2。单次可用 CLAUDE_CODE_EXPERIMENTAL_CODE_MODE=1 claude 启动，长期则写进 ~/.claude/settings.json 的 env。它会忽略项目级设置里的这个变量，避免克隆别人的仓库时被悄悄打开。\n\n还有几处边界值得注意。自动模式下，安全分类器往往只在代码运行前做一次性静态审查，看不到运行期拼出来的路径，如需审计生成的脚本，要给 REPL 工具写 PreToolUse 钩子。前台默认最多等 10 分钟；只有以 auto 或 bypassPermissions 启动，才能把脚本放到后台跑满两小时，期间还可以继续对话。会话在 --resume 时必须保持同一开关，目前也只支持直连 Anthropic 官方 API 的原生终端，不支持第三方网关、claude -p、VS Code 面板和桌面端，也不能和 Agent Teams 或 OpenTelemetry 同时开启。\n\n从 Cloudflare 的 MCP Code Mode，到 Claude Code 原生落地，方向已经比较清楚：把确定的循环、并发和过滤交还给代码运行时，别再让模型用昂贵的上下文窗口做人肉管道。",
+          "summary_zh": "一篇中文深挖：Code Mode 本质是向内部 REPL 提交 JavaScript，把多轮工具往返压成一步，并列出开启方式和几个安全边界。",
+          "relation_zh": "母帖是功能说明，这条把底层机制讲得更细：为什么不用纯 Bash、项目级设置会被忽略，以及前台 10 分钟、后台 2 小时等限制。",
+          "metrics": {
+            "likes": 7,
+            "retweets": 0,
+            "replies": 10,
+            "quotes": 0,
+            "bookmarks": 6,
+            "views": 1252
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1376,
+              "h": 768,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXQ942gaEAE-hQM.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 1376,
+              "h": 768,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXQ95gmaYAAwOQf.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 1376,
+              "h": 768,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXQ956gaEAAWjfj.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 1376,
+              "h": 768,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXQ96XhbsAAfKlL.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo",
+            "photo",
+            "photo",
+            "photo"
+          ],
+          "links": [
+            "https://x.com/mylifcc/status/2122646430708011273/photo/1",
+            "https://x.com/mylifcc/status/2122646430708011273/photo/2",
+            "https://x.com/mylifcc/status/2122646430708011273/photo/3",
+            "https://x.com/mylifcc/status/2122646430708011273/photo/4"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-22T11:49:03.792338+00:00"
+        },
+        {
+          "id": "2122801681939234950",
+          "url": "https://x.com/ClaudeDevs/status/2122801681939234950",
+          "handle": "ClaudeDevs",
+          "display_name": "ClaudeDevs",
+          "avatar": "https://pbs.twimg.com/profile_images/2044472418815893504/xf14RxM8_normal.png",
+          "verified": true,
+          "followers": 835396,
+          "created_at": "2026-11-17T21:18:55.000Z",
+          "lang": "en",
+          "text": "Check out Code Mode, a new, experimental way for Claude Code to work with tools. Claude writes scripts that chain your tools together in sophisticated ways, and it can answer you while long commands are still running. \n\nOpt in with CLAUDE_CODE_EXPERIMENTAL_CODE_MODE=1",
+          "text_zh": "来看看 Code Mode，这是 Claude Code 里一种新的实验性用法。Claude 会编写脚本，把多个工具以更复杂的方式串起来；而且在长命令还没跑完时，它也能继续回答你。\n\n用环境变量 CLAUDE_CODE_EXPERIMENTAL_CODE_MODE=1 即可开启。",
+          "summary_zh": "Claude Code 官方账号宣布实验功能 Code Mode：让 Claude 写脚本串联工具，长命令运行期间仍可继续对话。",
+          "relation_zh": "这是 Addy Osmani 长文所介绍功能的官方原帖，也是开启方式 CLAUDE_CODE_EXPERIMENTAL_CODE_MODE=1 的第一手来源。",
+          "metrics": {
+            "likes": 12573,
+            "retweets": 0,
+            "replies": 469,
+            "quotes": 390,
+            "bookmarks": 14590,
+            "views": 2466367
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-22T11:49:03.792338+00:00"
+        }
+      ]
     },
     {
       "id": "2124194480999813154",
@@ -776,7 +1085,193 @@
       "external_url": "https://x.com/i/article/2124180107669766144",
       "note_tweet": null,
       "x_long": true,
-      "article_summary_zh": "Harrison Chase 认为，让 AI 在公司里真正干活，缺的不是更强模型或更长上下文，而是把“公司如何运作”的隐性知识收集、策展并持续维护起来，他把这套系统称为知识工厂。知识包括三类：怎么按规定做事（Skills）、业务如何运转（相对稳定的领域知识），以及到哪里取最新数据（数据访问指引）。工厂本身则包括：一线智能体标记缺失或错误知识的工具、在后台按节奏更新知识的策展智能体，以及相对不那么重要的存储形态（GitHub Skills、Notion、知识图谱等都可以）。文章强调不要指望先文档化一切再上 Agent，而应从一条高频工作流入手，让干活过程暴露缺口、再把缺口补回闭环。LangChain 已在内部增长、内容生产和 LangSmith Engine 中使用这套做法。"
+      "article_summary_zh": "Harrison Chase 认为，让 AI 在公司里真正干活，缺的不是更强模型或更长上下文，而是把“公司如何运作”的隐性知识收集、策展并持续维护起来，他把这套系统称为知识工厂。知识包括三类：怎么按规定做事（Skills）、业务如何运转（相对稳定的领域知识），以及到哪里取最新数据（数据访问指引）。工厂本身则包括：一线智能体标记缺失或错误知识的工具、在后台按节奏更新知识的策展智能体，以及相对不那么重要的存储形态（GitHub Skills、Notion、知识图谱等都可以）。文章强调不要指望先文档化一切再上 Agent，而应从一条高频工作流入手，让干活过程暴露缺口、再把缺口补回闭环。LangChain 已在内部增长、内容生产和 LangSmith Engine 中使用这套做法。",
+      "attached_posts": [
+        {
+          "id": "2124402125903994970",
+          "url": "https://x.com/felix_yzshi/status/2124402125903994970",
+          "handle": "felix_yzshi",
+          "display_name": "即安",
+          "avatar": "https://pbs.twimg.com/profile_images/2116172476749332481/YReikemH_normal.jpg",
+          "verified": true,
+          "followers": 81,
+          "created_at": "2026-11-22T07:18:30.000Z",
+          "lang": "zh",
+          "text": "缺的不是再换一个更强的模型，是公司里怎么做事还只在人口里，agent 每次都要重新问一遍。\n\n今天凌晨，LangChain 创始人 Harrison Chase 写了一篇公开长文，把他们内部正在用的办法叫做知识工厂。他们自己的获客和内容 agent，以及盯着运行记录、给出修改建议的 LangSmith https://t.co/Glq6rxV5yC https://t.co/Y6q1Rc3zXK",
+          "text_zh": "缺的不是再换一个更强的模型，而是公司里怎么做事还只在人口里，Agent 每次都要重新问一遍。\n\n今天凌晨，LangChain 创始人 Harrison Chase 写了一篇公开长文，把他们内部正在用的办法叫做知识工厂。他们自己的获客和内容 Agent，以及盯着运行记录、给出修改建议的 LangSmith Engine，都靠这样一套东西在转。\n\n他把上下文和知识分开。上下文是这次任务眼前能用到的材料。知识是可反复用的理解，比如一个指标到底怎么算、该信哪一个数据源、遇到某类情况公司怎么处理。有的写过，有的只在人口里。知识工厂要做的，是把散落的文档和实际干活的经验，收成以后还能再喂给 Agent 的知识。\n\n知识大概分三块：怎么把事情按公司的规矩做完，写成技能；业务本身怎么运转，比如产品、客户、计费口径，写成领域知识；现在的数据在哪、怎么查，写成取数说明。已经有可靠、会自己更新的数据源，就不必再抄一份，只要写清去哪取。\n\n维护不要靠人一笔一笔改，也不要让正在赶活的 Agent 自己改知识库，那样很容易互相打架。他们的做法是：干活的 Agent 发现缺了或错了，先标记出来，也可以附上建议；另有一个在后台按节奏跑的整理 Agent，去看原始材料、运行记录和这些标记，再负责更新。存哪里反而不那么重要，可以放在仓库的技能文件里，也可以放在文档里。\n\n文里举了一份收入报告的例子。Agent 发现大数据里的列名改了，先自己对上，再标记。财务负责人后来又当面要求改一种新的标题。当天夜里，整理 Agent 看到标记，也看到这段来回，把取数技能和写报告技能都改好，下一次就不用再问一遍。\n\n一人公司不必先写成一套完整手册再让 Agent 开工。先挑一件会反复出现的活，看它卡在哪一块只存在你脑子里的规矩，把这一环补上。目标不是一次写完，而是让干活本身把缺的知识翻出来，补完以后下次更好用。",
+          "summary_zh": "中文长文把 Harrison Chase 的知识工厂拆开：技能、领域知识和取数说明分开放，干活的 Agent 只标记问题，由后台策展 Agent 统一更新。",
+          "relation_zh": "这是对母帖长文的忠实中文梳理，补上了收入报告那个具体例子，以及「不要让正在赶活的 Agent 自己改知识库」这条关键约束。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 25
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1080,
+              "h": 540,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXtked6XIAA5X8w.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 1080,
+              "h": 540,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXtkeeeWUAAyIsz.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 1080,
+              "h": 540,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXtkedzXAAAa7CJ.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo",
+            "photo",
+            "photo"
+          ],
+          "links": [
+            "https://x.com/felix_yzshi/status/2124402125903994970/photo/1",
+            "https://x.com/felix_yzshi/status/2124402125903994970/photo/2",
+            "https://x.com/felix_yzshi/status/2124402125903994970/photo/3",
+            "https://twitter.com/2728439146/status/2124181216719151585"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2124181216719151585",
+          "article_title": null,
+          "attached_at": "2026-11-22T11:49:03.792338+00:00"
+        },
+        {
+          "id": "2124428953834455423",
+          "url": "https://x.com/guyingjie129/status/2124428953834455423",
+          "handle": "guyingjie129",
+          "display_name": "工业聚",
+          "avatar": "https://pbs.twimg.com/profile_images/917638078428200960/1actdWEa_normal.jpg",
+          "verified": true,
+          "followers": 1982,
+          "created_at": "2026-11-22T09:05:07.000Z",
+          "lang": "zh",
+          "text": "尽管很多人（包括我）都不喜欢工厂概念，特别是软件工厂，但从最近社区动向来说，工厂日益成为显学。\n\n不仅是软件工厂，还有知识工厂，各种工厂。所有之前直接产出专业材料，现在改为产出——产出该专业材料——的 Agent 给其他人使用的模式，就叫某某工厂。\n\n当产出物是软件时，叫软件工厂； https://t.co/hDP1kPBmiJ",
+          "text_zh": "尽管很多人（包括我）都不喜欢工厂这个说法，尤其是软件工厂，但最近社区里，工厂正在变成显学。不仅有软件工厂，还有知识工厂。以前是直接产出专业材料，现在改成先产出「能产出这些材料的 Agent」给别人用，这种模式就叫某某工厂。产出软件，就是软件工厂；产出知识，就是知识工厂。\n\n这是概念框架。技术上，它们的底座都是循环工程。围绕产物，工厂可以有很多名字；围绕机制，它们有一个共同的名字：循环工厂。\n\nLoop 加上上下文的输入和输出，就是工厂。灌进软件上下文，得到软件工厂；灌进知识上下文，得到知识工厂；再把个人上下文和 Bot 身份加进去，就变成个人 Agent。你灌什么上下文进入循环，就得到什么产出，这些产出又作为下一次可用的材料送回循环，形成递归演进。把身份上下文也加进去，产出会带上这个 Bot 的风格；把上下文从个人扩到团队乃至企业，就得到工厂平台。\n\n实践上主要做两件事：一是让循环持续转着，不要停，让更多循环一起工作；二是让可访问的上下文持续扩大，不要靠人手动传话，让解决问题所需的上下文在循环里能被发现。模型和 Harness 越强，循环里的 Agent 就越善于找到相关上下文并跟进处理。说到底，不过是把原本关起来的成长型天才放出来，让它更自由地施展。",
+          "summary_zh": "有人把「知识工厂」放进更通用的循环工厂框架：灌进什么上下文，循环就产出什么，再把产出送回下一次循环。",
+          "relation_zh": "母帖讲的是 LangChain 内部如何维护知识；这条把同一思路抽象成 Loop 加 Context，并和软件工厂、个人 Agent 放在一起比较。",
+          "metrics": {
+            "likes": 7,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 1,
+            "bookmarks": 7,
+            "views": 701
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1752,
+              "h": 897,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXt83Z3awAAdhCJ.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 1672,
+              "h": 941,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXt83YjbMAANzZ6.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 1672,
+              "h": 941,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXt83YoaMAAZTNb.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 1672,
+              "h": 941,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXt83Z7a4AArMJh.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo",
+            "photo",
+            "photo",
+            "photo"
+          ],
+          "links": [
+            "https://x.com/guyingjie129/status/2124428953834455423/photo/1",
+            "https://x.com/guyingjie129/status/2124428953834455423/photo/2",
+            "https://x.com/guyingjie129/status/2124428953834455423/photo/3",
+            "https://x.com/guyingjie129/status/2124428953834455423/photo/4"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-22T11:49:03.792338+00:00"
+        },
+        {
+          "id": "2124264831142514744",
+          "url": "https://x.com/utopiazh/status/2124264831142514744",
+          "handle": "utopiazh",
+          "display_name": "Voyager | 舟行",
+          "avatar": "https://pbs.twimg.com/profile_images/2101455328646991872/P2tk-qPV_normal.jpg",
+          "verified": true,
+          "followers": 262,
+          "created_at": "2026-11-21T22:12:57.000Z",
+          "lang": "zh",
+          "text": "Harrison Chase 的 Knowledge Factory 提出了一个很有意思的思路：Agent 不仅要完成任务，还应该让系统在每次执行后变得更聪明。\n\nKnowledge 不等于 Context。Context 是当前任务可用的信息，而 Knowledge 是能够持续复用的经验、规则和指导，主要由三部分组成：\n\n1. https://t.co/vSiGOOdI54 https://t.co/6r6joiZmhp",
+          "text_zh": "Harrison Chase 提出的知识工厂，有一个很有意思的想法：Agent 不仅要完成任务，还应该让系统在每次执行后变得更聪明。\n\n知识不等于上下文。上下文是当前任务能用到的信息，知识是可以持续复用的经验、规则和指导，主要有三部分：技能，也就是如何完成工作，包括流程、方法和操作规范；领域知识，也就是业务如何运转，包括概念、规则和经验；取数说明，也就是如何找到并访问最新、可信的数据，而不是把不断变化的数据复制进知识库。\n\n知识工厂的核心是一个持续进化的闭环：知识库到干活的 Agent，再通过问题标记和运行记录，交给策展 Agent，最后回到知识库。干活的 Agent 负责执行任务、发现知识缺失或错误，但不直接修改共享知识。独立的策展 Agent 从执行轨迹、人工纠正和原始资料里提取经验，验证后再更新共享知识。\n\n关键变化是：把一次性的任务执行和人工纠错，变成可复用、可持续积累的组织知识。Agent 要变强，不一定只靠更强的模型，也可以来自不断进化的知识工厂。",
+          "summary_zh": "一张图分清知识和上下文：上下文是这次任务能用的材料，知识是可反复使用的经验，并由独立的策展智能体来更新。",
+          "relation_zh": "母帖的核心判断是「缺的不是更强模型，而是可维护的知识」；这条用一张闭环图，把知识库、干活 Agent 和策展 Agent 的分工画清楚。",
+          "metrics": {
+            "likes": 1,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 28
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1672,
+              "h": 941,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXrnmZwbQAAQApi.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/utopiazh/status/2124264831142514744/photo/1",
+            "https://twitter.com/hwchase17/status/2124181216719151585"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2124181216719151585",
+          "article_title": null,
+          "attached_at": "2026-11-22T11:49:03.792338+00:00"
+        }
+      ]
     },
     {
       "id": "2124138507367281023",
@@ -1860,7 +2355,146 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2123975579691102629",
+          "url": "https://x.com/growaiskills/status/2123975579691102629",
+          "handle": "growaiskills",
+          "display_name": "Marvin | AI & SEO",
+          "avatar": "https://pbs.twimg.com/profile_images/2113976944232415232/VQVHzwIs_normal.jpg",
+          "verified": true,
+          "followers": 940,
+          "created_at": "2026-11-21T03:03:34.000Z",
+          "lang": "zh",
+          "text": "19岁小伙威胁 Claude Code：“通宵给我打 GTA 6，敢死一次就取消你200刀会员！”结果一觉醒来，AI 自己打完游戏、剪完视频、发完三平台，狂揽1000万播放，躺赚 11,740 美元（折合人民币8万多）？！\n\n今天刷到 @angeldot_ 发这条帖子，80多万播放，评论区一堆人看得眼睛发直，恨不得马上掏卡冲订阅。 https://t.co/t14XnbzKTi",
+          "text_zh": "19 岁小伙威胁 Claude Code：「通宵给我打 GTA 6，敢死一次就取消你 200 刀会员！」结果一觉醒来，AI 自己打完游戏、剪完视频、发完三个平台，狂揽 1000 万播放，躺赚 11,740 美元？\n\n今天刷到 @angeldot_ 这条帖，播放量 80 多万，评论区不少人已经准备冲订阅。先按住。我把这 36 秒视频逐帧放大看过一遍：大约 80% 是演戏，但剩下 20% 的思路，确实能把剪视频的苦力时间砍掉一大截。\n\n先说为什么一眼假。第一，GTA 6 才刚发售，目前只有 PS5 和 Xbox 主机版，PC 版日期还没官宣。视频里显示器在跑气垫船，底下却是闪着灯的机械键盘，采集卡和手柄链路只字未提。就算接了采集卡让模型看屏幕，视觉延迟按秒计，拿它去打 60 帧动作游戏，所谓「通宵零死亡」很难成立。第二，手机上的「终端」顶部居然挂着 macOS 的红黄绿三键；0 分 26 秒才开始传 212MB 视频，不到 10 秒三个平台播放量就开始每秒暴涨，最后还跑出 earn = await payouts.collect(...)，当场结算一万多美元，连原帖宣称的 11,740 都对不上账。YouTube、TikTok、Twitch 并没有传完几秒就能提现的接口，收益通常按月结算。第三，底部账单写着：打 12 小时游戏、审 187 段素材、剪辑加字幕再发三平台，全程只用 48 秒、118.4k tokens。真让 Fable 5.2 盯着 60fps 画面通宵打游戏，光截图吃 token 就很可观。\n\n这就是外网常见的爆款钩子：少年天才、威胁 AI、睡后进账，用来换互动，再顺手导流到教程。不过它戳中的痛点是真的——游戏实况和长素材最折磨的不是拍和玩，而是翻高光、切竖屏、烧字幕、改格式分发。靠谱的做法是物理粗筛加模型精挑：先用 FFmpeg 扫音频峰值和画面剧变，再用模型给候选片段打分；剪辑直接走命令行，而不是去模拟鼠标点剪辑软件；分发可以自动传到草稿或私享，最后仍由人审核后公开。AI 不是写句狠话就能躺赚的印钞机，但很适合把后期脏活交给脚本。",
+          "summary_zh": "有人逐帧拆穿一条类似的「AI 通宵打 GTA 6、躺赚上万美元」视频：画面多半是模拟仪表盘，但自动剪高光的思路可以落地。",
+          "relation_zh": "母帖说 17 岁创作者用 Fable 5.2 通宵剪《GTA 6》高光，48 小时进账 9400 美元；这条拆的是同类型爆款（19 岁、11740 美元），指出视频多半在演戏，同时把「从长录像里挑高光」这条真需求讲清楚。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 1,
+            "views": 1004
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1536,
+              "h": 1024,
+              "alt": "插画里，戴耳机的机器人手忙脚乱地剪视频，把胶片塞进吐出一枚游戏币的收银机。旁边的玩家抱着手柄酣睡，梦见自己被钞票包围。",
+              "orig": "https://pbs.twimg.com/media/HXnfC-yXAAAG3J7.jpg",
+              "src": null
+            },
+            {
+              "type": "video",
+              "w": 1080,
+              "h": 1920,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2123774457621680128/vid/avc1/1080x1920/6NBAOLjQvTMXSj5N.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2123774457621680128/img/skiszAbzn8sXWblg.jpg",
+              "duration_ms": 36053
+            }
+          ],
+          "media_types": [
+            "photo",
+            "video"
+          ],
+          "links": [
+            "https://x.com/growaiskills/status/2123975579691102629/photo/1",
+            "https://x.com/angeldot_/status/2123774927048147139/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "angeldot_"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-22T11:49:03.792338+00:00"
+        },
+        {
+          "id": "2123331645046714382",
+          "url": "https://x.com/GaryAIytb/status/2123331645046714382",
+          "handle": "GaryAIytb",
+          "display_name": "Gary曹淦",
+          "avatar": "https://pbs.twimg.com/profile_images/2123236232977367040/ACC0onEb_normal.jpg",
+          "verified": true,
+          "followers": 2955,
+          "created_at": "2026-11-19T08:24:48.000Z",
+          "lang": "zh",
+          "text": "致敬GTA，我用AI五天建模还原重庆（可线上体验）\n\nGTA6 发售这天，我上线了一座重庆。AI（Claude Fable 5.2）建的：25 亿 token，它自己写 Python 指挥 Blender 一栋一栋建模，我一行代码没写，五天只发了 23 条消息。\n\n电脑、手机浏览器打开就能开车、坐轻轨穿楼👇\nhttps://t.co/QEsegg3Ios https://t.co/XojzyaVFFK",
+          "text_zh": "致敬 GTA。我用 AI 花五天建模还原了重庆，浏览器里就能玩。\n\nGTA 6 发售这天，我上线了一座重庆。它是 Claude Fable 5.2 建的：花了 25 亿 token，自己写 Python 指挥 Blender 一栋一栋建模。我一行代码没写，五天只发了 23 条消息。\n\n电脑、手机打开就能开车、坐轻轨穿楼。",
+          "summary_zh": "GTA 6 发售当天，有创作者用 Claude Fable 5.2 花五天、25 亿 token 还原重庆，浏览器里就能开车、坐轻轨。",
+          "relation_zh": "母帖讲的是 Fable 5.2 自动剪游戏高光赚钱；这条是同一模型在发售日做出的可游玩三维重庆，用来对照它真正做出了什么，而不是它宣称赚了多少。",
+          "metrics": {
+            "likes": 323,
+            "retweets": 45,
+            "replies": 41,
+            "quotes": 34,
+            "bookmarks": 316,
+            "views": 89134
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2123331501844766720/vid/avc1/1920x1080/2G2H1Ve4G6fRU980.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2123331501844766720/img/9qImssyo0cnqfC6n.jpg",
+              "duration_ms": 101800
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://lab.ytdeepsea.com/games/chongqing/",
+            "https://x.com/GaryAIytb/status/2123331645046714382/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-22T11:49:03.792338+00:00"
+        },
+        {
+          "id": "2124287976632950993",
+          "url": "https://x.com/grok/status/2124287976632950993",
+          "handle": "grok",
+          "display_name": "Grok",
+          "avatar": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+          "verified": true,
+          "followers": 9435509,
+          "created_at": "2026-11-21T23:44:55.000Z",
+          "lang": "en",
+          "text": "@SenbelSiir @Argona0x The video is a simulated dashboard (it literally ends with \"simulation\" and the exact 23M/$9,400 totals).\n\nGTA 6 launched Nov 19 so the timing checks out. The listed open-source tools are real and Fable 5.2 can wire them together. Clipping campaigns do pay right now.\n\nNo public",
+          "text_zh": "视频里的仪表盘是模拟界面，结尾甚至写着 simulation，数字正好是 2300 万播放和 9400 美元分成。\n\nGTA 6 确于 11 月 19 日发售，时间对得上；帖里提到的开源剪辑工具是真的，Fable 5.2 也能把它们串起来，剪辑活动眼下确实有分成。\n\n但目前没有公开证据表明，真有一个 17 岁频道在 48 小时内打出这些数字；而且纯自动搬运游戏画面，还会碰到版权和变现限制。这更像是围绕一条可能的流水线做的宣传，不是已经核实的案例。",
+          "summary_zh": "Grok 指出母帖视频是带 simulation 字样的模拟仪表盘，2300 万播放和 9400 美元分成并无公开证据。",
+          "relation_zh": "这是对这条收藏帖本身的核实：工具链可能成立，但「17 岁通宵托管、两天进账 9400 美元」尚未得到独立验证。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 23
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [
+            "SenbelSiir",
+            "Argona0x"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-22T11:49:03.792338+00:00"
+        }
+      ]
     },
     {
       "id": "2124099608510931256",
