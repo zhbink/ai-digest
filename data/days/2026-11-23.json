@@ -1761,8 +1761,8 @@
       ],
       "kind_label": "视频",
       "kind_override": null,
-      "rec_score": 70,
-      "recommended": true,
+      "rec_score": 69,
+      "recommended": false,
       "rec_reason": "这是车载世界模型的一次高热度展示，生成式视觉已经进入量产座舱，而不只是视频工具里的演示。",
       "discussion_summary": "作者补充这是约 10 亿参数的扩散模型在“脑补”画面，是“看起来合理”而非“完全忠于现实”；有人调侃倒车入库会变得像游戏。",
       "top_replies": [
@@ -1848,6 +1848,128 @@
       "x_long": true
     },
     {
+      "id": "2124342498625740988",
+      "section": "agent",
+      "handle": "emollick",
+      "display_name": "Ethan Mollick",
+      "avatar": "https://pbs.twimg.com/profile_images/1601382188712398850/3AAOlqrX_bigger.jpg",
+      "text": "I worry that we will retreat in the face of AI ability gains, rather than pushing to make sure human work stays centered (as long as AI stays jagged) by rethinking tasks &amp; UX.\n\nWe don't want a world where the top human tasks are to \"greet customers\" &amp; \"keep carts clean and tidy.\" https://twitter.com/soumitrashukla9/status/2124251540638863693",
+      "text_short": "I worry that we will retreat in the face of AI ability gains, rather than pushing to make sure human work stays centered (as long as AI stays jagged) by rethinking tasks &amp; UX.…",
+      "text_zh": "我担心的是，面对 AI 能力的提升，我们会选择后退，而不是（在 AI 仍然参差不齐的时候）重新思考任务和用户体验，确保人类工作仍处于中心。我们不想要这样一个世界：最顶尖的人类任务只剩下“迎接顾客”和“把购物车保持干净整齐”。",
+      "summary_zh": "Mollick 担心人们会在 AI 能力跃升面前后退，而不是重新设计任务与界面、把人留在工作中心",
+      "created_at": "2026-11-22T03:21:34.000Z",
+      "metrics": {
+        "likes": 626,
+        "reposts": 0,
+        "replies": 172,
+        "bookmarks": 330,
+        "impressions": 42440
+      },
+      "post_url": "https://x.com/emollick/status/2124342498625740988",
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/soumitrashukla…",
+            "end": 312,
+            "expanded_url": "https://twitter.com/soumitrashukla9/status/2124251540638863693",
+            "start": 289,
+            "url": "https://t.co/f94Fua2Ip6"
+          }
+        ]
+      },
+      "media": [],
+      "media_types": [],
+      "kind": "article",
+      "kinds": [
+        "article"
+      ],
+      "kind_label": "文章",
+      "kind_override": null,
+      "rec_score": 69,
+      "recommended": false,
+      "rec_reason": "产品不该把人降成“打招呼、推购物车”；趁能力还不均衡，先把任务和 UX 改成人机互补。",
+      "discussion_summary": "多位从业者对号入座：交易、学术、销售和小型企业里，赢的往往不是把旧流程自动化，而是围绕判断力重做任务；也有人认为一线员工对公司自动化没多少发言权。",
+      "top_replies": [
+        {
+          "id": "2124634483957649616",
+          "handle": "0xRainRain",
+          "name": "RainRain.eth",
+          "verified": false,
+          "text": "@emollick Same pattern in trading: the firms that won weren't the ones that automated the old desk, they redesigned the workflow around the machine. \"Keep carts tidy\" is what you get when you automate without rethinking the task.",
+          "lang": "",
+          "like_count": 0,
+          "reply_count": 0,
+          "created_at": "2026-11-22T22:41:49.000Z",
+          "url": "https://x.com/0xRainRain/status/2124634483957649616",
+          "direct": true,
+          "text_zh": null
+        },
+        {
+          "id": "2124631057928507695",
+          "handle": "PhDStudentTales",
+          "name": "Tales of a PhD Student",
+          "verified": false,
+          "text": "@emollick Academia has a version of this worry. If AI drafts the lit review and the code, grad training has to move deliberately toward the parts that stay human: picking the question, judging the evidence, deciding what is worth doing.",
+          "lang": "",
+          "like_count": 0,
+          "reply_count": 0,
+          "created_at": "2026-11-22T22:28:12.000Z",
+          "url": "https://x.com/PhDStudentTales/status/2124631057928507695",
+          "direct": true,
+          "text_zh": null
+        },
+        {
+          "id": "2124626698033656273",
+          "handle": "markpm39",
+          "name": "Mark Miller",
+          "verified": false,
+          "text": "@emollick i don't think the person doing the job is going to have much say in what the company automates",
+          "lang": "",
+          "like_count": 0,
+          "reply_count": 0,
+          "created_at": "2026-11-22T22:10:53.000Z",
+          "url": "https://x.com/markpm39/status/2124626698033656273",
+          "direct": true,
+          "text_zh": null
+        },
+        {
+          "id": "2124623240324641059",
+          "handle": "SwisherB2B",
+          "name": "Brendon Swisher | B2B Sales",
+          "verified": false,
+          "text": "@emollick Seeing this in sales already. AI can draft the account research and the first email. What buyers still respond to are judgment calls: which stakeholder to bring in, when to push, when to walk away. Worth designing tools around that.",
+          "lang": "",
+          "like_count": 0,
+          "reply_count": 0,
+          "created_at": "2026-11-22T21:57:08.000Z",
+          "url": "https://x.com/SwisherB2B/status/2124623240324641059",
+          "direct": true,
+          "text_zh": null
+        },
+        {
+          "id": "2124615943527751954",
+          "handle": "vanessachan_ait",
+          "name": "Vanessa Chan",
+          "verified": false,
+          "text": "@emollick That worry lands - the risk isn't the model getting stronger, but people defaulting to it before redesigning the task around human strengths. Rethinking workflows first keeps judgement in the loop. https://t.co/urJl8radAz groups tools by how much control they leave you.",
+          "lang": "",
+          "like_count": 0,
+          "reply_count": 0,
+          "created_at": "2026-11-22T21:28:09.000Z",
+          "url": "https://x.com/vanessachan_ait/status/2124615943527751954",
+          "direct": true,
+          "text_zh": null
+        }
+      ],
+      "replies_fetched_at": "2026-11-23T00:46:23.464338+00:00",
+      "replies_seen": 15,
+      "article_id": null,
+      "is_article": false,
+      "external_url": "https://twitter.com/soumitrashukla9/status/2124251540638863693",
+      "note_tweet": null,
+      "x_long": false
+    },
+    {
       "id": "2124527741613830190",
       "section": "zh",
       "handle": "vista8",
@@ -1897,8 +2019,8 @@
       ],
       "kind_label": "长帖",
       "kind_override": null,
-      "rec_score": 70,
-      "recommended": true,
+      "rec_score": 69,
+      "recommended": false,
       "rec_reason": "可直接借鉴的短剧生产零件：分镜 Skill 被一线团队用来提升抽卡成功率，星标已过两千。",
       "discussion_summary": "评论追问分镜如何保住角色一致和镜头衔接，有人分享先锁定角色卡、先配音再出画面的做法；也有人觉得像广告，但承认播放量比评测更硬。",
       "top_replies": [
@@ -2033,8 +2155,8 @@
       ],
       "kind_label": "长帖",
       "kind_override": null,
-      "rec_score": 70,
-      "recommended": true,
+      "rec_score": 69,
+      "recommended": false,
       "rec_reason": "市场还没给足定价的一条主线：高通已在汽车芯片上逼近英飞凌和 NXP，是 AI 上车的重要供应商变量。",
       "discussion_summary": "讨论聚焦高通汽车芯片近 20 亿美元单季收入是否该被重新定价，有人列举 Digits Chassis 的车企客户，也有质疑分析师立场的声音。",
       "top_replies": [
@@ -2118,128 +2240,6 @@
         "text": "Is Qualcomm going to be the largest automotive semiconductor company in 2027? We think so. It’s a story the market has quietly ignored.\nIn the September quarter, Qualcomm hit nearly $2B in quarterly auto revenue for the first time ($8B annual run rate), closing in on Infineon at $2.45B and NXP at $2.07B. Qualcomm has already overtaken traditional auto semi companies such as TI, STMicro, Renesas, Analog Devices and onsemi. (1/7)🧵"
       },
       "x_long": true
-    },
-    {
-      "id": "2124342498625740988",
-      "section": "agent",
-      "handle": "emollick",
-      "display_name": "Ethan Mollick",
-      "avatar": "https://pbs.twimg.com/profile_images/1601382188712398850/3AAOlqrX_bigger.jpg",
-      "text": "I worry that we will retreat in the face of AI ability gains, rather than pushing to make sure human work stays centered (as long as AI stays jagged) by rethinking tasks &amp; UX.\n\nWe don't want a world where the top human tasks are to \"greet customers\" &amp; \"keep carts clean and tidy.\" https://twitter.com/soumitrashukla9/status/2124251540638863693",
-      "text_short": "I worry that we will retreat in the face of AI ability gains, rather than pushing to make sure human work stays centered (as long as AI stays jagged) by rethinking tasks &amp; UX.…",
-      "text_zh": "我担心的是，面对 AI 能力的提升，我们会选择后退，而不是（在 AI 仍然参差不齐的时候）重新思考任务和用户体验，确保人类工作仍处于中心。我们不想要这样一个世界：最顶尖的人类任务只剩下“迎接顾客”和“把购物车保持干净整齐”。",
-      "summary_zh": "Mollick 担心人们会在 AI 能力跃升面前后退，而不是重新设计任务与界面、把人留在工作中心",
-      "created_at": "2026-11-22T03:21:34.000Z",
-      "metrics": {
-        "likes": 626,
-        "reposts": 0,
-        "replies": 172,
-        "bookmarks": 330,
-        "impressions": 42440
-      },
-      "post_url": "https://x.com/emollick/status/2124342498625740988",
-      "entities": {
-        "urls": [
-          {
-            "display_url": "x.com/soumitrashukla…",
-            "end": 312,
-            "expanded_url": "https://twitter.com/soumitrashukla9/status/2124251540638863693",
-            "start": 289,
-            "url": "https://t.co/f94Fua2Ip6"
-          }
-        ]
-      },
-      "media": [],
-      "media_types": [],
-      "kind": "article",
-      "kinds": [
-        "article"
-      ],
-      "kind_label": "文章",
-      "kind_override": null,
-      "rec_score": 69,
-      "recommended": false,
-      "rec_reason": "产品不该把人降成“打招呼、推购物车”；趁能力还不均衡，先把任务和 UX 改成人机互补。",
-      "discussion_summary": "多位从业者对号入座：交易、学术、销售和小型企业里，赢的往往不是把旧流程自动化，而是围绕判断力重做任务；也有人认为一线员工对公司自动化没多少发言权。",
-      "top_replies": [
-        {
-          "id": "2124634483957649616",
-          "handle": "0xRainRain",
-          "name": "RainRain.eth",
-          "verified": false,
-          "text": "@emollick Same pattern in trading: the firms that won weren't the ones that automated the old desk, they redesigned the workflow around the machine. \"Keep carts tidy\" is what you get when you automate without rethinking the task.",
-          "lang": "",
-          "like_count": 0,
-          "reply_count": 0,
-          "created_at": "2026-11-22T22:41:49.000Z",
-          "url": "https://x.com/0xRainRain/status/2124634483957649616",
-          "direct": true,
-          "text_zh": null
-        },
-        {
-          "id": "2124631057928507695",
-          "handle": "PhDStudentTales",
-          "name": "Tales of a PhD Student",
-          "verified": false,
-          "text": "@emollick Academia has a version of this worry. If AI drafts the lit review and the code, grad training has to move deliberately toward the parts that stay human: picking the question, judging the evidence, deciding what is worth doing.",
-          "lang": "",
-          "like_count": 0,
-          "reply_count": 0,
-          "created_at": "2026-11-22T22:28:12.000Z",
-          "url": "https://x.com/PhDStudentTales/status/2124631057928507695",
-          "direct": true,
-          "text_zh": null
-        },
-        {
-          "id": "2124626698033656273",
-          "handle": "markpm39",
-          "name": "Mark Miller",
-          "verified": false,
-          "text": "@emollick i don't think the person doing the job is going to have much say in what the company automates",
-          "lang": "",
-          "like_count": 0,
-          "reply_count": 0,
-          "created_at": "2026-11-22T22:10:53.000Z",
-          "url": "https://x.com/markpm39/status/2124626698033656273",
-          "direct": true,
-          "text_zh": null
-        },
-        {
-          "id": "2124623240324641059",
-          "handle": "SwisherB2B",
-          "name": "Brendon Swisher | B2B Sales",
-          "verified": false,
-          "text": "@emollick Seeing this in sales already. AI can draft the account research and the first email. What buyers still respond to are judgment calls: which stakeholder to bring in, when to push, when to walk away. Worth designing tools around that.",
-          "lang": "",
-          "like_count": 0,
-          "reply_count": 0,
-          "created_at": "2026-11-22T21:57:08.000Z",
-          "url": "https://x.com/SwisherB2B/status/2124623240324641059",
-          "direct": true,
-          "text_zh": null
-        },
-        {
-          "id": "2124615943527751954",
-          "handle": "vanessachan_ait",
-          "name": "Vanessa Chan",
-          "verified": false,
-          "text": "@emollick That worry lands - the risk isn't the model getting stronger, but people defaulting to it before redesigning the task around human strengths. Rethinking workflows first keeps judgement in the loop. https://t.co/urJl8radAz groups tools by how much control they leave you.",
-          "lang": "",
-          "like_count": 0,
-          "reply_count": 0,
-          "created_at": "2026-11-22T21:28:09.000Z",
-          "url": "https://x.com/vanessachan_ait/status/2124615943527751954",
-          "direct": true,
-          "text_zh": null
-        }
-      ],
-      "replies_fetched_at": "2026-11-23T00:46:23.464338+00:00",
-      "replies_seen": 15,
-      "article_id": null,
-      "is_article": false,
-      "external_url": "https://twitter.com/soumitrashukla9/status/2124251540638863693",
-      "note_tweet": null,
-      "x_long": false
     },
     {
       "id": "2124536108457562231",
@@ -4997,7 +4997,7 @@
       "video": 7,
       "paper": 3
     },
-    "recommended": 15,
+    "recommended": 12,
     "rec_missing": [],
     "replies": {
       "posts": 35,
