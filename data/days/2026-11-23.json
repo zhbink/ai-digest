@@ -149,7 +149,132 @@
         "text": "We decided to provide more transparency into pretraining progress at OpenAI for the sake of moving toward shared safety bars. In “Perplexity and Intelligence” I argue for common limits based on perplexity and other measurements, with progress beyond them gated on our ability to understand AI behavior.\n\nhttps://t.co/XX35m5vq89"
       },
       "x_long": true,
-      "article_summary_zh": "OpenAI 首席科学家 Jakub Pachocki 于 11 月 22 日发表《困惑度与智能》，主张把预训练困惑度（交叉熵损失）作为比较各实验室、并据以制定共同安全标准的尺子。他公开了公司内部主评估集上的刻度：GPT-3.5 约 0.99，对应流畅对话并支撑了最初的 ChatGPT；GPT-4 约 0.91，能有效使用思维链；损失降到 0.8 以下后，出现了网络安全和数学上的变革性能力。文章称，模型达到约 0.76 时开始在数学开放问题上连续给出突破性结果；据此外推，2027 年深度学习预训练研究也可能出现类似的“洞察雪崩”，而对齐与监控的进步未必跟得上。他建议前沿实验室共同约定：在理解与监控能力达到明确里程碑（例如找到思维链监控的继任方案）之前，不以困惑度等关键指标越过第一道上限。文中也承认局限：各实验室评估集不同、思维链并不降低困惑度、以及数据固有熵未知会使后期刻度变慢但智力跃迁反而更大。"
+      "article_summary_zh": "OpenAI 首席科学家 Jakub Pachocki 于 11 月 22 日发表《困惑度与智能》，主张把预训练困惑度（交叉熵损失）作为比较各实验室、并据以制定共同安全标准的尺子。他公开了公司内部主评估集上的刻度：GPT-3.5 约 0.99，对应流畅对话并支撑了最初的 ChatGPT；GPT-4 约 0.91，能有效使用思维链；损失降到 0.8 以下后，出现了网络安全和数学上的变革性能力。文章称，模型达到约 0.76 时开始在数学开放问题上连续给出突破性结果；据此外推，2027 年深度学习预训练研究也可能出现类似的“洞察雪崩”，而对齐与监控的进步未必跟得上。他建议前沿实验室共同约定：在理解与监控能力达到明确里程碑（例如找到思维链监控的继任方案）之前，不以困惑度等关键指标越过第一道上限。文中也承认局限：各实验室评估集不同、思维链并不降低困惑度、以及数据固有熵未知会使后期刻度变慢但智力跃迁反而更大。",
+      "attached_posts": [
+        {
+          "id": "2124551594691932405",
+          "url": "https://x.com/sama/status/2124551594691932405",
+          "handle": "sama",
+          "display_name": "Sam Altman",
+          "avatar": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+          "verified": true,
+          "followers": 6455180,
+          "created_at": "2026-11-22T17:12:27.000Z",
+          "lang": "en",
+          "text": "This is the most important thing OpenAI has published in awhile.\n\nWe are providing a lot of transparency into our pretraining progress and hope we can agree as a frield to common limits. I think that would be very wise and help ensure safety and control. https://t.co/O3ev9Bs2SH",
+          "text_zh": "这是 OpenAI 一段时间以来发布的最重要的东西。\n\n我们把预训练进度公开了相当一部分，希望业界能作为一个领域，约定共同的上限。我认为这非常明智，也有助于确保安全和可控。",
+          "summary_zh": "奥特曼引用转发这篇博客，称之为近期最重要的发布，并呼吁各实验室约定共同上限。",
+          "relation_zh": "母帖是首席科学家原文；这条是 CEO 的官方背书，也是后续讨论里被反复引用的那句评价。",
+          "metrics": {
+            "likes": 7949,
+            "retweets": 507,
+            "replies": 746,
+            "quotes": 199,
+            "bookmarks": 2452,
+            "views": 1014668
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://x.com/merettm/status/2124549218995949967"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2124549218995949967",
+          "article_title": null,
+          "attached_at": "2026-11-23T02:29:02.809270+00:00"
+        },
+        {
+          "id": "2124567857531175051",
+          "url": "https://x.com/OGKAIM/status/2124567857531175051",
+          "handle": "OGKAIM",
+          "display_name": "K-AI",
+          "avatar": "https://pbs.twimg.com/profile_images/2091912525583695872/hGVDbTWp_normal.jpg",
+          "verified": true,
+          "followers": 7099,
+          "created_at": "2026-11-22T18:17:04.000Z",
+          "lang": "zh",
+          "text": "🧵 OpenAI 公开了预训练进展：基座模型 log-perplexity 在 2026 年陡然加速下降 📉\n\n📊 每一档数值，对应一档能力：\n🗣️ 0.98 流畅对话 → 🤔 0.91 先思考再回答 → 💻 0.87 好用的程序员 → 🔐 0.83 网络安全专家 → 🧮 0.76 解决千禧年数学难题\n\n⚡ 加速的原因：算力 + 长期研究 + AI 加速 AI 研发。OpenAI 称，AI 已经参与了最新模型的设计 🤖\n\n 🟦 内部未发布模型，已经低于 GPT-6.2 Astra\n\n🎯 Jakub Pachocki 预计：下一批新能力出现在 0.68–0.7\n\n🚀 预训练研究最早 2027 年，可能出现类似数学领域的\"雪崩\"\n\n🛡️ 所以我们选择公开：推动\"共同的安全标准\"\n👉 以困惑度等指标设定共同上限\n👉 突破上限，须以理解 AI 行为为前提",
+          "text_zh": "🧵 OpenAI 公开了预训练进展：基座模型 log-perplexity 在 2026 年陡然加速下降 📉\n\n📊 每一档数值，对应一档能力：\n🗣️ 0.98 流畅对话 → 🤔 0.91 先思考再回答 → 💻 0.87 好用的程序员 → 🔐 0.83 网络安全专家 → 🧮 0.76 解决千禧年数学难题\n\n⚡ 加速的原因：算力 + 长期研究 + AI 加速 AI 研发。OpenAI 称，AI 已经参与了最新模型的设计 🤖\n\n 🟦 内部未发布模型，已经低于 GPT-6.2 Astra\n\n🎯 Jakub Pachocki 预计：下一批新能力出现在 0.68–0.7\n\n🚀 预训练研究最早 2027 年，可能出现类似数学领域的\"雪崩\"\n\n🛡️ 所以我们选择公开：推动\"共同的安全标准\"\n👉 以困惑度等指标设定共同上限\n👉 突破上限，须以理解 AI 行为为前提",
+          "summary_zh": "用一张能力阶梯图把约 0.98 到 0.76 的刻度对上对话、思维链、编程、网络安全和数学，并标出内部未发布模型已经低于 GPT-6.2 Astra。",
+          "relation_zh": "把母帖文章里的曲线翻译成更直观的中文图解，方便对照各档能力。",
+          "metrics": {
+            "likes": 3,
+            "retweets": 0,
+            "replies": 7,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 1526
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1523,
+              "h": 918,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXv7AiVbYAAfW8Z.png",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/OGKAIM/status/2124567857531175051/photo/1",
+            "https://x.com/merettm/status/2124549218995949967"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2124549218995949967",
+          "article_title": null,
+          "attached_at": "2026-11-23T02:29:02.809270+00:00"
+        },
+        {
+          "id": "2124578379634548767",
+          "url": "https://x.com/Ravlizk/status/2124578379634548767",
+          "handle": "Ravlizk",
+          "display_name": "Ravli",
+          "avatar": "https://pbs.twimg.com/profile_images/2110815737124171776/MW3SYkcD_normal.jpg",
+          "verified": true,
+          "followers": 70,
+          "created_at": "2026-11-22T18:58:53.000Z",
+          "lang": "en",
+          "text": "OPENAI'S CHIEF SCIENTIST JUST PUBLISHED THE NUMBER THEY USE TO TRACK HOW SMART THEIR MODELS ARE. AND WHERE HE WANTS EVERY LAB TO STOP\n\nJakub Pachocki posted \"Perplexity and Intelligence\" today. it's the internal pretraining metric OpenAI has tracked since GPT-3.5: log-perplexity on held-out code. lower means the model predicts better\n\nthe numbers he shared:\n→ GPT-3.5 at ~0.99. fluent conversation, the original ChatGPT\n→ GPT-4 at ~0.91. chain-of-thought starts paying off\n→ below 0.8: transformative capabilities in cybersecurity and math\n→ at ~0.76 their model started producing \"groundbreaking\" math results, one after another in a single Slack thread\n→ next window, ~0.68 to 0.7: more transformative capabilities. he says he doesn't know what they'll be\n\nwhat he's asking for:\n→ shared limits across labs, based on perplexity and other measurements\n→ nobody crosses them until monitoring catches up, like a successor to chain-of-thought monitors\n→ he warns AI-assisted pretraining research could bring an \"avalanche\" of advances as soon as 2027\n\npublishing this gives competitors a clearer picture of where OpenAI stands. he says the urgency outweighs that\n\nwould labs that are behind ever agree to a cap set by the one in front?",
+          "text_zh": "OpenAI 首席科学家刚刚公布了他们用来追踪模型有多「聪明」的那个数字，以及他希望各家实验室一起停下来的位置。\n\nJakub Pachocki 今天发了《Perplexity and Intelligence》。这是 OpenAI 从 GPT-3.5 起就在内部追踪的预训练指标：在留出的代码数据上测对数困惑度，越低说明模型预测得越准。\n\n他给出的数字是：\nGPT-3.5 约 0.99，能流畅对话，也是最初的 ChatGPT；\nGPT-4 约 0.91，思维链开始真正发挥作用；\n降到 0.8 以下后，网络安全和数学出现变革性能力；\n到了约 0.76，他们的模型开始在数学上连续给出突破性结果，有的还是在同一个 Slack 线程里接连出现；\n下一窗口大约在 0.68 到 0.7，可能再出现颠覆性能力，连他自己也说不确定会是什么。\n\n他希望各实验室以困惑度等指标约定共同上限，在监控能力跟上之前——比如找到思维链监控的继任方案——谁都不越过这条线。他也警告，AI 辅助的预训练研究最快在 2027 年就可能带来一场「雪崩」。\n\n把这些数字公开，等于让竞争对手更清楚 OpenAI 走到了哪一步。他说，眼下的紧迫性比这更重要。",
+          "summary_zh": "一条英语短视频把 Pachocki 公布的困惑度刻度、共同上限提议，以及 2027 年可能出现的预训练「雪崩」讲了一遍。",
+          "relation_zh": "母帖是长文和曲线图；这条用视频把关键数字和建议压缩成更容易传看的版本。",
+          "metrics": {
+            "likes": 9,
+            "retweets": 0,
+            "replies": 8,
+            "quotes": 0,
+            "bookmarks": 4,
+            "views": 377
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1080,
+              "h": 1350,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2124578336374435840/vid/avc1/1080x1350/r02mInUnn-YAeUCy.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2124578336374435840/img/GS7uZw3a65-jCn3y.jpg",
+              "duration_ms": 15000
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/Ravlizk/status/2124578379634548767/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-23T02:29:02.809270+00:00"
+        }
+      ]
     },
     {
       "id": "2124603209394078089",
@@ -972,7 +1097,148 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2124451516765311425",
+          "url": "https://x.com/superalesha/status/2124451516765311425",
+          "handle": "superalesha",
+          "display_name": "Alexey Fateev",
+          "avatar": "https://pbs.twimg.com/profile_images/2074424168179769344/pBJWRZvX_normal.jpg",
+          "verified": true,
+          "followers": 13087,
+          "created_at": "2026-11-22T10:34:46.000Z",
+          "lang": "en",
+          "text": "A \"GTA 6 native PC port\" repo just exploded to 8,800 GitHub stars in 48 hours, and TikTok is already spamming download links.\n\nI opened the actual Leonida repo. The reverse engineering is insane. They already unpacked and translated all 26,503 Xbox Series RDNA2 shaders into Vulkan SPIR-V (12,101 pixel, 9,282 mesh, 2,689 compute), and all 26,503 pass spirv-val.\n\nBut the game DOES NOT BOOT. The leaked Xbox dump doesn't even have the main executable, and both Leonida and Xbox2Windows state it upfront.\n\nAny \"playable GTA 6 PC build\" link on X or TikTok right now is straight malware.",
+          "text_zh": "一个号称「GTA 6 原生 PC 移植」的仓库在 48 小时里冲到了 8800 个 GitHub star，TikTok 上已经开始刷下载链接。\n\n我打开了真正的 Leonida 仓库。逆向工程的工作量确实惊人：他们已经把全部 26503 个 Xbox Series 的 RDNA2 着色器解包并翻译成 Vulkan SPIR-V（其中像素着色器 12101 个、网格 9282 个、计算 2689 个），而且全部 26503 个都通过了 spirv-val 校验。\n\n但游戏并不能启动。泄露的 Xbox 包里甚至没有主程序，Leonida 和 Xbox2Windows 都把这一点写在了前面。\n\n现在在 X 或 TikTok 上看到的任何「可玩的 GTA 6 PC 版」链接，基本就是恶意软件。",
+          "summary_zh": "作者打开了 Leonida 仓库：26503 个 Xbox 着色器已全部译成 Vulkan 并过校验，但游戏并不能启动，网上所谓「可玩 PC 版」链接多半是恶意软件。",
+          "relation_zh": "母帖强调用 GitHub Issues 调度 agent；这条核对了仓库现状，并明确目前还跑不起来，也提醒不要去下路边的安装包。",
+          "metrics": {
+            "likes": 946,
+            "retweets": 27,
+            "replies": 23,
+            "quotes": 5,
+            "bookmarks": 169,
+            "views": 61586
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1775,
+              "h": 1219,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXuRT-HXAAA17jP.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/superalesha/status/2124451516765311425/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-23T02:29:02.809270+00:00"
+        },
+        {
+          "id": "2124597580231594190",
+          "url": "https://x.com/virgilxbt/status/2124597580231594190",
+          "handle": "virgilxbt",
+          "display_name": "virgilxbt",
+          "avatar": "https://pbs.twimg.com/profile_images/2090121656312135680/4WnsW08b_normal.jpg",
+          "verified": true,
+          "followers": 1785,
+          "created_at": "2026-11-22T20:15:10.000Z",
+          "lang": "en",
+          "text": "GTA VI ON PC IS ALREADY BEING BUILT, AND NOTREXED IS THE ONE DOING IT\n\nThe dev behind the Switch 2 Zelda port is now getting the Xbox Series build to run natively on Windows.\n\nHis new repo already has 26,503 shaders translated for Vulkan and can extract models, textures and audio.\n\nThe workflow he follows:\n\nStep 1 -> Start from your own copy of the game. On his Switch 2 projects he translates the ARM64 game code into C and compiles it for an x86-64 PC.\n\nStep 2 -> Rebuild the console functions the game expects, from reading files to handling controller input.\n\nStep 3 -> Translate the graphics commands to Vulkan and convert the shaders to SPIR-V so a PC GPU can render the game.\n\nStep 4 -> Wrap everything into a builder. Point it at your game files and it assembles the PC version on your own machine.\n\nThe same approach powers Hookshot, his port of the Switch 2 Ocarina of Time remake.\n\nHe reused the engine for BlueShell, the Mario Kart World port, and worked on Skybound for Tears of the Kingdom.\n\nThe GTA VI project is called Leonida.\n\nXbox Series is already x86-64, same as a normal Windows gaming PC -> the game's CPU instructions can run directly.\n\nThat is a massive head start, and GTA VI on PC may be much closer than people think.\n\nGitHub -> https://t.co/xk7hUq4yfX\n\nIt does not boot yet, so stay sharp, skip the sketchy downloads and always DYOR.",
+          "text_zh": "GTA VI 的 PC 版已经有人在做了，作者是 NotRexed。\n\n这位开发者做过 Switch 2 上的塞尔达移植，现在又把 Xbox Series 版往 Windows 上原生搬运。\n\n他的新仓库已经把 26503 个着色器翻译到 Vulkan，还能提取模型、贴图和音频。\n\n他的流程大致是：\n第一步，从你自己的游戏副本出发。在 Switch 2 的项目里，他是把 ARM64 游戏代码译成 C，再编译到 x86-64 的 PC 上。\n第二步，把游戏所依赖的主机系统功能重新实现一遍，从读文件到手柄输入。\n第三步，把图形命令转到 Vulkan，并把着色器转换成 SPIR-V，让 PC 显卡能画出来。\n第四步，打成一个构建器：指向你自己的游戏文件，在本机组装出 PC 版。\n\n同一套方法支撑过 Hookshot（Switch 2《时之笛》重制版移植），后来又用在《马里奥赛车世界》的 BlueShell，以及《王国之泪》的 Skybound 上。\n\n这次的 GTA VI 项目叫 Leonida。Xbox Series 本身已经是 x86-64，和常见的 Windows 游戏 PC 一样，游戏的 CPU 指令可以直接跑，这是一个很大的起点。\n\n不过它现在还启动不了。保持警惕，不要去下那些来路不明的安装包，有问题自己先查证。\n\nGitHub：https://github.com/ItsNotRexed/Leonida",
+          "summary_zh": "视频介绍 Leonida 作者 NotRexed：曾做 Switch 2 版塞尔达静态重编译，这次把同套方法用在 Xbox 版 GTA 6 上，并提醒目前还启动不了。",
+          "relation_zh": "补上母帖没点名的开发者背景，以及「用你自己的游戏文件、仓库不含本体、现在还跑不起来」这些关键前提。",
+          "metrics": {
+            "likes": 30,
+            "retweets": 2,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 23,
+            "views": 884
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2124592830785933313/vid/avc1/1920x1080/R6JH8r6H6eEQI8hC.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2124592830785933313/img/QKwQWjgMgOZAnsRF.jpg",
+              "duration_ms": 50048
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://github.com/ItsNotRexed/Leonida",
+            "https://x.com/virgilxbt/status/2124597580231594190/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2123446269087817864",
+          "article_title": null,
+          "attached_at": "2026-11-23T02:29:02.809270+00:00"
+        },
+        {
+          "id": "2124334841038770183",
+          "url": "https://x.com/BonoDJblack/status/2124334841038770183",
+          "handle": "BonoDJblack",
+          "display_name": "CARV1N",
+          "avatar": "https://pbs.twimg.com/profile_images/2069043139302871040/hBVeLoeA_normal.jpg",
+          "verified": true,
+          "followers": 2359,
+          "created_at": "2026-11-22T02:51:08.000Z",
+          "lang": "zh",
+          "text": "GTA 6 提前上 PC 有戏了，2 天 6.3k star，叫 Leonida。\n\n它把 Xbox 版 GTA 6 静态重编译到 Windows 上跑：Xbox 和 PC 都是 x86-64，游戏代码直接原生跑，系统层自己重写了一套，26503 个 GPU shader 全翻译成 SPIR-V 过了校验。\n\n先泼冷水：现在还启动不了，游戏本体和 exe 都不在仓库里，得用你自己的 Xbox 版游戏文件，仓库不含游戏、不解密、不绕保护。市面上已经出现打着 GTA 6 PC 版旗号的假安装包，别下。\n\nGPL-3.0 开源，https://t.co/yWoHdNMAVX\n\n#GitHub #开源 #GTA6",
+          "text_zh": "GTA 6 提前上 PC 有戏了，2 天 6.3k star，叫 Leonida。\n\n它把 Xbox 版 GTA 6 静态重编译到 Windows 上跑：Xbox 和 PC 都是 x86-64，游戏代码直接原生跑，系统层自己重写了一套，26503 个 GPU shader 全翻译成 SPIR-V 过了校验。\n\n先泼冷水：现在还启动不了，游戏本体和 exe 都不在仓库里，得用你自己的 Xbox 版游戏文件，仓库不含游戏、不解密、不绕保护。市面上已经出现打着 GTA 6 PC 版旗号的假安装包，别下。\n\nGPL-3.0 开源，https://github.com/ItsNotRexed/Leonida\n\n#GitHub #开源 #GTA6",
+          "summary_zh": "中文说明 Leonida 的静态重编译思路，并提醒仓库不含游戏和 exe，现在还启动不了，不要去下来路不明的安装包。",
+          "relation_zh": "把英文圈里的仓库进展翻成中文简报，重点是泼冷水和防假包，正好补上母帖没写的限制。",
+          "metrics": {
+            "likes": 9,
+            "retweets": 1,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 3,
+            "views": 3656
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1024,
+              "h": 1024,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXsnNTDbYAAZF5k.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://github.com/ItsNotRexed/Leonida",
+            "https://x.com/BonoDJblack/status/2124334841038770183/photo/1"
+          ],
+          "hashtags": [
+            "GitHub",
+            "开源",
+            "GTA6"
+          ],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-23T02:29:02.809270+00:00"
+        }
+      ]
     },
     {
       "id": "2124465462406721801",
@@ -2103,7 +2369,149 @@
       "note_tweet": {
         "text": "朋友今年做了 20 多部 AI 短剧，有个红果播放超 5000 万。\n\n他说工作流中整合了一个叫老李 Skill 的东西。\n\n搜了下，原来叫“漫剧老李 AIGC 创作全流程 Skill”\n\n（竟一点没听过，果然隔行如隔山，目前Star 两千多）\n\n他说这个 Skill 分镜做的不错，让抽卡成功率提升很多，感兴趣的朋友可以试试。\n\n地址见评论区"
       },
-      "x_long": true
+      "x_long": true,
+      "attached_posts": [
+        {
+          "id": "2121844308127240499",
+          "url": "https://x.com/shanyanggm/status/2121844308127240499",
+          "handle": "shanyanggm",
+          "display_name": "山羊赚钱笔记",
+          "avatar": "https://pbs.twimg.com/profile_images/2094649281949081601/qiYAdG-z_normal.jpg",
+          "verified": true,
+          "followers": 33935,
+          "created_at": "2026-11-15T05:54:39.000Z",
+          "lang": "zh",
+          "text": "AI 短剧制作工作流🫨🫨🫨🫨🫨🫨🫨🫨🫨🫨🫨🫨🫨🫨🫨\n\n全流程：剧本 → 分镜 → 成片\n\n• shuohao-skills\n拆解角色、改编小说大纲，完成场景与道具设定、剧本和分镜。\n\n• drama-skills\n覆盖短剧和漫剧制作全流程，从拆小说、项目开发、写剧本，到制作角色资产、分镜、图像与视频提示词，并提供审查。\n\n• manju-laoli-skill\n协助完成漫剧导演工作，包括剧本审核、资产锁定、分镜、生成提示词和质量检查。\n\n• OnlyShot\n把一句话创意依次做成剧本、分镜、分镜图和视频，再完成剪辑，并提供 17 种常见失败模式供排查。\n\n• Micro-Drama-Skills\n自动完成短剧剧本、角色设计、分镜、图像和视频生成，以及成品提交。\n\n• short-drama-production\n统筹短剧制作，从小说大纲、人物和剧本，到导演分镜、提示词、声音素材、粗剪和质检。\n\n• workrally\n帮助 AI Agent 完成漫剧视频创作，覆盖剧本、分镜、提示词和出片。\n\n• infinite-creation\n提交小说或剧本后，自动连续生成视频，创作流程不限时长。\n\n编剧：剧本 · 改编 · 审稿\n\n• short-drama\n从选题立项、搭故事骨架和设计四层反派人物，到写分集目录和逐集剧本，支持钩子、付费卡点、五维评分自检和合规审核，也可切换成出海英文剧本格式。\n\n• short-drama-factory\n把一句创意或一部网文改成 60–100 集短剧剧本，设计钩子、付费卡点、断章和反转，并按规则自动检查。\n\n• screenwriter-skill\n用 38 条规则审核短剧和漫剧剧本，找出写作问题。\n\n• qianqianwriting\n用「救猫咪」方法和 31 部爆款短剧案例，辅助写短剧或漫剧的集纲和剧本。\n\n• 5min-drama-contest\n通过提问确定五分钟短剧的赛道、立意、结构和前 30 秒开场，再依次产出四幕卡点大纲、正式剧本和分镜脚本。\n\n• screenplay-review-checklist\n用 37 条判据审查剧本，定位故事里的问题。\n\n• write-screenplay-skill\n把小说或故事设定改成商业剧本，支持国内短剧和出海微短剧两种写法。\n\n• gushi-skill\n用罗伯特·麦基《故事》中的方法写短剧集纲和剧本。\n\n• emma-screenwriting-skills\n辅助拆解结构、改编、迭代选题、设计观众期待和逐集钩子，也能扩写集纲、诊断对白和删减剧本。\n\n分镜 · 视觉资产 · 视频提示词\n\n• Seedance2-Storyboard-Generator\n把小说或故事改成多集视频剧本和分镜，再生成视频提示词。\n\n• seedance2-skill\n生成视频提示词。\n\n• awesome-seedance\n提供 800 多条可追溯原帖的提示词案例和近 500 次跨模型复测结果，供创作时查阅和对照。\n\n• higgsfield-ai-prompt-skill\n用 MCSLA 公式组织视频提示词，支持多参考素材、表演指导、角色一致性、镜头清单和失败诊断。\n\n• make-prompt-seedance2\n提供结构化视频提示词写法，以及可复用的提示词 Skill。\n\n• seedance-2-5-video-director\n辅助写视频提示词和脚本，支持问题诊断、人物锁定、续写、编辑和转场设计。\n\n• zy-cinematic-realism\n把剧本、故事或场景构想拆成推动叙事的画面关键帧，生成静帧提示词，支持连续组图和画面修复。\n\n• shanyin-director-master\n根据剧本确定导演风格和节奏，微调剧本、拆解分镜，再输出九列分镜表，内置类型片导演风格模板。\n\n上游：IP 评估与故事拆解\n\n• screen-creative-skills\n评估小说或 IP，拆解情节点、人物小传和关系，整理大纲，并辅助改编成短剧或长剧。\n\n• narrative-to-screen-reader\n把故事整理成影视开发材料，包括快速诊断、编剧改编读本、导演视听读本、演员读本和制片摘要。\n\n• analyze-hit-novel\n把爆款小说或漫剧拆成可验证的叙事结构，供改编参考。\n\n编剧基本功\n\n• screenwriting-skills\n辅助设计故事结构、场景、对白和剧集设定，也覆盖编剧室协作，附多国影视和中国戏曲案例。\n\n• shanyin-screenwriting-master\n为概念超短片、叙事短片、长片和多集剧集设计人物、大纲和场景，并生成完整剧本。\n\n• write-chinese-long-screenplay\n用本地状态工具管理中文小说和剧本的创作进度，保留旧版长剧本写作模板。\n\n• claude-screenwriting\n把 Vogler、麦基和「救猫咪」的编剧方法整理成故事知识库，支持 15 节拍规划、三层角色卡和结构诊断。\n\n• kunka-screenwriting-master\n辅助中文编剧构思、改稿、检查剧情连续性和开发剧集。",
+          "text_zh": "AI 短剧制作工作流🫨🫨🫨🫨🫨🫨🫨🫨🫨🫨🫨🫨🫨🫨🫨\n\n全流程：剧本 → 分镜 → 成片\n\n• shuohao-skills\n拆解角色、改编小说大纲，完成场景与道具设定、剧本和分镜。\n\n• drama-skills\n覆盖短剧和漫剧制作全流程，从拆小说、项目开发、写剧本，到制作角色资产、分镜、图像与视频提示词，并提供审查。\n\n• manju-laoli-skill\n协助完成漫剧导演工作，包括剧本审核、资产锁定、分镜、生成提示词和质量检查。\n\n• OnlyShot\n把一句话创意依次做成剧本、分镜、分镜图和视频，再完成剪辑，并提供 17 种常见失败模式供排查。\n\n• Micro-Drama-Skills\n自动完成短剧剧本、角色设计、分镜、图像和视频生成，以及成品提交。\n\n• short-drama-production\n统筹短剧制作，从小说大纲、人物和剧本，到导演分镜、提示词、声音素材、粗剪和质检。\n\n• workrally\n帮助 AI Agent 完成漫剧视频创作，覆盖剧本、分镜、提示词和出片。\n\n• infinite-creation\n提交小说或剧本后，自动连续生成视频，创作流程不限时长。\n\n编剧：剧本 · 改编 · 审稿\n\n• short-drama\n从选题立项、搭故事骨架和设计四层反派人物，到写分集目录和逐集剧本，支持钩子、付费卡点、五维评分自检和合规审核，也可切换成出海英文剧本格式。\n\n• short-drama-factory\n把一句创意或一部网文改成 60–100 集短剧剧本，设计钩子、付费卡点、断章和反转，并按规则自动检查。\n\n• screenwriter-skill\n用 38 条规则审核短剧和漫剧剧本，找出写作问题。\n\n• qianqianwriting\n用「救猫咪」方法和 31 部爆款短剧案例，辅助写短剧或漫剧的集纲和剧本。\n\n• 5min-drama-contest\n通过提问确定五分钟短剧的赛道、立意、结构和前 30 秒开场，再依次产出四幕卡点大纲、正式剧本和分镜脚本。\n\n• screenplay-review-checklist\n用 37 条判据审查剧本，定位故事里的问题。\n\n• write-screenplay-skill\n把小说或故事设定改成商业剧本，支持国内短剧和出海微短剧两种写法。\n\n• gushi-skill\n用罗伯特·麦基《故事》中的方法写短剧集纲和剧本。\n\n• emma-screenwriting-skills\n辅助拆解结构、改编、迭代选题、设计观众期待和逐集钩子，也能扩写集纲、诊断对白和删减剧本。\n\n分镜 · 视觉资产 · 视频提示词\n\n• Seedance2-Storyboard-Generator\n把小说或故事改成多集视频剧本和分镜，再生成视频提示词。\n\n• seedance2-skill\n生成视频提示词。\n\n• awesome-seedance\n提供 800 多条可追溯原帖的提示词案例和近 500 次跨模型复测结果，供创作时查阅和对照。\n\n• higgsfield-ai-prompt-skill\n用 MCSLA 公式组织视频提示词，支持多参考素材、表演指导、角色一致性、镜头清单和失败诊断。\n\n• make-prompt-seedance2\n提供结构化视频提示词写法，以及可复用的提示词 Skill。\n\n• seedance-2-5-video-director\n辅助写视频提示词和脚本，支持问题诊断、人物锁定、续写、编辑和转场设计。\n\n• zy-cinematic-realism\n把剧本、故事或场景构想拆成推动叙事的画面关键帧，生成静帧提示词，支持连续组图和画面修复。\n\n• shanyin-director-master\n根据剧本确定导演风格和节奏，微调剧本、拆解分镜，再输出九列分镜表，内置类型片导演风格模板。\n\n上游：IP 评估与故事拆解\n\n• screen-creative-skills\n评估小说或 IP，拆解情节点、人物小传和关系，整理大纲，并辅助改编成短剧或长剧。\n\n• narrative-to-screen-reader\n把故事整理成影视开发材料，包括快速诊断、编剧改编读本、导演视听读本、演员读本和制片摘要。\n\n• analyze-hit-novel\n把爆款小说或漫剧拆成可验证的叙事结构，供改编参考。\n\n编剧基本功\n\n• screenwriting-skills\n辅助设计故事结构、场景、对白和剧集设定，也覆盖编剧室协作，附多国影视和中国戏曲案例。\n\n• shanyin-screenwriting-master\n为概念超短片、叙事短片、长片和多集剧集设计人物、大纲和场景，并生成完整剧本。\n\n• write-chinese-long-screenplay\n用本地状态工具管理中文小说和剧本的创作进度，保留旧版长剧本写作模板。\n\n• claude-screenwriting\n把 Vogler、麦基和「救猫咪」的编剧方法整理成故事知识库，支持 15 节拍规划、三层角色卡和结构诊断。\n\n• kunka-screenwriting-master\n辅助中文编剧构思、改稿、检查剧情连续性和开发剧集。",
+          "summary_zh": "一份带图的 AI 短剧 Skill 清单，把「漫剧老李」放进从剧本到成片的开源工具箱里。",
+          "relation_zh": "母帖只点名这个 Skill；这条更早发出的清单说明，它在现有短剧工具里主要承担导演、分镜、提示词和质检。",
+          "metrics": {
+            "likes": 1223,
+            "retweets": 228,
+            "replies": 29,
+            "quotes": 7,
+            "bookmarks": 1133,
+            "views": 53613
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1800,
+              "h": 2926,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXJNYYtbsAAPpVC.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 1800,
+              "h": 2984,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXJNYYqaYAAe9Xw.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 1800,
+              "h": 2948,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXJNYYqasAAVCMB.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 1800,
+              "h": 2852,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXJNYYqb0AED66y.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo",
+            "photo",
+            "photo",
+            "photo"
+          ],
+          "links": [
+            "https://x.com/shanyanggm/status/2121844308127240499/photo/1",
+            "https://x.com/shanyanggm/status/2121844308127240499/photo/2",
+            "https://x.com/shanyanggm/status/2121844308127240499/photo/3",
+            "https://x.com/shanyanggm/status/2121844308127240499/photo/4"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-23T02:29:02.809270+00:00"
+        },
+        {
+          "id": "2124544270220800483",
+          "url": "https://x.com/Zen_with_AI/status/2124544270220800483",
+          "handle": "Zen_with_AI",
+          "display_name": "山景城小路",
+          "avatar": "https://pbs.twimg.com/profile_images/2079989283914674176/GoYkKUH2_normal.jpg",
+          "verified": true,
+          "followers": 15441,
+          "created_at": "2026-11-22T16:43:20.000Z",
+          "lang": "zh",
+          "text": "一部 AI 短剧在红果播了 5000 万，靠是套路。\n\n用的是一套叫“漫剧老李”的 AIGC 全流程 Skill：剧本、人物资产锁定、分镜、台词、武打设计全包，分镜做得好，一次成片率就高。GitHub 仓库 2000+ stars，V7.4.26 版是 1 个总控加 12 个子技能的套装，适配 Seedance、MiniMax 这些视频模型。\nAI 短剧拼的是工业化流程。想入场的人，先看这套东西怎么搭。\n\nhttps://t.co/rUYf2UWsoF",
+          "text_zh": "一部 AI 短剧在红果播了 5000 万，靠的是套路。\n\n用的是一套叫「漫剧老李」的 AIGC 全流程 Skill：剧本、人物资产锁定、分镜、台词、武打设计全包，分镜做得好，一次成片率就高。GitHub 仓库 2000+ stars，V7.4.26 版是 1 个总控加 12 个子技能的套装，适配 Seedance、MiniMax 这些视频模型。\nAI 短剧拼的是工业化流程。想入场的人，先看这套东西怎么搭。\n\nhttps://github.com/lixiaoxiao9888-create/manju-laoli-skill",
+          "summary_zh": "把乔木提到的 5000 万播放案例和「漫剧老李」对上，并给出 GitHub 仓库与 V7.4.26 套装说明。",
+          "relation_zh": "直接呼应母帖里的红果爆款案例，补上了仓库地址和「1 个总控 + 12 个子技能」的版本信息。",
+          "metrics": {
+            "likes": 8,
+            "retweets": 1,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 14,
+            "views": 1063
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://github.com/lixiaoxiao9888-create/manju-laoli-skill"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-23T02:29:02.809270+00:00"
+        },
+        {
+          "id": "2124685809232068963",
+          "url": "https://x.com/Kainative/status/2124685809232068963",
+          "handle": "Kainative",
+          "display_name": "大宇",
+          "avatar": "https://pbs.twimg.com/profile_images/2117582376096206848/c3O10QEX_normal.jpg",
+          "verified": true,
+          "followers": 801,
+          "created_at": "2026-11-23T02:05:46.000Z",
+          "lang": "zh",
+          "text": "课代表来了：GitHub 上有个开源的 AI 漫剧 Skill，叫「漫剧老李」，我把它的 README 读了一遍。\n\n一句话说清：它不帮你出图出视频，帮你出的是能直接喂给 Seedance 的提示词。\n\n它把做一集 AI 短剧拆成 6 步：\n1️⃣ 立项：先问你原创、改编还是对标爆款，用 2.5 还是 2.0，横屏还是竖屏。不答它不动笔\n2️⃣ 剧本：分集规划、台词诊断、情绪节奏曲线\n3️⃣ 锁资产：角色、场景、道具先定死，再进分镜。这招专治 AI 短剧最头疼的「换个镜头人就变脸」\n4️⃣ 分镜：文戏和打戏分开做，打戏还细分成通用、玄幻仙侠、真人写实\n5️⃣ 提示词：固定七段式，画幅、场景、人物、站位、时间轴、音效、禁止项，整组复制就能用\n6️⃣ 质检：自带脚本检查格式，能导出离线分镜看板、字幕和剪辑时间线\n\n我觉得最值得抄的一点：禁止项不要写「不要 XX」。模型对否定词不敏感，对词本身敏感，所以要换个词，或者干脆别提。\n\n适合谁：用 Seedance、想批量做漫剧的人\n不适合谁：偶尔做一条视频的人，它有 48 份规则库，上手偏重\n\nMIT 开源，作者 lixiaoxiao9888-create\n🔗 https://t.co/7JSUwLIkxn",
+          "text_zh": "课代表来了：GitHub 上有个开源的 AI 漫剧 Skill，叫「漫剧老李」，我把它的 README 读了一遍。\n\n一句话说清：它不帮你出图出视频，帮你出的是能直接喂给 Seedance 的提示词。\n\n它把做一集 AI 短剧拆成 6 步：\n1. 立项：先问你原创、改编还是对标爆款，用 2.5 还是 2.0，横屏还是竖屏。不答它不动笔\n2. 剧本：分集规划、台词诊断、情绪节奏曲线\n3. 锁资产：角色、场景、道具先定死，再进分镜。这招专治 AI 短剧最头疼的「换个镜头人就变脸」\n4. 分镜：文戏和打戏分开做，打戏还细分成通用、玄幻仙侠、真人写实\n5. 提示词：固定七段式，画幅、场景、人物、站位、时间轴、音效、禁止项，整组复制就能用\n6. 质检：自带脚本检查格式，能导出离线分镜看板、字幕和剪辑时间线\n\n我觉得最值得抄的一点：禁止项不要写「不要 XX」。模型对否定词不敏感，对词本身敏感，所以要换个词，或者干脆别提。\n\n适合谁：用 Seedance、想批量做漫剧的人\n不适合谁：偶尔做一条视频的人，它有 48 份规则库，上手偏重\n\nMIT 开源，作者 lixiaoxiao9888-create\nhttps://github.com/lixiaoxiao9888-create/manju-laoli-skill",
+          "summary_zh": "课代表读完 README：这套 Skill 不出图出视频，产出可直接喂给 Seedance 的七段式提示词，并把流程拆成立项、剧本、锁资产、分镜、提示词和质检。",
+          "relation_zh": "母帖说分镜能提高抽卡成功率；这条把仓库里到底做什么、适合谁、不适合谁讲清楚了。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 32
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://github.com/lixiaoxiao9888-create/manju-laoli-skill"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": "https://x.com/i/status/2124527741613830190",
+          "article_title": null,
+          "attached_at": "2026-11-23T02:29:02.809270+00:00"
+        }
+      ]
     },
     {
       "id": "2124337151659651116",
@@ -2386,7 +2794,134 @@
       "note_tweet": {
         "text": "马斯克：\n\n特斯拉车载屏幕里那套极其逼真的实时 3D 周围环境画面，不是靠传统 3D 建模渲染出来的，而是由车载 AI 实时“脑补/生成”的一段小视频\n\n从去年开始我们就拥有了一个~像素级精准的世界模型\n\n云端完整版：生成各种极端路况的合成训练数据\n\n车端轻量化版：用来在车机屏幕上实时生成可视化画面\n\n画面是如何实时生成的？\n\n共享视觉底座（UVE）：车上的摄像头先通过 Tesla Universal Vision Encoder（通用视觉编码器） 提取画面特征。这组特征不仅喂给负责开车的 3B 规划模型来决定怎么打方向盘，同时也分叉出来喂给可视化模型\n\n~1B 扩散模型实时去噪：这个独立的 10 亿参数（~1B）扩散模型，会拿上一帧生成的画面加上噪声，结合最新的视觉特征，一步步“去噪”还原出当前最新的路况画面\n\n输出视频流：每次计算会输出一段 8 帧、36 fps、匹配中控屏分辨率的小视频片段，以此实现流畅丝滑的动态效果\n\n极限省算力：\n\n这套可视化渲染只占用了车机芯片（SoC B）里 半个（甚至优化后仅三分之一）TRIP 加速引擎的算力，因为硬件限制，它只能用 8 位整数（INT8）运算，甚至还要靠模拟模式跑 28 步 Softmax\n\n目前因为算力吃紧，画面有一点延迟；但特斯拉已经找到新方法——在扩散模型的 Transformer 层中交错更新 UVE 特征，预计能直接把延迟砍掉 35%。而到了下一代 AI5 芯片，算力将暴涨约 12 倍，到时候跑这个模型就会非常轻松。"
       },
-      "x_long": true
+      "x_long": true,
+      "attached_posts": [
+        {
+          "id": "2124458557525397780",
+          "url": "https://x.com/elonmusk/status/2124458557525397780",
+          "handle": "elonmusk",
+          "display_name": "Elon Musk",
+          "avatar": "https://pbs.twimg.com/profile_images/2122506092437504001/NSS4RHyZ_normal.jpg",
+          "verified": true,
+          "followers": 240115088,
+          "created_at": "2026-11-22T11:02:45.000Z",
+          "lang": "en",
+          "text": "In case anyone is curious:\n\nWe’ve had a ~pixel-perfect world model since last year, which is critical for synthetic data generation. \n\nThe (much) smaller version of that in the car is a conditional mean-flow model, based on the recent sequence of Tesla Universal Vision Encoder features, which are the same ones that are plugged into the 3B encoder model that produces the driving actions. \n\nWe fork off from these UVE features, then run a separate ~1B diffusion model. This takes in the previous reality-view generation with added noise and then denoises it to the current visualization. \n\nIt then produces a small video chunk (8 images at 36 fps, at the resolution of the UI screen). This work is done by 1/2 of a TRIP engine every UVE frame at 18 hz and is spread over 4 cycles. \n\nCurrently, the latency is a bit high due to compute constraints, but we have ways to interleave newer UVE features along the diffusion transformer layers to cut roughly 35% of the latency.",
+          "text_zh": "如果有人好奇的话：\n\n我们从去年起就有一个接近像素级精准的世界模型，这对生成合成数据至关重要。\n\n车上跑的是它的缩小版，一个条件 mean-flow 模型，依据的是特斯拉通用视觉编码器（UVE）最近一段特征。这些特征和那个约 30 亿参数、负责输出驾驶动作的编码器模型用的是同一组。\n\n我们从这些 UVE 特征分叉出去，再跑一个单独的、约 10 亿参数的扩散模型。它会把上一轮 Reality View 的画面加上噪声，再去噪成当前的可视化。\n\n然后它会产出一小段视频（8 帧、36 fps，分辨率和车机界面一致）。这项工作由半个 TRIP 加速器完成，每个 UVE 帧是 18 Hz，计算会摊到 4 个周期里。\n\n目前受算力限制，延迟还是偏高；不过我们已经有办法，在扩散 Transformer 的各层里交错送入更新的 UVE 特征，预计能把延迟砍掉大约 35%。",
+          "summary_zh": "马斯克亲自说明 Reality View：车端约 10 亿参数的条件 mean-flow 扩散模型，与 30 亿参数驾驶模型共享 UVE 特征，每次生成 8 帧、36 fps 的画面。",
+          "relation_zh": "这是小互长文所引用的原帖，马斯克本人对车端世界模型可视化的技术拆解。",
+          "metrics": {
+            "likes": 19788,
+            "retweets": 1482,
+            "replies": 819,
+            "quotes": 487,
+            "bookmarks": 4609,
+            "views": 2018021
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [
+            "BLKMDL3",
+            "wholemars"
+          ],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-23T02:29:02.809270+00:00"
+        },
+        {
+          "id": "2124306839840145788",
+          "url": "https://x.com/wholemars/status/2124306839840145788",
+          "handle": "wholemars",
+          "display_name": "Whole Mars Catalog",
+          "avatar": "https://pbs.twimg.com/profile_images/2100121110960553984/UWLjAKcu_normal.jpg",
+          "verified": true,
+          "followers": 2221072,
+          "created_at": "2026-11-22T00:59:52.000Z",
+          "lang": "en",
+          "text": "First look at Tesla Reality View https://t.co/LthTechYYK",
+          "text_zh": "特斯拉 Reality View 初体验。",
+          "summary_zh": "FSD v15 车主放出 Reality View 首批实拍：车机屏幕上由 AI 实时生成的高空路况画面。",
+          "relation_zh": "马斯克后来正是在这类实拍帖的讨论里补上技术细节；这条 4K 视频让人先看到母帖所讲的画面究竟长什么样。",
+          "metrics": {
+            "likes": 7392,
+            "retweets": 400,
+            "replies": 167,
+            "quotes": 104,
+            "bookmarks": 1217,
+            "views": 571570
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 3840,
+              "h": 2160,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2124306160241332224/vid/avc1/3840x2160/2gdnQgJ49yyUQkyY.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2124306160241332224/img/BNYxxV-hVE3nsNFr.jpg",
+              "duration_ms": 92591
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [
+            "https://x.com/wholemars/status/2124306839840145788/video/1"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-23T02:29:02.809270+00:00"
+        },
+        {
+          "id": "2124474912161087636",
+          "url": "https://x.com/tslaming/status/2124474912161087636",
+          "handle": "tslaming",
+          "display_name": "Ming",
+          "avatar": "https://pbs.twimg.com/profile_images/2039357238721359873/RFOWEke-_normal.jpg",
+          "verified": true,
+          "followers": 48534,
+          "created_at": "2026-11-22T12:07:44.000Z",
+          "lang": "en",
+          "text": "BOOM 🚨 @elonmusk just explained exactly how Tesla Reality View works, and his comments are a jargon-packed gold mine 🔥\n\nHere's what it all means in plain English for everyday fans like you and me, plus every number techies love to dig into 👇\n\nBehind terms like mean-flow models, UVE features, and softmax emulation is the story of how Tesla turned a car computer into a live video generator, running on a tiny slice of chip.\n\n👉 It starts with something much bigger than the screen.\n\n🌍 Reality View is a mini version of Tesla's world model\n\nTesla has had a world model since last year that Elon describes as nearly pixel-perfect, and he says it's critical for generating synthetic data.\n\nA world model is an AI that has learned how the world looks and moves, well enough to create realistic driving footage of moments that never happened. That synthetic footage gives FSD extra practice and testing scenarios without waiting for rare situations to show up on real roads.\n\nTesla showed what that looks like at the ICCV conference in October 2025. A driver steered, braked, and accelerated through a world generated entirely by AI, in real time, while the simulator produced all eight camera feeds at 24 frames per second, with generated drives running past six minutes.\n\nReality View is a much smaller version of that world model, running live in the car.\n\n🧠 One vision encoder feeds two AI models: the driver and the painter\n\nEverything starts with the Tesla Universal Vision Encoder, or UVE. It's the shared vision system that turns raw camera video into \"features\", a compact digital summary of the scene that the rest of the AI can work with.\n\nTesla's v15 release notes say this encoder is shared across FSD, Robotaxi, and Optimus, and trained on millions of internet videos.\n\nIt's also the upgrade Tesla credits for a 25x better critical intervention rate, and when some readers took that as 25%, Elon stepped in to clarify that Tesla means 25 times.\n\nThose UVE features feed a model with 3 billion parameters, the adjustable dials an AI learns with, and that model produces the driving actions.\n\nTesla then forks the very same features into a separate diffusion model with about 1 billion parameters, roughly a third the size of the driving model in parameter count, and painting Reality View is its only job.\n\nThat's the live view from a virtual camera above your car, complete with arrows for upcoming turns and pins where FSD plans to park.\n\nBecause of that fork, the painter reuses all the camera processing the driving side already needs, instead of running a vision system of its own.\n\nIt also means the screen and the steering wheel see the world through exactly the same eyes.\n\n🎨 Painting each frame from the last one\n\nDiffusion models normally start from pure static and \"denoise\" it, cleaning it up step by step until a picture appears. That's how many AI image generators work.\n\nReality View's painter gets a head start. It begins with its own previous output, adds a layer of noise, then denoises it into the current view, guided by the most recent stretch of UVE features.\n\nThat helps the picture stay steady, since each new chunk only has to change as much as the road actually did.\n\nThe car's version is a conditional mean-flow model. \"Conditional\" means it's guided by what the cameras see, and \"mean-flow\" points to one of the newest ideas in AI image generation.\n\nStandard models travel from static to a clean image through dozens of tiny steps. MeanFlow, a technique introduced by researchers at CMU and MIT last year, teaches the model the average direction of that whole trip, so it can make the jump in as little as one step.\n\nIt's the difference between following every bend of a winding trail and walking straight across the field. Tesla hasn't said how many steps its version takes, and an approach built to need so few is a natural fit for a tiny compute budget.\n\nOne correction to the earlier breakdown: the idea that Reality View reuses what the driving side already sees held up, and the painter itself is a diffusion model. Tesla did demo generative Gaussian splatting at ICCV, just not as the engine behind this view.\n\n⏱️ How the painter hits 36 frames per second, and the lag Tesla plans to cut\n\nThe UVE takes a fresh look at the cameras 18 times a second, and the painter spreads the work on each video chunk over 4 of those cycles.\n\nFour cycles at 18 per second is about 0.22 seconds. Each chunk holds 8 images, and 8 images every 0.22 seconds comes out to 36 frames per second, the exact rate Elon gave, at the full resolution of the car's screen.\n\nIn other words, the painter delivers a short burst of 8 frames, a bit like a tiny GIF, about four and a half times a second.\n\nOn paper, half a TRIP tops out around 20 trillion operations per second, based on teardown figures, which sets a theoretical ceiling of roughly half a trillion operations per frame.\n\nThere's one catch, and Elon is upfront about it: compute limits make the latency a bit high for now. Since the work on each chunk is spread across about 0.22 seconds, the view likely trails real life by a beat.\n\nA fix is already in the works. The painter is a diffusion transformer that works through its layers one after another, and Tesla plans to feed fresher UVE features into those layers while it's still painting, so the picture reflects a more recent moment. Elon expects that to cut roughly 35% of the latency, about a third.\n\n🔧 Half a TRIP that only does 8-bit whole-number math\n\nThose compute limits come straight from the hardware. SoC B, the second of AI4's two chips, has three TRIP accelerators. Tesla moved a tiny decoder into SRAM, the chip's small but lightning-fast built-in memory, and after that, half of one TRIP was all that was left for Reality View.\n\nTesla had to make every bit of that compute count, and the release notes say the new view uses less total compute than the old visualization it replaced.\n\nTRIP itself basically only handles 8-bit integers, whole numbers from -128 to 127. That works well for most neural network math, which runs fine on small whole numbers.\n\nThe tricky part is softmax, a step that transformers like Reality View's painter use constantly. It turns raw scores into percentages that add up to 100%, and it relies on exponentials, e raised to the power of each score, which TRIP has no direct way to compute.\n\nSo Tesla emulates softmax in 28 steps every time it's needed, a bit like working out powers on a calculator with no exponent button.\n\nSqueezing 36 frames per second of generated video out of half a TRIP, under those limits, is wild.\n\n🚀 What AI5's 12x more compute could change\n\nThat's where AI5 comes in. Elon says the next-gen chip packs roughly 12 times more compute, a gigantic leap over the AI4 computer in today's cars.\n\nToday's view runs on leftovers, half a TRIP fitted in after everything else. That kind of headroom could go toward less lag and richer detail.\n\nAll of this traces back to that world model. The system that helps teach FSD how the world looks now has a smaller sibling riding along on every v15 drive, painting the road live on half of one TRIP.",
+          "text_zh": "马斯克刚刚把特斯拉 Reality View 的原理讲清楚了，原话里堆满术语，但对普通车主和技术读者都很有含量。\n\n简单说，特斯拉是把车机变成了一台实时视频生成器，而且只用了芯片上很小的一块算力。\n\n先从比屏幕更大的那一层说起。Reality View 是特斯拉世界模型的缩小版。马斯克说，公司从去年起就有一个接近像素级精准的世界模型，专门用来生成合成训练数据。所谓世界模型，就是已经学会世界长什么样、会怎么动的 AI，能造出从未真实发生过的驾驶画面，让 FSD 不用等到路上碰上罕见场景也能反复练习。2025 年 10 月的 ICCV 上，特斯拉演示过：驾驶者在一个完全由 AI 生成的世界里实时转向、刹车和加油，模拟器同时以 24 帧生成全部八路摄像头画面，生成的行程可以超过六分钟。Reality View 就是这个世界模型跑在车上的缩小版。\n\n同一套视觉编码器，同时喂给「开车的」和「画画的」。一切从 Tesla Universal Vision Encoder（UVE，通用视觉编码器）开始，它把原始摄像头画面压成一组特征。v15 的更新说明里写，这套编码器由 FSD、Robotaxi 和 Optimus 共用，并用海量互联网视频训练。特斯拉把安全关键干预的改善幅度写成 25 倍；有人看成 25%，马斯克后来出来澄清就是 25 倍。这些 UVE 特征一边进入约 30 亿参数的驾驶模型，决定怎么打方向盘；同一组特征再分叉给另一个约 10 亿参数的扩散模型，专门画 Reality View——车上方虚拟相机的实时画面，还能叠出即将转向的箭头和计划停车的图钉。因为是分叉而不是另起炉灶，画图这一路复用了开车那边已经算过的视觉结果，方向盘和屏幕看到的是同一双眼睛。\n\n每一帧都是从上一帧「画」出来的。常见扩散模型从纯噪声一步步去噪成图。Reality View 的画师有个捷径：先拿自己上一轮的画面加上噪声，再结合最近一段 UVE 特征，去噪成当前画面，这样画面更稳，只需跟上路面实际发生的变化。车端用的是条件 mean-flow 模型：「条件」是指它被摄像头所见引导；mean-flow 则是卡内基梅隆和 MIT 研究人员去年提出的思路，让模型学习整段去噪路径的平均方向，从而可能只需很少步就能完成。特斯拉没说自己走了多少步，但这种省步数的方法，很适合算力极其有限的车端。另外要更正一个早先的说法：画面与驾驶侧共享视觉特征、画师本身是扩散模型，这两点成立；特斯拉在 ICCV 上的确演示过生成式高斯溅射，但那并不是这套车机画面的引擎。\n\n它如何做到 36 帧，以及打算怎么砍延迟。UVE 每秒看 18 次摄像头，画师把每一小段视频的计算摊在 4 个周期里，大约 0.22 秒。每段 8 帧，0.22 秒 8 帧正好是马斯克说的 36 fps，分辨率跟车机屏幕一致。也就是大约每秒吐出四次、每次 8 帧的小片段。按拆解数据估算，半个 TRIP 理论峰值大约每秒 20 万亿次运算，平均到每帧大约五千亿次。马斯克也承认，受算力限制，目前延迟偏高——因为每段计算本身就要摊上约 0.22 秒，画面可能会比现实慢一拍。他们已经有办法：在扩散 Transformer 还在逐层画的时候，把更新的 UVE 特征交错送进去，让画面跟上更近的瞬间。马斯克预计这样能把延迟砍掉大约 35%。\n\n半个只做 8 位整数运算的 TRIP。这些限制直接来自硬件。AI4 的第二块芯片 SoC B 上有三个 TRIP 加速器。特斯拉把一个很小的解码器搬进 SRAM 后，留给 Reality View 的只剩下其中半个 TRIP。更新说明还写，新画面占用的总算力比它替换掉的旧可视化更少。TRIP 基本只能做 8 位整数运算。神经网络大部分计算可以接受；但 Transformer 里常用的 Softmax 需要指数运算，TRIP 不会直接做，于是每次都要用 28 步仿真。能在这样的约束下，靠半个 TRIP 跑出 36 帧的生成视频，已经相当极限。\n\nAI5 大约 12 倍的算力可能改变什么。马斯克说下一代芯片算力大约是现在的 12 倍。今天这套画面是在「剩下的半个加速器」上挤出来的；多出来的余量，可以用来降低延迟、提高细节。而这一切的源头，仍是那个世界模型：教 FSD 理解世界的系统，现在有了一个更小的同伴，坐在每一辆推送了 v15 的车上，用半个 TRIP 实时把路画在屏幕上。",
+          "summary_zh": "把马斯克那堆术语翻译成人话：UVE 特征分叉、mean-flow 去噪、半个 TRIP 上的 INT8 与 28 步 Softmax 仿真，以及 AI5 约 12 倍算力的余量。",
+          "relation_zh": "母帖已经做了中文梳理；这条英文长帖把 mean-flow、延迟和 ICCV 演示等容易绕过去的细节又拆了一遍，并配了图。",
+          "metrics": {
+            "likes": 1547,
+            "retweets": 169,
+            "replies": 51,
+            "quotes": 21,
+            "bookmarks": 1146,
+            "views": 211325
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 946,
+              "h": 1200,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HXumqs-aIAA18x8.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [
+            "https://x.com/tslaming/status/2124474912161087636/photo/1"
+          ],
+          "hashtags": [],
+          "mentions": [
+            "elonmusk"
+          ],
+          "quoted_post_url": "https://x.com/i/status/2124458557525397780",
+          "article_title": null,
+          "attached_at": "2026-11-23T02:29:02.809270+00:00"
+        }
+      ]
     },
     {
       "id": "2124369057805926670",
