@@ -288,7 +288,113 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2125317454750461960",
+          "url": "https://x.com/johnsavage_ai/status/2125317454750461960",
+          "handle": "johnsavage_ai",
+          "display_name": "John Savage",
+          "avatar": "https://pbs.twimg.com/profile_images/2085305563076759552/Z86O-AaS_normal.jpg",
+          "verified": false,
+          "followers": 17724,
+          "created_at": "2026-11-24T19:55:42.000Z",
+          "lang": "en",
+          "text": "Claude artifacts can now become desktop apps on Mac and Windows 🔥\n​\nask Claude to build one, then click \"Install as app\"\n​\nthey can use your connectors, with no API key needed\n​\nin beta in Claude Desktop https://t.co/e1Lka6jMJS",
+          "text_zh": "Claude artifact 现在可以变成 Mac 和 Windows 桌面应用了 🔥\n\n让 Claude 做一个 artifact，然后点「Install as app」\n\n它能用你的连接器，不需要 API key\n\nClaude 桌面版里已开启 beta。",
+          "summary_zh": "第三方快讯复述官方更新，强调连接器可用且无需 API key。",
+          "relation_zh": "补充一条对官方功能的简明复述，点出免 API key 这个关键卖点。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 120
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-25T05:53:34.548254+00:00"
+        },
+        {
+          "id": "2125337185914122543",
+          "url": "https://x.com/saj_adib/status/2125337185914122543",
+          "handle": "saj_adib",
+          "display_name": "Saj",
+          "avatar": "https://pbs.twimg.com/profile_images/1657427035554185217/XsujM4px_normal.jpg",
+          "verified": false,
+          "followers": 856,
+          "created_at": "2026-11-24T21:14:06.000Z",
+          "lang": "en",
+          "text": "Claude artifacts are desktop apps now.\n\nPick \"Install as app\" from the Share menu and it gets its own icon and window on Mac and Windows. Anthropic's team already built Linnet, a layered image editor, and Tern, a terminal with Claude right beside you.",
+          "text_zh": "Claude artifact 现在是桌面应用了。\n\n在「分享」菜单里选「Install as app」，它就会在 Mac 和 Windows 上有自己的图标和窗口。Anthropic 团队已经用它做出了分层图像编辑器 Linnet，以及把 Claude 放在旁边的终端 Tern。",
+          "summary_zh": "点出入口在「分享」菜单，并列举官方团队做的两个示例应用 Linnet 和 Tern。",
+          "relation_zh": "补充官方帖没写的入口位置和内部示例，帮助理解这个功能能做什么。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 45
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-25T05:53:34.548254+00:00"
+        },
+        {
+          "id": "2125408895711776852",
+          "url": "https://x.com/ANTDaily40/status/2125408895711776852",
+          "handle": "ANTDaily40",
+          "display_name": "40 | $ANT Daily",
+          "avatar": "https://pbs.twimg.com/profile_images/2123442269189783552/JWQJeQEj_normal.jpg",
+          "verified": false,
+          "followers": 26,
+          "created_at": "2026-11-25T01:59:03.000Z",
+          "lang": "en",
+          "text": "$ANT  You can now install Claude artifacts as desktop apps on Mac and Windows. Build one, click \"Install as app\", done.\n🟠🟠🟠\n\n#Anthropic  #Claude https://t.co/z3VrHSZLL4",
+          "text_zh": "$ANT 现在可以把 Claude artifact 安装成 Mac 和 Windows 桌面应用。做好一个 artifact，点「Install as app」就行。🟠🟠🟠\n\n#Anthropic #Claude",
+          "summary_zh": "带图的快讯转述，面向 $ANT 股票关注者。",
+          "relation_zh": "从市场关注者的角度看这次功能更新，附带配图。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 39
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1600,
+              "h": 900,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HX74IE3bgAAbgIw.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-25T05:53:34.548254+00:00"
+        }
+      ]
     },
     {
       "id": "2125305349414523061",
@@ -561,7 +667,126 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2125331815380770864",
+          "url": "https://x.com/Ldataengineer/status/2125331815380770864",
+          "handle": "Ldataengineer",
+          "display_name": "Gul Saeed Khattak",
+          "avatar": "https://pbs.twimg.com/profile_images/2063281035014500352/3hpG3G0Q_normal.jpg",
+          "verified": false,
+          "followers": 1010,
+          "created_at": "2026-11-24T20:52:46.000Z",
+          "lang": "en",
+          "text": "Just out: Midjourney releases Niji V8.\n\nIts latest anime image generation model promises more precise prompt following, consistent characters, improved visual coherence and a dedicated editing model.\n\nParticularly interesting for anime artists, illustrators and visual https://t.co/x6vowrLwVw",
+          "text_zh": "刚刚发布：Midjourney 推出 Niji V8。\n\n这个最新的动漫图像模型承诺更精准地遵循提示词、角色更一致、画面更连贯，并带有专用的编辑模型。\n\n对动漫画师、插画师和视觉创作者来说尤其值得关注。",
+          "summary_zh": "带视频的快讯，概括 Niji V8 的提示词精度、角色一致性与专用编辑模型。",
+          "relation_zh": "给母帖的发布公告补一条带演示视频的第三方介绍。",
+          "metrics": {
+            "likes": 1,
+            "retweets": 1,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 205
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2125331452015386625/vid/avc1/1920x1080/Xz0rCP3fdmwfh_sw.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2125331452015386625/img/N3JP0gDEm9H2vMEg.jpg",
+              "duration_ms": null
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-25T05:53:34.548254+00:00"
+        },
+        {
+          "id": "2125390018177061333",
+          "url": "https://x.com/Creator_Toolbox/status/2125390018177061333",
+          "handle": "Creator_Toolbox",
+          "display_name": "Creators Toolbox",
+          "avatar": "https://pbs.twimg.com/profile_images/2115974981477629954/wC1i4HPe_normal.jpg",
+          "verified": false,
+          "followers": 5852,
+          "created_at": "2026-11-25T00:44:02.000Z",
+          "lang": "en",
+          "text": "Midjourney's Niji V8 anime model is now live.\n\nIt adds precision prompting, more consistent characters and a dedicated editing model.\n\nUse --niji 8 in Discord or pick Niji 8 from the version menu on the web. https://t.co/YaHSuIBn0B",
+          "text_zh": "Midjourney 的 Niji V8 动漫模型已上线。\n\n它加入了精准提示词、更一致的角色，以及专用的编辑模型。\n\n在 Discord 里用 --niji 8，或在网页端的版本菜单里选 Niji 8。",
+          "summary_zh": "带视频的使用说明：Discord 加 --niji 8，网页端从版本菜单选 Niji 8。",
+          "relation_zh": "补上官方帖没写的具体用法，配视频更直观。",
+          "metrics": {
+            "likes": 1,
+            "retweets": 0,
+            "replies": 2,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 173
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2125389909275860992/vid/avc1/1920x1080/KhKpxIJXDBsgd6OS.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2125389909275860992/img/NB1f6uYOm0M7B9ui.jpg",
+              "duration_ms": null
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-25T05:53:34.548254+00:00"
+        },
+        {
+          "id": "2125328589075911013",
+          "url": "https://x.com/seiiiiiiiiiiru/status/2125328589075911013",
+          "handle": "seiiiiiiiiiiru",
+          "display_name": "SEIIIRU😈AIを使う映像クリエイター",
+          "avatar": "https://pbs.twimg.com/profile_images/1826463703807512576/5v5cXEw6_normal.jpg",
+          "verified": false,
+          "followers": 23580,
+          "created_at": "2026-11-24T20:39:56.000Z",
+          "lang": "en",
+          "text": "Niji V8 キターーーーーーーーー！！！！！ https://t.co/B4E3dJfgah",
+          "text_zh": "Niji V8 来啦————！！！！！",
+          "summary_zh": "日语圈动漫创作者对 Niji V8 上线的第一时间欢呼，点赞 52、浏览超 3000。",
+          "relation_zh": "展示社区对发布的即时反应，是这一波里热度最高的一条原创反应。",
+          "metrics": {
+            "likes": 52,
+            "retweets": 6,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 16,
+            "views": 3123
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-25T05:53:34.548254+00:00"
+        }
+      ]
     },
     {
       "id": "2125290656692085164",
@@ -958,7 +1183,133 @@
       "external_url": "https://twitter.com/ClaudeDevs/status/2125289794871963935",
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "Anthropic 工程负责人 Boris Cherny 宣布，MCP 服务器可以随发行包附带 skills，让 Claude Code 不必在每台机器上从零学习工具用法：工具名称说明「有什么」，skill 则说明「按什么顺序做」。这对降低集成文档成本很有意义，但也引出实际问题：服务器与 skill 版本不一致时如何处理、多服务器同时接入时 skill 是按需加载还是一次性全部进入上下文，以及与用户本地 skill 的优先级如何划分。"
+      "article_summary_zh": "Anthropic 工程负责人 Boris Cherny 宣布，MCP 服务器可以随发行包附带 skills，让 Claude Code 不必在每台机器上从零学习工具用法：工具名称说明「有什么」，skill 则说明「按什么顺序做」。这对降低集成文档成本很有意义，但也引出实际问题：服务器与 skill 版本不一致时如何处理、多服务器同时接入时 skill 是按需加载还是一次性全部进入上下文，以及与用户本地 skill 的优先级如何划分。",
+      "attached_posts": [
+        {
+          "id": "2125344676370858494",
+          "url": "https://x.com/isbkch/status/2125344676370858494",
+          "handle": "isbkch",
+          "display_name": "Elias",
+          "avatar": "https://pbs.twimg.com/profile_images/1866481370777722880/9sgPzGTA_normal.jpg",
+          "verified": false,
+          "followers": 5729,
+          "created_at": "2026-11-24T21:43:52.000Z",
+          "lang": "en",
+          "text": "Anthropic just shipped Skills over MCP in beta for Claude and Claude Code.\n\nMCP servers can now bundle their own SKILL.md files alongside tools, loaded only when needed.\n\nNo more manually updating local skill files every time an MCP server changes.",
+          "text_zh": "Anthropic 刚在 Claude 和 Claude Code 中发布了 Skills over MCP 的 beta 版。\n\nMCP 服务器现在可以把自己的 SKILL.md 文件跟工具一起打包，只在需要时才加载。\n\n再也不用在 MCP 服务器每次变更后手动更新本地 skill 文件了。",
+          "summary_zh": "解释 Skills over MCP：服务器随工具打包 SKILL.md，按需加载，省去手动同步。",
+          "relation_zh": "把母帖一句话的公告展开成具体机制和好处。",
+          "metrics": {
+            "likes": 17,
+            "retweets": 0,
+            "replies": 10,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 485
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-25T05:53:34.548254+00:00"
+        },
+        {
+          "id": "2125407072888275199",
+          "url": "https://x.com/chenYijl/status/2125407072888275199",
+          "handle": "chenYijl",
+          "display_name": "Chen",
+          "avatar": "https://pbs.twimg.com/profile_images/2100229491629142016/NcUq1lM7_normal.jpg",
+          "verified": false,
+          "followers": 6150,
+          "created_at": "2026-11-25T01:51:48.000Z",
+          "lang": "en",
+          "text": "Your MCP server can now teach Claude its own playbook.\n\nOn November 24, Anthropic put Skills over MCP into public beta in Claude and Claude Code.\n\nServers can now ship skills alongside their tools: step-by-step workflows, best practices, playbooks.\n\nTasks and Elicitation went https://t.co/ImvoPGsHec",
+          "text_zh": "你的 MCP 服务器现在可以把自己的「作战手册」教给 Claude 了。\n\n11 月 24 日，Anthropic 在 Claude 和 Claude Code 中开放了 Skills over MCP 公测。\n\n服务器现在可以在工具之外附带 skills：分步骤的工作流、最佳实践和操作手册。\n\nTasks 和 Elicitation 也……",
+          "summary_zh": "梳理 Skills over MCP 公测内容：服务器可随工具提供分步工作流和最佳实践，配图。",
+          "relation_zh": "补充公测时间和能力范围，并关联到 MCP 同期的其他更新。",
+          "metrics": {
+            "likes": 2,
+            "retweets": 0,
+            "replies": 4,
+            "quotes": 0,
+            "bookmarks": 1,
+            "views": 178
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1920,
+              "h": 1280,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HX72d-fakAANAUf.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-25T05:53:34.548254+00:00"
+        },
+        {
+          "id": "2125444611120435383",
+          "url": "https://x.com/Te93x/status/2125444611120435383",
+          "handle": "Te93x",
+          "display_name": "Te",
+          "avatar": "https://pbs.twimg.com/profile_images/2121848379689058304/_c4o7r9x_normal.jpg",
+          "verified": false,
+          "followers": 184,
+          "created_at": "2026-11-25T04:20:58.000Z",
+          "lang": "en",
+          "text": "MCP servers can now ship their own skills to Claude Code (v2.1.331+). Before you trust one:\n\n1. Auto mode: no prompt; a classifier decides without reading it\n2. Servers can change skills anytime\n3. To block: deny Skill(mcp__docs__*)\n\nhttps://t.co/uTJ0mi2XhG https://t.co/aqr62L6KFO",
+          "text_zh": "MCP 服务器现在可以把自带的 skills 交给 Claude Code（v2.1.331 及以上）。信任之前先注意：\n\n1. 自动模式下不会弹确认，由分类器决定，而且分类器不会读 skill 内容\n2. 服务器可以随时改动 skills\n3. 想屏蔽可以 deny Skill(mcp__docs__*)",
+          "summary_zh": "给出使用安全提醒：自动模式不提示、服务器可随时改 skill、可用 deny 规则屏蔽，配两张图。",
+          "relation_zh": "母帖只报喜，这条补上信任与权限方面的风险和屏蔽办法。",
+          "metrics": {
+            "likes": 1,
+            "retweets": 0,
+            "replies": 2,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 91
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 3200,
+              "h": 1800,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HX8W-ZLbQAA9dpZ.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 3200,
+              "h": 1800,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HX8W_1ObUAAl7DR.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo",
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-25T05:53:34.548254+00:00"
+        }
+      ]
     },
     {
       "id": "2125315892695216483",
@@ -1905,7 +2256,145 @@
         },
         "text": "Two amateur astronomers, Kevin Bond (@canvrno) and Ethan Byrd (@itsjustemail), independently found signals that could point to planets around distant stars. They knew you didn't need your own telescope for this kind of hunt.\n\nKevin used Codex and Ethan used Astra to search public telescope data for tiny, recurring dips in starlight that an orbiting planet can cause. Both found signals worth a second look."
       },
-      "x_long": true
+      "x_long": true,
+      "attached_posts": [
+        {
+          "id": "2125305608597590018",
+          "url": "https://x.com/OpenAI/status/2125305608597590018",
+          "handle": "OpenAI",
+          "display_name": "OpenAI",
+          "avatar": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+          "verified": true,
+          "followers": 5562585,
+          "created_at": "2026-11-24T19:08:38.000Z",
+          "lang": "en",
+          "text": "Kevin used Codex to build a program that searched for observations of about 100,000 stars from NASA’s Kepler telescope. One star in the constellation Lyra dimmed every 13.8 days. If a planet is causing that dip, the amount of light it blocks suggests it could be about 2.4 times https://t.co/ua4s5hDFWu",
+          "text_zh": "Kevin 用 Codex 写了个程序，在 NASA 开普勒望远镜约 10 万颗恒星的观测数据里搜索。天琴座里有一颗星每 13.8 天变暗一次。如果是行星造成的，遮挡的光量说明它的大小可能是地球的约 2.4 倍。",
+          "summary_zh": "OpenAI 官方串帖的后续：Kevin 的 Codex 程序筛 10 万颗开普勒恒星，发现天琴座一颗星每 13.8 天变暗，估算行星约 2.4 倍地球大小。",
+          "relation_zh": "官方串帖里的关键细节，补全母帖没展开的搜索规模和行星估算。",
+          "metrics": {
+            "likes": 267,
+            "retweets": 18,
+            "replies": 6,
+            "quotes": 4,
+            "bookmarks": 13,
+            "views": 62722
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 2000,
+              "h": 1333,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HX6ZlxhaoAAi4eG.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-25T05:53:34.548254+00:00"
+        },
+        {
+          "id": "2125356287168749638",
+          "url": "https://x.com/21stRobotics/status/2125356287168749638",
+          "handle": "21stRobotics",
+          "display_name": "21st Robotics",
+          "avatar": "https://pbs.twimg.com/profile_images/2059275950156894208/SLUZyl3Y_normal.jpg",
+          "verified": false,
+          "followers": 93610,
+          "created_at": "2026-11-24T22:30:00.000Z",
+          "lang": "en",
+          "text": "Two amateur astronomers used AI tools Codex and Astra to uncover possible exoplanet signals in public telescope data, without owning a telescope. https://t.co/bGekQWg37d",
+          "text_zh": "两位业余天文爱好者用 Codex 和 Astra 这两个 AI 工具，在公开望远镜数据里找到了可能的系外行星信号，而且他们根本没有自己的望远镜。",
+          "summary_zh": "带视频的科技账号快讯，概括两位业余爱好者靠 AI 与公开数据找到行星信号。",
+          "relation_zh": "提供一条带视频的第三方报道，方便直观了解这个故事。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 1,
+            "views": 637
+          },
+          "media": [
+            {
+              "type": "video",
+              "w": 3840,
+              "h": 2160,
+              "alt": null,
+              "mp4": "https://video.twimg.com/amplify_video/2125299131916980225/vid/avc1/3840x2160/-Uk7lMtKfFn8O_bc.mp4",
+              "poster": "https://pbs.twimg.com/amplify_video_thumb/2125299131916980225/img/prm-aBhDnu9MAlJy.jpg",
+              "duration_ms": null
+            }
+          ],
+          "media_types": [
+            "video"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-25T05:53:34.548254+00:00"
+        },
+        {
+          "id": "2125324986013593977",
+          "url": "https://x.com/harden_369741/status/2125324986013593977",
+          "handle": "harden_369741",
+          "display_name": "E1ev3n.",
+          "avatar": "https://pbs.twimg.com/profile_images/2006052852150722563/bbJ08g2B_normal.jpg",
+          "verified": false,
+          "followers": 2828,
+          "created_at": "2026-11-24T20:25:37.000Z",
+          "lang": "en",
+          "text": "100,000 stars. One laptop. One 0.2% dip that kept showing up.\n\nOpenAI just posted the story of Kevin Bond, who ran public Kepler data through Codex and Astra on his laptop and found a candidate exoplanet. A SETI astronomer called the signal promising on Oct 21.\n\nThree numbers https://t.co/9iXMdHvyPS",
+          "text_zh": "10 万颗恒星，一台笔记本，一个反复出现的 0.2% 亮度下降。\n\nOpenAI 刚发了 Kevin Bond 的故事：他在笔记本上用 Codex 和 Astra 跑公开的开普勒数据，找到了一颗候选系外行星。一位 SETI 天文学家在 10 月 21 日称这个信号「很有前景」。\n\n三个数字：",
+          "summary_zh": "用「10 万颗星、0.2% 亮度下降」三个数字解读故事，并补充 SETI 天文学家的评价，配两张图。",
+          "relation_zh": "补充专业天文学家的评价，说明这个发现并非只是噱头。",
+          "metrics": {
+            "likes": 6,
+            "retweets": 0,
+            "replies": 6,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 239
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1500,
+              "h": 780,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HX6rwnpXsAA5pzS.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 1920,
+              "h": 1280,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HX6rwnmW8AARcO4.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo",
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-25T05:53:34.548254+00:00"
+        }
+      ]
     },
     {
       "id": "2125032843550028030",
@@ -2198,7 +2687,136 @@
         "text": "Launching Harness Comparisons on the Artificial Analysis Coding Agent Index: the best harness varies between models, and harness choice has a greater impact on cost than score\n\nHarness Comparisons hold the model fixed and change only the harness, to show how the harness affects a model's performance. We ran @OpenAI's GPT-6 Luna and @Zai_org's GLM-5.3-Flash at max reasoning effort in 13 harnesses each, across v2.1 of the Coding Agent Index.\n\nKey takeaways:\n\n➤ No single harness is best across models: performance depends on the harness and model as a pair. GPT-6 Luna scores highest in Codex (26), OpenAI's own harness, which ranks last with GLM-5.3-Flash. GLM-5.3-Flash scores highest in Claude Code (39), which ranks 6th with GPT-6 Luna\n\n➤ The harnesses that offer the best performance per dollar differ by model: with GPT-6 Luna they are Pi (21 at $0.11 per task), mini-swe-agent (25 at $0.16) and Codex (26 at $0.19). With GLM-5.3-Flash they are Mistral Vibe (37 at $0.38), Kimi Code CLI (37 at $0.56) and Claude Code (39 at $0.58). No harness is on the Pareto frontier for both models\n\n➤ The harness has a greater impact on cost than score: 11 of 13 harnesses score 20 to 26 with GPT-6 Luna and 10 of 13 score 35 to 39 with GLM-5.3-Flash. Cost per task ranges from $0.11 in Pi to $0.62 in Muse Code with GPT-6 Luna, and from $0.38 in Mistral Vibe to $0.91 in Devin CLI with GLM-5.3-Flash\n\n➤ GLM-5.3-Flash reasons differently inside Codex: it reasons in terse fragments in Codex and in full prose in the other 12 harnesses, and produces 52k output tokens per task in Codex, compared with 97k to 202k elsewhere. We believe this contributes to its lowest performance occurring in the Codex harness"
       },
       "x_long": true,
-      "article_summary_zh": "Artificial Analysis 为 Coding Agent Index 增加了 Harness Comparisons：把模型固定，只更换运行框架，从而把「模型能力」和「脚手架/编排」拆开。其核心结论是，最优 harness 因模型而异，而且框架切换对成本的影响常常大于对分数的影响。这对产品选型很重要——很多团队以为换更强模型就能降本或提分，实际上先换框架可能更划算。评论里有人追问为何未纳入 Hermes Agent 等开源 harness，也有人指出更强模型可能会把部分框架差异吸收掉，后续仍需看他们覆盖的框架集合是否足够有代表性。"
+      "article_summary_zh": "Artificial Analysis 为 Coding Agent Index 增加了 Harness Comparisons：把模型固定，只更换运行框架，从而把「模型能力」和「脚手架/编排」拆开。其核心结论是，最优 harness 因模型而异，而且框架切换对成本的影响常常大于对分数的影响。这对产品选型很重要——很多团队以为换更强模型就能降本或提分，实际上先换框架可能更划算。评论里有人追问为何未纳入 Hermes Agent 等开源 harness，也有人指出更强模型可能会把部分框架差异吸收掉，后续仍需看他们覆盖的框架集合是否足够有代表性。",
+      "attached_posts": [
+        {
+          "id": "2125073559399878955",
+          "url": "https://x.com/naumowf/status/2125073559399878955",
+          "handle": "naumowf",
+          "display_name": "Franco Naumow.",
+          "avatar": "https://pbs.twimg.com/profile_images/2122474171439439872/20b0HIqf_normal.jpg",
+          "verified": false,
+          "followers": 14784,
+          "created_at": "2026-11-24T03:46:33.000Z",
+          "lang": "en",
+          "text": "GLM-5.3-Flash scores 38.9 on Artificial Analysis' Coding Agent Index inside Claude Code and 27.8 inside Codex.\n\nSame model, same max reasoning effort. Only the harness changed.\n\nTheir new Harness Comparisons run 2 models through 13 coding harnesses:\n→ Codex is #1 for GPT-6 Luna https://t.co/a7EUeqnQPJ",
+          "text_zh": "在 Artificial Analysis 的编程智能体指数上，GLM-5.3-Flash 放在 Claude Code 里得 38.9 分，放在 Codex 里只有 27.8 分。\n\n同一个模型、同样的最高推理强度，只换了框架。\n\n他们新增的 Harness Comparisons 让 2 个模型跑遍 13 种编程框架：\n→ GPT-6 Luna 用 Codex 排第一",
+          "summary_zh": "用 GLM-5.3-Flash 在 Claude Code 与 Codex 的 38.9 对 27.8 说明框架影响，配图。",
+          "relation_zh": "用一组具体分数把「框架比模型更能拉开差距」讲清楚。",
+          "metrics": {
+            "likes": 5,
+            "retweets": 0,
+            "replies": 8,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 150
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1600,
+              "h": 1060,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HX3G_kYakAAr_S-.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-25T05:53:34.548254+00:00"
+        },
+        {
+          "id": "2125145696533688649",
+          "url": "https://x.com/sabrielatmojo/status/2125145696533688649",
+          "handle": "sabrielatmojo",
+          "display_name": "Sabriel Atmojo",
+          "avatar": "https://pbs.twimg.com/profile_images/2028212619400888320/fEYVyzu9_normal.jpg",
+          "verified": false,
+          "followers": 30,
+          "created_at": "2026-11-24T08:33:12.000Z",
+          "lang": "en",
+          "text": "Same model. Same benchmark. One change: the harness. Cost per task moved 5.6x.\n\nThat's the case study Artificial Analysis just dropped with Harness Comparisons on its Coding Agent Index v2.1. They held the model fixed and swapped only the coding harness: GPT-6 Luna and https://t.co/IK2IPNwAKU https://t.co/Nn8ljdpGSi",
+          "text_zh": "同一个模型，同一个基准，只改了一样东西：框架。每个任务的成本变了 5.6 倍。\n\n这就是 Artificial Analysis 刚发布的案例：他们在 Coding Agent Index v2.1 的 Harness Comparisons 里固定模型、只更换编程框架，测了 GPT-6 Luna 和 GLM-5.3-Flash。",
+          "summary_zh": "强调同模型只换框架，单任务成本变化约 5.6 倍，配图。",
+          "relation_zh": "突出成本维度的差距，对应母帖「框架对成本影响更大」的结论。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 2,
+            "quotes": 1,
+            "bookmarks": 0,
+            "views": 127
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 2464,
+              "h": 2492,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HX4InAAbUAALEhv.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-25T05:53:34.548254+00:00"
+        },
+        {
+          "id": "2125281912965267945",
+          "url": "https://x.com/SagarGadhvi9/status/2125281912965267945",
+          "handle": "SagarGadhvi9",
+          "display_name": "Sagar Gadhvi",
+          "avatar": "https://pbs.twimg.com/profile_images/2115045666212970496/gonqiAyB_normal.jpg",
+          "verified": false,
+          "followers": 54,
+          "created_at": "2026-11-24T17:34:28.000Z",
+          "lang": "en",
+          "text": "💸 Same model. Same 322 coding tasks. Swap only the agent harness around it, and the cost per task changes 5.4×.\n\nArtificial Analysis just added Harness Comparisons to its Coding Agent Index: one model held fixed, run through 13 harnesses (Codex, Claude Code, Grok Build, Devin https://t.co/HtB0hOqe5I",
+          "text_zh": "💸 同一个模型、同样 322 个编程任务，只换外面的智能体框架，每个任务的成本就能差 5.4 倍。\n\nArtificial Analysis 刚给 Coding Agent Index 加上 Harness Comparisons：固定一个模型，跑过 13 种框架（Codex、Claude Code、Grok Build、Devin 等）。",
+          "summary_zh": "用动图列出 13 种框架和 322 个任务，给出约 5.4 倍成本差。",
+          "relation_zh": "补充评测规模和覆盖的框架名单，帮助判断结果的参考价值。",
+          "metrics": {
+            "likes": 1,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 64
+          },
+          "media": [
+            {
+              "type": "animated_gif",
+              "w": 1200,
+              "h": 674,
+              "alt": null,
+              "mp4": "https://video.twimg.com/tweet_video/HX6EoGHbQAAow2_.mp4",
+              "poster": "https://pbs.twimg.com/tweet_video_thumb/HX6EoGHbQAAow2_.jpg",
+              "duration_ms": null
+            }
+          ],
+          "media_types": [
+            "animated_gif"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-25T05:53:34.548254+00:00"
+        }
+      ]
     },
     {
       "id": "2125206715691933732",
@@ -2929,7 +3547,139 @@
       "external_url": "https://www.anthropic.com/research/working-with-ai",
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "Anthropic 研究报告《Working with AI》被 Ethan Mollick 概括为两点：AI 的主要价值来自改组织方式，而不是单纯换更强的模型；与此同时，正因为工作角色会被改写，一线员工的抵制相当普遍。论文建议，若变革能扩大员工可做的事情，并把收益分享给他们，阻力可能会下降。评论中有人用墨西哥水务公司作例子，说明只有把 AI 用到检漏、调压这类真正改变运营的环节才有用，也有人指出抵制很大程度来自失业和被监控的担忧。对要在公司内部推 Agent 的人来说，这篇更像组织变革指南，而不是模型评测。"
+      "article_summary_zh": "Anthropic 研究报告《Working with AI》被 Ethan Mollick 概括为两点：AI 的主要价值来自改组织方式，而不是单纯换更强的模型；与此同时，正因为工作角色会被改写，一线员工的抵制相当普遍。论文建议，若变革能扩大员工可做的事情，并把收益分享给他们，阻力可能会下降。评论中有人用墨西哥水务公司作例子，说明只有把 AI 用到检漏、调压这类真正改变运营的环节才有用，也有人指出抵制很大程度来自失业和被监控的担忧。对要在公司内部推 Agent 的人来说，这篇更像组织变革指南，而不是模型评测。",
+      "attached_posts": [
+        {
+          "id": "2125404315057844567",
+          "url": "https://x.com/MindBranches/status/2125404315057844567",
+          "handle": "MindBranches",
+          "display_name": "MindBranches",
+          "avatar": "https://pbs.twimg.com/profile_images/1634423987080949761/vnqmQ-CD_normal.jpg",
+          "verified": false,
+          "followers": 166584,
+          "created_at": "2026-11-25T01:40:51.000Z",
+          "lang": "en",
+          "text": "Working with AI\n\nAnthropic report summary \n\n(load in 4k) https://t.co/ohVMmikfUb",
+          "text_zh": "Working with AI\n\nAnthropic 报告摘要\n\n（4K 清晰度加载）",
+          "summary_zh": "用三张长图梳理 Anthropic《Working with AI》报告的要点，浏览约 5700。",
+          "relation_zh": "母帖是 Mollick 对论文的两点解读，这条用图把报告整体结构铺开，方便对照。",
+          "metrics": {
+            "likes": 129,
+            "retweets": 11,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 140,
+            "views": 5719
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1170,
+              "h": 1704,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HX7z9XoXIAA7kvv.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 1526,
+              "h": 4096,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HX7z9XoWoAEzFNY.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 1526,
+              "h": 4096,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HX7z9XnW8AAFkYk.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo",
+            "photo",
+            "photo"
+          ],
+          "links": [
+            "https://x.com/MindBranches/status/2125404315057844567/photo/1",
+            "https://x.com/MindBranches/status/2125404315057844567/photo/2",
+            "https://x.com/MindBranches/status/2125404315057844567/photo/3"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-25T05:53:34.548254+00:00"
+        },
+        {
+          "id": "2125201922693255320",
+          "url": "https://x.com/zg0820/status/2125201922693255320",
+          "handle": "zg0820",
+          "display_name": "心有猛虎",
+          "avatar": "https://pbs.twimg.com/profile_images/2118192266171092992/ghFyW261_normal.jpg",
+          "verified": false,
+          "followers": 2954,
+          "created_at": "2026-11-24T12:16:37.000Z",
+          "lang": "zh",
+          "text": "来源：Anthropic《Working with AI》，2026-11-23，58 家企业、66 次访谈。https://t.co/Su5d2CG4eQ\n\n样本是 Anthropic 客户，不是随机抽样；价值判断为受访者自述。",
+          "text_zh": "来源：Anthropic《Working with AI》，2026-11-23，58 家企业、66 次访谈。\n\n样本是 Anthropic 的客户，不是随机抽样；价值判断来自受访者自述。",
+          "summary_zh": "指出报告样本是 Anthropic 客户而非随机抽样，结论多为受访者自述。",
+          "relation_zh": "提醒读这篇研究时要留意样本偏差，是对母帖结论的有用补充。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 24
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://www.anthropic.com/research/working-with-ai"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-25T05:53:34.548254+00:00"
+        },
+        {
+          "id": "2125274835437994342",
+          "url": "https://x.com/Shadowfetch/status/2125274835437994342",
+          "handle": "Shadowfetch",
+          "display_name": "Robert Corbin | Shadowfetch Studio | Affiliate",
+          "avatar": "https://pbs.twimg.com/profile_images/2120926444763127808/K4PxlJOi_normal.jpg",
+          "verified": false,
+          "followers": 1193,
+          "created_at": "2026-11-24T17:06:21.000Z",
+          "lang": "en",
+          "text": "Anthropic interviewed 58 of its enterprise customers about working with AI: most say AI adds value by boosting output, not cutting costs, with coding agents bringing software skills to nontechnical roles.\n\n#AI #FutureOfWork \n\nhttps://t.co/GnPxekwsdZ",
+          "text_zh": "Anthropic 访谈了 58 家企业客户，聊在工作中用 AI 的情况：多数人说 AI 的价值在于提高产出而非削减成本，编码智能体还让非技术岗位也具备了软件能力。\n\n#AI #FutureOfWork",
+          "summary_zh": "用一段话概括报告核心发现：增产而非降本，编码智能体让非技术岗位获得软件技能。",
+          "relation_zh": "给母帖「改组织才是关键」的观点补上具体的访谈发现。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 22
+          },
+          "media": [],
+          "media_types": [],
+          "links": [
+            "https://www.anthropic.com/research/working-with-ai"
+          ],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-25T05:53:34.548254+00:00"
+        }
+      ]
     },
     {
       "id": "2125186380267667547",
