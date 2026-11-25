@@ -1,7 +1,7 @@
 {
   "date": "2026-11-25",
-  "generated_at": "2026-11-25T00:47:37.565161+00:00",
-  "trend_summary": "今日焦点是模型能力的实验室验证与智能体安全：OpenAI 发表预印本，称 GPT-6 家族仅凭推理和代码就能设计蛋白质结构与序列，并在湿实验室得到结合证据；Anthropic 同时放出 Siren 评测，考察智能体在沙箱被削弱时会不会主动逃逸，以及回到神经元层面的可解释性研究。编程侧，Cognition 发布基于纯强化学习的 SWE-2.1，Claude Code 开始支持 MCP 服务器自带 skills，Google Antigravity 上线 MCP Apps 与进度清单。创作侧 Midjourney 推出新一代动漫模型 Niji V8，Higgsfield 上线最长 30 秒、4000 亿参数开源在即的 MAGI-2 视频模型。产业方面，Ramp 支出数据显示近期 AI 用量并未随推理成本下降而同步放大；SemiAnalysis 指出 AMD Venice 在每线程性能上可与英伟达 Vera CPU 抗衡。",
+  "generated_at": "2026-11-25T02:17:29.057970+00:00",
+  "trend_summary": "今日焦点是模型能力的实验室验证与智能体安全：OpenAI 发表预印本，称 GPT-6 家族仅凭推理和代码就能设计蛋白质结构与序列，并在湿实验室得到结合证据；Anthropic 同时放出 Siren 评测，考察智能体在沙箱被削弱时会不会主动逃逸，以及回到神经元层面的可解释性研究。编程侧，Cognition 发布基于纯强化学习的 SWE-2.1，Claude 桌面版支持把 Artifact 安装成 Mac 与 Windows 应用，Claude Code 开始支持 MCP 服务器自带 skills，Google Antigravity 上线 MCP Apps 与进度清单。创作侧 Midjourney 推出新一代动漫模型 Niji V8，Higgsfield 上线最长 30 秒、4000 亿参数开源在即的 MAGI-2 视频模型。产业方面，Ramp 支出数据显示近期 AI 用量并未随推理成本下降而同步放大；SemiAnalysis 指出 AMD Venice 在每线程性能上可与英伟达 Vera CPU 抗衡。",
   "posts": [
     {
       "id": "2125334383490105601",
@@ -153,6 +153,142 @@
       },
       "x_long": true,
       "article_summary_zh": "OpenAI 在 11 月 24 日发布预印本《GPT-6 as a Universal Foundation Model for Protein Biology》，称 GPT-6 家族可以在不调用专用生物学生成模型的情况下，仅凭推理和通用代码工具设计蛋白质三维结构与氨基酸序列。内部研究模型在多项蛋白质设计任务上达到或超过专用模型，研究者还能用自然语言指定结合位点或整体形状来引导设计。与合作方 Onava 的湿实验中，基于 GPT-6.2 设计的蛋白质在五个靶点上都出现了结合证据；模型设计形状后，专用模型仍协助补全序列并筛选送测候选。另有实验显示，对已有形状重新设计序列时 107 条中有 14 条在湿实验中结合，抗体结合部位改写后两组实验里 182 条中有 128 条保留结合。OpenAI 强调这仍是概念验证，下一步要检验结合后是否具有实际功能，并希望科学家将来只需用提示词就能设计可用药物。"
+    },
+    {
+      "id": "2125315491522650299",
+      "section": "coding",
+      "handle": "ClaudeDevs",
+      "display_name": "ClaudeDevs",
+      "avatar": "https://pbs.twimg.com/profile_images/2044472418815893504/xf14RxM8_bigger.png",
+      "text": "You can now install Claude artifacts as desktop apps on Mac and Windows.\n\nAsk Claude to build an artifact, click \"Install as app\", and open it like any other app. It can use your connectors and, if you allow it, send notifications or add a menu bar item.",
+      "text_short": "You can now install Claude artifacts as desktop apps on Mac and Windows.\n\nAsk Claude to build an artifact, click \"Install as app\", and open it like any other app. It can use your…",
+      "text_zh": "现在可以把 Claude 的 Artifact 安装成 Mac 和 Windows 上的桌面应用。\n\n让 Claude 做一个 Artifact，点「Install as app」，就能像打开其他应用一样使用。它可以调用你的连接器；若你允许，还能发送通知或加入菜单栏。",
+      "summary_zh": "ClaudeDevs 宣布：Claude Artifact 可一键安装为 Mac 与 Windows 桌面应用，并能使用连接器、发送通知或加入菜单栏",
+      "created_at": "2026-11-24T19:47:54.000Z",
+      "metrics": {
+        "likes": 39261,
+        "reposts": 2388,
+        "replies": 734,
+        "bookmarks": 22704,
+        "impressions": 3495631
+      },
+      "post_url": "https://x.com/ClaudeDevs/status/2125315491522650299",
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/8CBgqe5OKq",
+            "end": 278,
+            "expanded_url": "https://x.com/ClaudeDevs/status/2125315491522650299/video/1",
+            "media_key": "13_2125315273460772865",
+            "start": 255,
+            "url": "https://t.co/8CBgqe5OKq"
+          }
+        ]
+      },
+      "media": [
+        {
+          "key": "13_2125315273460772865",
+          "type": "video",
+          "w": 1200,
+          "h": 675,
+          "orig": "https://pbs.twimg.com/amplify_video_thumb/2125315273460772865/img/NFT5H74CFoMA20tI.jpg",
+          "mp4": "https://video.twimg.com/amplify_video/2125315273460772865/vid/avc1/1280x720/o8uPJ-0_m_GJmjJr.mp4",
+          "duration_ms": 27633,
+          "poster": "media/2125315491522650299/0.webp"
+        }
+      ],
+      "media_types": [
+        "video"
+      ],
+      "kind": "video",
+      "kinds": [
+        "video"
+      ],
+      "kind_label": "视频",
+      "kind_override": null,
+      "rec_score": 86,
+      "recommended": true,
+      "rec_reason": "对话里生成的小工具可以直接钉到桌面当日常应用，还打通连接器和系统通知，个人 Agent 作品的交付形态从网页沙盒往前走了一步。",
+      "discussion_summary": "讨论一边欢呼「个人软件」愿景、调侃 App Store 审核和「Claude OS 何时到来」，一边质疑这只是需登录、按套餐计费的 PWA 快捷方式，做出的应用并不真正归用户所有；也有人心疼自己刚写完的原生 Mac 应用，并追问 Linux / iOS。",
+      "top_replies": [
+        {
+          "id": "2125319351675035666",
+          "handle": "BoardroomWire",
+          "name": "Boardroom Wire",
+          "verified": true,
+          "text": "@ClaudeDevs Jesus guys leave some shit for the rest of us to do",
+          "lang": "",
+          "like_count": 2660,
+          "reply_count": 18,
+          "created_at": "2026-11-24T20:03:14.000Z",
+          "url": "https://x.com/BoardroomWire/status/2125319351675035666",
+          "direct": true,
+          "text_zh": null
+        },
+        {
+          "id": "2125336609885479385",
+          "handle": "0x0SojalSec",
+          "name": "Md Ismail Šojal 🕷️",
+          "verified": true,
+          "text": "@ClaudeDevs Apple’s review team watching this right now: https://t.co/gL9VET7CKf",
+          "lang": "",
+          "like_count": 1220,
+          "reply_count": 5,
+          "created_at": "2026-11-24T21:11:49.000Z",
+          "url": "https://x.com/0x0SojalSec/status/2125336609885479385",
+          "direct": true,
+          "text_zh": null
+        },
+        {
+          "id": "2125327712013455466",
+          "handle": "talk2alec",
+          "name": "Alec Polsley",
+          "verified": true,
+          "text": "@ClaudeDevs The vision is so clear. Personal software",
+          "lang": "",
+          "like_count": 1096,
+          "reply_count": 18,
+          "created_at": "2026-11-24T20:36:27.000Z",
+          "url": "https://x.com/talk2alec/status/2125327712013455466",
+          "direct": true,
+          "text_zh": null
+        },
+        {
+          "id": "2125316122211705237",
+          "handle": "braingpt_",
+          "name": "Chandra Vikram",
+          "verified": true,
+          "text": "@ClaudeDevs At this point Claude OS when?",
+          "lang": "",
+          "like_count": 1054,
+          "reply_count": 11,
+          "created_at": "2026-11-24T19:50:24.000Z",
+          "url": "https://x.com/braingpt_/status/2125316122211705237",
+          "direct": true,
+          "text_zh": null
+        },
+        {
+          "id": "2125352499054043532",
+          "handle": "LamarLowder",
+          "name": "Lamar Lowder",
+          "verified": true,
+          "text": "@ClaudeDevs Hard pass. I want what I make to be mine, not yours. https://t.co/g3kjJDPEPu",
+          "lang": "en",
+          "like_count": 159,
+          "reply_count": 7,
+          "created_at": "2026-11-24T22:14:57.000Z",
+          "url": "https://x.com/LamarLowder/status/2125352499054043532",
+          "direct": true,
+          "text_zh": null
+        }
+      ],
+      "replies_fetched_at": "2026-11-25T02:17:35.236374+00:00",
+      "replies_seen": 49,
+      "article_id": null,
+      "is_article": false,
+      "external_url": null,
+      "note_tweet": null,
+      "x_long": false
     },
     {
       "id": "2125305349414523061",
@@ -7295,13 +7431,13 @@
     }
   ],
   "stats": {
-    "posts": 48,
+    "posts": 49,
     "articles": 0,
     "extract_failures": 19,
     "by_section": {
       "agent": 12,
       "models": 6,
-      "coding": 7,
+      "coding": 8,
       "creative": 1,
       "industry": 4,
       "opensource": 2,
@@ -7322,29 +7458,29 @@
     "articles_missing_summary": [],
     "media": {
       "photos": 35,
-      "videos": 19,
+      "videos": 20,
       "gifs": 0,
       "fail": 0,
       "skipped": 0
     },
     "by_kind": {
       "longpost": 10,
-      "video": 17,
+      "video": 18,
       "post": 2,
       "article": 18,
       "repo": 1
     },
-    "recommended": 12,
+    "recommended": 13,
     "rec_missing": [],
     "replies": {
-      "posts": 48,
-      "with_replies": 48,
-      "with_summary": 48,
+      "posts": 49,
+      "with_replies": 49,
+      "with_summary": 49,
       "missing_raw": []
     },
     "editorial": {
       "source": "agent",
-      "posts": 48
+      "posts": 49
     }
   }
 }
