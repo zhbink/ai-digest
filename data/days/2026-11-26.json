@@ -140,7 +140,122 @@
       "external_url": "https://www.anthropic.com/research/migrating-api-to-rust",
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "Anthropic 的 Messages API 自 2024 年初到 2026 年秋流量增长约 1800 倍，Python 在校验、分词、安全分类和流式拆分等环节的开销越来越重，于是决定迁到 Rust。Claude 大约一周就写出了核心请求路径的第一版，真正的难点是证明新旧版本完全等价：Python 版本仍在持续迭代、模型输出本身有随机性，团队还不能直接查看客户请求。他们的做法是把线上 Python 服务当作验证器，对生产流量做影子比对，发现差异后自动派发 Claude 智能体复现并修复，工程师逐步退到“制定规则和检查标准”的外层。最终 Rust 版在不停机、不冻结功能开发的前提下上线，每个请求的 CPU 降低约 70%，中位首 token 时间缩短约 20%。"
+      "article_summary_zh": "Anthropic 的 Messages API 自 2024 年初到 2026 年秋流量增长约 1800 倍，Python 在校验、分词、安全分类和流式拆分等环节的开销越来越重，于是决定迁到 Rust。Claude 大约一周就写出了核心请求路径的第一版，真正的难点是证明新旧版本完全等价：Python 版本仍在持续迭代、模型输出本身有随机性，团队还不能直接查看客户请求。他们的做法是把线上 Python 服务当作验证器，对生产流量做影子比对，发现差异后自动派发 Claude 智能体复现并修复，工程师逐步退到“制定规则和检查标准”的外层。最终 Rust 版在不停机、不冻结功能开发的前提下上线，每个请求的 CPU 降低约 70%，中位首 token 时间缩短约 20%。",
+      "attached_posts": [
+        {
+          "id": "2125691160848920761",
+          "url": "https://x.com/Cointelegraph/status/2125691160848920761",
+          "handle": "Cointelegraph",
+          "display_name": "Cointelegraph",
+          "avatar": "https://pbs.twimg.com/profile_images/1755983593925378048/kYutau0B_normal.jpg",
+          "verified": true,
+          "followers": 2923896,
+          "created_at": "2026-11-25T20:40:40.000Z",
+          "lang": "en",
+          "text": "🔥 LATEST: Anthropic is migrating its Messages API from Python to Rust, cutting CPU usage per request by about 70%. https://t.co/rYYvhKeW4A",
+          "text_zh": "🔥 最新：Anthropic 正把 Messages API 从 Python 迁移到 Rust，每个请求的 CPU 占用降低约 70%。",
+          "summary_zh": "Cointelegraph 带图快讯转述 Messages API 迁移 Rust、CPU 降约 70%。",
+          "relation_zh": "主流媒体对官方数据的转述，印证这件事的关注度。",
+          "metrics": {
+            "likes": 1713,
+            "retweets": 65,
+            "replies": 51,
+            "quotes": 17,
+            "bookmarks": 143,
+            "views": 80465
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 400,
+              "h": 400,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HX_418PWQAA5L-Y.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 400,
+              "h": 400,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HX_42HkWIAAVEpD.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo",
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-26T02:28:24.598436+00:00"
+        },
+        {
+          "id": "2125637178403553479",
+          "url": "https://x.com/Techmeme/status/2125637178403553479",
+          "handle": "Techmeme",
+          "display_name": "Techmeme",
+          "avatar": "https://pbs.twimg.com/profile_images/1191943129823399936/ZvfTRAlg_normal.jpg",
+          "verified": false,
+          "followers": 428135,
+          "created_at": "2026-11-25T17:06:10.000Z",
+          "lang": "en",
+          "text": "Anthropic details migrating its Messages API, the primary way customers access Claude, from Python to Rust, and using the Python service to verify the migration (Anthropic)\n\n(Visit Techmeme dot com for the link and full context!)",
+          "text_zh": "Anthropic 详细介绍了把 Messages API（客户访问 Claude 的主要方式）从 Python 迁移到 Rust 的过程，并用原有 Python 服务来验证迁移结果。（Anthropic）\n\n（完整内容请访问 Techmeme）",
+          "summary_zh": "Techmeme 汇总指出迁移期间用旧 Python 服务做对照验证。",
+          "relation_zh": "点出验证方式：新旧服务并行对照。",
+          "metrics": {
+            "likes": 7,
+            "retweets": 1,
+            "replies": 9,
+            "quotes": 1,
+            "bookmarks": 0,
+            "views": 3508
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-26T02:28:24.598442+00:00"
+        },
+        {
+          "id": "2125700942351720667",
+          "url": "https://x.com/sendwinofficial/status/2125700942351720667",
+          "handle": "sendwinofficial",
+          "display_name": "Sendwin - Cloud Browser",
+          "avatar": "https://pbs.twimg.com/profile_images/1947147633773928448/YSb_ljAF_normal.jpg",
+          "verified": false,
+          "followers": 38,
+          "created_at": "2026-11-25T21:19:32.000Z",
+          "lang": "en",
+          "text": "anthropic rewrote the messages api from python to rust and had teams of claude agents hunt down and fix the differences between old and new versions before switching over. https://t.co/0dl2y7wfpz",
+          "text_zh": "Anthropic 把 Messages API 从 Python 重写成 Rust，并在切换前让多组 Claude 智能体找出并修复新旧版本之间的差异。",
+          "summary_zh": "转述切换前让 Claude 智能体团队逐项比对修复新旧差异。",
+          "relation_zh": "补充智能体参与迁移验证的细节。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 3
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-26T02:28:24.598446+00:00"
+        }
+      ]
     },
     {
       "id": "2125418102049628201",
@@ -263,7 +378,124 @@
       "external_url": "https://twitter.com/SebastienBubeck/status/2125402576145572334",
       "note_tweet": null,
       "x_long": false,
-      "article_summary_zh": "OpenAI 研究员 Sébastien Bubeck 介绍，模型在 10 月 6 日的成果中已把矩阵乘法指数的上界推进到 9/4，此后又开始攻关此前几乎一片空白的下界。Greg Brockman 转发称，最新结果显示该指数恰好等于 9/4，并引用研究者“此生没想到能看到”的评价。这是 OpenAI 本周放出的九篇带 Lean 证明的数学论文之一。由于结论分量极重，仍有待数学界独立审核。"
+      "article_summary_zh": "OpenAI 研究员 Sébastien Bubeck 介绍，模型在 10 月 6 日的成果中已把矩阵乘法指数的上界推进到 9/4，此后又开始攻关此前几乎一片空白的下界。Greg Brockman 转发称，最新结果显示该指数恰好等于 9/4，并引用研究者“此生没想到能看到”的评价。这是 OpenAI 本周放出的九篇带 Lean 证明的数学论文之一。由于结论分量极重，仍有待数学界独立审核。",
+      "attached_posts": [
+        {
+          "id": "2125438496458383593",
+          "url": "https://x.com/bitcoinduke/status/2125438496458383593",
+          "handle": "bitcoinduke",
+          "display_name": "Bitduke",
+          "avatar": "https://pbs.twimg.com/profile_images/1960010029341237248/qrofKTBQ_normal.jpg",
+          "verified": false,
+          "followers": 2905,
+          "created_at": "2026-11-25T03:56:40.000Z",
+          "lang": "en",
+          "text": "OpenAI keeps spoiling us with math discoveries, and one of the 8 newly resolved problems is a pretty big deal, the matrix multiplication exponent is exactly 9/4\n\nit means that to multiply two n×n matrices you need about n^2.25 operations once n gets huge, and you can't do better. https://t.co/ISqZP0HXDq https://t.co/ftwkw9eL2O",
+          "text_zh": "OpenAI 又用数学发现给大家惊喜：新解决的 8 个问题中有一个相当重磅——矩阵乘法指数恰好是 9/4。\n\n这意味着当 n 很大时，两个 n×n 矩阵相乘大约需要 n^2.25 次运算，而且不可能做得更好。",
+          "summary_zh": "动图配文通俗解释 8 个新解决问题中的矩阵乘法指数 9/4。",
+          "relation_zh": "把结论翻译成 n^2.25 次运算的直观说法。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 117
+          },
+          "media": [
+            {
+              "type": "animated_gif",
+              "w": 800,
+              "h": 450,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/tweet_video_thumb/HX8S6vFX0AA2MSJ.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "animated_gif"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-26T02:28:24.598251+00:00"
+        },
+        {
+          "id": "2125569961175224436",
+          "url": "https://x.com/MancerAI_/status/2125569961175224436",
+          "handle": "MancerAI_",
+          "display_name": "MancerAI",
+          "avatar": "https://pbs.twimg.com/profile_images/1843566935004356608/W48m3jsP_normal.jpg",
+          "verified": false,
+          "followers": 6211,
+          "created_at": "2026-11-25T12:39:04.000Z",
+          "lang": "en",
+          "text": "Matrix multiplication solved matrix multiplication!\n\nOpenAI has proven that the matrix multiplication exponent is 9/4; 2.25. \n\nNice result, but of course it would be nicer if it was possible to push efficiency even further. \n\nRSI across the stack doesn't rest though and I think https://t.co/gvzedl4t5K",
+          "text_zh": "矩阵乘法把矩阵乘法解决了！\n\nOpenAI 证明矩阵乘法指数为 9/4，也就是 2.25。\n\n结果很漂亮，当然如果能把效率再推高就更好了。不过整个技术栈上的递归自我改进并不会停歇……",
+          "summary_zh": "带图转述 OpenAI 证明矩阵乘法指数为 2.25，并联想到递归自我改进。",
+          "relation_zh": "补充社区对结果的评价与展望。",
+          "metrics": {
+            "likes": 6,
+            "retweets": 1,
+            "replies": 2,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 357
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 902,
+              "h": 883,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HX-KQXPXUAAIWJB.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-26T02:28:24.598258+00:00"
+        },
+        {
+          "id": "2125398371745841302",
+          "url": "https://x.com/shiv_kampani/status/2125398371745841302",
+          "handle": "shiv_kampani",
+          "display_name": "Shiv Kampani",
+          "avatar": "https://pbs.twimg.com/profile_images/1986577429964398592/rorYOcFo_normal.jpg",
+          "verified": false,
+          "followers": 1675,
+          "created_at": "2026-11-25T01:17:14.000Z",
+          "lang": "en",
+          "text": "another incredible result🚨 from oai. matrix multiplication cannot be done in quadratic (n^2) time. it requires n^(9/4) time!!!!! \n\nsome background on why the difference between 2 and 2.25 is significant:\n\nthe naive algorithm for the matrix multiplication of two nxn matrices https://t.co/lJzPdQDdye",
+          "text_zh": "又一个了不起的成果🚨 来自 OpenAI：矩阵乘法无法在二次（n^2）时间内完成，需要 n^(9/4) 时间！！！\n\n先说说 2 和 2.25 的差别为什么重要：对两个 n×n 矩阵的朴素乘法……",
+          "summary_zh": "高赞长帖解释 2 与 2.25 的差别，以及为何不能做到二次时间。",
+          "relation_zh": "提供最高热度的背景科普，帮助理解结果意义。",
+          "metrics": {
+            "likes": 1802,
+            "retweets": 88,
+            "replies": 32,
+            "quotes": 13,
+            "bookmarks": 395,
+            "views": 128457
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-26T02:28:24.598263+00:00"
+        }
+      ]
     },
     {
       "id": "2125638790593274259",
@@ -397,7 +629,133 @@
         "text": "We’re now testing Private Inference, our latest offering as part of OpenAI Private Intelligence, with a small group of customers.\n\nStronger privacy protections will make frontier AI useful for a lot more work, and business privacy is important for a healthy ecosystem. Reach out to @shekar4x if interested!\n\n(Also, ZDR with Private Safety Processing enables automated safety reviews without giving OpenAI personnel access to the underlying content.)"
       },
       "x_long": true,
-      "article_summary_zh": "Sam Altman 宣布，OpenAI 正与少量企业客户测试 Private Inference，它属于 OpenAI Private Intelligence 产品线，目标是为前沿模型推理提供更强的隐私保护。他认为商业隐私是 AI 生态健康的前提，更强的隐私能让前沿模型进入更多敏感工作场景。他还补充，零数据保留（ZDR）与 Private Safety Processing 结合后，可以在 OpenAI 员工不接触底层内容的情况下完成自动化安全审查。目前产品仍在内测，有意向的企业可直接联系负责人。"
+      "article_summary_zh": "Sam Altman 宣布，OpenAI 正与少量企业客户测试 Private Inference，它属于 OpenAI Private Intelligence 产品线，目标是为前沿模型推理提供更强的隐私保护。他认为商业隐私是 AI 生态健康的前提，更强的隐私能让前沿模型进入更多敏感工作场景。他还补充，零数据保留（ZDR）与 Private Safety Processing 结合后，可以在 OpenAI 员工不接触底层内容的情况下完成自动化安全审查。目前产品仍在内测，有意向的企业可直接联系负责人。",
+      "attached_posts": [
+        {
+          "id": "2125642883801997653",
+          "url": "https://x.com/testingcatalog/status/2125642883801997653",
+          "handle": "testingcatalog",
+          "display_name": "🚨 AI News | TestingCatalog",
+          "avatar": "https://pbs.twimg.com/profile_images/1899962463115751424/i-6MBWau_normal.jpg",
+          "verified": true,
+          "followers": 86042,
+          "created_at": "2026-11-25T17:28:50.000Z",
+          "lang": null,
+          "text": "OPENAI 🔥: A new Private Inference is now being tested with a small group of OpenAI business customers. \n\nPrivate inference is a new offering inside OpenAI Private Intelligence to enable users to process inference via their own hosting. \n\nPinference 👀 https://t.co/3kT3ErRxKF https://t.co/wUEt9CYqyz",
+          "text_zh": "OPENAI 🔥：OpenAI 的部分企业客户正在小范围测试全新的 Private Inference。\n\nPrivate Inference 是 OpenAI Private Intelligence 下的新产品，让用户可以在自己的托管环境中完成推理。\n\nPinference 👀",
+          "summary_zh": "TestingCatalog 配图报道 Private Inference 面向企业小范围测试，可在自有托管环境中推理。",
+          "relation_zh": "给出对产品定位的第三方解读，并附界面截图。",
+          "metrics": {
+            "likes": 176,
+            "retweets": 6,
+            "replies": 18,
+            "quotes": 0,
+            "bookmarks": 19,
+            "views": 14100
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1290,
+              "h": 1290,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HX_M71xWEAAP6PQ.jpg",
+              "src": null
+            },
+            {
+              "type": "photo",
+              "w": 400,
+              "h": 400,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HX_M71wW0AAR0uU.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo",
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-26T02:28:24.598017+00:00"
+        },
+        {
+          "id": "2125709655506866269",
+          "url": "https://x.com/dalexeenko/status/2125709655506866269",
+          "handle": "dalexeenko",
+          "display_name": "Dmitry Alexeenko",
+          "avatar": "https://pbs.twimg.com/profile_images/677606376164618241/ffS2837-_normal.jpg",
+          "verified": false,
+          "followers": 3720,
+          "created_at": "2026-11-25T21:54:10.000Z",
+          "lang": null,
+          "text": "Two months in at @OpenAI. My team worked with @shekar4x on Private Inference -- and it's awesome to see the first customers trying it out.\n\nOne of the harder questions that we work on day in and day out is how to keep a super high safety bar while preserving stronger privacy https://t.co/vEHLHAtskM",
+          "text_zh": "入职 OpenAI 两个月。我的团队和 @shekar4x 一起做了 Private Inference，很高兴看到第一批客户开始试用。\n\n我们每天都在面对的难题之一，就是如何在保持极高安全标准的同时，提供更强的隐私保护……",
+          "summary_zh": "OpenAI 内部参与者发帖，说明 Private Inference 要在高安全标准与更强隐私之间取得平衡。",
+          "relation_zh": "来自项目团队成员的一手说法，补充设计目标。",
+          "metrics": {
+            "likes": 36,
+            "retweets": 0,
+            "replies": 5,
+            "quotes": 0,
+            "bookmarks": 3,
+            "views": 1929
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-26T02:28:24.598026+00:00"
+        },
+        {
+          "id": "2125683889750650999",
+          "url": "https://x.com/julian_inada/status/2125683889750650999",
+          "handle": "julian_inada",
+          "display_name": "Julian · Media AI",
+          "avatar": "https://pbs.twimg.com/profile_images/2003361573558235136/jIbBCGc8_normal.jpg",
+          "verified": false,
+          "followers": 29,
+          "created_at": "2026-11-25T20:11:47.000Z",
+          "lang": null,
+          "text": "OpenAI is now testing Private Inference with a small group of customers: it is not generally released, and the weights are not yours to run.\n\n• Sam Altman said OpenAI is testing Private Inference, its latest offering under OpenAI Private Intelligence, with a small group of https://t.co/63vKrkN53u",
+          "text_zh": "OpenAI 正在小范围客户中测试 Private Inference：目前尚未全面开放，而且模型权重并不归你运行。\n\n• Sam Altman 表示，OpenAI 正在测试 Private Inference，这是 OpenAI Private Intelligence 下的最新产品……",
+          "summary_zh": "配图梳理 Private Inference 仍在小范围测试、权重不交给客户的要点。",
+          "relation_zh": "点出该方案与自行托管开源权重的边界。",
+          "metrics": {
+            "likes": 0,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 25
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1920,
+              "h": 1080,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HX_yN49bYAAPkHw.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-26T02:28:24.598031+00:00"
+        }
+      ]
     },
     {
       "id": "2125658708357128703",
@@ -1225,7 +1583,124 @@
       "is_article": false,
       "external_url": null,
       "note_tweet": null,
-      "x_long": false
+      "x_long": false,
+      "attached_posts": [
+        {
+          "id": "2125202981092249643",
+          "url": "https://x.com/ppmmzzcn/status/2125202981092249643",
+          "handle": "ppmmzzcn",
+          "display_name": "AI观察者 | 平行世界",
+          "avatar": "https://pbs.twimg.com/profile_images/2066458806889168896/ZrxfAEuh_normal.jpg",
+          "verified": false,
+          "followers": 2078,
+          "created_at": "2026-11-24T12:20:49.000Z",
+          "lang": "zh",
+          "text": "💡【知乎热榜】如何看待Anthropic数学家Alpöge称黎曼猜想25万页证明是玩笑，Lean代码是垃圾但能编译？\n\nAnthropic数学家Levent Alpöge宣称，和Claude合作，六周时间完成了黎曼猜想+广义黎曼猜想的证明。没有传统长篇论文，只放出4页说明，剩下是1700万行Lean形式化证明代码。 https://t.co/SoS2K0g29P",
+          "text_zh": "知乎热榜：如何看待 Anthropic 数学家 Alpöge 称黎曼猜想 25 万页证明是玩笑、Lean 代码是垃圾但能编译？\n\nAnthropic 数学家 Levent Alpöge 宣称，他和 Claude 合作六周完成了黎曼猜想及广义黎曼猜想的证明。没有传统的长篇论文，只放出 4 页说明，其余是 1700 万行 Lean 形式化证明代码。",
+          "summary_zh": "知乎热榜带图梳理 Alpöge 与 Claude 六周完成证明、仅 4 页说明加 1700 万行 Lean 代码的争议。",
+          "relation_zh": "补足原帖压缩前的背景：证明为何只有 4 页说明和海量 Lean 代码。",
+          "metrics": {
+            "likes": 1,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 24
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1232,
+              "h": 534,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HX48wgLboAAHgtb.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-26T02:28:24.597652+00:00"
+        },
+        {
+          "id": "2125074080936411411",
+          "url": "https://x.com/themianoo/status/2125074080936411411",
+          "handle": "themianoo",
+          "display_name": "Mian🍜",
+          "avatar": "https://pbs.twimg.com/profile_images/2116195644696346624/2le7vutk_normal.jpg",
+          "verified": false,
+          "followers": 18569,
+          "created_at": "2026-11-24T03:48:37.000Z",
+          "lang": "zh",
+          "text": "Claude为了证明黎曼猜想，在过程中独立进行了四十多个子命题的证明\n\n一个韩国博主把黎曼猜想证明的1700 万行代码可视化，出现了神奇的形状\n\n这不是艾伦耶格尔吗？所以黎曼猜想什么时候发动地鸣🤷🤷 https://t.co/0VeeJYg9mu",
+          "text_zh": "Claude 为证明黎曼猜想，在过程中独立完成了四十多个子命题的证明。\n\n一位韩国博主把这 1700 万行证明代码可视化，竟出现了一个奇特的形状。\n\n这不是艾伦·耶格尔吗？所以黎曼猜想什么时候发动地鸣🤷🤷",
+          "summary_zh": "配图展示博主把 1700 万行 Lean 证明可视化后的形状，并提到 Claude 独立证明了四十多个子命题。",
+          "relation_zh": "用直观图像说明 1700 万行代码的体量，对照后来压缩到 7.6 万行的意义。",
+          "metrics": {
+            "likes": 10,
+            "retweets": 0,
+            "replies": 8,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 767
+          },
+          "media": [
+            {
+              "type": "photo",
+              "w": 1079,
+              "h": 1395,
+              "alt": null,
+              "orig": "https://pbs.twimg.com/media/HX3Hl6kbcAAHdRw.jpg",
+              "src": null
+            }
+          ],
+          "media_types": [
+            "photo"
+          ],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-26T02:28:24.597719+00:00"
+        },
+        {
+          "id": "2125771053138051471",
+          "url": "https://x.com/JangXiin/status/2125771053138051471",
+          "handle": "JangXiin",
+          "display_name": "Xiin",
+          "avatar": "https://pbs.twimg.com/profile_images/2098606627201159168/ouLepOux_normal.jpg",
+          "verified": false,
+          "followers": 3490,
+          "created_at": "2026-11-26T01:58:08.000Z",
+          "lang": "zh",
+          "text": "黎曼猜想证明的验证可以更进一步了\n\nAnthropic研究员把黎曼猜想的Lean代码从1740万行减少到7.6万行\n\n这大大缩短了人类数学家验证黎曼猜想证明所需的时间\nhttps://t.co/eipPQu1lI2",
+          "text_zh": "黎曼猜想证明的验证又前进了一步。\n\nAnthropic 研究员把黎曼猜想的 Lean 代码从 1740 万行缩减到 7.6 万行，这大大缩短了人类数学家验证证明所需的时间。",
+          "summary_zh": "中文圈转述压缩 Lean 代码至 7.6 万行，将缩短人类验证时间。",
+          "relation_zh": "与原帖说法一致，点明压缩对验证效率的实际意义。",
+          "metrics": {
+            "likes": 11,
+            "retweets": 0,
+            "replies": 12,
+            "quotes": 0,
+            "bookmarks": 0,
+            "views": 151
+          },
+          "media": [],
+          "media_types": [],
+          "links": [],
+          "hashtags": [],
+          "mentions": [],
+          "quoted_post_url": null,
+          "article_title": null,
+          "attached_at": "2026-11-26T02:28:24.597728+00:00"
+        }
+      ]
     },
     {
       "id": "2125579472594223340",
